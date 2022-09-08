@@ -19,7 +19,7 @@ public class DiagramRootPackage : DocumentRootPackage<DiagramPackage>
 | Name | Description |
 | --- | --- |
 | [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | Gets the number of metadata properties. |
-| virtual [DocumentProperties](../../groupdocs.metadata.formats.document/documentrootpackage-1/documentproperties) { get; } |  |
+| virtual [DocumentProperties](../../groupdocs.metadata.formats.document/documentrootpackage-1/documentproperties) { get; } | Gets the native metadata properties presented in the document. |
 | [DocumentStatistics](../../groupdocs.metadata.formats.document/diagramrootpackage/documentstatistics) { get; } | Gets the document statistics package. |
 | [FileType](../../groupdocs.metadata.formats.document/diagramrootpackage/filetype) { get; } | Gets the file type metadata package. (2 properties) |
 | [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | Gets the [`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty) with the specified name. |

@@ -19,7 +19,7 @@ public class ProjectManagementRootPackage : DocumentRootPackage<ProjectManagemen
 | Name | Description |
 | --- | --- |
 | [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | Gets the number of metadata properties. |
-| virtual [DocumentProperties](../../groupdocs.metadata.formats.document/documentrootpackage-1/documentproperties) { get; } |  |
+| virtual [DocumentProperties](../../groupdocs.metadata.formats.document/documentrootpackage-1/documentproperties) { get; } | Gets the native metadata properties presented in the document. |
 | [FileType](../../groupdocs.metadata.common/rootmetadatapackage/filetype) { get; } | Gets the file type metadata package. |
 | [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | Gets the [`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty) with the specified name. |
 | [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | Gets a collection of the metadata property names. |

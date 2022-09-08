@@ -30,7 +30,7 @@ public sealed class TiffLongTag : TiffArrayTag<uint>
 | [TagID](../../groupdocs.metadata.formats.image/tifftag/tagid) { get; } | Gets the tag id. |
 | [Tags](../../groupdocs.metadata.common/metadataproperty/tags) { get; } | Gets a collection of tags associated with the property. |
 | [TagType](../../groupdocs.metadata.formats.image/tifftag/tagtype) { get; } | Gets the type of the tag. |
-| [TagValue](../../groupdocs.metadata.formats.image/tiffarraytag-1/tagvalue) { get; } |  |
+| [TagValue](../../groupdocs.metadata.formats.image/tiffarraytag-1/tagvalue) { get; } | Gets the tag value. |
 | [Value](../../groupdocs.metadata.common/metadataproperty/value) { get; } | Gets the property value. |
 
 ### See Also

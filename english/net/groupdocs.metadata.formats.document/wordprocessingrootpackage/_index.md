@@ -19,7 +19,7 @@ public class WordProcessingRootPackage : DocumentRootPackage<WordProcessingPacka
 | Name | Description |
 | --- | --- |
 | [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | Gets the number of metadata properties. |
-| virtual [DocumentProperties](../../groupdocs.metadata.formats.document/documentrootpackage-1/documentproperties) { get; } |  |
+| virtual [DocumentProperties](../../groupdocs.metadata.formats.document/documentrootpackage-1/documentproperties) { get; } | Gets the native metadata properties presented in the document. |
 | [DocumentStatistics](../../groupdocs.metadata.formats.document/wordprocessingrootpackage/documentstatistics) { get; } | Gets the document statistics package. |
 | [DublinCorePackage](../../groupdocs.metadata.formats.document/wordprocessingrootpackage/dublincorepackage) { get; } | Gets the Dublin Core metadata package extracted from the document. |
 | [FileType](../../groupdocs.metadata.formats.document/wordprocessingrootpackage/filetype) { get; } | Gets the file type metadata package. (2 properties) |

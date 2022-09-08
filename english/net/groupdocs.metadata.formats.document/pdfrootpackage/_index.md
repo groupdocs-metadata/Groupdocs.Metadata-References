@@ -19,7 +19,7 @@ public class PdfRootPackage : DocumentRootPackage<PdfPackage>, IXmp
 | Name | Description |
 | --- | --- |
 | [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | Gets the number of metadata properties. |
-| virtual [DocumentProperties](../../groupdocs.metadata.formats.document/documentrootpackage-1/documentproperties) { get; } |  |
+| virtual [DocumentProperties](../../groupdocs.metadata.formats.document/documentrootpackage-1/documentproperties) { get; } | Gets the native metadata properties presented in the document. |
 | [DocumentStatistics](../../groupdocs.metadata.formats.document/pdfrootpackage/documentstatistics) { get; } | Gets the document statistics package. |
 | [FileType](../../groupdocs.metadata.formats.document/pdfrootpackage/filetype) { get; } | Gets the file type metadata package. (2 properties) |
 | [InspectionPackage](../../groupdocs.metadata.formats.document/pdfrootpackage/inspectionpackage) { get; } | Gets a metadata package containing inspection results for the document. The package contains information about document parts that can be considered as metadata in some cases. |
