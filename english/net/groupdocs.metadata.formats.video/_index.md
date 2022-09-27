@@ -1,0 +1,62 @@
+---
+title: GroupDocs.Metadata.Formats.Video
+second_title: GroupDocs.Metadata for .NET API Reference
+description: The namespace contains classes for working with the most popular video formats.
+type: docs
+weight: 170
+url: /net/groupdocs.metadata.formats.video/
+---
+The namespace contains classes for working with the most popular video formats.
+
+## Classes
+
+| Class | Description |
+| --- | --- |
+| [AsfAudioStreamProperty](./asfaudiostreamproperty) | Represents Audio stream property metadata in the ASF media container. |
+| [AsfBaseDescriptor](./asfbasedescriptor) | Represents an ASF base metadata descriptor object. |
+| [AsfBaseStreamProperty](./asfbasestreamproperty) | Represents base stream property metadata in the ASF media container. |
+| [AsfCodec](./asfcodec) | Represents ASF codec metadata. |
+| [AsfContentDescriptor](./asfcontentdescriptor) | Represents an ASF content descriptor object. |
+| [AsfMetadataDescriptor](./asfmetadatadescriptor) | Represents an ASF metadata descriptor. |
+| [AsfMetadataDescriptorCollection](./asfmetadatadescriptorcollection) | Represents a collection of metadata descriptors. |
+| [AsfPackage](./asfpackage) | Represents native metadata of the ASF media container. |
+| [AsfRootPackage](./asfrootpackage) | Represents the root package allowing working with metadata in an ASF video. |
+| [AsfVideoStreamProperty](./asfvideostreamproperty) | Represents Video stream property metadata in the ASF media container. |
+| [AviHeader](./aviheader) | Represents the AVIMAINHEADER structure in an AVI video. |
+| [AviRootPackage](./avirootpackage) | Represents the root package allowing working with metadata in an AVI video. |
+| [FlvHeader](./flvheader) | Represents a FLV video header. |
+| [FlvRootPackage](./flvrootpackage) | Represents the root package allowing working with metadata in an FLV video. |
+| [MatroskaAudioTrack](./matroskaaudiotrack) | Represents audio metadata in a Matroska video. |
+| [MatroskaBasePackage](./matroskabasepackage) | Provides a base metadata class for all packages extracted from a Matroska video. |
+| [MatroskaEbmlHeader](./matroskaebmlheader) | Represents EBML header metadata in a Matroska video. |
+| [MatroskaPackage](./matroskapackage) | Represents a metadata container in a Matroska video. |
+| [MatroskaRootPackage](./matroskarootpackage) | Represents the root package allowing working with metadata in a Matroska video. |
+| [MatroskaSegment](./matroskasegment) | Represents a SEGMENTINFO element containing general information about the SEGMENT in a Matroska video. |
+| [MatroskaSimpleTag](./matroskasimpletag) | Represents general information about the target in a Matroska video. |
+| [MatroskaSubtitle](./matroskasubtitle) | Represents subtitle metadata in a Matroska video. |
+| [MatroskaSubtitleTrack](./matroskasubtitletrack) | Represents subtitle metadata in a Matroska video. |
+| [MatroskaTag](./matroskatag) | Represents metadata describing Tracks, Editions, Chapters, Attachments, or the Segment as a whole in a Matroska video. |
+| [MatroskaTrack](./matroskatrack) | Represents track metadata in a Matroska video. |
+| [MatroskaVideoTrack](./matroskavideotrack) | Represents video metadata in a Matroska video. |
+| [MovAtom](./movatom) | Represents a QuickTime atom. |
+| [MovPackage](./movpackage) | Represents QuickTime metadata. |
+| [MovRootPackage](./movrootpackage) | Represents the root package allowing working with metadata in a QuickTime video. |
+## Enumeration
+
+| Enumeration | Description |
+| --- | --- |
+| [AsfCodecType](./asfcodectype) | Defines ASF codec types. |
+| [AsfDescriptorType](./asfdescriptortype) | Defines ASF descriptor types. |
+| [AsfExtendedStreamPropertyFlags](./asfextendedstreampropertyflags) | Defines ASF extended stream property flags. |
+| [AsfFilePropertyFlags](./asffilepropertyflags) | Defines ASF file property flags. |
+| [AsfStreamType](./asfstreamtype) | Defines ASF stream types. |
+| [AviHeaderFlags](./aviheaderflags) | Represents AVI Header flags. |
+| [MatroskaContentType](./matroskacontenttype) | Represents a Matroska content type. |
+| [MatroskaTargetTypeValue](./matroskatargettypevalue) | Represents a number to indicate the logical level of the Matroska tag target. |
+| [MatroskaTrackType](./matroskatracktype) | Represents Matroska track types coded in 8 bits. |
+| [MatroskaVideoDisplayUnit](./matroskavideodisplayunit) | Defines how Matroska DisplayWidth and DisplayHeight are interpreted. |
+| [MatroskaVideoFieldOrder](./matroskavideofieldorder) | Represents the field ordering of the Matroska video. If FlagInterlaced is not set to 1, this Element MUST be ignored. |
+| [MatroskaVideoFlagInterlaced](./matroskavideoflaginterlaced) | Represents a flag to declare if the Matroska video is known to be progressive or interlaced and if applicable to declare details about the interlacement. |
+| [MatroskaVideoStereoMode](./matroskavideostereomode) | Represents Matroska Stereo-3D video modes. |
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.metadata.dll -->

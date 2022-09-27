@@ -1,0 +1,66 @@
+---
+title: DicomPackage
+second_title: GroupDocs.Metadata for .NET API Reference
+description: Represents native DICOM metadata.
+type: docs
+weight: 1660
+url: /net/groupdocs.metadata.formats.image/dicompackage/
+---
+## DicomPackage class
+
+Represents native DICOM metadata.
+
+```csharp
+public sealed class DicomPackage : CustomPackage
+```
+
+## Constructors
+
+| Name | Description |
+| --- | --- |
+| [DicomPackage](dicompackage)() | Initializes a new instance of the [`Metadata`](../../groupdocs.metadata/metadata) class. |
+
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [BitsAllocated](../../groupdocs.metadata.formats.image/dicompackage/bitsallocated) { get; } | Gets the bits allocated value. |
+| [Blues](../../groupdocs.metadata.formats.image/dicompackage/blues) { get; } | Gets the array colors of the blue. |
+| [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | Gets the number of metadata properties. |
+| [DicomInfo](../../groupdocs.metadata.formats.image/dicompackage/dicominfo) { get; } | Gets the header information of the DICOM file. |
+| [Greens](../../groupdocs.metadata.formats.image/dicompackage/greens) { get; } | Gets the array colors of the green. |
+| [HeaderBytes](../../groupdocs.metadata.formats.image/dicompackage/headerbytes) { get; } | Gets the header information by bytes. |
+| [HeaderOffset](../../groupdocs.metadata.formats.image/dicompackage/headeroffset) { get; } | Gets the header offset. |
+| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | Gets the [`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty) with the specified name. |
+| [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | Gets a collection of the metadata property names. |
+| [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | Gets the metadata type. |
+| [NumberOfFrames](../../groupdocs.metadata.formats.image/dicompackage/numberofframes) { get; } | Gets the number of frames. |
+| [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | Gets a collection of descriptors that contain information about properties accessible through the GroupDocs.Metadata search engine. |
+| [Reds](../../groupdocs.metadata.formats.image/dicompackage/reds) { get; } | Gets the array colors of the red. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [AddProperties](../../groupdocs.metadata.common/metadatapackage/addproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Adds known metadata properties satisfying the specified predicate. The operation is recursive so it affects all nested packages as well. |
+| [Contains](../../groupdocs.metadata.common/metadatapackage/contains)(string) | Determines whether the package contains a metadata property with the specified name. |
+| virtual [FindProperties](../../groupdocs.metadata.common/metadatapackage/findproperties)(Func&lt;MetadataProperty, bool&gt;) | Finds the metadata properties satisfying the specified predicate. The search is recursive so it affects all nested packages as well. |
+| [GetEnumerator](../../groupdocs.metadata.common/metadatapackage/getenumerator)() | Returns an enumerator that iterates through the collection. |
+| virtual [RemoveProperties](../../groupdocs.metadata.common/metadatapackage/removeproperties)(Func&lt;MetadataProperty, bool&gt;) | Removes metadata properties satisfying the specified predicate. |
+| virtual [Sanitize](../../groupdocs.metadata.common/metadatapackage/sanitize)() | Removes writable metadata properties from the package. The operation is recursive so it affects all nested packages as well. |
+| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Sets known metadata properties satisfying the specified predicate. The operation is recursive so it affects all nested packages as well. This method is a combination of [`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties) and [`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties). If an existing property satisfies the predicate its value is updated. If there is a known property missing in the package that satisfies the predicate it is added to the package. |
+| [UpdateProperties](../../groupdocs.metadata.common/metadatapackage/updateproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Updates known metadata properties satisfying the specified predicate. The operation is recursive so it affects all nested packages as well. |
+
+### Remarks
+
+**Learn more**
+
+* [Working with DICOM metadata](https://docs.groupdocs.com/display/metadatanet/Working+with+DICOM+metadata)
+
+### See Also
+
+* class [CustomPackage](../../groupdocs.metadata.common/custompackage)
+* namespace [GroupDocs.Metadata.Formats.Image](../../groupdocs.metadata.formats.image)
+* assembly [GroupDocs.Metadata](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.metadata.dll -->
