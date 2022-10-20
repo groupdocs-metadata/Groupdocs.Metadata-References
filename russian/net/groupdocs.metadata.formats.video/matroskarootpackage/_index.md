@@ -1,0 +1,75 @@
+---
+title: MatroskaRootPackage
+second_title: Справочник по API GroupDocs.Metadata для .NET
+description: Представляет корневой пакет позволяющий работать с метаданными в видео Matroska.
+type: docs
+weight: 2480
+url: /ru/net/groupdocs.metadata.formats.video/matroskarootpackage/
+---
+## MatroskaRootPackage class
+
+Представляет корневой пакет, позволяющий работать с метаданными в видео Matroska.
+
+```csharp
+public class MatroskaRootPackage : RootMetadataPackage
+```
+
+## Характеристики
+
+| Имя | Описание |
+| --- | --- |
+| [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | Получает количество свойств метаданных. |
+| [FileType](../../groupdocs.metadata.common/rootmetadatapackage/filetype) { get; } | Получает пакет метаданных типа файла. |
+| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | Получает[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty) с указанным именем. |
+| [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | Получает коллекцию имен свойств метаданных. |
+| [MatroskaPackage](../../groupdocs.metadata.formats.video/matroskarootpackage/matroskapackage) { get; } | Получает пакет метаданных Matroska. |
+| [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | Получает тип метаданных. |
+| [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | Получает набор дескрипторов, содержащих информацию о свойствах, доступных через поисковую систему GroupDocs.Metadata. |
+
+## Методы
+
+| Имя | Описание |
+| --- | --- |
+| [AddProperties](../../groupdocs.metadata.common/metadatapackage/addproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Добавляет известные свойства метаданных, удовлетворяющие указанному предикату. Операция является рекурсивной, поэтому она также влияет на все вложенные пакеты. |
+| [Contains](../../groupdocs.metadata.common/metadatapackage/contains)(string) | Определяет, содержит ли пакет свойство метаданных с указанным именем. |
+| virtual [FindProperties](../../groupdocs.metadata.common/metadatapackage/findproperties)(Func&lt;MetadataProperty, bool&gt;) | Находит свойства метаданных, удовлетворяющие указанному предикату. Поиск является рекурсивным, поэтому он затрагивает также все вложенные пакеты. |
+| [GetEnumerator](../../groupdocs.metadata.common/metadatapackage/getenumerator)() | Возвращает перечислитель, который выполняет итерацию по коллекции. |
+| virtual [RemoveProperties](../../groupdocs.metadata.common/metadatapackage/removeproperties)(Func&lt;MetadataProperty, bool&gt;) | Удаляет свойства метаданных, удовлетворяющие указанному предикату. |
+| override [Sanitize](../../groupdocs.metadata.common/rootmetadatapackage/sanitize)() | Удаляет доступные для записи свойства метаданных из пакета. Операция является рекурсивной, поэтому она также влияет на все вложенные пакеты. |
+| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Устанавливает известные свойства метаданных, удовлетворяющие указанному предикату. Операция является рекурсивной, поэтому она влияет также на все вложенные пакеты. Этот метод представляет собой комбинацию[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties) а также[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) Если существующее свойство удовлетворяет предикату, его значение обновляется. Если в пакете отсутствует известное свойство, удовлетворяющее предикату, оно добавляется в пакет. |
+| [UpdateProperties](../../groupdocs.metadata.common/metadatapackage/updateproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Обновляет известные свойства метаданных, удовлетворяющие указанному предикату. Операция является рекурсивной, поэтому она также влияет на все вложенные пакеты. |
+
+### Примечания
+
+**Учить больше**
+
+* [Работа с метаданными в файлах Matroska (MKV)](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+Matroska+%28MKV%29+files)
+
+### Примеры
+
+В этом примере показано, как извлечь субтитры из видео MKV.
+
+```csharp
+using (Metadata metadata = new Metadata(Constants.MkvWithSubtitles))
+{
+    var root = metadata.GetRootPackage<MatroskaRootPackage>();
+
+    foreach (var subtitleTrack in root.MatroskaPackage.SubtitleTracks)
+    {
+        Console.WriteLine(subtitleTrack.LanguageIetf ?? subtitleTrack.Language);
+        foreach (MatroskaSubtitle subtitle in subtitleTrack.Subtitles)
+        {
+            Console.WriteLine("Timecode={0}, Duration={1}", subtitle.Timecode, subtitle.Duration);
+            Console.WriteLine(subtitle.Text);
+        }
+    }
+}
+```
+
+### Смотрите также
+
+* class [RootMetadataPackage](../../groupdocs.metadata.common/rootmetadatapackage)
+* пространство имен [GroupDocs.Metadata.Formats.Video](../../groupdocs.metadata.formats.video)
+* сборка [GroupDocs.Metadata](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.Metadata.dll -->
