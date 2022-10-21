@@ -1,0 +1,29 @@
+---
+title: DisposableWrapper
+second_title: GroupDocs.Metadata for Java API Reference
+description: 
+type: docs
+weight: 47
+url: /java/com.groupdocs.metadata.core/disposablewrapper/
+---
+**Inheritance:**
+java.lang.Object
+
+**All Implemented Interfaces:**
+com.aspose.ms.System.IDisposable
+```
+public abstract class DisposableWrapper<T> implements System.IDisposable
+```
+## Methods
+
+| Method | Description |
+| --- | --- |
+| [dispose()](#dispose--) |  |
+### dispose() {#dispose--}
+```
+public void dispose()
+```
+
+
+
+
