@@ -1,0 +1,52 @@
+---
+title: PngInternationalTextChunk
+second_title: Справочник по API GroupDocs.Metadata для .NET
+description: Представляет международные текстовые данные извлеченные из изображения PNG.
+type: docs
+weight: 1840
+url: /ru/net/groupdocs.metadata.formats.image/pnginternationaltextchunk/
+---
+## PngInternationalTextChunk class
+
+Представляет международные текстовые данные, извлеченные из изображения PNG.
+
+```csharp
+public class PngInternationalTextChunk : PngCompressedTextChunk
+```
+
+## Характеристики
+
+| Имя | Описание |
+| --- | --- |
+| [CompressionMethod](../../groupdocs.metadata.formats.image/pngcompressedtextchunk/compressionmethod) { get; } | Получает алгоритм, используемый для сжатия данных фрагмента. |
+| [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | Получает количество свойств метаданных. |
+| [IsCompressed](../../groupdocs.metadata.formats.image/pnginternationaltextchunk/iscompressed) { get; } | Получает значение, указывающее, сжат ли фрагмент. |
+| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | Получает[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty) с указанным именем. |
+| [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | Получает коллекцию имен свойств метаданных. |
+| [Keyword](../../groupdocs.metadata.formats.image/pngtextchunk/keyword) { get; } | Получает ключевое слово, указывающее тип информации, представленной фрагментом. |
+| [Language](../../groupdocs.metadata.formats.image/pnginternationaltextchunk/language) { get; } | Получает человеческий язык, используемый переведенным ключевым словом и текстом. |
+| [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | Получает тип метаданных. |
+| [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | Получает набор дескрипторов, содержащих информацию о свойствах, доступных через поисковую систему GroupDocs.Metadata. |
+| [Text](../../groupdocs.metadata.formats.image/pngtextchunk/text) { get; } | Получает фактическую текстовую строку, представленную фрагментом. |
+| [TranslatedKeyword](../../groupdocs.metadata.formats.image/pnginternationaltextchunk/translatedkeyword) { get; } | Получает переведенное ключевое слово, содержащее перевод ключевого слова на язык, указанный в свойстве языка. |
+
+## Методы
+
+| Имя | Описание |
+| --- | --- |
+| [AddProperties](../../groupdocs.metadata.common/metadatapackage/addproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Добавляет известные свойства метаданных, удовлетворяющие указанному предикату. Операция является рекурсивной, поэтому она также влияет на все вложенные пакеты. |
+| [Contains](../../groupdocs.metadata.common/metadatapackage/contains)(string) | Определяет, содержит ли пакет свойство метаданных с указанным именем. |
+| virtual [FindProperties](../../groupdocs.metadata.common/metadatapackage/findproperties)(Func&lt;MetadataProperty, bool&gt;) | Находит свойства метаданных, удовлетворяющие указанному предикату. Поиск является рекурсивным, поэтому он затрагивает также все вложенные пакеты. |
+| [GetEnumerator](../../groupdocs.metadata.common/metadatapackage/getenumerator)() | Возвращает перечислитель, который выполняет итерацию по коллекции. |
+| virtual [RemoveProperties](../../groupdocs.metadata.common/metadatapackage/removeproperties)(Func&lt;MetadataProperty, bool&gt;) | Удаляет свойства метаданных, удовлетворяющие указанному предикату. |
+| virtual [Sanitize](../../groupdocs.metadata.common/metadatapackage/sanitize)() | Удаляет доступные для записи свойства метаданных из пакета. Операция является рекурсивной, поэтому она также влияет на все вложенные пакеты. |
+| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Устанавливает известные свойства метаданных, удовлетворяющие указанному предикату. Операция является рекурсивной, поэтому она влияет также на все вложенные пакеты. Этот метод представляет собой комбинацию[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties) а также[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) Если существующее свойство удовлетворяет предикату, его значение обновляется. Если в пакете отсутствует известное свойство, удовлетворяющее предикату, оно добавляется в пакет. |
+| [UpdateProperties](../../groupdocs.metadata.common/metadatapackage/updateproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Обновляет известные свойства метаданных, удовлетворяющие указанному предикату. Операция является рекурсивной, поэтому она также влияет на все вложенные пакеты. |
+
+### Смотрите также
+
+* class [PngCompressedTextChunk](../pngcompressedtextchunk)
+* пространство имен [GroupDocs.Metadata.Formats.Image](../../groupdocs.metadata.formats.image)
+* сборка [GroupDocs.Metadata](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.Metadata.dll -->
