@@ -1,0 +1,59 @@
+---
+title: MovAtom
+second_title: Referencia de API de GroupDocs.Metadata para .NET
+description: Representa un átomo de QuickTime.
+type: docs
+weight: 2620
+url: /es/net/groupdocs.metadata.formats.video/movatom/
+---
+## MovAtom class
+
+Representa un átomo de QuickTime.
+
+```csharp
+public sealed class MovAtom : CustomPackage
+```
+
+## Propiedades
+
+| Nombre | Descripción |
+| --- | --- |
+| [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | Obtiene el número de propiedades de metadatos. |
+| [DataOffset](../../groupdocs.metadata.formats.video/movatom/dataoffset) { get; } | Obtiene el desplazamiento de datos. |
+| [DataSize](../../groupdocs.metadata.formats.video/movatom/datasize) { get; } | Obtiene el tamaño de los datos en bytes. |
+| [HasExtendedSize](../../groupdocs.metadata.formats.video/movatom/hasextendedsize) { get; } | Obtiene un valor que indica si el campo de tamaño extendido se usó para almacenar los datos del átomo. |
+| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | Obtiene el[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty) con el nombre especificado. |
+| [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | Obtiene una colección de nombres de propiedades de metadatos. |
+| [LongSize](../../groupdocs.metadata.formats.video/movatom/longsize) { get; } | Obtiene el tamaño del átomo en bytes. |
+| [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | Obtiene el tipo de metadato. |
+| [Offset](../../groupdocs.metadata.formats.video/movatom/offset) { get; } | Obtiene el desplazamiento del átomo. |
+| [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | Obtiene una colección de descriptores que contienen información sobre propiedades accesibles a través del motor de búsqueda GroupDocs.Metadata. |
+| [Size](../../groupdocs.metadata.formats.video/movatom/size) { get; } | Obtiene el tamaño del átomo en bytes. |
+| [Type](../../groupdocs.metadata.formats.video/movatom/type) { get; } | Obtiene el tipo de 4 caracteres. |
+
+## Métodos
+
+| Nombre | Descripción |
+| --- | --- |
+| [AddProperties](../../groupdocs.metadata.common/metadatapackage/addproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Agrega propiedades de metadatos conocidas que satisfacen el predicado especificado. La operación es recursiva, por lo que también afecta a todos los paquetes anidados. |
+| [Contains](../../groupdocs.metadata.common/metadatapackage/contains)(string) | Determina si el paquete contiene una propiedad de metadatos con el nombre especificado. |
+| virtual [FindProperties](../../groupdocs.metadata.common/metadatapackage/findproperties)(Func&lt;MetadataProperty, bool&gt;) | Encuentra las propiedades de metadatos que satisfacen el predicado especificado. La búsqueda es recursiva, por lo que también afecta a todos los paquetes anidados. |
+| [GetEnumerator](../../groupdocs.metadata.common/metadatapackage/getenumerator)() | Devuelve un enumerador que itera a través de la colección. |
+| virtual [RemoveProperties](../../groupdocs.metadata.common/metadatapackage/removeproperties)(Func&lt;MetadataProperty, bool&gt;) | Elimina las propiedades de metadatos que cumplen el predicado especificado. |
+| virtual [Sanitize](../../groupdocs.metadata.common/metadatapackage/sanitize)() | Elimina las propiedades de metadatos de escritura del paquete. La operación es recursiva, por lo que también afecta a todos los paquetes anidados. |
+| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Establece propiedades de metadatos conocidas que satisfacen el predicado especificado. La operación es recursiva, por lo que también afecta a todos los paquetes anidados. Este método es una combinación de[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties) y[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) Si una propiedad existente satisface el predicado, su valor se actualiza. Si falta una propiedad conocida en el paquete que satisface el predicado, se agrega al paquete. |
+| [UpdateProperties](../../groupdocs.metadata.common/metadatapackage/updateproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Actualiza las propiedades de metadatos conocidas que satisfacen el predicado especificado. La operación es recursiva, por lo que también afecta a todos los paquetes anidados. |
+
+### Observaciones
+
+**Aprende más**
+
+* [Trabajar con metadatos en archivos MOV](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+MOV+Files)
+
+### Ver también
+
+* class [CustomPackage](../../groupdocs.metadata.common/custompackage)
+* espacio de nombres [GroupDocs.Metadata.Formats.Video](../../groupdocs.metadata.formats.video)
+* asamblea [GroupDocs.Metadata](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.Metadata.dll -->
