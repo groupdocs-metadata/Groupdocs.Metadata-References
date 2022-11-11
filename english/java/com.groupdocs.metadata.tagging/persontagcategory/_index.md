@@ -24,6 +24,8 @@ Provides tags that mark metadata properties holding information about the people
 | [getClient()](#getClient--) | Gets the tag that labels information about the client for whom the file/intellectual content was created. |
 | [getManager()](#getManager--) | Gets the tag that labels information about a person who managed the making process of a file. |
 | [getPublisher()](#getPublisher--) | Gets the tag marking a person responsible for making the file available. |
+| [getArtist()](#getArtist--) | Gets the tag that denotes the original performer of a file. |
+| [getRecipient()](#getRecipient--) | Gets the tag that denotes the original recipients of a mail. |
 ### getCreator() {#getCreator--}
 ```
 public final PropertyTag getCreator()
@@ -94,3 +96,23 @@ Gets the tag marking a person responsible for making the file available.
 
 **Returns:**
 [PropertyTag](../../com.groupdocs.metadata.tagging/propertytag) - The tag marking a person responsible for making the file available.
+### getArtist() {#getArtist--}
+```
+public final PropertyTag getArtist()
+```
+
+
+Gets the tag that denotes the original performer of a file.
+
+**Returns:**
+[PropertyTag](../../com.groupdocs.metadata.tagging/propertytag) - The tag that denotes the original performer of a file.
+### getRecipient() {#getRecipient--}
+```
+public final PropertyTag getRecipient()
+```
+
+
+Gets the tag that denotes the original recipients of a mail.
+
+**Returns:**
+[PropertyTag](../../com.groupdocs.metadata.tagging/propertytag) - The tag that denotes the original recipients of a mail.

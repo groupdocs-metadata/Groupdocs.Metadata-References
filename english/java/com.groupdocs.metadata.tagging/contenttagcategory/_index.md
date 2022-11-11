@@ -32,6 +32,7 @@ Provides tags that are attached to metadata properties describing the content of
 | [getVersion()](#getVersion--) | Gets the tag labeling the version or revision of a file. |
 | [getSharedDoc()](#getSharedDoc--) | Gets the tag that denotes which is a common document for several manufacturers. |
 | [getHyperlinksChanged()](#getHyperlinksChanged--) | Gets the tag that denotes the indicates that one or more hyperlinks in this part have been updated exclusively in this part by the manufacturer. |
+| [getBody()](#getBody--) | Gets the tag that denotes the body of a email file. |
 ### getDescription() {#getDescription--}
 ```
 public final PropertyTag getDescription()
@@ -182,3 +183,13 @@ Gets the tag that denotes the indicates that one or more hyperlinks in this part
 
 **Returns:**
 [PropertyTag](../../com.groupdocs.metadata.tagging/propertytag) - The tag that denotes indicates that one or more hyperlinks in this part have been updated exclusively in this part by the manufacturer.
+### getBody() {#getBody--}
+```
+public final PropertyTag getBody()
+```
+
+
+Gets the tag that denotes the body of a email file.
+
+**Returns:**
+[PropertyTag](../../com.groupdocs.metadata.tagging/propertytag) - The tag that denotes the body of a email file.
