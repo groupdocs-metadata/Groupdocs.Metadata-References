@@ -1,0 +1,59 @@
+---
+title: TorrentPackage
+second_title: GroupDocs.Metadata لمرجع .NET API
+description: يمثل البيانات الوصفية لملف واصف التورنت. يرجى العثور على مزيد من المعلومات علىhttps//en.wikipedia.org/wiki/Torrent_filehttps//en.wikipedia.org/wiki/Torrent_file .
+type: docs
+weight: 2190
+url: /ar/net/groupdocs.metadata.formats.peer2peer/torrentpackage/
+---
+## TorrentPackage class
+
+يمثل البيانات الوصفية لملف واصف التورنت. يرجى العثور على مزيد من المعلومات على[https://en.wikipedia.org/wiki/Torrent_file](https://en.wikipedia.org/wiki/Torrent_file) .
+
+```csharp
+public sealed class TorrentPackage : CustomPackage
+```
+
+## الخصائص
+
+| اسم | وصف |
+| --- | --- |
+| [Announce](../../groupdocs.metadata.formats.peer2peer/torrentpackage/announce) { get; set; } | الحصول على أو تحديد عنوان URL الخاص بالمتعقب. |
+| [Comment](../../groupdocs.metadata.formats.peer2peer/torrentpackage/comment) { get; set; } | الحصول على تعليق المؤلف أو تعيينه. |
+| [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | الحصول على عدد خصائص البيانات الوصفية. |
+| [CreatedBy](../../groupdocs.metadata.formats.peer2peer/torrentpackage/createdby) { get; set; } | الحصول على أو تحديد اسم وإصدار البرنامج المستخدم لإنشاء التورنت. |
+| [CreationDate](../../groupdocs.metadata.formats.peer2peer/torrentpackage/creationdate) { get; set; } | الحصول على أو تحديد تاريخ إنشاء التورنت. |
+| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | يحصل على ملف[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty) بالاسم المحدد. |
+| [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | الحصول على مجموعة من أسماء خصائص البيانات الوصفية. |
+| [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | الحصول على نوع البيانات الوصفية . |
+| [PieceLength](../../groupdocs.metadata.formats.peer2peer/torrentpackage/piecelength) { get; } | الحصول على عدد البايت في كل قطعة. لمزيد من المعلومات يرجى الاطلاع . |
+| [Pieces](../../groupdocs.metadata.formats.peer2peer/torrentpackage/pieces) { get; } | الحصول على مصفوفة بايت تتكون من تسلسل جميع قيم تجزئة SHA1 المكونة من 20 بايتًا ، واحدة لكل قطعة. |
+| [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | يحصل على مجموعة من الواصفات التي تحتوي على معلومات حول الخصائص التي يمكن الوصول إليها من خلال GroupDocs.Metadata search engine . |
+| [SharedFiles](../../groupdocs.metadata.formats.peer2peer/torrentpackage/sharedfiles) { get; } | يحصل على مصفوفة تحتوي على إدخالات معلومات الملف المشتركة. |
+
+## طُرق
+
+| اسم | وصف |
+| --- | --- |
+| [AddProperties](../../groupdocs.metadata.common/metadatapackage/addproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | يضيف خصائص البيانات الوصفية المعروفة التي تفي بالمسند المحدد . العملية متكررة لذا فهي تؤثر على جميع الحزم المتداخلة أيضًا. |
+| [Contains](../../groupdocs.metadata.common/metadatapackage/contains)(string) | لتحديد ما إذا كانت الحزمة تحتوي على خاصية بيانات التعريف بالاسم المحدد. |
+| virtual [FindProperties](../../groupdocs.metadata.common/metadatapackage/findproperties)(Func&lt;MetadataProperty, bool&gt;) | البحث عن خصائص البيانات الوصفية التي تفي بالمسند المحدد. البحث متكرر لذا فهو يؤثر على جميع الحزم المتداخلة أيضًا. |
+| [GetEnumerator](../../groupdocs.metadata.common/metadatapackage/getenumerator)() | إرجاع عداد يتكرر خلال المجموعة. |
+| virtual [RemoveProperties](../../groupdocs.metadata.common/metadatapackage/removeproperties)(Func&lt;MetadataProperty, bool&gt;) | يزيل خصائص البيانات الوصفية التي تفي بالتقييم المحدد. |
+| virtual [Sanitize](../../groupdocs.metadata.common/metadatapackage/sanitize)() | إزالة خصائص البيانات الوصفية القابلة للكتابة من الحزمة. العملية متكررة لذا فهي تؤثر على جميع الحزم المتداخلة أيضًا. |
+| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | تعيين خصائص البيانات الوصفية المعروفة التي تفي بالمسند المحدد . العملية متكررة لذا فهي تؤثر على جميع الحزم المتداخلة أيضًا.[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties) و[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) إذا كانت خاصية موجودة تحقق القيمة الأصلية ، فسيتم تحديث قيمتها. إذا كانت هناك خاصية معروفة مفقودة في الحزمة التي ترضي المسند ، فستتم إضافتها إلى الحزمة. |
+| [UpdateProperties](../../groupdocs.metadata.common/metadatapackage/updateproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | يقوم بتحديث خصائص البيانات الوصفية المعروفة التي تفي بالمسند المحدد . العملية متكررة لذا فهي تؤثر على جميع الحزم المتداخلة أيضًا. |
+
+### ملاحظات
+
+**يتعلم أكثر**
+
+* [العمل مع ملفات TORRENT](https://docs.groupdocs.com/display/metadatanet/Working+with+TORRENT+files)
+
+### أنظر أيضا
+
+* class [CustomPackage](../../groupdocs.metadata.common/custompackage)
+* مساحة الاسم [GroupDocs.Metadata.Formats.Peer2Peer](../../groupdocs.metadata.formats.peer2peer)
+* المجسم [GroupDocs.Metadata](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.Metadata.dll -->
