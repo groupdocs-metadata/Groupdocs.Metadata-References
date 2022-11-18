@@ -1,0 +1,79 @@
+---
+title: WordProcessingRootPackage
+second_title: GroupDocs.Metadata لمرجع .NET API
+description: يمثل الحزمة الجذرية التي تسمح بالعمل مع البيانات الوصفية في مستند معالجة النصوص.
+type: docs
+weight: 1310
+url: /ar/net/groupdocs.metadata.formats.document/wordprocessingrootpackage/
+---
+## WordProcessingRootPackage class
+
+يمثل الحزمة الجذرية التي تسمح بالعمل مع البيانات الوصفية في مستند معالجة النصوص.
+
+```csharp
+public class WordProcessingRootPackage : DocumentRootPackage<WordProcessingPackage>, IDublinCore
+```
+
+## الخصائص
+
+| اسم | وصف |
+| --- | --- |
+| [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | الحصول على عدد خصائص البيانات الوصفية. |
+| virtual [DocumentProperties](../../groupdocs.metadata.formats.document/documentrootpackage-1/documentproperties) { get; } | الحصول على خصائص البيانات الوصفية الأصلية المعروضة في المستند. |
+| [DocumentStatistics](../../groupdocs.metadata.formats.document/wordprocessingrootpackage/documentstatistics) { get; } | الحصول على حزمة إحصائيات المستند . |
+| [DublinCorePackage](../../groupdocs.metadata.formats.document/wordprocessingrootpackage/dublincorepackage) { get; } | الحصول على حزمة بيانات تعريف دبلن كور المستخرجة من المستند. |
+| [FileType](../../groupdocs.metadata.formats.document/wordprocessingrootpackage/filetype) { get; } | يحصل على حزمة البيانات الوصفية لنوع الملف. (2 properties) |
+| [InspectionPackage](../../groupdocs.metadata.formats.document/wordprocessingrootpackage/inspectionpackage) { get; } | يحصل على حزمة بيانات وصفية تحتوي على نتائج استقصاء للمستند . تحتوي الحزمة على معلومات حول أجزاء المستند التي يمكن اعتبارها بيانات وصفية في بعض الحالات. |
+| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | يحصل على ملف[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty) بالاسم المحدد. |
+| [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | الحصول على مجموعة من أسماء خصائص البيانات الوصفية. |
+| [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | الحصول على نوع البيانات الوصفية . |
+| [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | يحصل على مجموعة من الواصفات التي تحتوي على معلومات حول الخصائص التي يمكن الوصول إليها من خلال GroupDocs.Metadata search engine . |
+
+## طُرق
+
+| اسم | وصف |
+| --- | --- |
+| [AddProperties](../../groupdocs.metadata.common/metadatapackage/addproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | يضيف خصائص البيانات الوصفية المعروفة التي تفي بالمسند المحدد . العملية متكررة لذا فهي تؤثر على جميع الحزم المتداخلة أيضًا. |
+| [Contains](../../groupdocs.metadata.common/metadatapackage/contains)(string) | لتحديد ما إذا كانت الحزمة تحتوي على خاصية بيانات التعريف بالاسم المحدد. |
+| virtual [FindProperties](../../groupdocs.metadata.common/metadatapackage/findproperties)(Func&lt;MetadataProperty, bool&gt;) | البحث عن خصائص البيانات الوصفية التي تفي بالمسند المحدد. البحث متكرر لذا فهو يؤثر على جميع الحزم المتداخلة أيضًا. |
+| [GetEnumerator](../../groupdocs.metadata.common/metadatapackage/getenumerator)() | إرجاع عداد يتكرر خلال المجموعة. |
+| virtual [RemoveProperties](../../groupdocs.metadata.common/metadatapackage/removeproperties)(Func&lt;MetadataProperty, bool&gt;) | يزيل خصائص البيانات الوصفية التي تفي بالتقييم المحدد. |
+| override [Sanitize](../../groupdocs.metadata.common/rootmetadatapackage/sanitize)() | إزالة خصائص البيانات الوصفية القابلة للكتابة من الحزمة. العملية متكررة لذا فهي تؤثر على جميع الحزم المتداخلة أيضًا. |
+| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | تعيين خصائص البيانات الوصفية المعروفة التي تفي بالمسند المحدد . العملية متكررة لذا فهي تؤثر على جميع الحزم المتداخلة أيضًا.[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties) و[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) إذا كانت خاصية موجودة تحقق القيمة الأصلية ، فسيتم تحديث قيمتها. إذا كانت هناك خاصية معروفة مفقودة في الحزمة التي ترضي المسند ، فستتم إضافتها إلى الحزمة. |
+| [UpdateDocumentStatistics](../../groupdocs.metadata.formats.document/wordprocessingrootpackage/updatedocumentstatistics)() | إعادة حساب عدد الصفحات والفقرات والكلمات والأسطر والأحرف في المستند وتحديث حزم البيانات الوصفية المناسبة. |
+| [UpdateProperties](../../groupdocs.metadata.common/metadatapackage/updateproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | يقوم بتحديث خصائص البيانات الوصفية المعروفة التي تفي بالمسند المحدد . العملية متكررة لذا فهي تؤثر على جميع الحزم المتداخلة أيضًا. |
+
+### ملاحظات
+
+**يتعلم أكثر**
+
+* [التعامل مع البيانات الوصفية في مستندات WordProcessing](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+WordProcessing+documents)
+
+### أمثلة
+
+يوضح نموذج التعليمات البرمجية هذا كيفية قراءة خصائص بيانات التعريف المضمنة لمستند معالجة Word.
+
+```csharp
+using (Metadata metadata = new Metadata(Constants.InputDocx))
+{
+    var root = metadata.GetRootPackage<WordProcessingRootPackage>();
+
+    Console.WriteLine(root.DocumentProperties.Author);
+    Console.WriteLine(root.DocumentProperties.CreatedTime);
+    Console.WriteLine(root.DocumentProperties.Company);
+    Console.WriteLine(root.DocumentProperties.Category);
+    Console.WriteLine(root.DocumentProperties.Keywords);
+
+    // ... 
+}
+```
+
+### أنظر أيضا
+
+* class [DocumentRootPackage&lt;TPackage&gt;](../documentrootpackage-1)
+* class [WordProcessingPackage](../wordprocessingpackage)
+* interface [IDublinCore](../../groupdocs.metadata.standards.dublincore/idublincore)
+* مساحة الاسم [GroupDocs.Metadata.Formats.Document](../../groupdocs.metadata.formats.document)
+* المجسم [GroupDocs.Metadata](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.Metadata.dll -->

@@ -1,0 +1,167 @@
+---
+title: Metadata
+second_title: GroupDocs.Metadata لمرجع .NET API
+description: يقوم بتهيئة مثيل جديد لملفMetadatagroupdocs.metadata/metadata فئة .
+type: docs
+weight: 10
+url: /ar/net/groupdocs.metadata/metadata/metadata/
+---
+## Metadata(string) {#constructor_2}
+
+يقوم بتهيئة مثيل جديد لملف[`Metadata`](../../metadata) فئة .
+
+```csharp
+public Metadata(string filePath)
+```
+
+| معامل | يكتب | وصف |
+| --- | --- | --- |
+| filePath | String | سلسلة تحتوي على الاسم الكامل للملف المراد إنشاء ملف[`Metadata`](../../metadata) نموذج. |
+
+### ملاحظات
+
+**يتعلم أكثر**
+
+* [تحميل من قرص محلي](https://docs.groupdocs.com/display/metadatanet/Load+from+a+local+disk)
+* [تحميل من تيار](https://docs.groupdocs.com/display/metadatanet/Load+from+a+stream)
+* [قم بتحميل ملف بتنسيق معين](https://docs.groupdocs.com/display/metadatanet/Load+a+file+of+a+specific+format)
+* [قم بتحميل مستند محمي بكلمة مرور](https://docs.groupdocs.com/display/metadatanet/Load+a+password-protected+document)
+
+### أمثلة
+
+يوضح هذا المثال كيفية تحميل ملف من قرص محلي.
+
+```csharp
+using (Metadata metadata = new Metadata(Constants.InputOne))
+{
+    // استخراج أو تحرير أو إزالة البيانات الوصفية هنا
+}
+```
+
+### أنظر أيضا
+
+* class [Metadata](../../metadata)
+* مساحة الاسم [GroupDocs.Metadata](../../metadata)
+* المجسم [GroupDocs.Metadata](../../../)
+
+---
+
+## Metadata(Stream) {#constructor}
+
+يقوم بتهيئة مثيل جديد لملف[`Metadata`](../../metadata) فئة .
+
+```csharp
+public Metadata(Stream document)
+```
+
+| معامل | يكتب | وصف |
+| --- | --- | --- |
+| document | Stream | دفق يحتوي على المستند المراد تحميله. |
+
+### ملاحظات
+
+**يتعلم أكثر**
+
+* [تحميل من قرص محلي](https://docs.groupdocs.com/display/metadatanet/Load+from+a+local+disk)
+* [تحميل من تيار](https://docs.groupdocs.com/display/metadatanet/Load+from+a+stream)
+* [قم بتحميل ملف بتنسيق معين](https://docs.groupdocs.com/display/metadatanet/Load+a+file+of+a+specific+format)
+* [قم بتحميل مستند محمي بكلمة مرور](https://docs.groupdocs.com/display/metadatanet/Load+a+password-protected+document)
+
+### أمثلة
+
+يوضح هذا المثال كيفية تحميل ملف من دفق.
+
+```csharp
+using (Stream stream = File.Open(Constants.InputDoc, FileMode.Open, FileAccess.ReadWrite))
+using (Metadata metadata = new Metadata(stream))
+{
+   // استخراج أو تحرير أو إزالة البيانات الوصفية هنا
+}
+```
+
+### أنظر أيضا
+
+* class [Metadata](../../metadata)
+* مساحة الاسم [GroupDocs.Metadata](../../metadata)
+* المجسم [GroupDocs.Metadata](../../../)
+
+---
+
+## Metadata(string, LoadOptions) {#constructor_3}
+
+يقوم بتهيئة مثيل جديد لملف[`Metadata`](../../metadata) فئة .
+
+```csharp
+public Metadata(string filePath, LoadOptions loadOptions)
+```
+
+| معامل | يكتب | وصف |
+| --- | --- | --- |
+| filePath | String | سلسلة تحتوي على الاسم الكامل للملف المراد إنشاء ملف[`Metadata`](../../metadata) نموذج. |
+| loadOptions | LoadOptions | خيارات إضافية لاستخدامها عند تحميل مستند. |
+
+### ملاحظات
+
+**يتعلم أكثر**
+
+* [تحميل من قرص محلي](https://docs.groupdocs.com/display/metadatanet/Load+from+a+local+disk)
+* [تحميل من تيار](https://docs.groupdocs.com/display/metadatanet/Load+from+a+stream)
+* [قم بتحميل ملف بتنسيق معين](https://docs.groupdocs.com/display/metadatanet/Load+a+file+of+a+specific+format)
+* [قم بتحميل مستند محمي بكلمة مرور](https://docs.groupdocs.com/display/metadatanet/Load+a+password-protected+document)
+
+### أمثلة
+
+يوضح هذا المثال كيفية تحميل مستند محمي بكلمة مرور.
+
+```csharp
+// حدد كلمة المرور
+var loadOptions = new LoadOptions
+{
+    Password = "123"
+};
+
+using (var metadata = new Metadata(Constants.ProtectedDocx, loadOptions))
+{
+    // استخراج أو تحرير أو إزالة البيانات الوصفية هنا
+}
+```
+
+### أنظر أيضا
+
+* class [LoadOptions](../../../groupdocs.metadata.options/loadoptions)
+* class [Metadata](../../metadata)
+* مساحة الاسم [GroupDocs.Metadata](../../metadata)
+* المجسم [GroupDocs.Metadata](../../../)
+
+---
+
+## Metadata(Stream, LoadOptions) {#constructor_1}
+
+يقوم بتهيئة مثيل جديد لملف[`Metadata`](../../metadata) فئة .
+
+```csharp
+public Metadata(Stream document, LoadOptions loadOptions)
+```
+
+| معامل | يكتب | وصف |
+| --- | --- | --- |
+| document | Stream | دفق يحتوي على المستند المراد تحميله. |
+| loadOptions | LoadOptions | خيارات إضافية لاستخدامها عند تحميل مستند. |
+
+### ملاحظات
+
+**يتعلم أكثر**
+
+* [تحميل من قرص محلي](https://docs.groupdocs.com/display/metadatanet/Load+from+a+local+disk)
+* [تحميل من تيار](https://docs.groupdocs.com/display/metadatanet/Load+from+a+stream)
+* [قم بتحميل ملف بتنسيق معين](https://docs.groupdocs.com/display/metadatanet/Load+a+file+of+a+specific+format)
+* [قم بتحميل مستند محمي بكلمة مرور](https://docs.groupdocs.com/display/metadatanet/Load+a+password-protected+document)
+
+### أنظر أيضا
+
+* class [LoadOptions](../../../groupdocs.metadata.options/loadoptions)
+* class [Metadata](../../metadata)
+* مساحة الاسم [GroupDocs.Metadata](../../metadata)
+* المجسم [GroupDocs.Metadata](../../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.Metadata.dll -->
