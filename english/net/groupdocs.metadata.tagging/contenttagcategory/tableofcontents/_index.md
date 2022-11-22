@@ -3,7 +3,7 @@ title: TableOfContents
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag indicating properties containing the table of contents of a file.
 type: docs
-weight: 90
+weight: 120
 url: /net/groupdocs.metadata.tagging/contenttagcategory/tableofcontents/
 ---
 ## ContentTagCategory.TableOfContents property

@@ -3,7 +3,7 @@ title: XmpPacketWrapper
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Contains serialized XMP package including header and trailer. A wrapper consisting of a pair of XML processing instructions PIs may be placed around the rdfRDF element.
 type: docs
-weight: 3490
+weight: 3500
 url: /net/groupdocs.metadata.standards.xmp/xmppacketwrapper/
 ---
 ## XmpPacketWrapper class
@@ -78,7 +78,7 @@ using (Metadata metadata = new Metadata(Constants.GifWithXmp))
             root.XmpPackage.Schemes.DublinCore = new XmpDublinCorePackage();
         }
         root.XmpPackage.Schemes.DublinCore.Format = "image/gif";
-        root.XmpPackage.Schemes.DublinCore.SetRights("Copyright (C) 2011-2021 GroupDocs. All Rights Reserved");
+        root.XmpPackage.Schemes.DublinCore.SetRights("Copyright (C) 2011-2022 GroupDocs. All Rights Reserved");
         root.XmpPackage.Schemes.DublinCore.SetSubject("test");
 
         if (root.XmpPackage.Schemes.CameraRaw == null)

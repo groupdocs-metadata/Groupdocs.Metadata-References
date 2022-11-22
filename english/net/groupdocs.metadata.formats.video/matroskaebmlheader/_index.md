@@ -3,7 +3,7 @@ title: MatroskaEbmlHeader
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents EBML header metadata in a Matroska video.
 type: docs
-weight: 2450
+weight: 2460
 url: /net/groupdocs.metadata.formats.video/matroskaebmlheader/
 ---
 ## MatroskaEbmlHeader class

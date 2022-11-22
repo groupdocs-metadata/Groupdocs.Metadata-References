@@ -3,7 +3,7 @@ title: IEnumValueInterpreter
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents an interpreter intended to convert various numeric values to descriptive string values.
 type: docs
-weight: 90
+weight: 100
 url: /net/groupdocs.metadata.common/ienumvalueinterpreter/
 ---
 ## IEnumValueInterpreter interface

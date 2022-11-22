@@ -3,7 +3,7 @@ title: EmailPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents email message metadata.
 type: docs
-weight: 1350
+weight: 1360
 url: /net/groupdocs.metadata.formats.email/emailpackage/
 ---
 ## EmailPackage class

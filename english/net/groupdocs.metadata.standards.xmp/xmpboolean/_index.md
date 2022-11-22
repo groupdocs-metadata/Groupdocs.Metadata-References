@@ -3,7 +3,7 @@ title: XmpBoolean
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents XMP Boolean basic type.
 type: docs
-weight: 3260
+weight: 3270
 url: /net/groupdocs.metadata.standards.xmp/xmpboolean/
 ---
 ## XmpBoolean class

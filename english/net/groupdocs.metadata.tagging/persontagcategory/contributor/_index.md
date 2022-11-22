@@ -3,7 +3,7 @@ title: Contributor
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that labels a property containing the name of a person who somehow contributed to file creation. Please note that the tag is not applied towards metadata properties marked with more specific tags from this category. E.g. if a property labeled with the Creator tag.
 type: docs
-weight: 20
+weight: 30
 url: /net/groupdocs.metadata.tagging/persontagcategory/contributor/
 ---
 ## PersonTagCategory.Contributor property

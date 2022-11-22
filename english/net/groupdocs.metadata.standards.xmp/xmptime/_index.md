@@ -3,7 +3,7 @@ title: XmpTime
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Representation of a time value in seconds.
 type: docs
-weight: 3580
+weight: 3590
 url: /net/groupdocs.metadata.standards.xmp/xmptime/
 ---
 ## XmpTime class

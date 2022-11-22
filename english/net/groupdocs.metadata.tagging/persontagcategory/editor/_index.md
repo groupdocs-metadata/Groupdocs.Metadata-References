@@ -3,7 +3,7 @@ title: Editor
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that labels a person who edited a file. The tag is usually used to mark a property containing information about the last editor.
 type: docs
-weight: 40
+weight: 50
 url: /net/groupdocs.metadata.tagging/persontagcategory/editor/
 ---
 ## PersonTagCategory.Editor property

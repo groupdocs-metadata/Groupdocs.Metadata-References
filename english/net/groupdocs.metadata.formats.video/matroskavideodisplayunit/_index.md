@@ -3,7 +3,7 @@ title: MatroskaVideoDisplayUnit
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines how Matroska DisplayWidth and DisplayHeight are interpreted.
 type: docs
-weight: 2560
+weight: 2570
 url: /net/groupdocs.metadata.formats.video/matroskavideodisplayunit/
 ---
 ## MatroskaVideoDisplayUnit enumeration

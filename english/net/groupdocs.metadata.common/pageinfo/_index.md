@@ -3,7 +3,7 @@ title: PageInfo
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Provides common information about a document page slide worksheet etc.
 type: docs
-weight: 160
+weight: 170
 url: /net/groupdocs.metadata.common/pageinfo/
 ---
 ## PageInfo class

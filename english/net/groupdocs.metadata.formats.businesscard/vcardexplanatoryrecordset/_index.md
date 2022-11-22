@@ -3,7 +3,7 @@ title: VCardExplanatoryRecordset
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a set of Explanatory vCard records. These properties are concerned with additional explanations such as that related to informational notes or revisions specific to the vCard.
 type: docs
-weight: 700
+weight: 710
 url: /net/groupdocs.metadata.formats.businesscard/vcardexplanatoryrecordset/
 ---
 ## VCardExplanatoryRecordset class

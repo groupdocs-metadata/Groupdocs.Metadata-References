@@ -3,7 +3,7 @@ title: Oid
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents an object identifier OID. An identifier mechanism standardized by the International Telecommunications Union ITU and ISO/IEC for naming any object concept or thing with a globally unambiguous persistent name.
 type: docs
-weight: 3010
+weight: 3020
 url: /net/groupdocs.metadata.standards.pkcs/oid/
 ---
 ## Oid class

@@ -3,7 +3,7 @@ title: XmpPhotoshopColorMode
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a color mode in XmpPhotoshopPackage./xmpphotoshoppackage.
 type: docs
-weight: 3190
+weight: 3200
 url: /net/groupdocs.metadata.standards.xmp.schemes/xmpphotoshopcolormode/
 ---
 ## XmpPhotoshopColorMode enumeration

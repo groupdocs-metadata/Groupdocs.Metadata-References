@@ -3,7 +3,7 @@ title: VCardCalendarRecordset
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a set of Calendar vCard records.
 type: docs
-weight: 630
+weight: 640
 url: /net/groupdocs.metadata.formats.businesscard/vcardcalendarrecordset/
 ---
 ## VCardCalendarRecordset class

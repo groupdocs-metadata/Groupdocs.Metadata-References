@@ -3,7 +3,7 @@ title: ZipFile
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents metadata associated with an archived file or directory.
 type: docs
-weight: 340
+weight: 350
 url: /net/groupdocs.metadata.formats.archive/zipfile/
 ---
 ## ZipFile class

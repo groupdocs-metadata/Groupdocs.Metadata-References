@@ -3,7 +3,7 @@ title: FuncTResult
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Encapsulates a method that has no parameters and returns a value of the type specified by the TResult parameter.
 type: docs
-weight: 60
+weight: 70
 url: /net/groupdocs.metadata.common/func-1/
 ---
 ## Func&lt;TResult&gt; delegate

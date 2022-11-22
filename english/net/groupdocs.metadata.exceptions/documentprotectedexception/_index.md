@@ -3,7 +3,7 @@ title: DocumentProtectedException
 second_title: GroupDocs.Metadata for .NET API Reference
 description: The exception that is thrown when document is protected by password.
 type: docs
-weight: 260
+weight: 270
 url: /net/groupdocs.metadata.exceptions/documentprotectedexception/
 ---
 ## DocumentProtectedException class

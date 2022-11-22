@@ -3,7 +3,7 @@ title: XmpRational
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents XMP XmpRational.
 type: docs
-weight: 3500
+weight: 3510
 url: /net/groupdocs.metadata.standards.xmp/xmprational/
 ---
 ## XmpRational class

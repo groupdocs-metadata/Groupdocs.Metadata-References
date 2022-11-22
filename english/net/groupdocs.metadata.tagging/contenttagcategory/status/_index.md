@@ -3,7 +3,7 @@ title: Status
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that denotes the status of a file.
 type: docs
-weight: 70
+weight: 100
 url: /net/groupdocs.metadata.tagging/contenttagcategory/status/
 ---
 ## ContentTagCategory.Status property

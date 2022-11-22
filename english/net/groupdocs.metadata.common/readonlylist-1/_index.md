@@ -3,7 +3,7 @@ title: ReadOnlyListT
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Provides an abstract base class for a strongly typed readonly list.
 type: docs
-weight: 210
+weight: 220
 url: /net/groupdocs.metadata.common/readonlylist-1/
 ---
 ## ReadOnlyList&lt;T&gt; class

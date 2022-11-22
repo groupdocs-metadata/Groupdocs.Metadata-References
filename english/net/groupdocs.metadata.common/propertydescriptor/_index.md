@@ -3,7 +3,7 @@ title: PropertyDescriptor
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a descriptor of a property that can be accessed through the GroupDocs.Metadata search engine.
 type: docs
-weight: 180
+weight: 190
 url: /net/groupdocs.metadata.common/propertydescriptor/
 ---
 ## PropertyDescriptor class

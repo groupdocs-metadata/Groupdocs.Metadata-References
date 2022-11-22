@@ -3,7 +3,7 @@ title: SonyMakerNotePackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents SONY MakerNote metadata.
 type: docs
-weight: 2850
+weight: 2860
 url: /net/groupdocs.metadata.standards.exif.makernote/sonymakernotepackage/
 ---
 ## SonyMakerNotePackage class

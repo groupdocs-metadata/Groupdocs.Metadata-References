@@ -3,7 +3,7 @@ title: WordProcessingFormat
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines various word processing document subformats.
 type: docs
-weight: 1250
+weight: 1260
 url: /net/groupdocs.metadata.formats.document/wordprocessingformat/
 ---
 ## WordProcessingFormat enumeration
