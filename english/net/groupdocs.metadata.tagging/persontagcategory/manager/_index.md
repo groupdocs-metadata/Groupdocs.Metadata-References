@@ -3,7 +3,7 @@ title: Manager
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that labels information about a person who managed the making process of a file.
 type: docs
-weight: 50
+weight: 60
 url: /net/groupdocs.metadata.tagging/persontagcategory/manager/
 ---
 ## PersonTagCategory.Manager property

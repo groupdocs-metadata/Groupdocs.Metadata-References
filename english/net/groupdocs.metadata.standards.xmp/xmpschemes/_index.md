@@ -3,7 +3,7 @@ title: XmpSchemes
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Provides access to known XMP schemes.
 type: docs
-weight: 3550
+weight: 3560
 url: /net/groupdocs.metadata.standards.xmp/xmpschemes/
 ---
 ## XmpSchemes class

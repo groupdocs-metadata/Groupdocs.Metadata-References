@@ -3,7 +3,7 @@ title: CorporateTagCategory
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Provides tags intended to mark metadata properties related to a company that participated in file creation.
 type: docs
-weight: 3640
+weight: 3650
 url: /net/groupdocs.metadata.tagging/corporatetagcategory/
 ---
 ## CorporateTagCategory class

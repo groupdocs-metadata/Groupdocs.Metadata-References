@@ -3,7 +3,7 @@ title: MetadataProperty
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a metadata property.
 type: docs
-weight: 120
+weight: 130
 url: /net/groupdocs.metadata.common/metadataproperty/
 ---
 ## MetadataProperty class

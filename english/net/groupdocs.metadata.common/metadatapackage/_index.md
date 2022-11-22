@@ -3,7 +3,7 @@ title: MetadataPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents base abstraction for a metadata package.
 type: docs
-weight: 110
+weight: 120
 url: /net/groupdocs.metadata.common/metadatapackage/
 ---
 ## MetadataPackage class

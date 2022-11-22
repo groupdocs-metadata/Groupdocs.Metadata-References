@@ -3,7 +3,7 @@ title: XmpException
 second_title: GroupDocs.Metadata for .NET API Reference
 description: The exception that is thrown when XMP has invalid structure.
 type: docs
-weight: 300
+weight: 310
 url: /net/groupdocs.metadata.exceptions/xmpexception/
 ---
 ## XmpException class

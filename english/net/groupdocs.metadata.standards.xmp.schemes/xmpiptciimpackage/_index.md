@@ -3,7 +3,7 @@ title: XmpIptcIimPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the IPTCIIM XMP package.
 type: docs
-weight: 3150
+weight: 3160
 url: /net/groupdocs.metadata.standards.xmp.schemes/xmpiptciimpackage/
 ---
 ## XmpIptcIimPackage class

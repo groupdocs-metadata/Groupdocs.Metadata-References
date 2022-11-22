@@ -3,7 +3,7 @@ title: PdfAnnotation
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents an annotation in a PDF document.
 type: docs
-weight: 970
+weight: 980
 url: /net/groupdocs.metadata.formats.document/pdfannotation/
 ---
 ## PdfAnnotation class

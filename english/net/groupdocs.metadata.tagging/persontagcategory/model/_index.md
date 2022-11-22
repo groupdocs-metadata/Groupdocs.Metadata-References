@@ -3,7 +3,7 @@ title: Model
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that denotes information about a person the content of the file is about. For photos that is a person shown in the image.
 type: docs
-weight: 60
+weight: 70
 url: /net/groupdocs.metadata.tagging/persontagcategory/model/
 ---
 ## PersonTagCategory.Model property

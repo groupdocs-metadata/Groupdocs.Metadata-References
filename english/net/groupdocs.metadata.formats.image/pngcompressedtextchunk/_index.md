@@ -3,7 +3,7 @@ title: PngCompressedTextChunk
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents compressed textual data extracted from a PNG image.
 type: docs
-weight: 1810
+weight: 1820
 url: /net/groupdocs.metadata.formats.image/pngcompressedtextchunk/
 ---
 ## PngCompressedTextChunk class

@@ -3,7 +3,7 @@ title: ExportFormat
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines file formats to which you can export metadata properties.
 type: docs
-weight: 310
+weight: 320
 url: /net/groupdocs.metadata.export/exportformat/
 ---
 ## ExportFormat enumeration

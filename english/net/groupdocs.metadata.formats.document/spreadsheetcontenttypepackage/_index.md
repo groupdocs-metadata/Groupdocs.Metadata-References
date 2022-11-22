@@ -3,7 +3,7 @@ title: SpreadsheetContentTypePackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a metadata package containing spreadsheet content type properties.
 type: docs
-weight: 1150
+weight: 1160
 url: /net/groupdocs.metadata.formats.document/spreadsheetcontenttypepackage/
 ---
 ## SpreadsheetContentTypePackage class

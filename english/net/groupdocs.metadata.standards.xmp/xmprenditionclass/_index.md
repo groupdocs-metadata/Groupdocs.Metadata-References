@@ -3,7 +3,7 @@ title: XmpRenditionClass
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents XMP RenditionClass.
 type: docs
-weight: 3520
+weight: 3530
 url: /net/groupdocs.metadata.standards.xmp/xmprenditionclass/
 ---
 ## XmpRenditionClass class

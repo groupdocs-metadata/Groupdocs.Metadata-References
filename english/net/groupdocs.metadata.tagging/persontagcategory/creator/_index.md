@@ -3,7 +3,7 @@ title: Creator
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that denotes the original author of a file/document.
 type: docs
-weight: 30
+weight: 40
 url: /net/groupdocs.metadata.tagging/persontagcategory/creator/
 ---
 ## PersonTagCategory.Creator property

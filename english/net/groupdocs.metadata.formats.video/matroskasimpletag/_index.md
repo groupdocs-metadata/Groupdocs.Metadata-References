@@ -3,7 +3,7 @@ title: MatroskaSimpleTag
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents general information about the target in a Matroska video.
 type: docs
-weight: 2490
+weight: 2500
 url: /net/groupdocs.metadata.formats.video/matroskasimpletag/
 ---
 ## MatroskaSimpleTag class

@@ -3,7 +3,7 @@ title: IXmpType
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Base interface for XMP type.
 type: docs
-weight: 3040
+weight: 3050
 url: /net/groupdocs.metadata.standards.xmp/ixmptype/
 ---
 ## IXmpType interface

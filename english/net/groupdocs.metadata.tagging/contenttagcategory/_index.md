@@ -3,7 +3,7 @@ title: ContentTagCategory
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Provides tags that are attached to metadata properties describing the content of a file. The tags are useful to find out the content language type genre subject rating etc.
 type: docs
-weight: 3630
+weight: 3640
 url: /net/groupdocs.metadata.tagging/contenttagcategory/
 ---
 ## ContentTagCategory class
@@ -18,12 +18,15 @@ public class ContentTagCategory : TagCategory
 
 | Name | Description |
 | --- | --- |
+| [Body](../../groupdocs.metadata.tagging/contenttagcategory/body) { get; } | Gets the tag that denotes the body of a email file. |
 | [Comment](../../groupdocs.metadata.tagging/contenttagcategory/comment) { get; } | Gets the tag that denotes a comment left by a person who contributed in file creation. |
 | [Description](../../groupdocs.metadata.tagging/contenttagcategory/description) { get; } | Gets the tag that labels properties containing a description of a file. |
 | [FileFormat](../../groupdocs.metadata.tagging/contenttagcategory/fileformat) { get; } | Gets the tag that indicates a metadata property containing information about the format of a file. |
+| [HyperlinksChanged](../../groupdocs.metadata.tagging/contenttagcategory/hyperlinkschanged) { get; } | Gets the tag that denotes the indicates that one or more hyperlinks in this part have been updated exclusively in this part by the manufacturer. |
 | [Keywords](../../groupdocs.metadata.tagging/contenttagcategory/keywords) { get; } | Gets the tag that denotes a metadata property containing keywords that describe the content. |
 | [Language](../../groupdocs.metadata.tagging/contenttagcategory/language) { get; } | Gets the tag indicating the language of the intellectual content of a file. |
 | [Rating](../../groupdocs.metadata.tagging/contenttagcategory/rating) { get; } | Gets the tag labeling a user assigned rating of a file. |
+| [SharedDoc](../../groupdocs.metadata.tagging/contenttagcategory/shareddoc) { get; } | Gets the tag that denotes which is a common document for several manufacturers. |
 | [Status](../../groupdocs.metadata.tagging/contenttagcategory/status) { get; } | Gets the tag that denotes the status of a file. |
 | [Subject](../../groupdocs.metadata.tagging/contenttagcategory/subject) { get; } | Gets the tag that denotes the subject the intellectual content is focused on. |
 | [TableOfContents](../../groupdocs.metadata.tagging/contenttagcategory/tableofcontents) { get; } | Gets the tag indicating properties containing the table of contents of a file. |

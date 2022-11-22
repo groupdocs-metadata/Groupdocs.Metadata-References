@@ -3,7 +3,7 @@ title: CanonCameraSettingsPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents CANON camera settings.
 type: docs
-weight: 2800
+weight: 2810
 url: /net/groupdocs.metadata.standards.exif.makernote/canoncamerasettingspackage/
 ---
 ## CanonCameraSettingsPackage class

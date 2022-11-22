@@ -3,7 +3,7 @@ title: XmpInteger
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents XMP Integer basic type.
 type: docs
-weight: 3420
+weight: 3430
 url: /net/groupdocs.metadata.standards.xmp/xmpinteger/
 ---
 ## XmpInteger class

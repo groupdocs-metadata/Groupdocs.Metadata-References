@@ -3,7 +3,7 @@ title: VCardBinaryRecord
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents vCard binary record metadata class.
 type: docs
-weight: 620
+weight: 630
 url: /net/groupdocs.metadata.formats.businesscard/vcardbinaryrecord/
 ---
 ## VCardBinaryRecord class

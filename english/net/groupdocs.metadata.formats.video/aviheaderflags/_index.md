@@ -3,7 +3,7 @@ title: AviHeaderFlags
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents AVI Header flags.
 type: docs
-weight: 2380
+weight: 2390
 url: /net/groupdocs.metadata.formats.video/aviheaderflags/
 ---
 ## AviHeaderFlags enumeration

@@ -3,7 +3,7 @@ title: PdfAttachment
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents an attachment in a PDF document.
 type: docs
-weight: 980
+weight: 990
 url: /net/groupdocs.metadata.formats.document/pdfattachment/
 ---
 ## PdfAttachment class

@@ -3,7 +3,7 @@ title: PsdPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents native Photoshop metadata.
 type: docs
-weight: 1910
+weight: 1920
 url: /net/groupdocs.metadata.formats.image/psdpackage/
 ---
 ## PsdPackage class

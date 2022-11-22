@@ -3,7 +3,7 @@ title: PropertyValueEqualityComparer
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines methods to support the comparison of property values for equality.
 type: docs
-weight: 200
+weight: 210
 url: /net/groupdocs.metadata.common/propertyvalueequalitycomparer/
 ---
 ## PropertyValueEqualityComparer class

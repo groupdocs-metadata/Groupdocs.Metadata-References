@@ -3,7 +3,7 @@ title: Client
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that labels information about the client for whom the file/intellectual content was created.
 type: docs
-weight: 10
+weight: 20
 url: /net/groupdocs.metadata.tagging/persontagcategory/client/
 ---
 ## PersonTagCategory.Client property

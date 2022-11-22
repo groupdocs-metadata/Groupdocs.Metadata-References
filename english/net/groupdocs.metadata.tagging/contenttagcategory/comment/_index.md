@@ -3,7 +3,7 @@ title: Comment
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that denotes a comment left by a person who contributed in file creation.
 type: docs
-weight: 10
+weight: 20
 url: /net/groupdocs.metadata.tagging/contenttagcategory/comment/
 ---
 ## ContentTagCategory.Comment property

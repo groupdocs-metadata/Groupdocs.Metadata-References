@@ -3,7 +3,7 @@ title: PersonTagCategory
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Provides tags that mark metadata properties holding information about the people contributed to file or intellectual content creation. These tags can help you to find the document creator editor or even the client for whom the work was performed. Despite the name of the category some metadata properties marked with the tags can contain a company name rather than a persons name.
 type: docs
-weight: 3680
+weight: 3690
 url: /net/groupdocs.metadata.tagging/persontagcategory/
 ---
 ## PersonTagCategory class
@@ -18,6 +18,7 @@ public class PersonTagCategory : TagCategory
 
 | Name | Description |
 | --- | --- |
+| [Artist](../../groupdocs.metadata.tagging/persontagcategory/artist) { get; } | Gets the tag that denotes the original performer of a file. |
 | [Client](../../groupdocs.metadata.tagging/persontagcategory/client) { get; } | Gets the tag that labels information about the client for whom the file/intellectual content was created. |
 | [Contributor](../../groupdocs.metadata.tagging/persontagcategory/contributor) { get; } | Gets the tag that labels a property containing the name of a person who somehow contributed to file creation. Please note that the tag is not applied towards metadata properties marked with more specific tags from this category. E.g. if a property labeled with the Creator tag. |
 | [Creator](../../groupdocs.metadata.tagging/persontagcategory/creator) { get; } | Gets the tag that denotes the original author of a file/document. |
@@ -25,6 +26,7 @@ public class PersonTagCategory : TagCategory
 | [Manager](../../groupdocs.metadata.tagging/persontagcategory/manager) { get; } | Gets the tag that labels information about a person who managed the making process of a file. |
 | [Model](../../groupdocs.metadata.tagging/persontagcategory/model) { get; } | Gets the tag that denotes information about a person the content of the file is about. For photos that is a person shown in the image. |
 | [Publisher](../../groupdocs.metadata.tagging/persontagcategory/publisher) { get; } | Gets the tag marking a person responsible for making the file available. |
+| [Recipient](../../groupdocs.metadata.tagging/persontagcategory/recipient) { get; } | Gets the tag that denotes the original recipients of a mail. |
 
 ## Methods
 

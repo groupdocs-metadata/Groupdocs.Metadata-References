@@ -3,7 +3,7 @@ title: XmpPdfPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Specifies properties used with Adobe PDF documents.
 type: docs
-weight: 3180
+weight: 3190
 url: /net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/
 ---
 ## XmpPdfPackage class

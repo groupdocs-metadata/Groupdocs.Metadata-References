@@ -3,7 +3,7 @@ title: Subject
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that denotes the subject the intellectual content is focused on.
 type: docs
-weight: 80
+weight: 110
 url: /net/groupdocs.metadata.tagging/contenttagcategory/subject/
 ---
 ## ContentTagCategory.Subject property

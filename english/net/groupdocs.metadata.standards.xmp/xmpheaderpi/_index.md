@@ -3,7 +3,7 @@ title: XmpHeaderPI
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents XMP header processing instruction.
 type: docs
-weight: 3410
+weight: 3420
 url: /net/groupdocs.metadata.standards.xmp/xmpheaderpi/
 ---
 ## XmpHeaderPI class

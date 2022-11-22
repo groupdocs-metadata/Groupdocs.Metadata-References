@@ -3,7 +3,7 @@ title: FileFormat
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that indicates a metadata property containing information about the format of a file.
 type: docs
-weight: 30
+weight: 40
 url: /net/groupdocs.metadata.tagging/contenttagcategory/fileformat/
 ---
 ## ContentTagCategory.FileFormat property

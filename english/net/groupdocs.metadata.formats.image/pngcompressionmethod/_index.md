@@ -3,7 +3,7 @@ title: PngCompressionMethod
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines compression methods used in the PNG format.
 type: docs
-weight: 1820
+weight: 1830
 url: /net/groupdocs.metadata.formats.image/pngcompressionmethod/
 ---
 ## PngCompressionMethod enumeration

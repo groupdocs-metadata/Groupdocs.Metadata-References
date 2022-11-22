@@ -3,7 +3,7 @@ title: PresentationComment
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a user comment in a presentation.
 type: docs
-weight: 1050
+weight: 1060
 url: /net/groupdocs.metadata.formats.document/presentationcomment/
 ---
 ## PresentationComment class

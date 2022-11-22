@@ -3,7 +3,7 @@ title: Publisher
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag marking a person responsible for making the file available.
 type: docs
-weight: 70
+weight: 80
 url: /net/groupdocs.metadata.tagging/persontagcategory/publisher/
 ---
 ## PersonTagCategory.Publisher property

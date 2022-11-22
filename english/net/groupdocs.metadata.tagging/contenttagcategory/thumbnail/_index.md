@@ -3,7 +3,7 @@ title: Thumbnail
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that indicates a thumbnail image attached to a file.
 type: docs
-weight: 100
+weight: 130
 url: /net/groupdocs.metadata.tagging/contenttagcategory/thumbnail/
 ---
 ## ContentTagCategory.Thumbnail property

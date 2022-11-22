@@ -3,7 +3,7 @@ title: Type
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that indicates the nature or genre of the content of a file. It also includes terms describing general categories functions aggregation levels for the content.
 type: docs
-weight: 120
+weight: 150
 url: /net/groupdocs.metadata.tagging/contenttagcategory/type/
 ---
 ## ContentTagCategory.Type property

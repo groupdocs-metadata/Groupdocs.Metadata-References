@@ -14,6 +14,7 @@ The namespace contains base classes, utility classes and interfaces used across 
 | --- | --- |
 | [CustomPackage](./custompackage) | Provides a container for metadata properties. |
 | [DocumentInfo](./documentinfo) | Provides common information about a loaded document. |
+| [FileType](./filetype) | Represents the file type. |
 | [FileTypePackage](./filetypepackage) | Represents a metadata package containing file format information. |
 | [Func&lt;TResult&gt;](./func-1) | Encapsulates a method that has no parameters and returns a value of the type specified by the *TResult* parameter. |
 | [Func&lt;T,TResult&gt;](./func-2) | Encapsulates a method that has one parameter and returns a value of the type specified by the *TResult* parameter. |

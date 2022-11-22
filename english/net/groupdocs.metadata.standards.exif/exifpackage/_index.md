@@ -3,7 +3,7 @@ title: ExifPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents an EXIF metadata package Exchangeable Image File Format.
 type: docs
-weight: 2780
+weight: 2790
 url: /net/groupdocs.metadata.standards.exif/exifpackage/
 ---
 ## ExifPackage class
@@ -81,7 +81,7 @@ using (Metadata metadata = new Metadata(Constants.InputJpeg))
             root.ExifPackage = new ExifPackage();
         }
 
-        root.ExifPackage.Copyright = "Copyright (C) 2011-2021 GroupDocs. All Rights Reserved.";
+        root.ExifPackage.Copyright = "Copyright (C) 2011-2022 GroupDocs. All Rights Reserved.";
         root.ExifPackage.ImageDescription = "test image";
         root.ExifPackage.Software = "GroupDocs.Metadata";
 

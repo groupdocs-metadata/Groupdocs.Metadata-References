@@ -3,7 +3,7 @@ title: TiffShortTag
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a TIFF Short tag.
 type: docs
-weight: 2070
+weight: 2080
 url: /net/groupdocs.metadata.formats.image/tiffshorttag/
 ---
 ## TiffShortTag class
