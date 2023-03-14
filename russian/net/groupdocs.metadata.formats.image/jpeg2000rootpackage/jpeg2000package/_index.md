@@ -20,7 +20,7 @@ public Jpeg2000Package Jpeg2000Package { get; }
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * [Работа с метаданными в изображениях JPEG2000](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+JPEG2000+images)
 

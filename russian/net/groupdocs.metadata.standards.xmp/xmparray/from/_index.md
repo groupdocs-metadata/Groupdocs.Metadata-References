@@ -18,7 +18,7 @@ public static XmpArray From<T>(T[] array, XmpArrayType type)
 | Параметр | Описание |
 | --- | --- |
 | T | Тип элемента исходного массива. |
-| array | Массив для создания[`XmpArray`](../../xmparray) из. |
+| array | Массив для создания[`XmpArray`](../../xmparray) от. |
 | type | Тип[`XmpArray`](../../xmparray). |
 
 ### Возвращаемое значение
@@ -45,7 +45,7 @@ public static XmpArray From(string[] array, XmpArrayType type)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| array | String[] | Массив для создания[`XmpArray`](../../xmparray) из. |
+| array | String[] | Массив для создания[`XmpArray`](../../xmparray) от. |
 | type | XmpArrayType | Тип[`XmpArray`](../../xmparray). |
 
 ### Возвращаемое значение
@@ -71,7 +71,7 @@ public static XmpArray From(int[] array, XmpArrayType type)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| array | Int32[] | Массив для создания[`XmpArray`](../../xmparray) из. |
+| array | Int32[] | Массив для создания[`XmpArray`](../../xmparray) от. |
 | type | XmpArrayType | Тип[`XmpArray`](../../xmparray). |
 
 ### Возвращаемое значение
@@ -97,7 +97,7 @@ public static XmpArray From(DateTime[] array, XmpArrayType type)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| array | DateTime[] | Массив для создания[`XmpArray`](../../xmparray) из. |
+| array | DateTime[] | Массив для создания[`XmpArray`](../../xmparray) от. |
 | type | XmpArrayType | Тип[`XmpArray`](../../xmparray). |
 
 ### Возвращаемое значение
@@ -123,7 +123,7 @@ public static XmpArray From(double[] array, XmpArrayType type)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| array | Double[] | Массив для создания[`XmpArray`](../../xmparray) из. |
+| array | Double[] | Массив для создания[`XmpArray`](../../xmparray) от. |
 | type | XmpArrayType | Тип[`XmpArray`](../../xmparray). |
 
 ### Возвращаемое значение

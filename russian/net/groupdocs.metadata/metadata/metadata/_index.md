@@ -20,7 +20,7 @@ public Metadata(string filePath)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * [Загрузить с локального диска](https://docs.groupdocs.com/display/metadatanet/Load+from+a+local+disk)
 * [Загрузка из потока](https://docs.groupdocs.com/display/metadatanet/Load+from+a+stream)
@@ -60,7 +60,7 @@ public Metadata(Stream document)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * [Загрузить с локального диска](https://docs.groupdocs.com/display/metadatanet/Load+from+a+local+disk)
 * [Загрузка из потока](https://docs.groupdocs.com/display/metadatanet/Load+from+a+stream)
@@ -102,7 +102,7 @@ public Metadata(string filePath, LoadOptions loadOptions)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * [Загрузить с локального диска](https://docs.groupdocs.com/display/metadatanet/Load+from+a+local+disk)
 * [Загрузка из потока](https://docs.groupdocs.com/display/metadatanet/Load+from+a+stream)
@@ -150,7 +150,7 @@ public Metadata(Stream document, LoadOptions loadOptions)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * [Загрузить с локального диска](https://docs.groupdocs.com/display/metadatanet/Load+from+a+local+disk)
 * [Загрузка из потока](https://docs.groupdocs.com/display/metadatanet/Load+from+a+stream)

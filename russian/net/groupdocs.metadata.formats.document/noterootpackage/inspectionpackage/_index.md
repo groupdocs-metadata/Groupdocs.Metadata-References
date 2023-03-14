@@ -20,7 +20,7 @@ public NoteInspectionPackage InspectionPackage { get; }
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * [Работа с метаданными в форматах Note](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+Note+formats)
 

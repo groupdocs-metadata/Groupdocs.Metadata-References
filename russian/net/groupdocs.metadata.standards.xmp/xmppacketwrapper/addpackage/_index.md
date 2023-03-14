@@ -16,7 +16,7 @@ public void AddPackage(XmpPackage package)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| package | XmpPackage | Посылка. |
+| package | XmpPackage | Пакет. |
 
 ### Примеры
 

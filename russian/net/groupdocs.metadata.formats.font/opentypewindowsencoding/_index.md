@@ -1,14 +1,14 @@
 ---
 title: OpenTypeWindowsEncoding
 second_title: Справочник по API GroupDocs.Metadata для .NET
-description: Представляет кодировку дляWindows платформа.
+description: Представляет кодировку дляWindowsплатформа.
 type: docs
 weight: 1620
 url: /ru/net/groupdocs.metadata.formats.font/opentypewindowsencoding/
 ---
 ## OpenTypeWindowsEncoding enumeration
 
-Представляет кодировку дляWindows платформа.
+Представляет кодировку дляWindowsплатформа.
 
 ```csharp
 public enum OpenTypeWindowsEncoding : ushort

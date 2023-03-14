@@ -16,7 +16,7 @@ public XmpDate(DateTime dateTime)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| dateTime | DateTime | DateTime ценность. |
+| dateTime | DateTime | DateTimeценить. |
 
 ### Смотрите также
 

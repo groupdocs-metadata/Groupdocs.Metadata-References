@@ -20,7 +20,7 @@ public PresentationInspectionPackage InspectionPackage { get; }
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * [Работа с метаданными в презентациях](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+Presentations)
 

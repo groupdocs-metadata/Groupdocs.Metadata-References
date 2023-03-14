@@ -16,7 +16,7 @@ public PropertyValue(int value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Int32 | АнInt32 ценность. |
+| value | Int32 | АнInt32ценить. |
 
 ### Смотрите также
 
@@ -36,7 +36,7 @@ public PropertyValue(long value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Int64 | АInt64 ценность. |
+| value | Int64 | АInt64ценить. |
 
 ### Смотрите также
 
@@ -56,7 +56,7 @@ public PropertyValue(bool value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Boolean | АBoolean ценность. |
+| value | Boolean | АBooleanценить. |
 
 ### Смотрите также
 
@@ -76,7 +76,7 @@ public PropertyValue(double value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Double | АDouble ценность. |
+| value | Double | АDoubleценить. |
 
 ### Смотрите также
 
@@ -96,7 +96,7 @@ public PropertyValue(string value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | String | АString ценность. |
+| value | String | АStringценить. |
 
 ### Смотрите также
 
@@ -116,7 +116,7 @@ public PropertyValue(DateTime value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | DateTime | АDateTime ценность. |
+| value | DateTime | АDateTimeценить. |
 
 ### Смотрите также
 
@@ -136,7 +136,7 @@ public PropertyValue(TimeSpan value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | TimeSpan | АTimeSpan ценность. |
+| value | TimeSpan | АTimeSpanценить. |
 
 ### Смотрите также
 
@@ -228,7 +228,7 @@ public PropertyValue(int[] values)
 
 ## PropertyValue(long[]) {#constructor_7}
 
-Инициализирует новый экземпляр[`PropertyValue`](../../propertyvalue)класс с массивом длинных значений.
+Инициализирует новый экземпляр[`PropertyValue`](../../propertyvalue) класс с массивом длинных значений.
 
 ```csharp
 public PropertyValue(long[] values)

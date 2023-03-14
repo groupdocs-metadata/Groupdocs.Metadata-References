@@ -27,7 +27,7 @@ public int UpdateProperties(Func<MetadataProperty, bool> predicate, PropertyValu
 
 Обратите внимание, что GroupDocs.Metadata неявно проверяет тип каждого отфильтрованного свойства. Невозможно обновить свойство со значением неподходящего типа.
 
-**Учить больше**
+**Узнать больше**
 
 * Дополнительные примеры, демонстрирующие использование этого метода: [Обновление метаданных](https://docs.groupdocs.com/display/metadatanet/Updating+metadata)
 

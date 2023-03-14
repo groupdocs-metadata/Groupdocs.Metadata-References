@@ -20,7 +20,7 @@ public override int Sanitize()
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * [Чистые метаданные](https://docs.groupdocs.com/display/metadatanet/Clean+metadata)
 

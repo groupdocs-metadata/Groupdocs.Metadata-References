@@ -1,14 +1,14 @@
 ---
 title: OpenTypeUnicodeEncoding
 second_title: Справочник по API GroupDocs.Metadata для .NET
-description: Представляет кодировку дляUnicode платформа.
+description: Представляет кодировку дляUnicodeплатформа.
 type: docs
 weight: 1570
 url: /ru/net/groupdocs.metadata.formats.font/opentypeunicodeencoding/
 ---
 ## OpenTypeUnicodeEncoding enumeration
 
-Представляет кодировку дляUnicode платформа.
+Представляет кодировку дляUnicodeплатформа.
 
 ```csharp
 public enum OpenTypeUnicodeEncoding : ushort

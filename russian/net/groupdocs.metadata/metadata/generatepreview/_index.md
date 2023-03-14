@@ -20,7 +20,7 @@ public void GeneratePreview(PreviewOptions previewOptions)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * [Создать предварительный просмотр документа](https://docs.groupdocs.com/display/metadatanet/Generate+document+preview)
 

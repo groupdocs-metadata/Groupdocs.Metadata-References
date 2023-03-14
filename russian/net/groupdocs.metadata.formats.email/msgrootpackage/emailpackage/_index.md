@@ -20,7 +20,7 @@ public MsgPackage EmailPackage { get; }
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * [Работа с сохраненными электронными письмами](https://docs.groupdocs.com/display/metadatanet/Working+with+saved+Emails)
 

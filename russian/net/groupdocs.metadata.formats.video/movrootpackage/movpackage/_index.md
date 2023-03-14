@@ -20,7 +20,7 @@ public MovPackage MovPackage { get; }
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * [Работа с метаданными в файлах MOV](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+MOV+Files)
 

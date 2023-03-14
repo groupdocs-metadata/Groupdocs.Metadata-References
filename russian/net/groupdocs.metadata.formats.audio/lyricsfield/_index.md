@@ -35,7 +35,7 @@ public sealed class LyricsField : MetadataProperty
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * [Обработка тега Lyrics](https://docs.groupdocs.com/display/metadatanet/Handling+the+Lyrics+tag)
 

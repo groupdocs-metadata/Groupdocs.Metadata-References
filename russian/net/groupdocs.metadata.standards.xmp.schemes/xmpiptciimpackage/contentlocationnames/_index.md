@@ -1,14 +1,14 @@
 ---
 title: ContentLocationNames
 second_title: Справочник по API GroupDocs.Metadata для .NET
-description: Получает или задает имена местоположений содержимого.
+description: Получает или задает имена местоположений контента.
 type: docs
 weight: 50
 url: /ru/net/groupdocs.metadata.standards.xmp.schemes/xmpiptciimpackage/contentlocationnames/
 ---
 ## XmpIptcIimPackage.ContentLocationNames property
 
-Получает или задает имена местоположений содержимого.
+Получает или задает имена местоположений контента.
 
 ```csharp
 public string[] ContentLocationNames { get; set; }

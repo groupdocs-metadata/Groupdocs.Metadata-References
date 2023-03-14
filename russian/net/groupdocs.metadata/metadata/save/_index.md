@@ -16,7 +16,7 @@ public void Save()
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * [Сохранить измененный файл в исходный источник](https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+the+original+source)
 * [Сохранить измененный файл в указанное место](https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+a+specified+location)
@@ -58,7 +58,7 @@ public void Save(Stream document)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * [Сохранить измененный файл в исходный источник](https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+the+original+source)
 * [Сохранить измененный файл в указанное место](https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+a+specified+location)
@@ -102,7 +102,7 @@ public void Save(string filePath)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * [Сохранить измененный файл в исходный источник](https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+the+original+source)
 * [Сохранить измененный файл в указанное место](https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+a+specified+location)

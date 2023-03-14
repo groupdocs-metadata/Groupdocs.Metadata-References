@@ -24,7 +24,7 @@ public delegate Stream CreatePageStream(int pageNumber);
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * [Создать предварительный просмотр документа](https://docs.groupdocs.com/display/metadatanet/Generate+document+preview)
 

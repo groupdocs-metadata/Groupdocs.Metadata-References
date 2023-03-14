@@ -20,7 +20,7 @@ public AviHeader Header { get; }
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * [Работа с метаданными в файлах AVI](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+AVI+files)
 

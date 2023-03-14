@@ -25,7 +25,7 @@ public class PropertyTypeTagCategory : TagCategory
 | [Identifier](../../groupdocs.metadata.tagging/propertytypetagcategory/identifier) { get; } | Получает тег, помечающий свойство, содержащее идентификатор содержимого. |
 | [Link](../../groupdocs.metadata.tagging/propertytypetagcategory/link) { get; } | Получает тег, указывающий, что свойство является ссылкой на внешний ресурс. |
 | [Location](../../groupdocs.metadata.tagging/propertytypetagcategory/location) { get; } | Получает тег, указывающий, что свойство является ссылкой на географическое положение. Свойство может содержать название города, полный адрес, координаты GPS и т. д. |
-| [Measure](../../groupdocs.metadata.tagging/propertytypetagcategory/measure) { get; } | Получает тег, указывающий, что свойство является измеряемой характеристикой контента. Это может быть размер файла, количество страниц, размер страницы и т. д. |
+| [Measure](../../groupdocs.metadata.tagging/propertytypetagcategory/measure) { get; } | Получает тег, указывающий, что свойство является измеряемой характеристикой содержимого. Это может быть размер файла, количество страниц, размер страницы и т. д. |
 
 ## Методы
 

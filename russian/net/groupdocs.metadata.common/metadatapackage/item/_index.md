@@ -16,7 +16,7 @@ public MetadataProperty this[string propertyName] { get; }
 
 | Параметр | Описание |
 | --- | --- |
-| propertyName | Имя свойства метаданных, которое нужно найти. |
+| propertyName | Имя свойства метаданных, которое необходимо найти. |
 
 ### Возвращаемое значение
 

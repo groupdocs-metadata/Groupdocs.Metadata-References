@@ -24,7 +24,7 @@ public int RemoveProperties(Func<MetadataProperty, bool> predicate)
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Дополнительные примеры, демонстрирующие использование этого метода: [Удаление метаданных](https://docs.groupdocs.com/display/metadatanet/Removing+metadata)
 

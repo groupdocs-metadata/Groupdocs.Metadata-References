@@ -1,14 +1,14 @@
 ---
 title: SetProperties
 second_title: Справочник по API GroupDocs.Metadata для .NET
-description: Устанавливает известные свойства метаданных удовлетворяющие указанному предикату. Операция является рекурсивной поэтому она влияет также на все вложенные пакеты. Этот метод представляет собой комбинациюAddPropertiesgroupdocs.metadata.common/metadatapackage/addproperties а такжеUpdatePropertiesgroupdocs.metadata.common/metadatapackage/updateproperties Если существующее свойство удовлетворяет предикату его значение обновляется. Если в пакете отсутствует известное свойство удовлетворяющее предикату оно добавляется в пакет.
+description: Устанавливает известные свойства метаданных удовлетворяющие указанному предикату. Операция является рекурсивной поэтому она влияет также на все вложенные пакеты. Этот метод представляет собой комбинациюAddPropertiesgroupdocs.metadata.common/metadatapackage/addproperties иUpdatePropertiesgroupdocs.metadata.common/metadatapackage/updateproperties Если существующее свойство удовлетворяет предикату его значение обновляется. Если в пакете отсутствует известное свойство удовлетворяющее предикату оно добавляется в пакет.
 type: docs
 weight: 120
 url: /ru/net/groupdocs.metadata.common/metadatapackage/setproperties/
 ---
 ## MetadataPackage.SetProperties method
 
-Устанавливает известные свойства метаданных, удовлетворяющие указанному предикату. Операция является рекурсивной, поэтому она влияет также на все вложенные пакеты. Этот метод представляет собой комбинацию[`AddProperties`](../addproperties) а также[`UpdateProperties`](../updateproperties) Если существующее свойство удовлетворяет предикату, его значение обновляется. Если в пакете отсутствует известное свойство, удовлетворяющее предикату, оно добавляется в пакет.
+Устанавливает известные свойства метаданных, удовлетворяющие указанному предикату. Операция является рекурсивной, поэтому она влияет также на все вложенные пакеты. Этот метод представляет собой комбинацию[`AddProperties`](../addproperties) и[`UpdateProperties`](../updateproperties) Если существующее свойство удовлетворяет предикату, его значение обновляется. Если в пакете отсутствует известное свойство, удовлетворяющее предикату, оно добавляется в пакет.
 
 ```csharp
 public int SetProperties(Func<MetadataProperty, bool> predicate, PropertyValue value)
@@ -27,7 +27,7 @@ public int SetProperties(Func<MetadataProperty, bool> predicate, PropertyValue v
 
 Обратите внимание, что GroupDocs.Metadata неявно проверяет тип каждого отфильтрованного свойства. Невозможно установить свойство со значением неподходящего типа.
 
-**Учить больше**
+**Узнать больше**
 
 * [Установить свойства метаданных](https://docs.groupdocs.com/display/metadatanet/Set+metadata+properties)
 

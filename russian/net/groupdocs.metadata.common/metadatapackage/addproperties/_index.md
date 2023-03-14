@@ -25,7 +25,7 @@ public int AddProperties(Func<MetadataProperty, bool> predicate, PropertyValue v
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Дополнительные примеры, демонстрирующие использование этого метода: [Добавление метаданных](https://docs.groupdocs.com/display/metadatanet/Adding+metadata)
 

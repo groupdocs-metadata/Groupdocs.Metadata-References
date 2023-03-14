@@ -16,7 +16,7 @@ public XmpBoolean(bool value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Boolean | Boolean ценность. |
+| value | Boolean | Booleanценить. |
 
 ### Смотрите также
 

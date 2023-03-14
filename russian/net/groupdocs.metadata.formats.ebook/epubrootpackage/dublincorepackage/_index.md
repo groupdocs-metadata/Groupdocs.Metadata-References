@@ -20,7 +20,7 @@ public DublinCorePackage DublinCorePackage { get; }
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * [Работа с метаданными в электронных книгах EPUB](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+EPUB+E-Books)
 

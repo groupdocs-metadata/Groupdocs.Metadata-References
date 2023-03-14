@@ -20,7 +20,7 @@ public DicomPackage DicomPackage { get; }
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * [Работа с метаданными DICOM](https://docs.groupdocs.com/display/metadatanet/Working+with+DICOM+metadata)
 

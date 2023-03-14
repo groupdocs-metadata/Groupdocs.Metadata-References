@@ -1,14 +1,14 @@
 ---
 title: OpenTypeMacintoshEncoding
 second_title: Справочник по API GroupDocs.Metadata для .NET
-description: Представляет кодировку дляMacintosh платформа.
+description: Представляет кодировку дляMacintoshплатформа.
 type: docs
 weight: 1490
 url: /ru/net/groupdocs.metadata.formats.font/opentypemacintoshencoding/
 ---
 ## OpenTypeMacintoshEncoding enumeration
 
-Представляет кодировку дляMacintosh платформа.
+Представляет кодировку дляMacintoshплатформа.
 
 ```csharp
 public enum OpenTypeMacintoshEncoding : ushort

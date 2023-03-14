@@ -1,14 +1,14 @@
 ---
 title: PreviewOptions
 second_title: Справочник по API GroupDocs.Metadata для .NET
-description: Инициализирует новый экземплярPreviewOptionsgroupdocs.metadata.options/previewoptionsкласс вызывающий закрытие выходного потока.
+description: Инициализирует новый экземплярPreviewOptionsgroupdocs.metadata.options/previewoptions класс вызывающий закрытие выходного потока.
 type: docs
 weight: 10
 url: /ru/net/groupdocs.metadata.options/previewoptions/previewoptions/
 ---
 ## PreviewOptions(CreatePageStream) {#constructor}
 
-Инициализирует новый экземпляр[`PreviewOptions`](../../previewoptions)класс, вызывающий закрытие выходного потока.
+Инициализирует новый экземпляр[`PreviewOptions`](../../previewoptions) класс, вызывающий закрытие выходного потока.
 
 ```csharp
 public PreviewOptions(CreatePageStream createPageStream)
