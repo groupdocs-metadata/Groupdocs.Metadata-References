@@ -26,7 +26,7 @@ public class PropertyValue
 | [PropertyValue](propertyvalue#constructor_4)(int) | Inicializa una nueva instancia del[`PropertyValue`](../propertyvalue) clase con valor entero. |
 | [PropertyValue](propertyvalue#constructor_5)(int[]) | Inicializa una nueva instancia del[`PropertyValue`](../propertyvalue) clase con una matriz de valores enteros. |
 | [PropertyValue](propertyvalue#constructor_6)(long) | Inicializa una nueva instancia del[`PropertyValue`](../propertyvalue) clase con un valor largo. |
-| [PropertyValue](propertyvalue#constructor_7)(long[]) | Inicializa una nueva instancia del[`PropertyValue`](../propertyvalue)clase con una matriz de valores largos. |
+| [PropertyValue](propertyvalue#constructor_7)(long[]) | Inicializa una nueva instancia del[`PropertyValue`](../propertyvalue) clase con una matriz de valores largos. |
 | [PropertyValue](propertyvalue#constructor_9)(string) | Inicializa una nueva instancia del[`PropertyValue`](../propertyvalue) clase con un valor de cadena. |
 | [PropertyValue](propertyvalue#constructor_10)(string[]) | Inicializa una nueva instancia del[`PropertyValue`](../propertyvalue) clase con una matriz de cadenas. |
 | [PropertyValue](propertyvalue#constructor_11)(TimeSpan) | Inicializa una nueva instancia del[`PropertyValue`](../propertyvalue) clase con unTimeSpan valor. |

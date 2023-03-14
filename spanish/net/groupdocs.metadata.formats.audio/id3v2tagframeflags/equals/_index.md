@@ -40,11 +40,11 @@ public override bool Equals(object obj)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| obj | Object | losObject para comparar con esta instancia. |
+| obj | Object | ElObject para comparar con esta instancia. |
 
 ### Valor_devuelto
 
-`verdadero` si el especificadoObject es igual a esta instancia; de lo contrario,`falso` .
+`verdadero` si el especificadoObject es igual a esta instancia; de lo contrario,`FALSO` .
 
 ### Ver también
 

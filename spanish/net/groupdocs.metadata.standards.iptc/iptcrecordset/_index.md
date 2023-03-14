@@ -37,7 +37,7 @@ public sealed class IptcRecordSet : CustomPackage
 
 | Nombre | Descripción |
 | --- | --- |
-| [Add](../../groupdocs.metadata.standards.iptc/iptcrecordset/add)(IptcDataSet) | Agrega el conjunto de datos especificado al registro apropiado. El conjunto de datos se considera repetible si ya existe un conjunto de datos con el número especificado. |
+| [Add](../../groupdocs.metadata.standards.iptc/iptcrecordset/add)(IptcDataSet) | Agrega el conjunto de datos especificado al registro correspondiente. El conjunto de datos se considera repetible si ya existe un conjunto de datos con el número especificado. |
 | [AddProperties](../../groupdocs.metadata.common/metadatapackage/addproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Agrega propiedades de metadatos conocidas que satisfacen el predicado especificado. La operación es recursiva, por lo que también afecta a todos los paquetes anidados. |
 | [Clear](../../groupdocs.metadata.standards.iptc/iptcrecordset/clear)() | Elimina todos los registros de la colección. |
 | [Contains](../../groupdocs.metadata.common/metadatapackage/contains)(string) | Determina si el paquete contiene una propiedad de metadatos con el nombre especificado. |

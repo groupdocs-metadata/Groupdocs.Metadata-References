@@ -18,7 +18,7 @@ public class PreviewOptions
 
 | Nombre | Descripción |
 | --- | --- |
-| [PreviewOptions](previewoptions#constructor)(CreatePageStream) | Inicializa una nueva instancia del[`PreviewOptions`](../previewoptions)clase que hace que se cierre el flujo de salida. |
+| [PreviewOptions](previewoptions#constructor)(CreatePageStream) | Inicializa una nueva instancia del[`PreviewOptions`](../previewoptions) clase que hace que se cierre el flujo de salida. |
 | [PreviewOptions](previewoptions#constructor_1)(CreatePageStream, ReleasePageStream) | Inicializa una nueva instancia de[`PreviewOptions`](../previewoptions) class que hace que el flujo de salida se devuelva al cliente para su uso posterior. |
 
 ## Propiedades

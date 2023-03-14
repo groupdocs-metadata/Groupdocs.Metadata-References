@@ -20,7 +20,7 @@ public IptcRecord this[byte recordNumber] { get; }
 
 ### Valor_devuelto
 
-los[`IptcRecord`](../../iptcrecord)con el número especificado, si se encuentra; de lo contrario nulo.
+El[`IptcRecord`](../../iptcrecord)con el número especificado, si se encuentra; de lo contrario nulo.
 
 ### Ver también
 
@@ -46,7 +46,7 @@ public IptcDataSet this[byte recordNumber, byte dataSetNumber] { get; }
 
 ### Valor_devuelto
 
-los[`IptcDataSet`](../../iptcdataset) con el registro especificado y el número de conjunto de datos.
+El[`IptcDataSet`](../../iptcdataset) con el registro especificado y el número de conjunto de datos.
 
 ### Ver también
 

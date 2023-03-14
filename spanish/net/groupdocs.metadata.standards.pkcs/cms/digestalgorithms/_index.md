@@ -16,7 +16,7 @@ public Oid[] DigestAlgorithms { get; }
 
 ### El valor de la propiedad
 
-La matriz de identificadores de algoritmos de resumen de mensaje.
+La matriz de identificadores de algoritmos de resumen de mensajes.
 
 ### Ver también
 

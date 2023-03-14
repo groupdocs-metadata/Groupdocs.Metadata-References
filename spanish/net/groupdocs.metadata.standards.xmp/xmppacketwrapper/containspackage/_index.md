@@ -20,7 +20,7 @@ public bool ContainsPackage(string namespaceUri)
 
 ### Valor_devuelto
 
-`verdadero` si el paquete es encontrado por*namespaceUri* ; de lo contrario`falso` .
+`verdadero` si el paquete es encontrado por*namespaceUri* ; de lo contrario`FALSO` .
 
 ### Excepciones
 

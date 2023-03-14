@@ -16,7 +16,7 @@ public bool? AutoShadows { get; set; }
 
 ### El valor de la propiedad
 
-`verdadero` si [sombras automáticas]; de lo contrario,`falso` .
+`verdadero` si [sombras automáticas]; de lo contrario,`FALSO` .
 
 ### Ver también
 

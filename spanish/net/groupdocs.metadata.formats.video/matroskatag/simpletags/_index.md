@@ -16,7 +16,7 @@ public MatroskaSimpleTag SimpleTags { get; }
 
 ### El valor de la propiedad
 
-La información general sobre el destino.
+La información general sobre el objetivo.
 
 ### Ver también
 

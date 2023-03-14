@@ -1,14 +1,14 @@
 ---
 title: PreviewOptions
 second_title: Referencia de API de GroupDocs.Metadata para .NET
-description: Inicializa una nueva instancia delPreviewOptionsgroupdocs.metadata.options/previewoptionsclase que hace que se cierre el flujo de salida.
+description: Inicializa una nueva instancia delPreviewOptionsgroupdocs.metadata.options/previewoptions clase que hace que se cierre el flujo de salida.
 type: docs
 weight: 10
 url: /es/net/groupdocs.metadata.options/previewoptions/previewoptions/
 ---
 ## PreviewOptions(CreatePageStream) {#constructor}
 
-Inicializa una nueva instancia del[`PreviewOptions`](../../previewoptions)clase que hace que se cierre el flujo de salida.
+Inicializa una nueva instancia del[`PreviewOptions`](../../previewoptions) clase que hace que se cierre el flujo de salida.
 
 ```csharp
 public PreviewOptions(CreatePageStream createPageStream)

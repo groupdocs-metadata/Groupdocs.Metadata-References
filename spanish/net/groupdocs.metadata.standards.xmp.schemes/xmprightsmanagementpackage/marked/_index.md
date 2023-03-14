@@ -16,7 +16,7 @@ public bool? Marked { get; set; }
 
 ### El valor de la propiedad
 
-`verdadero` si el recurso tiene derechos de gestión; de lo contrario`falso` . Cuando es falso, indica que se trata de un recurso de dominio público. Omitir si el estado es desconocido.
+`verdadero` si el recurso tiene derechos de gestión; de lo contrario`FALSO` . Cuando es falso, indica que se trata de un recurso de dominio público. Omitir si el estado es desconocido.
 
 ### Ver también
 

@@ -20,7 +20,7 @@ public IptcDataSet this[IptcApplicationRecordDataSet dataSetNumber] { get; }
 
 ### Valor_devuelto
 
-los[`IptcDataSet`](../../iptcdataset) con el número especificado.
+El[`IptcDataSet`](../../iptcdataset) con el número especificado.
 
 ### Ver también
 

@@ -16,7 +16,7 @@ public bool? TrappedFlag { get; set; }
 
 ### El valor de la propiedad
 
-`verdadero` si se establece la bandera atrapada; de lo contrario,`falso` .
+`verdadero` si se establece la bandera atrapada; de lo contrario,`FALSO` .
 
 ### Ver también
 
