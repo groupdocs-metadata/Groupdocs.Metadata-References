@@ -1,14 +1,14 @@
 ---
 title: OpenTypeMacintoshNameRecord
 second_title: Référence de l'API GroupDocs.Metadata pour .NET
-description: Représente la valeur de la table denregistrement de nom pour leMacintosh plateforme.
+description: Représente la valeur de la table denregistrement de nom pour leMacintoshplateforme.
 type: docs
 weight: 1510
 url: /fr/net/groupdocs.metadata.formats.font/opentypemacintoshnamerecord/
 ---
 ## OpenTypeMacintoshNameRecord class
 
-Représente la valeur de la table d'enregistrement de nom pour leMacintosh plate-forme.
+Représente la valeur de la table d'enregistrement de nom pour leMacintoshplate-forme.
 
 ```csharp
 public class OpenTypeMacintoshNameRecord : OpenTypeBaseNameRecord

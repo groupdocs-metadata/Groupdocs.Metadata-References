@@ -16,7 +16,7 @@ public XmpBoolean(bool value)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| value | Boolean | Boolean évaluer. |
+| value | Boolean | Booleanvaleur. |
 
 ### Voir également
 

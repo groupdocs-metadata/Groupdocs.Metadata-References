@@ -22,7 +22,7 @@ public sealed class SpreadsheetSheet : CustomPackage
 | [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | Obtient le[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty) avec le nom spécifié. |
 | [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | Obtient une collection des noms de propriétés de métadonnées. |
 | [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | Obtient le type de métadonnées. |
-| [Name](../../groupdocs.metadata.formats.document/spreadsheetsheet/name) { get; } | Récupère le nom de la feuille. |
+| [Name](../../groupdocs.metadata.formats.document/spreadsheetsheet/name) { get; } | Obtient le nom de la feuille. |
 | [Number](../../groupdocs.metadata.formats.document/spreadsheetsheet/number) { get; } | Obtient le numéro de feuille. |
 | [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | Obtient une collection de descripteurs contenant des informations sur les propriétés accessibles via le moteur de recherche GroupDocs.Metadata. |
 

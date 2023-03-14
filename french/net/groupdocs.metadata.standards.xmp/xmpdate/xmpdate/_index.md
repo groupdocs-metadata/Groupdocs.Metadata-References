@@ -16,7 +16,7 @@ public XmpDate(DateTime dateTime)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| dateTime | DateTime | DateTime évaluer. |
+| dateTime | DateTime | DateTimevaleur. |
 
 ### Voir également
 

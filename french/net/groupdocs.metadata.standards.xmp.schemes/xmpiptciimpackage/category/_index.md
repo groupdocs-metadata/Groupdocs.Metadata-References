@@ -1,14 +1,14 @@
 ---
 title: Category
 second_title: Référence de l'API GroupDocs.Metadata pour .NET
-description: Obtient ou définit le sujet des données dobjet selon lavis du fournisseur.
+description: Obtient ou définit le sujet des données dobjet selon lopinion du fournisseur.
 type: docs
 weight: 30
 url: /fr/net/groupdocs.metadata.standards.xmp.schemes/xmpiptciimpackage/category/
 ---
 ## XmpIptcIimPackage.Category property
 
-Obtient ou définit le sujet des données d'objet selon l'avis du fournisseur.
+Obtient ou définit le sujet des données d'objet selon l'opinion du fournisseur.
 
 ```csharp
 public string Category { get; set; }

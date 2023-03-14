@@ -16,7 +16,7 @@ public int GetHashCode(MetadataProperty obj)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| obj | MetadataProperty | La[`MetadataProperty`](../../metadataproperty) pour lequel un code de hachage doit être renvoyé. |
+| obj | MetadataProperty | Le[`MetadataProperty`](../../metadataproperty) pour lequel un code de hachage doit être retourné. |
 
 ### Return_Value
 

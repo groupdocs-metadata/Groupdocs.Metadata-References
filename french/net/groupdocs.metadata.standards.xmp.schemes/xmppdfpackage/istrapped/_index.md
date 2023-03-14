@@ -16,7 +16,7 @@ public bool? IsTrapped { get; set; }
 
 ### Valeur de la propriété
 
-`vrai` si le document a été piégé ; Par ailleurs,`faux` .
+`vrai` si le document a été piégé ; sinon,`FAUX` .
 
 ### Voir également
 

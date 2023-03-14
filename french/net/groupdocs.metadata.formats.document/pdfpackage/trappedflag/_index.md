@@ -16,7 +16,7 @@ public bool? TrappedFlag { get; set; }
 
 ### Valeur de la propriété
 
-`vrai` si le drapeau piégé est défini ; Par ailleurs,`faux` .
+`vrai` si le drapeau piégé est défini ; sinon,`FAUX` .
 
 ### Voir également
 

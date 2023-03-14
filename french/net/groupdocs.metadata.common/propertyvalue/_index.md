@@ -26,7 +26,7 @@ public class PropertyValue
 | [PropertyValue](propertyvalue#constructor_4)(int) | Initialise une nouvelle instance du[`PropertyValue`](../propertyvalue) classe avec une valeur entière. |
 | [PropertyValue](propertyvalue#constructor_5)(int[]) | Initialise une nouvelle instance du[`PropertyValue`](../propertyvalue) classe avec un tableau de valeurs entières. |
 | [PropertyValue](propertyvalue#constructor_6)(long) | Initialise une nouvelle instance du[`PropertyValue`](../propertyvalue) classe avec une valeur longue. |
-| [PropertyValue](propertyvalue#constructor_7)(long[]) | Initialise une nouvelle instance du[`PropertyValue`](../propertyvalue)classe avec un tableau de valeurs longues. |
+| [PropertyValue](propertyvalue#constructor_7)(long[]) | Initialise une nouvelle instance du[`PropertyValue`](../propertyvalue) classe avec un tableau de valeurs longues. |
 | [PropertyValue](propertyvalue#constructor_9)(string) | Initialise une nouvelle instance du[`PropertyValue`](../propertyvalue) classe avec une valeur de chaîne. |
 | [PropertyValue](propertyvalue#constructor_10)(string[]) | Initialise une nouvelle instance du[`PropertyValue`](../propertyvalue) classe avec un tableau de chaînes. |
 | [PropertyValue](propertyvalue#constructor_11)(TimeSpan) | Initialise une nouvelle instance du[`PropertyValue`](../propertyvalue) classe avec unTimeSpan valeur. |

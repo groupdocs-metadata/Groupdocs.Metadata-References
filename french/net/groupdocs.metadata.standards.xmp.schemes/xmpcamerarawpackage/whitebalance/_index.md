@@ -1,14 +1,14 @@
 ---
 title: WhiteBalance
 second_title: Référence de l'API GroupDocs.Metadata pour .NET
-description: Obtient le réglage de la balance des blancs. UtilisationSetWhiteBalancegroupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/setwhitebalance pour définir la valeur de la balance des blancs.
+description: Obtient le réglage de la balance des blancs. UtiliserSetWhiteBalancegroupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/setwhitebalance pour définir la valeur de la balance des blancs.
 type: docs
 weight: 400
 url: /fr/net/groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/whitebalance/
 ---
 ## XmpCameraRawPackage.WhiteBalance property
 
-Obtient le réglage de la balance des blancs. Utilisation[`SetWhiteBalance`](../setwhitebalance) pour définir la valeur de la balance des blancs.
+Obtient le réglage de la balance des blancs. Utiliser[`SetWhiteBalance`](../setwhitebalance) pour définir la valeur de la balance des blancs.
 
 ```csharp
 public string WhiteBalance { get; }

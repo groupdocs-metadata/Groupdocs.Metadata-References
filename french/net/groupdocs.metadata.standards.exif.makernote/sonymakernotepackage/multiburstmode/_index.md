@@ -16,7 +16,7 @@ public bool MultiBurstMode { get; }
 
 ### Valeur de la propriété
 
-`vrai` si le mode multi-rafale est activé ; Par ailleurs,`faux` .
+`vrai` si le mode multi-rafale est activé ; sinon,`FAUX` .
 
 ### Voir également
 

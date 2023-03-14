@@ -16,7 +16,7 @@ public bool? AutoShadows { get; set; }
 
 ### Valeur de la propriété
 
-`vrai` si [ombres automatiques] ; Par ailleurs,`faux` .
+`vrai` si [ombres automatiques] ; sinon,`FAUX` .
 
 ### Voir également
 

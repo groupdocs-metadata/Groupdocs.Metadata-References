@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Référence de l'API GroupDocs.Metadata pour .NET
-description: Récupère le nom de la feuille.
+description: Obtient le nom de la feuille.
 type: docs
 weight: 10
 url: /fr/net/groupdocs.metadata.formats.document/spreadsheetsheet/name/
 ---
 ## SpreadsheetSheet.Name property
 
-Récupère le nom de la feuille.
+Obtient le nom de la feuille.
 
 ```csharp
 public string Name { get; }

@@ -16,7 +16,7 @@ public bool IsQuotedPrintable { get; }
 
 ### Valeur de la propriété
 
-`vrai` si cette instance est citée imprimable ; Par ailleurs,`faux`.
+`vrai` si cette instance est citée imprimable ; sinon,`FAUX`.
 
 ### Voir également
 

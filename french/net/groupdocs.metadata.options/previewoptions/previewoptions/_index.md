@@ -1,14 +1,14 @@
 ---
 title: PreviewOptions
 second_title: Référence de l'API GroupDocs.Metadata pour .NET
-description: Initialise une nouvelle instance duPreviewOptionsgroupdocs.metadata.options/previewoptionsclasse provoquant la fermeture du flux de sortie.
+description: Initialise une nouvelle instance duPreviewOptionsgroupdocs.metadata.options/previewoptions classe provoquant la fermeture du flux de sortie.
 type: docs
 weight: 10
 url: /fr/net/groupdocs.metadata.options/previewoptions/previewoptions/
 ---
 ## PreviewOptions(CreatePageStream) {#constructor}
 
-Initialise une nouvelle instance du[`PreviewOptions`](../../previewoptions)classe provoquant la fermeture du flux de sortie.
+Initialise une nouvelle instance du[`PreviewOptions`](../../previewoptions) classe provoquant la fermeture du flux de sortie.
 
 ```csharp
 public PreviewOptions(CreatePageStream createPageStream)

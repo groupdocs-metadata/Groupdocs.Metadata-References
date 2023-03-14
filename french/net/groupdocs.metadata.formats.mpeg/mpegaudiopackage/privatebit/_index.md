@@ -16,7 +16,7 @@ public bool PrivateBit { get; }
 
 ### Valeur de la propriété
 
-`vrai` si [bit privé] ; Par ailleurs,`faux` .
+`vrai` si [bit privé] ; sinon,`FAUX` .
 
 ### Voir également
 

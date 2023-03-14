@@ -1,14 +1,14 @@
 ---
 title: Numerator
 second_title: Référence de l'API GroupDocs.Metadata pour .NET
-description: Récupère le numérateur.
+description: Obtient le numérateur.
 type: docs
 weight: 30
 url: /fr/net/groupdocs.metadata.formats.image/tiffrational/numerator/
 ---
 ## TiffRational.Numerator property
 
-Récupère le numérateur.
+Obtient le numérateur.
 
 ```csharp
 public uint Numerator { get; }

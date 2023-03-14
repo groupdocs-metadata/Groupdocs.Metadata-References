@@ -16,7 +16,7 @@ public bool? HasSettings { get; set; }
 
 ### Valeur de la propriété
 
-`vrai` si l'image a des paramètres bruts de caméra autres que ceux par défaut ; Par ailleurs,`faux` .
+`vrai` si l'image a des paramètres bruts de caméra autres que ceux par défaut ; sinon,`FAUX` .
 
 ### Voir également
 
