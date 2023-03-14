@@ -1,14 +1,14 @@
 ---
 title: VCardCommunicationRecordset
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示一组通信 vCard 记录 这些属性描述有关如何与 vCard 所代表的对象进行通信的信息
+description: 表示一组通信 vCard 记录 这些属性描述有关如何与 vCard 表示的对象进行通信的信息
 type: docs
 weight: 660
 url: /zh/net/groupdocs.metadata.formats.businesscard/vcardcommunicationrecordset/
 ---
 ## VCardCommunicationRecordset class
 
-表示一组通信 vCard 记录。 这些属性描述有关如何与 vCard 所代表的对象进行通信的信息。
+表示一组通信 vCard 记录。 这些属性描述有关如何与 vCard 表示的对象进行通信的信息。
 
 ```csharp
 public class VCardCommunicationRecordset : VCardRecordset
@@ -19,11 +19,11 @@ public class VCardCommunicationRecordset : VCardRecordset
 | 姓名 | 描述 |
 | --- | --- |
 | [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | 获取元数据属性的数量。 |
-| [EmailRecords](../../groupdocs.metadata.formats.businesscard/vcardcommunicationrecordset/emailrecords) { get; } | 获取与对象通信的电子邮件地址。 |
-| [Emails](../../groupdocs.metadata.formats.businesscard/vcardcommunicationrecordset/emails) { get; } | 获取与对象通信的电子邮件地址。 |
-| [ImppEntries](../../groupdocs.metadata.formats.businesscard/vcardcommunicationrecordset/imppentries) { get; } | 获取与对象进行即时消息传递和状态协议通信的 URI。 |
-| [ImppRecords](../../groupdocs.metadata.formats.businesscard/vcardcommunicationrecordset/impprecords) { get; } | 获取与对象进行即时消息传递和状态协议通信的 URI。 |
-| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定的名称。 |
+| [EmailRecords](../../groupdocs.metadata.formats.businesscard/vcardcommunicationrecordset/emailrecords) { get; } | 获取用于与对象通信的电子邮件地址。 |
+| [Emails](../../groupdocs.metadata.formats.businesscard/vcardcommunicationrecordset/emails) { get; } | 获取用于与对象通信的电子邮件地址。 |
+| [ImppEntries](../../groupdocs.metadata.formats.businesscard/vcardcommunicationrecordset/imppentries) { get; } | 获取用于与对象进行即时消息和状态协议通信的 URI。 |
+| [ImppRecords](../../groupdocs.metadata.formats.businesscard/vcardcommunicationrecordset/impprecords) { get; } | 获取用于与对象进行即时消息和状态协议通信的 URI。 |
+| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定名称. |
 | [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | 获取元数据属性名称的集合。 |
 | [LanguageRecords](../../groupdocs.metadata.formats.businesscard/vcardcommunicationrecordset/languagerecords) { get; } | 获取可用于联系对象的语言。 |
 | [Languages](../../groupdocs.metadata.formats.businesscard/vcardcommunicationrecordset/languages) { get; } | 获取可用于联系对象的语言。 |
@@ -43,12 +43,12 @@ public class VCardCommunicationRecordset : VCardRecordset
 | [GetEnumerator](../../groupdocs.metadata.common/metadatapackage/getenumerator)() | 返回一个遍历集合的枚举器。 |
 | virtual [RemoveProperties](../../groupdocs.metadata.common/metadatapackage/removeproperties)(Func&lt;MetadataProperty, bool&gt;) | 删除满足指定谓词的元数据属性。 |
 | virtual [Sanitize](../../groupdocs.metadata.common/metadatapackage/sanitize)() | 从包中删除可写元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
-| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
+| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是以下方法的组合[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
 | [UpdateProperties](../../groupdocs.metadata.common/metadatapackage/updateproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 更新满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [使用 vCard 元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+vCard+metadata)
 

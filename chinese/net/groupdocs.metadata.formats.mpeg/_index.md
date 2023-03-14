@@ -1,12 +1,12 @@
 ---
 title: GroupDocs.Metadata.Formats.Mpeg
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 命名空间提供了允许用户使用各种 MPEG 标准的元数据的功能
+description: 命名空间提供允许用户使用各种 MPEG 标准的元数据的功能
 type: docs
 weight: 140
 url: /zh/net/groupdocs.metadata.formats.mpeg/
 ---
-命名空间提供了允许用户使用各种 MPEG 标准的元数据的功能。
+命名空间提供允许用户使用各种 MPEG 标准的元数据的功能。
 
 ## 课程
 

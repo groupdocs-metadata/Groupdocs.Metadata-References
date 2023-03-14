@@ -1,14 +1,14 @@
 ---
 title: SetDescription
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 设置资源描述以单一语言给出
+description: 设置资源描述以单个语言给出
 type: docs
 weight: 210
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpdublincorepackage/setdescription/
 ---
 ## XmpDublinCorePackage.SetDescription method
 
-设置资源描述，以单一语言给出。
+设置资源描述，以单个语言给出。
 
 ```csharp
 public void SetDescription(string description)

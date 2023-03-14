@@ -1,21 +1,21 @@
 ---
 title: GroupDocs.Metadata.Formats.Cad
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 命名空间包含使用 CAD计算机辅助设计格式的类
+description: 命名空间包含用于处理 CAD计算机辅助设计格式的类
 type: docs
 weight: 80
 url: /zh/net/groupdocs.metadata.formats.cad/
 ---
-命名空间包含使用 CAD（计算机辅助设计）格式的类。
+命名空间包含用于处理 CAD（计算机辅助设计）格式的类。
 
 ## 课程
 
 | 班级 | 描述 |
 | --- | --- |
 | [CadCustomPropertyPackage](./cadcustompropertypackage) | 表示自定义 CAD 元数据属性的集合。 |
-| [CadPackage](./cadpackage) | 表示 CAD（计算机辅助设计）元数据。 |
+| [CadPackage](./cadpackage) | 代表CAD（计算机辅助设计）元数据。 |
 | [CadRootPackage](./cadrootpackage) | 表示允许在 CAD 绘图中使用元数据的根包。 |
-| [DwgRootPackage](./dwgrootpackage) | 表示允许在 DWG 绘图中使用元数据的根包。 |
+| [DwgRootPackage](./dwgrootpackage) | 表示允许在 DWG 图形中使用元数据的根包。 |
 | [DxfRootPackage](./dxfrootpackage) | 表示允许在 DXF 绘图中使用元数据的根包。 |
 ## 枚举
 

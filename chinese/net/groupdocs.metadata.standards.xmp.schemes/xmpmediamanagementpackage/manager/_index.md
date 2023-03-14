@@ -1,14 +1,14 @@
 ---
 title: Manager
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置管理该资源的资产管理系统的名称
+description: 获取或设置管理此资源的资产管理系统的名称
 type: docs
 weight: 80
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpmediamanagementpackage/manager/
 ---
 ## XmpMediaManagementPackage.Manager property
 
-获取或设置管理该资源的资产管理系统的名称。
+获取或设置管理此资源的资产管理系统的名称。
 
 ```csharp
 public string Manager { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: HEIF
 second_title: GroupDocs.Metadata for .NET API 参考
-description: HEIF 文件是一种高效容器图像文件格式能够在单个文件中存储单个图像或图像序列 HEIF 文件格式使用高效视频编码 HEVC 标准压缩图像 了解有关此文件格式 的更多信息这里https//docs.fileformat.com/image/heif/.
+description: HEIF 文件是一种高效容器图像文件格式能够在单个文件中存储单个图像或一系列图像 HEIF 文件格式使用高效视频编码 HEVC 标准压缩图像 详细了解此文件格式 这里https//docs.fileformat.com/image/heif/.
 type: docs
 weight: 210
 url: /zh/net/groupdocs.metadata.common/filetype/heif/
 ---
 ## FileType.HEIF field
 
-HEIF 文件是一种高效容器图像文件格式，能够在单个文件中存储单个图像或图像序列。 HEIF 文件格式使用高效视频编码 (HEVC) 标准压缩图像。 了解有关此文件格式 的更多信息[这里](https://docs.fileformat.com/image/heif/).
+HEIF 文件是一种高效容器图像文件格式，能够在单个文件中存储单个图像或一系列图像。 HEIF 文件格式使用高效视频编码 (HEVC) 标准压缩图像。 详细了解此文件格式 [这里](https://docs.fileformat.com/image/heif/).
 
 ```csharp
 public static readonly FileType HEIF;

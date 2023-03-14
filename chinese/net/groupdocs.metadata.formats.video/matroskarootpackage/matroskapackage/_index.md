@@ -20,13 +20,13 @@ Matroska 元数据包。
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [使用 Matroska (MKV) 文件中的元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+Matroska+%28MKV%29+files)
 
 ### 例子
 
-此示例演示如何读取 Matroska 格式特定的元数据属性。
+此示例演示如何读取特定于 Matroska 格式的元数据属性。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.InputMkv))

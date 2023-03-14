@@ -1,14 +1,14 @@
 ---
 title: Model
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取表示文件内容所涉及的人员信息的标记 对于图像中显示的人的照片
+description: 获取表示与文件内容有关的人的信息的标记 对于图片中显示的人的照片
 type: docs
 weight: 60
 url: /zh/net/groupdocs.metadata.tagging/persontagcategory/model/
 ---
 ## PersonTagCategory.Model property
 
-获取表示文件内容所涉及的人员信息的标记。 对于图像中显示的人的照片。
+获取表示与文件内容有关的人的信息的标记。 对于图片中显示的人的照片。
 
 ```csharp
 public PropertyTag Model { get; }
@@ -16,7 +16,7 @@ public PropertyTag Model { get; }
 
 ### 适当的价值
 
-表示文件内容所涉及的人的信息的标签。
+表示与文件内容有关的人的信息的标记。
 
 ### 也可以看看
 

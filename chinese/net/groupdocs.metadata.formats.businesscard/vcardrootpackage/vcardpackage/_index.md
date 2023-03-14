@@ -20,13 +20,13 @@ VCard 元数据包。
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [使用 vCard 元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+vCard+metadata)
 
 ### 例子
 
-此代码示例演示如何提取 vCard 字段以及描述性参数。
+此代码示例演示了如何提取 vCard 字段以及描述性参数。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.InputVcf))
@@ -37,7 +37,7 @@ using (Metadata metadata = new Metadata(Constants.InputVcf))
     {
         if (vCard.IdentificationRecordset.PhotoUriRecords != null)
         {
-            // 迭代所有由 URI 表示的照片
+            // 遍历 URI 表示的所有照片
             foreach (var photoUriRecord in vCard.IdentificationRecordset.PhotoUriRecords)
             {
                 // 打印属性值

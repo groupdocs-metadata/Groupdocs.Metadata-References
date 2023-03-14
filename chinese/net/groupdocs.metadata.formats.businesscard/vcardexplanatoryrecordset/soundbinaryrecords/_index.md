@@ -20,7 +20,7 @@ public VCardBinaryRecord[] SoundBinaryRecords { get; }
 
 ### 评论
 
-这个属性是一个简化版[`SoundRecords`](../soundrecords).
+此属性是[`SoundRecords`](../soundrecords).
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Errors
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取上次保存元数据期间遇到的验证错误数组
+description: 获取上次元数据保存期间遇到的验证错误数组
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.exceptions/metadatavalidationexception/errors/
 ---
 ## MetadataValidationException.Errors property
 
-获取上次保存元数据期间遇到的验证错误数组。
+获取上次元数据保存期间遇到的验证错误数组。
 
 ```csharp
 public string[] Errors { get; }
@@ -16,7 +16,7 @@ public string[] Errors { get; }
 
 ### 适当的价值
 
-上次保存元数据期间遇到的验证错误数组。
+上次元数据保存期间遇到的验证错误数组。
 
 ### 也可以看看
 

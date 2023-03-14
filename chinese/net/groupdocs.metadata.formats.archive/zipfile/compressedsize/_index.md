@@ -1,14 +1,14 @@
 ---
 title: CompressedSize
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 以字节为单位获取压缩大小
+description: 获取以字节为单位的压缩大小
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.archive/zipfile/compressedsize/
 ---
 ## ZipFile.CompressedSize property
 
-以字节为单位获取压缩大小。
+获取以字节为单位的压缩大小。
 
 ```csharp
 public ulong CompressedSize { get; }

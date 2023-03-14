@@ -1,14 +1,14 @@
 ---
 title: PidIdentifiers
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取本地PID源标识符的全局含义
+description: 获取本地 PID 源标识符的全局含义
 type: docs
 weight: 70
 url: /zh/net/groupdocs.metadata.formats.businesscard/vcardexplanatoryrecordset/pididentifiers/
 ---
 ## VCardExplanatoryRecordset.PidIdentifiers property
 
-获取本地PID源标识符的全局含义。
+获取本地 PID 源标识符的全局含义。
 
 ```csharp
 public string[] PidIdentifiers { get; }
@@ -20,7 +20,7 @@ public string[] PidIdentifiers { get; }
 
 ### 评论
 
-这个属性是一个简化版[`PidIdentifierRecords`](../pididentifierrecords).
+此属性是[`PidIdentifierRecords`](../pididentifierrecords).
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Author
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置作者 该值由AUT字段表示
+description: 获取或设置作者 该值由 AUT 字段表示
 type: docs
 weight: 50
 url: /zh/net/groupdocs.metadata.formats.audio/lyricstag/author/
 ---
 ## LyricsTag.Author property
 
-获取或设置作者。 该值由AUT字段表示。
+获取或设置作者。 该值由 AUT 字段表示。
 
 ```csharp
 public string Author { get; set; }

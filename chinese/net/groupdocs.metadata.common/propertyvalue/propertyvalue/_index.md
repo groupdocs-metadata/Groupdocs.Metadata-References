@@ -1,14 +1,14 @@
 ---
 title: PropertyValue
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化PropertyValuegroupdocs.metadata.common/propertyvalue具有整数值的类
+description: 初始化一个新的实例PropertyValuegroupdocs.metadata.common/propertyvalue具有整数值的类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.common/propertyvalue/propertyvalue/
 ---
 ## PropertyValue(int) {#constructor_4}
 
-初始化[`PropertyValue`](../../propertyvalue)具有整数值的类。
+初始化一个新的实例[`PropertyValue`](../../propertyvalue)具有整数值的类.
 
 ```csharp
 public PropertyValue(int value)
@@ -28,7 +28,7 @@ public PropertyValue(int value)
 
 ## PropertyValue(long) {#constructor_6}
 
-初始化[`PropertyValue`](../../propertyvalue)具有长值的类。
+初始化一个新的实例[`PropertyValue`](../../propertyvalue)具有长值的类.
 
 ```csharp
 public PropertyValue(long value)
@@ -36,7 +36,7 @@ public PropertyValue(long value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Int64 | 一个Int64价值。 |
+| value | Int64 | AInt64价值。 |
 
 ### 也可以看看
 
@@ -48,7 +48,7 @@ public PropertyValue(long value)
 
 ## PropertyValue(bool) {#constructor}
 
-初始化[`PropertyValue`](../../propertyvalue)具有布尔值的类。
+初始化一个新的实例[`PropertyValue`](../../propertyvalue)具有布尔值的类.
 
 ```csharp
 public PropertyValue(bool value)
@@ -56,7 +56,7 @@ public PropertyValue(bool value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Boolean | 一个Boolean价值。 |
+| value | Boolean | ABoolean价值。 |
 
 ### 也可以看看
 
@@ -68,7 +68,7 @@ public PropertyValue(bool value)
 
 ## PropertyValue(double) {#constructor_2}
 
-初始化[`PropertyValue`](../../propertyvalue)具有双值的类。
+初始化一个新的实例[`PropertyValue`](../../propertyvalue)具有双精度值的类.
 
 ```csharp
 public PropertyValue(double value)
@@ -76,7 +76,7 @@ public PropertyValue(double value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Double | 一个Double价值。 |
+| value | Double | ADouble价值。 |
 
 ### 也可以看看
 
@@ -88,7 +88,7 @@ public PropertyValue(double value)
 
 ## PropertyValue(string) {#constructor_9}
 
-初始化[`PropertyValue`](../../propertyvalue)具有字符串值的类。
+初始化一个新的实例[`PropertyValue`](../../propertyvalue)具有字符串值的类.
 
 ```csharp
 public PropertyValue(string value)
@@ -96,7 +96,7 @@ public PropertyValue(string value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | String | 一个String价值。 |
+| value | String | AString价值。 |
 
 ### 也可以看看
 
@@ -108,7 +108,7 @@ public PropertyValue(string value)
 
 ## PropertyValue(DateTime) {#constructor_8}
 
-初始化[`PropertyValue`](../../propertyvalue)类DateTime值.
+初始化一个新的实例[`PropertyValue`](../../propertyvalue)类与DateTime值.
 
 ```csharp
 public PropertyValue(DateTime value)
@@ -116,7 +116,7 @@ public PropertyValue(DateTime value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | DateTime | 一个DateTime价值。 |
+| value | DateTime | ADateTime价值。 |
 
 ### 也可以看看
 
@@ -128,7 +128,7 @@ public PropertyValue(DateTime value)
 
 ## PropertyValue(TimeSpan) {#constructor_11}
 
-初始化[`PropertyValue`](../../propertyvalue)类TimeSpan值.
+初始化一个新的实例[`PropertyValue`](../../propertyvalue)类与TimeSpan值.
 
 ```csharp
 public PropertyValue(TimeSpan value)
@@ -136,7 +136,7 @@ public PropertyValue(TimeSpan value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| value | TimeSpan | 一个TimeSpan价值。 |
+| value | TimeSpan | ATimeSpan价值。 |
 
 ### 也可以看看
 
@@ -148,7 +148,7 @@ public PropertyValue(TimeSpan value)
 
 ## PropertyValue(string[]) {#constructor_10}
 
-初始化[`PropertyValue`](../../propertyvalue)带有字符串数组的类。
+初始化一个新的实例[`PropertyValue`](../../propertyvalue)带有字符串数组的类.
 
 ```csharp
 public PropertyValue(string[] values)
@@ -168,7 +168,7 @@ public PropertyValue(string[] values)
 
 ## PropertyValue(byte[]) {#constructor_1}
 
-初始化[`PropertyValue`](../../propertyvalue)带有字节数组的类。
+初始化一个新的实例[`PropertyValue`](../../propertyvalue)带有字节数组的类.
 
 ```csharp
 public PropertyValue(byte[] values)
@@ -188,7 +188,7 @@ public PropertyValue(byte[] values)
 
 ## PropertyValue(double[]) {#constructor_3}
 
-初始化[`PropertyValue`](../../propertyvalue)具有双值数组的类。
+初始化一个新的实例[`PropertyValue`](../../propertyvalue)具有双值数组的类.
 
 ```csharp
 public PropertyValue(double[] values)
@@ -196,7 +196,7 @@ public PropertyValue(double[] values)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| values | Double[] | 一个双精度值数组。 |
+| values | Double[] | 双精度值数组。 |
 
 ### 也可以看看
 
@@ -208,7 +208,7 @@ public PropertyValue(double[] values)
 
 ## PropertyValue(int[]) {#constructor_5}
 
-初始化[`PropertyValue`](../../propertyvalue)具有整数值数组的类。
+初始化一个新的实例[`PropertyValue`](../../propertyvalue)具有整数值数组的类.
 
 ```csharp
 public PropertyValue(int[] values)
@@ -228,7 +228,7 @@ public PropertyValue(int[] values)
 
 ## PropertyValue(long[]) {#constructor_7}
 
-初始化[`PropertyValue`](../../propertyvalue)具有长值数组的类。
+初始化一个新的实例[`PropertyValue`](../../propertyvalue)具有长值数组的类.
 
 ```csharp
 public PropertyValue(long[] values)
@@ -236,7 +236,7 @@ public PropertyValue(long[] values)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| values | Int64[] | 一个长值数组。 |
+| values | Int64[] | 长值数组。 |
 
 ### 也可以看看
 

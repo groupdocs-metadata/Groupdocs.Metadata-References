@@ -1,14 +1,14 @@
 ---
 title: Title
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置资源的名称
+description: 获取或设置为资源指定的名称
 type: docs
 weight: 540
 url: /zh/net/groupdocs.metadata.formats.ebook/epubpackage/title/
 ---
 ## EpubPackage.Title property
 
-获取或设置资源的名称。
+获取或设置为资源指定的名称。
 
 ```csharp
 public string Title { get; set; }
@@ -16,7 +16,7 @@ public string Title { get; set; }
 
 ### 适当的价值
 
-资源的名称。
+为资源指定的名称。
 
 ### 也可以看看
 

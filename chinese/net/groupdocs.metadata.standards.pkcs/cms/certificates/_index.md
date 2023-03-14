@@ -20,7 +20,7 @@ public CmsCertificate[] Certificates { get; }
 
 ### 评论
 
-旨在证书集足以包含从公认的“根”或“顶级 证书颁发机构”到 SignerInfo 字段中的所有签名者的证书路径。
+这组证书足以包含从公认的“根”或“顶级 证书颁发机构”到 SignerInfo 字段中所有签名者的证书路径。
 
 ### 也可以看看
 

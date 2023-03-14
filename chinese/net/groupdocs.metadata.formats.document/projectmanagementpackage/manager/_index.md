@@ -16,7 +16,7 @@ public string Manager { get; set; }
 
 ### 适当的价值
 
-项目经理。
+项目经理.
 
 ### 也可以看看
 

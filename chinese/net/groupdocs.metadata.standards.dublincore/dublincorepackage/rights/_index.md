@@ -1,14 +1,14 @@
 ---
 title: Rights
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取都柏林核心元素的权利
+description: 获得都柏林核心元素的权利
 type: docs
 weight: 110
 url: /zh/net/groupdocs.metadata.standards.dublincore/dublincorepackage/rights/
 ---
 ## DublinCorePackage.Rights property
 
-获取都柏林核心元素的权利。
+获得都柏林核心元素的权利。
 
 ```csharp
 public string Rights { get; }
@@ -16,7 +16,7 @@ public string Rights { get; }
 
 ### 适当的价值
 
-关于资源中和资源上的权利的信息。 通常，Rights 元素将包含资源的权限管理语句， 或引用提供此类信息的服务。权利信息 通常包括知识产权 (IPR)、版权和各种产权。 如果权利元素不存在，则无法对这些权利和 其他与资源相关的权利的状态做出假设。
+有关资源所拥有权利的信息。 通常，权限元素将包含资源的权限管理声明， 或引用提供此类信息的服务。权利信息 通常包含知识产权 (IPR)、版权和各种产权。 如果权利元素不存在，则无法假设这些权利的状态以及 与资源有关的其他权利。
 
 ### 也可以看看
 

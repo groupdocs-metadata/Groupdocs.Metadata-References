@@ -1,14 +1,14 @@
 ---
 title: Id
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取框架的 id四个字符匹配模式 AZ09
+description: 获取帧的 id匹配模式 AZ09 的四个字符
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2tagframe/id/
 ---
 ## ID3V2TagFrame.Id property
 
-获取框架的 id（四个字符匹配模式 [A-Z0-9]）。
+获取帧的 id（匹配模式 [A-Z0-9] 的四个字符）。
 
 ```csharp
 public string Id { get; }
@@ -16,7 +16,7 @@ public string Id { get; }
 
 ### 适当的价值
 
-框架的 id（四个字符匹配模式 [A-Z0-9]）。
+帧的 id（匹配模式 [A-Z0-9] 的四个字符）。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Id
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取评论id
+description: 获取评论id.
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.formats.document/wordprocessingcomment/id/
 ---
 ## WordProcessingComment.Id property
 
-获取评论id。
+获取评论id.
 
 ```csharp
 public int Id { get; }
@@ -16,7 +16,7 @@ public int Id { get; }
 
 ### 适当的价值
 
-评论标识符。
+注释标识符。
 
 ### 也可以看看
 

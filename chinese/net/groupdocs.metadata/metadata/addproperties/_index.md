@@ -16,31 +16,31 @@ public int AddProperties(Func<MetadataProperty, bool> predicate, PropertyValue v
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| predicate | Func`2 | 用于测试每个元数据属性的条件的函数。 |
-| value | PropertyValue | 拾取属性的值。 |
+| predicate | Func`2 | 用于测试条件的每个元数据属性的函数。 |
+| value | PropertyValue | 所选属性的值。 |
 
 ### 返回值
 
-受影响属性的数量。
+受影响的属性的数量。
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多演示此方法用法的示例： [添加元数据](https://docs.groupdocs.com/display/metadatanet/Adding+metadata)
+* 更多示例演示此方法的用法： [添加元数据](https://docs.groupdocs.com/display/metadatanet/Adding+metadata)
 
 ### 例子
 
-此示例演示如何将一些缺少的元数据属性添加到文件中，而不管其格式如何。
+此示例演示如何将一些缺失的元数据属性添加到文件，而不管其格式如何。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.InputDocx))
 {
-    // 添加一个包含文件上次打印日期的属性（如果缺少）
+    // 添加一个包含文件最后打印日期的属性（如果缺少）
     // 请注意，该属性将被添加到满足以下条件的元数据包中：
-    // 1) 只有现有的元数据包会受到影响。此操作期间不添加新包
-    // 2) 包结构中应该有一个已知的元数据属性，它符合搜索条件，但实际上在包中是缺失的。
-    // 某个包支持的所有属性通常定义在特定元数据标准的规范中
+    // 1) 只有现有的元数据包会受到影响。在此操作期间没有添加新包
+    // 2) 包结构中应该有一个符合搜索条件但实际包中缺失的已知元数据属性。
+    // 某个包支持的所有属性通常在特定元数据标准的规范中定义
     var affected = metadata.AddProperties(p => p.Tags.Contains(Tags.Time.Printed), new PropertyValue(DateTime.Now));
 
     Console.WriteLine("Affected properties: {0}", affected);

@@ -1,14 +1,14 @@
 ---
 title: HeaderSize
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 以字节为单位获取标头的大小
+description: 获取标头的大小以字节为单位
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.formats.image/bmpheaderpackage/headersize/
 ---
 ## BmpHeaderPackage.HeaderSize property
 
-以字节为单位获取标头的大小。
+获取标头的大小（以字节为单位）。
 
 ```csharp
 public uint HeaderSize { get; }

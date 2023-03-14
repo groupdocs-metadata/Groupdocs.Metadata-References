@@ -1,14 +1,14 @@
 ---
 title: ContentType
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置内容类型 这个值由TCON帧表示
+description: 获取或设置内容类型 此值由 TCON 帧表示
 type: docs
 weight: 90
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2tag/contenttype/
 ---
 ## ID3V2Tag.ContentType property
 
-获取或设置内容类型。 这个值由TCON帧表示。
+获取或设置内容类型。 此值由 TCON 帧表示。
 
 ```csharp
 public string ContentType { get; set; }

@@ -16,7 +16,7 @@ public string AudioSampleType { get; set; }
 
 ### 适当的价值
 
-音频样本类型。以下之一：8Int、16Int、24Int、32Int、32Float、压缩、打包、其他。
+音频样本类型。其中之一：8Int、16Int、24Int、32Int、32Float、Compressed、Packed、Other.
 
 ### 也可以看看
 

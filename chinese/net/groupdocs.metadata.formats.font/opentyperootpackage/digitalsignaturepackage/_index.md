@@ -20,13 +20,13 @@ public CmsPackage DigitalSignaturePackage { get; }
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [使用 OpenType 字体](https://docs.groupdocs.com/display/metadatanet/Working+with+OpenType+fonts)
 
 ### 例子
 
-此代码片段演示如何提取与 OpenType 字体关联的数字签名。
+此代码片段演示了如何提取与 OpenType 字体关联的数字签名。
 
 ```csharp
 public static void Run()

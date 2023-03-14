@@ -1,14 +1,14 @@
 ---
 title: XmpFont
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpFontgroupdocs.metadata.standards.xmp/xmpfont类.
+description: 初始化一个新的实例XmpFontgroupdocs.metadata.standards.xmp/xmpfont类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpfont/xmpfont/
 ---
 ## XmpFont() {#constructor}
 
-初始化[`XmpFont`](../../xmpfont)类.
+初始化一个新的实例[`XmpFont`](../../xmpfont)类.
 
 ```csharp
 public XmpFont()
@@ -24,7 +24,7 @@ public XmpFont()
 
 ## XmpFont(string) {#constructor_1}
 
-初始化[`XmpFont`](../../xmpfont)类.
+初始化一个新的实例[`XmpFont`](../../xmpfont)类.
 
 ```csharp
 public XmpFont(string fontFamily)

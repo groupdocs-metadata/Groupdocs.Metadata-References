@@ -1,14 +1,14 @@
 ---
 title: CreationDate
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置种子的创建日期
+description: 获取或设置 torrent 的创建日期
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.formats.peer2peer/torrentpackage/creationdate/
 ---
 ## TorrentPackage.CreationDate property
 
-获取或设置种子的创建日期。
+获取或设置 torrent 的创建日期。
 
 ```csharp
 public DateTime? CreationDate { get; set; }
@@ -16,7 +16,7 @@ public DateTime? CreationDate { get; set; }
 
 ### 适当的价值
 
-种子的创建日期。
+洪流的创建日期。
 
 ### 也可以看看
 

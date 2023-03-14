@@ -1,14 +1,14 @@
 ---
 title: FontFileName
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置字体文件名不是完整路径
+description: 获取或设置字体文件名非完整路径
 type: docs
 weight: 50
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpfont/fontfilename/
 ---
 ## XmpFont.FontFileName property
 
-获取或设置字体文件名（不是完整路径）。
+获取或设置字体文件名（非完整路径）。
 
 ```csharp
 public string FontFileName { get; set; }

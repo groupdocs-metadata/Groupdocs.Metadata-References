@@ -16,7 +16,7 @@ public DateTime CreationDate { get; set; }
 
 ### 适当的价值
 
-创建日期。
+创建日期.
 
 ### 也可以看看
 

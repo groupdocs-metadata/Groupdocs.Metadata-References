@@ -20,7 +20,7 @@ public DocumentStatistics DocumentStatistics { get; }
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [使用 PDF 文档中的元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+PDF+documents)
 

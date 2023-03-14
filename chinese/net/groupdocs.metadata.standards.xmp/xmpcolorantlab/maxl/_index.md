@@ -1,14 +1,14 @@
 ---
 title: MaxL
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 组件 L 最大值
+description: 分量 L 最大值
 type: docs
 weight: 50
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpcolorantlab/maxl/
 ---
 ## XmpColorantLab.MaxL field
 
-组件 L 最大值。
+分量 L 最大值。
 
 ```csharp
 public const double MaxL;

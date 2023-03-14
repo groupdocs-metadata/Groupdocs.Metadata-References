@@ -1,14 +1,14 @@
 ---
 title: Pieces
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取一个字节数组该数组由所有 20 字节 SHA1 哈希值的串联组成每个部分一个
+description: 获取一个字节数组该数组由所有 20 字节 SHA1 哈希值的串联组成每片一个
 type: docs
 weight: 60
 url: /zh/net/groupdocs.metadata.formats.peer2peer/torrentpackage/pieces/
 ---
 ## TorrentPackage.Pieces property
 
-获取一个字节数组，该数组由所有 20 字节 SHA1 哈希值的串联组成，每个部分一个。
+获取一个字节数组，该数组由所有 20 字节 SHA1 哈希值的串联组成，每片一个。
 
 ```csharp
 public byte[] Pieces { get; }
@@ -16,7 +16,7 @@ public byte[] Pieces { get; }
 
 ### 适当的价值
 
-一个字节数组，由所有 20 字节 SHA1 哈希值的串联组成，每个部分一个。
+一个字节数组，由所有 20 字节 SHA1 散列值的串联组成，每段一个。
 
 ### 也可以看看
 

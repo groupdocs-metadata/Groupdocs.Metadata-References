@@ -16,7 +16,7 @@ public string Copyright { get; }
 
 ### 适当的价值
 
-版权。
+版权.
 
 ### 也可以看看
 

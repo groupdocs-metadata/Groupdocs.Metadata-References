@@ -16,7 +16,7 @@ public PropertyTag Title { get; }
 
 ### 适当的价值
 
-标记给文件的名称的标签。
+标记文件名称的标签。
 
 ### 也可以看看
 

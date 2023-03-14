@@ -20,13 +20,13 @@ public DublinCorePackage DublinCorePackage { get; }
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* [在 EPUB 电子书中处理元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+EPUB+E-Books)
+* [在 EPUB 电子书中使用元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+EPUB+E-Books)
 
 ### 例子
 
-此示例说明如何从 EPUB 文件中提取都柏林核心元数据。
+此示例展示了如何从 EPUB 文件中提取 Dublin Core 元数据。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.InputEpub))

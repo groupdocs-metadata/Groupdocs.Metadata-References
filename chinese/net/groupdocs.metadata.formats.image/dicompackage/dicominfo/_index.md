@@ -8,7 +8,7 @@ url: /zh/net/groupdocs.metadata.formats.image/dicompackage/dicominfo/
 ---
 ## DicomPackage.DicomInfo property
 
-获取DICOM文件的头信息
+获取DICOM文件的头信息。
 
 ```csharp
 public string[] DicomInfo { get; }

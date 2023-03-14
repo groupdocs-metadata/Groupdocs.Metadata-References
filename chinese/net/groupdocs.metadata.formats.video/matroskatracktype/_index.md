@@ -20,8 +20,8 @@ public enum MatroskaTrackType : byte
 | --- | --- | --- |
 | Undefined | `0` | 未定义的轨道类型。 |
 | Video | `1` | 轨道是视频轨道。 |
-| Audio | `2` | 音轨是音轨。 |
-| Complex | `3` | 轨道是复合轨道，即结合的视频和音频轨道。 |
+| Audio | `2` | 轨道是音轨。 |
+| Complex | `3` | Track是一个复杂的track，即视频和音频的组合轨道。 |
 | Logo | `16` | 轨道是标志轨道。 |
 | Subtitle | `17` | 轨道是字幕轨道。 |
 | Button | `18` | 轨道是按钮轨道。 |

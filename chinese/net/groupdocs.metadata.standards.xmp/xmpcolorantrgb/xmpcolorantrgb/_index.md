@@ -1,14 +1,14 @@
 ---
 title: XmpColorantRgb
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpColorantRgbgroupdocs.metadata.standards.xmp/xmpcolorantrgb类.
+description: 初始化一个新的实例XmpColorantRgbgroupdocs.metadata.standards.xmp/xmpcolorantrgb类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpcolorantrgb/xmpcolorantrgb/
 ---
 ## XmpColorantRgb() {#constructor}
 
-初始化[`XmpColorantRgb`](../../xmpcolorantrgb)类.
+初始化一个新的实例[`XmpColorantRgb`](../../xmpcolorantrgb)类.
 
 ```csharp
 public XmpColorantRgb()
@@ -24,7 +24,7 @@ public XmpColorantRgb()
 
 ## XmpColorantRgb(byte, byte, byte) {#constructor_1}
 
-初始化[`XmpColorantRgb`](../../xmpcolorantrgb)类.
+初始化一个新的实例[`XmpColorantRgb`](../../xmpcolorantrgb)类.
 
 ```csharp
 public XmpColorantRgb(byte red, byte green, byte blue)
@@ -32,9 +32,9 @@ public XmpColorantRgb(byte red, byte green, byte blue)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| red | Byte | 红色组件。 |
+| red | Byte | 红色成分。 |
 | green | Byte | 绿色组件。 |
-| blue | Byte | 蓝色组件。 |
+| blue | Byte | 蓝色成分。 |
 
 ### 也可以看看
 

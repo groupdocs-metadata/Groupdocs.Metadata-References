@@ -1,14 +1,14 @@
 ---
 title: Relationships
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取另一个实体与此 vCard 表示的实体之间的关系
+description: 获取另一个实体与此 vCard 代表的实体之间的关系
 type: docs
 weight: 140
 url: /zh/net/groupdocs.metadata.formats.businesscard/vcardorganizationalrecordset/relationships/
 ---
 ## VCardOrganizationalRecordset.Relationships property
 
-获取另一个实体与此 vCard 表示的实体之间的关系。
+获取另一个实体与此 vCard 代表的实体之间的关系。
 
 ```csharp
 public string[] Relationships { get; }
@@ -20,7 +20,7 @@ public string[] Relationships { get; }
 
 ### 评论
 
-这个属性是一个简化版[`RelationshipRecords`](../relationshiprecords).
+此属性是[`RelationshipRecords`](../relationshiprecords).
 
 ### 也可以看看
 

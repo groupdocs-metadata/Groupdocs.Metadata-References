@@ -1,14 +1,14 @@
 ---
 title: IIptc
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示旨在使用 IPTC 元数据的基本操作 请在以下位置找到更多信息http//en.wikipedia.org/wiki/International_Press_Telecommunications_Councilhttp//en.wikipedia.org/wiki/International_Press_Telecommunications_Council.
+description: 表示用于 IPTC 元数据的基本操作 请在以下位置找到更多信息http//en.wikipedia.org/wiki/International_Press_Telecommunications_Councilhttp//en.wikipedia.org/wiki/International_Press_Telecommunications_Council.
 type: docs
 weight: 2870
 url: /zh/net/groupdocs.metadata.standards.iptc/iiptc/
 ---
 ## IIptc interface
 
-表示旨在使用 IPTC 元数据的基本操作。 请在以下位置找到更多信息[http://en.wikipedia.org/wiki/International_Press_Telecommunications_Council](http://en.wikipedia.org/wiki/International_Press_Telecommunications_Council).
+表示用于 IPTC 元数据的基本操作。 请在以下位置找到更多信息[http://en.wikipedia.org/wiki/International_Press_Telecommunications_Council](http://en.wikipedia.org/wiki/International_Press_Telecommunications_Council).
 
 ```csharp
 public interface IIptc
@@ -22,13 +22,13 @@ public interface IIptc
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [使用 IPTC IIM 元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+IPTC+IIM+metadata)
 
 ### 例子
 
-这个例子展示了如何读取基本的 IPTC 元数据属性。
+此示例显示如何读取基本 IPTC 元数据属性。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.JpegWithIptc))

@@ -1,14 +1,14 @@
 ---
 title: ID
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取字段的id总是三个字符长
+description: 获取字段的 id它总是三个字符长
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.formats.audio/lyricsfield/id/
 ---
 ## LyricsField.ID property
 
-获取字段的id（总是三个字符长）。
+获取字段的 id（它总是三个字符长）。
 
 ```csharp
 public string ID { get; }
@@ -16,7 +16,7 @@ public string ID { get; }
 
 ### 适当的价值
 
-字段的id（总是三个字符长）。
+字段的 id（它总是三个字符长）。
 
 ### 也可以看看
 

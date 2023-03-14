@@ -1,14 +1,14 @@
 ---
 title: Label
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置将资源标识为用户定义集合成员的单词或短语
+description: 获取或设置将资源标识为用户定义集合成员的词或短语
 type: docs
 weight: 60
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpbasicpackage/label/
 ---
 ## XmpBasicPackage.Label property
 
-获取或设置将资源标识为用户定义集合成员的单词或短语。
+获取或设置将资源标识为用户定义集合成员的词或短语。
 
 ```csharp
 public string Label { get; set; }

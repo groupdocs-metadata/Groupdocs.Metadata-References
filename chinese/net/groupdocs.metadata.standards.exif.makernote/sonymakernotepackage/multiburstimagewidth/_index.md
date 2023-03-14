@@ -1,14 +1,14 @@
 ---
 title: MultiBurstImageWidth
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取多连发图像的宽度
+description: 获取多连拍图像的宽度
 type: docs
 weight: 140
 url: /zh/net/groupdocs.metadata.standards.exif.makernote/sonymakernotepackage/multiburstimagewidth/
 ---
 ## SonyMakerNotePackage.MultiBurstImageWidth property
 
-获取多连发图像的宽度。
+获取多连拍图像的宽度。
 
 ```csharp
 public ushort? MultiBurstImageWidth { get; }
@@ -16,7 +16,7 @@ public ushort? MultiBurstImageWidth { get; }
 
 ### 适当的价值
 
-多连拍图像的宽度。
+多脉冲图像的宽度。
 
 ### 也可以看看
 

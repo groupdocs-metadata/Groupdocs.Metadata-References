@@ -1,14 +1,14 @@
 ---
 title: IsProtected
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取真的如果受保护
+description: 获取真的如果受保护.
 type: docs
 weight: 90
 url: /zh/net/groupdocs.metadata.formats.mpeg/mpegaudiopackage/isprotected/
 ---
 ## MpegAudioPackage.IsProtected property
 
-获取`真的`如果受保护。
+获取`真的`如果受保护.
 
 ```csharp
 public bool IsProtected { get; }

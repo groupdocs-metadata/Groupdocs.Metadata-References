@@ -1,14 +1,14 @@
 ---
 title: Changed
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置自上次事件历史以来已更改的资源部分的分号分隔列表
+description: 获取或设置自上次事件历史以来更改的资源部分的分号分隔列表
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpresourceevent/changed/
 ---
 ## XmpResourceEvent.Changed property
 
-获取或设置自上次事件历史以来已更改的资源部分的分号分隔列表。
+获取或设置自上次事件历史以来更改的资源部分的分号分隔列表。
 
 ```csharp
 public string Changed { get; set; }
@@ -16,7 +16,7 @@ public string Changed { get; set; }
 
 ### 适当的价值
 
-自上一个事件历史记录以来已更改的资源部分的分号分隔列表。
+自上次事件历史以来更改的资源部分的分号分隔列表。
 
 ### 也可以看看
 

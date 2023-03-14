@@ -20,29 +20,29 @@ public enum OpenTypeName : ushort
 | --- | --- | --- |
 | CopyrightNotice | `0` | 版权声明。 |
 | FontFamilyName | `1` | 字体系列名称。 |
-| FontSubfamilyName | `2` | 字体子系列名称。 |
+| FontSubfamilyName | `2` | 字体子家族名称。 |
 | UniqueFontIdentifier | `3` | 唯一字体标识符。 |
 | FullFontName | `4` | 反映所有系列和相关子系列描述符的完整字体名称。 |
 | VersionString | `5` | 版本字符串。 |
 | PostScriptName | `6` | 字体的 PostScript 名称。 |
-| Trademark | `7` | 此字体的商标声明/信息。 |
-| ManufacturerName | `8` | 制造商名称. |
-| Designer | `9` | 设计师；字体设计者的名字。 |
-| Description | `10` | 字体描述。 |
+| Trademark | `7` | 此字体的商标通知/信息。 |
+| ManufacturerName | `8` | 制造商名称。 |
+| Designer | `9` | 设计师；字体设计者的名字. |
+| Description | `10` | 字体说明。 |
 | UrlVendor | `11` | 字体供应商的 URL（带有协议，例如 http://、ftp://）。 |
-| UrlDesigner | `12` | 字体设计器的 URL（带有协议，例如 http://、ftp://）。 |
-| LicenseDescription | `13` | 字体如何合法使用的描述，或许可使用的不同示例场景。 |
-| LicenseInfoUrl | `14` | 可以找到其他许可信息的 URL。 |
-| TypographicFamily | `16` | 排版姓氏。 |
+| UrlDesigner | `12` | 字体设计者的 URL（带有协议，例如 http://、ftp://）。 |
+| LicenseDescription | `13` | 说明如何合法使用字体，或许可使用的不同示例场景。 |
+| LicenseInfoUrl | `14` | 可在其中找到其他许可信息的 URL。 |
+| TypographicFamily | `16` | 印刷姓氏。 |
 | TypographicSubfamily | `17` | 印刷亚科名称。 |
-| CompatibleFull | `18` | 完全兼容（仅限 Macintosh）。 在 Macintosh 上，菜单名称是使用 FOND 资源构建的。 |
-| SampleText | `19` | 示例文本。 这可以是字体名称，或设计人员认为是显示字体的最佳示例的任何其他文本。 |
+| CompatibleFull | `18` | 完全兼容（仅限 Macintosh）。 在 Macintosh 上，菜单名称是使用 FOND 资源构造的。 |
+| SampleText | `19` | 示例文本。 这可以是字体名称，或设计者认为是显示字体的最佳示例的任何其他文本。 |
 | PostScriptCidFindfont | `20` | PostScript CID 查找字体名称。 |
-| WwsFamilyName | `21` | WWS 家族名称. |
+| WwsFamilyName | `21` | WWS 系列名称. |
 | WwsSubfamilyName | `22` | WWS 亚科名称. |
 | LightBackgroundPalette | `23` | 浅色背景调色板。 |
 | DarkBackgroundPalette | `24` | 深色背景调色板。 |
-| VariationsPostScriptNamePrefix | `25` | PostScript 名称前缀的变体。 |
+| VariationsPostScriptNamePrefix | `25` | 变体 PostScript 名称前缀。 |
 
 ### 也可以看看
 

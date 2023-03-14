@@ -16,7 +16,7 @@ public string Nickname { get; set; }
 
 ### 适当的价值
 
-昵称。
+昵称.
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: TrappedFlag
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置被困标志
+description: 获取或设置陷阱标志
 type: docs
 weight: 90
 url: /zh/net/groupdocs.metadata.formats.document/pdfpackage/trappedflag/
 ---
 ## PdfPackage.TrappedFlag property
 
-获取或设置被困标志。
+获取或设置陷阱标志。
 
 ```csharp
 public bool? TrappedFlag { get; set; }
@@ -16,7 +16,7 @@ public bool? TrappedFlag { get; set; }
 
 ### 适当的价值
 
-`真的`如果设置了捕获标志；否则，`错误的`.
+`真的`如果设置了被困标志；否则，`错误的`.
 
 ### 也可以看看
 

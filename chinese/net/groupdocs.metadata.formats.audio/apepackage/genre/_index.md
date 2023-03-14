@@ -1,14 +1,14 @@
 ---
 title: Genre
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取流派
+description: 获取类型
 type: docs
 weight: 110
 url: /zh/net/groupdocs.metadata.formats.audio/apepackage/genre/
 ---
 ## ApePackage.Genre property
 
-获取流派。
+获取类型。
 
 ```csharp
 public string Genre { get; }

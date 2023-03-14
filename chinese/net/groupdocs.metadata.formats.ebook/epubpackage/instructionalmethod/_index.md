@@ -1,14 +1,14 @@
 ---
 title: InstructionalMethod
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置一个过程用于产生知识态度和技能所描述的资源旨在支持
+description: 获取或设置一个过程用于产生所描述的资源旨在支持的知识态度和技能
 type: docs
 weight: 280
 url: /zh/net/groupdocs.metadata.formats.ebook/epubpackage/instructionalmethod/
 ---
 ## EpubPackage.InstructionalMethod property
 
-获取或设置一个过程，用于产生知识、态度和技能，所描述的资源旨在支持。
+获取或设置一个过程，用于产生所描述的资源旨在支持的知识、态度和技能。
 
 ```csharp
 public string InstructionalMethod { get; set; }
@@ -16,7 +16,7 @@ public string InstructionalMethod { get; set; }
 
 ### 适当的价值
 
-用于产生知识、态度和技能的过程，所描述的资源旨在支持。
+用于产生知识、态度和技能的过程，所描述的资源旨在支持这些知识、态度和技能。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: ImgDirection
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置图像拍摄时的GPS方向 取值范围为0.00到359.99
+description: 获取或设置图片拍摄时的GPS方向 取值范围为0.00到359.99
 type: docs
 weight: 170
 url: /zh/net/groupdocs.metadata.standards.exif/exifgpspackage/imgdirection/
 ---
 ## ExifGpsPackage.ImgDirection property
 
-获取或设置图像拍摄时的GPS方向。 取值范围为0.00到359.99。
+获取或设置图片拍摄时的GPS方向。 取值范围为0.00到359.99。
 
 ```csharp
 public TiffRational ImgDirection { get; set; }
@@ -16,7 +16,7 @@ public TiffRational ImgDirection { get; set; }
 
 ### 适当的价值
 
-图像拍摄时的 GPS 方向。
+拍摄时图像的GPS方向。
 
 ### 也可以看看
 

@@ -33,7 +33,7 @@ public static bool Equals(TiffRational rational, TiffRational other)
 
 ## Equals(TiffRational) {#equals}
 
-表示当前对象是否等于另一个同类型的对象。
+表示当前对象是否等于另一个相同类型的对象。
 
 ```csharp
 public bool Equals(TiffRational other)
@@ -57,7 +57,7 @@ public bool Equals(TiffRational other)
 
 ## Equals(object) {#equals_1}
 
-表示当前对象是否等于另一个同类型的对象。
+表示当前对象是否等于另一个相同类型的对象。
 
 ```csharp
 public override bool Equals(object obj)

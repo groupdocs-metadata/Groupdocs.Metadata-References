@@ -1,14 +1,14 @@
 ---
 title: XmpPdfPackage
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpPdfPackagegroupdocs.metadata.standards.xmp.schemes/xmppdfpackage类.
+description: 初始化一个新的实例XmpPdfPackagegroupdocs.metadata.standards.xmp.schemes/xmppdfpackage类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/xmppdfpackage/
 ---
 ## XmpPdfPackage constructor
 
-初始化[`XmpPdfPackage`](../../xmppdfpackage)类.
+初始化一个新的实例[`XmpPdfPackage`](../../xmppdfpackage)类.
 
 ```csharp
 public XmpPdfPackage()

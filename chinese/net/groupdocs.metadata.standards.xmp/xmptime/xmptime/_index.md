@@ -1,14 +1,14 @@
 ---
 title: XmpTime
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpTimegroupdocs.metadata.standards.xmp/xmptime类.
+description: 初始化一个新的实例XmpTimegroupdocs.metadata.standards.xmp/xmptime类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp/xmptime/xmptime/
 ---
 ## XmpTime() {#constructor}
 
-初始化[`XmpTime`](../../xmptime)类.
+初始化一个新的实例[`XmpTime`](../../xmptime)类.
 
 ```csharp
 public XmpTime()
@@ -24,7 +24,7 @@ public XmpTime()
 
 ## XmpTime(XmpRational, int) {#constructor_1}
 
-初始化[`XmpTime`](../../xmptime)类.
+初始化一个新的实例[`XmpTime`](../../xmptime)类.
 
 ```csharp
 public XmpTime(XmpRational scale, int value)

@@ -1,14 +1,14 @@
 ---
 title: TORRENT
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 代表 TORRENT 文件类型
+description: 表示 TORRENT 文件类型
 type: docs
 weight: 600
 url: /zh/net/groupdocs.metadata.common/filetype/torrent/
 ---
 ## FileType.TORRENT field
 
-代表 TORRENT 文件类型。
+表示 TORRENT 文件类型。
 
 ```csharp
 public static readonly FileType TORRENT;

@@ -1,14 +1,14 @@
 ---
 title: Provenance
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置自资源创建以来对其所有权和保管权的任何更改的声明这些更改对其真实性完整性和解释具有重要意义
+description: 获取或设置自资源创建以来对其真实性完整性和解释具有重要意义的所有权和保管方面的任何更改的声明
 type: docs
 weight: 410
 url: /zh/net/groupdocs.metadata.formats.ebook/epubpackage/provenance/
 ---
 ## EpubPackage.Provenance property
 
-获取或设置自资源创建以来对其所有权和保管权的任何更改的声明，这些更改对其真实性、完整性和解释具有重要意义。
+获取或设置自资源创建以来对其真实性、完整性和解释具有重要意义的所有权和保管方面的任何更改的声明。
 
 ```csharp
 public string Provenance { get; set; }
@@ -16,7 +16,7 @@ public string Provenance { get; set; }
 
 ### 适当的价值
 
-自创建以来对资源所有权和保管权的任何更改的声明，这些更改对其真实性、完整性和解释具有重要意义。
+自资源创建以来对其真实性、完整性和解释具有重要意义的所有权和保管方面的任何变化的声明。
 
 ### 也可以看看
 

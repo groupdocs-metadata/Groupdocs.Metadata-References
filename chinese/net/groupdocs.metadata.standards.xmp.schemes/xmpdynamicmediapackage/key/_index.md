@@ -1,14 +1,14 @@
 ---
 title: Key
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置音频的音调
+description: 获取或设置音频的音乐键
 type: docs
 weight: 270
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/key/
 ---
 ## XmpDynamicMediaPackage.Key property
 
-获取或设置音频的音调。
+获取或设置音频的音乐键。
 
 ```csharp
 public string Key { get; set; }
@@ -16,7 +16,7 @@ public string Key { get; set; }
 
 ### 适当的价值
 
-音频的音调。下列之一：C、C#、D、D#、E、F、F#、G、G#、A、A#、B.
+音频的音乐键。其中之一：C、C#、D、D#、E、F、F#、G、G#、A、A#、B.
 
 ### 也可以看看
 

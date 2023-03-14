@@ -1,14 +1,14 @@
 ---
 title: IReadOnlyListT
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示可以通过索引访问的元素的只读集合
+description: 表示一个只读的元素集合可以通过index. 访问
 type: docs
 weight: 110
 url: /zh/net/groupdocs.metadata.common/ireadonlylist-1/
 ---
 ## IReadOnlyList&lt;T&gt; interface
 
-表示可以通过索引访问的元素的只读集合。
+表示一个只读的元素集合，可以通过index. 访问
 
 ```csharp
 public interface IReadOnlyList<T> : IEnumerable<T>

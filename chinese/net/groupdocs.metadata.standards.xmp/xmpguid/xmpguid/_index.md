@@ -1,14 +1,14 @@
 ---
 title: XmpGuid
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpGuidgroupdocs.metadata.standards.xmp/xmpguid类.
+description: 初始化一个新的实例XmpGuidgroupdocs.metadata.standards.xmp/xmpguid类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpguid/xmpguid/
 ---
 ## XmpGuid(string) {#constructor_1}
 
-初始化[`XmpGuid`](../../xmpguid)类.
+初始化一个新的实例[`XmpGuid`](../../xmpguid)类.
 
 ```csharp
 public XmpGuid(string value)
@@ -23,7 +23,7 @@ public XmpGuid(string value)
 | 例外 | （健康）状况 |
 | --- | --- |
 | ArgumentNullException | 值不能为空。 |
-| ArgumentException | GUID 值无效。 |
+| ArgumentException | 无效的 GUID 值。 |
 
 ### 也可以看看
 
@@ -35,7 +35,7 @@ public XmpGuid(string value)
 
 ## XmpGuid(Guid) {#constructor}
 
-初始化[`XmpGuid`](../../xmpguid)类.
+初始化一个新的实例[`XmpGuid`](../../xmpguid)类.
 
 ```csharp
 public XmpGuid(Guid value)

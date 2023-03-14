@@ -20,7 +20,7 @@ public string GetNamespaceUri(string prefix)
 
 ### 返回值
 
-如果前缀已注册，则关联的命名空间 URI；否则为空。
+关联的名称空间 URI（如果前缀已注册）；否则为空。
 
 ### 也可以看看
 

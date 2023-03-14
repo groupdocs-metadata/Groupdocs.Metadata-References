@@ -20,7 +20,7 @@ public DateTime? DateTimeBirthdate { get; }
 
 ### 评论
 
-这个属性是一个简化版[`BirthdateDateTimeRecord`](../birthdatedatetimerecord).
+此属性是[`BirthdateDateTimeRecord`](../birthdatedatetimerecord).
 
 ### 也可以看看
 

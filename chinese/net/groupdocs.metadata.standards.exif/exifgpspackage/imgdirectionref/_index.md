@@ -16,7 +16,7 @@ public string ImgDirectionRef { get; set; }
 
 ### 适当的价值
 
-获取图像时给出图像方向的 GPS 参考。
+GPS 参考，用于在捕获图像时给出图像的方向。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: CropRight
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置 CropRight 设置当 HasCrop 为真时裁剪矩形的右侧
+description: 获取或设置 CropRight 设置当 HasCrop 为真时裁剪矩形的右边.
 type: docs
 weight: 180
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/cropright/
 ---
 ## XmpCameraRawPackage.CropRight property
 
-获取或设置 CropRight 设置。当 HasCrop 为真时，裁剪矩形的右侧。
+获取或设置 CropRight 设置。当 HasCrop 为真时，裁剪矩形的右边.
 
 ```csharp
 public double? CropRight { get; set; }
@@ -16,7 +16,7 @@ public double? CropRight { get; set; }
 
 ### 适当的价值
 
-作物对。
+裁剪权。
 
 ### 也可以看看
 

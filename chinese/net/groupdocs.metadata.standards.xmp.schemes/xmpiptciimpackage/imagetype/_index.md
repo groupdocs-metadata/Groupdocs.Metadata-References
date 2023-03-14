@@ -1,14 +1,14 @@
 ---
 title: ImageType
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置图片的类型
+description: 获取或设置图像的类型
 type: docs
 weight: 170
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpiptciimpackage/imagetype/
 ---
 ## XmpIptcIimPackage.ImageType property
 
-获取或设置图片的类型。
+获取或设置图像的类型。
 
 ```csharp
 public string ImageType { get; set; }

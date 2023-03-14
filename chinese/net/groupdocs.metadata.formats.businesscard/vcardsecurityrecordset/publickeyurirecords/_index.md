@@ -20,7 +20,7 @@ public VCardTextRecord[] PublicKeyUriRecords { get; }
 
 ### 评论
 
-这个属性是一个简化版[`PublicKeyRecords`](../publickeyrecords).
+此属性是[`PublicKeyRecords`](../publickeyrecords).
 
 ### 也可以看看
 

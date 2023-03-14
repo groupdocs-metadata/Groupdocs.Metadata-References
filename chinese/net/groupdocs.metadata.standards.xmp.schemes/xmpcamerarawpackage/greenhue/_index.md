@@ -16,7 +16,7 @@ public int? GreenHue { get; set; }
 
 ### 适当的价值
 
-绿色色调。
+绿色色调.
 
 ### 也可以看看
 

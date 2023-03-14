@@ -22,7 +22,7 @@ public enum AsfExtendedStreamPropertyFlags : uint
 | Reliable | `1` | 如果通过网络发送此数字媒体流，则必须通过可靠的数据通信传输机制进行传输。 |
 | Seekable | `2` | 仅当流可搜索时才应设置此标志。 |
 | NoCleanpoints | `2` | 流不包含任何清洁点。 |
-| ResendLiveCleanpoints | `2` | 在传输中间加入一个流，从最近的 清理点到当前时间的所有信息都应该在当前时间开始正常流传输之前发送。 |
+| ResendLiveCleanpoints | `2` | 流在传输中加入，所有从最近的 cleanpoint 到当前时间的信息都应该在当前时间开始正常流之前发送。 |
 
 ### 也可以看看
 

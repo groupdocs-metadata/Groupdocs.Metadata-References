@@ -37,7 +37,7 @@ public static XmpArray From<T>(T[] array, XmpArrayType type)
 
 ## From(string[], XmpArrayType) {#from_3}
 
-创建一个[`XmpArray`](../../xmparray)实例形成一个字符串数组。
+创建一个[`XmpArray`](../../xmparray)实例形成一个字符串数组.
 
 ```csharp
 public static XmpArray From(string[] array, XmpArrayType type)
@@ -63,7 +63,7 @@ public static XmpArray From(string[] array, XmpArrayType type)
 
 ## From(int[], XmpArrayType) {#from_1}
 
-创建一个[`XmpArray`](../../xmparray)实例形成一个整数数组。
+创建一个[`XmpArray`](../../xmparray)实例形成一个整数数组.
 
 ```csharp
 public static XmpArray From(int[] array, XmpArrayType type)
@@ -89,7 +89,7 @@ public static XmpArray From(int[] array, XmpArrayType type)
 
 ## From(DateTime[], XmpArrayType) {#from_2}
 
-创建一个[`XmpArray`](../../xmparray)实例形成一个日期数组。
+创建一个[`XmpArray`](../../xmparray)实例形成一个日期数组.
 
 ```csharp
 public static XmpArray From(DateTime[] array, XmpArrayType type)
@@ -115,7 +115,7 @@ public static XmpArray From(DateTime[] array, XmpArrayType type)
 
 ## From(double[], XmpArrayType) {#from}
 
-创建一个[`XmpArray`](../../xmparray)实例形成一个双数组。
+创建一个[`XmpArray`](../../xmparray)实例形成一个双数组.
 
 ```csharp
 public static XmpArray From(double[] array, XmpArrayType type)

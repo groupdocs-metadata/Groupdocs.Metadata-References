@@ -1,14 +1,14 @@
 ---
 title: Year
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置记录年份的数字字符串此帧总是四个字符长直到 10000 年 此值由 TYER 帧表示
+description: 获取或设置带有记录年份的数字字符串此框架始终为四个字符长直到 10000 年 此值由 TYER 框架表示
 type: docs
 weight: 270
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2tag/year/
 ---
 ## ID3V2Tag.Year property
 
-获取或设置记录年份的数字字符串。此帧总是四个字符长（直到 10000 年）。 此值由 TYER 帧表示。
+获取或设置带有记录年份的数字字符串。此框架始终为四个字符长（直到 10000 年）。 此值由 TYER 框架表示。
 
 ```csharp
 public string Year { get; set; }
@@ -16,7 +16,7 @@ public string Year { get; set; }
 
 ### 适当的价值
 
-记录年份的数字字符串。这个帧总是四个字符长（直到 10000 年）。
+带有记录年份的数字字符串。此帧始终为四个字符长（直到 10000 年）。
 
 ### 也可以看看
 

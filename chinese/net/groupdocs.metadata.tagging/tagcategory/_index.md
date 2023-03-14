@@ -1,14 +1,14 @@
 ---
 title: TagCategory
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示一组具有某些共同特征的标签
+description: 表示一组具有某些共享特征的标签
 type: docs
 weight: 3720
 url: /zh/net/groupdocs.metadata.tagging/tagcategory/
 ---
 ## TagCategory class
 
-表示一组具有某些共同特征的标签。
+表示一组具有某些共享特征的标签。
 
 ```csharp
 public class TagCategory
@@ -18,7 +18,7 @@ public class TagCategory
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [ToString](../../groupdocs.metadata.tagging/tagcategory/tostring)() | 返回代表当前对象的字符串。 |
+| override [ToString](../../groupdocs.metadata.tagging/tagcategory/tostring)() | 返回表示当前对象的字符串。 |
 
 ### 也可以看看
 

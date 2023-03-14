@@ -1,14 +1,14 @@
 ---
 title: MKV
 second_title: GroupDocs.Metadata for .NET API 参考
-description: MKV Matroska Video 是一种类似于 MOV 和 AVI 格式的多媒体容器 但它支持在同一个文件中包含多个音频和字幕轨道 了解有关此文件格式的更多信息 这里https//wiki.fileformat.com/video/mkv/.
+description: MKVMatroska 视频是一种类似于 MOV 和 AVI 格式 的多媒体容器但它支持同一文件中的多个音频和字幕轨道 了解有关此文件格式的更多信息 这里https//wiki.fileformat.com/video/mkv/.
 type: docs
 weight: 340
 url: /zh/net/groupdocs.metadata.common/filetype/mkv/
 ---
 ## FileType.MKV field
 
-MKV (Matroska Video) 是一种类似于 MOV 和 AVI 格式的多媒体容器 但它支持在同一个文件中包含多个音频和字幕轨道。 了解有关此文件格式的更多信息 [这里](https://wiki.fileformat.com/video/mkv/).
+MKV（Matroska 视频）是一种类似于 MOV 和 AVI 格式 的多媒体容器，但它支持同一文件中的多个音频和字幕轨道。 了解有关此文件格式的更多信息 [这里](https://wiki.fileformat.com/video/mkv/).
 
 ```csharp
 public static readonly FileType MKV;

@@ -1,14 +1,14 @@
 ---
 title: XmpBasicPackage
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpBasicPackagegroupdocs.metadata.standards.xmp.schemes/xmpbasicpackage类.
+description: 初始化一个新的实例XmpBasicPackagegroupdocs.metadata.standards.xmp.schemes/xmpbasicpackage类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpbasicpackage/xmpbasicpackage/
 ---
 ## XmpBasicPackage constructor
 
-初始化[`XmpBasicPackage`](../../xmpbasicpackage)类.
+初始化一个新的实例[`XmpBasicPackage`](../../xmpbasicpackage)类.
 
 ```csharp
 public XmpBasicPackage()

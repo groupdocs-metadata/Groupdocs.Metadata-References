@@ -1,14 +1,14 @@
 ---
 title: Isrc
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取国际标准记录编号
+description: 获取国际标准记录号
 type: docs
 weight: 130
 url: /zh/net/groupdocs.metadata.formats.audio/apepackage/isrc/
 ---
 ## ApePackage.Isrc property
 
-获取国际标准记录编号。
+获取国际标准记录号。
 
 ```csharp
 public string Isrc { get; }

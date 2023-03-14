@@ -1,14 +1,14 @@
 ---
 title: Album
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置专辑/电影/节目标题 这个值由TALB帧表示
+description: 获取或设置专辑/电影/节目标题 此值由 TALB 帧表示
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2tag/album/
 ---
 ## ID3V2Tag.Album property
 
-获取或设置专辑/电影/节目标题。 这个值由TALB帧表示。
+获取或设置专辑/电影/节目标题。 此值由 TALB 帧表示。
 
 ```csharp
 public string Album { get; set; }

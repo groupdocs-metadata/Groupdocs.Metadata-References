@@ -16,7 +16,7 @@ public XmpPhotoshopPackage Photoshop { get; set; }
 
 ### 适当的价值
 
-Photoshop 命名空间。
+photoshop 命名空间。
 
 ### 也可以看看
 

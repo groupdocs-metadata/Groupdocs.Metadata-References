@@ -1,14 +1,14 @@
 ---
 title: DocumentTagCategory
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 提供仅应用于文档特定属性的标签 这些标签可用于确定从办公文档的哪个部分提取了财产
+description: 提供仅应用于文档特定属性的标签 标记可用于确定属性是从 office 文档的哪个部分提取的
 type: docs
 weight: 3660
 url: /zh/net/groupdocs.metadata.tagging/documenttagcategory/
 ---
 ## DocumentTagCategory class
 
-提供仅应用于文档特定属性的标签。 这些标签可用于确定从办公文档的哪个部分提取了财产。
+提供仅应用于文档特定属性的标签。 标记可用于确定属性是从 office 文档的哪个部分提取的。
 
 ```csharp
 public class DocumentTagCategory : TagCategory
@@ -18,20 +18,20 @@ public class DocumentTagCategory : TagCategory
 
 | 姓名 | 描述 |
 | --- | --- |
-| [BuiltIn](../../groupdocs.metadata.tagging/documenttagcategory/builtin) { get; } | 获取表示它所标注的属性是内置的标签。 |
+| [BuiltIn](../../groupdocs.metadata.tagging/documenttagcategory/builtin) { get; } | 获取指示其标记的属性是内置的标记。 |
 | [Field](../../groupdocs.metadata.tagging/documenttagcategory/field) { get; } | 获取表示属性的标记，该属性包含有关从文档中提取的表单字段或计算字段的信息。 |
-| [HiddenData](../../groupdocs.metadata.tagging/documenttagcategory/hiddendata) { get; } | 获取表示对普通用户不可见的文档部分的标记。 |
+| [HiddenData](../../groupdocs.metadata.tagging/documenttagcategory/hiddendata) { get; } | 获取指示普通用户不可见的文档部分的标记。 |
 | [Page](../../groupdocs.metadata.tagging/documenttagcategory/page) { get; } | 获取表示包含文档页面信息的属性的标记。 |
-| [ReadOnly](../../groupdocs.metadata.tagging/documenttagcategory/readonly) { get; } | 获取表示其标注的属性为只读且不能由 GroupDocs.Metadata 更改的标记。 |
-| [Revision](../../groupdocs.metadata.tagging/documenttagcategory/revision) { get; } | 获取标记属性的标签，该属性包含有关文档修订（跟踪更改）的信息。 |
-| [Statistic](../../groupdocs.metadata.tagging/documenttagcategory/statistic) { get; } | 获取表示包含文档统计信息（字数、字符数等）的属性的标记。 |
+| [ReadOnly](../../groupdocs.metadata.tagging/documenttagcategory/readonly) { get; } | 获取指示其标记的属性为只读且不能由 GroupDocs.Metadata. 更改的标记 |
+| [Revision](../../groupdocs.metadata.tagging/documenttagcategory/revision) { get; } | 获取标记包含有关文档修订（跟踪更改）信息的属性的标签。 |
+| [Statistic](../../groupdocs.metadata.tagging/documenttagcategory/statistic) { get; } | 获取指示包含文档统计信息（字数、字符数等）的属性的标记。 |
 | [UserComment](../../groupdocs.metadata.tagging/documenttagcategory/usercomment) { get; } | 获取标记文档内容中显示的用户评论的标签。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [ToString](../../groupdocs.metadata.tagging/tagcategory/tostring)() | 返回代表当前对象的字符串。 |
+| override [ToString](../../groupdocs.metadata.tagging/tagcategory/tostring)() | 返回表示当前对象的字符串。 |
 
 ### 也可以看看
 

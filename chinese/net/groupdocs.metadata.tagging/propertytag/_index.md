@@ -24,10 +24,10 @@ public sealed class PropertyTag : IEquatable<PropertyTag>
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Equals](../../groupdocs.metadata.tagging/propertytag/equals#equals_1)(object) | 判断指定对象是否等于当前对象 |
-| [Equals](../../groupdocs.metadata.tagging/propertytag/equals#equals)(PropertyTag) | 表示当前对象是否等于另一个同类型的对象。 |
-| override [GetHashCode](../../groupdocs.metadata.tagging/propertytag/gethashcode)() | 用作默认哈希函数。 |
-| override [ToString](../../groupdocs.metadata.tagging/propertytag/tostring)() | 返回代表当前对象的字符串。 |
+| override [Equals](../../groupdocs.metadata.tagging/propertytag/equals#equals_1)(object) | 判断指定对象是否等于当前对象。 |
+| [Equals](../../groupdocs.metadata.tagging/propertytag/equals#equals)(PropertyTag) | 表示当前对象是否等于另一个相同类型的对象。 |
+| override [GetHashCode](../../groupdocs.metadata.tagging/propertytag/gethashcode)() | 作为默认哈希函数。 |
+| override [ToString](../../groupdocs.metadata.tagging/propertytag/tostring)() | 返回表示当前对象的字符串。 |
 | [operator ==](../../groupdocs.metadata.tagging/propertytag/op_equality) | 表示两个相同类型的对象是否相等。 |
 | [operator !=](../../groupdocs.metadata.tagging/propertytag/op_inequality) | 表示两个相同类型的对象是否不相等。 |
 

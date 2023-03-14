@@ -1,14 +1,14 @@
 ---
 title: ObjectAgent
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取将代表 vCard 对象行事的另一个人的信息
+description: 获取代表 vCard 对象的另一个人的信息
 type: docs
 weight: 100
 url: /zh/net/groupdocs.metadata.formats.businesscard/vcardorganizationalrecordset/objectagent/
 ---
 ## VCardOrganizationalRecordset.ObjectAgent property
 
-获取将代表 vCard 对象行事的另一个人的信息。
+获取代表 vCard 对象的另一个人的信息。
 
 ```csharp
 public VCardCard ObjectAgent { get; }
@@ -20,7 +20,7 @@ public VCardCard ObjectAgent { get; }
 
 ### 评论
 
-这个属性是一个简化版[`AgentObjectRecord`](../agentobjectrecord).
+此属性是[`AgentObjectRecord`](../agentobjectrecord).
 
 ### 也可以看看
 

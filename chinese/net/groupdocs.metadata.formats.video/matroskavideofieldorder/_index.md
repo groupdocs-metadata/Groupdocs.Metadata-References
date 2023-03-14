@@ -1,14 +1,14 @@
 ---
 title: MatroskaVideoFieldOrder
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示 Matroska 视频的场排序 如果 FlagInterlaced 未设置为 1则必须忽略此元素
+description: 表示 Matroska 视频的场序 如果 FlagInterlaced 未设置为 1则必须忽略此元素
 type: docs
 weight: 2580
 url: /zh/net/groupdocs.metadata.formats.video/matroskavideofieldorder/
 ---
 ## MatroskaVideoFieldOrder enumeration
 
-表示 Matroska 视频的场排序。 如果 FlagInterlaced 未设置为 1，则必须忽略此元素。
+表示 Matroska 视频的场序。 如果 FlagInterlaced 未设置为 1，则必须忽略此元素。
 
 ```csharp
 public enum MatroskaVideoFieldOrder : byte
@@ -20,8 +20,8 @@ public enum MatroskaVideoFieldOrder : byte
 | --- | --- | --- |
 | Progressive | `0` | 渐进式排序。 |
 | Tff | `1` | Tiff 排序。 |
-| Undetermined | `2` | 未确定排序。 |
-| Bff | `6` | Biff 排序。 |
+| Undetermined | `2` | 未确定的顺序。 |
+| Bff | `6` | Biff 排序. |
 | BffSwapped | `9` | Bff（交换）排序。 |
 | TffSwapped | `14` | Tff（交换）排序。 |
 

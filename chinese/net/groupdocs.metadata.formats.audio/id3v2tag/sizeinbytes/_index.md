@@ -1,14 +1,14 @@
 ---
 title: SizeInBytes
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置音频文件的大小以字节为单位不包括 ID3v2 标签表示为数字字符串 此值由 TSIZ 帧表示
+description: 获取或设置音频文件的大小以字节为单位不包括 ID3v2 标记以数字字符串表示 此值由 TSIZ 帧表示
 type: docs
 weight: 180
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2tag/sizeinbytes/
 ---
 ## ID3V2Tag.SizeInBytes property
 
-获取或设置音频文件的大小，以字节为单位，不包括 ID3v2 标签，表示为数字字符串。 此值由 TSIZ 帧表示。
+获取或设置音频文件的大小（以字节为单位，不包括 ID3v2 标记），以数字字符串表示。 此值由 TSIZ 帧表示。
 
 ```csharp
 public string SizeInBytes { get; set; }
@@ -16,7 +16,7 @@ public string SizeInBytes { get; set; }
 
 ### 适当的价值
 
-以字节为单位的音频文件大小，不包括 ID3v2 标签，以数字字符串表示。
+音频文件的大小，以字节为单位，不包括 ID3v2 标签，以数字字符串表示。
 
 ### 也可以看看
 

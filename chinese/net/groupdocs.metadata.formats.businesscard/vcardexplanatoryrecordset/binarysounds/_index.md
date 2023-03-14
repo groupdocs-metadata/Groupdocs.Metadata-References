@@ -20,7 +20,7 @@ public byte[][] BinarySounds { get; }
 
 ### 评论
 
-这个属性是一个简化版[`SoundBinaryRecords`](../soundbinaryrecords).
+此属性是[`SoundBinaryRecords`](../soundbinaryrecords).
 
 ### 也可以看看
 

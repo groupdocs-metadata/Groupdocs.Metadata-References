@@ -1,14 +1,14 @@
 ---
 title: DateTime
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置图像创建的日期和时间 在EXIF标准中是文件被更改的日期和时间
+description: 获取或设置图像创建的日期和时间 在 EXIF 标准中它是文件被更改的日期和时间
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.standards.exif/exifpackage/datetime/
 ---
 ## ExifPackage.DateTime property
 
-获取或设置图像创建的日期和时间。 在EXIF标准中，是文件被更改的日期和时间。
+获取或设置图像创建的日期和时间。 在 EXIF 标准中，它是文件被更改的日期和时间。
 
 ```csharp
 public string DateTime { get; set; }
@@ -16,7 +16,7 @@ public string DateTime { get; set; }
 
 ### 适当的价值
 
-图像创建的日期和时间。
+创建图像的日期和时间。
 
 ### 也可以看看
 

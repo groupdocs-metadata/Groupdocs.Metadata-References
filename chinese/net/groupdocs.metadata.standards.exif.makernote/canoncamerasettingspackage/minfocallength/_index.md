@@ -16,7 +16,7 @@ public ushort MinFocalLength { get; }
 
 ### 适当的价值
 
-焦点的最小长度。
+焦距的最小长度。
 
 ### 也可以看看
 

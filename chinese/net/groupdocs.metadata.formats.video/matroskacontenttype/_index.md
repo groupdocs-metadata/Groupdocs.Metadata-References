@@ -18,7 +18,7 @@ public enum MatroskaContentType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Undefined | `0` | 未定义的内容。 |
+| Undefined | `0` | 未定义内容. |
 | Audio | `1` | 定义 Matroska 音频类型。 |
 | Video | `2` | 定义 Matroska 视频类型。 |
 | Video3D | `3` | 定义 Matroska 3D 视频类型。 |

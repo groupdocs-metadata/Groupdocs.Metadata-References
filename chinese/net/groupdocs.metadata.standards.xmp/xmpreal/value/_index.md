@@ -16,7 +16,7 @@ public double Value { get; }
 
 ### 适当的价值
 
-双倍值。
+双精度值。
 
 ### 也可以看看
 

@@ -20,7 +20,7 @@ public string[] UriSounds { get; }
 
 ### 评论
 
-这个属性是一个简化版[`SoundUriRecords`](../soundurirecords).
+此属性是[`SoundUriRecords`](../soundurirecords).
 
 ### 也可以看看
 

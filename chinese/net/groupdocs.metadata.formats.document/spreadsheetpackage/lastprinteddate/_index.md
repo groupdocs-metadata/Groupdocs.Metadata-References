@@ -16,7 +16,7 @@ public DateTime? LastPrintedDate { get; set; }
 
 ### 适当的价值
 
-最后打印的日期。
+最后打印日期.
 
 ### 也可以看看
 

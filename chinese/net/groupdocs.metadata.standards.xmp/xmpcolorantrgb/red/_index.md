@@ -1,14 +1,14 @@
 ---
 title: Red
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置红色组件
+description: 获取或设置红色分量
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpcolorantrgb/red/
 ---
 ## XmpColorantRgb.Red property
 
-获取或设置红色组件。
+获取或设置红色分量。
 
 ```csharp
 public byte? Red { get; set; }
@@ -16,7 +16,7 @@ public byte? Red { get; set; }
 
 ### 适当的价值
 
-红色组件。
+红色分量.
 
 ### 也可以看看
 

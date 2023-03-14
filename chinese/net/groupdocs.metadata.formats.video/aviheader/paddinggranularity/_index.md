@@ -1,14 +1,14 @@
 ---
 title: PaddingGranularity
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取数据的对齐方式以字节为单位将数据填充到该值的倍数
+description: 获取数据的对齐方式以字节为单位将数据填充为该值的倍数
 type: docs
 weight: 70
 url: /zh/net/groupdocs.metadata.formats.video/aviheader/paddinggranularity/
 ---
 ## AviHeader.PaddingGranularity property
 
-获取数据的对齐方式，以字节为单位。将数据填充到该值的倍数。
+获取数据的对齐方式，以字节为单位。将数据填充为该值的倍数。
 
 ```csharp
 public int PaddingGranularity { get; }

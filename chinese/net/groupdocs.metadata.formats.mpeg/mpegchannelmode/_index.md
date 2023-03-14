@@ -19,9 +19,9 @@ public enum MpegChannelMode
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Stereo | `0` | 立体声模式。 |
-| JointStereo | `1` | 联合立体模式。 |
-| DualChannel | `2` | 双通道模式。 |
-| Mono | `3` | 单声道模式。 |
+| JointStereo | `1` | 联合立体模式. |
+| DualChannel | `2` | 双通道模式. |
+| Mono | `3` | 单声道模式. |
 
 ### 也可以看看
 

@@ -16,7 +16,7 @@ public int? Brightness { get; }
 
 ### 适当的价值
 
-亮度。
+亮度.
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: RemoveAttachedPictures
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 删除存储在 APIC 帧中的所有附加图片
+description: 删除存储在 APIC 框架中的所有附加图片
 type: docs
 weight: 320
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2tag/removeattachedpictures/
 ---
 ## ID3V2Tag.RemoveAttachedPictures method
 
-删除存储在 APIC 帧中的所有附加图片。
+删除存储在 APIC 框架中的所有附加图片。
 
 ```csharp
 public void RemoveAttachedPictures()

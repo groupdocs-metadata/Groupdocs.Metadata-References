@@ -1,14 +1,14 @@
 ---
 title: Revision
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取标记属性的标签该属性包含有关文档修订跟踪更改的信息
+description: 获取标记包含有关文档修订跟踪更改信息的属性的标签
 type: docs
 weight: 60
 url: /zh/net/groupdocs.metadata.tagging/documenttagcategory/revision/
 ---
 ## DocumentTagCategory.Revision property
 
-获取标记属性的标签，该属性包含有关文档修订（跟踪更改）的信息。
+获取标记包含有关文档修订（跟踪更改）信息的属性的标签。
 
 ```csharp
 public PropertyTag Revision { get; }
@@ -16,7 +16,7 @@ public PropertyTag Revision { get; }
 
 ### 适当的价值
 
-标记包含有关文档修订（跟踪更改）信息的属性的标签。
+标记属性的标签包含有关文档修订（跟踪更改）的信息。
 
 ### 也可以看看
 

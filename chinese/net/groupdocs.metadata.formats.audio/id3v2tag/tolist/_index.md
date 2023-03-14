@@ -16,7 +16,7 @@ public IReadOnlyList<ID3V2TagFrame> ToList()
 
 ### 返回值
 
-ID3v2 标记中包含的所有帧的列表。
+ID3v2 标签中包含的所有帧的列表。
 
 ### 也可以看看
 

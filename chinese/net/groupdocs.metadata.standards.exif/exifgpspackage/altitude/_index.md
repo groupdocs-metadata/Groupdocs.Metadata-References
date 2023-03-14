@@ -1,14 +1,14 @@
 ---
 title: Altitude
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置基于参考的海拔高度AltitudeRefgroupdocs.metadata.standards.exif/exifgpspackage/altituderef. 参考单位是米
+description: 获取或设置基于参考的高度AltitudeRefgroupdocs.metadata.standards.exif/exifgpspackage/altituderef. 参考单位为米.
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.standards.exif/exifgpspackage/altitude/
 ---
 ## ExifGpsPackage.Altitude property
 
-获取或设置基于参考的海拔高度[`AltitudeRef`](../altituderef). 参考单位是米。
+获取或设置基于参考的高度[`AltitudeRef`](../altituderef). 参考单位为米.
 
 ```csharp
 public TiffRational Altitude { get; set; }

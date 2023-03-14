@@ -20,7 +20,7 @@ public DocumentStatistics DocumentStatistics { get; }
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [在图表中使用元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+Diagrams)
 

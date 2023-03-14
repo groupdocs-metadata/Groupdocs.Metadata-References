@@ -1,14 +1,14 @@
 ---
 title: Hash
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取标记属性的标签该属性包含文件内容的哈希值
+description: 获取标记属性的标签其中包含文件内容的哈希值
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.tagging/propertytypetagcategory/hash/
 ---
 ## PropertyTypeTagCategory.Hash property
 
-获取标记属性的标签，该属性包含文件内容的哈希值。
+获取标记属性的标签，其中包含文件内容的哈希值。
 
 ```csharp
 public PropertyTag Hash { get; }

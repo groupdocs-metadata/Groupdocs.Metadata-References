@@ -1,14 +1,14 @@
 ---
 title: ProjectName
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置该文件所属的项目的名称
+description: 获取或设置此文件所属的项目的名称
 type: docs
 weight: 330
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/projectname/
 ---
 ## XmpDynamicMediaPackage.ProjectName property
 
-获取或设置该文件所属的项目的名称。
+获取或设置此文件所属的项目的名称。
 
 ```csharp
 public string ProjectName { get; set; }

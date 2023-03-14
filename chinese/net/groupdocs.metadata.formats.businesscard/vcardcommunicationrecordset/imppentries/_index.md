@@ -1,14 +1,14 @@
 ---
 title: ImppEntries
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取与对象进行即时消息传递和状态协议通信的 URI
+description: 获取用于与对象进行即时消息和状态协议通信的 URI
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.formats.businesscard/vcardcommunicationrecordset/imppentries/
 ---
 ## VCardCommunicationRecordset.ImppEntries property
 
-获取与对象进行即时消息传递和状态协议通信的 URI。
+获取用于与对象进行即时消息和状态协议通信的 URI。
 
 ```csharp
 public string[] ImppEntries { get; }
@@ -16,11 +16,11 @@ public string[] ImppEntries { get; }
 
 ### 适当的价值
 
-用于与对象进行即时消息传递和存在协议通信的 URI。
+用于与对象进行即时消息和状态协议通信的 URI。
 
 ### 评论
 
-这个属性是一个简化版[`ImppRecords`](../impprecords).
+此属性是[`ImppRecords`](../impprecords).
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: GeographicPositionRecords
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取对象的全球定位相关信息
+description: 获取对象全局定位相关信息
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.businesscard/vcardgeographicalrecordset/geographicpositionrecords/
 ---
 ## VCardGeographicalRecordset.GeographicPositionRecords property
 
-获取对象的全球定位相关信息。
+获取对象全局定位相关信息。
 
 ```csharp
 public VCardTextRecord[] GeographicPositionRecords { get; }
@@ -16,7 +16,7 @@ public VCardTextRecord[] GeographicPositionRecords { get; }
 
 ### 适当的价值
 
-与对象的全球定位相关的信息。
+与对象的全局定位相关的信息。
 
 ### 也可以看看
 

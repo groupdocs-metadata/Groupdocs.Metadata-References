@@ -1,14 +1,14 @@
 ---
 title: DICOM
 second_title: GroupDocs.Metadata for .NET API 参考
-description: DICOM 是 Digital Imaging and Communications in Medicine 的首字母缩写词属于医学信息学领域 DICOM 用于集成各种供应商的打印机服务器 扫描仪等医学成像设备还包含每个供应商的识别数据耐心等待唯一性 了解有关此文件格式的更多信息 这里https//docs.fileformat.com/image/dicom/.
+description: DICOM 是 Digital Imaging and Communications in Medicine 的首字母缩写词属于医学信息学领域 DICOM 用于集成来自不同供应商的医学成像设备如打印机服务器 扫描仪等还包含每个设备的标识数据请耐心等待唯一性 了解有关此文件格式的更多信息 这里https//docs.fileformat.com/image/dicom/.
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.common/filetype/dicom/
 ---
 ## FileType.DICOM field
 
-DICOM 是 Digital Imaging and Communications in Medicine 的首字母缩写词，属于医学信息学领域。 DICOM 用于集成各种供应商的打印机、服务器、 扫描仪等医学成像设备，还包含每个供应商的识别数据耐心等待唯一性。 了解有关此文件格式的更多信息 [这里](https://docs.fileformat.com/image/dicom/).
+DICOM 是 Digital Imaging and Communications in Medicine 的首字母缩写词，属于医学信息学领域。 DICOM 用于集成来自不同供应商的医学成像设备，如打印机、服务器、 扫描仪等，还包含每个设备的标识数据请耐心等待唯一性。 了解有关此文件格式的更多信息 [这里](https://docs.fileformat.com/image/dicom/).
 
 ```csharp
 public static readonly FileType DICOM;

@@ -18,8 +18,8 @@ public sealed class XmpFont : XmpComplexType
 
 | 姓名 | 描述 |
 | --- | --- |
-| [XmpFont](xmpfont#constructor)() | 初始化[`XmpFont`](../xmpfont)类. |
-| [XmpFont](xmpfont#constructor_1)(string) | 初始化[`XmpFont`](../xmpfont)类. |
+| [XmpFont](xmpfont#constructor)() | 初始化一个新的实例[`XmpFont`](../xmpfont)类. |
+| [XmpFont](xmpfont#constructor_1)(string) | 初始化一个新的实例[`XmpFont`](../xmpfont)类. |
 
 ## 特性
 
@@ -29,11 +29,11 @@ public sealed class XmpFont : XmpComplexType
 | [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | 获取元数据属性的数量。 |
 | [FontFace](../../groupdocs.metadata.standards.xmp/xmpfont/fontface) { get; set; } | 获取或设置字体名称。 |
 | [FontFamily](../../groupdocs.metadata.standards.xmp/xmpfont/fontfamily) { get; set; } | 获取或设置字体系列名称。 |
-| [FontFileName](../../groupdocs.metadata.standards.xmp/xmpfont/fontfilename) { get; set; } | 获取或设置字体文件名（不是完整路径）。 |
+| [FontFileName](../../groupdocs.metadata.standards.xmp/xmpfont/fontfilename) { get; set; } | 获取或设置字体文件名（非完整路径）。 |
 | [FontName](../../groupdocs.metadata.standards.xmp/xmpfont/fontname) { get; set; } | 获取或设置字体的 PostScript 名称。 |
 | [FontType](../../groupdocs.metadata.standards.xmp/xmpfont/fonttype) { get; set; } | 获取或设置字体类型。 |
-| [IsComposite](../../groupdocs.metadata.standards.xmp/xmpfont/iscomposite) { get; set; } | 获取或设置字体是否为复合字体的值。 |
-| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定的名称。 |
+| [IsComposite](../../groupdocs.metadata.standards.xmp/xmpfont/iscomposite) { get; set; } | 获取或设置是否为复合字体的值。 |
+| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定名称. |
 | [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | 获取元数据属性名称的集合。 |
 | [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | 获取元数据类型。 |
 | [NamespaceUris](../../groupdocs.metadata.standards.xmp/xmpcomplextype/namespaceuris) { get; } | 获取在[`XmpComplexType`](../xmpcomplextype)实例. |
@@ -53,8 +53,8 @@ public sealed class XmpFont : XmpComplexType
 | override [GetXmpRepresentation](../../groupdocs.metadata.standards.xmp/xmpcomplextype/getxmprepresentation)() | 以 XMP 格式返回包含字符串的值。 |
 | virtual [RemoveProperties](../../groupdocs.metadata.common/metadatapackage/removeproperties)(Func&lt;MetadataProperty, bool&gt;) | 删除满足指定谓词的元数据属性。 |
 | virtual [Sanitize](../../groupdocs.metadata.common/metadatapackage/sanitize)() | 从包中删除可写元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
-| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
-| override [ToString](../../groupdocs.metadata.standards.xmp/xmpcomplextype/tostring)() | 返回一个String代表这个实例。 |
+| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是以下方法的组合[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
+| override [ToString](../../groupdocs.metadata.standards.xmp/xmpcomplextype/tostring)() | 返回一个String代表这个实例. |
 | [UpdateProperties](../../groupdocs.metadata.common/metadatapackage/updateproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 更新满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
 
 ### 也可以看看

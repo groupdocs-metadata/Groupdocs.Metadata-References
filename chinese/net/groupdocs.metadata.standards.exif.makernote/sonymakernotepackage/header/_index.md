@@ -16,7 +16,7 @@ public string Header { get; }
 
 ### 适当的价值
 
-MakerNote 标头。
+MakerNote 标题。
 
 ### 也可以看看
 

@@ -16,7 +16,7 @@ public int Denominator { get; }
 
 ### 适当的价值
 
-分母。
+分母.
 
 ### 也可以看看
 

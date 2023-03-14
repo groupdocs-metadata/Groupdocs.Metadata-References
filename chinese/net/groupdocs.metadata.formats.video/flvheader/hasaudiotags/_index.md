@@ -1,14 +1,14 @@
 ---
 title: HasAudioTags
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取一个值该值指示文件中是否存在音频标签
+description: 获取一个值指示文件中是否存在音频标签
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.video/flvheader/hasaudiotags/
 ---
 ## FlvHeader.HasAudioTags property
 
-获取一个值，该值指示文件中是否存在音频标签。
+获取一个值，指示文件中是否存在音频标签。
 
 ```csharp
 public bool HasAudioTags { get; }
@@ -16,7 +16,7 @@ public bool HasAudioTags { get; }
 
 ### 适当的价值
 
-如果 FLV 文件包含音频标签，则为真；否则为假。
+如果 FLV 文件包含音频标签则为真；否则，假的。
 
 ### 也可以看看
 

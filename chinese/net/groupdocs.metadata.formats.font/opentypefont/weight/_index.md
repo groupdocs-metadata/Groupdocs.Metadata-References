@@ -8,7 +8,7 @@ url: /zh/net/groupdocs.metadata.formats.font/opentypefont/weight/
 ---
 ## OpenTypeFont.Weight property
 
-获取字体粗细
+获取字体粗细。
 
 ```csharp
 public OpenTypeWeight Weight { get; }

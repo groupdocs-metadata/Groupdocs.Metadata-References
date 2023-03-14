@@ -1,14 +1,14 @@
 ---
 title: Duration
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取持续时间
+description: 获取时长
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.video/matroskasubtitle/duration/
 ---
 ## MatroskaSubtitle.Duration property
 
-获取持续时间。
+获取时长。
 
 ```csharp
 public TimeSpan Duration { get; }

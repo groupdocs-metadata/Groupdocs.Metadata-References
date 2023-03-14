@@ -13,25 +13,25 @@ url: /zh/net/groupdocs.metadata.formats.businesscard/
 | 班级 | 描述 |
 | --- | --- |
 | [VCardAgentRecord](./vcardagentrecord) | 表示 vCard Agent 记录元数据类。 |
-| [VCardBasePackage](./vcardbasepackage) | 表示基本 VCard 元数据类。 |
-| [VCardBinaryRecord](./vcardbinaryrecord) | 表示 vCard 二进制记录元数据类。 |
-| [VCardCalendarRecordset](./vcardcalendarrecordset) | 表示一组日历 vCard 记录。 |
-| [VCardCard](./vcardcard) | 表示从 VCard 文件中提取的单个卡。 |
-| [VCardCommunicationRecordset](./vcardcommunicationrecordset) | 表示一组通信 vCard 记录。 这些属性描述有关如何与 vCard 所代表的对象进行通信的信息。 |
-| [VCardCustomRecord](./vcardcustomrecord) | 表示 vCard 自定义记录元数据类。 |
-| [VCardDateTimeRecord](./vcarddatetimerecord) | 表示 vCard 日期时间记录元数据类。 |
-| [VCardDeliveryAddressingRecordset](./vcarddeliveryaddressingrecordset) | 表示一组 Delivery Addressing vCard 记录。 这些类型涉及与 vCard 对象的交付地址或标签相关的信息。 |
-| [VCardExplanatoryRecordset](./vcardexplanatoryrecordset) | 表示一组说明性 vCard 记录。 这些属性与附加说明有关， 例如与信息说明或 vCard 特定修订相关的说明。 |
+| [VCardBasePackage](./vcardbasepackage) | 表示基 VCard 元数据类。 |
+| [VCardBinaryRecord](./vcardbinaryrecord) | 表示vCard二进制记录元数据类。 |
+| [VCardCalendarRecordset](./vcardcalendarrecordset) | 表示一组 Calendar vCard 记录。 |
+| [VCardCard](./vcardcard) | 表示从VCard文件中提取的单张卡片。 |
+| [VCardCommunicationRecordset](./vcardcommunicationrecordset) | 表示一组通信 vCard 记录。 这些属性描述有关如何与 vCard 表示的对象进行通信的信息。 |
+| [VCardCustomRecord](./vcardcustomrecord) | 表示vCard自定义记录元数据类。 |
+| [VCardDateTimeRecord](./vcarddatetimerecord) | 表示vCard日期时间记录元数据类。 |
+| [VCardDeliveryAddressingRecordset](./vcarddeliveryaddressingrecordset) | 表示一组传递寻址 vCard 记录。 这些类型涉及与 vCard 对象的传递寻址或标签相关的信息。 |
+| [VCardExplanatoryRecordset](./vcardexplanatoryrecordset) | 表示一组解释性 vCard 记录。 这些属性与附加说明有关， 例如与特定于 vCard 的信息说明或修订相关的说明。 |
 | [VCardGeneralRecordset](./vcardgeneralrecordset) | 表示一组通用 vCard 记录。 |
-| [VCardGeographicalRecordset](./vcardgeographicalrecordset) | 表示一组地理 vCard 记录。 这些属性与与 与 vCard 所代表的对象相关联的地理位置或区域相关的信息有关。 |
-| [VCardIdentificationRecordset](./vcardidentificationrecordset) | 表示一组标识 vCard 记录。 这些类型用于捕获与 与 vCard 相关联的实体的标识和命名相关的信息。 |
-| [VCardOrganizationalRecordset](./vcardorganizationalrecordset) | 表示一组组织 vCard 记录。 这些属性与 vCard 所代表对象的组织或组织单位的特征相关联的信息。 |
-| [VCardPackage](./vcardpackage) | 代表VCF（Virtual Contact File）电子名片格式元数据。 |
-| [VCardRecord](./vcardrecord) | 表示抽象的 vCard 记录元数据类。 |
+| [VCardGeographicalRecordset](./vcardgeographicalrecordset) | 表示一组地理 vCard 记录。 这些属性与关联的信息有关 与 vCard 表示的对象关联的地理位置或区域。 |
+| [VCardIdentificationRecordset](./vcardidentificationrecordset) | 表示一组标识 vCard 记录。 这些类型用于捕获与 相关的信息，即与 vCard 相关的实体的标识和命名。 |
+| [VCardOrganizationalRecordset](./vcardorganizationalrecordset) | 表示一组组织 vCard 记录。 这些属性与关联的信息有关 vCard 代表的对象的组织或组织单元的特征。 |
+| [VCardPackage](./vcardpackage) | 表示VCF（Virtual Contact File）电子名片格式元数据。 |
+| [VCardRecord](./vcardrecord) | 表示抽象 vCard 记录元数据类。 |
 | [VCardRecordset](./vcardrecordset) | 提供基本 vCard 记录联合类。 |
 | [VCardRootPackage](./vcardrootpackage) | 表示允许使用 VCard 文件中的元数据的根包。 |
-| [VCardSecurityRecordset](./vcardsecurityrecordset) | 表示一组安全 vCard 记录。 这些属性与 通信路径或对 vCard 的访问的安全性有关。 |
-| [VCardTextRecord](./vcardtextrecord) | 表示 vCard 文本记录元数据类。 |
+| [VCardSecurityRecordset](./vcardsecurityrecordset) | 表示一组安全 vCard 记录。 这些属性与 通信路径或访问 vCard 的安全性有关。 |
+| [VCardTextRecord](./vcardtextrecord) | 表示vCard文本记录元数据类。 |
 ## 枚举
 
 | 枚举 | 描述 |

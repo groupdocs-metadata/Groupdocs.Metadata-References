@@ -1,14 +1,14 @@
 ---
 title: SetTitle
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 设置资源标题以单一语言给出
+description: 设置资源标题在单个语言中给出
 type: docs
 weight: 270
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpdublincorepackage/settitle/
 ---
 ## XmpDublinCorePackage.SetTitle method
 
-设置资源标题，以单一语言给出。
+设置资源标题，在单个语言中给出。
 
 ```csharp
 public void SetTitle(string title)

@@ -1,14 +1,14 @@
 ---
 title: XmpBasicJobTicketPackage
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpBasicJobTicketPackagegroupdocs.metadata.standards.xmp.schemes/xmpbasicjobticketpackage类.
+description: 初始化一个新的实例XmpBasicJobTicketPackagegroupdocs.metadata.standards.xmp.schemes/xmpbasicjobticketpackage类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpbasicjobticketpackage/xmpbasicjobticketpackage/
 ---
 ## XmpBasicJobTicketPackage constructor
 
-初始化[`XmpBasicJobTicketPackage`](../../xmpbasicjobticketpackage)类.
+初始化一个新的实例[`XmpBasicJobTicketPackage`](../../xmpbasicjobticketpackage)类.
 
 ```csharp
 public XmpBasicJobTicketPackage()

@@ -1,14 +1,14 @@
 ---
 title: DisplayWidth
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取要显示的视频帧的宽度 应用于裁剪后的视频帧PixelCrop Elements
+description: 获取要显示的视频帧的宽度 适用于裁剪后的视频帧PixelCrop 元素
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.formats.video/matroskavideotrack/displaywidth/
 ---
 ## MatroskaVideoTrack.DisplayWidth property
 
-获取要显示的视频帧的宽度。 应用于裁剪后的视频帧（PixelCrop* Elements）。
+获取要显示的视频帧的宽度。 适用于裁剪后的视频帧（PixelCrop* 元素）。
 
 ```csharp
 public ulong? DisplayWidth { get; }

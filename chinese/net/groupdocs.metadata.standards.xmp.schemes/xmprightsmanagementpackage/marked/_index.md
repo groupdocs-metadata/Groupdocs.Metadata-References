@@ -1,14 +1,14 @@
 ---
 title: Marked
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置一个值指示这是否是一个权限管理的资源
+description: 获取或设置一个值该值指示这是否是权限管理资源
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmprightsmanagementpackage/marked/
 ---
 ## XmpRightsManagementPackage.Marked property
 
-获取或设置一个值，指示这是否是一个权限管理的资源。
+获取或设置一个值，该值指示这是否是权限管理资源。
 
 ```csharp
 public bool? Marked { get; set; }
@@ -16,7 +16,7 @@ public bool? Marked { get; set; }
 
 ### 适当的价值
 
-`真的`如果资源是受权限管理的；否则`错误的`. 当为假时，表示这是一个公共域资源。如果状态未知，则省略。
+`真的`如果资源是权限管理的；否则`错误的`. 如果为假，表示这是一个公共域资源。如果状态未知则省略。
 
 ### 也可以看看
 

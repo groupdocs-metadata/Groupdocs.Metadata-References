@@ -16,7 +16,7 @@ public string CertificateSubject { get; }
 
 ### 适当的价值
 
-来自证书的主题专有名称。
+来自证书的主题可分辨名称。
 
 ### 也可以看看
 

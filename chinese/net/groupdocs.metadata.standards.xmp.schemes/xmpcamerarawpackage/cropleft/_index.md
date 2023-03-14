@@ -1,14 +1,14 @@
 ---
 title: CropLeft
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置 CropLeft 设置当 HasCrop 为真时裁剪矩形的左侧
+description: 获取或设置 CropLeft 设置当 HasCrop 为真时裁剪矩形的左侧.
 type: docs
 weight: 170
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/cropleft/
 ---
 ## XmpCameraRawPackage.CropLeft property
 
-获取或设置 CropLeft 设置。当 HasCrop 为真时，裁剪矩形的左侧。
+获取或设置 CropLeft 设置。当 HasCrop 为真时，裁剪矩形的左侧.
 
 ```csharp
 public double? CropLeft { get; set; }

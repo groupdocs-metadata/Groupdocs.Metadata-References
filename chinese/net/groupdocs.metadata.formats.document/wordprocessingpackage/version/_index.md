@@ -20,7 +20,7 @@ public int? Version { get; }
 
 ### 评论
 
-当文档由 Microsoft Word 创建时，高 16 位表示 主要版本，低 16 位表示内部版本号。
+Microsoft Word 创建文档时，高 16 位代表 主版本，低 16 位代表内部版本号。
 
 ### 也可以看看
 

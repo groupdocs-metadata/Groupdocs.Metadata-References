@@ -1,14 +1,14 @@
 ---
 title: TiffAsciiTag
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化TiffAsciiTaggroupdocs.metadata.formats.image/tiffasciitag类.
+description: 初始化一个新的实例TiffAsciiTaggroupdocs.metadata.formats.image/tiffasciitag类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.image/tiffasciitag/tiffasciitag/
 ---
 ## TiffAsciiTag constructor
 
-初始化[`TiffAsciiTag`](../../tiffasciitag)类.
+初始化一个新的实例[`TiffAsciiTag`](../../tiffasciitag)类.
 
 ```csharp
 public TiffAsciiTag(TiffTagID tagID, string value)
@@ -16,7 +16,7 @@ public TiffAsciiTag(TiffTagID tagID, string value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| tagID | TiffTagID | 标签标识符。 |
+| tagID | TiffTagID | 标记标识符。 |
 | value | String | 价值。 |
 
 ### 也可以看看

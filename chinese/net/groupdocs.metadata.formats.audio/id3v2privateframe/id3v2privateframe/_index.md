@@ -1,14 +1,14 @@
 ---
 title: ID3V2PrivateFrame
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化ID3V2PrivateFramegroupdocs.metadata.formats.audio/id3v2privateframe类.
+description: 初始化一个新的实例ID3V2PrivateFramegroupdocs.metadata.formats.audio/id3v2privateframe类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2privateframe/id3v2privateframe/
 ---
 ## ID3V2PrivateFrame constructor
 
-初始化[`ID3V2PrivateFrame`](../../id3v2privateframe)类.
+初始化一个新的实例[`ID3V2PrivateFrame`](../../id3v2privateframe)类.
 
 ```csharp
 public ID3V2PrivateFrame(string ownerIdentifier, byte[] data)

@@ -16,7 +16,7 @@ public string AccrualMethod { get; set; }
 
 ### 适当的价值
 
-将项目添加到集合中的方法。
+将项目添加到集合的方法。
 
 ### 也可以看看
 

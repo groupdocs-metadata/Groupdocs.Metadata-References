@@ -16,7 +16,7 @@ public DateTime CreationDate { get; }
 
 ### 适当的价值
 
-文件初始创建的日期和时间。
+初始创建文件的日期和时间。
 
 ### 也可以看看
 

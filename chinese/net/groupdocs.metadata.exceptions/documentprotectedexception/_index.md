@@ -18,7 +18,7 @@ public sealed class DocumentProtectedException : GroupDocsMetadataException
 
 | 姓名 | 描述 |
 | --- | --- |
-| [DocumentProtectedException](documentprotectedexception)() | 初始化[`DocumentProtectedException`](../documentprotectedexception)类. |
+| [DocumentProtectedException](documentprotectedexception)() | 初始化一个新的实例[`DocumentProtectedException`](../documentprotectedexception)类. |
 
 ### 也可以看看
 

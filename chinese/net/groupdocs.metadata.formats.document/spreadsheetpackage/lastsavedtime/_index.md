@@ -1,14 +1,14 @@
 ---
 title: LastSavedTime
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置上次以 UTC 保存的时间
+description: 获取或设置上次保存的UTC时间
 type: docs
 weight: 140
 url: /zh/net/groupdocs.metadata.formats.document/spreadsheetpackage/lastsavedtime/
 ---
 ## SpreadsheetPackage.LastSavedTime property
 
-获取或设置上次以 UTC 保存的时间。
+获取或设置上次保存的UTC时间。
 
 ```csharp
 public DateTime? LastSavedTime { get; set; }
@@ -16,7 +16,7 @@ public DateTime? LastSavedTime { get; set; }
 
 ### 适当的价值
 
-上次保存的时间。
+最后一次保存的时间。
 
 ### 也可以看看
 

@@ -8,7 +8,7 @@ url: /zh/net/groupdocs.metadata.formats.video/matroskasegment/writingapp/
 ---
 ## MatroskaSegment.WritingApp property
 
-获取应用程序的全名，后跟版本号。
+获取应用程序的全名后跟版本号。
 
 ```csharp
 public string WritingApp { get; }
@@ -16,7 +16,7 @@ public string WritingApp { get; }
 
 ### 适当的价值
 
-应用程序的全名，后跟版本号。
+应用程序的全名后跟版本号。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: HardwareManufacturer
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取标记硬件制造商的标签
+description: 获取标记硬件制造商的标记
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.tagging/tooltagcategory/hardwaremanufacturer/
 ---
 ## ToolTagCategory.HardwareManufacturer property
 
-获取标记硬件制造商的标签。
+获取标记硬件制造商的标记。
 
 ```csharp
 public PropertyTag HardwareManufacturer { get; }

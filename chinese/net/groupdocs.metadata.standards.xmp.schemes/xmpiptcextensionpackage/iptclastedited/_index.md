@@ -1,14 +1,14 @@
 ---
 title: IptcLastEdited
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置最后一次编辑任何 IPTC 照片元数据字段的日期和时间
+description: 获取或设置上次编辑任何 IPTC 照片元数据字段的日期和可选时间
 type: docs
 weight: 70
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpiptcextensionpackage/iptclastedited/
 ---
 ## XmpIptcExtensionPackage.IptcLastEdited property
 
-获取或设置最后一次编辑任何 IPTC 照片元数据字段的日期和时间。
+获取或设置上次编辑任何 IPTC 照片元数据字段的日期和可选时间。
 
 ```csharp
 public DateTime? IptcLastEdited { get; set; }
@@ -16,7 +16,7 @@ public DateTime? IptcLastEdited { get; set; }
 
 ### 适当的价值
 
-上次编辑的日期。
+最后编辑日期.
 
 ### 也可以看看
 

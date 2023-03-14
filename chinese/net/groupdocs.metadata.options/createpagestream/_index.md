@@ -1,14 +1,14 @@
 ---
 title: CreatePageStream
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示返回流以写入页面预览数据的方法
+description: 表示返回流写入页面预览数据的方法
 type: docs
 weight: 2680
 url: /zh/net/groupdocs.metadata.options/createpagestream/
 ---
 ## CreatePageStream delegate
 
-表示返回流以写入页面预览数据的方法。
+表示返回流写入页面预览数据的方法。
 
 ```csharp
 public delegate Stream CreatePageStream(int pageNumber);
@@ -24,7 +24,7 @@ public delegate Stream CreatePageStream(int pageNumber);
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [生成文档预览](https://docs.groupdocs.com/display/metadatanet/Generate+document+preview)
 

@@ -1,14 +1,14 @@
 ---
 title: Value
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取有理值
+description: 获取合理值
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.formats.image/tiffrational/value/
 ---
 ## TiffRational.Value property
 
-获取有理值。
+获取合理值。
 
 ```csharp
 public double Value { get; }
@@ -16,7 +16,7 @@ public double Value { get; }
 
 ### 适当的价值
 
-有理值。
+合理值。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Credit
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置信用
+description: 获取或设置积分
 type: docs
 weight: 80
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpphotoshoppackage/credit/
 ---
 ## XmpPhotoshopPackage.Credit property
 
-获取或设置信用。
+获取或设置积分。
 
 ```csharp
 public string Credit { get; set; }
@@ -16,7 +16,7 @@ public string Credit { get; set; }
 
 ### 适当的价值
 
-功劳。
+功劳.
 
 ### 也可以看看
 

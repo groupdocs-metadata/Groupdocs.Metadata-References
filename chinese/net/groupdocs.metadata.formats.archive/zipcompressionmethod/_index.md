@@ -18,11 +18,11 @@ public enum ZipCompressionMethod : ushort
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| NoCompression | `0` | 文件被存储（不压缩）。 |
-| Shrunk | `1` | 文件已缩小。 |
+| NoCompression | `0` | 文件被存储（无压缩）。 |
+| Shrunk | `1` | 文件已收缩。 |
 | Imploded | `6` | 文件已内爆。 |
-| Reserved | `7` | 一种保留的压缩方式。 |
-| Deflated | `8` | 文件已放气。 |
+| Reserved | `7` | 一种保留的压缩方法。 |
+| Deflated | `8` | 文件已压缩。 |
 | BZip2 | `12` | 文件使用 BZip2 算法压缩。 |
 | Lzma | `14` | Lempel-Ziv-Markov 链算法. |
 

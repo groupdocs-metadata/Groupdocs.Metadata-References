@@ -1,14 +1,14 @@
 ---
 title: HeaderBytes
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 以字节为单位获取头信息
+description: 按字节获取头信息
 type: docs
 weight: 60
 url: /zh/net/groupdocs.metadata.formats.image/dicompackage/headerbytes/
 ---
 ## DicomPackage.HeaderBytes property
 
-以字节为单位获取头信息。
+按字节获取头信息。
 
 ```csharp
 public byte[] HeaderBytes { get; }

@@ -16,11 +16,11 @@ public override int RemoveProperties(Func<MetadataProperty, bool> predicate)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| predicate | Func`2 | 用于测试每个元数据属性的条件的函数。 |
+| predicate | Func`2 | 用于测试条件的每个元数据属性的函数。 |
 
 ### 返回值
 
-受影响属性的数量。
+受影响的属性的数量。
 
 ### 也可以看看
 

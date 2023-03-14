@@ -1,14 +1,14 @@
 ---
 title: XmpThumbnail
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpThumbnailgroupdocs.metadata.standards.xmp/xmpthumbnail类.
+description: 初始化一个新的实例XmpThumbnailgroupdocs.metadata.standards.xmp/xmpthumbnail类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpthumbnail/xmpthumbnail/
 ---
 ## XmpThumbnail() {#constructor}
 
-初始化[`XmpThumbnail`](../../xmpthumbnail)类.
+初始化一个新的实例[`XmpThumbnail`](../../xmpthumbnail)类.
 
 ```csharp
 public XmpThumbnail()
@@ -24,7 +24,7 @@ public XmpThumbnail()
 
 ## XmpThumbnail(int, int) {#constructor_1}
 
-初始化[`XmpThumbnail`](../../xmpthumbnail)类.
+初始化一个新的实例[`XmpThumbnail`](../../xmpthumbnail)类.
 
 ```csharp
 public XmpThumbnail(int width, int height)

@@ -1,14 +1,14 @@
 ---
 title: IsReplacedBy
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置取代置换或取代所描述资源的相关资源
+description: 获取或设置替代置换或取代所描述资源的相关资源
 type: docs
 weight: 320
 url: /zh/net/groupdocs.metadata.formats.ebook/epubpackage/isreplacedby/
 ---
 ## EpubPackage.IsReplacedBy property
 
-获取或设置取代、置换或取代所描述资源的相关资源。
+获取或设置替代、置换或取代所描述资源的相关资源。
 
 ```csharp
 public string IsReplacedBy { get; set; }
@@ -16,7 +16,7 @@ public string IsReplacedBy { get; set; }
 
 ### 适当的价值
 
-取代、取代或取代所描述资源的相关资源。
+替代、取代或取代所描述资源的相关资源。
 
 ### 也可以看看
 

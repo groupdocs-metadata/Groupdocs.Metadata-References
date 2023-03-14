@@ -1,14 +1,14 @@
 ---
 title: FlagInterlaced
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取一个标志以声明视频是否已知为逐行扫描或隔行扫描如果适用则声明有关隔行扫描的详细信息
+description: 获取一个标志来声明视频是渐进式还是隔行扫描如果适用声明有关隔行扫描的详细信息
 type: docs
 weight: 60
 url: /zh/net/groupdocs.metadata.formats.video/matroskavideotrack/flaginterlaced/
 ---
 ## MatroskaVideoTrack.FlagInterlaced property
 
-获取一个标志，以声明视频是否已知为逐行扫描或隔行扫描，如果适用，则声明有关隔行扫描的详细信息。
+获取一个标志来声明视频是渐进式还是隔行扫描，如果适用，声明有关隔行扫描的详细信息。
 
 ```csharp
 public MatroskaVideoFlagInterlaced FlagInterlaced { get; }
@@ -16,7 +16,7 @@ public MatroskaVideoFlagInterlaced FlagInterlaced { get; }
 
 ### 适当的价值
 
-用于声明视频是逐行还是隔行的标志，如果适用，则声明有关隔行的详细信息。
+声明视频是渐进式还是隔行扫描的标志，如果适用，声明有关隔行扫描的详细信息。
 
 ### 也可以看看
 

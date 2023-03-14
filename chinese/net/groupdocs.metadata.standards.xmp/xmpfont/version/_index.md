@@ -20,7 +20,7 @@ public string Version { get; set; }
 
 ### 评论
 
-/version 用于 Type1 字体 nameId 5 用于 Apple True Type 和 OpenType /CIDFontVersion 用于 CID 字体 位图字体的空字符串
+/version for Type1 fonts nameId 5 for Apple True Type 和 OpenType /CIDFontVersion for CID fonts The empty string for bitmap fonts
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: PsdPackage
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取包含有关 PSD 文件信息的元数据包
+description: 获取包含有关 PSD 文件的信息的元数据包
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.formats.image/psdrootpackage/psdpackage/
 ---
 ## PsdRootPackage.PsdPackage property
 
-获取包含有关 PSD 文件信息的元数据包。
+获取包含有关 PSD 文件的信息的元数据包。
 
 ```csharp
 public PsdPackage PsdPackage { get; }
@@ -16,17 +16,17 @@ public PsdPackage PsdPackage { get; }
 
 ### 适当的价值
 
-包含有关 PSD 文件信息的元数据包。
+包含有关 PSD 文件的信息的元数据包。
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [使用 PSD 图像中的元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+PSD+images)
 
 ### 例子
 
-此代码示例演示如何读取 PSD 文件的标题并提取有关 PSD 层的一些信息。
+此代码示例演示了如何读取 PSD 文件的标头并提取有关 PSD 层的一些信息。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.PsdWithIptc))

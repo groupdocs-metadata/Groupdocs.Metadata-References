@@ -20,7 +20,7 @@ public string Name { get; }
 
 ### 评论
 
-这个属性是一个简化版[`NameRecord`](../namerecord).
+此属性是[`NameRecord`](../namerecord).
 
 ### 也可以看看
 

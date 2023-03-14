@@ -1,14 +1,14 @@
 ---
 title: MovRootPackage
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示允许在 QuickTime 视频中使用元数据的根包
+description: 表示允许在 QuickTime 视频中处理元数据的根包
 type: docs
 weight: 2640
 url: /zh/net/groupdocs.metadata.formats.video/movrootpackage/
 ---
 ## MovRootPackage class
 
-表示允许在 QuickTime 视频中使用元数据的根包。
+表示允许在 QuickTime 视频中处理元数据的根包。
 
 ```csharp
 public class MovRootPackage : RootMetadataPackage, IXmp
@@ -20,7 +20,7 @@ public class MovRootPackage : RootMetadataPackage, IXmp
 | --- | --- |
 | [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | 获取元数据属性的数量。 |
 | [FileType](../../groupdocs.metadata.common/rootmetadatapackage/filetype) { get; } | 获取文件类型元数据包。 |
-| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定的名称。 |
+| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定名称. |
 | [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | 获取元数据属性名称的集合。 |
 | [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | 获取元数据类型。 |
 | [MovPackage](../../groupdocs.metadata.formats.video/movrootpackage/movpackage) { get; } | 获取 QuickTime 元数据包。 |
@@ -37,19 +37,19 @@ public class MovRootPackage : RootMetadataPackage, IXmp
 | [GetEnumerator](../../groupdocs.metadata.common/metadatapackage/getenumerator)() | 返回一个遍历集合的枚举器。 |
 | virtual [RemoveProperties](../../groupdocs.metadata.common/metadatapackage/removeproperties)(Func&lt;MetadataProperty, bool&gt;) | 删除满足指定谓词的元数据属性。 |
 | override [Sanitize](../../groupdocs.metadata.common/rootmetadatapackage/sanitize)() | 从包中删除可写元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
-| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
+| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是以下方法的组合[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
 | [UpdateProperties](../../groupdocs.metadata.common/metadatapackage/updateproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 更新满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* [使用 MOV 文件中的元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+MOV+Files)
+* [处理 MOV 文件中的元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+MOV+Files)
 * [使用 XMP 元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+XMP+metadata)
 
 ### 例子
 
-这个例子展示了如何在 MOV 视频中读取 QuickTime 原子。
+此示例说明如何读取 MOV 视频中的 QuickTime 原子。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.InputMov))

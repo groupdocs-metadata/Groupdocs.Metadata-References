@@ -1,14 +1,14 @@
 ---
 title: TableOfContents
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取表示包含文件目录的属性的标记
+description: 获取指示包含文件目录的属性的标记
 type: docs
 weight: 110
 url: /zh/net/groupdocs.metadata.tagging/contenttagcategory/tableofcontents/
 ---
 ## ContentTagCategory.TableOfContents property
 
-获取表示包含文件目录的属性的标记。
+获取指示包含文件目录的属性的标记。
 
 ```csharp
 public PropertyTag TableOfContents { get; }

@@ -1,14 +1,14 @@
 ---
 title: ExifPackage
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化ExifPackagegroupdocs.metadata.standards.exif/exifpackage类.
+description: 初始化一个新的实例ExifPackagegroupdocs.metadata.standards.exif/exifpackage类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.exif/exifpackage/exifpackage/
 ---
 ## ExifPackage constructor
 
-初始化[`ExifPackage`](../../exifpackage)类.
+初始化一个新的实例[`ExifPackage`](../../exifpackage)类.
 
 ```csharp
 public ExifPackage()

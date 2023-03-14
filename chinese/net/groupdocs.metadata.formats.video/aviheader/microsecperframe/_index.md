@@ -1,14 +1,14 @@
 ---
 title: MicroSecPerFrame
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取帧之间的微秒数该值表示文件的整体时序
+description: 获取帧之间的微秒数此值表示文件的总体时间
 type: docs
 weight: 60
 url: /zh/net/groupdocs.metadata.formats.video/aviheader/microsecperframe/
 ---
 ## AviHeader.MicroSecPerFrame property
 
-获取帧之间的微秒数。该值表示文件的整体时序。
+获取帧之间的微秒数。此值表示文件的总体时间。
 
 ```csharp
 public int MicroSecPerFrame { get; }

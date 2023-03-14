@@ -20,7 +20,7 @@ public TElement[] ToArray<TElement>()
 
 ### 返回值
 
-表示为指定类型的数组的值，如果没有此类转换，则为 null。
+表示为指定类型数组的值，如果没有此类转换，则为 null。
 
 ### 也可以看看
 

@@ -16,7 +16,7 @@ public int? Contrast { get; set; }
 
 ### 适当的价值
 
-对比。
+对比度.
 
 ### 也可以看看
 

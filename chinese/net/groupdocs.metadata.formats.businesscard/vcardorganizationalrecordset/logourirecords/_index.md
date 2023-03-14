@@ -16,11 +16,11 @@ public VCardTextRecord[] LogoUriRecords { get; }
 
 ### 适当的价值
 
-与对象关联的徽标图形图像的 URI。
+与对象关联的徽标的图形图像的 URI。
 
 ### 评论
 
-这个属性是一个简化版[`LogoRecords`](../logorecords).
+此属性是[`LogoRecords`](../logorecords).
 
 ### 也可以看看
 

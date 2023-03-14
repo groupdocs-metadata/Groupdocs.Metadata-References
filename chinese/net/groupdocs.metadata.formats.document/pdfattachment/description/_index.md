@@ -16,7 +16,7 @@ public string Description { get; }
 
 ### 适当的价值
 
-附件说明。
+附件描述。
 
 ### 也可以看看
 

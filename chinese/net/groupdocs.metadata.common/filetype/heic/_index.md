@@ -1,14 +1,14 @@
 ---
 title: HEIC
 second_title: GroupDocs.Metadata for .NET API 参考
-description: HEIC 文件是一种高效容器图像文件格式可以将多个图像作为一个集合存储在一个文件中 HEIC 与 HEIF 一样使用高效视频编码 HEVC 标准进行压缩并且尺寸更小无需影响质量 了解有关此文件格式的更多信息 这里https//docs.fileformat.com/image/heic/.
+description: HEIC 文件是一种高效容器图像文件格式可以将多个图像作为一个集合存储在单个文件中 HEIC 与 HEIF 一样使用高效视频编码 HEVC 标准进行压缩并且尺寸较小没有影响质量 了解有关此文件格式的更多信息 这里https//docs.fileformat.com/image/heic/.
 type: docs
 weight: 200
 url: /zh/net/groupdocs.metadata.common/filetype/heic/
 ---
 ## FileType.HEIC field
 
-HEIC 文件是一种高效容器图像文件格式，可以将多个图像作为一个集合存储在一个文件中。 HEIC 与 HEIF 一样，使用高效视频编码 (HEVC) 标准进行压缩，并且尺寸更小，无需影响质量。 了解有关此文件格式的更多信息 [这里](https://docs.fileformat.com/image/heic/).
+HEIC 文件是一种高效容器图像文件格式，可以将多个图像作为一个集合存储在单个文件中。 HEIC 与 HEIF 一样，使用高效视频编码 (HEVC) 标准进行压缩，并且尺寸较小，没有影响质量。 了解有关此文件格式的更多信息 [这里](https://docs.fileformat.com/image/heic/).
 
 ```csharp
 public static readonly FileType HEIC;

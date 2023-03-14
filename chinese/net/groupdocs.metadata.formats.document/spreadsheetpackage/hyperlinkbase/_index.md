@@ -1,14 +1,14 @@
 ---
 title: HyperlinkBase
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置超链接库
+description: 获取或设置超链接基础
 type: docs
 weight: 90
 url: /zh/net/groupdocs.metadata.formats.document/spreadsheetpackage/hyperlinkbase/
 ---
 ## SpreadsheetPackage.HyperlinkBase property
 
-获取或设置超链接库。
+获取或设置超链接基础。
 
 ```csharp
 public string HyperlinkBase { get; set; }

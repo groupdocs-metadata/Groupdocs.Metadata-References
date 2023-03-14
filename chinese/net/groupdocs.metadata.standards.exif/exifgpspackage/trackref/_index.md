@@ -1,14 +1,14 @@
 ---
 title: TrackRef
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置GPS接收器运动方向的参考 T表示真实方向M是磁方向
+description: 获取或设置用于给出 GPS 接收器移动方向的参考 T 表示真实方向M 是磁方向
 type: docs
 weight: 310
 url: /zh/net/groupdocs.metadata.standards.exif/exifgpspackage/trackref/
 ---
 ## ExifGpsPackage.TrackRef property
 
-获取或设置GPS接收器运动方向的参考。 'T'表示真实方向，'M'是磁方向。
+获取或设置用于给出 GPS 接收器移动方向的参考。 'T' 表示真实方向，'M' 是磁方向。
 
 ```csharp
 public string TrackRef { get; set; }
@@ -16,7 +16,7 @@ public string TrackRef { get; set; }
 
 ### 适当的价值
 
-GPS 接收器运动方向的参考。
+给出 GPS 接收器移动方向的参考。
 
 ### 也可以看看
 

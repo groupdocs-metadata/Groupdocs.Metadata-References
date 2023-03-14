@@ -1,14 +1,14 @@
 ---
 title: XmpInteger
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示 XMP Integer 基本类型
+description: 代表XMP Integer基本类型
 type: docs
 weight: 3430
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpinteger/
 ---
 ## XmpInteger class
 
-表示 XMP Integer 基本类型。
+代表XMP Integer基本类型。
 
 ```csharp
 public sealed class XmpInteger : XmpValueBase
@@ -18,9 +18,9 @@ public sealed class XmpInteger : XmpValueBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| [XmpInteger](xmpinteger#constructor)(int) | 初始化[`XmpInteger`](../xmpinteger)类. |
-| [XmpInteger](xmpinteger#constructor_1)(long) | 初始化[`XmpInteger`](../xmpinteger)类. |
-| [XmpInteger](xmpinteger#constructor_2)(string) | 初始化[`XmpInteger`](../xmpinteger)类. |
+| [XmpInteger](xmpinteger#constructor)(int) | 初始化一个新的实例[`XmpInteger`](../xmpinteger)类. |
+| [XmpInteger](xmpinteger#constructor_1)(long) | 初始化一个新的实例[`XmpInteger`](../xmpinteger)类. |
+| [XmpInteger](xmpinteger#constructor_2)(string) | 初始化一个新的实例[`XmpInteger`](../xmpinteger)类. |
 
 ## 特性
 
@@ -38,7 +38,7 @@ public sealed class XmpInteger : XmpValueBase
 | override [GetXmpRepresentation](../../groupdocs.metadata.standards.xmp/xmpinteger/getxmprepresentation)() | 以 XMP 格式返回包含字符串的值。 |
 | [ToArray&lt;TElement&gt;](../../groupdocs.metadata.common/propertyvalue/toarray)() | 将属性值转换为指定类型的数组。 |
 | [ToClass&lt;T&gt;](../../groupdocs.metadata.common/propertyvalue/toclass)() | 将属性值转换为引用类型。 |
-| override [ToString](../../groupdocs.metadata.standards.xmp/xmpvaluebase/tostring)() | 返回一个表示属性值的字符串。 |
+| override [ToString](../../groupdocs.metadata.standards.xmp/xmpvaluebase/tostring)() | 返回表示属性值的字符串。 |
 | [ToStruct&lt;T&gt;](../../groupdocs.metadata.common/propertyvalue/tostruct)() | 将属性值转换为值类型。 |
 | [ToStruct&lt;T&gt;](../../groupdocs.metadata.common/propertyvalue/tostruct)(T) | 将属性值转换为值类型。 |
 

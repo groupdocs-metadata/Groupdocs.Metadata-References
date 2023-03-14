@@ -1,14 +1,14 @@
 ---
 title: WEBM
 second_title: GroupDocs.Metadata for .NET API 参考
-description: WEBM 是基于开放免版税的 WebM 文件格式的视频文件 专为在 Web 上共享视频而设计并定义了包括视频和音频格式的文件容器结构 了解有关此文件格式的更多信息 这里https//docs.fileformat.com/video/webm/.
+description: WEBM 是一种基于开放免版税的 WebM 文件格式的视频文件 它专为在网络上共享视频而设计并定义了包括视频和音频格式的文件容器结构 了解有关此文件格式的更多信息 这里https//docs.fileformat.com/video/webm/.
 type: docs
 weight: 730
 url: /zh/net/groupdocs.metadata.common/filetype/webm/
 ---
 ## FileType.WEBM field
 
-WEBM 是基于开放、免版税的 WebM 文件格式的视频文件。 专为在 Web 上共享视频而设计，并定义了包括视频和音频格式的文件容器结构。 了解有关此文件格式的更多信息 [这里](https://docs.fileformat.com/video/webm/).
+WEBM 是一种基于开放、免版税的 WebM 文件格式的视频文件。 它专为在网络上共享视频而设计，并定义了包括视频和音频格式的文件容器结构。 了解有关此文件格式的更多信息 [这里](https://docs.fileformat.com/video/webm/).
 
 ```csharp
 public static readonly FileType WEBM;

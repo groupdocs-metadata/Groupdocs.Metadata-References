@@ -16,7 +16,7 @@ public string History { get; set; }
 
 ### 适当的价值
 
-历史。
+历史.
 
 ### 也可以看看
 

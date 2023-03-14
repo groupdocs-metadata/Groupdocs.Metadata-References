@@ -1,14 +1,14 @@
 ---
 title: Destination
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置目的地
+description: 获取或设置目标
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.standards.iptc/iptcenveloperecord/destination/
 ---
 ## IptcEnvelopeRecord.Destination property
 
-获取或设置目的地。
+获取或设置目标。
 
 ```csharp
 public string Destination { get; set; }

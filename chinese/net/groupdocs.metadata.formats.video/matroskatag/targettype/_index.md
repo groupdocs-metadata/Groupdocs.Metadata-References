@@ -1,14 +1,14 @@
 ---
 title: TargetType
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取可用于显示目标的逻辑级别的信息字符串 如ALBUMTRACKMOVIECHAPTER等
+description: 获取可用于显示目标逻辑级别的信息字符串 如ALBUMTRACKMOVIECHAPTER等
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.formats.video/matroskatag/targettype/
 ---
 ## MatroskaTag.TargetType property
 
-获取可用于显示目标的逻辑级别的信息字符串。 如“ALBUM”、“TRACK”、“MOVIE”、“CHAPTER”等。
+获取可用于显示目标逻辑级别的信息字符串。 如“ALBUM”、“TRACK”、“MOVIE”、“CHAPTER”等
 
 ```csharp
 public string TargetType { get; }
@@ -16,7 +16,7 @@ public string TargetType { get; }
 
 ### 适当的价值
 
-可用于显示目标逻辑级别的信息字符串。
+一个信息字符串，可用于显示目标的逻辑级别。
 
 ### 也可以看看
 

@@ -16,7 +16,7 @@ public byte Version { get; }
 
 ### 适当的价值
 
-已用于创建文件的 EBML Writer 的版本。
+用于创建文件的 EBML 编写器的版本。
 
 ### 也可以看看
 

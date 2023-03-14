@@ -1,14 +1,14 @@
 ---
 title: Good
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置一个值该值指示射门是否为守门员
+description: 获取或设置一个值该值指示射门是否是守门员
 type: docs
 weight: 240
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/good/
 ---
 ## XmpDynamicMediaPackage.Good property
 
-获取或设置一个值，该值指示射门是否为守门员。
+获取或设置一个值，该值指示射门是否是守门员。
 
 ```csharp
 public bool? Good { get; set; }

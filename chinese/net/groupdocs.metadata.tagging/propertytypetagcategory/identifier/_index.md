@@ -16,7 +16,7 @@ public PropertyTag Identifier { get; }
 
 ### 适当的价值
 
-标记包含内容标识符的属性的标记。
+标记包含内容标识符的属性的标签。
 
 ### 也可以看看
 

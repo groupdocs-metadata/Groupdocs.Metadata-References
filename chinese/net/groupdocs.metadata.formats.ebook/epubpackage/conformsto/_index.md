@@ -16,7 +16,7 @@ public string ConformsTo { get; set; }
 
 ### 适当的价值
 
-所描述资源符合的既定标准。
+描述的资源符合的既定标准。
 
 ### 也可以看看
 

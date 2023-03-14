@@ -1,14 +1,14 @@
 ---
 title: CalendarAddresses
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取应为 vCard 表示的对象发送调度请求的日历用户地址
+description: 获取日历用户地址为 vCard 表示的对象发送计划请求
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.formats.businesscard/vcardcalendarrecordset/calendaraddresses/
 ---
 ## VCardCalendarRecordset.CalendarAddresses property
 
-获取应为 vCard 表示的对象发送调度请求的日历用户地址。
+获取日历用户地址，为 vCard 表示的对象发送计划请求。
 
 ```csharp
 public string[] CalendarAddresses { get; }
@@ -16,11 +16,11 @@ public string[] CalendarAddresses { get; }
 
 ### 适当的价值
 
-对于 vCard 表示的对象，调度请求应发送到的日历用户地址。
+vCard 表示的对象的日程安排请求应发送到的日历用户地址。
 
 ### 评论
 
-这个属性是一个简化版[`CalendarAddressRecords`](../calendaraddressrecords).
+此属性是[`CalendarAddressRecords`](../calendaraddressrecords).
 
 ### 也可以看看
 

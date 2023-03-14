@@ -16,13 +16,13 @@ public void RemoveImageResourcePackage()
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* [处理 JPEG 图像中的元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+JPEG+images)
+* [使用 JPEG 图像中的元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+JPEG+images)
 
 ### 例子
 
-此代码段演示如何从 JPEG 图像中删除 Photoshop 元数据。
+此代码片段演示了如何从 JPEG 图像中删除 Photoshop 元数据。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.JpegWithIrb))

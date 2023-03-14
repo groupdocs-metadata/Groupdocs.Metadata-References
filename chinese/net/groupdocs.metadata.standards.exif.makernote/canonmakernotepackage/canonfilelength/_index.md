@@ -1,14 +1,14 @@
 ---
 title: CanonFileLength
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取canon文件的长度
+description: 获取佳能文件的长度
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.standards.exif.makernote/canonmakernotepackage/canonfilelength/
 ---
 ## CanonMakerNotePackage.CanonFileLength property
 
-获取canon文件的长度
+获取佳能文件的长度。
 
 ```csharp
 public uint? CanonFileLength { get; }

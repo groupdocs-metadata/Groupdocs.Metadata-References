@@ -1,14 +1,14 @@
 ---
 title: DisplayUnit
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取方法DisplayWidthgroupdocs.metadata.formats.video/matroskavideotrack/displaywidth和DisplayHeightgroupdocs.metadata.formats.video/matroskavideotrack/displayheight被解释
+description: 获取方法DisplayWidthgroupdocs.metadata.formats.video/matroskavideotrack/displaywidth和DisplayHeightgroupdocs.metadata.formats.video/matroskavideotrack/displayheight被解释.
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.formats.video/matroskavideotrack/displayunit/
 ---
 ## MatroskaVideoTrack.DisplayUnit property
 
-获取方法[`DisplayWidth`](../displaywidth)和[`DisplayHeight`](../displayheight)被解释。
+获取方法[`DisplayWidth`](../displaywidth)和[`DisplayHeight`](../displayheight)被解释.
 
 ```csharp
 public MatroskaVideoDisplayUnit DisplayUnit { get; }

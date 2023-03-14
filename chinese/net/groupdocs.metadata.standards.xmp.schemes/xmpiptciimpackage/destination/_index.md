@@ -1,14 +1,14 @@
 ---
 title: Destination
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置目的地这个数据集是为了适应一些需要在适当的 OSI 层之上路由 信息的提供者
+description: 获取或设置目的地这个数据集是为了满足一些需要在适当的 OSI 层之上路由 信息的供应商
 type: docs
 weight: 70
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpiptciimpackage/destination/
 ---
 ## XmpIptcIimPackage.Destination property
 
-获取或设置目的地。这个数据集是为了适应一些需要在适当的 OSI 层之上路由 信息的提供者。
+获取或设置目的地。这个数据集是为了满足一些需要在适当的 OSI 层之上路由 信息的供应商。
 
 ```csharp
 public string[] Destination { get; set; }

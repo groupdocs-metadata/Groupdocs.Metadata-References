@@ -1,14 +1,14 @@
 ---
 title: AttachedPictures
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置与音频文件直接相关的附加图片 该值由APIC帧表示
+description: 获取或设置与音频文件直接相关的附加图片 该值由 APIC 帧表示
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2tag/attachedpictures/
 ---
 ## ID3V2Tag.AttachedPictures property
 
-获取或设置与音频文件直接相关的附加图片。 该值由APIC帧表示。
+获取或设置与音频文件直接相关的附加图片。 该值由 APIC 帧表示。
 
 ```csharp
 public ID3V2AttachedPictureFrame[] AttachedPictures { get; set; }
@@ -16,7 +16,7 @@ public ID3V2AttachedPictureFrame[] AttachedPictures { get; set; }
 
 ### 适当的价值
 
-与音频文件直接相关的附图。
+与音频文件直接相关的附件图片。
 
 ### 也可以看看
 

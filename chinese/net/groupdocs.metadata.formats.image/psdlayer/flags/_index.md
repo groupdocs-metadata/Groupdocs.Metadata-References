@@ -16,7 +16,7 @@ public PsdLayerFlags Flags { get; }
 
 ### 适当的价值
 
-旗帜.
+标志.
 
 ### 也可以看看
 

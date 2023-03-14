@@ -1,14 +1,14 @@
 ---
 title: XmpIptcExtensionPackage
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpIptcExtensionPackagegroupdocs.metadata.standards.xmp.schemes/xmpiptcextensionpackage类.
+description: 初始化一个新的实例XmpIptcExtensionPackagegroupdocs.metadata.standards.xmp.schemes/xmpiptcextensionpackage类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpiptcextensionpackage/xmpiptcextensionpackage/
 ---
 ## XmpIptcExtensionPackage constructor
 
-初始化[`XmpIptcExtensionPackage`](../../xmpiptcextensionpackage)类.
+初始化一个新的实例[`XmpIptcExtensionPackage`](../../xmpiptcextensionpackage)类.
 
 ```csharp
 public XmpIptcExtensionPackage()

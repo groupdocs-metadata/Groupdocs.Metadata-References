@@ -1,14 +1,14 @@
 ---
 title: Magenta
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置洋红色分量
+description: 获取或设置品红色分量
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpcolorantcmyk/magenta/
 ---
 ## XmpColorantCmyk.Magenta property
 
-获取或设置洋红色分量。
+获取或设置品红色分量。
 
 ```csharp
 public double? Magenta { get; set; }

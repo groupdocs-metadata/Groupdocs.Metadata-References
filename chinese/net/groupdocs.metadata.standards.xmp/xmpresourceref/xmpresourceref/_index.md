@@ -1,14 +1,14 @@
 ---
 title: XmpResourceRef
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpResourceRefgroupdocs.metadata.standards.xmp/xmpresourceref类.
+description: 初始化一个新的实例XmpResourceRefgroupdocs.metadata.standards.xmp/xmpresourceref类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpresourceref/xmpresourceref/
 ---
 ## XmpResourceRef constructor
 
-初始化[`XmpResourceRef`](../../xmpresourceref)类.
+初始化一个新的实例[`XmpResourceRef`](../../xmpresourceref)类.
 
 ```csharp
 public XmpResourceRef()

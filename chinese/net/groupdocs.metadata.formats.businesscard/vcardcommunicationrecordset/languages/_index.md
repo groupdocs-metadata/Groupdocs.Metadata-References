@@ -20,7 +20,7 @@ public string[] Languages { get; }
 
 ### 评论
 
-这个属性是一个简化版[`LanguageRecords`](../languagerecords).
+此属性是[`LanguageRecords`](../languagerecords).
 
 ### 也可以看看
 

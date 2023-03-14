@@ -1,14 +1,14 @@
 ---
 title: FocusRange
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取焦点范围
+description: 获取对焦范围
 type: docs
 weight: 110
 url: /zh/net/groupdocs.metadata.standards.exif.makernote/canoncamerasettingspackage/focusrange/
 ---
 ## CanonCameraSettingsPackage.FocusRange property
 
-获取焦点范围。
+获取对焦范围。
 
 ```csharp
 public short FocusRange { get; }

@@ -16,7 +16,7 @@ public string Album { get; set; }
 
 ### 适当的价值
 
-专辑名称。
+专辑名称.
 
 ### 也可以看看
 

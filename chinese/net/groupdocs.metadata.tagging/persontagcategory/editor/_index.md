@@ -1,14 +1,14 @@
 ---
 title: Editor
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取标记编辑文件的人的标签 标签通常用于标记包含最后一个编辑器信息的属性
+description: 获取标记编辑文件的人的标签 该标签通常用于标记包含有关最后编辑者信息的属性
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.tagging/persontagcategory/editor/
 ---
 ## PersonTagCategory.Editor property
 
-获取标记编辑文件的人的标签。 标签通常用于标记包含最后一个编辑器信息的属性。
+获取标记编辑文件的人的标签。 该标签通常用于标记包含有关最后编辑者信息的属性。
 
 ```csharp
 public PropertyTag Editor { get; }

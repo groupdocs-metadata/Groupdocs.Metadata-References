@@ -16,7 +16,7 @@ public MatroskaSimpleTag SimpleTags { get; }
 
 ### 适当的价值
 
-关于目标的一般信息。
+有关目标的一般信息。
 
 ### 也可以看看
 

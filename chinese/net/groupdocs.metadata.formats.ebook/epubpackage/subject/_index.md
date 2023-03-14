@@ -16,7 +16,7 @@ public string Subject { get; set; }
 
 ### 适当的价值
 
-资源的主题。
+资源主题。
 
 ### 也可以看看
 

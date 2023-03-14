@@ -1,14 +1,14 @@
 ---
 title: Right
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取 x 坐标即矩形的 X 和 Width 属性值之和
+description: 获取 x 坐标它是矩形的 X 和 Width 属性值之和
 type: docs
 weight: 60
 url: /zh/net/groupdocs.metadata.common/rectangle/right/
 ---
 ## Rectangle.Right property
 
-获取 x 坐标，即矩形的 X 和 Width 属性值之和。
+获取 x 坐标，它是矩形的 X 和 Width 属性值之和。
 
 ```csharp
 public int Right { get; }
@@ -16,7 +16,7 @@ public int Right { get; }
 
 ### 适当的价值
 
-x 坐标，即矩形的 X 和 Width 属性值之和。
+x 坐标，它是矩形的 X 和 Width 属性值之和。
 
 ### 也可以看看
 

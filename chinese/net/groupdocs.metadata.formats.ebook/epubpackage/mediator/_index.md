@@ -1,14 +1,14 @@
 ---
 title: Mediator
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置中介访问资源的实体
+description: 获取或设置调解对资源的访问的实体
 type: docs
 weight: 380
 url: /zh/net/groupdocs.metadata.formats.ebook/epubpackage/mediator/
 ---
 ## EpubPackage.Mediator property
 
-获取或设置中介访问资源的实体。
+获取或设置调解对资源的访问的实体。
 
 ```csharp
 public string Mediator { get; set; }
@@ -16,7 +16,7 @@ public string Mediator { get; set; }
 
 ### 适当的价值
 
-中介访问资源的实体。
+调解对资源的访问的实体。
 
 ### 也可以看看
 

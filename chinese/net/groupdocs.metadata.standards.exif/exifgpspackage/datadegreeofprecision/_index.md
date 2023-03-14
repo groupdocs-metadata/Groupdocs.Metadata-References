@@ -1,14 +1,14 @@
 ---
 title: DataDegreeOfPrecision
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置GPS DOP数据精度 二维测量时写入HDOP值三维测量时写入PDOP
+description: 获取或设置GPS DOP数据精度 二维测量时写入HDOP值三维测量时写入PDOP值
 type: docs
 weight: 50
 url: /zh/net/groupdocs.metadata.standards.exif/exifgpspackage/datadegreeofprecision/
 ---
 ## ExifGpsPackage.DataDegreeOfPrecision property
 
-获取或设置GPS DOP（数据精度）。 二维测量时写入HDOP值，三维测量时写入PDOP。
+获取或设置GPS DOP（数据精度）。 二维测量时写入HDOP值，三维测量时写入PDOP值。
 
 ```csharp
 public TiffRational DataDegreeOfPrecision { get; set; }

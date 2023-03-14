@@ -1,14 +1,14 @@
 ---
 title: FileFormat
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取指示元数据属性的标记该属性包含有关文件格式的信息
+description: 获取指示元数据属性的标记其中包含有关文件格式的信息
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.tagging/contenttagcategory/fileformat/
 ---
 ## ContentTagCategory.FileFormat property
 
-获取指示元数据属性的标记，该属性包含有关文件格式的信息。
+获取指示元数据属性的标记，其中包含有关文件格式的信息。
 
 ```csharp
 public PropertyTag FileFormat { get; }
@@ -16,7 +16,7 @@ public PropertyTag FileFormat { get; }
 
 ### 适当的价值
 
-指示元数据属性的标记，该属性包含有关文件格式的信息。
+指示元数据属性的标记，其中包含有关文件格式的信息。
 
 ### 也可以看看
 

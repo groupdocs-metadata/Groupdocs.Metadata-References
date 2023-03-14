@@ -12,21 +12,21 @@ url: /zh/net/groupdocs.metadata.standards.iptc/
 
 | 班级 | 描述 |
 | --- | --- |
-| [IptcApplicationRecord](./iptcapplicationrecord) | 表示 IPTC 申请记录。 |
+| [IptcApplicationRecord](./iptcapplicationrecord) | 表示 IPTC 应用程序记录。 |
 | [IptcDataSet](./iptcdataset) | 表示 IPTC 数据集（元数据属性）。 |
 | [IptcEnvelopeRecord](./iptcenveloperecord) | 表示 IPTC 信封记录。 |
-| [IptcRecord](./iptcrecord) | 表示 IPTC 记录。 |
+| [IptcRecord](./iptcrecord) | 代表一条IPTC记录。 |
 | [IptcRecordSet](./iptcrecordset) | 表示 IPTC 记录的集合。 |
 ## 接口
 
 | 界面 | 描述 |
 | --- | --- |
-| [IIptc](./iiptc) | 表示旨在使用 IPTC 元数据的基本操作。 请在以下位置找到更多信息[http://en.wikipedia.org/wiki/International_Press_Telecommunications_Council](http://en.wikipedia.org/wiki/International_Press_Telecommunications_Council). |
+| [IIptc](./iiptc) | 表示用于 IPTC 元数据的基本操作。 请在以下位置找到更多信息[http://en.wikipedia.org/wiki/International_Press_Telecommunications_Council](http://en.wikipedia.org/wiki/International_Press_Telecommunications_Council). |
 ## 枚举
 
 | 枚举 | 描述 |
 | --- | --- |
-| [IptcApplicationRecordDataSet](./iptcapplicationrecorddataset) | 定义 IPTC 应用程序记录数据集编号。 |
+| [IptcApplicationRecordDataSet](./iptcapplicationrecorddataset) | 定义 IPTC 应用记录数据集编号。 |
 | [IptcEnvelopeRecordDataSet](./iptcenveloperecorddataset) | 定义 IPTC 信封记录数据集编号。 |
 | [IptcRecordType](./iptcrecordtype) | 定义 IPTC 记录类型。 |
 

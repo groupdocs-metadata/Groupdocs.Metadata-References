@@ -16,7 +16,7 @@ public string DocumentID { get; set; }
 
 ### 适当的价值
 
-来自引用资源的 xmpMM:DocumentID 属性的值。
+引用资源中 xmpMM:DocumentID 属性的值。
 
 ### 也可以看看
 

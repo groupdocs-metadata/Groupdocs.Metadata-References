@@ -16,7 +16,7 @@ public DateTime DeliveryTime { get; }
 
 ### 适当的价值
 
-交货时间。
+交货时间.
 
 ### 也可以看看
 

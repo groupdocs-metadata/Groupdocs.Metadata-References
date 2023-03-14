@@ -18,7 +18,7 @@ public enum WordProcessingRevisionType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Insertion | `0` | 新内容被插入到文档中。 |
+| Insertion | `0` | 新内容已插入到文档中。 |
 | Deletion | `1` | 内容已从文档中删除。 |
 | FormatChange | `2` | 格式更改已应用于父节点。 |
 | StyleDefinitionChange | `3` | 格式更改已应用于父样式。 |

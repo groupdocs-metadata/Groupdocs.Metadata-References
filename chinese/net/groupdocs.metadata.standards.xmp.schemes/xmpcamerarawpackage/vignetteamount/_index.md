@@ -1,14 +1,14 @@
 ---
 title: VignetteAmount
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置晕影数量设置范围 100 到 100.
+description: 获取或设置 Vignette Amount 设置范围 100 到 100.
 type: docs
 weight: 380
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/vignetteamount/
 ---
 ## XmpCameraRawPackage.VignetteAmount property
 
-获取或设置晕影数量设置。范围 -100 到 100.
+获取或设置 Vignette Amount 设置。范围 -100 到 100.
 
 ```csharp
 public int? VignetteAmount { get; set; }
@@ -16,7 +16,7 @@ public int? VignetteAmount { get; set; }
 
 ### 适当的价值
 
-晕影数量。
+插图数量。
 
 ### 也可以看看
 

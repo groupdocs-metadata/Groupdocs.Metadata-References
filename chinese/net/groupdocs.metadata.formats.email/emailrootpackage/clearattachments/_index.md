@@ -1,14 +1,14 @@
 ---
 title: ClearAttachments
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 删除电子邮件中的所有附件
+description: 从电子邮件中删除所有附件
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.formats.email/emailrootpackage/clearattachments/
 ---
 ## EmailRootPackage.ClearAttachments method
 
-删除电子邮件中的所有附件。
+从电子邮件中删除所有附件。
 
 ```csharp
 public void ClearAttachments()
@@ -16,9 +16,9 @@ public void ClearAttachments()
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* [使用已保存的电子邮件](https://docs.groupdocs.com/display/metadatanet/Working+with+saved+Emails)
+* [使用保存的电子邮件](https://docs.groupdocs.com/display/metadatanet/Working+with+saved+Emails)
 
 ### 也可以看看
 

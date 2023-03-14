@@ -1,14 +1,14 @@
 ---
 title: XmpWhiteBalance
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 代表白平衡设置XmpCameraRawPackage./xmpcamerarawpackage.
+description: 代表白平衡设置在XmpCameraRawPackage./xmpcamerarawpackage.
 type: docs
 weight: 3240
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpwhitebalance/
 ---
 ## XmpWhiteBalance class
 
-代表白平衡设置[`XmpCameraRawPackage`](../xmpcamerarawpackage).
+代表白平衡设置在[`XmpCameraRawPackage`](../xmpcamerarawpackage).
 
 ```csharp
 public sealed class XmpWhiteBalance : XmpClosedChoice<string>
@@ -19,13 +19,13 @@ public sealed class XmpWhiteBalance : XmpClosedChoice<string>
 | 姓名 | 描述 |
 | --- | --- |
 | static [AsShot](../../groupdocs.metadata.standards.xmp.schemes/xmpwhitebalance/asshot) { get; } | 白平衡：As Shot. |
-| static [Auto](../../groupdocs.metadata.standards.xmp.schemes/xmpwhitebalance/auto) { get; } | 白平衡：自动。 |
+| static [Auto](../../groupdocs.metadata.standards.xmp.schemes/xmpwhitebalance/auto) { get; } | 白平衡：自动. |
 | static [Cloudy](../../groupdocs.metadata.standards.xmp.schemes/xmpwhitebalance/cloudy) { get; } | 白平衡：多云。 |
 | static [Custom](../../groupdocs.metadata.standards.xmp.schemes/xmpwhitebalance/custom) { get; } | 白平衡：自定义。 |
 | static [Daylight](../../groupdocs.metadata.standards.xmp.schemes/xmpwhitebalance/daylight) { get; } | 白平衡：日光。 |
-| static [Flash](../../groupdocs.metadata.standards.xmp.schemes/xmpwhitebalance/flash) { get; } | 白平衡：闪光。 |
+| static [Flash](../../groupdocs.metadata.standards.xmp.schemes/xmpwhitebalance/flash) { get; } | 白平衡：闪光灯. |
 | static [Fluorescent](../../groupdocs.metadata.standards.xmp.schemes/xmpwhitebalance/fluorescent) { get; } | 白平衡：荧光灯。 |
-| static [Shade](../../groupdocs.metadata.standards.xmp.schemes/xmpwhitebalance/shade) { get; } | 白平衡：阴影。 |
+| static [Shade](../../groupdocs.metadata.standards.xmp.schemes/xmpwhitebalance/shade) { get; } | 白平衡：阴影. |
 | static [Tungsten](../../groupdocs.metadata.standards.xmp.schemes/xmpwhitebalance/tungsten) { get; } | 白平衡：钨丝灯。 |
 
 ## 方法

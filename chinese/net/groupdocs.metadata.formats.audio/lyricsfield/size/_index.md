@@ -1,14 +1,14 @@
 ---
 title: Size
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取字段大小的字符串表示形式
+description: 获取字段大小的字符串表示
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.formats.audio/lyricsfield/size/
 ---
 ## LyricsField.Size property
 
-获取字段大小的字符串表示形式。
+获取字段大小的字符串表示。
 
 ```csharp
 public string Size { get; }
@@ -16,7 +16,7 @@ public string Size { get; }
 
 ### 适当的价值
 
-字段大小的字符串表示形式。
+字段大小的字符串表示。
 
 ### 也可以看看
 

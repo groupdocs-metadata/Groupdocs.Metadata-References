@@ -1,14 +1,14 @@
 ---
 title: MaxPageSize
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置文档中最大页面的大小包括包含的任何文档
+description: 获取或设置文档中最大页面的大小包括包含文档中的任何页面
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmppagedtextpackage/maxpagesize/
 ---
 ## XmpPagedTextPackage.MaxPageSize property
 
-获取或设置文档中最大页面的大小（包括包含的任何文档）。
+获取或设置文档中最大页面的大小（包括包含文档中的任何页面）。
 
 ```csharp
 public XmpDimensions MaxPageSize { get; set; }

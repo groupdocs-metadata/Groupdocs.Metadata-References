@@ -23,7 +23,7 @@ public enum PsdColorMode
 | Indexed | `2` | 索引颜色模式。 |
 | Rgb | `3` | RGB 颜色模式。 |
 | Cmyk | `4` | CMYK 颜色模式。 |
-| Multichannel | `7` | 多通道色彩模式。 |
+| Multichannel | `7` | 多通道颜色模式。 |
 | Duotone | `8` | 双色调颜色模式。 |
 | Lab | `9` | LAB 颜色模式。 |
 

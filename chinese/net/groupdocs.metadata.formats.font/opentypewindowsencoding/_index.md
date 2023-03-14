@@ -1,14 +1,14 @@
 ---
 title: OpenTypeWindowsEncoding
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 代表编码Windows平台.
+description: 代表编码为Windows平台.
 type: docs
 weight: 1620
 url: /zh/net/groupdocs.metadata.formats.font/opentypewindowsencoding/
 ---
 ## OpenTypeWindowsEncoding enumeration
 
-代表编码Windows平台.
+代表编码为Windows平台.
 
 ```csharp
 public enum OpenTypeWindowsEncoding : ushort
@@ -21,9 +21,9 @@ public enum OpenTypeWindowsEncoding : ushort
 | Symbol | `0` | 符号编码。 |
 | UnicodeBmp | `1` | Unicode BMP 编码。 |
 | ShiftJis | `2` | ShiftJIS 编码。 |
-| Prc | `3` | PRC编码。 |
-| Big5 | `4` | Big5 编码。 |
-| Wansung | `5` | 万星编码. |
+| Prc | `3` | PRC 编码. |
+| Big5 | `4` | Big5 编码. |
+| Wansung | `5` | Wansung 编码。 |
 | Johab | `6` | Johab 编码。 |
 | UnicodeFull | `10` | Unicode 完整曲目编码。 |
 

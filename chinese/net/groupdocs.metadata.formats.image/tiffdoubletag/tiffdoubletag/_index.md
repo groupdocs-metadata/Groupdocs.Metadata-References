@@ -1,14 +1,14 @@
 ---
 title: TiffDoubleTag
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化TiffDoubleTaggroupdocs.metadata.formats.image/tiffdoubletag类.
+description: 初始化一个新的实例TiffDoubleTaggroupdocs.metadata.formats.image/tiffdoubletag类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.image/tiffdoubletag/tiffdoubletag/
 ---
 ## TiffDoubleTag constructor
 
-初始化[`TiffDoubleTag`](../../tiffdoubletag)类.
+初始化一个新的实例[`TiffDoubleTag`](../../tiffdoubletag)类.
 
 ```csharp
 public TiffDoubleTag(TiffTagID tagID, double[] value)
@@ -16,7 +16,7 @@ public TiffDoubleTag(TiffTagID tagID, double[] value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| tagID | TiffTagID | 标签标识符。 |
+| tagID | TiffTagID | 标记标识符。 |
 | value | Double[] | 价值。 |
 
 ### 也可以看看

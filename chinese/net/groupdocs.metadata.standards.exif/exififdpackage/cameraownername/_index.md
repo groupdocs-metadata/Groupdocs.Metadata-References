@@ -1,14 +1,14 @@
 ---
 title: CameraOwnerName
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置相机所有者的名字
+description: 获取或设置相机所有者的名称
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.standards.exif/exififdpackage/cameraownername/
 ---
 ## ExifIfdPackage.CameraOwnerName property
 
-获取或设置相机所有者的名字。
+获取或设置相机所有者的名称。
 
 ```csharp
 public string CameraOwnerName { get; set; }
@@ -16,7 +16,7 @@ public string CameraOwnerName { get; set; }
 
 ### 适当的价值
 
-相机所有者的姓名。
+相机所有者的名字。
 
 ### 也可以看看
 

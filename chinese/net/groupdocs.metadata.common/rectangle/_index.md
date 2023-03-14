@@ -21,9 +21,9 @@ public struct Rectangle
 | static [Empty](../../groupdocs.metadata.common/rectangle/empty) { get; } | 获取空矩形。 |
 | [Bottom](../../groupdocs.metadata.common/rectangle/bottom) { get; } | 获取 y 坐标，它是矩形的 Y 和 Height 属性值之和。 |
 | [Height](../../groupdocs.metadata.common/rectangle/height) { get; } | 获取高度。 |
-| [IsEmpty](../../groupdocs.metadata.common/rectangle/isempty) { get; } | 获取一个指示此实例是否为空的值。 |
+| [IsEmpty](../../groupdocs.metadata.common/rectangle/isempty) { get; } | 获取一个值，指示此实例是否为空。 |
 | [Left](../../groupdocs.metadata.common/rectangle/left) { get; } | 获取矩形左边缘的 x 坐标。 |
-| [Right](../../groupdocs.metadata.common/rectangle/right) { get; } | 获取 x 坐标，即矩形的 X 和 Width 属性值之和。 |
+| [Right](../../groupdocs.metadata.common/rectangle/right) { get; } | 获取 x 坐标，它是矩形的 X 和 Width 属性值之和。 |
 | [Top](../../groupdocs.metadata.common/rectangle/top) { get; } | 获取 y 坐标，它是矩形的 Y 和 Height 属性值之和。 |
 | [Width](../../groupdocs.metadata.common/rectangle/width) { get; } | 获取宽度。 |
 | [X](../../groupdocs.metadata.common/rectangle/x) { get; } | 获取 x. |
@@ -33,7 +33,7 @@ public struct Rectangle
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [ToString](../../groupdocs.metadata.common/rectangle/tostring)() | 返回一个String代表这个实例。 |
+| override [ToString](../../groupdocs.metadata.common/rectangle/tostring)() | 返回一个String代表这个实例. |
 
 ### 也可以看看
 

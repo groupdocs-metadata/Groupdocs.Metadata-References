@@ -20,15 +20,15 @@ public enum OpenTypeFlags : ushort
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | None | `0` | 未定义，没有标志。 |
-| BaselineAtY0 | `1` | y=0 处字体的基线。 |
-| LeftSidebearingAtX0 | `2` | x=0 处的左侧方位点（仅与 TrueType 光栅化器相关）。 |
-| DependOnPointSize | `4` | 说明可能取决于点大小。 |
-| ForceToInteger | `8` | 强制 ppem 为所有内部定标器数学的整数值；如果该位被清除，则可以使用小数 ppem 大小。 |
+| BaselineAtY0 | `1` | y=0. 处字体的基线 |
+| LeftSidebearingAtX0 | `2` | x=0 处的左侧边距点（仅与 TrueType 光栅器相关）。 |
+| DependOnPointSize | `4` | 指令可能取决于点大小。 |
+| ForceToInteger | `8` | 将 ppem 强制为所有内部定标器数学的整数值；如果这个位是明确的，可以使用分数 ppem 大小。 |
 | AlterAdvanceWidth | `10` | 指令可能会改变前进宽度（前进宽度可能不会线性缩放）。 |
-| Lossless | `1000` | 字体数据是“无损”的，因为已经过优化转换和/或压缩。 |
-| Converted | `2000` | 字体转换（产生兼容的指标）。 |
-| Optimized | `4000` | 针对 ClearType™ 优化的字体。 |
-| Resort | `8000` | 最后的手段字体. |
+| Lossless | `1000` | 由于经过优化转换和/或压缩，字体数据是“无损的”。 |
+| Converted | `2000` | 字体已转换（生成兼容的指标）。 |
+| Optimized | `4000` | 为 ClearType™ 优化的字体。 |
+| Resort | `8000` | 最后手段字体. |
 
 ### 也可以看看
 

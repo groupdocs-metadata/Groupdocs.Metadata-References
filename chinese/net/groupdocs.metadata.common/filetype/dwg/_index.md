@@ -1,14 +1,14 @@
 ---
 title: DWG
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 带有 DWG 扩展名的文件代表用于包含 2D 和 3D 设计数据的专有二进制文件 了解有关此文件格式的更多信息 这里https//wiki.fileformat.com/cad/dwg/.
+description: 具有 DWG 扩展名的文件表示用于包含 2D 和 3D 设计数据的专有二进制文件 了解有关此文件格式的更多信息 这里https//wiki.fileformat.com/cad/dwg/.
 type: docs
 weight: 130
 url: /zh/net/groupdocs.metadata.common/filetype/dwg/
 ---
 ## FileType.DWG field
 
-带有 DWG 扩展名的文件代表用于包含 2D 和 3D 设计数据的专有二进制文件。 了解有关此文件格式的更多信息 [这里](https://wiki.fileformat.com/cad/dwg/).
+具有 DWG 扩展名的文件表示用于包含 2D 和 3D 设计数据的专有二进制文件。 了解有关此文件格式的更多信息 [这里](https://wiki.fileformat.com/cad/dwg/).
 
 ```csharp
 public static readonly FileType DWG;

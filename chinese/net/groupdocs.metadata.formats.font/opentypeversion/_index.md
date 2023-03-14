@@ -1,14 +1,14 @@
 ---
 title: OpenTypeVersion
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 代表 OpenType 版本
+description: 代表OpenType版本
 type: docs
 weight: 1590
 url: /zh/net/groupdocs.metadata.formats.font/opentypeversion/
 ---
 ## OpenTypeVersion enumeration
 
-代表 OpenType 版本。
+代表OpenType版本。
 
 ```csharp
 public enum OpenTypeVersion : uint

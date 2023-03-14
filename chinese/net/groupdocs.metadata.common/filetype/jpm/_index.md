@@ -1,14 +1,14 @@
 ---
 title: JPM
 second_title: GroupDocs.Metadata for .NET API 参考
-description: JPEG 2000 JPM 是一种图像编码系统和最先进的图像压缩标准 使用小波技术设计的 JPEG 2000 可以一次编码任何质量的无损内容 了解有关此文件格式的更多信息 这里https//wiki.fileformat.com/image/jpm/.
+description: JPEG 2000 JPM 是图像编码系统和最先进的图像压缩标准 设计使用小波技术 JPEG 2000 可以一次编码任何质量的无损内容 了解有关此文件格式的更多信息 这里https//wiki.fileformat.com/image/jpm/.
 type: docs
 weight: 290
 url: /zh/net/groupdocs.metadata.common/filetype/jpm/
 ---
 ## FileType.JPM field
 
-JPEG 2000 (JPM) 是一种图像编码系统和最先进的图像压缩标准。 使用小波技术设计的 JPEG 2000 可以一次编码任何质量的无损内容。 了解有关此文件格式的更多信息 [这里](https://wiki.fileformat.com/image/jpm/).
+JPEG 2000 (JPM) 是图像编码系统和最先进的图像压缩标准。 设计，使用小波技术 JPEG 2000 可以一次编码任何质量的无损内容。 了解有关此文件格式的更多信息 [这里](https://wiki.fileformat.com/image/jpm/).
 
 ```csharp
 public static readonly FileType JPM;

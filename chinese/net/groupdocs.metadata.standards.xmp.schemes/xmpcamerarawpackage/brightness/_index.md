@@ -8,7 +8,7 @@ url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/bright
 ---
 ## XmpCameraRawPackage.Brightness property
 
-获取或设置亮度值。如果未定义，则为空。
+获取或设置亮度值。如果未定义则为空。
 
 ```csharp
 public int? Brightness { get; set; }
@@ -16,7 +16,7 @@ public int? Brightness { get; set; }
 
 ### 适当的价值
 
-亮度。
+亮度.
 
 ### 也可以看看
 

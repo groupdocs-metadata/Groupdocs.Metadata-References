@@ -1,14 +1,14 @@
 ---
 title: FileAlterPreservation
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取一个标志该标志告诉软件如果该帧未知并且文件不包括标签被更改该帧如何处理 当音频完全被其他音频数据替换时这不适用
+description: 获取标志该标志告诉软件如何处理此帧如果它是未知的并且文件不包括标签被更改 当音频被其他音频数据完全替换时这不适用
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2tagframeflags/filealterpreservation/
 ---
 ## ID3V2TagFrameFlags.FileAlterPreservation property
 
-获取一个标志，该标志告诉软件如果该帧未知并且文件（不包括标签）被更改，该帧如何处理。 当音频完全被其他音频数据替换时，这不适用。
+获取标志，该标志告诉软件如何处理此帧，如果它是未知的并且文件（不包括标签）被更改。 当音频被其他音频数据完全替换时，这不适用。
 
 ```csharp
 public bool FileAlterPreservation { get; }
@@ -16,7 +16,7 @@ public bool FileAlterPreservation { get; }
 
 ### 适当的价值
 
-如果未知并且文件（不包括标签）被更改，则获取告诉软件如何处理此帧的标志。
+获取标志，该标志告诉软件如何处理此帧，如果它是未知的并且文件（不包括标签）被更改。
 
 ### 也可以看看
 

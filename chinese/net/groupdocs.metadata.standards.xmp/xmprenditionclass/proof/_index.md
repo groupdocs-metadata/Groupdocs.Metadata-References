@@ -1,14 +1,14 @@
 ---
 title: Proof
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 审查证明
+description: 审核证明
 type: docs
 weight: 50
 url: /zh/net/groupdocs.metadata.standards.xmp/xmprenditionclass/proof/
 ---
 ## XmpRenditionClass.Proof field
 
-审查证明。
+审核证明。
 
 ```csharp
 public const string Proof;

@@ -16,7 +16,7 @@ public int? LuminanceSmoothing { get; set; }
 
 ### 适当的价值
 
-亮度平滑。
+亮度平滑.
 
 ### 也可以看看
 

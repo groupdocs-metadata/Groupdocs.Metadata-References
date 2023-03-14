@@ -16,7 +16,7 @@ public SpreadsheetSheet[] HiddenSheets { get; }
 
 ### 适当的价值
 
-隐藏的表格。
+隐藏表.
 
 ### 也可以看看
 

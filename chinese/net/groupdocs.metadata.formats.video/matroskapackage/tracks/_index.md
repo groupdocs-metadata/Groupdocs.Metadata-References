@@ -1,14 +1,14 @@
 ---
 title: Tracks
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取轨道元数据条目
+description: 获取曲目元数据条目
 type: docs
 weight: 60
 url: /zh/net/groupdocs.metadata.formats.video/matroskapackage/tracks/
 ---
 ## MatroskaPackage.Tracks property
 
-获取轨道元数据条目。
+获取曲目元数据条目。
 
 ```csharp
 public MatroskaTrack[] Tracks { get; }
@@ -16,7 +16,7 @@ public MatroskaTrack[] Tracks { get; }
 
 ### 适当的价值
 
-轨道元数据条目。
+曲目元数据条目。
 
 ### 也可以看看
 

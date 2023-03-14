@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取IptcRecordgroupdocs.metadata.standards.iptc/iptcrecord具有指定的编号
+description: 获取IptcRecordgroupdocs.metadata.standards.iptc/iptcrecord用指定的数字.
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.standards.iptc/iptcrecordset/item/
 ---
 ## IptcRecordSet indexer (1 of 2)
 
-获取[`IptcRecord`](../../iptcrecord)具有指定的编号。
+获取[`IptcRecord`](../../iptcrecord)用指定的数字.
 
 ```csharp
 public IptcRecord this[byte recordNumber] { get; }
@@ -16,11 +16,11 @@ public IptcRecord this[byte recordNumber] { get; }
 
 | 范围 | 描述 |
 | --- | --- |
-| recordNumber | 记录编号。 |
+| recordNumber | 记录号。 |
 
 ### 返回值
 
-这[`IptcRecord`](../../iptcrecord)如果找到，则具有指定的编号；否则为空。
+这[`IptcRecord`](../../iptcrecord)如果找到，指定编号；否则为空。
 
 ### 也可以看看
 
@@ -33,7 +33,7 @@ public IptcRecord this[byte recordNumber] { get; }
 
 ## IptcRecordSet indexer (2 of 2)
 
-获取[`IptcDataSet`](../../iptcdataset)具有指定的记录和数据集编号。
+获取[`IptcDataSet`](../../iptcdataset)具有指定的记录和数据集编号.
 
 ```csharp
 public IptcDataSet this[byte recordNumber, byte dataSetNumber] { get; }
@@ -41,7 +41,7 @@ public IptcDataSet this[byte recordNumber, byte dataSetNumber] { get; }
 
 | 范围 | 描述 |
 | --- | --- |
-| recordNumber | 记录编号。 |
+| recordNumber | 记录号。 |
 | dataSetNumber | 数据集编号。 |
 
 ### 返回值

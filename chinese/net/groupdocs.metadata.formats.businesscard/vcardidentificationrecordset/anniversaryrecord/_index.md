@@ -1,14 +1,14 @@
 ---
 title: AnniversaryRecord
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取对象的结婚日期或同等日期
+description: 获取对象的结婚日期或等效日期
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.formats.businesscard/vcardidentificationrecordset/anniversaryrecord/
 ---
 ## VCardIdentificationRecordset.AnniversaryRecord property
 
-获取对象的结婚日期或同等日期。
+获取对象的结婚日期或等效日期。
 
 ```csharp
 public VCardRecord AnniversaryRecord { get; }

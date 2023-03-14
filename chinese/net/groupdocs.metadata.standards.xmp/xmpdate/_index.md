@@ -1,14 +1,14 @@
 ---
 title: XmpDate
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示 XMP 数据包中的日期
+description: 代表XMP数据包中的日期
 type: docs
 weight: 3370
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpdate/
 ---
 ## XmpDate class
 
-表示 XMP 数据包中的日期。
+代表XMP数据包中的日期。
 
 ```csharp
 public sealed class XmpDate : XmpValueBase
@@ -18,8 +18,8 @@ public sealed class XmpDate : XmpValueBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| [XmpDate](xmpdate#constructor)(DateTime) | 初始化[`XmpDate`](../xmpdate)类. |
-| [XmpDate](xmpdate#constructor_1)(string) | 初始化[`XmpDate`](../xmpdate)类. |
+| [XmpDate](xmpdate#constructor)(DateTime) | 初始化一个新的实例[`XmpDate`](../xmpdate)类. |
+| [XmpDate](xmpdate#constructor_1)(string) | 初始化一个新的实例[`XmpDate`](../xmpdate)类. |
 
 ## 特性
 
@@ -38,7 +38,7 @@ public sealed class XmpDate : XmpValueBase
 | override [GetXmpRepresentation](../../groupdocs.metadata.standards.xmp/xmpdate/getxmprepresentation)() | 以 XMP 格式返回包含字符串的值。 |
 | [ToArray&lt;TElement&gt;](../../groupdocs.metadata.common/propertyvalue/toarray)() | 将属性值转换为指定类型的数组。 |
 | [ToClass&lt;T&gt;](../../groupdocs.metadata.common/propertyvalue/toclass)() | 将属性值转换为引用类型。 |
-| override [ToString](../../groupdocs.metadata.standards.xmp/xmpvaluebase/tostring)() | 返回一个表示属性值的字符串。 |
+| override [ToString](../../groupdocs.metadata.standards.xmp/xmpvaluebase/tostring)() | 返回表示属性值的字符串。 |
 | [ToStruct&lt;T&gt;](../../groupdocs.metadata.common/propertyvalue/tostruct)() | 将属性值转换为值类型。 |
 | [ToStruct&lt;T&gt;](../../groupdocs.metadata.common/propertyvalue/tostruct)(T) | 将属性值转换为值类型。 |
 
@@ -50,7 +50,7 @@ public sealed class XmpDate : XmpValueBase
 
 ### 评论
 
-使用日期和时间格式中定义的格式子集表示日期时间值： YYYY YYYY-MM YYYY-MM-DD YYYY-MM-DDThh:mmTZD YYYY-MM-DDThh:mm:ssTZD YYYY- MM-DDThh:mm:ss.sTZD
+日期时间值使用日期和时间格式中定义的格式子集表示： YYYY YYYY-MM YYYY-MM-DD YYYY-MM-DDThh:mmTZD YYYY-MM-DDThh:mm:ssTZD_x000-d_ YYYY MM-DDThh:mm:ss.sTZD
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Language
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取翻译的关键字和文本使用的人类语言
+description: 获取翻译后的关键字和文本使用的人类语言
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.formats.image/pnginternationaltextchunk/language/
 ---
 ## PngInternationalTextChunk.Language property
 
-获取翻译的关键字和文本使用的人类语言。
+获取翻译后的关键字和文本使用的人类语言。
 
 ```csharp
 public string Language { get; }
@@ -16,7 +16,7 @@ public string Language { get; }
 
 ### 适当的价值
 
-翻译的关键字和文本使用的人类语言。
+翻译后的关键字和文本使用的人类语言。
 
 ### 也可以看看
 

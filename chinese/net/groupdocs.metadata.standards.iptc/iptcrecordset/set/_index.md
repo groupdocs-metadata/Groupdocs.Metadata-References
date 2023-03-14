@@ -1,14 +1,14 @@
 ---
 title: Set
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 在相应的记录中添加或更新指定的数据集
+description: 在适当的记录中添加或更新指定的数据集
 type: docs
 weight: 80
 url: /zh/net/groupdocs.metadata.standards.iptc/iptcrecordset/set/
 ---
 ## IptcRecordSet.Set method
 
-在相应的记录中添加或更新指定的数据集。
+在适当的记录中添加或更新指定的数据集。
 
 ```csharp
 public void Set(IptcDataSet dataSet)
@@ -28,7 +28,7 @@ using (Metadata metadata = new Metadata(Constants.PsdWithIptc))
     IIptc root = metadata.GetRootPackage() as IIptc;
     if (root != null)
     {
-        // 如果缺少 IPTC 包，请设置它
+        // 如果缺少 IPTC 包，则设置它
         if (root.IptcPackage == null)
         {
             root.IptcPackage = new IptcRecordSet();

@@ -20,7 +20,7 @@ public string MediaTypeParameter { get; }
 
 ### 评论
 
-与值为 URI 的属性一起使用。它向 vCard 消费者应用程序提供有关由 URI. 标识的 资源的媒体类型 [RFC2046] 的提示。
+与值为 URI 的属性一起使用。它向 vCard 消费者应用程序提供有关由 URI. 标识的 资源的媒体类型 [RFC2046] 的提示
 
 ### 也可以看看
 

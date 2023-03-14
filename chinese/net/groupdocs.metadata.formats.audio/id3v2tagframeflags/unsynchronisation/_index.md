@@ -1,14 +1,14 @@
 ---
 title: Unsynchronisation
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取一个值该值指示是否将不同步应用于此帧
+description: 获取一个值指示是否将不同步应用于此帧
 type: docs
 weight: 80
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2tagframeflags/unsynchronisation/
 ---
 ## ID3V2TagFrameFlags.Unsynchronisation property
 
-获取一个值，该值指示是否将不同步应用于此帧。
+获取一个值，指示是否将不同步应用于此帧。
 
 ```csharp
 public bool Unsynchronisation { get; }
@@ -16,7 +16,7 @@ public bool Unsynchronisation { get; }
 
 ### 适当的价值
 
-`真的`, 如果对这个帧应用了不同步；否则为假。
+`真的`，如果不同步应用于此帧；否则，假的。
 
 ### 也可以看看
 

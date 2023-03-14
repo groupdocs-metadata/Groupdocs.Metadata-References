@@ -1,14 +1,14 @@
 ---
 title: GetDocumentInfo
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取有关已加载文档的常用信息
+description: 获取有关已加载文档的公共信息
 type: docs
 weight: 70
 url: /zh/net/groupdocs.metadata/metadata/getdocumentinfo/
 ---
 ## Metadata.GetDocumentInfo method
 
-获取有关已加载文档的常用信息。
+获取有关已加载文档的公共信息。
 
 ```csharp
 public IDocumentInfo GetDocumentInfo()
@@ -16,11 +16,11 @@ public IDocumentInfo GetDocumentInfo()
 
 ### 返回值
 
-表示通用文档信息的对象。
+表示公共文档信息的对象。
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [获取文档信息](https://docs.groupdocs.com/display/metadatanet/Get+document+info)
 

@@ -1,14 +1,14 @@
 ---
 title: Band
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置Band/Orchestra/Accompaniment 这个值由TPE2帧表示
+description: 获取或设置 Band/Orchestra/Accompaniment 此值由 TPE2 帧表示
 type: docs
 weight: 50
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2tag/band/
 ---
 ## ID3V2Tag.Band property
 
-获取或设置Band/Orchestra/Accompaniment。 这个值由TPE2帧表示。
+获取或设置 Band/Orchestra/Accompaniment。 此值由 TPE2 帧表示。
 
 ```csharp
 public string Band { get; set; }

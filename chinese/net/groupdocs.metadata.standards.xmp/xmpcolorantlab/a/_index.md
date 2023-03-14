@@ -1,14 +1,14 @@
 ---
 title: A
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置A组件
+description: 获取或设置 A 组件
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpcolorantlab/a/
 ---
 ## XmpColorantLab.A property
 
-获取或设置A组件。
+获取或设置 A 组件。
 
 ```csharp
 public sbyte? A { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Category
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置类别限制为 3 个 7 位 ASCII 字符
+description: 获取或设置类别限于 3 个 7 位 ASCII 字符
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpphotoshoppackage/category/
 ---
 ## XmpPhotoshopPackage.Category property
 
-获取或设置类别。限制为 3 个 7 位 ASCII 字符。
+获取或设置类别。限于 3 个 7 位 ASCII 字符。
 
 ```csharp
 public string Category { get; set; }

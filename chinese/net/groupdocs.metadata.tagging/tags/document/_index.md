@@ -1,14 +1,14 @@
 ---
 title: Document
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取一组仅应用于文档特定属性的标记 这些标签可用于确定从办公文档的哪个部分提取了财产
+description: 获取一组仅应用于文档特定属性的标签 标记可用于确定属性是从 office 文档的哪个部分提取的
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.tagging/tags/document/
 ---
 ## Tags.Document property
 
-获取一组仅应用于文档特定属性的标记。 这些标签可用于确定从办公文档的哪个部分提取了财产。
+获取一组仅应用于文档特定属性的标签。 标记可用于确定属性是从 office 文档的哪个部分提取的。
 
 ```csharp
 public static DocumentTagCategory Document { get; }

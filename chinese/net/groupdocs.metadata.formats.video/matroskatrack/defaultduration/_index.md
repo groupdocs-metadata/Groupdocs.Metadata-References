@@ -1,14 +1,14 @@
 ---
 title: DefaultDuration
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取纳秒数不通过缩放TimecodeScalegroupdocs.metadata.formats.video/matroskasegment/timecodescale 每帧.
+description: 获取纳秒数不通过TimecodeScalegroupdocs.metadata.formats.video/matroskasegment/timecodescale 每帧.
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.formats.video/matroskatrack/defaultduration/
 ---
 ## MatroskaTrack.DefaultDuration property
 
-获取纳秒数（不通过缩放[`TimecodeScale`](../../matroskasegment/timecodescale) 每帧.
+获取纳秒数（不通过[`TimecodeScale`](../../matroskasegment/timecodescale) 每帧.
 
 ```csharp
 public ulong? DefaultDuration { get; }

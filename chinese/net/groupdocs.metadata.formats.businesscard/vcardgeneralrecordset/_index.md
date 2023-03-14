@@ -19,7 +19,7 @@ public class VCardGeneralRecordset : VCardRecordset
 | 姓名 | 描述 |
 | --- | --- |
 | [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | 获取元数据属性的数量。 |
-| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定的名称。 |
+| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定名称. |
 | [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | 获取元数据属性名称的集合。 |
 | [Kind](../../groupdocs.metadata.formats.businesscard/vcardgeneralrecordset/kind) { get; } | 获取对象的种类。 |
 | [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | 获取元数据类型。 |
@@ -27,8 +27,8 @@ public class VCardGeneralRecordset : VCardRecordset
 | [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | 获取描述符集合，其中包含有关可通过 GroupDocs.Metadata 搜索引擎访问的属性的信息。 |
 | [SourceRecords](../../groupdocs.metadata.formats.businesscard/vcardgeneralrecordset/sourcerecords) { get; } | 获取内容类型中包含的目录信息源数组。 |
 | [Sources](../../groupdocs.metadata.formats.businesscard/vcardgeneralrecordset/sources) { get; } | 获取一个数组，其中包含内容类型中包含的目录信息的来源。 |
-| [XmlEntries](../../groupdocs.metadata.formats.businesscard/vcardgeneralrecordset/xmlentries) { get; } | 获取一个包含扩展的 XML 编码的 vCard 数据的数组。 |
-| [XmlRecords](../../groupdocs.metadata.formats.businesscard/vcardgeneralrecordset/xmlrecords) { get; } | 获取一个包含扩展的 XML 编码的 vCard 数据的数组。 |
+| [XmlEntries](../../groupdocs.metadata.formats.businesscard/vcardgeneralrecordset/xmlentries) { get; } | 获取包含扩展的 XML 编码 vCard 数据的数组。 |
+| [XmlRecords](../../groupdocs.metadata.formats.businesscard/vcardgeneralrecordset/xmlrecords) { get; } | 获取包含扩展的 XML 编码 vCard 数据的数组。 |
 
 ## 方法
 
@@ -40,12 +40,12 @@ public class VCardGeneralRecordset : VCardRecordset
 | [GetEnumerator](../../groupdocs.metadata.common/metadatapackage/getenumerator)() | 返回一个遍历集合的枚举器。 |
 | virtual [RemoveProperties](../../groupdocs.metadata.common/metadatapackage/removeproperties)(Func&lt;MetadataProperty, bool&gt;) | 删除满足指定谓词的元数据属性。 |
 | virtual [Sanitize](../../groupdocs.metadata.common/metadatapackage/sanitize)() | 从包中删除可写元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
-| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
+| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是以下方法的组合[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
 | [UpdateProperties](../../groupdocs.metadata.common/metadatapackage/updateproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 更新满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [使用 vCard 元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+vCard+metadata)
 

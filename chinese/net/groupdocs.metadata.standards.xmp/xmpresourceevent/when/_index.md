@@ -1,14 +1,14 @@
 ---
 title: When
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置动作发生时间的时间戳
+description: 获取或设置操作发生时的时间戳
 type: docs
 weight: 70
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpresourceevent/when/
 ---
 ## XmpResourceEvent.When property
 
-获取或设置动作发生时间的时间戳。
+获取或设置操作发生时的时间戳。
 
 ```csharp
 public DateTime? When { get; set; }
@@ -16,7 +16,7 @@ public DateTime? When { get; set; }
 
 ### 适当的价值
 
-动作发生时的时间戳。 对于创建或写入文件的事件，这应该是文件的大致修改时间。
+操作发生时的时间戳。 对于创建或写入文件的事件，这应该是文件的大致修改时间。
 
 ### 也可以看看
 

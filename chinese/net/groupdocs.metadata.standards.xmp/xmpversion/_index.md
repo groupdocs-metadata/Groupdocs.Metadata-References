@@ -1,14 +1,14 @@
 ---
 title: XmpVersion
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示文档的版本
+description: 代表文档的一个版本
 type: docs
 weight: 3630
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpversion/
 ---
 ## XmpVersion class
 
-表示文档的版本。
+代表文档的一个版本。
 
 ```csharp
 public sealed class XmpVersion : XmpComplexType
@@ -18,7 +18,7 @@ public sealed class XmpVersion : XmpComplexType
 
 | 姓名 | 描述 |
 | --- | --- |
-| [XmpVersion](xmpversion)() | 初始化[`XmpVersion`](../xmpversion)类. |
+| [XmpVersion](xmpversion)() | 初始化一个新的实例[`XmpVersion`](../xmpversion)类. |
 
 ## 特性
 
@@ -26,12 +26,12 @@ public sealed class XmpVersion : XmpComplexType
 | --- | --- |
 | [Comments](../../groupdocs.metadata.standards.xmp/xmpversion/comments) { get; set; } | 获取或设置有关更改内容的注释。 |
 | [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | 获取元数据属性的数量。 |
-| [Event](../../groupdocs.metadata.standards.xmp/xmpversion/event) { get; set; } | 获取或设置用户执行的操作的高级、正式的描述。 |
-| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定的名称。 |
+| [Event](../../groupdocs.metadata.standards.xmp/xmpversion/event) { get; set; } | 获取或设置用户执行的操作的高级、正式描述。 |
+| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定名称. |
 | [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | 获取元数据属性名称的集合。 |
 | [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | 获取元数据类型。 |
 | [Modifier](../../groupdocs.metadata.standards.xmp/xmpversion/modifier) { get; set; } | 获取或设置修改此版本的人。 |
-| [ModifyDate](../../groupdocs.metadata.standards.xmp/xmpversion/modifydate) { get; set; } | 获取或设置此版本的签入日期。 |
+| [ModifyDate](../../groupdocs.metadata.standards.xmp/xmpversion/modifydate) { get; set; } | 获取或设置签入此版本的日期。 |
 | [NamespaceUris](../../groupdocs.metadata.standards.xmp/xmpcomplextype/namespaceuris) { get; } | 获取在[`XmpComplexType`](../xmpcomplextype)实例. |
 | [Prefixes](../../groupdocs.metadata.standards.xmp/xmpcomplextype/prefixes) { get; } | 获取在[`XmpComplexType`](../xmpcomplextype)实例. |
 | [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | 获取描述符集合，其中包含有关可通过 GroupDocs.Metadata 搜索引擎访问的属性的信息。 |
@@ -49,8 +49,8 @@ public sealed class XmpVersion : XmpComplexType
 | override [GetXmpRepresentation](../../groupdocs.metadata.standards.xmp/xmpcomplextype/getxmprepresentation)() | 以 XMP 格式返回包含字符串的值。 |
 | virtual [RemoveProperties](../../groupdocs.metadata.common/metadatapackage/removeproperties)(Func&lt;MetadataProperty, bool&gt;) | 删除满足指定谓词的元数据属性。 |
 | virtual [Sanitize](../../groupdocs.metadata.common/metadatapackage/sanitize)() | 从包中删除可写元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
-| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
-| override [ToString](../../groupdocs.metadata.standards.xmp/xmpcomplextype/tostring)() | 返回一个String代表这个实例。 |
+| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是以下方法的组合[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
+| override [ToString](../../groupdocs.metadata.standards.xmp/xmpcomplextype/tostring)() | 返回一个String代表这个实例. |
 | [UpdateProperties](../../groupdocs.metadata.common/metadatapackage/updateproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 更新满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
 
 ### 也可以看看

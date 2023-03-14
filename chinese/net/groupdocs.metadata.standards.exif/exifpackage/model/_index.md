@@ -1,14 +1,14 @@
 ---
 title: Model
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置设备的型号名称或型号 这是生成图像的 DSC扫描仪视频数字化仪或其他设备的型号名称或编号
+description: 获取或设置设备的型号名称或型号编号 这是生成图像的 DSC扫描仪视频数字转换器或其他设备的型号名称或编号
 type: docs
 weight: 110
 url: /zh/net/groupdocs.metadata.standards.exif/exifpackage/model/
 ---
 ## ExifPackage.Model property
 
-获取或设置设备的型号名称或型号。 这是生成图像的 DSC、扫描仪、视频数字化仪或其他设备的型号名称或编号。
+获取或设置设备的型号名称或型号编号。 这是生成图像的 DSC、扫描仪、视频数字转换器或其他设备的型号名称或编号。
 
 ```csharp
 public string Model { get; set; }

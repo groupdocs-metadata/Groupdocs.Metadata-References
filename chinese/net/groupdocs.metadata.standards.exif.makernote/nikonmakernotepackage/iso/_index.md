@@ -1,14 +1,14 @@
 ---
 title: Iso
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取iso.
+description: 获取 iso.
 type: docs
 weight: 60
 url: /zh/net/groupdocs.metadata.standards.exif.makernote/nikonmakernotepackage/iso/
 ---
 ## NikonMakerNotePackage.Iso property
 
-获取iso.
+获取 iso.
 
 ```csharp
 public ushort[] Iso { get; }

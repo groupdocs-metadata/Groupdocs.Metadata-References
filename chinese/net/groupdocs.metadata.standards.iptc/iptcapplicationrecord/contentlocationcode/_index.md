@@ -1,14 +1,14 @@
 ---
 title: ContentLocationCode
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置内容位置码
+description: 获取或设置内容位置代码
 type: docs
 weight: 110
 url: /zh/net/groupdocs.metadata.standards.iptc/iptcapplicationrecord/contentlocationcode/
 ---
 ## IptcApplicationRecord.ContentLocationCode property
 
-获取或设置内容位置码。
+获取或设置内容位置代码。
 
 ```csharp
 public string ContentLocationCode { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Length
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 以字节为单位获取总层长度
+description: 获取以字节为单位的总层长度
 type: docs
 weight: 70
 url: /zh/net/groupdocs.metadata.formats.image/psdlayer/length/
 ---
 ## PsdLayer.Length property
 
-以字节为单位获取总层长度。
+获取以字节为单位的总层长度。
 
 ```csharp
 public int Length { get; }

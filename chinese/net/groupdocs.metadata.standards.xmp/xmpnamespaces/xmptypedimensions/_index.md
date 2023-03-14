@@ -1,14 +1,14 @@
 ---
 title: XmpTypeDimensions
 second_title: GroupDocs.Metadata for .NET API 参考
-description: XMP 尺寸类型
+description: XMP 维度类型.
 type: docs
 weight: 180
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpnamespaces/xmptypedimensions/
 ---
 ## XmpNamespaces.XmpTypeDimensions field
 
-XMP 尺寸类型。
+XMP 维度类型.
 
 ```csharp
 public const string XmpTypeDimensions;

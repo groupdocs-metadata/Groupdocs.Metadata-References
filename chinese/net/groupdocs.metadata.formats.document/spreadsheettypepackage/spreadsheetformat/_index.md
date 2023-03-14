@@ -16,7 +16,7 @@ public SpreadsheetFormat SpreadsheetFormat { get; }
 
 ### 适当的价值
 
-确切的电子表格格式。
+准确的电子表格格式。
 
 ### 也可以看看
 

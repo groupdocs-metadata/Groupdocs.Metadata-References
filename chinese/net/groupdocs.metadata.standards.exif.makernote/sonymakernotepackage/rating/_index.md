@@ -1,14 +1,14 @@
 ---
 title: Rating
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取评分
+description: 获取评级
 type: docs
 weight: 180
 url: /zh/net/groupdocs.metadata.standards.exif.makernote/sonymakernotepackage/rating/
 ---
 ## SonyMakerNotePackage.Rating property
 
-获取评分。
+获取评级。
 
 ```csharp
 public uint? Rating { get; }
@@ -16,7 +16,7 @@ public uint? Rating { get; }
 
 ### 适当的价值
 
-评分。
+评级。
 
 ### 也可以看看
 

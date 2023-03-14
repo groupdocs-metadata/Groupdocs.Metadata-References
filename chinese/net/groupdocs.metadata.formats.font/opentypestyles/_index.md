@@ -1,14 +1,14 @@
 ---
 title: OpenTypeStyles
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示 OpenType 字体样式
+description: 代表OpenType字体样式
 type: docs
 weight: 1560
 url: /zh/net/groupdocs.metadata.formats.font/opentypestyles/
 ---
 ## OpenTypeStyles enumeration
 
-表示 OpenType 字体样式。
+代表OpenType字体样式。
 
 ```csharp
 [Flags]
@@ -19,14 +19,14 @@ public enum OpenTypeStyles : ushort
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Regular | `0` | 普通文本。 |
-| Bold | `1` | 粗体字。 |
-| Italic | `2` | 斜体字。 |
+| Regular | `0` | 普通文本. |
+| Bold | `1` | 粗体文本. |
+| Italic | `2` | 斜体文本. |
 | Underline | `4` | 带下划线的文本。 |
-| Outline | `8` | 大纲文本。 |
+| Outline | `8` | 大纲文本. |
 | Shadow | `A` | 阴影文字. |
-| Condensed | `14` | 压缩文本。 |
-| Extended | `28` | 扩展文本。 |
+| Condensed | `14` | 压缩文本. |
+| Extended | `28` | 扩展文本. |
 
 ### 也可以看看
 

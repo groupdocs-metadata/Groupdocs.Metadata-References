@@ -1,12 +1,12 @@
 ---
 title: GroupDocs.Metadata.Standards.Exif
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 命名空间包含旨在读取和写入 EXIF可交换图像文件格式元数据的功能
+description: 命名空间包含用于读取和写入 EXIF可交换图像文件格式元数据的功能
 type: docs
 weight: 200
 url: /zh/net/groupdocs.metadata.standards.exif/
 ---
-命名空间包含旨在读取和写入 EXIF（可交换图像文件格式）元数据的功能。
+命名空间包含用于读取和写入 EXIF（可交换图像文件格式）元数据的功能。
 
 ## 课程
 
@@ -14,13 +14,13 @@ url: /zh/net/groupdocs.metadata.standards.exif/
 | --- | --- |
 | [ExifDictionaryBasePackage](./exifdictionarybasepackage) | 为 EXIF 元数据字典提供抽象基类。 |
 | [ExifGpsPackage](./exifgpspackage) | 表示 EXIF 元数据包中的 GPS 元数据。 |
-| [ExifIfdPackage](./exififdpackage) | 表示 Exif 图像文件目录。 Exif IFD 是一组用于记录 Exif 特定属性信息的标签。 |
-| [ExifPackage](./exifpackage) | 表示 EXIF 元数据包（可交换图像文件格式）。 |
+| [ExifIfdPackage](./exififdpackage) | 表示 Exif 图像文件目录。 Exif IFD是一组记录Exif特有属性信息的标签。 |
+| [ExifPackage](./exifpackage) | 表示一个EXIF元数据包（可交换图像文件格式）。 |
 ## 接口
 
 | 界面 | 描述 |
 | --- | --- |
-| [IExif](./iexif) | 定义旨在使用 EXIF 元数据的基本操作。 |
+| [IExif](./iexif) | 定义用于 EXIF 元数据的基本操作。 |
 ## 枚举
 
 | 枚举 | 描述 |

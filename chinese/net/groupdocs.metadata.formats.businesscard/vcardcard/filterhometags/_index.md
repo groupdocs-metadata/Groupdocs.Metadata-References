@@ -1,14 +1,14 @@
 ---
 title: FilterHomeTags
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 过滤所有标有 HOME 标记的 vCard 记录
+description: 过滤所有标有 HOME 标签的 vCard 记录
 type: docs
 weight: 120
 url: /zh/net/groupdocs.metadata.formats.businesscard/vcardcard/filterhometags/
 ---
 ## VCardCard.FilterHomeTags method
 
-过滤所有标有 HOME 标记的 vCard 记录。
+过滤所有标有 HOME 标签的 vCard 记录。
 
 ```csharp
 public VCardCard FilterHomeTags()

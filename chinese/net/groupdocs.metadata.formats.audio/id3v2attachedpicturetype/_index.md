@@ -1,14 +1,14 @@
 ---
 title: ID3V2AttachedPictureType
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示附加图片的类型
+description: 表示附图片的类型
 type: docs
 weight: 430
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2attachedpicturetype/
 ---
 ## ID3V2AttachedPictureType enumeration
 
-表示附加图片的类型。
+表示附图片的类型。
 
 ```csharp
 public enum ID3V2AttachedPictureType : byte
@@ -18,22 +18,22 @@ public enum ID3V2AttachedPictureType : byte
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Other | `0` | 任何其他类型的附加图片。 |
-| FileIcon32X32 | `1` | 32x32 像素文件图标（仅限 PNG）。 |
-| OtherFileIcon | `2` | 其他文件图标。 |
-| CoverFront | `3` | 封面（前）. |
+| Other | `0` | 附上任何其他类型的图片。 |
+| FileIcon32X32 | `1` | 32x32 像素文件图标（仅限 PNG）. |
+| OtherFileIcon | `2` | 其他文件图标. |
+| CoverFront | `3` | 封面（正面）. |
 | CoverBack | `4` | 封面（背面）. |
-| LeafletPage | `5` | 传单页面。 |
-| Media | `6` | 媒体（例如 CD 的标签面）。 |
-| LeadArtist | `7` | 首席艺术家/首席表演者/独奏者。 |
+| LeafletPage | `5` | 传单页面. |
+| Media | `6` | 媒体（例如 CD 的标签面）. |
+| LeadArtist | `7` | 首席艺术家/首席表演者/独奏家. |
 | Artist | `8` | 艺术家/表演者. |
 | Conductor | `9` | 导体. |
 | Band | `10` | 乐队/管弦乐队. |
-| Composer | `11` | 作曲家/音乐作者。 |
-| Lyricist | `12` | 作词家/文字作家。 |
-| RecordingLocation | `13` | 记录位置. |
-| DuringRecording | `14` | 录制期间。 |
-| DuringPerformance | `15` | 表演期间。 |
+| Composer | `11` | 作曲家/音乐作者. |
+| Lyricist | `12` | 作词家/文字作者. |
+| RecordingLocation | `13` | 录音位置. |
+| DuringRecording | `14` | 录制期间. |
+| DuringPerformance | `15` | 执行期间。 |
 | VideoScreenCapture | `16` | 电影/视频屏幕截图。 |
 | BrightColouredFish | `17` | 一条颜色鲜艳的鱼。 |
 | Illustration | `18` | 插图. |

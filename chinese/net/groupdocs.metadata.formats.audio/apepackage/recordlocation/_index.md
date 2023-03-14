@@ -16,7 +16,7 @@ public string RecordLocation { get; }
 
 ### 适当的价值
 
-记录位置。
+记录位置.
 
 ### 也可以看看
 

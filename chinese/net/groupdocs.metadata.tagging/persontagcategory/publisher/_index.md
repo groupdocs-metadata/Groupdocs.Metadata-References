@@ -1,14 +1,14 @@
 ---
 title: Publisher
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取标记负责使文件可用的人员的标签
+description: 获取标记负责使文件可用的人员的标记
 type: docs
 weight: 70
 url: /zh/net/groupdocs.metadata.tagging/persontagcategory/publisher/
 ---
 ## PersonTagCategory.Publisher property
 
-获取标记负责使文件可用的人员的标签。
+获取标记负责使文件可用的人员的标记。
 
 ```csharp
 public PropertyTag Publisher { get; }

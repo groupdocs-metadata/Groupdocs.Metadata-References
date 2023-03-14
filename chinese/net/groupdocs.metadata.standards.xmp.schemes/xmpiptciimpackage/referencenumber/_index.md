@@ -1,14 +1,14 @@
 ---
 title: ReferenceNumber
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置当前对象所指的前一个包络的包络编号
+description: 获取或设置当前对象引用的先前信封的信封编号
 type: docs
 weight: 250
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpiptciimpackage/referencenumber/
 ---
 ## XmpIptcIimPackage.ReferenceNumber property
 
-获取或设置当前对象所指的前一个包络的包络编号。
+获取或设置当前对象引用的先前信封的信封编号。
 
 ```csharp
 public string ReferenceNumber { get; set; }

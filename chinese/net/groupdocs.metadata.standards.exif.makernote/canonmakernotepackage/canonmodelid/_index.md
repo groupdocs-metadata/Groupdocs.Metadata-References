@@ -1,14 +1,14 @@
 ---
 title: CanonModelID
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取佳能模型标识符
+description: 获取佳能型号标识符
 type: docs
 weight: 50
 url: /zh/net/groupdocs.metadata.standards.exif.makernote/canonmakernotepackage/canonmodelid/
 ---
 ## CanonMakerNotePackage.CanonModelID property
 
-获取佳能模型标识符。
+获取佳能型号标识符。
 
 ```csharp
 public uint? CanonModelID { get; }

@@ -16,7 +16,7 @@ public XmpCropUnit CropUnits { get; set; }
 
 ### 适当的价值
 
-作物单位。
+作物单位.
 
 ### 也可以看看
 

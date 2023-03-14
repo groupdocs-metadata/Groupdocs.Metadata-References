@@ -20,9 +20,9 @@ QuickTime 元数据包。
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* [使用 MOV 文件中的元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+MOV+Files)
+* [处理 MOV 文件中的元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+MOV+Files)
 
 ### 也可以看看
 

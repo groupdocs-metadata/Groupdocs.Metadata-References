@@ -1,14 +1,14 @@
 ---
 title: IsTrapped
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置一个值该值指示文档是否已被捕获
+description: 获取或设置一个值指示文档是否已被陷印
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/istrapped/
 ---
 ## XmpPdfPackage.IsTrapped property
 
-获取或设置一个值，该值指示文档是否已被捕获。
+获取或设置一个值，指示文档是否已被陷印。
 
 ```csharp
 public bool? IsTrapped { get; set; }
@@ -16,7 +16,7 @@ public bool? IsTrapped { get; set; }
 
 ### 适当的价值
 
-`真的`如果文件被困住了；否则，`错误的`.
+`真的`如果文档被困住；否则，`错误的`.
 
 ### 也可以看看
 

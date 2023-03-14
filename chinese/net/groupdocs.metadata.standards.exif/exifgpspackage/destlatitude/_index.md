@@ -1,14 +1,14 @@
 ---
 title: DestLatitude
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置目标点的GPS纬度
+description: 获取或设置目的地点的GPS纬度
 type: docs
 weight: 110
 url: /zh/net/groupdocs.metadata.standards.exif/exifgpspackage/destlatitude/
 ---
 ## ExifGpsPackage.DestLatitude property
 
-获取或设置目标点的GPS纬度。
+获取或设置目的地点的GPS纬度。
 
 ```csharp
 public TiffRational[] DestLatitude { get; set; }
@@ -16,7 +16,7 @@ public TiffRational[] DestLatitude { get; set; }
 
 ### 适当的价值
 
-目的地的纬度。
+目的地点的纬度。
 
 ### 也可以看看
 

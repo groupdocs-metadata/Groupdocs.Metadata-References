@@ -1,14 +1,14 @@
 ---
 title: FocusMode
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取焦点模式
+description: 获取对焦模式
 type: docs
 weight: 50
 url: /zh/net/groupdocs.metadata.standards.exif.makernote/nikonmakernotepackage/focusmode/
 ---
 ## NikonMakerNotePackage.FocusMode property
 
-获取焦点模式。
+获取对焦模式。
 
 ```csharp
 public string FocusMode { get; }
@@ -16,7 +16,7 @@ public string FocusMode { get; }
 
 ### 适当的价值
 
-对焦模式.
+对焦模式。
 
 ### 也可以看看
 

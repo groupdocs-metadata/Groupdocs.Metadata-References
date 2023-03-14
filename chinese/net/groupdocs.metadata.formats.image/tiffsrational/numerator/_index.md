@@ -16,7 +16,7 @@ public int Numerator { get; }
 
 ### 适当的价值
 
-分子。
+分子.
 
 ### 也可以看看
 

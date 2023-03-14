@@ -27,7 +27,7 @@ public enum AsfStreamType : ushort
 | FileTransfer | `6` | ASF 文件传输媒体。 |
 | Binary | `7` | ASF 二进制媒体. |
 | WebStreamSubtype | `8` | ASF Web 流媒体子类型。 |
-| WebStreamFormat | `9` | ASF Web 流格式. |
+| WebStreamFormat | `9` | ASF Web 流格式。 |
 
 ### 也可以看看
 

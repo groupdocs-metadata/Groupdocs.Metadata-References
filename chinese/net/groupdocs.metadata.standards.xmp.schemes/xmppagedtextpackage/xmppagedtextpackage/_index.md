@@ -1,14 +1,14 @@
 ---
 title: XmpPagedTextPackage
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpPagedTextPackagegroupdocs.metadata.standards.xmp.schemes/xmppagedtextpackage类.
+description: 初始化一个新的实例XmpPagedTextPackagegroupdocs.metadata.standards.xmp.schemes/xmppagedtextpackage类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmppagedtextpackage/xmppagedtextpackage/
 ---
 ## XmpPagedTextPackage constructor
 
-初始化[`XmpPagedTextPackage`](../../xmppagedtextpackage)类.
+初始化一个新的实例[`XmpPagedTextPackage`](../../xmppagedtextpackage)类.
 
 ```csharp
 public XmpPagedTextPackage()

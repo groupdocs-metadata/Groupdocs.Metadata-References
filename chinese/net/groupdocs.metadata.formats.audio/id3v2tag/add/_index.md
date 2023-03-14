@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 为标签添加一个框架
+description: 向标签添加帧
 type: docs
 weight: 280
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2tag/add/
 ---
 ## ID3V2Tag.Add method
 
-为标签添加一个框架。
+向标签添加帧。
 
 ```csharp
 public void Add(ID3V2TagFrame frame)
@@ -22,7 +22,7 @@ public void Add(ID3V2TagFrame frame)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentException | 提供的框架与现有的同类框架不兼容。 |
+| ArgumentException | 提供的框架与现有同类框架不兼容。 |
 
 ### 也可以看看
 

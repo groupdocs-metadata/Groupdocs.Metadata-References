@@ -16,7 +16,7 @@ public DateTime? ModifyDate { get; set; }
 
 ### 适当的价值
 
-最后修改日期。
+最后修改日期.
 
 ### 也可以看看
 

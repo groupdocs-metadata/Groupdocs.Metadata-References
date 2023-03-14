@@ -1,14 +1,14 @@
 ---
 title: Artist
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置首席艺术家/首席表演者/独奏者/表演组 该值由TPE1帧表示
+description: 获取或设置首席艺术家/首席表演者/独奏者/表演组 此值由 TPE1 帧表示
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2tag/artist/
 ---
 ## ID3V2Tag.Artist property
 
-获取或设置首席艺术家/首席表演者/独奏者/表演组。 该值由TPE1帧表示。
+获取或设置首席艺术家/首席表演者/独奏者/表演组。 此值由 TPE1 帧表示。
 
 ```csharp
 public string Artist { get; set; }
@@ -16,7 +16,7 @@ public string Artist { get; set; }
 
 ### 适当的价值
 
-首席艺术家/首席表演者/独奏者/表演组。
+首席艺术家/首席表演者/独奏家/表演团体.
 
 ### 也可以看看
 

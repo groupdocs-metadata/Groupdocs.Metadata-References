@@ -8,7 +8,7 @@ url: /zh/net/groupdocs.metadata.formats.video/avirootpackage/header/
 ---
 ## AviRootPackage.Header property
 
-获取AVI头包
+获取AVI头包。
 
 ```csharp
 public AviHeader Header { get; }
@@ -16,13 +16,13 @@ public AviHeader Header { get; }
 
 ### 适当的价值
 
-AVI 头包。
+AVI 头文件包。
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* [使用 AVI 文件中的元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+AVI+files)
+* [处理 AVI 文件中的元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+AVI+files)
 
 ### 例子
 

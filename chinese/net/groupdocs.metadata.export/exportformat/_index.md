@@ -18,8 +18,8 @@ public enum ExportFormat
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Xls | `0` | 表示 .XLS Excel 格式。 |
-| Xlsx | `1` | 表示 .XLSX Excel 格式。 |
+| Xls | `0` | 表示.XLS Excel格式。 |
+| Xlsx | `1` | 代表.XLSX Excel格式。 |
 
 ### 也可以看看
 

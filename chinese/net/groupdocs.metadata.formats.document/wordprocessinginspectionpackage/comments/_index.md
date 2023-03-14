@@ -16,7 +16,7 @@ public WordProcessingComment[] Comments { get; }
 
 ### 适当的价值
 
-用户评论。
+用户评论.
 
 ### 也可以看看
 

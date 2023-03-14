@@ -1,14 +1,14 @@
 ---
 title: GetConsumptionCredit
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取消费积分
+description: 获取消费信用
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata/metered/getconsumptioncredit/
 ---
 ## Metered.GetConsumptionCredit method
 
-获取消费积分。
+获取消费信用。
 
 ```csharp
 public static decimal GetConsumptionCredit()

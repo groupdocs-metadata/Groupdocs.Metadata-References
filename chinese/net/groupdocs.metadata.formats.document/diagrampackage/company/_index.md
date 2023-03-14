@@ -1,14 +1,14 @@
 ---
 title: Company
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置标识创建绘图的公司或正在为其创建绘图的公司的用户输入信息 最大长度为 63 个字符
+description: 获取或设置用户输入的信息用于标识创建绘图的公司或为其创建绘图的公司 最大长度为 63 个字符
 type: docs
 weight: 50
 url: /zh/net/groupdocs.metadata.formats.document/diagrampackage/company/
 ---
 ## DiagramPackage.Company property
 
-获取或设置标识创建绘图的公司或正在为其创建绘图的公司的用户输入信息。 最大长度为 63 个字符。
+获取或设置用户输入的信息，用于标识创建绘图的公司或为其创建绘图的公司。 最大长度为 63 个字符。
 
 ```csharp
 public string Company { get; set; }
@@ -16,7 +16,7 @@ public string Company { get; set; }
 
 ### 适当的价值
 
-标识创建绘图的公司或正在为其创建绘图的公司的用户输入信息。
+用户输入的信息，用于标识创建绘图的公司或为其创建绘图的公司。
 
 ### 也可以看看
 

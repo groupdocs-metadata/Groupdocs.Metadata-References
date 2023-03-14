@@ -1,14 +1,14 @@
 ---
 title: PresentationFormat
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取确切的演示格式
+description: 获取准确的表示格式
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.document/presentationtypepackage/presentationformat/
 ---
 ## PresentationTypePackage.PresentationFormat property
 
-获取确切的演示格式。
+获取准确的表示格式。
 
 ```csharp
 public PresentationFormat PresentationFormat { get; }
@@ -16,7 +16,7 @@ public PresentationFormat PresentationFormat { get; }
 
 ### 适当的价值
 
-确切的演示格式。
+确切的表示格式。
 
 ### 也可以看看
 

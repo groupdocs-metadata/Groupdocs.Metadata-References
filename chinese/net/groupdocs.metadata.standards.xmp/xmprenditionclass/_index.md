@@ -1,14 +1,14 @@
 ---
 title: XmpRenditionClass
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示 XMP RenditionClass
+description: 代表 XMP RenditionClass.
 type: docs
 weight: 3530
 url: /zh/net/groupdocs.metadata.standards.xmp/xmprenditionclass/
 ---
 ## XmpRenditionClass class
 
-表示 XMP RenditionClass。
+代表 XMP RenditionClass.
 
 ```csharp
 public sealed class XmpRenditionClass : XmpText
@@ -18,7 +18,7 @@ public sealed class XmpRenditionClass : XmpText
 
 | 姓名 | 描述 |
 | --- | --- |
-| [XmpRenditionClass](xmprenditionclass)(params string[]) | 初始化[`XmpRenditionClass`](../xmprenditionclass)类. |
+| [XmpRenditionClass](xmprenditionclass)(params string[]) | 初始化一个新的实例[`XmpRenditionClass`](../xmprenditionclass)类. |
 
 ## 特性
 
@@ -36,7 +36,7 @@ public sealed class XmpRenditionClass : XmpText
 | override [GetXmpRepresentation](../../groupdocs.metadata.standards.xmp/xmptext/getxmprepresentation)() | 以 XMP 格式返回包含字符串的值。 |
 | [ToArray&lt;TElement&gt;](../../groupdocs.metadata.common/propertyvalue/toarray)() | 将属性值转换为指定类型的数组。 |
 | [ToClass&lt;T&gt;](../../groupdocs.metadata.common/propertyvalue/toclass)() | 将属性值转换为引用类型。 |
-| override [ToString](../../groupdocs.metadata.standards.xmp/xmpvaluebase/tostring)() | 返回一个表示属性值的字符串。 |
+| override [ToString](../../groupdocs.metadata.standards.xmp/xmpvaluebase/tostring)() | 返回表示属性值的字符串。 |
 | [ToStruct&lt;T&gt;](../../groupdocs.metadata.common/propertyvalue/tostruct)() | 将属性值转换为值类型。 |
 | [ToStruct&lt;T&gt;](../../groupdocs.metadata.common/propertyvalue/tostruct)(T) | 将属性值转换为值类型。 |
 
@@ -44,11 +44,11 @@ public sealed class XmpRenditionClass : XmpText
 
 | 姓名 | 描述 |
 | --- | --- |
-| const [Default](../../groupdocs.metadata.standards.xmp/xmprenditionclass/default) | 主资源；不允许使用额外的令牌。 |
-| const [Draft](../../groupdocs.metadata.standards.xmp/xmprenditionclass/draft) | 评论再现。 |
-| const [LowRes](../../groupdocs.metadata.standards.xmp/xmprenditionclass/lowres) | 一个低分辨率、全尺寸的替身。 |
-| const [Proof](../../groupdocs.metadata.standards.xmp/xmprenditionclass/proof) | 审查证明。 |
-| const [Screen](../../groupdocs.metadata.standards.xmp/xmprenditionclass/screen) | 屏幕分辨率或网络再现。 |
+| const [Default](../../groupdocs.metadata.standards.xmp/xmprenditionclass/default) | 主资源；不允许有额外的标记。 |
+| const [Draft](../../groupdocs.metadata.standards.xmp/xmprenditionclass/draft) | 评论演绎。 |
+| const [LowRes](../../groupdocs.metadata.standards.xmp/xmprenditionclass/lowres) | 低分辨率、全尺寸的替身。 |
+| const [Proof](../../groupdocs.metadata.standards.xmp/xmprenditionclass/proof) | 审核证明。 |
+| const [Screen](../../groupdocs.metadata.standards.xmp/xmprenditionclass/screen) | 屏幕分辨率或 Web 再现。 |
 | const [Thumbnail](../../groupdocs.metadata.standards.xmp/xmprenditionclass/thumbnail) | 简化或缩小的预览。额外的令牌可以提供特征。推荐的顺序是 thumbnail:format:size:colorspace. |
 
 ### 也可以看看

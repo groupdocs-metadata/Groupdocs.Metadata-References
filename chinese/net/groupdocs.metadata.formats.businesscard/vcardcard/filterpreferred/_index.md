@@ -1,14 +1,14 @@
 ---
 title: FilterPreferred
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 筛选首选记录
+description: 过滤首选记录
 type: docs
 weight: 130
 url: /zh/net/groupdocs.metadata.formats.businesscard/vcardcard/filterpreferred/
 ---
 ## VCardCard.FilterPreferred method
 
-筛选首选记录。
+过滤首选记录。
 
 ```csharp
 public VCardCard FilterPreferred()

@@ -1,14 +1,14 @@
 ---
 title: Manager
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取标记有关管理文件制作过程的人员的信息的标签
+description: 获取标记有关管理文件制作过程的人员信息的标签
 type: docs
 weight: 50
 url: /zh/net/groupdocs.metadata.tagging/persontagcategory/manager/
 ---
 ## PersonTagCategory.Manager property
 
-获取标记有关管理文件制作过程的人员的信息的标签。
+获取标记有关管理文件制作过程的人员信息的标签。
 
 ```csharp
 public PropertyTag Manager { get; }

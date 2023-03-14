@@ -1,14 +1,14 @@
 ---
 title: BibliographicCitation
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置资源的书目参考
+description: 获取或设置资源的参考书目
 type: docs
 weight: 90
 url: /zh/net/groupdocs.metadata.formats.ebook/epubpackage/bibliographiccitation/
 ---
 ## EpubPackage.BibliographicCitation property
 
-获取或设置资源的书目参考。
+获取或设置资源的参考书目。
 
 ```csharp
 public string BibliographicCitation { get; set; }

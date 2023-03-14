@@ -1,14 +1,14 @@
 ---
 title: Copyright
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置版权信息 该值由TCOP帧表示
+description: 获取或设置版权消息 此值由 TCOP 帧表示
 type: docs
 weight: 100
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2tag/copyright/
 ---
 ## ID3V2Tag.Copyright property
 
-获取或设置版权信息。 该值由TCOP帧表示。
+获取或设置版权消息。 此值由 TCOP 帧表示。
 
 ```csharp
 public string Copyright { get; set; }
@@ -20,7 +20,7 @@ public string Copyright { get; set; }
 
 ### 评论
 
-每次显示此字段时，该字段必须以“版权©”开头。
+每次显示此字段时，该字段前面都必须带有“版权所有 ©”。
 
 ### 也可以看看
 

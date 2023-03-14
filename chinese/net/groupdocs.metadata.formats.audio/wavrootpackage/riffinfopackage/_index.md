@@ -1,14 +1,14 @@
 ---
 title: RiffInfoPackage
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取包含 RIFF Info 标记的包
+description: 获取包含 RIFF 信息标签的包
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.audio/wavrootpackage/riffinfopackage/
 ---
 ## WavRootPackage.RiffInfoPackage property
 
-获取包含 RIFF Info 标记的包。
+获取包含 RIFF 信息标签的包。
 
 ```csharp
 public RiffInfoPackage RiffInfoPackage { get; }
@@ -16,7 +16,7 @@ public RiffInfoPackage RiffInfoPackage { get; }
 
 ### 适当的价值
 
-包含 RIFF Info 标记的包。
+包含 RIFF 信息标签的包。
 
 ### 也可以看看
 

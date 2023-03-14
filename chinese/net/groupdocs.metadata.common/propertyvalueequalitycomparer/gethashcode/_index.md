@@ -26,7 +26,7 @@ public int GetHashCode(PropertyValue obj)
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| ArgumentNullException | 的类型*obj*是一个引用类型并且*obj*是`null`. |
+| ArgumentNullException | 的类型*obj*是引用类型并且*obj*是`null`. |
 
 ### 也可以看看
 

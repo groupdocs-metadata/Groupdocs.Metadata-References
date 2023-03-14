@@ -1,14 +1,14 @@
 ---
 title: UsageTerms
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取标签说明如何使用文件的标签
+description: 获取标记有关如何使用文件的说明的标记
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.tagging/legaltagcategory/usageterms/
 ---
 ## LegalTagCategory.UsageTerms property
 
-获取标签说明如何使用文件的标签。
+获取标记有关如何使用文件的说明的标记。
 
 ```csharp
 public PropertyTag UsageTerms { get; }

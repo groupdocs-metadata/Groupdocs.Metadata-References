@@ -1,14 +1,14 @@
 ---
 title: XmpDate
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpDategroupdocs.metadata.standards.xmp/xmpdate类.
+description: 初始化一个新的实例XmpDategroupdocs.metadata.standards.xmp/xmpdate类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpdate/xmpdate/
 ---
 ## XmpDate(DateTime) {#constructor}
 
-初始化[`XmpDate`](../../xmpdate)类.
+初始化一个新的实例[`XmpDate`](../../xmpdate)类.
 
 ```csharp
 public XmpDate(DateTime dateTime)
@@ -28,7 +28,7 @@ public XmpDate(DateTime dateTime)
 
 ## XmpDate(string) {#constructor_1}
 
-初始化[`XmpDate`](../../xmpdate)类.
+初始化一个新的实例[`XmpDate`](../../xmpdate)类.
 
 ```csharp
 public XmpDate(string dateString)
@@ -36,7 +36,7 @@ public XmpDate(string dateString)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| dateString | String | 字符串表示形式的日期。 |
+| dateString | String | 字符串表示中的日期。 |
 
 ### 例外
 

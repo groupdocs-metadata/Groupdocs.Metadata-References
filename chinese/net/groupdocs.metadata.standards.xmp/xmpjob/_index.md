@@ -18,7 +18,7 @@ public sealed class XmpJob : XmpComplexType
 
 | 姓名 | 描述 |
 | --- | --- |
-| [XmpJob](xmpjob)() | 初始化[`XmpJob`](../xmpjob)类. |
+| [XmpJob](xmpjob)() | 初始化一个新的实例[`XmpJob`](../xmpjob)类. |
 
 ## 特性
 
@@ -26,7 +26,7 @@ public sealed class XmpJob : XmpComplexType
 | --- | --- |
 | [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | 获取元数据属性的数量。 |
 | [ID](../../groupdocs.metadata.standards.xmp/xmpjob/id) { get; set; } | 获取或设置作业的唯一 ID。该字段是对某些外部作业管理系统的引用。 |
-| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定的名称。 |
+| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定名称. |
 | [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | 获取元数据属性名称的集合。 |
 | [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | 获取元数据类型。 |
 | [Name](../../groupdocs.metadata.standards.xmp/xmpjob/name) { get; set; } | 获取或设置作业的非正式名称。此名称用于用户显示和非正式系统。 |
@@ -47,8 +47,8 @@ public sealed class XmpJob : XmpComplexType
 | override [GetXmpRepresentation](../../groupdocs.metadata.standards.xmp/xmpcomplextype/getxmprepresentation)() | 以 XMP 格式返回包含字符串的值。 |
 | virtual [RemoveProperties](../../groupdocs.metadata.common/metadatapackage/removeproperties)(Func&lt;MetadataProperty, bool&gt;) | 删除满足指定谓词的元数据属性。 |
 | virtual [Sanitize](../../groupdocs.metadata.common/metadatapackage/sanitize)() | 从包中删除可写元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
-| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
-| override [ToString](../../groupdocs.metadata.standards.xmp/xmpcomplextype/tostring)() | 返回一个String代表这个实例。 |
+| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是以下方法的组合[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
+| override [ToString](../../groupdocs.metadata.standards.xmp/xmpcomplextype/tostring)() | 返回一个String代表这个实例. |
 | [UpdateProperties](../../groupdocs.metadata.common/metadatapackage/updateproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 更新满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: MusicalKey
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置声音开始的音调 此值由 TKEY 帧表示
+description: 获取或设置声音开始的音乐键 此值由 TKEY 帧表示
 type: docs
 weight: 150
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2tag/musicalkey/
 ---
 ## ID3V2Tag.MusicalKey property
 
-获取或设置声音开始的音调。 此值由 TKEY 帧表示。
+获取或设置声音开始的音乐键。 此值由 TKEY 帧表示。
 
 ```csharp
 public string MusicalKey { get; set; }

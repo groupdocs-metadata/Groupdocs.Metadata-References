@@ -1,14 +1,14 @@
 ---
 title: MpegAudioVersion
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取 MPEG 音频版本可以是MPEG1MPEG2等
+description: 获取 MPEG 音频版本可以是 MPEG1MPEG2 等
 type: docs
 weight: 120
 url: /zh/net/groupdocs.metadata.formats.mpeg/mpegaudiopackage/mpegaudioversion/
 ---
 ## MpegAudioPackage.MpegAudioVersion property
 
-获取 MPEG 音频版本。可以是MPEG-1、MPEG-2等
+获取 MPEG 音频版本。可以是 MPEG-1、MPEG-2 等
 
 ```csharp
 public MpegAudioVersion MpegAudioVersion { get; }

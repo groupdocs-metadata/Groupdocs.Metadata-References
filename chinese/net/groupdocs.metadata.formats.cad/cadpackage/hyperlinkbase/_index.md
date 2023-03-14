@@ -1,14 +1,14 @@
 ---
 title: HyperlinkBase
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取超链接库
+description: 获取超链接基础
 type: docs
 weight: 70
 url: /zh/net/groupdocs.metadata.formats.cad/cadpackage/hyperlinkbase/
 ---
 ## CadPackage.HyperlinkBase property
 
-获取超链接库。
+获取超链接基础。
 
 ```csharp
 public string HyperlinkBase { get; }

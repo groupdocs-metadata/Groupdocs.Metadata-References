@@ -16,7 +16,7 @@ public string AccessorySerialNumber { get; }
 
 ### 适当的价值
 
-配件序列号。
+附件序列号。
 
 ### 也可以看看
 

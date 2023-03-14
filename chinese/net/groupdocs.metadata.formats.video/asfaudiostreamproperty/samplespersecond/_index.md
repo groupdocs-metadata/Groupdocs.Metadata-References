@@ -1,14 +1,14 @@
 ---
 title: SamplesPerSecond
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取一个以赫兹每秒周期数为单位的值它表示音频流的采样率
+description: 获取一个以赫兹每秒循环数为单位的值表示音频流的采样率
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.formats.video/asfaudiostreamproperty/samplespersecond/
 ---
 ## AsfAudioStreamProperty.SamplesPerSecond property
 
-获取一个以赫兹（每秒周期数）为单位的值，它表示音频流的采样率。
+获取一个以赫兹（每秒循环数）为单位的值，表示音频流的采样率。
 
 ```csharp
 public uint SamplesPerSecond { get; }
@@ -16,7 +16,7 @@ public uint SamplesPerSecond { get; }
 
 ### 适当的价值
 
-以赫兹（每秒周期数）为单位的值，表示音频流的采样率。
+以赫兹（每秒循环数）表示音频流采样率的值。
 
 ### 也可以看看
 

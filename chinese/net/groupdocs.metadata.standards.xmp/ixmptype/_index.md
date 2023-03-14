@@ -18,7 +18,7 @@ public interface IXmpType
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GetXmpRepresentation](../../groupdocs.metadata.standards.xmp/ixmptype/getxmprepresentation)() | 将 XMP 值转换为 XML 表示形式。 |
+| [GetXmpRepresentation](../../groupdocs.metadata.standards.xmp/ixmptype/getxmprepresentation)() | 将 XMP 值转换为 XML 表示。 |
 
 ### 也可以看看
 

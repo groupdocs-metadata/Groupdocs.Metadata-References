@@ -1,14 +1,14 @@
 ---
 title: NumberOfBeats
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置剪辑中的音乐节拍总数例如每秒节拍次数乘以持续时间以秒为单位
+description: 获取或设置剪辑中的音乐节拍总数例如每秒节拍乘以持续时间以秒为单位.
 type: docs
 weight: 300
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/numberofbeats/
 ---
 ## XmpDynamicMediaPackage.NumberOfBeats property
 
-获取或设置剪辑中的音乐节拍总数；例如，每秒节拍次数乘以持续时间（以秒为单位）。
+获取或设置剪辑中的音乐节拍总数；例如，每秒节拍乘以持续时间（以秒为单位）.
 
 ```csharp
 public double? NumberOfBeats { get; set; }
@@ -16,7 +16,7 @@ public double? NumberOfBeats { get; set; }
 
 ### 适当的价值
 
-剪辑中的音乐节拍总数；例如，每秒节拍次数乘以持续时间（以秒为单位）。
+剪辑中的音乐节拍总数；例如，每秒节拍乘以持续时间（以秒为单位）.
 
 ### 也可以看看
 

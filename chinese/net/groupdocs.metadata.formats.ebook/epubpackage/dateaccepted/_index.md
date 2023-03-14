@@ -1,14 +1,14 @@
 ---
 title: DateAccepted
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置资源的接受日期
+description: 获取或设置接受资源的日期
 type: docs
 weight: 160
 url: /zh/net/groupdocs.metadata.formats.ebook/epubpackage/dateaccepted/
 ---
 ## EpubPackage.DateAccepted property
 
-获取或设置资源的接受日期。
+获取或设置接受资源的日期。
 
 ```csharp
 public string DateAccepted { get; set; }

@@ -18,7 +18,7 @@ public enum PngCompressionMethod
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Deflate | `0` | 表示带有滑动窗口的放气/膨胀压缩。 |
+| Deflate | `0` | 表示用滑动窗口进行deflate/inflate压缩。 |
 
 ### 也可以看看
 

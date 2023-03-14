@@ -1,14 +1,14 @@
 ---
 title: Roles
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取对象在特定情况下发挥的功能或部分
+description: 获取对象在特定情况下所起的作用或部分
 type: docs
 weight: 160
 url: /zh/net/groupdocs.metadata.formats.businesscard/vcardorganizationalrecordset/roles/
 ---
 ## VCardOrganizationalRecordset.Roles property
 
-获取对象在特定情况下发挥的功能或部分。
+获取对象在特定情况下所起的作用或部分。
 
 ```csharp
 public string[] Roles { get; }
@@ -16,11 +16,11 @@ public string[] Roles { get; }
 
 ### 适当的价值
 
-对象在特定情况下所发挥的功能或部分。
+物体在特定情况下所起的作用或部分。
 
 ### 评论
 
-这个属性是一个简化版[`TitleRecords`](../titlerecords).
+此属性是[`TitleRecords`](../titlerecords).
 
 ### 也可以看看
 

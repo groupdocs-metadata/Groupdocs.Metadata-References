@@ -1,18 +1,18 @@
 ---
 title: GroupDocs.Metadata.Formats.Archive
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 命名空间包含用于处理归档格式的类
+description: 命名空间包含用于处理存档格式的类
 type: docs
 weight: 50
 url: /zh/net/groupdocs.metadata.formats.archive/
 ---
-命名空间包含用于处理归档格式的类。
+命名空间包含用于处理存档格式的类。
 
 ## 课程
 
 | 班级 | 描述 |
 | --- | --- |
-| [ZipFile](./zipfile) | 表示与存档文件或目录关联的元数据。 |
+| [ZipFile](./zipfile) | 表示与归档文件或目录关联的元数据。 |
 | [ZipPackage](./zippackage) | 表示 ZIP 存档元数据。 |
 | [ZipRootPackage](./ziprootpackage) | 表示允许使用 ZIP 存档中的元数据的根包。 |
 ## 枚举

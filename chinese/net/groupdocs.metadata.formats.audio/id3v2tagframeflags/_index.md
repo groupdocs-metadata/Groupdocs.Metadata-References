@@ -1,14 +1,14 @@
 ---
 title: ID3V2TagFrameFlags
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示 ID3v2 标记框架中使用的标志
+description: 表示在 ID3v2 标记帧中使用的标志
 type: docs
 weight: 510
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2tagframeflags/
 ---
 ## ID3V2TagFrameFlags class
 
-表示 ID3v2 标记框架中使用的标志。
+表示在 ID3v2 标记帧中使用的标志。
 
 ```csharp
 public sealed class ID3V2TagFrameFlags : IEquatable<ID3V2TagFrameFlags>
@@ -18,20 +18,20 @@ public sealed class ID3V2TagFrameFlags : IEquatable<ID3V2TagFrameFlags>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Compression](../../groupdocs.metadata.formats.audio/id3v2tagframeflags/compression) { get; } | 获取一个表示帧是否被压缩的值。 |
-| [DataLengthIndicator](../../groupdocs.metadata.formats.audio/id3v2tagframeflags/datalengthindicator) { get; } | 获取一个值，该值指示数据长度指示符是否已添加到 帧。如果所有帧格式标志都 归零，则数据长度指示符是一个将 写为“帧长度”的值，表示为32位同步安全整数。 |
-| [Encryption](../../groupdocs.metadata.formats.audio/id3v2tagframeflags/encryption) { get; } | 获取一个表示帧是否加密的值。 如果设置一个字节，指示使用哪种方法加密，将附加到帧头。 |
-| [FileAlterPreservation](../../groupdocs.metadata.formats.audio/id3v2tagframeflags/filealterpreservation) { get; } | 获取一个标志，该标志告诉软件如果该帧未知并且文件（不包括标签）被更改，该帧如何处理。 当音频完全被其他音频数据替换时，这不适用。 |
-| [GroupingIdentity](../../groupdocs.metadata.formats.audio/id3v2tagframeflags/groupingidentity) { get; } | 获取一个值，该值指示该帧是否属于一组帧。 如果设置组标识符字节被添加到帧头。 具有相同组标识符的每一帧都属于同一个组。 |
-| [ReadOnly](../../groupdocs.metadata.formats.audio/id3v2tagframeflags/readonly) { get; } | 获取告诉软件此帧的内容是只读的标签。 |
-| [TagAlterPreservation](../../groupdocs.metadata.formats.audio/id3v2tagframeflags/tagalterpreservation) { get; } | 获取一个标志，该标志告诉软件如果该帧未知并且标签以任何方式更改，该帧如何处理。 这适用于各种更改， 包括添加更多填充和重新排序帧。 |
-| [Unsynchronisation](../../groupdocs.metadata.formats.audio/id3v2tagframeflags/unsynchronisation) { get; } | 获取一个值，该值指示是否将不同步应用于此帧。 |
+| [Compression](../../groupdocs.metadata.formats.audio/id3v2tagframeflags/compression) { get; } | 获取表示帧是否压缩的值。 |
+| [DataLengthIndicator](../../groupdocs.metadata.formats.audio/id3v2tagframeflags/datalengthindicator) { get; } | 获取一个值，该值指示是否已将数据长度指示符添加到 帧。如果所有帧格式标志都 归零，则数据长度指示符是将 作为“帧长度”写入的值，表示为 32 位同步安全整数。 |
+| [Encryption](../../groupdocs.metadata.formats.audio/id3v2tagframeflags/encryption) { get; } | 获取表示帧是否加密的值。 如果设置一个字节指示加密的方法将附加到帧头。 |
+| [FileAlterPreservation](../../groupdocs.metadata.formats.audio/id3v2tagframeflags/filealterpreservation) { get; } | 获取标志，该标志告诉软件如何处理此帧，如果它是未知的并且文件（不包括标签）被更改。 当音频被其他音频数据完全替换时，这不适用。 |
+| [GroupingIdentity](../../groupdocs.metadata.formats.audio/id3v2tagframeflags/groupingidentity) { get; } | 获取一个值，表示该帧是否属于一组帧。 如果设置组标识符字节添加到帧头。 具有相同组标识符的每个帧都属于同一组。 |
+| [ReadOnly](../../groupdocs.metadata.formats.audio/id3v2tagframeflags/readonly) { get; } | 获取告诉软件此帧的内容为只读的标记。 |
+| [TagAlterPreservation](../../groupdocs.metadata.formats.audio/id3v2tagframeflags/tagalterpreservation) { get; } | 获取标志，该标志告诉软件如何处理此帧，如果它是未知的并且标签以任何方式被更改。 这适用于所有类型的更改， 包括添加更多填充和重新排序帧。 |
+| [Unsynchronisation](../../groupdocs.metadata.formats.audio/id3v2tagframeflags/unsynchronisation) { get; } | 获取一个值，指示是否将不同步应用于此帧。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Equals](../../groupdocs.metadata.formats.audio/id3v2tagframeflags/equals#equals)(ID3V2TagFrameFlags) | 表示当前对象是否等于另一个同类型的对象。 |
+| [Equals](../../groupdocs.metadata.formats.audio/id3v2tagframeflags/equals#equals)(ID3V2TagFrameFlags) | 表示当前对象是否等于另一个相同类型的对象。 |
 | override [Equals](../../groupdocs.metadata.formats.audio/id3v2tagframeflags/equals#equals_1)(object) | 判断指定对象是否等于这个实例。 |
 | override [GetHashCode](../../groupdocs.metadata.formats.audio/id3v2tagframeflags/gethashcode)() | 返回此实例的哈希码。 |
 

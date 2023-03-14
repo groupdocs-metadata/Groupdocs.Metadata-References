@@ -1,14 +1,14 @@
 ---
 title: Subjects
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置一组描述性短语或关键字用于指定资源的内容
+description: 获取或设置指定资源内容的描述性短语或关键字的数组
 type: docs
 weight: 140
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpdublincorepackage/subjects/
 ---
 ## XmpDublinCorePackage.Subjects property
 
-获取或设置一组描述性短语或关键字，用于指定资源的内容。
+获取或设置指定资源内容的描述性短语或关键字的数组。
 
 ```csharp
 public string[] Subjects { get; set; }
@@ -16,7 +16,7 @@ public string[] Subjects { get; set; }
 
 ### 适当的价值
 
-一组描述性短语或关键字，用于指定资源的内容。
+指定资源内容的描述性短语或关键字数组。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Number
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取图纸编号
+description: 获取工作表编号
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.formats.document/spreadsheetsheet/number/
 ---
 ## SpreadsheetSheet.Number property
 
-获取图纸编号。
+获取工作表编号。
 
 ```csharp
 public int Number { get; }
@@ -16,7 +16,7 @@ public int Number { get; }
 
 ### 适当的价值
 
-图纸编号。
+工作表编号。
 
 ### 也可以看看
 

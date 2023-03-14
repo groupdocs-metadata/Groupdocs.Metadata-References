@@ -19,14 +19,14 @@ public interface IDocumentInfo
 | 姓名 | 描述 |
 | --- | --- |
 | [FileType](../../groupdocs.metadata.common/idocumentinfo/filetype) { get; } | 获取加载文档的文件类型。 |
-| [IsEncrypted](../../groupdocs.metadata.common/idocumentinfo/isencrypted) { get; } | 获取一个值，该值指示文档是否已加密并需要密码才能打开。 |
-| [PageCount](../../groupdocs.metadata.common/idocumentinfo/pagecount) { get; } | 获取已加载文档中的页数（幻灯片、工作表等）。 |
-| [Pages](../../groupdocs.metadata.common/idocumentinfo/pages) { get; } | 获取表示有关文档页面（幻灯片、工作表等）的公共信息的对象集合。 |
-| [Size](../../groupdocs.metadata.common/idocumentinfo/size) { get; } | 获取已加载文档的大小（以字节为单位）。 |
+| [IsEncrypted](../../groupdocs.metadata.common/idocumentinfo/isencrypted) { get; } | 获取一个值，表示文档是否加密，需要密码才能打开。 |
+| [PageCount](../../groupdocs.metadata.common/idocumentinfo/pagecount) { get; } | 获取加载文档中的页数（幻灯片、工作表等）。 |
+| [Pages](../../groupdocs.metadata.common/idocumentinfo/pages) { get; } | 获取代表文档页面（幻灯片、工作表等）公共信息的对象集合。 |
+| [Size](../../groupdocs.metadata.common/idocumentinfo/size) { get; } | 以字节为单位获取加载文档的大小。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [获取文档信息](https://docs.groupdocs.com/display/metadatanet/Get+document+info)
 

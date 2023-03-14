@@ -20,7 +20,7 @@ public VCardDateTimeRecord BirthdateDateTimeRecord { get; }
 
 ### 评论
 
-这个属性是一个简化版[`BirthdateRecords`](../birthdaterecords).
+此属性是[`BirthdateRecords`](../birthdaterecords).
 
 ### 也可以看看
 

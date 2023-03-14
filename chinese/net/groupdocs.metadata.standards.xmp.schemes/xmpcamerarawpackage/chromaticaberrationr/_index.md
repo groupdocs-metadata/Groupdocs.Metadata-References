@@ -1,14 +1,14 @@
 ---
 title: ChromaticAberrationR
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置色差修复红色/青色边缘设置如果未定义则为空
+description: 获取或设置色差修复红色/青色条纹设置如果未定义则为空
 type: docs
 weight: 110
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/chromaticaberrationr/
 ---
 ## XmpCameraRawPackage.ChromaticAberrationR property
 
-获取或设置“色差，修复红色/青色边缘”设置。如果未定义，则为空。
+获取或设置“色差，修复红色/青色条纹”设置。如果未定义则为空。
 
 ```csharp
 public int? ChromaticAberrationR { get; set; }

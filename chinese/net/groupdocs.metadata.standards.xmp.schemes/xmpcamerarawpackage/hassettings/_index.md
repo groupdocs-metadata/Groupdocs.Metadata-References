@@ -1,14 +1,14 @@
 ---
 title: HasSettings
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置 HasSettings 值如果为 true则为非默认相机原始设置
+description: 获取或设置 HasSettings 值为真时非默认相机原始设置.
 type: docs
 weight: 260
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/hassettings/
 ---
 ## XmpCameraRawPackage.HasSettings property
 
-获取或设置 HasSettings 值。如果为 true，则为非默认相机原始设置。
+获取或设置 HasSettings 值。为真时，非默认相机原始设置.
 
 ```csharp
 public bool? HasSettings { get; set; }
@@ -16,7 +16,7 @@ public bool? HasSettings { get; set; }
 
 ### 适当的价值
 
-`真的`如果图像具有非默认的相机原始设置；否则，`错误的`.
+`真的`如果图像具有非默认相机原始设置；否则，`错误的`.
 
 ### 也可以看看
 

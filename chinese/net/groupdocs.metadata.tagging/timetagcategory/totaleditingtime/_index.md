@@ -1,14 +1,14 @@
 ---
 title: TotalEditingTime
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取表示文件总编辑时间的标签
+description: 获取表示文件总编辑时间的标记
 type: docs
 weight: 80
 url: /zh/net/groupdocs.metadata.tagging/timetagcategory/totaleditingtime/
 ---
 ## TimeTagCategory.TotalEditingTime property
 
-获取表示文件总编辑时间的标签。
+获取表示文件总编辑时间的标记。
 
 ```csharp
 public PropertyTag TotalEditingTime { get; }

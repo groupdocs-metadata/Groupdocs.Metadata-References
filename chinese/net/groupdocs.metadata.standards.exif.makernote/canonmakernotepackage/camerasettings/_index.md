@@ -16,7 +16,7 @@ public CanonCameraSettingsPackage CameraSettings { get; }
 
 ### 适当的价值
 
-相机设置。
+相机设置.
 
 ### 也可以看看
 

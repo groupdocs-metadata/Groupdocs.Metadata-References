@@ -1,14 +1,14 @@
 ---
 title: Event
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置用户执行的操作的高级正式的描述
+description: 获取或设置用户执行的操作的高级正式描述
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpversion/event/
 ---
 ## XmpVersion.Event property
 
-获取或设置用户执行的操作的高级、正式的描述。
+获取或设置用户执行的操作的高级、正式描述。
 
 ```csharp
 public XmpResourceEvent Event { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 将指定的数据集添加到相应的记录中 如果指定编号的数据集已经存在则认为该数据集是可重复的
+description: 将指定的数据集添加到适当的记录中 如果具有指定编号的数据集已经存在则该数据集被认为是可重复的
 type: docs
 weight: 50
 url: /zh/net/groupdocs.metadata.standards.iptc/iptcrecordset/add/
 ---
 ## IptcRecordSet.Add method
 
-将指定的数据集添加到相应的记录中。 如果指定编号的数据集已经存在，则认为该数据集是可重复的。
+将指定的数据集添加到适当的记录中。 如果具有指定编号的数据集已经存在，则该数据集被认为是可重复的。
 
 ```csharp
 public void Add(IptcDataSet dataSet)

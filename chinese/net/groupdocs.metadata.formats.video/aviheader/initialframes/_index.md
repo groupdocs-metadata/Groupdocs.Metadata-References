@@ -1,14 +1,14 @@
 ---
 title: InitialFrames
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取交错文件的初始帧  非交错文件应指定为零如果您正在创建交错文件请在此成员中指定 AVI 序列的初始帧之前的文件中的帧数 
+description: 获取交错文件的初始帧  非交错文件应指定为零如果您正在创建交错文件请在此成员中的 AVI 序列的初始帧之前指定文件中的帧数 
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.formats.video/aviheader/initialframes/
 ---
 ## AviHeader.InitialFrames property
 
-获取交错文件的初始帧。  非交错文件应指定为零。如果您正在创建交错文件，请在此成员中指定 AVI 序列的初始帧之前的文件中的帧数 。
+获取交错文件的初始帧。  非交错文件应指定为零。如果您正在创建交错文件，请在此成员中的 AVI 序列的初始帧之前指定文件中的帧数 。
 
 ```csharp
 public int InitialFrames { get; }

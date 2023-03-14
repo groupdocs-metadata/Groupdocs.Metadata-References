@@ -1,14 +1,14 @@
 ---
 title: Temporal
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置资源的时间特征
+description: 获取或设置资源的时间特性
 type: docs
 weight: 530
 url: /zh/net/groupdocs.metadata.formats.ebook/epubpackage/temporal/
 ---
 ## EpubPackage.Temporal property
 
-获取或设置资源的时间特征。
+获取或设置资源的时间特性。
 
 ```csharp
 public string Temporal { get; set; }
@@ -16,7 +16,7 @@ public string Temporal { get; set; }
 
 ### 适当的价值
 
-资源的时间特征。
+资源的时间特性。
 
 ### 也可以看看
 

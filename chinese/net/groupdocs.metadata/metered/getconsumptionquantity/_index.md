@@ -1,14 +1,14 @@
 ---
 title: GetConsumptionQuantity
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取消费文件大小
+description: 获取消耗文件大小
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata/metered/getconsumptionquantity/
 ---
 ## Metered.GetConsumptionQuantity method
 
-获取消费文件大小。
+获取消耗文件大小。
 
 ```csharp
 public static decimal GetConsumptionQuantity()
@@ -16,7 +16,7 @@ public static decimal GetConsumptionQuantity()
 
 ### 返回值
 
-消费文件大小。
+消耗文件大小。
 
 ### 也可以看看
 

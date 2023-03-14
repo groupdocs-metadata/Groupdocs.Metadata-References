@@ -1,14 +1,14 @@
 ---
 title: Comments
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置评论
+description: 获取或设置注释
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.formats.document/wordprocessingpackage/comments/
 ---
 ## WordProcessingPackage.Comments property
 
-获取或设置评论。
+获取或设置注释。
 
 ```csharp
 public string Comments { get; set; }

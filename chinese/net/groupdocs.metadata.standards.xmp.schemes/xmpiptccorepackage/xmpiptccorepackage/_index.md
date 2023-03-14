@@ -1,14 +1,14 @@
 ---
 title: XmpIptcCorePackage
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpIptcCorePackagegroupdocs.metadata.standards.xmp.schemes/xmpiptccorepackage类.
+description: 初始化一个新的实例XmpIptcCorePackagegroupdocs.metadata.standards.xmp.schemes/xmpiptccorepackage类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpiptccorepackage/xmpiptccorepackage/
 ---
 ## XmpIptcCorePackage constructor
 
-初始化[`XmpIptcCorePackage`](../../xmpiptccorepackage)类.
+初始化一个新的实例[`XmpIptcCorePackage`](../../xmpiptccorepackage)类.
 
 ```csharp
 public XmpIptcCorePackage()

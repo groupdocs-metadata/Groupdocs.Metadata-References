@@ -1,14 +1,14 @@
 ---
 title: RelativeTimestamp
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置音频项目内媒体的开始时间
+description: 获取或设置音频项目中媒体的开始时间
 type: docs
 weight: 340
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/relativetimestamp/
 ---
 ## XmpDynamicMediaPackage.RelativeTimestamp property
 
-获取或设置音频项目内媒体的开始时间。
+获取或设置音频项目中媒体的开始时间。
 
 ```csharp
 public XmpTime RelativeTimestamp { get; set; }
@@ -16,7 +16,7 @@ public XmpTime RelativeTimestamp { get; set; }
 
 ### 适当的价值
 
-音频项目内媒体的开始时间。
+音频项目中媒体的开始时间。
 
 ### 也可以看看
 

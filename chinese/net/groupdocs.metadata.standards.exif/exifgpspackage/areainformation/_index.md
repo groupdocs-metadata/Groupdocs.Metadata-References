@@ -16,7 +16,7 @@ public byte[] AreaInformation { get; set; }
 
 ### 适当的价值
 
-记录GPS区域名称的字符串
+记录GPS区域名称的字符串。
 
 ### 也可以看看
 

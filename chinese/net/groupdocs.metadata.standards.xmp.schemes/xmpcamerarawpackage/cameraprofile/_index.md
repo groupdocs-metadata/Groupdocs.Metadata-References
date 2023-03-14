@@ -16,7 +16,7 @@ public string CameraProfile { get; set; }
 
 ### 适当的价值
 
-相机配置文件。
+相机配置文件.
 
 ### 也可以看看
 

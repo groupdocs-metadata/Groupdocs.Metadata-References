@@ -1,14 +1,14 @@
 ---
 title: ID3V1
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置 ID3v1 元数据标记 请在以下位置找到更多信息http//id3.org/ID3v1http//id3.org/ID3v1.
+description: 获取或设置 ID3v1 元数据标记 请在以下位置查找更多信息http//id3.org/ID3v1http//id3.org/ID3v1.
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.formats.audio/mp3rootpackage/id3v1/
 ---
 ## MP3RootPackage.ID3V1 property
 
-获取或设置 ID3v1 元数据标记。 请在以下位置找到更多信息[http://id3.org/ID3v1](http://id3.org/ID3v1).
+获取或设置 ID3v1 元数据标记。 请在以下位置查找更多信息[http://id3.org/ID3v1](http://id3.org/ID3v1).
 
 ```csharp
 public ID3V1Tag ID3V1 { get; set; }
@@ -24,7 +24,7 @@ ID3(v1) 标签是 MP3 文件末尾的一小块额外数据。
 
 ### 例子
 
-此代码示例显示如何更新 MP3 文件中的 ID3v1 标签。
+此代码示例展示了如何更新 MP3 文件中的 ID3v1 标签。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.MP3WithID3V1))

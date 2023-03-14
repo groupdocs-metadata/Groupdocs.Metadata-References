@@ -1,14 +1,14 @@
 ---
 title: GroupDocsMetadataException
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化GroupDocsMetadataExceptiongroupdocs.metadata.exceptions/groupdocsmetadataexception类.
+description: 初始化一个新的实例GroupDocsMetadataExceptiongroupdocs.metadata.exceptions/groupdocsmetadataexception类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.exceptions/groupdocsmetadataexception/groupdocsmetadataexception/
 ---
 ## GroupDocsMetadataException() {#constructor}
 
-初始化[`GroupDocsMetadataException`](../../groupdocsmetadataexception)类.
+初始化一个新的实例[`GroupDocsMetadataException`](../../groupdocsmetadataexception)类.
 
 ```csharp
 public GroupDocsMetadataException()
@@ -24,7 +24,7 @@ public GroupDocsMetadataException()
 
 ## GroupDocsMetadataException(string) {#constructor_1}
 
-初始化[`GroupDocsMetadataException`](../../groupdocsmetadataexception)类.
+初始化一个新的实例[`GroupDocsMetadataException`](../../groupdocsmetadataexception)类.
 
 ```csharp
 public GroupDocsMetadataException(string message)
@@ -44,7 +44,7 @@ public GroupDocsMetadataException(string message)
 
 ## GroupDocsMetadataException(string, Exception) {#constructor_2}
 
-初始化[`GroupDocsMetadataException`](../../groupdocsmetadataexception)类.
+初始化一个新的实例[`GroupDocsMetadataException`](../../groupdocsmetadataexception)类.
 
 ```csharp
 public GroupDocsMetadataException(string message, Exception innerException)
@@ -53,7 +53,7 @@ public GroupDocsMetadataException(string message, Exception innerException)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | message | String | 解释异常原因的错误消息。 |
-| innerException | Exception | 导致当前异常的异常，如果未指定内部异常，则为空引用（Visual Basic 中为 Nothing）。 |
+| innerException | Exception | 导致当前异常的异常，如果未指定内部异常，则为空引用（在 Visual Basic 中为 Nothing）。 |
 
 ### 也可以看看
 

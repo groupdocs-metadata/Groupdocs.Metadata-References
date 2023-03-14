@@ -1,14 +1,14 @@
 ---
 title: LongitudeRef
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置一个GPS值指示经度是东经还是西经
+description: 获取或设置一个GPS值表示经度是东经还是西经
 type: docs
 weight: 220
 url: /zh/net/groupdocs.metadata.standards.exif/exifgpspackage/longituderef/
 ---
 ## ExifGpsPackage.LongitudeRef property
 
-获取或设置一个GPS值，指示经度是东经还是西经。
+获取或设置一个GPS值，表示经度是东经还是西经。
 
 ```csharp
 public string LongitudeRef { get; set; }
@@ -16,7 +16,7 @@ public string LongitudeRef { get; set; }
 
 ### 适当的价值
 
-指示经度是东经还是西经的 GPS 值。
+表示经度是东经还是西经的 GPS 值。
 
 ### 也可以看看
 

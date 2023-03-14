@@ -20,7 +20,7 @@ public bool Contains(string language)
 
 ### 返回值
 
-真，如果[`XmpLangAlt`](../../xmplangalt)包含具有指定语言的元素；否则为假。
+如果[`XmpLangAlt`](../../xmplangalt)包含具有指定语言的元素；否则，假的。
 
 ### 也可以看看
 

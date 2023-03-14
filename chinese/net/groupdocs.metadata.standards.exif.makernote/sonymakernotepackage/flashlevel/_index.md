@@ -1,14 +1,14 @@
 ---
 title: FlashLevel
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取闪存级别
+description: 获取闪光级别
 type: docs
 weight: 80
 url: /zh/net/groupdocs.metadata.standards.exif.makernote/sonymakernotepackage/flashlevel/
 ---
 ## SonyMakerNotePackage.FlashLevel property
 
-获取闪存级别。
+获取闪光级别。
 
 ```csharp
 public short? FlashLevel { get; }
@@ -16,7 +16,7 @@ public short? FlashLevel { get; }
 
 ### 适当的价值
 
-闪存级别。
+闪光级别。
 
 ### 也可以看看
 

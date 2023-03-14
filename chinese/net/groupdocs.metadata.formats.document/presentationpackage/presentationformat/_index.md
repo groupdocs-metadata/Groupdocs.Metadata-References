@@ -1,14 +1,14 @@
 ---
 title: PresentationFormat
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取演示格式
+description: 获取表示格式
 type: docs
 weight: 160
 url: /zh/net/groupdocs.metadata.formats.document/presentationpackage/presentationformat/
 ---
 ## PresentationPackage.PresentationFormat property
 
-获取演示格式。
+获取表示格式。
 
 ```csharp
 public string PresentationFormat { get; }
@@ -16,7 +16,7 @@ public string PresentationFormat { get; }
 
 ### 适当的价值
 
-演示格式。
+表示格式。
 
 ### 也可以看看
 

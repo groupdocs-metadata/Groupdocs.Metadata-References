@@ -1,14 +1,14 @@
 ---
 title: ExifGpsPackage
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化ExifGpsPackagegroupdocs.metadata.standards.exif/exifgpspackage类.
+description: 初始化一个新的实例ExifGpsPackagegroupdocs.metadata.standards.exif/exifgpspackage类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.exif/exifgpspackage/exifgpspackage/
 ---
 ## ExifGpsPackage constructor
 
-初始化[`ExifGpsPackage`](../../exifgpspackage)类.
+初始化一个新的实例[`ExifGpsPackage`](../../exifgpspackage)类.
 
 ```csharp
 public ExifGpsPackage()

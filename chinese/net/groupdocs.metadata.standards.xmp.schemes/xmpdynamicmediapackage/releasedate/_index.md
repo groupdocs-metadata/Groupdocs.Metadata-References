@@ -1,14 +1,14 @@
 ---
 title: ReleaseDate
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置标题的发布日期
+description: 获取或设置标题发布的日期
 type: docs
 weight: 350
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/releasedate/
 ---
 ## XmpDynamicMediaPackage.ReleaseDate property
 
-获取或设置标题的发布日期。
+获取或设置标题发布的日期。
 
 ```csharp
 public DateTime? ReleaseDate { get; set; }
@@ -16,7 +16,7 @@ public DateTime? ReleaseDate { get; set; }
 
 ### 适当的价值
 
-标题的发布日期。
+标题发布的日期。
 
 ### 也可以看看
 

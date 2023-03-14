@@ -1,14 +1,14 @@
 ---
 title: XmpInteger
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpIntegergroupdocs.metadata.standards.xmp/xmpinteger类.
+description: 初始化一个新的实例XmpIntegergroupdocs.metadata.standards.xmp/xmpinteger类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpinteger/xmpinteger/
 ---
 ## XmpInteger(long) {#constructor_1}
 
-初始化[`XmpInteger`](../../xmpinteger)类.
+初始化一个新的实例[`XmpInteger`](../../xmpinteger)类.
 
 ```csharp
 public XmpInteger(long value)
@@ -28,7 +28,7 @@ public XmpInteger(long value)
 
 ## XmpInteger(int) {#constructor}
 
-初始化[`XmpInteger`](../../xmpinteger)类.
+初始化一个新的实例[`XmpInteger`](../../xmpinteger)类.
 
 ```csharp
 public XmpInteger(int value)
@@ -48,7 +48,7 @@ public XmpInteger(int value)
 
 ## XmpInteger(string) {#constructor_2}
 
-初始化[`XmpInteger`](../../xmpinteger)类.
+初始化一个新的实例[`XmpInteger`](../../xmpinteger)类.
 
 ```csharp
 public XmpInteger(string value)

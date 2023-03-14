@@ -1,14 +1,14 @@
 ---
 title: XmpColorantLab
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpColorantLabgroupdocs.metadata.standards.xmp/xmpcolorantlab类.
+description: 初始化一个新的实例XmpColorantLabgroupdocs.metadata.standards.xmp/xmpcolorantlab类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpcolorantlab/xmpcolorantlab/
 ---
 ## XmpColorantLab() {#constructor}
 
-初始化[`XmpColorantLab`](../../xmpcolorantlab)类.
+初始化一个新的实例[`XmpColorantLab`](../../xmpcolorantlab)类.
 
 ```csharp
 public XmpColorantLab()
@@ -24,7 +24,7 @@ public XmpColorantLab()
 
 ## XmpColorantLab(sbyte, sbyte, double) {#constructor_1}
 
-初始化[`XmpColorantLab`](../../xmpcolorantlab)类.
+初始化一个新的实例[`XmpColorantLab`](../../xmpcolorantlab)类.
 
 ```csharp
 public XmpColorantLab(sbyte a, sbyte b, double l)
@@ -33,8 +33,8 @@ public XmpColorantLab(sbyte a, sbyte b, double l)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | a | SByte | 一个组件。 |
-| b | SByte | B 成分。 |
-| l | Double | L 分量。 |
+| b | SByte | B成分。 |
+| l | Double | L分量。 |
 
 ### 也可以看看
 

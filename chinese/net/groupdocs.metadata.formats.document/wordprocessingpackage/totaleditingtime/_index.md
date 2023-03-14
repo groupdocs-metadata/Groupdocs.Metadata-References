@@ -1,14 +1,14 @@
 ---
 title: TotalEditingTime
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置总编辑时间以分钟为单位
+description: 获取或设置以分钟为单位的总编辑时间
 type: docs
 weight: 220
 url: /zh/net/groupdocs.metadata.formats.document/wordprocessingpackage/totaleditingtime/
 ---
 ## WordProcessingPackage.TotalEditingTime property
 
-获取或设置总编辑时间，以分钟为单位。
+获取或设置以分钟为单位的总编辑时间。
 
 ```csharp
 public int? TotalEditingTime { get; set; }

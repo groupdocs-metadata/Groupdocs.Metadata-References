@@ -16,20 +16,20 @@ public int UpdateProperties(Func<MetadataProperty, bool> predicate, PropertyValu
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| predicate | Func`2 | 用于测试每个元数据属性的条件的函数。 |
-| value | PropertyValue | 过滤属性的新值。 |
+| predicate | Func`2 | 用于测试条件的每个元数据属性的函数。 |
+| value | PropertyValue | 筛选属性的新值。 |
 
 ### 返回值
 
-受影响属性的数量。
+受影响的属性的数量。
 
 ### 评论
 
-请注意 GroupDocs.Metadata 隐式检查每个过滤属性的类型。 无法使用具有不适当类型的值更新属性。
+请注意，GroupDocs.Metadata 隐式检查每个筛选属性的类型。 无法使用类型不当的值更新属性。
 
-**学到更多**
+**了解更多**
 
-* 更多演示此方法用法的示例： [更新元数据](https://docs.groupdocs.com/display/metadatanet/Updating+metadata)
+* 更多示例演示此方法的用法： [更新元数据](https://docs.groupdocs.com/display/metadatanet/Updating+metadata)
 
 ### 例子
 

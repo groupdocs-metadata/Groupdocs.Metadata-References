@@ -1,14 +1,14 @@
 ---
 title: Titles
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取对象的职位或工作
+description: 获取对象的位置或工作
 type: docs
 weight: 180
 url: /zh/net/groupdocs.metadata.formats.businesscard/vcardorganizationalrecordset/titles/
 ---
 ## VCardOrganizationalRecordset.Titles property
 
-获取对象的职位或工作。
+获取对象的位置或工作。
 
 ```csharp
 public string[] Titles { get; }
@@ -20,7 +20,7 @@ public string[] Titles { get; }
 
 ### 评论
 
-这个属性是一个简化版[`TitleRecords`](../titlerecords).
+此属性是[`TitleRecords`](../titlerecords).
 
 ### 也可以看看
 

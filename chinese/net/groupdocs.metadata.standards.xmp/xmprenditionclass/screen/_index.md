@@ -1,14 +1,14 @@
 ---
 title: Screen
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 屏幕分辨率或网络再现
+description: 屏幕分辨率或 Web 再现
 type: docs
 weight: 60
 url: /zh/net/groupdocs.metadata.standards.xmp/xmprenditionclass/screen/
 ---
 ## XmpRenditionClass.Screen field
 
-屏幕分辨率或网络再现。
+屏幕分辨率或 Web 再现。
 
 ```csharp
 public const string Screen;

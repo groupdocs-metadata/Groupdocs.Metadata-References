@@ -1,14 +1,14 @@
 ---
 title: XmpHeaderPI
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpHeaderPIgroupdocs.metadata.standards.xmp/xmpheaderpi类.
+description: 初始化一个新的实例XmpHeaderPIgroupdocs.metadata.standards.xmp/xmpheaderpi类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpheaderpi/xmpheaderpi/
 ---
 ## XmpHeaderPI constructor
 
-初始化[`XmpHeaderPI`](../../xmpheaderpi)类.
+初始化一个新的实例[`XmpHeaderPI`](../../xmpheaderpi)类.
 
 ```csharp
 public XmpHeaderPI()

@@ -1,14 +1,14 @@
 ---
 title: IptcDataSet
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化IptcDataSetgroupdocs.metadata.standards.iptc/iptcdataset类.
+description: 初始化一个新的实例IptcDataSetgroupdocs.metadata.standards.iptc/iptcdataset类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.iptc/iptcdataset/iptcdataset/
 ---
 ## IptcDataSet(byte, byte, byte[]) {#constructor}
 
-初始化[`IptcDataSet`](../../iptcdataset)类.
+初始化一个新的实例[`IptcDataSet`](../../iptcdataset)类.
 
 ```csharp
 public IptcDataSet(byte recordNumber, byte dataSetNumber, byte[] value)
@@ -16,7 +16,7 @@ public IptcDataSet(byte recordNumber, byte dataSetNumber, byte[] value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| recordNumber | Byte | 记录编号。 |
+| recordNumber | Byte | 记录号。 |
 | dataSetNumber | Byte | 数据集编号。 |
 | value | Byte[] | 字节数组值。 |
 
@@ -30,7 +30,7 @@ public IptcDataSet(byte recordNumber, byte dataSetNumber, byte[] value)
 
 ## IptcDataSet(byte, byte, string) {#constructor_3}
 
-初始化[`IptcDataSet`](../../iptcdataset)类.
+初始化一个新的实例[`IptcDataSet`](../../iptcdataset)类.
 
 ```csharp
 public IptcDataSet(byte recordNumber, byte dataSetNumber, string value)
@@ -38,7 +38,7 @@ public IptcDataSet(byte recordNumber, byte dataSetNumber, string value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| recordNumber | Byte | 记录编号。 |
+| recordNumber | Byte | 记录号。 |
 | dataSetNumber | Byte | 数据集编号。 |
 | value | String | 一个字符串值。 |
 
@@ -52,7 +52,7 @@ public IptcDataSet(byte recordNumber, byte dataSetNumber, string value)
 
 ## IptcDataSet(byte, byte, int) {#constructor_1}
 
-初始化[`IptcDataSet`](../../iptcdataset)类.
+初始化一个新的实例[`IptcDataSet`](../../iptcdataset)类.
 
 ```csharp
 public IptcDataSet(byte recordNumber, byte dataSetNumber, int value)
@@ -60,7 +60,7 @@ public IptcDataSet(byte recordNumber, byte dataSetNumber, int value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| recordNumber | Byte | 记录编号。 |
+| recordNumber | Byte | 记录号。 |
 | dataSetNumber | Byte | 数据集编号。 |
 | value | Int32 | 一个整数值。 |
 
@@ -74,7 +74,7 @@ public IptcDataSet(byte recordNumber, byte dataSetNumber, int value)
 
 ## IptcDataSet(byte, byte, DateTime) {#constructor_2}
 
-初始化[`IptcDataSet`](../../iptcdataset)类.
+初始化一个新的实例[`IptcDataSet`](../../iptcdataset)类.
 
 ```csharp
 public IptcDataSet(byte recordNumber, byte dataSetNumber, DateTime value)
@@ -82,9 +82,9 @@ public IptcDataSet(byte recordNumber, byte dataSetNumber, DateTime value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| recordNumber | Byte | 记录编号。 |
+| recordNumber | Byte | 记录号。 |
 | dataSetNumber | Byte | 数据集编号。 |
-| value | DateTime | 日期值。 |
+| value | DateTime | 一个日期值。 |
 
 ### 也可以看看
 

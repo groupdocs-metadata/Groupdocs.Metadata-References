@@ -16,7 +16,7 @@ public MpegChannelMode ChannelMode { get; }
 
 ### 适当的价值
 
-频道模式。
+通道模式。
 
 ### 也可以看看
 

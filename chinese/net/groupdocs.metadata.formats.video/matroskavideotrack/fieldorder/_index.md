@@ -16,7 +16,7 @@ public MatroskaVideoFieldOrder FieldOrder { get; }
 
 ### 适当的价值
 
-声明视频的字段排序。
+声明视频的字段顺序。
 
 ### 也可以看看
 

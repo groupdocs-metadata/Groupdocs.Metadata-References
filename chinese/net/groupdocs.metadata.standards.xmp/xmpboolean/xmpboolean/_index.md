@@ -1,14 +1,14 @@
 ---
 title: XmpBoolean
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpBooleangroupdocs.metadata.standards.xmp/xmpboolean基于布尔值的类
+description: 初始化一个新的实例XmpBooleangroupdocs.metadata.standards.xmp/xmpboolean基于布尔值的类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpboolean/xmpboolean/
 ---
 ## XmpBoolean(bool) {#constructor_1}
 
-初始化[`XmpBoolean`](../../xmpboolean)基于布尔值的类。
+初始化一个新的实例[`XmpBoolean`](../../xmpboolean)基于布尔值的类.
 
 ```csharp
 public XmpBoolean(bool value)
@@ -28,7 +28,7 @@ public XmpBoolean(bool value)
 
 ## XmpBoolean() {#constructor}
 
-初始化[`XmpBoolean`](../../xmpboolean)具有默认值的类。
+初始化一个新的实例[`XmpBoolean`](../../xmpboolean)具有默认值的类.
 
 ```csharp
 public XmpBoolean()
@@ -44,7 +44,7 @@ public XmpBoolean()
 
 ## XmpBoolean(string) {#constructor_2}
 
-初始化[`XmpBoolean`](../../xmpboolean)类.
+初始化一个新的实例[`XmpBoolean`](../../xmpboolean)类.
 
 ```csharp
 public XmpBoolean(string value)

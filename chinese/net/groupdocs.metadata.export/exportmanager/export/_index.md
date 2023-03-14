@@ -30,7 +30,7 @@ public void Export(string filePath, ExportFormat format)
 
 ## Export(Stream, ExportFormat) {#export}
 
-将元数据属性导出到流中。
+将元数据属性导出到流。
 
 ```csharp
 public void Export(Stream document, ExportFormat format)

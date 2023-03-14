@@ -1,14 +1,14 @@
 ---
 title: ObjectTypeReference
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置对象类型引用对象类型用于区分 IIM 中不同类型的对象
+description: 获取或设置对象类型引用对象类型用于区分 IIM. 中不同类型的对象
 type: docs
 weight: 200
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpiptciimpackage/objecttypereference/
 ---
 ## XmpIptcIimPackage.ObjectTypeReference property
 
-获取或设置对象类型引用。对象类型用于区分 IIM 中不同类型的对象。
+获取或设置对象类型引用。对象类型用于区分 IIM. 中不同类型的对象
 
 ```csharp
 public string ObjectTypeReference { get; set; }

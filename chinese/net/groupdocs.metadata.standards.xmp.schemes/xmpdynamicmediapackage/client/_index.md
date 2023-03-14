@@ -1,14 +1,14 @@
 ---
 title: Client
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置此镜头或镜头所属作业的客户端
+description: 获取或设置此镜头或镜头所属的作业的客户端
 type: docs
 weight: 150
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/client/
 ---
 ## XmpDynamicMediaPackage.Client property
 
-获取或设置此镜头或镜头所属作业的客户端。
+获取或设置此镜头或镜头所属的作业的客户端。
 
 ```csharp
 public string Client { get; set; }
@@ -16,7 +16,7 @@ public string Client { get; set; }
 
 ### 适当的价值
 
-此拍摄或拍摄的作业的客户。
+此镜头或镜头参与的工作的客户。
 
 ### 也可以看看
 

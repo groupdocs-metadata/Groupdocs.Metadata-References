@@ -16,11 +16,11 @@ public IReadOnlyList<TiffTag> ToList()
 
 ### 返回值
 
-包含包中所有 TIFF 标记的列表。
+包含包中所有 TIFF 标签的列表。
 
 ### 例子
 
-这个例子演示了如何读取从文件中提取的所有 EXIF 标签。
+此示例演示如何读取从文件中提取的所有 EXIF 标签。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.JpegWithExif))

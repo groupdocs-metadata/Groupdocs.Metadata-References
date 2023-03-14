@@ -1,14 +1,14 @@
 ---
 title: DateTimeAnniversary
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取以单个日期和时间值表示的结婚日期
+description: 获取表示为单个日期和时间值的结婚日期
 type: docs
 weight: 80
 url: /zh/net/groupdocs.metadata.formats.businesscard/vcardidentificationrecordset/datetimeanniversary/
 ---
 ## VCardIdentificationRecordset.DateTimeAnniversary property
 
-获取以单个日期和时间值表示的结婚日期。
+获取表示为单个日期和时间值的结婚日期。
 
 ```csharp
 public DateTime? DateTimeAnniversary { get; }
@@ -20,7 +20,7 @@ public DateTime? DateTimeAnniversary { get; }
 
 ### 评论
 
-这个属性是一个简化版[`AnniversaryDateTimeRecord`](../anniversarydatetimerecord).
+此属性是[`AnniversaryDateTimeRecord`](../anniversarydatetimerecord).
 
 ### 也可以看看
 

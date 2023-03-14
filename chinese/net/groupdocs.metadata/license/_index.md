@@ -1,14 +1,14 @@
 ---
 title: License
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 代表 GroupDocs.Metadata 许可证每个 AppDomain. 应应用一次许可证类别
+description: 表示 GroupDocs.Metadata 许可证每个 AppDomain. 应应用一次许可证类别
 type: docs
 weight: 2650
 url: /zh/net/groupdocs.metadata/license/
 ---
 ## License class
 
-代表 GroupDocs.Metadata 许可证。每个 AppDomain. 应应用一次许可证类别
+表示 GroupDocs.Metadata 许可证。每个 AppDomain. 应应用一次许可证类别
 
 ```csharp
 public sealed class License
@@ -18,7 +18,7 @@ public sealed class License
 
 | 姓名 | 描述 |
 | --- | --- |
-| [License](license)() | 初始化[`License`](../license)类. |
+| [License](license)() | 初始化一个新的实例[`License`](../license)类. |
 
 ## 方法
 

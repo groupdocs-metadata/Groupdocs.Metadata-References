@@ -1,14 +1,14 @@
 ---
 title: XmpHeaderPI
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示 XMP 头处理指令
+description: 表示XMP头处理指令
 type: docs
 weight: 3420
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpheaderpi/
 ---
 ## XmpHeaderPI class
 
-表示 XMP 头处理指令。
+表示XMP头处理指令。
 
 ```csharp
 public sealed class XmpHeaderPI : IXmpType
@@ -18,19 +18,19 @@ public sealed class XmpHeaderPI : IXmpType
 
 | 姓名 | 描述 |
 | --- | --- |
-| [XmpHeaderPI](xmpheaderpi)() | 初始化[`XmpHeaderPI`](../xmpheaderpi)类. |
+| [XmpHeaderPI](xmpheaderpi)() | 初始化一个新的实例[`XmpHeaderPI`](../xmpheaderpi)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Guid](../../groupdocs.metadata.standards.xmp/xmpheaderpi/guid) { get; } | 表示标题 GUID。 |
+| [Guid](../../groupdocs.metadata.standards.xmp/xmpheaderpi/guid) { get; } | 表示标头 GUID。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GetXmpRepresentation](../../groupdocs.metadata.standards.xmp/xmpheaderpi/getxmprepresentation)() | 将 XMP 值转换为 xml 表示形式。 |
+| [GetXmpRepresentation](../../groupdocs.metadata.standards.xmp/xmpheaderpi/getxmprepresentation)() | 将 XMP 值转换为 xml 表示。 |
 
 ### 也可以看看
 

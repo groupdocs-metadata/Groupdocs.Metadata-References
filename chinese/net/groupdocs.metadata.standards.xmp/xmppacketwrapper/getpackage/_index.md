@@ -20,7 +20,7 @@ public XmpPackage GetPackage(string namespaceUri)
 
 ### 返回值
 
-合适的[`XmpPackage`](../../xmppackage)如果包被找到*namespaceUri*;否则为空。
+合适的[`XmpPackage`](../../xmppackage)如果包找到*namespaceUri*;否则为空。
 
 ### 例外
 

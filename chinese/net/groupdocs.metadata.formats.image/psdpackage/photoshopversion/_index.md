@@ -16,7 +16,7 @@ public int PhotoshopVersion { get; }
 
 ### 适当的价值
 
-photoshop 版.
+photoshop 版本。
 
 ### 也可以看看
 

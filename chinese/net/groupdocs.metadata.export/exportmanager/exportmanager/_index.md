@@ -1,14 +1,14 @@
 ---
 title: ExportManager
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化ExportManagergroupdocs.metadata.export/exportmanager类.
+description: 初始化一个新的实例ExportManagergroupdocs.metadata.export/exportmanager类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.export/exportmanager/exportmanager/
 ---
 ## ExportManager constructor
 
-初始化[`ExportManager`](../../exportmanager)类.
+初始化一个新的实例[`ExportManager`](../../exportmanager)类.
 
 ```csharp
 public ExportManager(IEnumerable<MetadataProperty> properties)

@@ -1,14 +1,14 @@
 ---
 title: IntellectualGenre
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置智力类型描述新闻对象的性质知识艺术或新闻特征而不是具体的内容
+description: 获取或设置智力流派描述新闻对象的性质知识艺术或新闻特征而不是具体描述其内容
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpiptccorepackage/intellectualgenre/
 ---
 ## XmpIptcCorePackage.IntellectualGenre property
 
-获取或设置智力类型。描述新闻对象的性质、知识、艺术或新闻特征，而不是具体的内容。
+获取或设置智力流派。描述新闻对象的性质、知识、艺术或新闻特征，而不是具体描述其内容。
 
 ```csharp
 public string IntellectualGenre { get; set; }
@@ -16,7 +16,7 @@ public string IntellectualGenre { get; set; }
 
 ### 适当的价值
 
-知识分子流派。
+知识流派.
 
 ### 也可以看看
 

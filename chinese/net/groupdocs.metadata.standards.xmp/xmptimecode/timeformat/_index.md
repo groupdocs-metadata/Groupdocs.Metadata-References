@@ -1,14 +1,14 @@
 ---
 title: TimeFormat
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置时间值使用的格式
+description: 获取或设置时间值中使用的格式
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.standards.xmp/xmptimecode/timeformat/
 ---
 ## XmpTimecode.TimeFormat property
 
-获取或设置时间值使用的格式。
+获取或设置时间值中使用的格式。
 
 ```csharp
 public string TimeFormat { get; set; }
@@ -16,7 +16,7 @@ public string TimeFormat { get; set; }
 
 ### 适当的价值
 
-timeValue 中使用的格式。以下之一：24Timecode、25Timecode、2997DropTimecode（分号分隔符）、2997NonDropTimecode、 30Timecode、50Timecode、5994DropTimecode（分号分隔符）、5994NonDropTimecode、60Timecode、23976Timecode.
+timeValue 中使用的格式。其中之一：24Timecode、25Timecode、2997DropTimecode（分号分隔符）、2997NonDropTimecode、 30Timecode、50Timecode、5994DropTimecode（分号分隔符）、5994NonDropTimecode、60Timecode、23976Timecode.
 
 ### 也可以看看
 

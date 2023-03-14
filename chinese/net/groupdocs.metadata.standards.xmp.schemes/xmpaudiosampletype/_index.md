@@ -1,14 +1,14 @@
 ---
 title: XmpAudioSampleType
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 代表音频样本类型XmpDynamicMediaPackage./xmpdynamicmediapackage.
+description: 代表Audio sample type inXmpDynamicMediaPackage./xmpdynamicmediapackage.
 type: docs
 weight: 3070
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpaudiosampletype/
 ---
 ## XmpAudioSampleType class
 
-代表音频样本类型[`XmpDynamicMediaPackage`](../xmpdynamicmediapackage).
+代表Audio sample type in[`XmpDynamicMediaPackage`](../xmpdynamicmediapackage).
 
 ```csharp
 public sealed class XmpAudioSampleType : XmpClosedChoice<string>
@@ -18,7 +18,7 @@ public sealed class XmpAudioSampleType : XmpClosedChoice<string>
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [Compressed](../../groupdocs.metadata.standards.xmp.schemes/xmpaudiosampletype/compressed) { get; } | 获取压缩的音频样本。 |
+| static [Compressed](../../groupdocs.metadata.standards.xmp.schemes/xmpaudiosampletype/compressed) { get; } | 获取压缩音频样本。 |
 | static [Other](../../groupdocs.metadata.standards.xmp.schemes/xmpaudiosampletype/other) { get; } | 获取其他音频样本。 |
 | static [Packed](../../groupdocs.metadata.standards.xmp.schemes/xmpaudiosampletype/packed) { get; } | 获取打包的音频样本。 |
 | static [Sample16Int](../../groupdocs.metadata.standards.xmp.schemes/xmpaudiosampletype/sample16int) { get; } | 获取 16Int 音频样本。 |

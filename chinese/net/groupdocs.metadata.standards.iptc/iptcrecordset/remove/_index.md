@@ -16,12 +16,12 @@ public bool Remove(byte recordNumber, byte dataSetNumber)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| recordNumber | Byte | 记录编号。 |
+| recordNumber | Byte | 记录号。 |
 | dataSetNumber | Byte | 数据集编号。 |
 
 ### 返回值
 
-如果找到并删除了指定的 IPTC 数据集，则为真；否则为假。
+如果找到并删除了指定的 IPTC 数据集，则为真；否则为真。否则，假的。
 
 ### 也可以看看
 
@@ -33,7 +33,7 @@ public bool Remove(byte recordNumber, byte dataSetNumber)
 
 ## Remove(byte) {#remove}
 
-删除指定记录号的记录。
+删除具有指定记录号的记录。
 
 ```csharp
 public bool Remove(byte recordNumber)
@@ -41,11 +41,11 @@ public bool Remove(byte recordNumber)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| recordNumber | Byte | 记录编号。 |
+| recordNumber | Byte | 记录号。 |
 
 ### 返回值
 
-如果找到并删除了指定的 IPTC 记录，则为真；否则为假。
+如果找到并删除了指定的 IPTC 记录，则为真；否则为真。否则，假的。
 
 ### 也可以看看
 

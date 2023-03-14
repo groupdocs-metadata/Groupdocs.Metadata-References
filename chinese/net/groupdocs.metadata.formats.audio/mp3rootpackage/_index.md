@@ -1,14 +1,14 @@
 ---
 title: MP3RootPackage
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示允许在 MP3 音频中处理元数据的根包
+description: 表示允许在 MP3 音频中使用元数据的根包
 type: docs
 weight: 580
 url: /zh/net/groupdocs.metadata.formats.audio/mp3rootpackage/
 ---
 ## MP3RootPackage class
 
-表示允许在 MP3 音频中处理元数据的根包。
+表示允许在 MP3 音频中使用元数据的根包。
 
 ```csharp
 public class MP3RootPackage : RootMetadataPackage, IXmp
@@ -21,9 +21,9 @@ public class MP3RootPackage : RootMetadataPackage, IXmp
 | [ApeV2](../../groupdocs.metadata.formats.audio/mp3rootpackage/apev2) { get; } | 获取 APE v2 元数据。 |
 | [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | 获取元数据属性的数量。 |
 | [FileType](../../groupdocs.metadata.common/rootmetadatapackage/filetype) { get; } | 获取文件类型元数据包。 |
-| [ID3V1](../../groupdocs.metadata.formats.audio/mp3rootpackage/id3v1) { get; set; } | 获取或设置 ID3v1 元数据标记。 请在以下位置找到更多信息[http://id3.org/ID3v1](http://id3.org/ID3v1). |
+| [ID3V1](../../groupdocs.metadata.formats.audio/mp3rootpackage/id3v1) { get; set; } | 获取或设置 ID3v1 元数据标记。 请在以下位置查找更多信息[http://id3.org/ID3v1](http://id3.org/ID3v1). |
 | [ID3V2](../../groupdocs.metadata.formats.audio/mp3rootpackage/id3v2) { get; set; } | 获取或设置 ID3v2 元数据标记。 |
-| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定的名称。 |
+| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定名称. |
 | [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | 获取元数据属性名称的集合。 |
 | [Lyrics3V2](../../groupdocs.metadata.formats.audio/mp3rootpackage/lyrics3v2) { get; set; } | 获取或设置 Lyrics3v2 元数据标签。 |
 | [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | 获取元数据类型。 |
@@ -42,12 +42,12 @@ public class MP3RootPackage : RootMetadataPackage, IXmp
 | [RemoveApeV2](../../groupdocs.metadata.formats.audio/mp3rootpackage/removeapev2)() | 删除 APEv2 音频标签。 |
 | virtual [RemoveProperties](../../groupdocs.metadata.common/metadatapackage/removeproperties)(Func&lt;MetadataProperty, bool&gt;) | 删除满足指定谓词的元数据属性。 |
 | override [Sanitize](../../groupdocs.metadata.formats.audio/mp3rootpackage/sanitize)() | 从包中删除可写元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
-| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
+| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是以下方法的组合[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
 | [UpdateProperties](../../groupdocs.metadata.common/metadatapackage/updateproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 更新满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [使用 MP3 元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+MP3+metadata)
 * [使用 XMP 元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+XMP+metadata)

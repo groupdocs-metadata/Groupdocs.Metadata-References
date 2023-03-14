@@ -1,14 +1,14 @@
 ---
 title: PropertyType
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取一组标签其中包含有关属性类型而不是其用途的附加信息 使用这些标签您可以检测包含指向外部资源的 URL 链接的元数据属性 描述字体颜色地理位置等的属性.
+description: 获取一组标签这些标签包含有关属性类型而不是其用途的附加信息 使用这些标签您可以检测包含指向外部资源的 URL 链接的元数据属性 描述字体颜色地理位置等的属性.
 type: docs
 weight: 70
 url: /zh/net/groupdocs.metadata.tagging/tags/propertytype/
 ---
 ## Tags.PropertyType property
 
-获取一组标签，其中包含有关属性类型而不是其用途的附加信息。 使用这些标签，您可以检测包含指向外部资源的 URL 链接的元数据属性， 描述字体、颜色、地理位置等的属性.
+获取一组标签，这些标签包含有关属性类型而不是其用途的附加信息。 使用这些标签，您可以检测包含指向外部资源的 URL 链接的元数据属性， 描述字体、颜色、地理位置等的属性.
 
 ```csharp
 public static PropertyTypeTagCategory PropertyType { get; }

@@ -16,7 +16,7 @@ public double? Black { get; set; }
 
 ### 适当的价值
 
-黑色值。
+黑色值.
 
 ### 也可以看看
 

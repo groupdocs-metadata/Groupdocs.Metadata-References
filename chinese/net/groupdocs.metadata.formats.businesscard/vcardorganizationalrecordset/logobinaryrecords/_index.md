@@ -20,7 +20,7 @@ public VCardBinaryRecord[] LogoBinaryRecords { get; }
 
 ### 评论
 
-这个属性是一个简化版[`LogoRecords`](../logorecords).
+此属性是[`LogoRecords`](../logorecords).
 
 ### 也可以看看
 

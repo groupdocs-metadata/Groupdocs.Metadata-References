@@ -20,7 +20,7 @@ public string Uid { get; }
 
 ### 评论
 
-这个属性是一个简化版[`UidRecord`](../uidrecord).
+此属性是[`UidRecord`](../uidrecord).
 
 ### 也可以看看
 

@@ -20,7 +20,7 @@ public enum AsfDescriptorType : ushort
 | --- | --- | --- |
 | Unicode | `0` | unicode 字符串类型。 |
 | ByteArray | `1` | 字节数组类型。 |
-| Bool | `2` | 32 位布尔类型。 |
+| Bool | `2` | 32 位 bool 类型。 |
 | DWord | `3` | 32 位无符号整数类型。 |
 | QWord | `4` | 64 位无符号整数类型。 |
 | Word | `5` | 16 位无符号整数类型。 |

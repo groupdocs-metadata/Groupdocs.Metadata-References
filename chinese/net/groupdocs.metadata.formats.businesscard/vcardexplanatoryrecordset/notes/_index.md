@@ -20,7 +20,7 @@ public string[] Notes { get; }
 
 ### 评论
 
-这个属性是一个简化版[`NoteRecords`](../noterecords).
+此属性是[`NoteRecords`](../noterecords).
 
 ### 也可以看看
 

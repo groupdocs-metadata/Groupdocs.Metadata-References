@@ -1,14 +1,14 @@
 ---
 title: SharedDoc
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取表示哪个是多个制造商的通用文档的标签
+description: 获取表示哪个是多个制造商的通用文档的标记
 type: docs
 weight: 80
 url: /zh/net/groupdocs.metadata.tagging/contenttagcategory/shareddoc/
 ---
 ## ContentTagCategory.SharedDoc property
 
-获取表示哪个是多个制造商的通用文档的标签。
+获取表示哪个是多个制造商的通用文档的标记。
 
 ```csharp
 public PropertyTag SharedDoc { get; }
@@ -16,7 +16,7 @@ public PropertyTag SharedDoc { get; }
 
 ### 适当的价值
 
-表示哪个是多个制造商的通用文档的标签。
+表示哪个标签是几个制造商的通用文档。
 
 ### 也可以看看
 

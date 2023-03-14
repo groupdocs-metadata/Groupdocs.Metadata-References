@@ -16,7 +16,7 @@ public static XmpWhiteBalance AsShot { get; }
 
 ### 适当的价值
 
-拍摄。
+照原样.
 
 ### 也可以看看
 

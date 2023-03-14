@@ -16,18 +16,18 @@ public int AddProperties(Func<MetadataProperty, bool> predicate, PropertyValue v
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| predicate | Func`2 | 用于测试每个元数据属性的条件的函数。 |
-| value | PropertyValue | 拾取属性的值。 |
+| predicate | Func`2 | 用于测试条件的每个元数据属性的函数。 |
+| value | PropertyValue | 所选属性的值。 |
 
 ### 返回值
 
-受影响属性的数量。
+受影响的属性的数量。
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多演示此方法用法的示例： [添加元数据](https://docs.groupdocs.com/display/metadatanet/Adding+metadata)
+* 更多示例演示此方法的用法： [添加元数据](https://docs.groupdocs.com/display/metadatanet/Adding+metadata)
 
 ### 也可以看看
 

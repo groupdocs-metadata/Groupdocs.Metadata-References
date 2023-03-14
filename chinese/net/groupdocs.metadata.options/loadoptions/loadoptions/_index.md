@@ -1,14 +1,14 @@
 ---
 title: LoadOptions
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化LoadOptionsgroupdocs.metadata.options/loadoptions类.
+description: 初始化一个新的实例LoadOptionsgroupdocs.metadata.options/loadoptions类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.options/loadoptions/loadoptions/
 ---
 ## LoadOptions() {#constructor}
 
-初始化[`LoadOptions`](../../loadoptions)类.
+初始化一个新的实例[`LoadOptions`](../../loadoptions)类.
 
 ```csharp
 public LoadOptions()
@@ -24,7 +24,7 @@ public LoadOptions()
 
 ## LoadOptions(FileFormat) {#constructor_1}
 
-初始化[`LoadOptions`](../../loadoptions)类.
+初始化一个新的实例[`LoadOptions`](../../loadoptions)类.
 
 ```csharp
 public LoadOptions(FileFormat fileFormat)

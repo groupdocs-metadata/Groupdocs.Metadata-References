@@ -1,14 +1,14 @@
 ---
 title: XmpGuid
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示 XMP 全局唯一标识符
+description: 代表XMP全球唯一标识符
 type: docs
 weight: 3410
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpguid/
 ---
 ## XmpGuid class
 
-表示 XMP 全局唯一标识符。
+代表XMP全球唯一标识符。
 
 ```csharp
 public sealed class XmpGuid : XmpValueBase
@@ -18,8 +18,8 @@ public sealed class XmpGuid : XmpValueBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| [XmpGuid](xmpguid#constructor)(Guid) | 初始化[`XmpGuid`](../xmpguid)类. |
-| [XmpGuid](xmpguid#constructor_1)(string) | 初始化[`XmpGuid`](../xmpguid)类. |
+| [XmpGuid](xmpguid#constructor)(Guid) | 初始化一个新的实例[`XmpGuid`](../xmpguid)类. |
+| [XmpGuid](xmpguid#constructor_1)(string) | 初始化一个新的实例[`XmpGuid`](../xmpguid)类. |
 
 ## 特性
 
@@ -37,7 +37,7 @@ public sealed class XmpGuid : XmpValueBase
 | override [GetXmpRepresentation](../../groupdocs.metadata.standards.xmp/xmpguid/getxmprepresentation)() | 以 XMP 格式返回包含字符串的值。 |
 | [ToArray&lt;TElement&gt;](../../groupdocs.metadata.common/propertyvalue/toarray)() | 将属性值转换为指定类型的数组。 |
 | [ToClass&lt;T&gt;](../../groupdocs.metadata.common/propertyvalue/toclass)() | 将属性值转换为引用类型。 |
-| override [ToString](../../groupdocs.metadata.standards.xmp/xmpvaluebase/tostring)() | 返回一个表示属性值的字符串。 |
+| override [ToString](../../groupdocs.metadata.standards.xmp/xmpvaluebase/tostring)() | 返回表示属性值的字符串。 |
 | [ToStruct&lt;T&gt;](../../groupdocs.metadata.common/propertyvalue/tostruct)() | 将属性值转换为值类型。 |
 | [ToStruct&lt;T&gt;](../../groupdocs.metadata.common/propertyvalue/tostruct)(T) | 将属性值转换为值类型。 |
 

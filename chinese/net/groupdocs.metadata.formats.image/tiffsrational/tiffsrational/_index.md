@@ -1,14 +1,14 @@
 ---
 title: TiffSRational
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化TiffSRationalgroupdocs.metadata.formats.image/tiffsrational类.
+description: 初始化一个新的实例TiffSRationalgroupdocs.metadata.formats.image/tiffsrational类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.image/tiffsrational/tiffsrational/
 ---
 ## TiffSRational constructor
 
-初始化[`TiffSRational`](../../tiffsrational)类.
+初始化一个新的实例[`TiffSRational`](../../tiffsrational)类.
 
 ```csharp
 public TiffSRational(int numerator, int denominator)

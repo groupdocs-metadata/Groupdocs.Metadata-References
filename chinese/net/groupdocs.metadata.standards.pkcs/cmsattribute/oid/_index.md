@@ -1,14 +1,14 @@
 ---
 title: Oid
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取属性 OID
+description: 获取属性 OID.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.pkcs/cmsattribute/oid/
 ---
 ## CmsAttribute.Oid property
 
-获取属性 OID。
+获取属性 OID.
 
 ```csharp
 public Oid Oid { get; }

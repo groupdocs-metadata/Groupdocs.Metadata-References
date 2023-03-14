@@ -16,21 +16,21 @@ public int RemoveProperties(Func<MetadataProperty, bool> predicate)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| predicate | Func`2 | 用于测试每个元数据属性的条件的函数。 |
+| predicate | Func`2 | 用于测试条件的每个元数据属性的函数。 |
 
 ### 返回值
 
-受影响属性的数量。
+受影响的属性的数量。
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多演示此方法用法的示例： [删除元数据](https://docs.groupdocs.com/display/metadatanet/Removing+metadata)
+* 更多示例演示此方法的用法： [删除元数据](https://docs.groupdocs.com/display/metadatanet/Removing+metadata)
 
 ### 例子
 
-此示例演示如何使用各种标准删除特定的元数据属性。
+此示例演示如何使用各种条件删除特定元数据属性。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.InputDocx))
@@ -38,7 +38,7 @@ using (Metadata metadata = new Metadata(Constants.InputDocx))
     // 删除所有满足谓词的属性：
     // 属性包含文档作者的姓名或
     // 它指的是最后一个编辑器或
-    // 属性值是一个包含子字符串“John”的字符串（从检测到的元数据中删除任何提及 John）
+    // 属性值是一个包含子字符串“John”的字符串（从检测到的元数据中删除任何提及 John 的内容）
     var affected = metadata.RemoveProperties(
             p => p.Tags.Contains(Tags.Person.Creator) ||
             p.Tags.Contains(Tags.Person.Editor) ||

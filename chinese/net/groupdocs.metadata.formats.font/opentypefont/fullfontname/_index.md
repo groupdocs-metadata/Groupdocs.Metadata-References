@@ -1,14 +1,14 @@
 ---
 title: FullFontName
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取字体的全名
+description: 获取字体全名
 type: docs
 weight: 80
 url: /zh/net/groupdocs.metadata.formats.font/opentypefont/fullfontname/
 ---
 ## OpenTypeFont.FullFontName property
 
-获取字体的全名。
+获取字体全名。
 
 ```csharp
 public string FullFontName { get; }

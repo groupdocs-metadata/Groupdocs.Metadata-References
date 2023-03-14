@@ -1,14 +1,14 @@
 ---
 title: CameraIso
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取相机iso.
+description: 获取相机 iso.
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.standards.exif.makernote/canoncamerasettingspackage/cameraiso/
 ---
 ## CanonCameraSettingsPackage.CameraIso property
 
-获取相机iso.
+获取相机 iso.
 
 ```csharp
 public short CameraIso { get; }
@@ -16,7 +16,7 @@ public short CameraIso { get; }
 
 ### 适当的价值
 
-相机iso.
+相机 iso.
 
 ### 也可以看看
 

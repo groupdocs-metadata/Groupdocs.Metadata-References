@@ -1,14 +1,14 @@
 ---
 title: GpsTrack
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置 GPS 接收器运动的方向
+description: 获取或设置 GPS 接收器移动的方向
 type: docs
 weight: 160
 url: /zh/net/groupdocs.metadata.standards.exif/exifgpspackage/gpstrack/
 ---
 ## ExifGpsPackage.GpsTrack property
 
-获取或设置 GPS 接收器运动的方向。
+获取或设置 GPS 接收器移动的方向。
 
 ```csharp
 public TiffRational GpsTrack { get; set; }
@@ -16,7 +16,7 @@ public TiffRational GpsTrack { get; set; }
 
 ### 适当的价值
 
-GPS 接收器运动的方向。
+GPS 接收器移动的方向。
 
 ### 也可以看看
 

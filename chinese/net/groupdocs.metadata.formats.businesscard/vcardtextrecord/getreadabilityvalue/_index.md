@@ -16,7 +16,7 @@ public string GetReadabilityValue(string codePageName)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| codePageName | String | 使用编码代码页名称或 null 用于 ASCII 编码。 |
+| codePageName | String | 使用编码代码页名称或空的 ASCII 编码。 |
 
 ### 返回值
 

@@ -1,14 +1,14 @@
 ---
 title: IDublinCore
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 定义允许使用都柏林核心元数据的基本操作
+description: 定义允许使用 Dublin Core 元数据的基本操作
 type: docs
 weight: 2740
 url: /zh/net/groupdocs.metadata.standards.dublincore/idublincore/
 ---
 ## IDublinCore interface
 
-定义允许使用都柏林核心元数据的基本操作。
+定义允许使用 Dublin Core 元数据的基本操作。
 
 ```csharp
 public interface IDublinCore
@@ -18,7 +18,7 @@ public interface IDublinCore
 
 | 姓名 | 描述 |
 | --- | --- |
-| [DublinCorePackage](../../groupdocs.metadata.standards.dublincore/idublincore/dublincorepackage) { get; } | 获取从文档中提取的都柏林核心元数据包。 |
+| [DublinCorePackage](../../groupdocs.metadata.standards.dublincore/idublincore/dublincorepackage) { get; } | 获取从文档中提取的 Dublin Core 元数据包。 |
 
 ### 也可以看看
 

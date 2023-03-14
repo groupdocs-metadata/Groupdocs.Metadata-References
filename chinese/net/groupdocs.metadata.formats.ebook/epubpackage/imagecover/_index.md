@@ -1,14 +1,14 @@
 ---
 title: ImageCover
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 以字节数组的形式获取图像封面
+description: 获取图像封面作为字节数组
 type: docs
 weight: 270
 url: /zh/net/groupdocs.metadata.formats.ebook/epubpackage/imagecover/
 ---
 ## EpubPackage.ImageCover property
 
-以字节数组的形式获取图像封面。
+获取图像封面作为字节数组。
 
 ```csharp
 public byte[] ImageCover { get; }

@@ -1,14 +1,14 @@
 ---
 title: ReadOnly
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取告诉软件此帧的内容是只读的标签
+description: 获取告诉软件此帧的内容为只读的标记
 type: docs
 weight: 60
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2tagframeflags/readonly/
 ---
 ## ID3V2TagFrameFlags.ReadOnly property
 
-获取告诉软件此帧的内容是只读的标签。
+获取告诉软件此帧的内容为只读的标记。
 
 ```csharp
 public bool ReadOnly { get; }
@@ -16,7 +16,7 @@ public bool ReadOnly { get; }
 
 ### 适当的价值
 
-告诉软件该帧的内容是只读的标签。
+告诉软件此帧的内容为只读的标签。
 
 ### 也可以看看
 

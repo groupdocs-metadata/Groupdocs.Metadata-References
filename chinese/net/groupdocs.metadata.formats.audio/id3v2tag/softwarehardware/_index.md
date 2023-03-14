@@ -1,14 +1,14 @@
 ---
 title: SoftwareHardware
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置文件编码时使用的音频编码器及其设置 该值由TSSE帧表示
+description: 获取或设置文件编码时使用的音频编码器及其设置 此值由 TSSE 帧表示
 type: docs
 weight: 190
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2tag/softwarehardware/
 ---
 ## ID3V2Tag.SoftwareHardware property
 
-获取或设置文件编码时使用的音频编码器及其设置。 该值由TSSE帧表示。
+获取或设置文件编码时使用的音频编码器及其设置。 此值由 TSSE 帧表示。
 
 ```csharp
 public string SoftwareHardware { get; set; }

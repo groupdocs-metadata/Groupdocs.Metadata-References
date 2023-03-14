@@ -16,7 +16,7 @@ public int PaddingBit { get; }
 
 ### 适当的价值
 
-填充位。
+填充位.
 
 ### 也可以看看
 

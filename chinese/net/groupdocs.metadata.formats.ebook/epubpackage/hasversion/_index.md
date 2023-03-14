@@ -1,14 +1,14 @@
 ---
 title: HasVersion
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置相关资源它是所描述资源的版本版本或改编版
+description: 获取或设置相关资源该资源是所描述资源的版本版本或改编
 type: docs
 weight: 250
 url: /zh/net/groupdocs.metadata.formats.ebook/epubpackage/hasversion/
 ---
 ## EpubPackage.HasVersion property
 
-获取或设置相关资源，它是所描述资源的版本、版本或改编版。
+获取或设置相关资源，该资源是所描述资源的版本、版本或改编。
 
 ```csharp
 public string HasVersion { get; set; }
@@ -16,7 +16,7 @@ public string HasVersion { get; set; }
 
 ### 适当的价值
 
-相关资源，它是所描述资源的版本、版本或改编版。
+相关资源，是所描述资源的版本、版本或改编。
 
 ### 也可以看看
 

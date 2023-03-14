@@ -1,14 +1,14 @@
 ---
 title: Guid
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示标题 GUID
+description: 表示标头 GUID
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpheaderpi/guid/
 ---
 ## XmpHeaderPI.Guid property
 
-表示标题 GUID。
+表示标头 GUID。
 
 ```csharp
 public string Guid { get; }
@@ -20,7 +20,7 @@ public string Guid { get; }
 
 ### 评论
 
-标头 PI 的文本包含一个 GUID，使其不太可能意外出现在数据流中。
+标题 PI 的文本包含一个 GUID，使其不太可能意外出现在数据流中。
 
 ### 也可以看看
 

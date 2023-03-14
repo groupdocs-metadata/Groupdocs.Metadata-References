@@ -1,14 +1,14 @@
 ---
 title: XmpTrailerPI
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpTrailerPIgroupdocs.metadata.standards.xmp/xmptrailerpi类.
+description: 初始化一个新的实例XmpTrailerPIgroupdocs.metadata.standards.xmp/xmptrailerpi类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp/xmptrailerpi/xmptrailerpi/
 ---
 ## XmpTrailerPI(bool) {#constructor_1}
 
-初始化[`XmpTrailerPI`](../../xmptrailerpi)类.
+初始化一个新的实例[`XmpTrailerPI`](../../xmptrailerpi)类.
 
 ```csharp
 public XmpTrailerPI(bool isWritable)
@@ -28,7 +28,7 @@ public XmpTrailerPI(bool isWritable)
 
 ## XmpTrailerPI() {#constructor}
 
-初始化[`XmpTrailerPI`](../../xmptrailerpi)类.
+初始化一个新的实例[`XmpTrailerPI`](../../xmptrailerpi)类.
 
 ```csharp
 public XmpTrailerPI()

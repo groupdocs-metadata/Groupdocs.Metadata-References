@@ -1,14 +1,14 @@
 ---
 title: Link
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取表示属性是指向外部资源的链接的标记
+description: 获取表示属性为外部资源链接的标记
 type: docs
 weight: 60
 url: /zh/net/groupdocs.metadata.tagging/propertytypetagcategory/link/
 ---
 ## PropertyTypeTagCategory.Link property
 
-获取表示属性是指向外部资源的链接的标记。
+获取表示属性为外部资源链接的标记。
 
 ```csharp
 public PropertyTag Link { get; }

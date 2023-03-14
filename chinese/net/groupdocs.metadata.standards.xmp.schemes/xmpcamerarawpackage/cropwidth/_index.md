@@ -1,14 +1,14 @@
 ---
 title: CropWidth
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置裁剪后图像的宽度CropUnitsgroupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/cropunits单位.
+description: 获取或设置生成的裁剪图像的宽度CropUnitsgroupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/cropunits单位.
 type: docs
 weight: 210
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/cropwidth/
 ---
 ## XmpCameraRawPackage.CropWidth property
 
-获取或设置裁剪后图像的宽度[`CropUnits`](../cropunits)单位.
+获取或设置生成的裁剪图像的宽度[`CropUnits`](../cropunits)单位.
 
 ```csharp
 public double? CropWidth { get; set; }
@@ -16,7 +16,7 @@ public double? CropWidth { get; set; }
 
 ### 适当的价值
 
-作物的宽度。
+裁剪的宽度。
 
 ### 也可以看看
 

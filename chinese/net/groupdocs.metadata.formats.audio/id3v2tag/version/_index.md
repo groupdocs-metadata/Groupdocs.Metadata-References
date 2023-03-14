@@ -16,7 +16,7 @@ public override string Version { get; }
 
 ### 适当的价值
 
-ID3版本.
+ID3 版本。
 
 ### 也可以看看
 

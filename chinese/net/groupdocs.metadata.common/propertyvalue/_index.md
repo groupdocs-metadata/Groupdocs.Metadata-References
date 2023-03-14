@@ -1,14 +1,14 @@
 ---
 title: PropertyValue
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示一个属性值
+description: 表示属性值
 type: docs
 weight: 200
 url: /zh/net/groupdocs.metadata.common/propertyvalue/
 ---
 ## PropertyValue class
 
-表示一个属性值。
+表示属性值。
 
 ```csharp
 public class PropertyValue
@@ -18,18 +18,18 @@ public class PropertyValue
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PropertyValue](propertyvalue#constructor)(bool) | 初始化[`PropertyValue`](../propertyvalue)具有布尔值的类。 |
-| [PropertyValue](propertyvalue#constructor_1)(byte[]) | 初始化[`PropertyValue`](../propertyvalue)带有字节数组的类。 |
-| [PropertyValue](propertyvalue#constructor_8)(DateTime) | 初始化[`PropertyValue`](../propertyvalue)类DateTime值. |
-| [PropertyValue](propertyvalue#constructor_2)(double) | 初始化[`PropertyValue`](../propertyvalue)具有双值的类。 |
-| [PropertyValue](propertyvalue#constructor_3)(double[]) | 初始化[`PropertyValue`](../propertyvalue)具有双值数组的类。 |
-| [PropertyValue](propertyvalue#constructor_4)(int) | 初始化[`PropertyValue`](../propertyvalue)具有整数值的类。 |
-| [PropertyValue](propertyvalue#constructor_5)(int[]) | 初始化[`PropertyValue`](../propertyvalue)具有整数值数组的类。 |
-| [PropertyValue](propertyvalue#constructor_6)(long) | 初始化[`PropertyValue`](../propertyvalue)具有长值的类。 |
-| [PropertyValue](propertyvalue#constructor_7)(long[]) | 初始化[`PropertyValue`](../propertyvalue)具有长值数组的类。 |
-| [PropertyValue](propertyvalue#constructor_9)(string) | 初始化[`PropertyValue`](../propertyvalue)具有字符串值的类。 |
-| [PropertyValue](propertyvalue#constructor_10)(string[]) | 初始化[`PropertyValue`](../propertyvalue)带有字符串数组的类。 |
-| [PropertyValue](propertyvalue#constructor_11)(TimeSpan) | 初始化[`PropertyValue`](../propertyvalue)类TimeSpan值. |
+| [PropertyValue](propertyvalue#constructor)(bool) | 初始化一个新的实例[`PropertyValue`](../propertyvalue)具有布尔值的类. |
+| [PropertyValue](propertyvalue#constructor_1)(byte[]) | 初始化一个新的实例[`PropertyValue`](../propertyvalue)带有字节数组的类. |
+| [PropertyValue](propertyvalue#constructor_8)(DateTime) | 初始化一个新的实例[`PropertyValue`](../propertyvalue)类与DateTime值. |
+| [PropertyValue](propertyvalue#constructor_2)(double) | 初始化一个新的实例[`PropertyValue`](../propertyvalue)具有双精度值的类. |
+| [PropertyValue](propertyvalue#constructor_3)(double[]) | 初始化一个新的实例[`PropertyValue`](../propertyvalue)具有双值数组的类. |
+| [PropertyValue](propertyvalue#constructor_4)(int) | 初始化一个新的实例[`PropertyValue`](../propertyvalue)具有整数值的类. |
+| [PropertyValue](propertyvalue#constructor_5)(int[]) | 初始化一个新的实例[`PropertyValue`](../propertyvalue)具有整数值数组的类. |
+| [PropertyValue](propertyvalue#constructor_6)(long) | 初始化一个新的实例[`PropertyValue`](../propertyvalue)具有长值的类. |
+| [PropertyValue](propertyvalue#constructor_7)(long[]) | 初始化一个新的实例[`PropertyValue`](../propertyvalue)具有长值数组的类. |
+| [PropertyValue](propertyvalue#constructor_9)(string) | 初始化一个新的实例[`PropertyValue`](../propertyvalue)具有字符串值的类. |
+| [PropertyValue](propertyvalue#constructor_10)(string[]) | 初始化一个新的实例[`PropertyValue`](../propertyvalue)带有字符串数组的类. |
+| [PropertyValue](propertyvalue#constructor_11)(TimeSpan) | 初始化一个新的实例[`PropertyValue`](../propertyvalue)类与TimeSpan值. |
 
 ## 特性
 
@@ -45,7 +45,7 @@ public class PropertyValue
 | [AcceptValue](../../groupdocs.metadata.common/propertyvalue/acceptvalue)(ValueAcceptor) | 使用自定义提取属性值[`ValueAcceptor`](../valueacceptor). |
 | [ToArray&lt;TElement&gt;](../../groupdocs.metadata.common/propertyvalue/toarray)() | 将属性值转换为指定类型的数组。 |
 | [ToClass&lt;T&gt;](../../groupdocs.metadata.common/propertyvalue/toclass)() | 将属性值转换为引用类型。 |
-| override [ToString](../../groupdocs.metadata.common/propertyvalue/tostring)() | 返回一个表示属性值的字符串。 |
+| override [ToString](../../groupdocs.metadata.common/propertyvalue/tostring)() | 返回表示属性值的字符串。 |
 | [ToStruct&lt;T&gt;](../../groupdocs.metadata.common/propertyvalue/tostruct#tostruct)() | 将属性值转换为值类型。 |
 | [ToStruct&lt;T&gt;](../../groupdocs.metadata.common/propertyvalue/tostruct#tostruct_1)(T) | 将属性值转换为值类型。 |
 

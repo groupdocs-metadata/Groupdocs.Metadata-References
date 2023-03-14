@@ -1,14 +1,14 @@
 ---
 title: DateStamp
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置相对于UTC协调世界时的字符串记录日期和时间信息格式为 YYYYMMDD.
+description: 获取或设置字符串记录相对于UTC协调世界时的日期和时间信息格式为 YYYYMMDD.
 type: docs
 weight: 60
 url: /zh/net/groupdocs.metadata.standards.exif/exifgpspackage/datestamp/
 ---
 ## ExifGpsPackage.DateStamp property
 
-获取或设置相对于UTC（协调世界时）的字符串记录日期和时间信息。格式为 YYYY:MM:DD.
+获取或设置字符串记录相对于UTC（协调世界时）的日期和时间信息。格式为 YYYY:MM:DD.
 
 ```csharp
 public string DateStamp { get; set; }
@@ -16,7 +16,7 @@ public string DateStamp { get; set; }
 
 ### 适当的价值
 
-记录相对于 UTC（协调世界时）的日期和时间信息的字符串。格式为 YYYY:MM:DD.
+记录相对于UTC（Coordinated Universal Time）的日期和时间信息的字符串。格式为 YYYY:MM:DD.
 
 ### 也可以看看
 

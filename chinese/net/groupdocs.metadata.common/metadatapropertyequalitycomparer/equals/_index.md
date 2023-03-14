@@ -17,7 +17,7 @@ public bool Equals(MetadataProperty x, MetadataProperty y)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | x | MetadataProperty | 类型的第一个对象[`MetadataProperty`](../../metadataproperty)比较。 |
-| y | MetadataProperty | 类型的第二个对象[`MetadataProperty`](../../metadataproperty)比较。 |
+| y | MetadataProperty | 第二个对象类型[`MetadataProperty`](../../metadataproperty)比较。 |
 
 ### 返回值
 

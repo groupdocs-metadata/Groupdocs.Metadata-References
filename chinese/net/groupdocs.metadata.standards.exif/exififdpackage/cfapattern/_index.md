@@ -1,14 +1,14 @@
 ---
 title: CfaPattern
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置使用单片彩色区域传感器时图像传感器的彩色滤光片阵列CFA几何图案
+description: 获取或设置使用单芯片彩色区域传感器时图像传感器的滤色器阵列 CFA 几何图案
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.standards.exif/exififdpackage/cfapattern/
 ---
 ## ExifIfdPackage.CfaPattern property
 
-获取或设置使用单片彩色区域传感器时图像传感器的彩色滤光片阵列（CFA）几何图案。
+获取或设置使用单芯片彩色区域传感器时图像传感器的滤色器阵列 (CFA) 几何图案。
 
 ```csharp
 public byte[] CfaPattern { get; set; }
@@ -16,7 +16,7 @@ public byte[] CfaPattern { get; set; }
 
 ### 适当的价值
 
-使用单芯片彩色区域传感器时图像传感器的彩色滤光片阵列 (CFA) 几何图案。
+使用单芯片彩色区域传感器时图像传感器的滤色器阵列 (CFA) 几何图案。
 
 ### 也可以看看
 

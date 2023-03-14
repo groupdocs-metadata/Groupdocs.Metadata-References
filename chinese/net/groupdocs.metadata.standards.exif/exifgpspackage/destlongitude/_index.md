@@ -1,14 +1,14 @@
 ---
 title: DestLongitude
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置目标点的GPS经度
+description: 获取或设置目的地点的GPS经度
 type: docs
 weight: 130
 url: /zh/net/groupdocs.metadata.standards.exif/exifgpspackage/destlongitude/
 ---
 ## ExifGpsPackage.DestLongitude property
 
-获取或设置目标点的GPS经度。
+获取或设置目的地点的GPS经度。
 
 ```csharp
 public TiffRational[] DestLongitude { get; set; }

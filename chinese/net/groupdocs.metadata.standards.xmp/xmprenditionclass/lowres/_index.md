@@ -1,14 +1,14 @@
 ---
 title: LowRes
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 一个低分辨率全尺寸的替身
+description: 低分辨率全尺寸的替身
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.standards.xmp/xmprenditionclass/lowres/
 ---
 ## XmpRenditionClass.LowRes field
 
-一个低分辨率、全尺寸的替身。
+低分辨率、全尺寸的替身。
 
 ```csharp
 public const string LowRes;

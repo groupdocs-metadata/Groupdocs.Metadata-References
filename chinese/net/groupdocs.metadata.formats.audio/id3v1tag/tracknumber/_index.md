@@ -1,14 +1,14 @@
 ---
 title: TrackNumber
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置轨道号仅在 ID3v1.1 标记中呈现
+description: 获取或设置轨道号仅在 ID3v1.1 标签中呈现
 type: docs
 weight: 70
 url: /zh/net/groupdocs.metadata.formats.audio/id3v1tag/tracknumber/
 ---
 ## ID3V1Tag.TrackNumber property
 
-获取或设置轨道号。仅在 ID3v1.1 标记中呈现。
+获取或设置轨道号。仅在 ID3v1.1 标签中呈现。
 
 ```csharp
 public int? TrackNumber { get; set; }
@@ -20,7 +20,7 @@ public int? TrackNumber { get; set; }
 
 ### 评论
 
-如果值为`TrackNumber`是正整数，则 ID3 自动将版本更改为“ID3v1.1”。
+如果值`TrackNumber`是一个正整数，则 ID3 自动将版本更改为“ID3v1.1”。
 
 ### 也可以看看
 

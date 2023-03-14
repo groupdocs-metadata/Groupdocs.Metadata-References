@@ -20,14 +20,14 @@ public sealed class AsfContentDescriptor : AsfBaseDescriptor
 | --- | --- |
 | [AsfContentType](../../groupdocs.metadata.formats.video/asfbasedescriptor/asfcontenttype) { get; } | 获取内容的类型。 |
 | [Descriptor](../../groupdocs.metadata.common/metadataproperty/descriptor) { get; } | 获取与元数据属性关联的描述符。 |
-| [InterpretedValue](../../groupdocs.metadata.common/metadataproperty/interpretedvalue) { get; } | 获取解释的属性值（如果可用）。 解释的值是原始属性值的用户友好形式。 例如，它返回一个人类可读的字符串而不是数字标志和 ID， 如有必要，将字节数组转换为文本等。 |
+| [InterpretedValue](../../groupdocs.metadata.common/metadataproperty/interpretedvalue) { get; } | 获取已解释的属性值（如果可用）。 已解释的值是原始属性值的用户友好形式。 例如，它返回一个人类可读的字符串而不是数字标志和 id， 如有必要，将字节数组转换为文本等。 |
 | [Name](../../groupdocs.metadata.common/metadataproperty/name) { get; } | 获取属性名称。 |
 | [Tags](../../groupdocs.metadata.common/metadataproperty/tags) { get; } | 获取与属性关联的标签集合。 |
 | [Value](../../groupdocs.metadata.common/metadataproperty/value) { get; } | 获取属性值。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [使用 ASF 文件中的元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+Metadata+in+ASF+Files)
 

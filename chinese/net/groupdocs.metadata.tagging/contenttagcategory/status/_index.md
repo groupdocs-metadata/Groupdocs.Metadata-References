@@ -16,7 +16,7 @@ public PropertyTag Status { get; }
 
 ### 适当的价值
 
-表示文件状态的标签。
+表示文件状态的标记。
 
 ### 也可以看看
 

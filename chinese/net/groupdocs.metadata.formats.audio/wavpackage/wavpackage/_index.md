@@ -1,14 +1,14 @@
 ---
 title: WavPackage
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化WavPackagegroupdocs.metadata.formats.audio/wavpackage类.
+description: 初始化一个新的实例WavPackagegroupdocs.metadata.formats.audio/wavpackage类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.audio/wavpackage/wavpackage/
 ---
 ## WavPackage constructor
 
-初始化[`WavPackage`](../../wavpackage)类.
+初始化一个新的实例[`WavPackage`](../../wavpackage)类.
 
 ```csharp
 public WavPackage()

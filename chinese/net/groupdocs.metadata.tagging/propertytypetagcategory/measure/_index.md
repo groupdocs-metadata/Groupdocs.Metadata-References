@@ -1,14 +1,14 @@
 ---
 title: Measure
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取指示属性是内容的测量特征的标记 可以是文件大小页数页面大小等
+description: 获取指示作为内容的测量特征的属性的标记 可以是文件大小页数页面大小等
 type: docs
 weight: 80
 url: /zh/net/groupdocs.metadata.tagging/propertytypetagcategory/measure/
 ---
 ## PropertyTypeTagCategory.Measure property
 
-获取指示属性是内容的测量特征的标记。 可以是文件大小、页数、页面大小等
+获取指示作为内容的测量特征的属性的标记。 可以是文件大小、页数、页面大小等
 
 ```csharp
 public PropertyTag Measure { get; }
@@ -16,7 +16,7 @@ public PropertyTag Measure { get; }
 
 ### 适当的价值
 
-指示属性是内容的测量特征的标记。
+指示作为内容的测量特征的属性的标签。
 
 ### 也可以看看
 

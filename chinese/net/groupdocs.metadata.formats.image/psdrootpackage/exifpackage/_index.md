@@ -20,13 +20,13 @@ EXIF 元数据包。
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [使用 EXIF 元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+EXIF+metadata)
 
 ### 例子
 
-此代码示例演示如何从 PSD 图像中提取基本的 EXIF 元数据属性。
+此代码示例演示了如何从 PSD 图像中提取基本的 EXIF 元数据属性。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.PsdWithExif))

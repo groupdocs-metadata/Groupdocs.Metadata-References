@@ -1,14 +1,14 @@
 ---
 title: ID3V2UrlLinkFrame
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化ID3V2UrlLinkFramegroupdocs.metadata.formats.audio/id3v2urllinkframe类.
+description: 初始化一个新的实例ID3V2UrlLinkFramegroupdocs.metadata.formats.audio/id3v2urllinkframe类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2urllinkframe/id3v2urllinkframe/
 ---
 ## ID3V2UrlLinkFrame constructor
 
-初始化[`ID3V2UrlLinkFrame`](../../id3v2urllinkframe)类.
+初始化一个新的实例[`ID3V2UrlLinkFrame`](../../id3v2urllinkframe)类.
 
 ```csharp
 public ID3V2UrlLinkFrame(string id, string url)
@@ -16,7 +16,7 @@ public ID3V2UrlLinkFrame(string id, string url)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| id | String | 框架标识。 |
+| id | String | 帧 ID。 |
 | url | String | 作为框架值的 URL。 |
 
 ### 也可以看看

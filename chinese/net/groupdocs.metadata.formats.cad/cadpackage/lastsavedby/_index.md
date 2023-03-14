@@ -1,14 +1,14 @@
 ---
 title: LastSavedBy
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取最后一个编辑器的名称
+description: 获取最后一个编辑者的名字
 type: docs
 weight: 90
 url: /zh/net/groupdocs.metadata.formats.cad/cadpackage/lastsavedby/
 ---
 ## CadPackage.LastSavedBy property
 
-获取最后一个编辑器的名称。
+获取最后一个编辑者的名字。
 
 ```csharp
 public string LastSavedBy { get; }
@@ -16,7 +16,7 @@ public string LastSavedBy { get; }
 
 ### 适当的价值
 
-最后一个编辑的名字。
+最后一位编辑的名字。
 
 ### 也可以看看
 

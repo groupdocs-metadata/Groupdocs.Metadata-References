@@ -1,14 +1,14 @@
 ---
 title: SpeedRef
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置用于表示 GPS 接收器运动速度的单位 K M 和 N 分别代表公里/小时英里/小时和节
+description: 获取或设置用于表示 GPS 接收器移动速度的单位 K M 和 N 表示千米每小时英里每小时和节
 type: docs
 weight: 280
 url: /zh/net/groupdocs.metadata.standards.exif/exifgpspackage/speedref/
 ---
 ## ExifGpsPackage.SpeedRef property
 
-获取或设置用于表示 GPS 接收器运动速度的单位。 'K' 'M' 和 'N' 分别代表公里/小时、英里/小时和节。
+获取或设置用于表示 GPS 接收器移动速度的单位。 'K' 'M' 和 'N' 表示千米每小时、英里每小时和节。
 
 ```csharp
 public string SpeedRef { get; set; }

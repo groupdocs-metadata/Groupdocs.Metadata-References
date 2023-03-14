@@ -1,14 +1,14 @@
 ---
 title: Length
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 以字节为单位获取文件的长度
+description: 获取文件的字节长度
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.peer2peer/torrentsharedfilepackage/length/
 ---
 ## TorrentSharedFilePackage.Length property
 
-以字节为单位获取文件的长度。
+获取文件的字节长度。
 
 ```csharp
 public long Length { get; }

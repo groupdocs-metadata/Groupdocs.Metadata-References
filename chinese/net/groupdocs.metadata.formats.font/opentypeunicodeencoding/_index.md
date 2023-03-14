@@ -1,14 +1,14 @@
 ---
 title: OpenTypeUnicodeEncoding
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示编码Unicode平台.
+description: 代表编码为Unicode平台.
 type: docs
 weight: 1570
 url: /zh/net/groupdocs.metadata.formats.font/opentypeunicodeencoding/
 ---
 ## OpenTypeUnicodeEncoding enumeration
 
-表示编码Unicode平台.
+代表编码为Unicode平台.
 
 ```csharp
 public enum OpenTypeUnicodeEncoding : ushort
@@ -21,8 +21,8 @@ public enum OpenTypeUnicodeEncoding : ushort
 | Unicode10 | `0` | Unicode 1.0 语义。 |
 | Unicode11 | `1` | Unicode 1.1 语义。 |
 | Iso | `2` | ISO/IEC 10646 语义。 |
-| Unicode20Bmp | `3` | Unicode 2.0 及更高版本的语义，仅限 Unicode BMP（'cmap' 子表格式 0、4、6）。 |
-| Unicode20Full | `4` | Unicode 2.0 及更高版本的语义，Unicode 完整曲目（'cmap' 子表格式 0、4、6、10、12）。 |
+| Unicode20Bmp | `3` | Unicode 2.0 及以后的语义，仅限 Unicode BMP（'cmap' 子表格式 0、4、6）。 |
+| Unicode20Full | `4` | Unicode 2.0 及以后的语义，Unicode 完整曲目（'cmap' 子表格式 0、4、6、10、12）。 |
 | UnicodeVariation | `5` | Unicode 变体序列（'cmap' 子表格式 14）. |
 | UnicodeFull | `6` | Unicode 完整曲目（'cmap' 子表格式 0、4、6、10、12、13）。 |
 

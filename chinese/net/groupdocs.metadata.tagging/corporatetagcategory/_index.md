@@ -18,14 +18,14 @@ public class CorporateTagCategory : TagCategory
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Company](../../groupdocs.metadata.tagging/corporatetagcategory/company) { get; } | 获取标记属性的标记，该属性包含有关有助于文件创建的公司的信息。 或者，标签可以引用文件内容所在的公司。 |
-| [Manager](../../groupdocs.metadata.tagging/corporatetagcategory/manager) { get; } | 获取标记有关管理文件制作过程的人员的信息的标签。 |
+| [Company](../../groupdocs.metadata.tagging/corporatetagcategory/company) { get; } | 获取标记属性的标签，该属性包含有关参与文件创建的公司的信息。 或者，标签可以引用文件内容所涉及的公司。 |
+| [Manager](../../groupdocs.metadata.tagging/corporatetagcategory/manager) { get; } | 获取标记有关管理文件制作过程的人员信息的标签。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [ToString](../../groupdocs.metadata.tagging/tagcategory/tostring)() | 返回代表当前对象的字符串。 |
+| override [ToString](../../groupdocs.metadata.tagging/tagcategory/tostring)() | 返回表示当前对象的字符串。 |
 
 ### 也可以看看
 

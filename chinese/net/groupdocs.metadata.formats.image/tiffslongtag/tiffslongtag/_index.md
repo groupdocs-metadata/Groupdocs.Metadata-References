@@ -1,14 +1,14 @@
 ---
 title: TiffSLongTag
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化TiffSLongTaggroupdocs.metadata.formats.image/tiffslongtag类.
+description: 初始化一个新的实例TiffSLongTaggroupdocs.metadata.formats.image/tiffslongtag类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.image/tiffslongtag/tiffslongtag/
 ---
 ## TiffSLongTag constructor
 
-初始化[`TiffSLongTag`](../../tiffslongtag)类.
+初始化一个新的实例[`TiffSLongTag`](../../tiffslongtag)类.
 
 ```csharp
 public TiffSLongTag(TiffTagID tagID, int[] value)
@@ -16,7 +16,7 @@ public TiffSLongTag(TiffTagID tagID, int[] value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| tagID | TiffTagID | 标签标识符。 |
+| tagID | TiffTagID | 标记标识符。 |
 | value | Int32[] | 价值。 |
 
 ### 也可以看看

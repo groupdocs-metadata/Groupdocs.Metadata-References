@@ -1,14 +1,14 @@
 ---
 title: CaptionWriter
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置作者/编辑器
+description: 获取或设置编写器/编辑器
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpphotoshoppackage/captionwriter/
 ---
 ## XmpPhotoshopPackage.CaptionWriter property
 
-获取或设置作者/编辑器。
+获取或设置编写器/编辑器。
 
 ```csharp
 public string CaptionWriter { get; set; }
@@ -16,7 +16,7 @@ public string CaptionWriter { get; set; }
 
 ### 适当的价值
 
-字幕作者。
+字幕作者.
 
 ### 也可以看看
 

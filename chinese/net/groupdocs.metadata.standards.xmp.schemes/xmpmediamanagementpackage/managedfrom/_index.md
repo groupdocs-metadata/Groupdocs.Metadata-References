@@ -1,14 +1,14 @@
 ---
 title: ManagedFrom
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置对文档的引用就像它在成为托管之前一样
+description: 获取或设置对文档的引用因为它在成为托管之前
 type: docs
 weight: 70
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpmediamanagementpackage/managedfrom/
 ---
 ## XmpMediaManagementPackage.ManagedFrom property
 
-获取或设置对文档的引用，就像它在成为托管之前一样。
+获取或设置对文档的引用，因为它在成为托管之前。
 
 ```csharp
 public XmpResourceRef ManagedFrom { get; set; }
@@ -16,7 +16,7 @@ public XmpResourceRef ManagedFrom { get; set; }
 
 ### 适当的价值
 
-在被管理之前对文档的引用。
+对文档的引用，因为它在成为托管之前。
 
 ### 也可以看看
 

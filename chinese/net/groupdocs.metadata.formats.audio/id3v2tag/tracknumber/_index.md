@@ -1,14 +1,14 @@
 ---
 title: TrackNumber
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置一个数字字符串其中包含音频文件在其原始录音中的顺序号 此值由 TRCK 帧表示
+description: 获取或设置一个数字字符串其中包含原始录音中音频文件的顺序号 此值由 TRCK 帧表示
 type: docs
 weight: 240
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2tag/tracknumber/
 ---
 ## ID3V2Tag.TrackNumber property
 
-获取或设置一个数字字符串，其中包含音频文件在其原始录音中的顺序号。 此值由 TRCK 帧表示。
+获取或设置一个数字字符串，其中包含原始录音中音频文件的顺序号。 此值由 TRCK 帧表示。
 
 ```csharp
 public string TrackNumber { get; set; }
@@ -16,7 +16,7 @@ public string TrackNumber { get; set; }
 
 ### 适当的价值
 
-一个数字字符串，包含音频文件在其原始录音中的订单号
+包含音频文件在其原始录音上的顺序号的数字字符串
 
 ### 也可以看看
 

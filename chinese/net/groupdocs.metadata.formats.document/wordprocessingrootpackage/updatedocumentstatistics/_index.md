@@ -1,14 +1,14 @@
 ---
 title: UpdateDocumentStatistics
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 重新计算文档中的页数段落数单词数行数字符数并更新相应的元数据包
+description: 重新计算文档中的页数段落单词行字符数并更新相应的元数据包
 type: docs
 weight: 50
 url: /zh/net/groupdocs.metadata.formats.document/wordprocessingrootpackage/updatedocumentstatistics/
 ---
 ## WordProcessingRootPackage.UpdateDocumentStatistics method
 
-重新计算文档中的页数、段落数、单词数、行数、字符数并更新相应的元数据包。
+重新计算文档中的页数、段落、单词、行、字符数并更新相应的元数据包。
 
 ```csharp
 public void UpdateDocumentStatistics()
@@ -16,13 +16,13 @@ public void UpdateDocumentStatistics()
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* [在文字处理文档中使用元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+WordProcessing+documents)
+* [在 WordProcessing 文档中处理元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+WordProcessing+documents)
 
 ### 例子
 
-此代码示例演示如何更新 WordProcessing 文档的文档统计信息。
+此代码示例演示了如何更新 WordProcessing 文档的文档统计信息。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.InputDoc))

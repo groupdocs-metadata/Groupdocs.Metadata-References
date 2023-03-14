@@ -20,7 +20,7 @@ public string[] OrganizationNames { get; }
 
 ### 评论
 
-这个属性是一个简化版[`OrganizationNameRecords`](../organizationnamerecords).
+此属性是[`OrganizationNameRecords`](../organizationnamerecords).
 
 ### 也可以看看
 

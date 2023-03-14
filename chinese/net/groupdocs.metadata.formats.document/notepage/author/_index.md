@@ -16,7 +16,7 @@ public string Author { get; }
 
 ### 适当的价值
 
-页面作者.
+页面作者。
 
 ### 也可以看看
 

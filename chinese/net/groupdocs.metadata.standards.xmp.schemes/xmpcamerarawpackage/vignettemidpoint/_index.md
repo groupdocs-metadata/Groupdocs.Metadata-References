@@ -16,7 +16,7 @@ public int? VignetteMidpoint { get; set; }
 
 ### 适当的价值
 
-小插图中点。
+晕影中点.
 
 ### 也可以看看
 

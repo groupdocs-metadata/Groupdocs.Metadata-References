@@ -21,7 +21,7 @@ public static bool operator !=(TiffRational left, TiffRational right)
 
 ### 返回值
 
-如果对象不相等，则为真；否则为假。
+如果对象不相等则为真；否则，假的。
 
 ### 也可以看看
 

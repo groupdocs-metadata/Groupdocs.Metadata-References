@@ -1,14 +1,14 @@
 ---
 title: Identifier
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置对给定上下文中资源的明确引用
+description: 获取或设置给定上下文中对资源的明确引用
 type: docs
 weight: 260
 url: /zh/net/groupdocs.metadata.formats.ebook/epubpackage/identifier/
 ---
 ## EpubPackage.Identifier property
 
-获取或设置对给定上下文中资源的明确引用。
+获取或设置给定上下文中对资源的明确引用。
 
 ```csharp
 public string Identifier { get; set; }
@@ -16,7 +16,7 @@ public string Identifier { get; set; }
 
 ### 适当的价值
 
-在给定上下文中对资源的明确引用。
+给定上下文中对资源的明确引用。
 
 ### 也可以看看
 

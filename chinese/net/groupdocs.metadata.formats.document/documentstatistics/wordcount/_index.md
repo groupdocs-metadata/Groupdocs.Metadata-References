@@ -1,14 +1,14 @@
 ---
 title: WordCount
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取文档中的估计字数
+description: 获取文档中估计的单词数
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.formats.document/documentstatistics/wordcount/
 ---
 ## DocumentStatistics.WordCount property
 
-获取文档中的估计字数。
+获取文档中估计的单词数。
 
 ```csharp
 public int WordCount { get; }

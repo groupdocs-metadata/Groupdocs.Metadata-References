@@ -18,7 +18,7 @@ public sealed class LyricsField : MetadataProperty
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LyricsField](lyricsfield)(string, string) | 初始化[`LyricsField`](../lyricsfield)类. |
+| [LyricsField](lyricsfield)(string, string) | 初始化一个新的实例[`LyricsField`](../lyricsfield)类. |
 
 ## 特性
 
@@ -26,16 +26,16 @@ public sealed class LyricsField : MetadataProperty
 | --- | --- |
 | [Data](../../groupdocs.metadata.formats.audio/lyricsfield/data) { get; } | 获取字段数据。 |
 | [Descriptor](../../groupdocs.metadata.common/metadataproperty/descriptor) { get; } | 获取与元数据属性关联的描述符。 |
-| [ID](../../groupdocs.metadata.formats.audio/lyricsfield/id) { get; } | 获取字段的id（总是三个字符长）。 |
-| [InterpretedValue](../../groupdocs.metadata.common/metadataproperty/interpretedvalue) { get; } | 获取解释的属性值（如果可用）。 解释的值是原始属性值的用户友好形式。 例如，它返回一个人类可读的字符串而不是数字标志和 ID， 如有必要，将字节数组转换为文本等。 |
+| [ID](../../groupdocs.metadata.formats.audio/lyricsfield/id) { get; } | 获取字段的 id（它总是三个字符长）。 |
+| [InterpretedValue](../../groupdocs.metadata.common/metadataproperty/interpretedvalue) { get; } | 获取已解释的属性值（如果可用）。 已解释的值是原始属性值的用户友好形式。 例如，它返回一个人类可读的字符串而不是数字标志和 id， 如有必要，将字节数组转换为文本等。 |
 | [Name](../../groupdocs.metadata.common/metadataproperty/name) { get; } | 获取属性名称。 |
-| [Size](../../groupdocs.metadata.formats.audio/lyricsfield/size) { get; } | 获取字段大小的字符串表示形式。 |
+| [Size](../../groupdocs.metadata.formats.audio/lyricsfield/size) { get; } | 获取字段大小的字符串表示。 |
 | [Tags](../../groupdocs.metadata.common/metadataproperty/tags) { get; } | 获取与属性关联的标签集合。 |
 | [Value](../../groupdocs.metadata.common/metadataproperty/value) { get; } | 获取属性值。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [处理歌词标签](https://docs.groupdocs.com/display/metadatanet/Handling+the+Lyrics+tag)
 

@@ -1,14 +1,14 @@
 ---
 title: FileDataRate
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置文件数据速率以兆字节每秒为单位
+description: 获取或设置以兆字节/秒为单位的文件数据速率
 type: docs
 weight: 220
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/filedatarate/
 ---
 ## XmpDynamicMediaPackage.FileDataRate property
 
-获取或设置文件数据速率，以兆字节每秒为单位。
+获取或设置以兆字节/秒为单位的文件数据速率。
 
 ```csharp
 public XmpRational FileDataRate { get; set; }
@@ -16,7 +16,7 @@ public XmpRational FileDataRate { get; set; }
 
 ### 适当的价值
 
-以兆字节每秒为单位的文件数据速率。例如：“36/10”= 3.6 MB/秒.
+以每秒兆字节为单位的文件数据速率。例如：“36/10”= 3.6 MB/sec.
 
 ### 也可以看看
 

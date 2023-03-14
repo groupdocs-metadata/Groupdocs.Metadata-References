@@ -18,14 +18,14 @@ public class OriginTagCategory : TagCategory
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Source](../../groupdocs.metadata.tagging/origintagcategory/source) { get; } | 获取标记对导出文件内容的资源的引用的标记。 |
+| [Source](../../groupdocs.metadata.tagging/origintagcategory/source) { get; } | 获取标记对资源的引用的标记，文件内容源自该资源。 |
 | [Template](../../groupdocs.metadata.tagging/origintagcategory/template) { get; } | 获取表示创建文件的模板的标记。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [ToString](../../groupdocs.metadata.tagging/tagcategory/tostring)() | 返回代表当前对象的字符串。 |
+| override [ToString](../../groupdocs.metadata.tagging/tagcategory/tostring)() | 返回表示当前对象的字符串。 |
 
 ### 也可以看看
 

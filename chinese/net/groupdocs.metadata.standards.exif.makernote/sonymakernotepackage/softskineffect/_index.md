@@ -1,14 +1,14 @@
 ---
 title: SoftSkinEffect
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取柔肤效果
+description: 获取软化皮肤效果
 type: docs
 weight: 220
 url: /zh/net/groupdocs.metadata.standards.exif.makernote/sonymakernotepackage/softskineffect/
 ---
 ## SonyMakerNotePackage.SoftSkinEffect property
 
-获取柔肤效果。
+获取软化皮肤效果。
 
 ```csharp
 public uint? SoftSkinEffect { get; }
@@ -16,7 +16,7 @@ public uint? SoftSkinEffect { get; }
 
 ### 适当的价值
 
-柔肤效果。
+软化皮肤效果。
 
 ### 也可以看看
 

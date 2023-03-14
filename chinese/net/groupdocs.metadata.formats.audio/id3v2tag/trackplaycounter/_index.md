@@ -1,14 +1,14 @@
 ---
 title: TrackPlayCounter
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取文件已播放的次数 这个值由PCNT帧表示
+description: 获取文件已播放的次数 该值由PCNT帧表示
 type: docs
 weight: 250
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2tag/trackplaycounter/
 ---
 ## ID3V2Tag.TrackPlayCounter property
 
-获取文件已播放的次数。 这个值由PCNT帧表示。
+获取文件已播放的次数。 该值由PCNT帧表示。
 
 ```csharp
 public ulong? TrackPlayCounter { get; }
@@ -16,7 +16,7 @@ public ulong? TrackPlayCounter { get; }
 
 ### 适当的价值
 
-播放文件的次数。
+一个文件被播放的次数。
 
 ### 也可以看看
 

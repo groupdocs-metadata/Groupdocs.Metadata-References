@@ -16,7 +16,7 @@ public string Country { get; set; }
 
 ### 适当的价值
 
-国家。
+国家.
 
 ### 也可以看看
 

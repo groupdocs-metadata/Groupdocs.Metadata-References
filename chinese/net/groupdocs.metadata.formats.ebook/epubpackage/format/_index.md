@@ -1,14 +1,14 @@
 ---
 title: Format
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置资源的文件格式物理介质或维度
+description: 获取或设置资源的文件格式物理介质或尺寸
 type: docs
 weight: 220
 url: /zh/net/groupdocs.metadata.formats.ebook/epubpackage/format/
 ---
 ## EpubPackage.Format property
 
-获取或设置资源的文件格式、物理介质或维度。
+获取或设置资源的文件格式、物理介质或尺寸。
 
 ```csharp
 public string Format { get; set; }

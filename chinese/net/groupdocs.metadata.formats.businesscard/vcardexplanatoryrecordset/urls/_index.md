@@ -1,14 +1,14 @@
 ---
 title: Urls
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取指向以某种方式代表该人的网站的 URL 数组
+description: 获取指向以某种方式代表人物的网站的 URL 数组
 type: docs
 weight: 190
 url: /zh/net/groupdocs.metadata.formats.businesscard/vcardexplanatoryrecordset/urls/
 ---
 ## VCardExplanatoryRecordset.Urls property
 
-获取指向以某种方式代表该人的网站的 URL 数组。
+获取指向以某种方式代表人物的网站的 URL 数组。
 
 ```csharp
 public string[] Urls { get; }
@@ -16,11 +16,11 @@ public string[] Urls { get; }
 
 ### 适当的价值
 
-指向以某种方式代表该人的网站的 URL 数组。
+指向以某种方式代表人物的网站的 URL 数组。
 
 ### 评论
 
-这个属性是一个简化版[`UrlRecords`](../urlrecords).
+此属性是[`UrlRecords`](../urlrecords).
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Initials
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置作者姓名缩写
+description: 获取或设置作者姓名首字母
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.formats.document/wordprocessingcomment/initials/
 ---
 ## WordProcessingComment.Initials property
 
-获取或设置作者姓名缩写。
+获取或设置作者姓名首字母。
 
 ```csharp
 public string Initials { get; set; }
@@ -16,7 +16,7 @@ public string Initials { get; set; }
 
 ### 适当的价值
 
-作者姓名缩写
+作者姓名首字母。
 
 ### 也可以看看
 

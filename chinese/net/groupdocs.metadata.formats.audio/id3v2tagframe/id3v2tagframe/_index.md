@@ -1,14 +1,14 @@
 ---
 title: ID3V2TagFrame
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化ID3V2TagFramegroupdocs.metadata.formats.audio/id3v2tagframe类.
+description: 初始化一个新的实例ID3V2TagFramegroupdocs.metadata.formats.audio/id3v2tagframe类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2tagframe/id3v2tagframe/
 ---
 ## ID3V2TagFrame constructor
 
-初始化[`ID3V2TagFrame`](../../id3v2tagframe)类.
+初始化一个新的实例[`ID3V2TagFrame`](../../id3v2tagframe)类.
 
 ```csharp
 public ID3V2TagFrame(string frameId, byte[] data)
@@ -16,7 +16,7 @@ public ID3V2TagFrame(string frameId, byte[] data)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| frameId | String | 框架的 id（与模式 [A-Z0-9] 匹配的四个字符）。 |
+| frameId | String | 框架的 ID（四个字符匹配模式 [A-Z0-9]）。 |
 | data | Byte[] | 框架的内容。 |
 
 ### 也可以看看

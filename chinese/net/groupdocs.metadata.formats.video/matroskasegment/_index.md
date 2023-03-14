@@ -1,14 +1,14 @@
 ---
 title: MatroskaSegment
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示 SEGMENTINFO 元素其中包含有关 Matroska 视频中 SEGMENT 的一般信息
+description: 表示一个 SEGMENTINFO 元素其中包含有关 Matroska 视频中的 SEGMENT 的一般信息
 type: docs
 weight: 2490
 url: /zh/net/groupdocs.metadata.formats.video/matroskasegment/
 ---
 ## MatroskaSegment class
 
-表示 SEGMENTINFO 元素，其中包含有关 Matroska 视频中 SEGMENT 的一般信息。
+表示一个 SEGMENTINFO 元素，其中包含有关 Matroska 视频中的 SEGMENT 的一般信息。
 
 ```csharp
 public class MatroskaSegment : MatroskaBasePackage
@@ -19,19 +19,19 @@ public class MatroskaSegment : MatroskaBasePackage
 | 姓名 | 描述 |
 | --- | --- |
 | [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | 获取元数据属性的数量。 |
-| [DateUtc](../../groupdocs.metadata.formats.video/matroskasegment/dateutc) { get; } | 获取多路复用应用程序或库创建 Segment 的日期和时间。 |
-| [Duration](../../groupdocs.metadata.formats.video/matroskasegment/duration) { get; } | 获取 SEGMENT 的持续时间。 请看[`TimecodeScale`](./timecodescale)了解更多信息。 |
-| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定的名称。 |
+| [DateUtc](../../groupdocs.metadata.formats.video/matroskasegment/dateutc) { get; } | 获取由 muxing 应用程序或库创建段的日期和时间。 |
+| [Duration](../../groupdocs.metadata.formats.video/matroskasegment/duration) { get; } | 获取 SEGMENT 的持续时间。 请参阅[`TimecodeScale`](./timecodescale)了解更多信息。 |
+| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定名称. |
 | [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | 获取元数据属性名称的集合。 |
 | [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | 获取元数据类型。 |
-| [MuxingApp](../../groupdocs.metadata.formats.video/matroskasegment/muxingapp) { get; } | 获取应用程序或库的全名，后跟版本号。 |
+| [MuxingApp](../../groupdocs.metadata.formats.video/matroskasegment/muxingapp) { get; } | 获取后跟版本号的应用程序或库的全名。 |
 | [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | 获取描述符集合，其中包含有关可通过 GroupDocs.Metadata 搜索引擎访问的属性的信息。 |
 | [ScaledDuration](../../groupdocs.metadata.formats.video/matroskasegment/scaledduration) { get; } | 获取 SEGMENT 的缩放持续时间。 |
-| [SegmentFilename](../../groupdocs.metadata.formats.video/matroskasegment/segmentfilename) { get; } | 获取此 Segment 对应的文件名。 |
-| [SegmentUid](../../groupdocs.metadata.formats.video/matroskasegment/segmentuid) { get; } | 获取标识 SEGMENT 的唯一 128 位编号。 显然，如果存在 SEGMENTUID，则文件只能由另一个文件引用，但是，如果没有该 UID，则可以播放。 |
-| [TimecodeScale](../../groupdocs.metadata.formats.video/matroskasegment/timecodescale) { get; } | 获取时间码刻度值。 MATROSKA 文件中的每个缩放时间码乘以 TIMECODESCALE 以获得以纳秒为单位的时间码。请注意，并非所有时间码都被缩放！ |
+| [SegmentFilename](../../groupdocs.metadata.formats.video/matroskasegment/segmentfilename) { get; } | 获取该Segment对应的文件名。 |
+| [SegmentUid](../../groupdocs.metadata.formats.video/matroskasegment/segmentuid) { get; } | 获取标识 SEGMENT 的唯一 128 位编号。 显然，如果存在 SEGMENTUID，则一个文件只能被另一个文件引用，但是，没有该 UID 也可以播放。 |
+| [TimecodeScale](../../groupdocs.metadata.formats.video/matroskasegment/timecodescale) { get; } | 获取时间码比例值。 MATROSKA 文件中的每个缩放时间码都乘以 TIMECODESCALE 以获得以纳秒为单位的时间码。请注意，并非所有时间码都按比例缩放！ |
 | [Title](../../groupdocs.metadata.formats.video/matroskasegment/title) { get; } | 获取 Segment 的通用名称。 |
-| [WritingApp](../../groupdocs.metadata.formats.video/matroskasegment/writingapp) { get; } | 获取应用程序的全名，后跟版本号。 |
+| [WritingApp](../../groupdocs.metadata.formats.video/matroskasegment/writingapp) { get; } | 获取应用程序的全名后跟版本号。 |
 
 ## 方法
 
@@ -43,12 +43,12 @@ public class MatroskaSegment : MatroskaBasePackage
 | [GetEnumerator](../../groupdocs.metadata.common/metadatapackage/getenumerator)() | 返回一个遍历集合的枚举器。 |
 | virtual [RemoveProperties](../../groupdocs.metadata.common/metadatapackage/removeproperties)(Func&lt;MetadataProperty, bool&gt;) | 删除满足指定谓词的元数据属性。 |
 | virtual [Sanitize](../../groupdocs.metadata.common/metadatapackage/sanitize)() | 从包中删除可写元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
-| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
+| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是以下方法的组合[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
 | [UpdateProperties](../../groupdocs.metadata.common/metadatapackage/updateproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 更新满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [使用 Matroska (MKV) 文件中的元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+Matroska+%28MKV%29+files)
 

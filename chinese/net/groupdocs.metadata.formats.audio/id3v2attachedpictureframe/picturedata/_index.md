@@ -8,7 +8,7 @@ url: /zh/net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe/pictured
 ---
 ## ID3V2AttachedPictureFrame.PictureData property
 
-获取图片数据
+获取图片数据。
 
 ```csharp
 public byte[] PictureData { get; }

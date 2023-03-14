@@ -18,7 +18,7 @@ public sealed class MetadataValidationException : GroupDocsMetadataException
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Errors](../../groupdocs.metadata.exceptions/metadatavalidationexception/errors) { get; } | 获取上次保存元数据期间遇到的验证错误数组。 |
+| [Errors](../../groupdocs.metadata.exceptions/metadatavalidationexception/errors) { get; } | 获取上次元数据保存期间遇到的验证错误数组。 |
 
 ## 方法
 

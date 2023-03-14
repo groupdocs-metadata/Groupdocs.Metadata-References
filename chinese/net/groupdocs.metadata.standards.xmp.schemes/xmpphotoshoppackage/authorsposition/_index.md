@@ -16,7 +16,7 @@ public string AuthorsPosition { get; set; }
 
 ### 适当的价值
 
-作者位置.
+作者立场。
 
 ### 也可以看看
 

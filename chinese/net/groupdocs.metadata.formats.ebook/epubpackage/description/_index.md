@@ -16,7 +16,7 @@ public string Description { get; set; }
 
 ### 适当的价值
 
-资源帐户。
+资源的帐户。
 
 ### 也可以看看
 

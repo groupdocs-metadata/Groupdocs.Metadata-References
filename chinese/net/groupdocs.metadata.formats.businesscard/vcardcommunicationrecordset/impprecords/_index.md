@@ -1,14 +1,14 @@
 ---
 title: ImppRecords
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取与对象进行即时消息传递和状态协议通信的 URI
+description: 获取用于与对象进行即时消息和状态协议通信的 URI
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.formats.businesscard/vcardcommunicationrecordset/impprecords/
 ---
 ## VCardCommunicationRecordset.ImppRecords property
 
-获取与对象进行即时消息传递和状态协议通信的 URI。
+获取用于与对象进行即时消息和状态协议通信的 URI。
 
 ```csharp
 public VCardTextRecord[] ImppRecords { get; }
@@ -16,7 +16,7 @@ public VCardTextRecord[] ImppRecords { get; }
 
 ### 适当的价值
 
-用于与对象进行即时消息传递和存在协议通信的 URI。
+用于与对象进行即时消息和状态协议通信的 URI。
 
 ### 也可以看看
 

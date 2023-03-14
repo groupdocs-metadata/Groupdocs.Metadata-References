@@ -1,14 +1,14 @@
 ---
 title: XmpRational
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpRationalgroupdocs.metadata.standards.xmp/xmprational类.
+description: 初始化一个新的实例XmpRationalgroupdocs.metadata.standards.xmp/xmprational类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp/xmprational/xmprational/
 ---
 ## XmpRational(long, long) {#constructor}
 
-初始化[`XmpRational`](../../xmprational)类.
+初始化一个新的实例[`XmpRational`](../../xmprational)类.
 
 ```csharp
 public XmpRational(long numerator, long denominator)
@@ -29,7 +29,7 @@ public XmpRational(long numerator, long denominator)
 
 ## XmpRational(string) {#constructor_1}
 
-初始化[`XmpBoolean`](../../xmpboolean)类.
+初始化一个新的实例[`XmpBoolean`](../../xmpboolean)类.
 
 ```csharp
 public XmpRational(string value)

@@ -1,14 +1,14 @@
 ---
 title: Thumbnails
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置文件的缩略图数组其大小或图像编码等特征可能不同
+description: 获取或设置文件的缩略图数组这些缩略图在大小或图像编码等特性上可能不同
 type: docs
 weight: 110
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpbasicpackage/thumbnails/
 ---
 ## XmpBasicPackage.Thumbnails property
 
-获取或设置文件的缩略图数组，其大小或图像编码等特征可能不同。
+获取或设置文件的缩略图数组，这些缩略图在大小或图像编码等特性上可能不同。
 
 ```csharp
 public XmpThumbnail[] Thumbnails { get; set; }

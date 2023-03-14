@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 比较一对TiffSRationalgroupdocs.metadata.formats.image/tiffsrational.
+description: 比较对TiffSRationalgroupdocs.metadata.formats.image/tiffsrational.
 type: docs
 weight: 70
 url: /zh/net/groupdocs.metadata.formats.image/tiffsrational/equals/
 ---
 ## Equals(TiffSRational, TiffSRational)
 
-比较一对[`TiffSRational`](../../tiffsrational).
+比较对[`TiffSRational`](../../tiffsrational).
 
 ```csharp
 public static bool Equals(TiffSRational rational, TiffSRational other)
@@ -16,7 +16,7 @@ public static bool Equals(TiffSRational rational, TiffSRational other)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| rational | TiffSRational | 比较项目。 |
+| rational | TiffSRational | 比较项。 |
 | other | TiffSRational | 其他项目。 |
 
 ### 返回值
@@ -33,7 +33,7 @@ public static bool Equals(TiffSRational rational, TiffSRational other)
 
 ## Equals(TiffSRational) {#equals}
 
-表示当前对象是否等于另一个同类型的对象。
+表示当前对象是否等于另一个相同类型的对象。
 
 ```csharp
 public bool Equals(TiffSRational other)
@@ -57,7 +57,7 @@ public bool Equals(TiffSRational other)
 
 ## Equals(object) {#equals_1}
 
-表示当前对象是否等于另一个同类型的对象。
+表示当前对象是否等于另一个相同类型的对象。
 
 ```csharp
 public override bool Equals(object obj)

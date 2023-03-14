@@ -1,14 +1,14 @@
 ---
 title: AltTapeName
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置替代磁带名称通过 Premiere 中的项目窗口或时间码对话框设置
+description: 获取或设置备用磁带名称通过 Premiere 中的项目窗口或时间码对话框设置
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/alttapename/
 ---
 ## XmpDynamicMediaPackage.AltTapeName property
 
-获取或设置替代磁带名称，通过 Premiere 中的项目窗口或时间码对话框设置。
+获取或设置备用磁带名称，通过 Premiere 中的项目窗口或时间码对话框设置。
 
 ```csharp
 public string AltTapeName { get; set; }

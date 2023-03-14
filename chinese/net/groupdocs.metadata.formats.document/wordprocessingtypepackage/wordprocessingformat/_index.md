@@ -1,14 +1,14 @@
 ---
 title: WordProcessingFormat
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取准确的文字处理格式
+description: 获取准确的字处理格式
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.document/wordprocessingtypepackage/wordprocessingformat/
 ---
 ## WordProcessingTypePackage.WordProcessingFormat property
 
-获取准确的文字处理格式。
+获取准确的字处理格式。
 
 ```csharp
 public WordProcessingFormat WordProcessingFormat { get; }

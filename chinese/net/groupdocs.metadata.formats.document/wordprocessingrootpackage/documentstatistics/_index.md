@@ -20,13 +20,13 @@ public DocumentStatistics DocumentStatistics { get; }
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* [在文字处理文档中使用元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+WordProcessing+documents)
+* [在 WordProcessing 文档中处理元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+WordProcessing+documents)
 
 ### 例子
 
-此代码示例展示了如何获取 WordProcessing 文档的简单文本统计信息。
+此代码示例显示如何获取 WordProcessing 文档的简单文本统计信息。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.InputDocx))

@@ -16,7 +16,7 @@ public short RecordMode { get; }
 
 ### 适当的价值
 
-记录模式。
+记录模式.
 
 ### 也可以看看
 

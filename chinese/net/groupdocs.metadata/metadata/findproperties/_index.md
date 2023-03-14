@@ -16,27 +16,27 @@ public IEnumerable<MetadataProperty> FindProperties(Func<MetadataProperty, bool>
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| predicate | Func`2 | 用于测试每个元数据属性的条件的函数。 |
+| predicate | Func`2 | 用于测试条件的每个元数据属性的函数。 |
 
 ### 返回值
 
-一个IEnumerable包含满足条件的包中的属性。
+一个IEnumerable包含包中满足条件的属性。
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多演示此方法用法的示例： [提取元数据](https://docs.groupdocs.com/display/metadatanet/Extracting+metadata)
+* 更多示例演示此方法的用法： [提取元数据](https://docs.groupdocs.com/display/metadatanet/Extracting+metadata)
 
 ### 例子
 
-此示例演示如何使用标签搜索特定的元数据属性。
+此示例演示如何使用标签搜索特定元数据属性。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.InputPptx))
 {
-    // 获取满足谓词的所有属性：
-    // 属性包含最后一个文档编辑器的名称或文档最后修改的日期/时间
+    // 获取所有满足谓词的属性：
+    // 属性包含最后一个文档编辑者的名字或文档最后修改的日期/时间
     var properties = metadata.FindProperties(p => p.Tags.Contains(Tags.Person.Editor) || p.Tags.Contains(Tags.Time.Modified));
     foreach (var property in properties)
     {

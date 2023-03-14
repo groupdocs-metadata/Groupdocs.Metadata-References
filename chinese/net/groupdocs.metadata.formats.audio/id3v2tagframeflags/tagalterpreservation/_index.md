@@ -1,14 +1,14 @@
 ---
 title: TagAlterPreservation
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取一个标志该标志告诉软件如果该帧未知并且标签以任何方式更改该帧如何处理 这适用于各种更改 包括添加更多填充和重新排序帧
+description: 获取标志该标志告诉软件如何处理此帧如果它是未知的并且标签以任何方式被更改 这适用于所有类型的更改 包括添加更多填充和重新排序帧
 type: docs
 weight: 70
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2tagframeflags/tagalterpreservation/
 ---
 ## ID3V2TagFrameFlags.TagAlterPreservation property
 
-获取一个标志，该标志告诉软件如果该帧未知并且标签以任何方式更改，该帧如何处理。 这适用于各种更改， 包括添加更多填充和重新排序帧。
+获取标志，该标志告诉软件如何处理此帧，如果它是未知的并且标签以任何方式被更改。 这适用于所有类型的更改， 包括添加更多填充和重新排序帧。
 
 ```csharp
 public bool TagAlterPreservation { get; }
@@ -16,7 +16,7 @@ public bool TagAlterPreservation { get; }
 
 ### 适当的价值
 
-如果该帧未知并且标签以任何方式更改，则该标志告诉软件如何处理该帧。
+告诉软件如何处理这个框架的标志，如果它是未知的并且标签以任何方式被改变。
 
 ### 也可以看看
 

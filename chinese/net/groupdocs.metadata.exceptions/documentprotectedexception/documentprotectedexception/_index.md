@@ -1,14 +1,14 @@
 ---
 title: DocumentProtectedException
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化DocumentProtectedExceptiongroupdocs.metadata.exceptions/documentprotectedexception类.
+description: 初始化一个新的实例DocumentProtectedExceptiongroupdocs.metadata.exceptions/documentprotectedexception类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.exceptions/documentprotectedexception/documentprotectedexception/
 ---
 ## DocumentProtectedException constructor
 
-初始化[`DocumentProtectedException`](../../documentprotectedexception)类.
+初始化一个新的实例[`DocumentProtectedException`](../../documentprotectedexception)类.
 
 ```csharp
 public DocumentProtectedException()

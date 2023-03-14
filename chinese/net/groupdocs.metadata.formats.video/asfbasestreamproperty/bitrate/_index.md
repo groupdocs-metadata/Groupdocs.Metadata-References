@@ -1,14 +1,14 @@
 ---
 title: Bitrate
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取包含流的数据部分 且未溢出的漏桶的泄漏率 R以比特/秒为单位不包括所有 ASF 数据包开销
+description: 获取包含流的数据部分 且未溢出的泄漏桶的泄漏率 R以比特/秒为单位不包括所有 ASF 数据包开销
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.formats.video/asfbasestreamproperty/bitrate/
 ---
 ## AsfBaseStreamProperty.Bitrate property
 
-获取包含流的数据部分 且未溢出的漏桶的泄漏率 R，以比特/秒为单位，不包括所有 ASF 数据包开销。
+获取包含流的数据部分 且未溢出的泄漏桶的泄漏率 R（以比特/秒为单位），不包括所有 ASF 数据包开销。
 
 ```csharp
 public uint? Bitrate { get; }
@@ -16,7 +16,7 @@ public uint? Bitrate { get; }
 
 ### 适当的价值
 
-惨淡的速率 R，以比特/秒为单位。
+暗淡的速率 R，以比特每秒为单位。
 
 ### 也可以看看
 

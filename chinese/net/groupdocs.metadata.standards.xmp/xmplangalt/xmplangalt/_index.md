@@ -1,14 +1,14 @@
 ---
 title: XmpLangAlt
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpLangAltgroupdocs.metadata.standards.xmp/xmplangalt类.
+description: 初始化一个新的实例XmpLangAltgroupdocs.metadata.standards.xmp/xmplangalt类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp/xmplangalt/xmplangalt/
 ---
 ## XmpLangAlt(string) {#constructor_1}
 
-初始化[`XmpLangAlt`](../../xmplangalt)类.
+初始化一个新的实例[`XmpLangAlt`](../../xmplangalt)类.
 
 ```csharp
 public XmpLangAlt(string defaultValue)
@@ -28,7 +28,7 @@ public XmpLangAlt(string defaultValue)
 
 ## XmpLangAlt(IDictionary&lt;string, string&gt;) {#constructor}
 
-初始化[`XmpLangAlt`](../../xmplangalt)类.
+初始化一个新的实例[`XmpLangAlt`](../../xmplangalt)类.
 
 ```csharp
 public XmpLangAlt(IDictionary<string, string> dictionary)

@@ -1,14 +1,14 @@
 ---
 title: Revisions
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取文档中呈现的数字签名数组
+description: 获取文档中显示的数字签名数组
 type: docs
 weight: 50
 url: /zh/net/groupdocs.metadata.formats.document/wordprocessinginspectionpackage/revisions/
 ---
 ## WordProcessingInspectionPackage.Revisions property
 
-获取文档中呈现的数字签名数组。
+获取文档中显示的数字签名数组。
 
 ```csharp
 public WordProcessingRevision[] Revisions { get; }

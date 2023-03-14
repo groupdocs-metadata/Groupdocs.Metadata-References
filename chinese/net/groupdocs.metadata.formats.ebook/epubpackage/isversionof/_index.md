@@ -1,14 +1,14 @@
 ---
 title: IsVersionOf
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置相关资源所描述的资源为版本版次或改编版
+description: 获取或设置相关资源所描述的资源是其版本版本或改编
 type: docs
 weight: 350
 url: /zh/net/groupdocs.metadata.formats.ebook/epubpackage/isversionof/
 ---
 ## EpubPackage.IsVersionOf property
 
-获取或设置相关资源，所描述的资源为版本、版次或改编版。
+获取或设置相关资源，所描述的资源是其版本、版本或改编。
 
 ```csharp
 public string IsVersionOf { get; set; }
@@ -16,7 +16,7 @@ public string IsVersionOf { get; set; }
 
 ### 适当的价值
 
-相关资源，所描述的资源是版本、版本或改编。
+相关资源，所描述的资源是其版本、版本或改编。
 
 ### 也可以看看
 

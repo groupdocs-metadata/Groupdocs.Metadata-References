@@ -1,14 +1,14 @@
 ---
 title: StartTime
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取第一个对象的呈现时间指示此数字媒体流 在整个 ASF 文件的时间线上下文中从何处开始
+description: 获取第一个对象的呈现时间指示此数字媒体流 在整个 ASF 文件的时间线上下文中的开始位置
 type: docs
 weight: 80
 url: /zh/net/groupdocs.metadata.formats.video/asfbasestreamproperty/starttime/
 ---
 ## AsfBaseStreamProperty.StartTime property
 
-获取第一个对象的呈现时间，指示此数字媒体流 在整个 ASF 文件的时间线上下文中从何处开始。
+获取第一个对象的呈现时间，指示此数字媒体流 在整个 ASF 文件的时间线上下文中的开始位置。
 
 ```csharp
 public ulong? StartTime { get; }

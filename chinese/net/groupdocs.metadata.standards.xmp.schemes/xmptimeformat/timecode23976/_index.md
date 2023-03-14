@@ -16,7 +16,7 @@ public static XmpTimeFormat Timecode23976 { get; }
 
 ### 适当的价值
 
-23976时间码.
+23976 时间码.
 
 ### 也可以看看
 

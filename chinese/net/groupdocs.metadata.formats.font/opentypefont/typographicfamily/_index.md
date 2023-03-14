@@ -16,7 +16,7 @@ public string TypographicFamily { get; }
 
 ### 适当的价值
 
-排版系列。
+排版家族。
 
 ### 也可以看看
 

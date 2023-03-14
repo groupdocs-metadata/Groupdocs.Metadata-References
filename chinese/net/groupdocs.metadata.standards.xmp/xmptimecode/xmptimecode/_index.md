@@ -1,14 +1,14 @@
 ---
 title: XmpTimecode
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpTimecodegroupdocs.metadata.standards.xmp/xmptimecode类.
+description: 初始化一个新的实例XmpTimecodegroupdocs.metadata.standards.xmp/xmptimecode类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp/xmptimecode/xmptimecode/
 ---
 ## XmpTimecode() {#constructor}
 
-初始化[`XmpTimecode`](../../xmptimecode)类.
+初始化一个新的实例[`XmpTimecode`](../../xmptimecode)类.
 
 ```csharp
 public XmpTimecode()
@@ -24,7 +24,7 @@ public XmpTimecode()
 
 ## XmpTimecode(XmpTimeFormat, string) {#constructor_1}
 
-初始化[`XmpTimecode`](../../xmptimecode)类.
+初始化一个新的实例[`XmpTimecode`](../../xmptimecode)类.
 
 ```csharp
 public XmpTimecode(XmpTimeFormat format, string timeValue)

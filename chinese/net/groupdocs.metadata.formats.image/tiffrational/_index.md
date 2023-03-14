@@ -1,14 +1,14 @@
 ---
 title: TiffRational
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示有理数
+description: 代表有理数
 type: docs
 weight: 2000
 url: /zh/net/groupdocs.metadata.formats.image/tiffrational/
 ---
 ## TiffRational class
 
-表示有理数。
+代表有理数。
 
 ```csharp
 public sealed class TiffRational : IEquatable<TiffRational>
@@ -18,7 +18,7 @@ public sealed class TiffRational : IEquatable<TiffRational>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TiffRational](tiffrational)(uint, uint) | 初始化[`TiffRational`](../tiffrational)类. |
+| [TiffRational](tiffrational)(uint, uint) | 初始化一个新的实例[`TiffRational`](../tiffrational)类. |
 
 ## 特性
 
@@ -26,16 +26,16 @@ public sealed class TiffRational : IEquatable<TiffRational>
 | --- | --- |
 | [Denominator](../../groupdocs.metadata.formats.image/tiffrational/denominator) { get; } | 获取分母。 |
 | [Numerator](../../groupdocs.metadata.formats.image/tiffrational/numerator) { get; } | 获取分子。 |
-| [Value](../../groupdocs.metadata.formats.image/tiffrational/value) { get; } | 获取有理值。 |
+| [Value](../../groupdocs.metadata.formats.image/tiffrational/value) { get; } | 获取合理值。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Equals](../../groupdocs.metadata.formats.image/tiffrational/equals#equals_1)(object) | 表示当前对象是否等于另一个同类型的对象。 |
-| [Equals](../../groupdocs.metadata.formats.image/tiffrational/equals#equals)(TiffRational) | 表示当前对象是否等于另一个同类型的对象。 |
+| override [Equals](../../groupdocs.metadata.formats.image/tiffrational/equals#equals_1)(object) | 表示当前对象是否等于另一个相同类型的对象。 |
+| [Equals](../../groupdocs.metadata.formats.image/tiffrational/equals#equals)(TiffRational) | 表示当前对象是否等于另一个相同类型的对象。 |
 | override [GetHashCode](../../groupdocs.metadata.formats.image/tiffrational/gethashcode)() | 返回此实例的哈希码。 |
-| override [ToString](../../groupdocs.metadata.formats.image/tiffrational/tostring)() | 返回一个String代表这个实例。 |
+| override [ToString](../../groupdocs.metadata.formats.image/tiffrational/tostring)() | 返回一个String代表这个实例. |
 | static [Equals](../../groupdocs.metadata.formats.image/tiffrational/equals)(TiffRational, TiffRational) | 比较一对[`TiffRational`](../tiffrational)数字. |
 | [operator ==](../../groupdocs.metadata.formats.image/tiffrational/op_equality) | 表示两个相同类型的对象是否相等。 |
 | [operator !=](../../groupdocs.metadata.formats.image/tiffrational/op_inequality) | 表示两个相同类型的对象是否不相等。 |

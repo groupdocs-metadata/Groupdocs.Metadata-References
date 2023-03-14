@@ -1,14 +1,14 @@
 ---
 title: DublinCorePackage
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取从文档中提取的都柏林核心元数据包
+description: 获取从文档中提取的 Dublin Core 元数据包
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.dublincore/idublincore/dublincorepackage/
 ---
 ## IDublinCore.DublinCorePackage property
 
-获取从文档中提取的都柏林核心元数据包。
+获取从文档中提取的 Dublin Core 元数据包。
 
 ```csharp
 public DublinCorePackage DublinCorePackage { get; }

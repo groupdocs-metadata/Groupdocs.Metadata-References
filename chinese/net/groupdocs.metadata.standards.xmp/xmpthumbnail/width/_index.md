@@ -8,7 +8,7 @@ url: /zh/net/groupdocs.metadata.standards.xmp/xmpthumbnail/width/
 ---
 ## XmpThumbnail.Width property
 
-获取或设置图像宽度，以像素为单位。
+获取或设置图像宽度（以像素为单位）。
 
 ```csharp
 public int? Width { get; set; }

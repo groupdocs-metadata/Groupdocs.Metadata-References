@@ -1,14 +1,14 @@
 ---
 title: AgentRecords
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取将代表 vCard 对象行事的另一个人的信息
+description: 获取代表 vCard 对象的另一个人的信息
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.formats.businesscard/vcardorganizationalrecordset/agentrecords/
 ---
 ## VCardOrganizationalRecordset.AgentRecords property
 
-获取将代表 vCard 对象行事的另一个人的信息。
+获取代表 vCard 对象的另一个人的信息。
 
 ```csharp
 public VCardRecord[] AgentRecords { get; }

@@ -19,7 +19,7 @@ public sealed class XmpAudioChannelType : XmpClosedChoice<string>
 | 姓名 | 描述 |
 | --- | --- |
 | static [Audio16Channel](../../groupdocs.metadata.standards.xmp.schemes/xmpaudiochanneltype/audio16channel) { get; } | 获取 16 个音频通道。 |
-| static [Audio51](../../groupdocs.metadata.standards.xmp.schemes/xmpaudiochanneltype/audio51) { get; } | 获取 5.1 声道。 |
+| static [Audio51](../../groupdocs.metadata.standards.xmp.schemes/xmpaudiochanneltype/audio51) { get; } | 获取 5.1 音频通道。 |
 | static [Audio71](../../groupdocs.metadata.standards.xmp.schemes/xmpaudiochanneltype/audio71) { get; } | 获取 7.1 音频通道。 |
 | static [Mono](../../groupdocs.metadata.standards.xmp.schemes/xmpaudiochanneltype/mono) { get; } | 获取单声道音频通道。 |
 | static [OtherChannel](../../groupdocs.metadata.standards.xmp.schemes/xmpaudiochanneltype/otherchannel) { get; } | 获取其他频道。 |

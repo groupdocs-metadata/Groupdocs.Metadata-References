@@ -1,14 +1,14 @@
 ---
 title: Timecode50
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取 50 时间码
+description: 获取 50 个时间码
 type: docs
 weight: 90
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmptimeformat/timecode50/
 ---
 ## XmpTimeFormat.Timecode50 property
 
-获取 50 时间码。
+获取 50 个时间码。
 
 ```csharp
 public static XmpTimeFormat Timecode50 { get; }
@@ -16,7 +16,7 @@ public static XmpTimeFormat Timecode50 { get; }
 
 ### 适当的价值
 
-50Timecode.
+50 时间码.
 
 ### 也可以看看
 

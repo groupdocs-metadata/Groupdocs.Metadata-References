@@ -16,7 +16,7 @@ public DateTime? LastSavedTime { get; set; }
 
 ### 适当的价值
 
-上次保存的时间。
+最后一次保存的时间。
 
 ### 也可以看看
 

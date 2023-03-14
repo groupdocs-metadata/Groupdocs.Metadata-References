@@ -16,7 +16,7 @@ public int Bottom { get; }
 
 ### 适当的价值
 
-y 坐标，即矩形的 Y 和 Height 属性值之和。
+y 坐标，它是矩形的 Y 和 Height 属性值之和。
 
 ### 也可以看看
 

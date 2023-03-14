@@ -1,14 +1,14 @@
 ---
 title: Value
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取以双精度表示的实际值
+description: 获取表示为双精度的实际值
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.formats.image/tiffsrational/value/
 ---
 ## TiffSRational.Value property
 
-获取以双精度表示的实际值。
+获取表示为双精度的实际值。
 
 ```csharp
 public double Value { get; }
@@ -16,7 +16,7 @@ public double Value { get; }
 
 ### 适当的价值
 
-双倍值。
+双精度值。
 
 ### 也可以看看
 

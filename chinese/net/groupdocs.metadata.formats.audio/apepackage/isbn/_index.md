@@ -16,7 +16,7 @@ public string Isbn { get; }
 
 ### 适当的价值
 
-ISBN 号。
+ISBN 编号。
 
 ### 也可以看看
 

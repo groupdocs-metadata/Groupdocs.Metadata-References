@@ -16,7 +16,7 @@ public PsdCompressionMethod Compression { get; }
 
 ### 适当的价值
 
-压缩方式.
+压缩方法。
 
 ### 也可以看看
 

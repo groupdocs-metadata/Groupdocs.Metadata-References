@@ -16,7 +16,7 @@ public string Type { get; }
 
 ### 适当的价值
 
-类型。
+方式。
 
 ### 也可以看看
 

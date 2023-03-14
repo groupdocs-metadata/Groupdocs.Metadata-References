@@ -20,13 +20,13 @@ OpenType 元数据包。
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [使用 OpenType 字体](https://docs.groupdocs.com/display/metadatanet/Working+with+OpenType+fonts)
 
 ### 例子
 
-这个例子展示了如何读取 OpenType 字体元数据。
+此示例说明如何读取 OpenType 字体元数据。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.InputTtf))

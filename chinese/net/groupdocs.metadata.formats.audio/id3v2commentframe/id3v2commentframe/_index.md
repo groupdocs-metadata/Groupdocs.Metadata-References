@@ -1,14 +1,14 @@
 ---
 title: ID3V2CommentFrame
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化ID3V2CommentFramegroupdocs.metadata.formats.audio/id3v2commentframe类.
+description: 初始化一个新的实例ID3V2CommentFramegroupdocs.metadata.formats.audio/id3v2commentframe类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2commentframe/id3v2commentframe/
 ---
 ## ID3V2CommentFrame constructor
 
-初始化[`ID3V2CommentFrame`](../../id3v2commentframe)类.
+初始化一个新的实例[`ID3V2CommentFrame`](../../id3v2commentframe)类.
 
 ```csharp
 public ID3V2CommentFrame(ID3V2EncodingType encoding, string language, string description, 
@@ -17,7 +17,7 @@ public ID3V2CommentFrame(ID3V2EncodingType encoding, string language, string des
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| encoding | ID3V2EncodingType | 评论的编码。 |
+| encoding | ID3V2EncodingType | 注释的编码。 |
 | language | String | 评论的语言。 |
 | description | String | 简短的内容描述。 |
 | text | String | 评论的文本。 |

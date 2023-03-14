@@ -1,14 +1,14 @@
 ---
 title: CameraMove
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 从一组固定的行业标准术语中获取或设置相机在拍摄期间的移动
+description: 从一组固定的行业标准术语中获取或设置相机在拍摄过程中的移动
 type: docs
 weight: 140
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/cameramove/
 ---
 ## XmpDynamicMediaPackage.CameraMove property
 
-从一组固定的行业标准术语中获取或设置相机在拍摄期间的移动。
+从一组固定的行业标准术语中获取或设置相机在拍摄过程中的移动。
 
 ```csharp
 public string CameraMove { get; set; }
@@ -16,7 +16,7 @@ public string CameraMove { get; set; }
 
 ### 适当的价值
 
-摄影机在拍摄期间的移动，来自一组固定的行业标准术语。 预定义值包括：Aerial、Boom Up、Boom Down、Crane Up、Crane Down、Dolly In、Dolly Out、Pan Left、Pan Right、基座向上，基座向下， 向上倾斜，向下倾斜，跟踪，左卡车，右卡车，放大，缩小。
+相机在拍摄过程中的移动，来自一组固定的行业标准术语。 预定义值包括：Aerial、Boom Up、Boom Down、Crane Up、Crane Down、Dolly In、Dolly Out、Pan Left、Pan Right，基座向上，基座向下， 向上倾斜，向下倾斜，跟踪，卡车向左，卡车向右，放大，缩小。
 
 ### 也可以看看
 

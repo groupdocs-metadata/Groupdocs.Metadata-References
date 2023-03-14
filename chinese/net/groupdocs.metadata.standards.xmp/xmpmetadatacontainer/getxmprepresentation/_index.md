@@ -1,14 +1,14 @@
 ---
 title: GetXmpRepresentation
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 将 XMP 值转换为 XML 表示形式
+description: 将 XMP 值转换为 XML 表示
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpmetadatacontainer/getxmprepresentation/
 ---
 ## XmpMetadataContainer.GetXmpRepresentation method
 
-将 XMP 值转换为 XML 表示形式。
+将 XMP 值转换为 XML 表示。
 
 ```csharp
 public abstract string GetXmpRepresentation()

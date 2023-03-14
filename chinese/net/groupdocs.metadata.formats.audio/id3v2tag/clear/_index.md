@@ -16,7 +16,7 @@ public void Clear(string frameId)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| frameId | String | 要删除的帧的 ID。 |
+| frameId | String | 要移除的帧的 ID。 |
 
 ### 也可以看看
 

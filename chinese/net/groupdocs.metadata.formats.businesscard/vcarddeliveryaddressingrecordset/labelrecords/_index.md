@@ -1,14 +1,14 @@
 ---
 title: LabelRecords
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取一个数组其中包含与对象的收货地址对应的格式化文本
+description: 获取一个数组其中包含对象的发送地址对应的格式化文本
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.formats.businesscard/vcarddeliveryaddressingrecordset/labelrecords/
 ---
 ## VCardDeliveryAddressingRecordset.LabelRecords property
 
-获取一个数组，其中包含与对象的收货地址对应的格式化文本。
+获取一个数组，其中包含对象的发送地址对应的格式化文本。
 
 ```csharp
 public VCardTextRecord[] LabelRecords { get; }
@@ -16,7 +16,7 @@ public VCardTextRecord[] LabelRecords { get; }
 
 ### 适当的价值
 
-包含与对象的交货地址对应的格式化文本的数组。
+一个数组，包含与对象的交付地址相对应的格式化文本。
 
 ### 也可以看看
 

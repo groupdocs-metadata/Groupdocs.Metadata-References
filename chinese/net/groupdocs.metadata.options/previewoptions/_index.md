@@ -1,14 +1,14 @@
 ---
 title: PreviewOptions
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 提供选项来设置预览生成的要求和流代理
+description: 提供选项来设置预览生成的要求和流委托
 type: docs
 weight: 2700
 url: /zh/net/groupdocs.metadata.options/previewoptions/
 ---
 ## PreviewOptions class
 
-提供选项来设置预览生成的要求和流代理。
+提供选项来设置预览生成的要求和流委托。
 
 ```csharp
 public class PreviewOptions
@@ -18,8 +18,8 @@ public class PreviewOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [PreviewOptions](previewoptions#constructor)(CreatePageStream) | 初始化[`PreviewOptions`](../previewoptions)导致输出流关闭的类。 |
-| [PreviewOptions](previewoptions#constructor_1)(CreatePageStream, ReleasePageStream) | 初始化一个新的实例[`PreviewOptions`](../previewoptions)导致输出流返回到客户端以供进一步使用的类。 |
+| [PreviewOptions](previewoptions#constructor)(CreatePageStream) | 初始化一个新的实例[`PreviewOptions`](../previewoptions)导致输出流关闭的类。 |
+| [PreviewOptions](previewoptions#constructor_1)(CreatePageStream, ReleasePageStream) | 初始化一个新实例[`PreviewOptions`](../previewoptions)导致输出流返回给客户端以供进一步使用的类。 |
 
 ## 特性
 
@@ -28,8 +28,8 @@ public class PreviewOptions
 | [CacheFolder](../../groupdocs.metadata.options/previewoptions/cachefolder) { get; set; } | 获取或设置缓存文件夹。 默认情况下，缓存文件夹设置为用户的本地临时目录。 |
 | [CreatePageStream](../../groupdocs.metadata.options/previewoptions/createpagestream) { get; set; } | 获取或设置页面流创建委托的实例。 |
 | [Height](../../groupdocs.metadata.options/previewoptions/height) { get; set; } | 获取或设置页面预览高度。 |
-| [MaxDiskSpaceForCache](../../groupdocs.metadata.options/previewoptions/maxdiskspaceforcache) { get; set; } | 获取或设置缓存的最大可用磁盘空间（以字节为单位）。 默认值为 1073741824。 |
-| [MaxMemoryForCache](../../groupdocs.metadata.options/previewoptions/maxmemoryforcache) { get; set; } | 获取或设置内存中缓存的最大可用内存，以字节为单位。 默认值为1073741824。 |
+| [MaxDiskSpaceForCache](../../groupdocs.metadata.options/previewoptions/maxdiskspaceforcache) { get; set; } | 获取或设置缓存的最大可用磁盘空间（以字节为单位）。 默认值为 1073741824. |
+| [MaxMemoryForCache](../../groupdocs.metadata.options/previewoptions/maxmemoryforcache) { get; set; } | 获取或设置内存中缓存的最大可用内存字节数。 默认值为1073741824. |
 | [PageNumbers](../../groupdocs.metadata.options/previewoptions/pagenumbers) { get; set; } | 获取或设置页码数组以生成预览。 |
 | [PreviewFormat](../../groupdocs.metadata.options/previewoptions/previewformat) { get; set; } | 获取或设置预览图像格式。 |
 | [ReleasePageStream](../../groupdocs.metadata.options/previewoptions/releasepagestream) { get; set; } | 获取或设置页面预览完成委托的实例。 |
@@ -37,7 +37,7 @@ public class PreviewOptions
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [生成文档预览](https://docs.groupdocs.com/display/metadatanet/Generate+document+preview)
 

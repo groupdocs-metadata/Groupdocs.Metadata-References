@@ -1,14 +1,14 @@
 ---
 title: Get
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取指定头的值
+description: 获取指定标头的值
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.email/emailheaderpackage/get/
 ---
 ## EmailHeaderPackage.Get method
 
-获取指定头的值。
+获取指定标头的值。
 
 ```csharp
 public string Get(string header)

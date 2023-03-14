@@ -1,14 +1,14 @@
 ---
 title: IptcRecordSet
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化IptcRecordSetgroupdocs.metadata.standards.iptc/iptcrecordset类.
+description: 初始化一个新的实例IptcRecordSetgroupdocs.metadata.standards.iptc/iptcrecordset类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.iptc/iptcrecordset/iptcrecordset/
 ---
 ## IptcRecordSet() {#constructor}
 
-初始化[`IptcRecordSet`](../../iptcrecordset)类.
+初始化一个新的实例[`IptcRecordSet`](../../iptcrecordset)类.
 
 ```csharp
 public IptcRecordSet()
@@ -24,7 +24,7 @@ public IptcRecordSet()
 
 ## IptcRecordSet(IptcDataSet[]) {#constructor_1}
 
-初始化[`IptcRecordSet`](../../iptcrecordset)类.
+初始化一个新的实例[`IptcRecordSet`](../../iptcrecordset)类.
 
 ```csharp
 public IptcRecordSet(IptcDataSet[] dataSets)
@@ -32,7 +32,7 @@ public IptcRecordSet(IptcDataSet[] dataSets)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| dataSets | IptcDataSet[] | 一组 IPTC 数据集。 |
+| dataSets | IptcDataSet[] | IPTC 数据集数组。 |
 
 ### 也可以看看
 

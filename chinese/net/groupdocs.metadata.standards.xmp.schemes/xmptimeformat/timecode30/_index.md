@@ -1,14 +1,14 @@
 ---
 title: Timecode30
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取 30 时间码
+description: 获取 30 个时间码
 type: docs
 weight: 80
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmptimeformat/timecode30/
 ---
 ## XmpTimeFormat.Timecode30 property
 
-获取 30 时间码。
+获取 30 个时间码。
 
 ```csharp
 public static XmpTimeFormat Timecode30 { get; }
@@ -16,7 +16,7 @@ public static XmpTimeFormat Timecode30 { get; }
 
 ### 适当的价值
 
-30Timecode.
+30 时间码.
 
 ### 也可以看看
 

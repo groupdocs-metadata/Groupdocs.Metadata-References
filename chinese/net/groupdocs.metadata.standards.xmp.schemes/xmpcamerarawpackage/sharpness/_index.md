@@ -16,7 +16,7 @@ public int? Sharpness { get; set; }
 
 ### 适当的价值
 
-锐度。
+锐度.
 
 ### 也可以看看
 

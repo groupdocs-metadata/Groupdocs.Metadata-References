@@ -1,14 +1,14 @@
 ---
 title: DestLongitudeRef
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置GPS值指示目标点的经度是东经还是西经 ASCII E表示东经W表示西经
+description: 获取或设置目的地经度为东经或西经的GPS值 ASCII E表示东经W为西经
 type: docs
 weight: 140
 url: /zh/net/groupdocs.metadata.standards.exif/exifgpspackage/destlongituderef/
 ---
 ## ExifGpsPackage.DestLongitudeRef property
 
-获取或设置GPS值，指示目标点的经度是东经还是西经。 ASCII 'E'表示东经，'W'表示西经。
+获取或设置目的地经度为东经或西经的GPS值。 ASCII 'E'表示东经，'W'为西经。
 
 ```csharp
 public string DestLongitudeRef { get; set; }
@@ -16,7 +16,7 @@ public string DestLongitudeRef { get; set; }
 
 ### 适当的价值
 
-指示目的地点的经度是东经还是西经的 GPS 值。
+GPS值，表示目的地经度是东经还是西经。
 
 ### 也可以看看
 

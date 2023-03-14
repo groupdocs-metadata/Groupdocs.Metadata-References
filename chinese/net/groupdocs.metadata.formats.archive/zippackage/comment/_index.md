@@ -1,14 +1,14 @@
 ---
 title: Comment
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置用户创建的 ZIP 存档注释
+description: 获取或设置用户创建的 ZIP 存档评论
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.archive/zippackage/comment/
 ---
 ## ZipPackage.Comment property
 
-获取或设置用户创建的 ZIP 存档注释。
+获取或设置用户创建的 ZIP 存档评论。
 
 ```csharp
 public string Comment { get; set; }

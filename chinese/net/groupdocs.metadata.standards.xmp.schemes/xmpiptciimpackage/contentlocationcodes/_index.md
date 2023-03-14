@@ -20,7 +20,7 @@ public string[] ContentLocationCodes { get; set; }
 
 ### 评论
 
-表示对象的内容所引用的国家/地理位置的代码。
+指示对象内容引用的国家/地理位置代码。
 
 ### 也可以看看
 

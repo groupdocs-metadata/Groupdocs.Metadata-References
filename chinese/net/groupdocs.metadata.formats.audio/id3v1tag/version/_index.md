@@ -1,14 +1,14 @@
 ---
 title: Version
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取 ID3 版本可以是 ID3 或 ID3v1.1
+description: 获取 ID3 版本它可以是 ID3 或 ID3v1.1
 type: docs
 weight: 80
 url: /zh/net/groupdocs.metadata.formats.audio/id3v1tag/version/
 ---
 ## ID3V1Tag.Version property
 
-获取 ID3 版本。可以是 ID3 或 ID3v1.1
+获取 ID3 版本。它可以是 ID3 或 ID3v1.1
 
 ```csharp
 public override string Version { get; }
@@ -16,7 +16,7 @@ public override string Version { get; }
 
 ### 适当的价值
 
-ID3版本.
+ID3 版本。
 
 ### 也可以看看
 

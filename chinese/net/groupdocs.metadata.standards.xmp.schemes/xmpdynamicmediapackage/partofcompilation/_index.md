@@ -1,14 +1,14 @@
 ---
 title: PartOfCompilation
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置一个值指示资源是否是编译的一部分
+description: 获取或设置一个值该值指示资源是否是编译的一部分
 type: docs
 weight: 320
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/partofcompilation/
 ---
 ## XmpDynamicMediaPackage.PartOfCompilation property
 
-获取或设置一个值，指示资源是否是编译的一部分。
+获取或设置一个值，该值指示资源是否是编译的一部分。
 
 ```csharp
 public bool? PartOfCompilation { get; set; }
@@ -16,7 +16,7 @@ public bool? PartOfCompilation { get; set; }
 
 ### 适当的价值
 
-一个值，指示资源是否是编译的一部分。
+指示资源是否是编译的一部分的值。
 
 ### 也可以看看
 

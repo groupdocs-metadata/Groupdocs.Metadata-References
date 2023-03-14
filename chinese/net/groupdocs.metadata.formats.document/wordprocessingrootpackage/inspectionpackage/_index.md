@@ -1,14 +1,14 @@
 ---
 title: InspectionPackage
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取包含文档检查结果的元数据包 该包包含有关在某些情况下可被视为元数据的文档部分的信息
+description: 获取包含文档检查结果的元数据包 该包包含有关文档部分的信息在某些情况下可以将其视为元数据
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.formats.document/wordprocessingrootpackage/inspectionpackage/
 ---
 ## WordProcessingRootPackage.InspectionPackage property
 
-获取包含文档检查结果的元数据包。 该包包含有关在某些情况下可被视为元数据的文档部分的信息。
+获取包含文档检查结果的元数据包。 该包包含有关文档部分的信息，在某些情况下可以将其视为元数据。
 
 ```csharp
 public WordProcessingInspectionPackage InspectionPackage { get; }
@@ -20,13 +20,13 @@ public WordProcessingInspectionPackage InspectionPackage { get; }
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* [在文字处理文档中使用元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+WordProcessing+documents)
+* [在 WordProcessing 文档中处理元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+WordProcessing+documents)
 
 ### 例子
 
-此代码示例显示如何检查文字处理文档。
+此代码示例显示如何检查 WordProcessing 文档。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.InputDocx))

@@ -16,7 +16,7 @@ public TiffRational[] Longitude { get; set; }
 
 ### 适当的价值
 
-经度。
+经度.
 
 ### 也可以看看
 

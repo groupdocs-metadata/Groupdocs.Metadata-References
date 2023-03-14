@@ -1,14 +1,14 @@
 ---
 title: RatingMin
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 评分最小值
+description: 评级最小值
 type: docs
 weight: 140
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpbasicpackage/ratingmin/
 ---
 ## XmpBasicPackage.RatingMin field
 
-评分最小值。
+评级最小值。
 
 ```csharp
 public const float RatingMin;

@@ -1,14 +1,14 @@
 ---
 title: MatroskaVideoStereoMode
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 代表 Matroska Stereo3D 视频模式
+description: 表示 Matroska Stereo3D 视频模式
 type: docs
 weight: 2600
 url: /zh/net/groupdocs.metadata.formats.video/matroskavideostereomode/
 ---
 ## MatroskaVideoStereoMode enumeration
 
-代表 Matroska Stereo-3D 视频模式。
+表示 Matroska Stereo-3D 视频模式。
 
 ```csharp
 public enum MatroskaVideoStereoMode : uint
@@ -18,21 +18,21 @@ public enum MatroskaVideoStereoMode : uint
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Mono | `0` | 单声道模式。 |
+| Mono | `0` | 单声道模式. |
 | SideBySideLeft | `1` | 并排（左眼优先）视频模式。 |
-| TopBottomRight | `2` | 上 - 下（右眼在前）视频模式。 |
-| TopBottomLeft | `3` | 上 - 下（左眼在前）视频模式。 |
-| CheckboardRight | `4` | 棋盘格（右眼优先）视频模式。 |
-| CheckboardLleft | `5` | 棋盘格（左眼优先）视频模式。 |
-| RowInterleavedRight | `6` | 行交错（右眼优先）视频模式。 |
-| RowInterleavedLeft | `7` | 行交错（左眼优先）视频模式。 |
-| ColumnInterleavedRight | `8` | 列交错（右眼优先）视频模式。 |
-| ColumnInterleavedLeft | `9` | 列交错（左眼优先）视频模式。 |
-| AnaglyphCyanRed | `10` | 立体（青色/红色）视频模式。 |
+| TopBottomRight | `2` | 上下（右眼优先）视频模式. |
+| TopBottomLeft | `3` | 上下（左眼优先）视频模式. |
+| CheckboardRight | `4` | 棋盘（右眼优先）视频模式. |
+| CheckboardLleft | `5` | 棋盘（左眼优先）视频模式. |
+| RowInterleavedRight | `6` | 行交错（右眼优先）视频模式. |
+| RowInterleavedLeft | `7` | 行交错（左眼优先）视频模式. |
+| ColumnInterleavedRight | `8` | 列交错（右眼优先）视频模式. |
+| ColumnInterleavedLeft | `9` | 列交错（左眼优先）视频模式. |
+| AnaglyphCyanRed | `10` | Anaglyph（青色/红色）视频模式。 |
 | SideBySideRight | `11` | 并排（右眼优先）视频模式。 |
-| AnaglyphGreenMagenta | `12` | 立体（绿色/洋红色）视频模式。 |
-| BothEyesLacedLeft | `13` | 双眼在一个区块中（左眼在前）视频模式。 |
-| BothEyesLacedRight | `14` | 双眼在一个区块中（右眼在前）视频模式。 |
+| AnaglyphGreenMagenta | `12` | Anaglyph（绿色/洋红色）视频模式。 |
+| BothEyesLacedLeft | `13` | 双眼在一个块中（左眼是第一个）视频模式。 |
+| BothEyesLacedRight | `14` | 双眼在一个块中（右眼是第一个）视频模式。 |
 
 ### 也可以看看
 

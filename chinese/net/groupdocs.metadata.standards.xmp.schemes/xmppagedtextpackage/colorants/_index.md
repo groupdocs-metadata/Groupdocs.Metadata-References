@@ -1,14 +1,14 @@
 ---
 title: Colorants
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置文档包括包含的任何文档中使用的着色剂色板的有序数组
+description: 获取或设置文档中使用的着色剂样本的有序数组包括包含的文档中的任何内容
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmppagedtextpackage/colorants/
 ---
 ## XmpPagedTextPackage.Colorants property
 
-获取或设置文档（包括包含的任何文档）中使用的着色剂（色板）的有序数组。
+获取或设置文档中使用的着色剂（样本）的有序数组（包括包含的文档中的任何内容）。
 
 ```csharp
 public XmpColorantBase[] Colorants { get; set; }
@@ -16,7 +16,7 @@ public XmpColorantBase[] Colorants { get; set; }
 
 ### 适当的价值
 
-一组着色剂。
+一系列着色剂。
 
 ### 也可以看看
 

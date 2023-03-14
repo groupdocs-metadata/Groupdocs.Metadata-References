@@ -1,14 +1,14 @@
 ---
 title: DeliveryAddressingRecordset
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取送货地址记录
+description: 获取收货地址记录
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.formats.businesscard/vcardcard/deliveryaddressingrecordset/
 ---
 ## VCardCard.DeliveryAddressingRecordset property
 
-获取送货地址记录。
+获取收货地址记录。
 
 ```csharp
 public VCardDeliveryAddressingRecordset DeliveryAddressingRecordset { get; }

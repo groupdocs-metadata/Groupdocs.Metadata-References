@@ -1,14 +1,14 @@
 ---
 title: TiffUndefinedTag
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化TiffUndefinedTaggroupdocs.metadata.formats.image/tiffundefinedtag类.
+description: 初始化一个新的实例TiffUndefinedTaggroupdocs.metadata.formats.image/tiffundefinedtag类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.image/tiffundefinedtag/tiffundefinedtag/
 ---
 ## TiffUndefinedTag constructor
 
-初始化[`TiffUndefinedTag`](../../tiffundefinedtag)类.
+初始化一个新的实例[`TiffUndefinedTag`](../../tiffundefinedtag)类.
 
 ```csharp
 public TiffUndefinedTag(TiffTagID tagID, byte[] value)
@@ -16,7 +16,7 @@ public TiffUndefinedTag(TiffTagID tagID, byte[] value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| tagID | TiffTagID | 标签标识符。 |
+| tagID | TiffTagID | 标记标识符。 |
 | value | Byte[] | 价值。 |
 
 ### 也可以看看

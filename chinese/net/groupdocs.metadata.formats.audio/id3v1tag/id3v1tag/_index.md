@@ -1,14 +1,14 @@
 ---
 title: ID3V1Tag
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化ID3V1Taggroupdocs.metadata.formats.audio/id3v1tag类.
+description: 初始化一个新的实例ID3V1Taggroupdocs.metadata.formats.audio/id3v1tag类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.audio/id3v1tag/id3v1tag/
 ---
 ## ID3V1Tag constructor
 
-初始化[`ID3V1Tag`](../../id3v1tag)类.
+初始化一个新的实例[`ID3V1Tag`](../../id3v1tag)类.
 
 ```csharp
 public ID3V1Tag()

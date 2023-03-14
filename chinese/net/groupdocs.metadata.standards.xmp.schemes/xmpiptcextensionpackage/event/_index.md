@@ -16,7 +16,7 @@ public XmpLangAlt Event { get; set; }
 
 ### 适当的价值
 
-拍摄照片的具体事件。
+拍摄照片的特定事件。
 
 ### 也可以看看
 

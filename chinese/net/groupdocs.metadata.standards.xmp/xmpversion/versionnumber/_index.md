@@ -16,7 +16,7 @@ public string VersionNumber { get; set; }
 
 ### 适当的价值
 
-新版本号
+新版本号。
 
 ### 也可以看看
 

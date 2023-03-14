@@ -1,14 +1,14 @@
 ---
 title: SetRights
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 设置资源权限以单一语言给出
+description: 设置资源权限在单个语言中给出
 type: docs
 weight: 250
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpdublincorepackage/setrights/
 ---
 ## XmpDublinCorePackage.SetRights method
 
-设置资源权限，以单一语言给出。
+设置资源权限，在单个语言中给出。
 
 ```csharp
 public void SetRights(string rights)

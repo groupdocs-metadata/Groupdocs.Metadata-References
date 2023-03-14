@@ -20,13 +20,13 @@ IPTC 元数据包。
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [使用 IPTC IIM 元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+IPTC+IIM+metadata)
 
 ### 例子
 
-此示例说明如何从 TIFF 图像中提取基本的 IPTC 元数据属性。
+此示例展示了如何从 TIFF 图像中提取基本的 IPTC 元数据属性。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.TiffWithIptc))

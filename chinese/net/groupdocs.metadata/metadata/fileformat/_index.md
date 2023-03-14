@@ -16,7 +16,7 @@ public FileFormat FileFormat { get; }
 
 ### 适当的价值
 
-加载文件的类型（如果识别）；否则，Unknown.
+已识别的加载文件的类型；否则，Unknown.
 
 ### 也可以看看
 
