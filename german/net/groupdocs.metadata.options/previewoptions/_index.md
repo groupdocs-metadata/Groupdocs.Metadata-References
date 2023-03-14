@@ -18,7 +18,7 @@ public class PreviewOptions
 
 | Name | Beschreibung |
 | --- | --- |
-| [PreviewOptions](previewoptions#constructor)(CreatePageStream) | Initialisiert eine neue Instanz von[`PreviewOptions`](../previewoptions)Klasse bewirkt, dass der Ausgabestrom geschlossen wird. |
+| [PreviewOptions](previewoptions#constructor)(CreatePageStream) | Initialisiert eine neue Instanz von[`PreviewOptions`](../previewoptions) Klasse bewirkt, dass der Ausgabestrom geschlossen wird. |
 | [PreviewOptions](previewoptions#constructor_1)(CreatePageStream, ReleasePageStream) | Initialisiert eine neue Instanz von[`PreviewOptions`](../previewoptions) Klasse bewirkt, dass der Ausgabestream zur weiteren Verwendung an den Client zurückgegeben wird. |
 
 ## Eigenschaften
@@ -37,7 +37,7 @@ public class PreviewOptions
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * [Dokumentenvorschau erstellen](https://docs.groupdocs.com/display/metadatanet/Generate+document+preview)
 

@@ -1,14 +1,14 @@
 ---
 title: J2K
 second_title: GroupDocs.Metadata für .NET-API-Referenz
-description: JPEG 2000 J2K ist ein Bildcodierungssystem und ein hochmoderner Bildkomprimierungsstandard. JPEG 2000 wurde mithilfe der WaveletTechnologie entwickelt und kann verlustfreie Inhalte in jeder Qualität gleichzeitig codieren. Weitere Informationen zu diesem Dateiformat hierhttps//wiki.fileformat.com/image/j2k/ .
+description: JPEG 2000 J2K ist ein Bildcodierungssystem und ein hochmoderner Bildkomprimierungsstandard. JPEG 2000 wurde mithilfe der WaveletTechnologie entwickelt und kann verlustfreie Inhalte in jeder Qualität gleichzeitig codieren. Weitere Informationen zu diesem Dateiformat Hierhttps//wiki.fileformat.com/image/j2k/ .
 type: docs
 weight: 220
 url: /de/net/groupdocs.metadata.common/filetype/j2k/
 ---
 ## FileType.J2K field
 
-JPEG 2000 (J2K) ist ein Bildcodierungssystem und ein hochmoderner Bildkomprimierungsstandard. JPEG 2000 wurde mithilfe der Wavelet-Technologie entwickelt und kann verlustfreie Inhalte in jeder Qualität gleichzeitig codieren. Weitere Informationen zu diesem Dateiformat [hier](https://wiki.fileformat.com/image/j2k/) .
+JPEG 2000 (J2K) ist ein Bildcodierungssystem und ein hochmoderner Bildkomprimierungsstandard. JPEG 2000 wurde mithilfe der Wavelet-Technologie entwickelt und kann verlustfreie Inhalte in jeder Qualität gleichzeitig codieren. Weitere Informationen zu diesem Dateiformat [Hier](https://wiki.fileformat.com/image/j2k/) .
 
 ```csharp
 public static readonly FileType J2K;

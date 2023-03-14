@@ -16,7 +16,7 @@ public bool DataLengthIndicator { get; }
 
 ### Eigentumswert
 
-`Stimmt`wenn dem Rahmen ein Datenlängenindikator hinzugefügt wurde; andernfalls falsch.
+`WAHR`wenn dem Rahmen ein Datenlängenindikator hinzugefügt wurde; andernfalls falsch.
 
 ### Siehe auch
 

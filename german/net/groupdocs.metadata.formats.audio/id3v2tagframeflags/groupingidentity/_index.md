@@ -16,7 +16,7 @@ public bool GroupingIdentity { get; }
 
 ### Eigentumswert
 
-`Stimmt`, wenn der Frame zu einer Gruppe von Frames gehört; andernfalls falsch.
+`WAHR`, wenn der Frame zu einer Gruppe von Frames gehört; andernfalls falsch.
 
 ### Siehe auch
 

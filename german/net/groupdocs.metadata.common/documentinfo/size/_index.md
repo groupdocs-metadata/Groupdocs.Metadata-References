@@ -16,7 +16,7 @@ public long Size { get; }
 
 ### Eigentumswert
 
-Die Größe des geladenen Dokuments in Byte.
+Die Größe des geladenen Dokuments in Bytes.
 
 ### Siehe auch
 

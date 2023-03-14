@@ -16,7 +16,7 @@ public bool? AutoExposure { get; set; }
 
 ### Eigentumswert
 
-`Stimmt` wenn [automatische Belichtung]; Andernfalls,`FALSCH` .
+`WAHR` wenn [automatische Belichtung]; ansonsten,`FALSCH` .
 
 ### Siehe auch
 

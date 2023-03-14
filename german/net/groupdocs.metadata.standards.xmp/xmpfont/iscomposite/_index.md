@@ -16,7 +16,7 @@ public bool? IsComposite { get; set; }
 
 ### Eigentumswert
 
-`Stimmt` wenn die Schriftart zusammengesetzt ist; Andernfalls,`FALSCH` .
+`WAHR` wenn die Schriftart zusammengesetzt ist; ansonsten,`FALSCH` .
 
 ### Siehe auch
 

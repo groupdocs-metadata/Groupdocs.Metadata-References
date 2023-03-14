@@ -1,14 +1,14 @@
 ---
 title: HEIF
 second_title: GroupDocs.Metadata für .NET-API-Referenz
-description: Eine HEIFDatei ist ein HighEfficiency Container ImageDateiformat das ein einzelnes Bild oder eine Bildfolge in einer einzigen Datei speichern kann. Das HEIFDateiformat komprimiert die Bilder mithilfe des High Efficiency Video Coding HEVCStandards. Weitere Informationen zu diesem Dateiformat hierhttps//docs.fileformat.com/image/heif/ .
+description: Eine HEIFDatei ist ein HighEfficiency Container ImageDateiformat das ein einzelnes Bild oder eine Bildfolge in einer einzigen Datei speichern kann. Das HEIFDateiformat komprimiert die Bilder mithilfe des High Efficiency Video Coding HEVCStandards. Weitere Informationen zu diesem Dateiformat Hierhttps//docs.fileformat.com/image/heif/ .
 type: docs
 weight: 210
 url: /de/net/groupdocs.metadata.common/filetype/heif/
 ---
 ## FileType.HEIF field
 
-Eine HEIF-Datei ist ein High-Efficiency Container Image-Dateiformat, das ein einzelnes Bild oder eine Bildfolge in einer einzigen Datei speichern kann. Das HEIF-Dateiformat komprimiert die Bilder mithilfe des High Efficiency Video Coding (HEVC)-Standards. Weitere Informationen zu diesem Dateiformat [hier](https://docs.fileformat.com/image/heif/) .
+Eine HEIF-Datei ist ein High-Efficiency Container Image-Dateiformat, das ein einzelnes Bild oder eine Bildfolge in einer einzigen Datei speichern kann. Das HEIF-Dateiformat komprimiert die Bilder mithilfe des High Efficiency Video Coding (HEVC)-Standards. Weitere Informationen zu diesem Dateiformat [Hier](https://docs.fileformat.com/image/heif/) .
 
 ```csharp
 public static readonly FileType HEIF;

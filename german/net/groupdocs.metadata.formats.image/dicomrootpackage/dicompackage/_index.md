@@ -20,7 +20,7 @@ Das native DICOM-Metadatenpaket.
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * [Arbeiten mit DICOM-Metadaten](https://docs.groupdocs.com/display/metadatanet/Working+with+DICOM+metadata)
 

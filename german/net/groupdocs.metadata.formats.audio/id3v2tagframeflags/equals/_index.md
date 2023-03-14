@@ -40,11 +40,11 @@ public override bool Equals(object obj)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| obj | Object | DasObject mit dieser Instanz zu vergleichen. |
+| obj | Object | DerObject mit dieser Instanz zu vergleichen. |
 
 ### Rückgabewert
 
-`Stimmt` wenn die angegebenObject ist gleich dieser Instanz; Andernfalls,`FALSCH` .
+`WAHR` wenn die angegebenObject ist gleich dieser Instanz; ansonsten,`FALSCH` .
 
 ### Siehe auch
 

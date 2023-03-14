@@ -1,14 +1,14 @@
 ---
 title: TTC
 second_title: GroupDocs.Metadata für .NET-API-Referenz
-description: TTC TrueType Collection ist ein TrueTypeSchriftartsammlungsformat. Eine TTCDatei kann mehrere Schriftdateien darin kombinieren. Weitere Informationen zu diesem Dateiformat hierhttps//docs.fileformat.com/font/ttc/ .
+description: TTC TrueType Collection ist ein TrueTypeSchriftartsammlungsformat. Eine TTCDatei kann mehrere Schriftdateien darin kombinieren. Weitere Informationen zu diesem Dateiformat Hierhttps//docs.fileformat.com/font/ttc/ .
 type: docs
 weight: 610
 url: /de/net/groupdocs.metadata.common/filetype/ttc/
 ---
 ## FileType.TTC field
 
-TTC (TrueType Collection) ist ein TrueType-Schriftartsammlungsformat. Eine TTC-Datei kann mehrere Schriftdateien darin kombinieren. Weitere Informationen zu diesem Dateiformat [hier](https://docs.fileformat.com/font/ttc/) .
+TTC (TrueType Collection) ist ein TrueType-Schriftartsammlungsformat. Eine TTC-Datei kann mehrere Schriftdateien darin kombinieren. Weitere Informationen zu diesem Dateiformat [Hier](https://docs.fileformat.com/font/ttc/) .
 
 ```csharp
 public static readonly FileType TTC;

@@ -16,7 +16,7 @@ public void UpdateDocumentStatistics()
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * [Arbeiten mit Metadaten in WordProcessing-Dokumenten](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+WordProcessing+documents)
 

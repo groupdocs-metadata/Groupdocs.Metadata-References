@@ -16,7 +16,7 @@ public bool IsQuotedPrintable { get; }
 
 ### Eigentumswert
 
-`Stimmt` wenn diese Instanz zitiert wird, druckbar; Andernfalls,`FALSCH`.
+`WAHR` wenn diese Instanz zitiert wird, druckbar; ansonsten,`FALSCH`.
 
 ### Siehe auch
 

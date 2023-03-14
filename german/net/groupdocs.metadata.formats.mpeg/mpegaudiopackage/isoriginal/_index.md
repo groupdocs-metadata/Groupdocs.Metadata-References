@@ -16,7 +16,7 @@ public bool IsOriginal { get; }
 
 ### Eigentumswert
 
-`Stimmt` wenn Audio original ist; Andernfalls,`FALSCH` .
+`WAHR` wenn Audio original ist; ansonsten,`FALSCH` .
 
 ### Siehe auch
 

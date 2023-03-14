@@ -20,7 +20,7 @@ Das der Datei zugeordnete IPTC-Metadatenpaket.
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * [Arbeiten mit IPTC-IIM-Metadaten](https://docs.groupdocs.com/display/metadatanet/Working+with+IPTC+IIM+metadata)
 

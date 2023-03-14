@@ -24,7 +24,7 @@ Die Anzahl der betroffenen Eigenschaften.
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Beispiele, die die Verwendung dieser Methode demonstrieren: [Metadaten entfernen](https://docs.groupdocs.com/display/metadatanet/Removing+metadata)
 

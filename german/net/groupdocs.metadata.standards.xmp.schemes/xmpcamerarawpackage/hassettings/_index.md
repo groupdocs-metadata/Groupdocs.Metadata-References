@@ -16,7 +16,7 @@ public bool? HasSettings { get; set; }
 
 ### Eigentumswert
 
-`Stimmt` wenn das Bild nicht standardmäßige Camera Raw-Einstellungen hat; Andernfalls,`FALSCH` .
+`WAHR` wenn das Bild nicht standardmäßige Camera Raw-Einstellungen hat; ansonsten,`FALSCH` .
 
 ### Siehe auch
 

@@ -1,14 +1,14 @@
 ---
 title: VTX
 second_title: GroupDocs.Metadata für .NET-API-Referenz
-description: Dateien mit der Erweiterung .VTX beziehen sich auf Microsoft VisioZeichnungsvorlagen die im XMLDateiformat auf der Disc gespeichert werden. Weitere Informationen zu diesem Dateiformat hierhttps//docs.fileformat.com/visio/vtx/ .
+description: Dateien mit der Erweiterung .VTX beziehen sich auf Microsoft VisioZeichnungsvorlagen die im XMLDateiformat auf der Disc gespeichert werden. Weitere Informationen zu diesem Dateiformat Hierhttps//docs.fileformat.com/visio/vtx/ .
 type: docs
 weight: 710
 url: /de/net/groupdocs.metadata.common/filetype/vtx/
 ---
 ## FileType.VTX field
 
-Dateien mit der Erweiterung .VTX beziehen sich auf Microsoft Visio-Zeichnungsvorlagen, die im XML-Dateiformat auf der Disc gespeichert werden. Weitere Informationen zu diesem Dateiformat [hier](https://docs.fileformat.com/visio/vtx/) .
+Dateien mit der Erweiterung .VTX beziehen sich auf Microsoft Visio-Zeichnungsvorlagen, die im XML-Dateiformat auf der Disc gespeichert werden. Weitere Informationen zu diesem Dateiformat [Hier](https://docs.fileformat.com/visio/vtx/) .
 
 ```csharp
 public static readonly FileType VTX;

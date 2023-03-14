@@ -20,7 +20,7 @@ Die ZIP-Eintragsflags.
 
 ### Bemerkungen
 
-Bit 00: verschlüsselte Datei. Bit 01: Komprimierungsoption. Bit 02: Komprimierungsoption. Bit 03: Datendeskriptor. Bit 04: verbesserte Deflation. Bit 05: komprimierte gepatchte Daten. Bit 06: starke Verschlüsselung. Bit 07-10: unbenutzt. Bit 11: Sprachkodierung. Bit 12: reserviert. Bit 13: Kopfzeilenwerte maskieren. Bit 14-15: reserviert.
+Bit 00: verschlüsselte Datei. Bit 01: Komprimierungsoption. Bit 02: Komprimierungsoption. Bit 03: Datendeskriptor. Bit 04: verbesserte Deflation. Bit 05: komprimierte gepatchte Daten. Bit 06: starke Verschlüsselung. Bit 07-10: unbenutzt. Bit 11: Sprachcodierung. Bit 12: reserviert. Bit 13: Kopfzeilenwerte maskieren. Bit 14-15: reserviert.
 
 ### Siehe auch
 

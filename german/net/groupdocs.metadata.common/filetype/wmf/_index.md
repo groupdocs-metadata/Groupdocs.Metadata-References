@@ -1,14 +1,14 @@
 ---
 title: WMF
 second_title: GroupDocs.Metadata für .NET-API-Referenz
-description: Dateien mit der Erweiterung WMF stellen Microsoft Windows Metafile WMF zum Speichern von Bilddaten im Vektor und BitmapFormat dar. Weitere Informationen zu diesem Dateiformat hierhttps//wiki.fileformat.com/image/wmf/ .
+description: Dateien mit der Erweiterung WMF stellen Microsoft Windows Metafile WMF zum Speichern von Bilddaten im Vektor und BitmapFormat dar. Weitere Informationen zu diesem Dateiformat Hierhttps//wiki.fileformat.com/image/wmf/ .
 type: docs
 weight: 750
 url: /de/net/groupdocs.metadata.common/filetype/wmf/
 ---
 ## FileType.WMF field
 
-Dateien mit der Erweiterung WMF stellen Microsoft Windows Metafile (WMF) zum Speichern von Bilddaten im Vektor- und Bitmap-Format dar. Weitere Informationen zu diesem Dateiformat [hier](https://wiki.fileformat.com/image/wmf/) .
+Dateien mit der Erweiterung WMF stellen Microsoft Windows Metafile (WMF) zum Speichern von Bilddaten im Vektor- und Bitmap-Format dar. Weitere Informationen zu diesem Dateiformat [Hier](https://wiki.fileformat.com/image/wmf/) .
 
 ```csharp
 public static readonly FileType WMF;

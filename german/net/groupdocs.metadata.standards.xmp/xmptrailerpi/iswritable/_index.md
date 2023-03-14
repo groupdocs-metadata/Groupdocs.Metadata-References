@@ -16,7 +16,7 @@ public bool IsWritable { get; }
 
 ### Eigentumswert
 
-`Stimmt` wenn das XMP-Paket beschreibbar ist; Andernfalls,`FALSCH` .
+`WAHR` wenn das XMP-Paket beschreibbar ist; ansonsten,`FALSCH` .
 
 ### Siehe auch
 

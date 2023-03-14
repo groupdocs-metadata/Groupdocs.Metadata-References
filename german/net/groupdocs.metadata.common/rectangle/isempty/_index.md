@@ -16,7 +16,7 @@ public bool IsEmpty { get; }
 
 ### Eigentumswert
 
-`Stimmt` wenn diese Instanz leer ist; Andernfalls,`FALSCH` .
+`WAHR` wenn diese Instanz leer ist; ansonsten,`FALSCH` .
 
 ### Siehe auch
 

@@ -20,7 +20,7 @@ Ein Metadatenpaket mit Prüfergebnissen für das Dokument.
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * [Arbeiten mit Metadaten in PDF-Dokumenten](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+PDF+documents)
 

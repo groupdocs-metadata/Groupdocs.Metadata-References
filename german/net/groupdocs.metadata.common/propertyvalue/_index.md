@@ -26,7 +26,7 @@ public class PropertyValue
 | [PropertyValue](propertyvalue#constructor_4)(int) | Initialisiert eine neue Instanz von[`PropertyValue`](../propertyvalue) Klasse mit einem ganzzahligen Wert. |
 | [PropertyValue](propertyvalue#constructor_5)(int[]) | Initialisiert eine neue Instanz von[`PropertyValue`](../propertyvalue) Klasse mit einem Array von Integer-Werten. |
 | [PropertyValue](propertyvalue#constructor_6)(long) | Initialisiert eine neue Instanz von[`PropertyValue`](../propertyvalue) Klasse mit einem langen Wert. |
-| [PropertyValue](propertyvalue#constructor_7)(long[]) | Initialisiert eine neue Instanz von[`PropertyValue`](../propertyvalue)Klasse mit einem Array von langen Werten. |
+| [PropertyValue](propertyvalue#constructor_7)(long[]) | Initialisiert eine neue Instanz von[`PropertyValue`](../propertyvalue) Klasse mit einem Array von langen Werten. |
 | [PropertyValue](propertyvalue#constructor_9)(string) | Initialisiert eine neue Instanz von[`PropertyValue`](../propertyvalue) Klasse mit einem Zeichenfolgenwert. |
 | [PropertyValue](propertyvalue#constructor_10)(string[]) | Initialisiert eine neue Instanz von[`PropertyValue`](../propertyvalue) Klasse mit einem String-Array. |
 | [PropertyValue](propertyvalue#constructor_11)(TimeSpan) | Initialisiert eine neue Instanz von[`PropertyValue`](../propertyvalue) Klasse mit ATimeSpan wert. |

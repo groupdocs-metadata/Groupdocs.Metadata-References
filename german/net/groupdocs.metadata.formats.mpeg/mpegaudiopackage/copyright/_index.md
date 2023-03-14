@@ -16,7 +16,7 @@ public bool Copyright { get; }
 
 ### Eigentumswert
 
-`Stimmt`wenn Urheberrecht; Andernfalls,`FALSCH` .
+`WAHR`wenn Urheberrecht; ansonsten,`FALSCH` .
 
 ### Siehe auch
 

@@ -1,14 +1,14 @@
 ---
 title: WAV
 second_title: GroupDocs.Metadata für .NET-API-Referenz
-description: WAV bekannt für WAVE Waveform Audio File Format ist eine Teilmenge von Microsofts Resource Interchange File Format RIFF Spezifikation zum Speichern digitaler Audiodateien. Weitere Informationen zu diesem Dateiformat hierhttps//wiki.fileformat.com/audio/wav/ .
+description: WAV bekannt für WAVE Waveform Audio File Format ist eine Teilmenge von Microsofts Resource Interchange File Format RIFF Spezifikation zum Speichern digitaler Audiodateien. Weitere Informationen zu diesem Dateiformat Hierhttps//wiki.fileformat.com/audio/wav/ .
 type: docs
 weight: 720
 url: /de/net/groupdocs.metadata.common/filetype/wav/
 ---
 ## FileType.WAV field
 
-WAV, bekannt für WAVE (Waveform Audio File Format), ist eine Teilmenge von Microsofts Resource Interchange File Format (RIFF) -Spezifikation zum Speichern digitaler Audiodateien. Weitere Informationen zu diesem Dateiformat [hier](https://wiki.fileformat.com/audio/wav/) .
+WAV, bekannt für WAVE (Waveform Audio File Format), ist eine Teilmenge von Microsofts Resource Interchange File Format (RIFF) -Spezifikation zum Speichern digitaler Audiodateien. Weitere Informationen zu diesem Dateiformat [Hier](https://wiki.fileformat.com/audio/wav/) .
 
 ```csharp
 public static readonly FileType WAV;

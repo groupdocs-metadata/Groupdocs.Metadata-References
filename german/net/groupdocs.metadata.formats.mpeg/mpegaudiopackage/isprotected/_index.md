@@ -1,14 +1,14 @@
 ---
 title: IsProtected
 second_title: GroupDocs.Metadata für .NET-API-Referenz
-description: erhältStimmt falls geschützt.
+description: erhältWAHR falls geschützt.
 type: docs
 weight: 90
 url: /de/net/groupdocs.metadata.formats.mpeg/mpegaudiopackage/isprotected/
 ---
 ## MpegAudioPackage.IsProtected property
 
-erhält`Stimmt` falls geschützt.
+erhält`WAHR` falls geschützt.
 
 ```csharp
 public bool IsProtected { get; }
@@ -16,7 +16,7 @@ public bool IsProtected { get; }
 
 ### Eigentumswert
 
-`Stimmt` wenn geschützt ist; Andernfalls,`FALSCH` .
+`WAHR` wenn geschützt ist; ansonsten,`FALSCH` .
 
 ### Siehe auch
 

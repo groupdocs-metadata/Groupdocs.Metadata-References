@@ -20,7 +20,7 @@ Das mit der Datei verknüpfte EXIF-Metadatenpaket.
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * [Arbeiten mit EXIF-Metadaten](https://docs.groupdocs.com/display/metadatanet/Working+with+EXIF+metadata)
 

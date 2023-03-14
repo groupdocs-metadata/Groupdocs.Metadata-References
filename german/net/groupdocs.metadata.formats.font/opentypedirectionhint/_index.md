@@ -20,9 +20,9 @@ public enum OpenTypeDirectionHint : short
 | --- | --- | --- |
 | FullyMixed | `0` | Vollständig gemischte Richtungsglyphen. |
 | OnlyLeftToRight | `1` | Nur stark von links nach rechts. |
-| LeftToRightAndNeutrals | `2` | WieOnlyLeftToRight enthält aber auch Neutrale. |
+| LeftToRightAndNeutrals | `2` | wieOnlyLeftToRight enthält aber auch Neutrale. |
 | OnlyRightToLeft | `-1` | Nur stark von rechts nach links. |
-| RightToLeftAndNeutrals | `-2` | WieOnlyRightToLeft enthält aber auch Neutrale. |
+| RightToLeftAndNeutrals | `-2` | wieOnlyRightToLeft enthält aber auch Neutrale. |
 
 ### Siehe auch
 

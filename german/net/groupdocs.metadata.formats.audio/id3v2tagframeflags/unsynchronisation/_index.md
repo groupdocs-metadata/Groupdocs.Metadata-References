@@ -16,7 +16,7 @@ public bool Unsynchronisation { get; }
 
 ### Eigentumswert
 
-`Stimmt`, wenn auf diesen Rahmen eine Unsynchronisierung angewendet wurde; andernfalls falsch.
+`WAHR`, wenn auf diesen Rahmen eine Unsynchronisierung angewendet wurde; andernfalls falsch.
 
 ### Siehe auch
 

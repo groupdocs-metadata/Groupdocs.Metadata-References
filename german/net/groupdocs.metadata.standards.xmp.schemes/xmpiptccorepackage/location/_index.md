@@ -16,7 +16,7 @@ public string Location { get; set; }
 
 ### Eigentumswert
 
-Der Standort.
+Der Ort.
 
 ### Bemerkungen
 

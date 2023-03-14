@@ -16,7 +16,7 @@ public string OwnerName { get; }
 
 ### Eigentumswert
 
-Der Name des Besitzers.
+Der Name des Eigentümers.
 
 ### Siehe auch
 

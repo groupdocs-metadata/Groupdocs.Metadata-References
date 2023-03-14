@@ -1,14 +1,14 @@
 ---
 title: Track
 second_title: GroupDocs.Metadata für .NET-API-Referenz
-description: Ruft den Tracktitel ab oder legt ihn fest. Dieser Wert wird durch das ETTFeld repräsentiert.
+description: Ruft den Tracktitel ab oder legt ihn fest. Dieser Wert wird durch das ETTFeld dargestellt.
 type: docs
 weight: 70
 url: /de/net/groupdocs.metadata.formats.audio/lyricstag/track/
 ---
 ## LyricsTag.Track property
 
-Ruft den Tracktitel ab oder legt ihn fest. Dieser Wert wird durch das ETT-Feld repräsentiert.
+Ruft den Tracktitel ab oder legt ihn fest. Dieser Wert wird durch das ETT-Feld dargestellt.
 
 ```csharp
 public string Track { get; set; }

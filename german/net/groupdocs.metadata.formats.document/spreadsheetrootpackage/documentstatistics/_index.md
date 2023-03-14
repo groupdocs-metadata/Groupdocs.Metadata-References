@@ -20,7 +20,7 @@ Das Dokumentstatistikpaket.
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * [Arbeiten mit Metadaten in Tabellenkalkulationen](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+Spreadsheets)
 

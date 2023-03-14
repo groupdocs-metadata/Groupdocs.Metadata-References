@@ -1,14 +1,14 @@
 ---
 title: ONE
 second_title: GroupDocs.Metadata für .NET-API-Referenz
-description: Dateien mit der Erweiterung .ONE werden von der Microsoft OneNoteAnwendung erstellt. Weitere Informationen zu diesem Dateiformat hierhttps//wiki.fileformat.com/notetaking/one/ .
+description: Dateien mit der Erweiterung .ONE werden von der Microsoft OneNoteAnwendung erstellt. Weitere Informationen zu diesem Dateiformat Hierhttps//wiki.fileformat.com/notetaking/one/ .
 type: docs
 weight: 420
 url: /de/net/groupdocs.metadata.common/filetype/one/
 ---
 ## FileType.ONE field
 
-Dateien mit der Erweiterung .ONE werden von der Microsoft OneNote-Anwendung erstellt. Weitere Informationen zu diesem Dateiformat [hier](https://wiki.fileformat.com/note-taking/one/) .
+Dateien mit der Erweiterung .ONE werden von der Microsoft OneNote-Anwendung erstellt. Weitere Informationen zu diesem Dateiformat [Hier](https://wiki.fileformat.com/note-taking/one/) .
 
 ```csharp
 public static readonly FileType ONE;

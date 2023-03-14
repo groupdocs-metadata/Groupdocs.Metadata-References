@@ -16,7 +16,7 @@ public bool? IsTrapped { get; set; }
 
 ### Eigentumswert
 
-`Stimmt` wenn das Dokument eingeklemmt wurde; Andernfalls,`FALSCH` .
+`WAHR` wenn das Dokument eingeklemmt wurde; ansonsten,`FALSCH` .
 
 ### Siehe auch
 

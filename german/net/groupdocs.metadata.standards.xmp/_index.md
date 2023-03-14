@@ -32,7 +32,7 @@ Der Namespace bietet Funktionen zum Lesen und Schreiben von XMP-Metadaten (Exten
 | [XmpLangAlt](./xmplangalt) | Stellt die XMP-Sprachalternative dar. |
 | [XmpMeta](./xmpmeta) | steht für xmpmeta. Optional. Der Zweck dieses Elements besteht darin, XMP-Metadaten in allgemeinem XML-Text zu identifizieren, die andere Nicht-XMP-Verwendungen von RDF enthalten könnten. |
 | [XmpMetadataContainer](./xmpmetadatacontainer) | Repräsentiert einen Container für XMP-Metadateneigenschaften. |
-| [XmpNamespaces](./xmpnamespaces) | Enthält Namespaces, die verwendet werden in[`XmpPackage`](../groupdocs.metadata.standards.xmp/xmppackage) und[`XmpComplexType`](../groupdocs.metadata.standards.xmp/xmpcomplextype) . |
+| [XmpNamespaces](./xmpnamespaces) | Enthält Namespaces, die verwendet werden in[`XmpPackage`](../groupdocs.metadata.standards.xmp/xmppackage) Und[`XmpComplexType`](../groupdocs.metadata.standards.xmp/xmpcomplextype) . |
 | [XmpPackage](./xmppackage) | Repräsentiert die Basisabstraktion für das XMP-Paket. |
 | [XmpPacketWrapper](./xmppacketwrapper) | Enthält serialisiertes XMP-Paket einschließlich Header und Trailer. Ein Wrapper, der aus zwei XML-Verarbeitungsanweisungen (PIs) besteht, kann um das rdf:RDF-Element platziert werden. |
 | [XmpRational](./xmprational) | steht für XMP XmpRational. |

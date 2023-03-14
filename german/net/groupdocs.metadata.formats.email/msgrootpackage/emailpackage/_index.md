@@ -20,7 +20,7 @@ Das MSG-Metadatenpaket.
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * [Arbeiten mit gespeicherten E-Mails](https://docs.groupdocs.com/display/metadatanet/Working+with+saved+Emails)
 

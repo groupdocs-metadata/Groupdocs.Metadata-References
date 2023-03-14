@@ -25,7 +25,7 @@ Die Anzahl der betroffenen Eigenschaften.
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Beispiele, die die Verwendung dieser Methode demonstrieren: [Metadaten hinzufügen](https://docs.groupdocs.com/display/metadatanet/Adding+metadata)
 

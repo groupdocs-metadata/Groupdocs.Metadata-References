@@ -1,14 +1,14 @@
 ---
 title: OpenTypeMacintoshEncoding
 second_title: GroupDocs.Metadata für .NET-API-Referenz
-description: Stellt die Codierung für die darMacintosh Plattform.
+description: Stellt die Codierung für die darMacintoshPlattform.
 type: docs
 weight: 1490
 url: /de/net/groupdocs.metadata.formats.font/opentypemacintoshencoding/
 ---
 ## OpenTypeMacintoshEncoding enumeration
 
-Stellt die Codierung für die darMacintosh Plattform.
+Stellt die Codierung für die darMacintoshPlattform.
 
 ```csharp
 public enum OpenTypeMacintoshEncoding : ushort

@@ -25,9 +25,9 @@ Die Anzahl der betroffenen Eigenschaften.
 
 ### Bemerkungen
 
-Bitte beachten Sie, dass GroupDocs.Metadata implizit den Typ jeder gefilterten Eigenschaft überprüft. Es ist unmöglich, eine Eigenschaft mit einem Wert mit einem ungeeigneten Typ zu aktualisieren.
+Bitte beachten Sie, dass GroupDocs.Metadata implizit den Typ jeder gefilterten Eigenschaft prüft. Es ist unmöglich, eine Eigenschaft mit einem Wert mit einem ungeeigneten Typ zu aktualisieren.
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Beispiele, die die Verwendung dieser Methode demonstrieren: [Aktualisieren von Metadaten](https://docs.groupdocs.com/display/metadatanet/Updating+metadata)
 

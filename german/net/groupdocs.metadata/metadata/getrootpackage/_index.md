@@ -20,7 +20,7 @@ Das Stammpaket, das Zugriff auf alle Metadateneigenschaften bietet, die aus der 
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * [Durchlaufen Sie einen ganzen Metadatenbaum](https://docs.groupdocs.com/display/metadatanet/Traverse+a+whole+metadata+tree)
 
@@ -103,7 +103,7 @@ Das Stammpaket, das Zugriff auf alle Metadateneigenschaften bietet, die aus der 
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * [Durchlaufen Sie einen ganzen Metadatenbaum](https://docs.groupdocs.com/display/metadatanet/Traverse+a+whole+metadata+tree)
 

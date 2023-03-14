@@ -21,7 +21,7 @@ public bool Equals(PropertyValue x, PropertyValue y)
 
 ### Rückgabewert
 
-`true` wenn die angegebenen Objekte gleich sind; Andernfalls,`false`.
+`true` wenn die angegebenen Objekte gleich sind; ansonsten,`false`.
 
 ### Siehe auch
 

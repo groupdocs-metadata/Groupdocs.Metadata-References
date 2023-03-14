@@ -16,7 +16,7 @@ public bool? TrappedFlag { get; set; }
 
 ### Eigentumswert
 
-`Stimmt` wenn das Eingefangen-Flag gesetzt ist; Andernfalls,`FALSCH` .
+`WAHR` wenn das Eingefangen-Flag gesetzt ist; ansonsten,`FALSCH` .
 
 ### Siehe auch
 

@@ -17,7 +17,7 @@ public ID3V2AttachedPictureFrame(ID3V2EncodingType encoding, string mimeType,
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| encoding | ID3V2EncodingType | Die Rahmencodierung. |
+| encoding | ID3V2EncodingType | Die Rahmenkodierung. |
 | mimeType | String | Der MIME-Typ des Bildes. |
 | pictureType | ID3V2AttachedPictureType | Der Typ des Bildes. |
 | description | String | Die Beschreibung des Bildes. |

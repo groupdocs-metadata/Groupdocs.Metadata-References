@@ -30,7 +30,7 @@ Der Namespace bietet Funktionen, die für die Arbeit mit einer Vielzahl von Doku
 | [PdfRootPackage](./pdfrootpackage) | Stellt das Root-Paket dar, das die Arbeit mit Metadaten in einem PDF-Dokument ermöglicht. |
 | [PdfTypePackage](./pdftypepackage) | Stellt ein Metadatenpaket dar, das PDF-spezifische Dateiformatinformationen enthält. |
 | [PresentationComment](./presentationcomment) | Stellt einen Benutzerkommentar in einer Präsentation dar. |
-| [PresentationInspectionPackage](./presentationinspectionpackage) | Enthält Informationen zu Präsentationsteilen, die teilweise als Metadaten angesehen werden können. |
+| [PresentationInspectionPackage](./presentationinspectionpackage) | Enthält Informationen zu Präsentationsteilen, die teilweise als Metadaten betrachtet werden können. |
 | [PresentationPackage](./presentationpackage) | Stellt ein natives Metadatenpaket in einer Präsentation dar. |
 | [PresentationRootPackage](./presentationrootpackage) | Stellt das Stammpaket dar, das mit Metadaten in einer Präsentation arbeiten soll. |
 | [PresentationSlide](./presentationslide) | Repräsentiert eine Folie in einer Präsentation. |

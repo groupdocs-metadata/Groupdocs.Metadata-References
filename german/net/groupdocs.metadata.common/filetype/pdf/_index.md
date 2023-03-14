@@ -1,14 +1,14 @@
 ---
 title: PDF
 second_title: GroupDocs.Metadata für .NET-API-Referenz
-description: Portable Document Format PDF ist ein Dokumenttyp der von Adobe in den 1990er Jahren erstellt wurde. Der Zweck dieses Dateiformats bestand darin einen Standard für die Darstellung von Dokumenten und anderem Referenzmaterial in einzuführen einem Format das unabhängig von Anwendungssoftware Hardware und Betriebssystem ist. Erfahren Sie mehr über dieses Dateiformathierhttps//docs.fileformat.com/pdf/ .
+description: Portable Document Format PDF ist ein Dokumenttyp der von Adobe in den 1990er Jahren erstellt wurde. Der Zweck dieses Dateiformats bestand darin einen Standard für die Darstellung von Dokumenten und anderem Referenzmaterial in einzuführen einem Format das unabhängig von Anwendungssoftware Hardware und Betriebssystem ist. Erfahren Sie mehr über dieses DateiformatHierhttps//docs.fileformat.com/pdf/ .
 type: docs
 weight: 450
 url: /de/net/groupdocs.metadata.common/filetype/pdf/
 ---
 ## FileType.PDF field
 
-Portable Document Format (PDF) ist ein Dokumenttyp, der von Adobe in den 1990er Jahren erstellt wurde. Der Zweck dieses -Dateiformats bestand darin, einen Standard für die Darstellung von Dokumenten und anderem Referenzmaterial in einzuführen, einem Format, das unabhängig von Anwendungssoftware, Hardware und Betriebssystem ist. Erfahren Sie mehr über dieses Dateiformat[hier](https://docs.fileformat.com/pdf/) .
+Portable Document Format (PDF) ist ein Dokumenttyp, der von Adobe in den 1990er Jahren erstellt wurde. Der Zweck dieses -Dateiformats bestand darin, einen Standard für die Darstellung von Dokumenten und anderem Referenzmaterial in einzuführen, einem Format, das unabhängig von Anwendungssoftware, Hardware und Betriebssystem ist. Erfahren Sie mehr über dieses Dateiformat[Hier](https://docs.fileformat.com/pdf/) .
 
 ```csharp
 public static readonly FileType PDF;

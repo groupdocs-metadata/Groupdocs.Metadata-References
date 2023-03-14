@@ -1,14 +1,14 @@
 ---
 title: PSD
 second_title: GroupDocs.Metadata für .NET-API-Referenz
-description: PSD Photoshop Document stellt das native Dateiformat von Adobe Photoshop dar das für Grafikdesign und entwicklung verwendet wird. Weitere Informationen zu diesem Dateiformat hierhttps//wiki.fileformat.com/image/psd/ .
+description: PSD Photoshop Document stellt das native Dateiformat von Adobe Photoshop dar das für Grafikdesign und entwicklung verwendet wird. Weitere Informationen zu diesem Dateiformat Hierhttps//wiki.fileformat.com/image/psd/ .
 type: docs
 weight: 560
 url: /de/net/groupdocs.metadata.common/filetype/psd/
 ---
 ## FileType.PSD field
 
-PSD, Photoshop Document, stellt das native Dateiformat von Adobe Photoshop dar, das für Grafikdesign und -entwicklung verwendet wird. Weitere Informationen zu diesem Dateiformat [hier](https://wiki.fileformat.com/image/psd/) .
+PSD, Photoshop Document, stellt das native Dateiformat von Adobe Photoshop dar, das für Grafikdesign und -entwicklung verwendet wird. Weitere Informationen zu diesem Dateiformat [Hier](https://wiki.fileformat.com/image/psd/) .
 
 ```csharp
 public static readonly FileType PSD;

@@ -1,14 +1,14 @@
 ---
 title: OTF
 second_title: GroupDocs.Metadata für .NET-API-Referenz
-description: Eine Datei mit der Erweiterung .otf bezieht sich auf das OpenTypeSchriftformat. Das OTFSchriftformat ist skalierbarer und erweitert die vorhandenen Funktionen der TTFFormate für digitale Typografie. Weitere Informationen zu diesem Dateiformat hierhttps//docs.fileformat.com/font/otf/ .
+description: Eine Datei mit der Erweiterung .otf bezieht sich auf das OpenTypeSchriftformat. Das OTFSchriftformat ist skalierbarer und erweitert die vorhandenen Funktionen der TTFFormate für digitale Typografie. Weitere Informationen zu diesem Dateiformat Hierhttps//docs.fileformat.com/font/otf/ .
 type: docs
 weight: 440
 url: /de/net/groupdocs.metadata.common/filetype/otf/
 ---
 ## FileType.OTF field
 
-Eine Datei mit der Erweiterung .otf bezieht sich auf das OpenType-Schriftformat. Das OTF-Schriftformat ist skalierbarer und erweitert die vorhandenen Funktionen der TTF-Formate für digitale Typografie. Weitere Informationen zu diesem Dateiformat [hier](https://docs.fileformat.com/font/otf/) .
+Eine Datei mit der Erweiterung .otf bezieht sich auf das OpenType-Schriftformat. Das OTF-Schriftformat ist skalierbarer und erweitert die vorhandenen Funktionen der TTF-Formate für digitale Typografie. Weitere Informationen zu diesem Dateiformat [Hier](https://docs.fileformat.com/font/otf/) .
 
 ```csharp
 public static readonly FileType OTF;
