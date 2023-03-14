@@ -1,14 +1,14 @@
 ---
 title: OpenTypeMacintoshNameRecord
 second_title: GroupDocs.Metadata for .NET API-referens
-description: Representerar namnposttabellens värde förMacintosh plattform.
+description: Representerar namnposttabellens värde förMacintoshplattform.
 type: docs
 weight: 1510
 url: /sv/net/groupdocs.metadata.formats.font/opentypemacintoshnamerecord/
 ---
 ## OpenTypeMacintoshNameRecord class
 
-Representerar namnposttabellens värde förMacintosh plattform.
+Representerar namnposttabellens värde förMacintoshplattform.
 
 ```csharp
 public class OpenTypeMacintoshNameRecord : OpenTypeBaseNameRecord

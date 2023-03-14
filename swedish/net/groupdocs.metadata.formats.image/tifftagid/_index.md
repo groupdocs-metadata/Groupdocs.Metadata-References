@@ -176,7 +176,7 @@ public enum TiffTagID : ushort
 | MeteringMode | `37383` | Mätläget. |
 | LightSource | `37384` | Typ av ljuskälla. |
 | Flash | `37385` | Den här taggen indikerar blixtens status när bilden togs. Bit 0 indikerar blixtavfyrningsstatus, bit 1 och 2 indikerar blixtreturstatus, bitar 3 och 4 indikerar blixtläge, bit 5 indikerar om blixtfunktionen är närvarande och bit 6 indikerar "röda ögon"-läge. |
-| SubjectArea | `37396` | Den här taggen indikerar platsen och området för huvudmotivet i den övergripande scenen. |
+| SubjectArea | `37396` | Den här taggen anger platsen och området för huvudmotivet i den övergripande scenen. |
 | FocalLength | `37386` | Objektivets faktiska brännvidd, i mm. Konvertering görs inte till brännvidden för en 35 mm filmkamera. |
 | FlashEnergy | `41483` | Indikerar strobeenergin vid den tidpunkt då bilden tas, mätt i Beam Candle Power Seconds (BCPS). |
 | SpatialFrequencyResponse | `41484` | Denna tagg registrerar kameran eller inmatningsenhetens rumsliga frekvenstabell och SFR-värden i riktningen för bildens bredd, bildhöjd och diagonal riktning, enligt ISO 12233. |

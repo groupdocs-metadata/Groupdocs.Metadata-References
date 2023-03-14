@@ -1,14 +1,14 @@
 ---
 title: OpenTypeMacintoshLanguage
 second_title: GroupDocs.Metadata for .NET API-referens
-description: Representerar språkenum förMacintosh plattform.
+description: Representerar språkenum förMacintoshplattform.
 type: docs
 weight: 1500
 url: /sv/net/groupdocs.metadata.formats.font/opentypemacintoshlanguage/
 ---
 ## OpenTypeMacintoshLanguage enumeration
 
-Representerar språkenum förMacintosh plattform.
+Representerar språkenum förMacintoshplattform.
 
 ```csharp
 public enum OpenTypeMacintoshLanguage : ushort

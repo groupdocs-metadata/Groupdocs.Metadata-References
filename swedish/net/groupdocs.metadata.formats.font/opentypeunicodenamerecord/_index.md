@@ -1,14 +1,14 @@
 ---
 title: OpenTypeUnicodeNameRecord
 second_title: GroupDocs.Metadata for .NET API-referens
-description: Representerar namnposttabellens värde förUnicode plattform.
+description: Representerar namnposttabellens värde förUnicodeplattform.
 type: docs
 weight: 1580
 url: /sv/net/groupdocs.metadata.formats.font/opentypeunicodenamerecord/
 ---
 ## OpenTypeUnicodeNameRecord class
 
-Representerar namnposttabellens värde förUnicode plattform.
+Representerar namnposttabellens värde förUnicodeplattform.
 
 ```csharp
 public class OpenTypeUnicodeNameRecord : OpenTypeBaseNameRecord

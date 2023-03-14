@@ -16,7 +16,7 @@ public PropertyValue(int value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | Int32 | EnInt32 värde. |
+| value | Int32 | EnInt32värde. |
 
 ### Se även
 
@@ -36,7 +36,7 @@ public PropertyValue(long value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | Int64 | AInt64 värde. |
+| value | Int64 | AInt64värde. |
 
 ### Se även
 
@@ -56,7 +56,7 @@ public PropertyValue(bool value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | Boolean | ABoolean värde. |
+| value | Boolean | ABooleanvärde. |
 
 ### Se även
 
@@ -76,7 +76,7 @@ public PropertyValue(double value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | Double | ADouble värde. |
+| value | Double | ADoublevärde. |
 
 ### Se även
 
@@ -96,7 +96,7 @@ public PropertyValue(string value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | String | AString värde. |
+| value | String | AStringvärde. |
 
 ### Se även
 
@@ -116,7 +116,7 @@ public PropertyValue(DateTime value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | DateTime | ADateTime värde. |
+| value | DateTime | ADateTimevärde. |
 
 ### Se även
 
@@ -136,7 +136,7 @@ public PropertyValue(TimeSpan value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | TimeSpan | ATimeSpan värde. |
+| value | TimeSpan | ATimeSpanvärde. |
 
 ### Se även
 
@@ -228,7 +228,7 @@ public PropertyValue(int[] values)
 
 ## PropertyValue(long[]) {#constructor_7}
 
-Initierar en ny instans av[`PropertyValue`](../../propertyvalue)klass med en matris med långa värden.
+Initierar en ny instans av[`PropertyValue`](../../propertyvalue) klass med en matris med långa värden.
 
 ```csharp
 public PropertyValue(long[] values)

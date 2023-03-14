@@ -16,7 +16,7 @@ public XmpBoolean(bool value)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| value | Boolean | Boolean värde. |
+| value | Boolean | Booleanvärde. |
 
 ### Se även
 

@@ -1,14 +1,14 @@
 ---
 title: PreviewOptions
 second_title: GroupDocs.Metadata for .NET API-referens
-description: Initierar en ny instans avPreviewOptionsgroupdocs.metadata.options/previewoptionsklass som gör att utgångsströmmen stängs.
+description: Initierar en ny instans avPreviewOptionsgroupdocs.metadata.options/previewoptions klass som gör att utgångsströmmen stängs.
 type: docs
 weight: 10
 url: /sv/net/groupdocs.metadata.options/previewoptions/previewoptions/
 ---
 ## PreviewOptions(CreatePageStream) {#constructor}
 
-Initierar en ny instans av[`PreviewOptions`](../../previewoptions)klass som gör att utgångsströmmen stängs.
+Initierar en ny instans av[`PreviewOptions`](../../previewoptions) klass som gör att utgångsströmmen stängs.
 
 ```csharp
 public PreviewOptions(CreatePageStream createPageStream)

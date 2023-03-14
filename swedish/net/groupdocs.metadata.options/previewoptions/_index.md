@@ -18,7 +18,7 @@ public class PreviewOptions
 
 | namn | Beskrivning |
 | --- | --- |
-| [PreviewOptions](previewoptions#constructor)(CreatePageStream) | Initierar en ny instans av[`PreviewOptions`](../previewoptions)klass som gör att utgångsströmmen stängs. |
+| [PreviewOptions](previewoptions#constructor)(CreatePageStream) | Initierar en ny instans av[`PreviewOptions`](../previewoptions) klass som gör att utgångsströmmen stängs. |
 | [PreviewOptions](previewoptions#constructor_1)(CreatePageStream, ReleasePageStream) | Initierar en ny instans av[`PreviewOptions`](../previewoptions) klass som gör att utdataströmmen returneras till klienten för vidare användning. |
 
 ## Egenskaper

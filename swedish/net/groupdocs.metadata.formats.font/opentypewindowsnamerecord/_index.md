@@ -1,14 +1,14 @@
 ---
 title: OpenTypeWindowsNameRecord
 second_title: GroupDocs.Metadata for .NET API-referens
-description: Representerar namnposttabellens värde förWindows plattform.
+description: Representerar namnposttabellens värde förWindowsplattform.
 type: docs
 weight: 1640
 url: /sv/net/groupdocs.metadata.formats.font/opentypewindowsnamerecord/
 ---
 ## OpenTypeWindowsNameRecord class
 
-Representerar namnposttabellens värde förWindows plattform.
+Representerar namnposttabellens värde förWindowsplattform.
 
 ```csharp
 public class OpenTypeWindowsNameRecord : OpenTypeBaseNameRecord

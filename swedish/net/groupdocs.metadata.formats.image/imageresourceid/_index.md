@@ -49,7 +49,7 @@ public enum ImageResourceID
 | WatermarkPhotoshop5 | `1040` | Vattenstämpel. En byte. |
 | IccUntaggedProfilePhotoshop5 | `1041` | ICC otaggad profil. 1 byte som inaktiverar all antagen profilhantering när filen öppnas. 1 = avsiktligt otaggat. |
 | TransparencyIndexPhotoshop6 | `1047` | Transparensindex. 2 byte för indexet för transparent färg, om någon. |
-| GlobalAltitudePhotoshop6 | `1049` | Global Altitude. 4 byte post för höjd. |
+| GlobalAltitudePhotoshop6 | `1049` | Global höjd. 4 byte post för höjd. |
 | SlicesPhotoshop6 | `1050` | Skivor (Photoshop 6). |
 | WorkflowUrlPhotoshop6 | `1051` | Arbetsflödes-URL. Unicode-sträng. Photoshop 6. |
 | AlphaIdentifiersPhotoshop6 | `1053` | Alfa-identifierare. 4 byte lång, följt av 4 byte vardera för varje alfa-identifierare. |
