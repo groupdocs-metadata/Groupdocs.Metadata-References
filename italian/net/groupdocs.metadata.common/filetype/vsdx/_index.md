@@ -1,14 +1,14 @@
 ---
 title: VSDX
 second_title: Riferimento API GroupDocs.Metadata per .NET
-description: I file con estensione .VSDX rappresentano il formato di file Microsoft Visio introdotto da Microsoft Office 2013 in poi. Ulteriori informazioni su questo formato di file quihttps//wiki.fileformat.com/visio/vsdx/ .
+description: I file con estensione .VSDX rappresentano il formato di file Microsoft Visio introdotto da Microsoft Office 2013 in poi. Ulteriori informazioni su questo formato di file Quihttps//wiki.fileformat.com/visio/vsdx/ .
 type: docs
 weight: 680
 url: /it/net/groupdocs.metadata.common/filetype/vsdx/
 ---
 ## FileType.VSDX field
 
-I file con estensione .VSDX rappresentano il formato di file Microsoft Visio introdotto da Microsoft Office 2013 in poi. Ulteriori informazioni su questo formato di file [qui](https://wiki.fileformat.com/visio/vsdx/) .
+I file con estensione .VSDX rappresentano il formato di file Microsoft Visio introdotto da Microsoft Office 2013 in poi. Ulteriori informazioni su questo formato di file [Qui](https://wiki.fileformat.com/visio/vsdx/) .
 
 ```csharp
 public static readonly FileType VSDX;

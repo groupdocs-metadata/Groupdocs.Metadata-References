@@ -1,14 +1,14 @@
 ---
 title: HEIC
 second_title: Riferimento API GroupDocs.Metadata per .NET
-description: Un file HEIC è un formato di file immagine contenitore ad alta efficienza in grado di archiviare più immagini come raccolta in un singolo file. HEIC come HEIF sono compressi utilizzando lo standard HEVC High Efficiency Video Coding e sono di dimensioni inferiori senza compromettendo la qualità. Ulteriori informazioni su questo formato di file quihttps//docs.fileformat.com/image/heic/ .
+description: Un file HEIC è un formato di file immagine contenitore ad alta efficienza in grado di archiviare più immagini come raccolta in un singolo file. HEIC come HEIF sono compressi utilizzando lo standard HEVC High Efficiency Video Coding e sono di dimensioni inferiori senza compromettendo la qualità. Ulteriori informazioni su questo formato di file Quihttps//docs.fileformat.com/image/heic/ .
 type: docs
 weight: 200
 url: /it/net/groupdocs.metadata.common/filetype/heic/
 ---
 ## FileType.HEIC field
 
-Un file HEIC è un formato di file immagine contenitore ad alta efficienza in grado di archiviare più immagini come raccolta in un singolo file. HEIC, come HEIF, sono compressi utilizzando lo standard HEVC (High Efficiency Video Coding) e sono di dimensioni inferiori senza compromettendo la qualità. Ulteriori informazioni su questo formato di file [qui](https://docs.fileformat.com/image/heic/) .
+Un file HEIC è un formato di file immagine contenitore ad alta efficienza in grado di archiviare più immagini come raccolta in un singolo file. HEIC, come HEIF, sono compressi utilizzando lo standard HEVC (High Efficiency Video Coding) e sono di dimensioni inferiori senza compromettendo la qualità. Ulteriori informazioni su questo formato di file [Qui](https://docs.fileformat.com/image/heic/) .
 
 ```csharp
 public static readonly FileType HEIC;

@@ -16,7 +16,7 @@ public bool? Marked { get; set; }
 
 ### Valore della proprietà
 
-`VERO` se la risorsa è protetta da diritti; altrimenti`falso` . Se false, indica che si tratta di una risorsa di dominio pubblico. Ometti se lo stato è sconosciuto.
+`VERO` se la risorsa è protetta da diritti; Altrimenti`falso` . Se false, indica che si tratta di una risorsa di dominio pubblico. Ometti se lo stato è sconosciuto.
 
 ### Guarda anche
 

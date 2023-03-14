@@ -1,14 +1,14 @@
 ---
 title: TrackRef
 second_title: Riferimento API GroupDocs.Metadata per .NET
-description: Ottiene o imposta il riferimento per fornire la direzione del movimento del ricevitore GPS. T indica la direzione reale e M è la direzione magnetica.
+description: Ottiene o imposta il riferimento per fornire la direzione del movimento del ricevitore GPS. T indica la direzione vera e M è la direzione magnetica.
 type: docs
 weight: 310
 url: /it/net/groupdocs.metadata.standards.exif/exifgpspackage/trackref/
 ---
 ## ExifGpsPackage.TrackRef property
 
-Ottiene o imposta il riferimento per fornire la direzione del movimento del ricevitore GPS. 'T' indica la direzione reale e 'M' è la direzione magnetica.
+Ottiene o imposta il riferimento per fornire la direzione del movimento del ricevitore GPS. 'T' indica la direzione vera e 'M' è la direzione magnetica.
 
 ```csharp
 public string TrackRef { get; set; }

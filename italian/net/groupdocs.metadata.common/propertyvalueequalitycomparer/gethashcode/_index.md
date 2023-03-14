@@ -16,7 +16,7 @@ public int GetHashCode(PropertyValue obj)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| obj | PropertyValue | Il[`PropertyValue`](../../propertyvalue) per cui deve essere restituito un codice hash. |
+| obj | PropertyValue | IL[`PropertyValue`](../../propertyvalue) per cui deve essere restituito un codice hash. |
 
 ### Valore di ritorno
 
@@ -26,7 +26,7 @@ Un codice hash per l'oggetto specificato.
 
 | eccezione | condizione |
 | --- | --- |
-| ArgumentNullException | Il tipo di*obj* è un tipo di riferimento e*obj* è`null`. |
+| ArgumentNullException | Il tipo di*obj* è un tipo di riferimento e*obj* È`null`. |
 
 ### Guarda anche
 

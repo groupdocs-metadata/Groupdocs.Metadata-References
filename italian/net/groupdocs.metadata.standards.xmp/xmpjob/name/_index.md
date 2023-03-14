@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: Riferimento API GroupDocs.Metadata per .NET
-description: Ottiene o imposta il nome informale del processo. Questo nome è per la visualizzazione dellutente e i sistemi informali.
+description: Ottiene o imposta il nome informale del lavoro. Questo nome è per la visualizzazione dellutente e i sistemi informali.
 type: docs
 weight: 30
 url: /it/net/groupdocs.metadata.standards.xmp/xmpjob/name/
 ---
 ## XmpJob.Name property
 
-Ottiene o imposta il nome informale del processo. Questo nome è per la visualizzazione dell'utente e i sistemi informali.
+Ottiene o imposta il nome informale del lavoro. Questo nome è per la visualizzazione dell'utente e i sistemi informali.
 
 ```csharp
 public string Name { get; set; }

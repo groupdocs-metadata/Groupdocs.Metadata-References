@@ -1,14 +1,14 @@
 ---
 title: MP3
 second_title: Riferimento API GroupDocs.Metadata per .NET
-description: I file con estensione MP3 sono formati di file codificati digitalmente per i file audio che sono formalmente basati su MPEG1 Audio Layer III o MPEG2 Audio Layer III. Ulteriori informazioni su questo formato di file quihttps//wiki.fileformat.com/audio/mp3/ .
+description: I file con estensione MP3 sono formati di file codificati digitalmente per i file audio che sono formalmente basati su MPEG1 Audio Layer III o MPEG2 Audio Layer III. Ulteriori informazioni su questo formato di file Quihttps//wiki.fileformat.com/audio/mp3/ .
 type: docs
 weight: 360
 url: /it/net/groupdocs.metadata.common/filetype/mp3/
 ---
 ## FileType.MP3 field
 
-I file con estensione MP3 sono formati di file codificati digitalmente per i file audio che sono formalmente basati su MPEG-1 Audio Layer III o MPEG-2 Audio Layer III. Ulteriori informazioni su questo formato di file [qui](https://wiki.fileformat.com/audio/mp3/) .
+I file con estensione MP3 sono formati di file codificati digitalmente per i file audio che sono formalmente basati su MPEG-1 Audio Layer III o MPEG-2 Audio Layer III. Ulteriori informazioni su questo formato di file [Qui](https://wiki.fileformat.com/audio/mp3/) .
 
 ```csharp
 public static readonly FileType MP3;

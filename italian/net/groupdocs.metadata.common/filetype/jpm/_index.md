@@ -1,14 +1,14 @@
 ---
 title: JPM
 second_title: Riferimento API GroupDocs.Metadata per .NET
-description: JPEG 2000 JPM è un sistema di codifica delle immagini e uno standard di compressione delle immagini allavanguardia. Progettato utilizzando la tecnologia wavelet JPEG 2000 può codificare contenuti senza perdita di qualsiasi qualità contemporaneamente. Ulteriori informazioni su questo formato di file quihttps//wiki.fileformat.com/image/jpm/ .
+description: JPEG 2000 JPM è un sistema di codifica delle immagini e uno standard di compressione delle immagini allavanguardia. Progettato utilizzando la tecnologia wavelet JPEG 2000 può codificare contenuti senza perdita di qualsiasi qualità contemporaneamente. Ulteriori informazioni su questo formato di file Quihttps//wiki.fileformat.com/image/jpm/ .
 type: docs
 weight: 290
 url: /it/net/groupdocs.metadata.common/filetype/jpm/
 ---
 ## FileType.JPM field
 
-JPEG 2000 (JPM) è un sistema di codifica delle immagini e uno standard di compressione delle immagini all'avanguardia. Progettato utilizzando la tecnologia wavelet, JPEG 2000 può codificare contenuti senza perdita di qualsiasi qualità contemporaneamente. Ulteriori informazioni su questo formato di file [qui](https://wiki.fileformat.com/image/jpm/) .
+JPEG 2000 (JPM) è un sistema di codifica delle immagini e uno standard di compressione delle immagini all'avanguardia. Progettato utilizzando la tecnologia wavelet, JPEG 2000 può codificare contenuti senza perdita di qualsiasi qualità contemporaneamente. Ulteriori informazioni su questo formato di file [Qui](https://wiki.fileformat.com/image/jpm/) .
 
 ```csharp
 public static readonly FileType JPM;

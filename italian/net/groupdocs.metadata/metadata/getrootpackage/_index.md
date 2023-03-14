@@ -20,7 +20,7 @@ Il pacchetto radice che fornisce l'accesso a tutte le proprietà dei metadati es
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * [Attraversa un intero albero di metadati](https://docs.groupdocs.com/display/metadatanet/Traverse+a+whole+metadata+tree)
 
@@ -103,7 +103,7 @@ Il pacchetto radice che fornisce l'accesso a tutte le proprietà dei metadati es
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * [Attraversa un intero albero di metadati](https://docs.groupdocs.com/display/metadatanet/Traverse+a+whole+metadata+tree)
 

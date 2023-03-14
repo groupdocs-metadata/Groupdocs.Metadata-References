@@ -16,7 +16,7 @@ public bool Copyright { get; }
 
 ### Valore della proprietà
 
-`VERO`se copyright; altrimenti,`falso` .
+`VERO`se copyright; Altrimenti,`falso` .
 
 ### Guarda anche
 

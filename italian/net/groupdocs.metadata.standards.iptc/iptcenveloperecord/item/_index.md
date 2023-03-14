@@ -20,7 +20,7 @@ public IptcDataSet this[IptcEnvelopeRecordDataSet dataSetNumber] { get; }
 
 ### Valore di ritorno
 
-Il[`IptcDataSet`](../../iptcdataset) con il numero specificato.
+IL[`IptcDataSet`](../../iptcdataset) con il numero specificato.
 
 ### Guarda anche
 

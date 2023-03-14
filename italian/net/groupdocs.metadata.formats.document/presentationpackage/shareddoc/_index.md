@@ -16,7 +16,7 @@ public bool SharedDoc { get; set; }
 
 ### Valore della proprietà
 
-`VERO` se la presentazione è condivisa tra più persone; altrimenti,`falso` .
+`VERO` se la presentazione è condivisa tra più persone; Altrimenti,`falso` .
 
 ### Osservazioni
 

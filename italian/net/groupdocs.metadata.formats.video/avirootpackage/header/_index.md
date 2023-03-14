@@ -20,7 +20,7 @@ Il pacchetto di intestazione AVI.
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * [Lavorare con i metadati nei file AVI](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+AVI+files)
 

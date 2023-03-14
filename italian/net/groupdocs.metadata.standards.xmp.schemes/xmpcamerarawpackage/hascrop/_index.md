@@ -16,7 +16,7 @@ public bool? HasCrop { get; set; }
 
 ### Valore della proprietà
 
-`VERO` se l'immagine ha un rettangolo di ritaglio; altrimenti,`falso` .
+`VERO` se l'immagine ha un rettangolo di ritaglio; Altrimenti,`falso` .
 
 ### Guarda anche
 

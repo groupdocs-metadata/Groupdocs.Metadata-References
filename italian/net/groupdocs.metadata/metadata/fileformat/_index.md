@@ -16,7 +16,7 @@ public FileFormat FileFormat { get; }
 
 ### Valore della proprietà
 
-Il tipo di file caricato se riconosciuto; altrimenti,Unknown.
+Il tipo di file caricato se riconosciuto; Altrimenti,Unknown.
 
 ### Guarda anche
 

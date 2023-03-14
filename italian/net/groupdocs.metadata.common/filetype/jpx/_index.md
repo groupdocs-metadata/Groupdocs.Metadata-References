@@ -1,14 +1,14 @@
 ---
 title: JPX
 second_title: Riferimento API GroupDocs.Metadata per .NET
-description: JPEG 2000 JPX è un sistema di codifica delle immagini e uno standard di compressione delle immagini allavanguardia. Progettato utilizzando la tecnologia wavelet JPEG 2000 può codificare contenuti senza perdita di qualsiasi qualità contemporaneamente. Ulteriori informazioni su questo formato di file quihttps//wiki.fileformat.com/image/jpx/ .
+description: JPEG 2000 JPX è un sistema di codifica delle immagini e uno standard di compressione delle immagini allavanguardia. Progettato utilizzando la tecnologia wavelet JPEG 2000 può codificare contenuti senza perdita di qualsiasi qualità contemporaneamente. Ulteriori informazioni su questo formato di file Quihttps//wiki.fileformat.com/image/jpx/ .
 type: docs
 weight: 300
 url: /it/net/groupdocs.metadata.common/filetype/jpx/
 ---
 ## FileType.JPX field
 
-JPEG 2000 (JPX) è un sistema di codifica delle immagini e uno standard di compressione delle immagini all'avanguardia. Progettato utilizzando la tecnologia wavelet, JPEG 2000 può codificare contenuti senza perdita di qualsiasi qualità contemporaneamente. Ulteriori informazioni su questo formato di file [qui](https://wiki.fileformat.com/image/jpx/) .
+JPEG 2000 (JPX) è un sistema di codifica delle immagini e uno standard di compressione delle immagini all'avanguardia. Progettato utilizzando la tecnologia wavelet, JPEG 2000 può codificare contenuti senza perdita di qualsiasi qualità contemporaneamente. Ulteriori informazioni su questo formato di file [Qui](https://wiki.fileformat.com/image/jpx/) .
 
 ```csharp
 public static readonly FileType JPX;

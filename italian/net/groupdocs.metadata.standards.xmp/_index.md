@@ -32,7 +32,7 @@ Lo spazio dei nomi fornisce funzionalità per la lettura e la scrittura di metad
 | [XmpLangAlt](./xmplangalt) | Rappresenta l'alternativa del linguaggio XMP. |
 | [XmpMeta](./xmpmeta) | Rappresenta xmpmeta. Facoltativo. Lo scopo di questo elemento è identificare i metadati XMP all'interno del testo XML generale che potrebbe contenere altri usi non XMP di RDF. |
 | [XmpMetadataContainer](./xmpmetadatacontainer) | Rappresenta un contenitore per le proprietà dei metadati XMP. |
-| [XmpNamespaces](./xmpnamespaces) | Contiene gli spazi dei nomi utilizzati in[`XmpPackage`](../groupdocs.metadata.standards.xmp/xmppackage) e[`XmpComplexType`](../groupdocs.metadata.standards.xmp/xmpcomplextype) . |
+| [XmpNamespaces](./xmpnamespaces) | Contiene gli spazi dei nomi utilizzati in[`XmpPackage`](../groupdocs.metadata.standards.xmp/xmppackage) E[`XmpComplexType`](../groupdocs.metadata.standards.xmp/xmpcomplextype) . |
 | [XmpPackage](./xmppackage) | Rappresenta l'astrazione di base per il pacchetto XMP. |
 | [XmpPacketWrapper](./xmppacketwrapper) | Contiene un pacchetto XMP serializzato che include intestazione e trailer. Un wrapper costituito da una coppia di istruzioni di elaborazione XML (PI) può essere posizionato attorno all'elemento rdf:RDF. |
 | [XmpRational](./xmprational) | Rappresenta XMP XmpRational. |

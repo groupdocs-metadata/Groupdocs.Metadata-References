@@ -1,14 +1,14 @@
 ---
 title: JPEG
 second_title: Riferimento API GroupDocs.Metadata per .NET
-description: Un JPEG è un tipo di formato di immagine che viene salvato utilizzando il metodo di compressione con perdita. Ulteriori informazioni su questo formato di file quihttps//wiki.fileformat.com/image/jpeg/ .
+description: Un JPEG è un tipo di formato di immagine che viene salvato utilizzando il metodo di compressione con perdita. Ulteriori informazioni su questo formato di file Quihttps//wiki.fileformat.com/image/jpeg/ .
 type: docs
 weight: 260
 url: /it/net/groupdocs.metadata.common/filetype/jpeg/
 ---
 ## FileType.JPEG field
 
-Un JPEG è un tipo di formato di immagine che viene salvato utilizzando il metodo di compressione con perdita. Ulteriori informazioni su questo formato di file [qui](https://wiki.fileformat.com/image/jpeg/) .
+Un JPEG è un tipo di formato di immagine che viene salvato utilizzando il metodo di compressione con perdita. Ulteriori informazioni su questo formato di file [Qui](https://wiki.fileformat.com/image/jpeg/) .
 
 ```csharp
 public static readonly FileType JPEG;

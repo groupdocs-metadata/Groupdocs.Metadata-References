@@ -16,7 +16,7 @@ public ImageResourceID ID { get; }
 
 ### Valore della proprietà
 
-L'identificativo.
+L'identificatore.
 
 ### Guarda anche
 

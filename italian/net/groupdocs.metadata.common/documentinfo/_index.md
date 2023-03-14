@@ -26,7 +26,7 @@ public class DocumentInfo : IDocumentInfo
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * [Ottieni informazioni sul documento](https://docs.groupdocs.com/display/metadatanet/Get+document+info)
 

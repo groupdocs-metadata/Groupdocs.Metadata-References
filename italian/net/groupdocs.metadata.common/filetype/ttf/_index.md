@@ -1,14 +1,14 @@
 ---
 title: TTF
 second_title: Riferimento API GroupDocs.Metadata per .NET
-description: TTF rappresenta i file di font basati sulla tecnologia dei font delle specifiche TrueType. I font TrueType offrono la massima qualità di visualizzazione su schermi di computer e stampanti senza alcuna dipendenza dalla risoluzione. Ulteriori informazioni su questo formato di file quihttps//docs.fileformat.com/font/ttf/ .
+description: TTF rappresenta i file di font basati sulla tecnologia dei font delle specifiche TrueType. I font TrueType offrono la massima qualità di visualizzazione su schermi di computer e stampanti senza alcuna dipendenza dalla risoluzione. Ulteriori informazioni su questo formato di file Quihttps//docs.fileformat.com/font/ttf/ .
 type: docs
 weight: 620
 url: /it/net/groupdocs.metadata.common/filetype/ttf/
 ---
 ## FileType.TTF field
 
-TTF rappresenta i file di font basati sulla tecnologia dei font delle specifiche TrueType. I font TrueType offrono la massima qualità di visualizzazione su schermi di computer e stampanti senza alcuna dipendenza dalla risoluzione. Ulteriori informazioni su questo formato di file [qui](https://docs.fileformat.com/font/ttf/) .
+TTF rappresenta i file di font basati sulla tecnologia dei font delle specifiche TrueType. I font TrueType offrono la massima qualità di visualizzazione su schermi di computer e stampanti senza alcuna dipendenza dalla risoluzione. Ulteriori informazioni su questo formato di file [Qui](https://docs.fileformat.com/font/ttf/) .
 
 ```csharp
 public static readonly FileType TTF;

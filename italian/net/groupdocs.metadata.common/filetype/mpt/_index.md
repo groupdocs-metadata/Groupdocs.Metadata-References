@@ -1,14 +1,14 @@
 ---
 title: MPT
 second_title: Riferimento API GroupDocs.Metadata per .NET
-description: MPT è un formato di file proprietario sviluppato da Microsoft come formato di file per Microsoft Project MSP un software applicativo per la gestione dei progetti. Ulteriori informazioni su questo formato di file quihttps//wiki.fileformat.com/projectmanagement/mpt/ .
+description: MPT è un formato di file proprietario sviluppato da Microsoft come formato di file per Microsoft Project MSP un software applicativo per la gestione dei progetti. Ulteriori informazioni su questo formato di file Quihttps//wiki.fileformat.com/projectmanagement/mpt/ .
 type: docs
 weight: 380
 url: /it/net/groupdocs.metadata.common/filetype/mpt/
 ---
 ## FileType.MPT field
 
-MPT è un formato di file proprietario sviluppato da Microsoft come formato di file per Microsoft Project (MSP), un software applicativo per la gestione dei progetti. Ulteriori informazioni su questo formato di file [qui](https://wiki.fileformat.com/project-management/mpt/) .
+MPT è un formato di file proprietario sviluppato da Microsoft come formato di file per Microsoft Project (MSP), un software applicativo per la gestione dei progetti. Ulteriori informazioni su questo formato di file [Qui](https://wiki.fileformat.com/project-management/mpt/) .
 
 ```csharp
 public static readonly FileType MPT;

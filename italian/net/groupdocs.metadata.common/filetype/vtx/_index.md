@@ -1,14 +1,14 @@
 ---
 title: VTX
 second_title: Riferimento API GroupDocs.Metadata per .NET
-description: I file con estensione .VTX si riferiscono al modello di disegno di Microsoft Visio che viene salvato su disco in formato file XML. Ulteriori informazioni su questo formato di file quihttps//docs.fileformat.com/visio/vtx/ .
+description: I file con estensione .VTX si riferiscono al modello di disegno di Microsoft Visio che viene salvato su disco in formato file XML. Ulteriori informazioni su questo formato di file Quihttps//docs.fileformat.com/visio/vtx/ .
 type: docs
 weight: 710
 url: /it/net/groupdocs.metadata.common/filetype/vtx/
 ---
 ## FileType.VTX field
 
-I file con estensione .VTX si riferiscono al modello di disegno di Microsoft Visio che viene salvato su disco in formato file XML. Ulteriori informazioni su questo formato di file [qui](https://docs.fileformat.com/visio/vtx/) .
+I file con estensione .VTX si riferiscono al modello di disegno di Microsoft Visio che viene salvato su disco in formato file XML. Ulteriori informazioni su questo formato di file [Qui](https://docs.fileformat.com/visio/vtx/) .
 
 ```csharp
 public static readonly FileType VTX;

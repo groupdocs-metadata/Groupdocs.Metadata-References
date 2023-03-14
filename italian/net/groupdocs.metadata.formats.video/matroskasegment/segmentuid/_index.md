@@ -1,14 +1,14 @@
 ---
 title: SegmentUid
 second_title: Riferimento API GroupDocs.Metadata per .NET
-description: Ottiene il numero univoco a 128 bit che identifica un SEGMENT. Ovviamente un file può essere riferito solo da un altro file se è presente un SEGMENTUID tuttavia la riproduzione è possibile senza tale UID.
+description: Ottiene il numero univoco a 128 bit che identifica un SEGMENTO. Ovviamente un file può essere riferito solo da un altro file se è presente un SEGMENTUID tuttavia la riproduzione è possibile senza tale UID.
 type: docs
 weight: 60
 url: /it/net/groupdocs.metadata.formats.video/matroskasegment/segmentuid/
 ---
 ## MatroskaSegment.SegmentUid property
 
-Ottiene il numero univoco a 128 bit che identifica un SEGMENT. Ovviamente, un file può essere riferito solo da un altro file se è presente un SEGMENTUID, tuttavia, la riproduzione è possibile senza tale UID.
+Ottiene il numero univoco a 128 bit che identifica un SEGMENTO. Ovviamente, un file può essere riferito solo da un altro file se è presente un SEGMENTUID, tuttavia, la riproduzione è possibile senza tale UID.
 
 ```csharp
 public byte[] SegmentUid { get; }

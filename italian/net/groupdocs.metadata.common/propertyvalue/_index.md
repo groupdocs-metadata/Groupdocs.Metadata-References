@@ -26,7 +26,7 @@ public class PropertyValue
 | [PropertyValue](propertyvalue#constructor_4)(int) | Inizializza una nuova istanza di[`PropertyValue`](../propertyvalue) classe con un valore intero. |
 | [PropertyValue](propertyvalue#constructor_5)(int[]) | Inizializza una nuova istanza di[`PropertyValue`](../propertyvalue) classe con un array di valori interi. |
 | [PropertyValue](propertyvalue#constructor_6)(long) | Inizializza una nuova istanza di[`PropertyValue`](../propertyvalue) classe con un valore lungo. |
-| [PropertyValue](propertyvalue#constructor_7)(long[]) | Inizializza una nuova istanza di[`PropertyValue`](../propertyvalue)classe con un array di valori lunghi. |
+| [PropertyValue](propertyvalue#constructor_7)(long[]) | Inizializza una nuova istanza di[`PropertyValue`](../propertyvalue) classe con un array di valori lunghi. |
 | [PropertyValue](propertyvalue#constructor_9)(string) | Inizializza una nuova istanza di[`PropertyValue`](../propertyvalue) classe con un valore stringa. |
 | [PropertyValue](propertyvalue#constructor_10)(string[]) | Inizializza una nuova istanza di[`PropertyValue`](../propertyvalue) classe con un array di stringhe. |
 | [PropertyValue](propertyvalue#constructor_11)(TimeSpan) | Inizializza una nuova istanza di[`PropertyValue`](../propertyvalue) classe con ATimeSpan valore. |

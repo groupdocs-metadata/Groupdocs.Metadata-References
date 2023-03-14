@@ -1,14 +1,14 @@
 ---
 title: DWG
 second_title: Riferimento API GroupDocs.Metadata per .NET
-description: I file con estensione DWG rappresentano file binari proprietari utilizzati per contenere dati di progettazione 2D e 3D. Ulteriori informazioni su questo formato di file quihttps//wiki.fileformat.com/cad/dwg/ .
+description: I file con estensione DWG rappresentano file binari proprietari utilizzati per contenere dati di progettazione 2D e 3D. Ulteriori informazioni su questo formato di file Quihttps//wiki.fileformat.com/cad/dwg/ .
 type: docs
 weight: 130
 url: /it/net/groupdocs.metadata.common/filetype/dwg/
 ---
 ## FileType.DWG field
 
-I file con estensione DWG rappresentano file binari proprietari utilizzati per contenere dati di progettazione 2D e 3D. Ulteriori informazioni su questo formato di file [qui](https://wiki.fileformat.com/cad/dwg/) .
+I file con estensione DWG rappresentano file binari proprietari utilizzati per contenere dati di progettazione 2D e 3D. Ulteriori informazioni su questo formato di file [Qui](https://wiki.fileformat.com/cad/dwg/) .
 
 ```csharp
 public static readonly FileType DWG;

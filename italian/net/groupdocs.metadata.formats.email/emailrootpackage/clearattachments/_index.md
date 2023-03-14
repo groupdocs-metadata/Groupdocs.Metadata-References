@@ -16,7 +16,7 @@ public void ClearAttachments()
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * [Lavorare con le email salvate](https://docs.groupdocs.com/display/metadatanet/Working+with+saved+Emails)
 

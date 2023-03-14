@@ -1,14 +1,14 @@
 ---
 title: Rating
 second_title: Riferimento API GroupDocs.Metadata per .NET
-description: Ottiene o imposta una valutazione assegnata dallutente per questo file. Il valore deve essere 1 o compreso nellintervallo 0..5 dove 1 indica rifiutato e 0 indica non classificato.
+description: Ottiene o imposta una valutazione assegnata dallutente per questo file. Il valore deve essere 1 o compreso nellintervallo 0..5 dove 1 indica rifiutato e 0 indica non valutato.
 type: docs
 weight: 100
 url: /it/net/groupdocs.metadata.standards.xmp.schemes/xmpbasicpackage/rating/
 ---
 ## XmpBasicPackage.Rating property
 
-Ottiene o imposta una valutazione assegnata dall'utente per questo file. Il valore deve essere -1 o compreso nell'intervallo [0..5], dove -1 indica "rifiutato" e 0 indica "non classificato".
+Ottiene o imposta una valutazione assegnata dall'utente per questo file. Il valore deve essere -1 o compreso nell'intervallo [0..5], dove -1 indica "rifiutato" e 0 indica "non valutato".
 
 ```csharp
 public double Rating { get; set; }

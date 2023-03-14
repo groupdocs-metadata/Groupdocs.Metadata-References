@@ -16,7 +16,7 @@ public string[] ContentLocationNames { get; set; }
 
 ### Valore della proprietà
 
-Il nome delle posizioni dei contenuti.
+Il nome delle posizioni del contenuto.
 
 ### Guarda anche
 

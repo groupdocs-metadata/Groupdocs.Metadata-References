@@ -20,7 +20,7 @@ Il pacchetto di metadati nativi JPEG2000.
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * [Lavorare con i metadati nelle immagini JPEG2000](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+JPEG2000+images)
 

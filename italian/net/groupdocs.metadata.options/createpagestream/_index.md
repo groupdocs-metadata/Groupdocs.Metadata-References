@@ -24,7 +24,7 @@ Il flusso per scrivere l'anteprima della pagina.
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * [Genera anteprima del documento](https://docs.groupdocs.com/display/metadatanet/Generate+document+preview)
 

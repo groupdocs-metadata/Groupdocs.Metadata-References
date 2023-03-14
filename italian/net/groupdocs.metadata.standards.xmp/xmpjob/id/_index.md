@@ -1,14 +1,14 @@
 ---
 title: ID
 second_title: Riferimento API GroupDocs.Metadata per .NET
-description: Ottiene o imposta lID univoco per il processo. Questo campo è un riferimento a un sistema di gestione dei lavori esterno.
+description: Ottiene o imposta lID univoco per il lavoro. Questo campo è un riferimento a un sistema di gestione dei lavori esterno.
 type: docs
 weight: 20
 url: /it/net/groupdocs.metadata.standards.xmp/xmpjob/id/
 ---
 ## XmpJob.ID property
 
-Ottiene o imposta l'ID univoco per il processo. Questo campo è un riferimento a un sistema di gestione dei lavori esterno.
+Ottiene o imposta l'ID univoco per il lavoro. Questo campo è un riferimento a un sistema di gestione dei lavori esterno.
 
 ```csharp
 public string ID { get; set; }
@@ -16,7 +16,7 @@ public string ID { get; set; }
 
 ### Valore della proprietà
 
-L'identificativo.
+L'identificatore.
 
 ### Guarda anche
 

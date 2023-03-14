@@ -16,7 +16,7 @@ public bool? TrappedFlag { get; set; }
 
 ### Valore della proprietà
 
-`VERO` se il flag intrappolato è impostato; altrimenti,`falso` .
+`VERO` se il flag intrappolato è impostato; Altrimenti,`falso` .
 
 ### Guarda anche
 

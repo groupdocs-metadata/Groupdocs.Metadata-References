@@ -24,7 +24,7 @@ Il numero di proprietà interessate.
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Altri esempi che dimostrano l'utilizzo di questo metodo: [Rimozione dei metadati](https://docs.groupdocs.com/display/metadatanet/Removing+metadata)
 

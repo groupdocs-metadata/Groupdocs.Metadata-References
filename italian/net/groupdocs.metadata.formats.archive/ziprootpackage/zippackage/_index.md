@@ -20,7 +20,7 @@ Il pacchetto di metadati ZIP.
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * [Lavorare con archivi ZIP](https://docs.groupdocs.com/display/metadatanet/Working+with+ZIP+archives)
 

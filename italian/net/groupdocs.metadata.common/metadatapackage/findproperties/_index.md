@@ -20,11 +20,11 @@ public virtual IEnumerable<MetadataProperty> FindProperties(Func<MetadataPropert
 
 ### Valore di ritorno
 
-UnIEnumerable che contiene le proprietà del pacchetto che soddisfano la condizione.
+UNIEnumerable che contiene le proprietà del pacchetto che soddisfano la condizione.
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * Altri esempi che dimostrano l'utilizzo di questo metodo: [Estrazione dei metadati](https://docs.groupdocs.com/display/metadatanet/Extracting+metadata)
 

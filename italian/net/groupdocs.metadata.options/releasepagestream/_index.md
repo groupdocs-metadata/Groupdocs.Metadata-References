@@ -21,7 +21,7 @@ public delegate void ReleasePageStream(int pageNumber, Stream pageStream);
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * [Genera anteprima del documento](https://docs.groupdocs.com/display/metadatanet/Generate+document+preview)
 

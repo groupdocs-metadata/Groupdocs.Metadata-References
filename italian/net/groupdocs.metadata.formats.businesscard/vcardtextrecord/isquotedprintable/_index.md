@@ -16,7 +16,7 @@ public bool IsQuotedPrintable { get; }
 
 ### Valore della proprietà
 
-`VERO` se questa istanza è citata stampabile; altrimenti,`falso`.
+`VERO` se questa istanza è citata stampabile; Altrimenti,`falso`.
 
 ### Guarda anche
 

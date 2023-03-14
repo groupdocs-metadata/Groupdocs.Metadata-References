@@ -16,7 +16,7 @@ public bool? IsTrapped { get; set; }
 
 ### Valore della proprietà
 
-`VERO` se il documento è stato bloccato; altrimenti,`falso` .
+`VERO` se il documento è stato bloccato; Altrimenti,`falso` .
 
 ### Guarda anche
 

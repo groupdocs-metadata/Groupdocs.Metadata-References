@@ -20,7 +20,7 @@ Un oggetto che rappresenta informazioni comuni sul documento.
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * [Ottieni informazioni sul documento](https://docs.groupdocs.com/display/metadatanet/Get+document+info)
 

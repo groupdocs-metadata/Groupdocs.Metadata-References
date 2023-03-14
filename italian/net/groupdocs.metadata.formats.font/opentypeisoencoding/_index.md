@@ -1,14 +1,14 @@
 ---
 title: OpenTypeIsoEncoding
 second_title: Riferimento API GroupDocs.Metadata per .NET
-description: Rappresenta la codifica per il fileIso piattaforma.
+description: Rappresenta la codifica per il fileIsopiattaforma.
 type: docs
 weight: 1470
 url: /it/net/groupdocs.metadata.formats.font/opentypeisoencoding/
 ---
 ## OpenTypeIsoEncoding enumeration
 
-Rappresenta la codifica per il fileIso piattaforma.
+Rappresenta la codifica per il fileIsopiattaforma.
 
 ```csharp
 public enum OpenTypeIsoEncoding : ushort

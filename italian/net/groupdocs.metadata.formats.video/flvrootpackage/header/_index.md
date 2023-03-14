@@ -20,7 +20,7 @@ Il pacchetto di intestazione FLV.
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * [Lavorare con i metadati nei file FLV](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+FLV+files)
 

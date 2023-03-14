@@ -22,7 +22,7 @@ public interface IIptc
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * [Utilizzo dei metadati IPTC IIM](https://docs.groupdocs.com/display/metadatanet/Working+with+IPTC+IIM+metadata)
 

@@ -20,7 +20,7 @@ public TiffTag this[TiffTagID tagId] { get; }
 
 ### Valore di ritorno
 
-Il[`TiffTag`](../../../groupdocs.metadata.formats.image/tifftag) con l'ID tag specificato.
+IL[`TiffTag`](../../../groupdocs.metadata.formats.image/tifftag) con l'ID tag specificato.
 
 ### Esempi
 

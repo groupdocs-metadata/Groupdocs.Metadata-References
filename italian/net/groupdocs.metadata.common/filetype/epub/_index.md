@@ -1,14 +1,14 @@
 ---
 title: EPUB
 second_title: Riferimento API GroupDocs.Metadata per .NET
-description: I file con estensione .EPUB sono un formato di file di ebook che fornisce un formato di pubblicazione digitale standard per editori e consumatori. Ulteriori informazioni su questo formato di file quihttps//wiki.fileformat.com/ebook/epub/ .
+description: I file con estensione .EPUB sono un formato di file di ebook che fornisce un formato di pubblicazione digitale standard per editori e consumatori. Ulteriori informazioni su questo formato di file Quihttps//wiki.fileformat.com/ebook/epub/ .
 type: docs
 weight: 170
 url: /it/net/groupdocs.metadata.common/filetype/epub/
 ---
 ## FileType.EPUB field
 
-I file con estensione .EPUB sono un formato di file di e-book che fornisce un formato di pubblicazione digitale standard per editori e consumatori. Ulteriori informazioni su questo formato di file [qui](https://wiki.fileformat.com/ebook/epub/) .
+I file con estensione .EPUB sono un formato di file di e-book che fornisce un formato di pubblicazione digitale standard per editori e consumatori. Ulteriori informazioni su questo formato di file [Qui](https://wiki.fileformat.com/ebook/epub/) .
 
 ```csharp
 public static readonly FileType EPUB;

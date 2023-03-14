@@ -12,7 +12,7 @@ Lo spazio dei nomi fornisce funzionalità che consentono agli utenti di leggere 
 
 | Classe | Descrizione |
 | --- | --- |
-| [BmpHeaderPackage](./bmpheaderpackage) | Rappresenta le informazioni di intestazione BMP. |
+| [BmpHeaderPackage](./bmpheaderpackage) | Rappresenta le informazioni dell'intestazione BMP. |
 | [BmpRootPackage](./bmprootpackage) | Rappresenta il pacchetto radice destinato a lavorare con i metadati in un'immagine BMP. |
 | [DicomPackage](./dicompackage) | Rappresenta i metadati DICOM nativi. |
 | [DicomRootPackage](./dicomrootpackage) | Rappresenta il pacchetto radice destinato a lavorare con i metadati in un'immagine DICOM. |

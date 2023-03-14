@@ -1,14 +1,14 @@
 ---
 title: CropUnits
 second_title: Riferimento API GroupDocs.Metadata per .NET
-description: Ottiene o imposta le unità perCropWidthgroupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/cropwidth eCropHeightgroupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/cropheight .
+description: Ottiene o imposta le unità perCropWidthgroupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/cropwidth ECropHeightgroupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/cropheight .
 type: docs
 weight: 200
 url: /it/net/groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/cropunits/
 ---
 ## XmpCameraRawPackage.CropUnits property
 
-Ottiene o imposta le unità per[`CropWidth`](../cropwidth) e[`CropHeight`](../cropheight) .
+Ottiene o imposta le unità per[`CropWidth`](../cropwidth) E[`CropHeight`](../cropheight) .
 
 ```csharp
 public XmpCropUnit CropUnits { get; set; }

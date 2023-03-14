@@ -20,7 +20,7 @@ Il pacchetto di metadati del file TORRENT.
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * [Lavorare con i file TORRENT](https://docs.groupdocs.com/display/metadatanet/Working+with+TORRENT+files)
 

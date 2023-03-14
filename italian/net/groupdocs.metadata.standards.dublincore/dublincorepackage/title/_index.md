@@ -16,7 +16,7 @@ public string Title { get; }
 
 ### Valore della proprietà
 
-Il nome assegnato alla risorsa. In genere, un titolo sarà un nome con cui la risorsa è formalmente conosciuta.
+Il nome dato alla risorsa. In genere, un titolo sarà un nome con cui la risorsa è formalmente conosciuta.
 
 ### Guarda anche
 

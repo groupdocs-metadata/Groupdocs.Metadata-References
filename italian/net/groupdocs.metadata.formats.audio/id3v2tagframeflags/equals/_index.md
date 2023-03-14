@@ -40,11 +40,11 @@ public override bool Equals(object obj)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| obj | Object | IlObject da confrontare con questa istanza. |
+| obj | Object | ILObject da confrontare con questa istanza. |
 
 ### Valore di ritorno
 
-`VERO` se specificatoObject è uguale a questa istanza; altrimenti,`falso` .
+`VERO` se specificatoObject è uguale a questa istanza; Altrimenti,`falso` .
 
 ### Guarda anche
 

@@ -1,14 +1,14 @@
 ---
 title: MKV
 second_title: Riferimento API GroupDocs.Metadata per .NET
-description: MKV Matroska Video è un contenitore multimediale simile al formato MOV e AVI ma supporta più di una traccia audio e sottotitoli nello stesso file. Ulteriori informazioni su questo formato di file quihttps//wiki.fileformat.com/video/mkv/ .
+description: MKV Matroska Video è un contenitore multimediale simile al formato MOV e AVI ma supporta più di una traccia audio e sottotitoli nello stesso file. Ulteriori informazioni su questo formato di file Quihttps//wiki.fileformat.com/video/mkv/ .
 type: docs
 weight: 340
 url: /it/net/groupdocs.metadata.common/filetype/mkv/
 ---
 ## FileType.MKV field
 
-MKV (Matroska Video) è un contenitore multimediale simile al formato MOV e AVI ma supporta più di una traccia audio e sottotitoli nello stesso file. Ulteriori informazioni su questo formato di file [qui](https://wiki.fileformat.com/video/mkv/) .
+MKV (Matroska Video) è un contenitore multimediale simile al formato MOV e AVI ma supporta più di una traccia audio e sottotitoli nello stesso file. Ulteriori informazioni su questo formato di file [Qui](https://wiki.fileformat.com/video/mkv/) .
 
 ```csharp
 public static readonly FileType MKV;

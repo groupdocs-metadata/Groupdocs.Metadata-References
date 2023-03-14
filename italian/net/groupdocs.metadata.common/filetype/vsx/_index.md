@@ -1,14 +1,14 @@
 ---
 title: VSX
 second_title: Riferimento API GroupDocs.Metadata per .NET
-description: I file con estensione .VSX si riferiscono a stencil costituiti da disegni e forme utilizzati per la creazione di diagrammi in Microsoft Visio. Ulteriori informazioni su questo formato di file quihttps//wiki.fileformat.com/visio/vsx/ .
+description: I file con estensione .VSX si riferiscono a stencil costituiti da disegni e forme utilizzati per la creazione di diagrammi in Microsoft Visio. Ulteriori informazioni su questo formato di file Quihttps//wiki.fileformat.com/visio/vsx/ .
 type: docs
 weight: 700
 url: /it/net/groupdocs.metadata.common/filetype/vsx/
 ---
 ## FileType.VSX field
 
-I file con estensione .VSX si riferiscono a stencil costituiti da disegni e forme utilizzati per la creazione di diagrammi in Microsoft Visio. Ulteriori informazioni su questo formato di file [qui](https://wiki.fileformat.com/visio/vsx/) .
+I file con estensione .VSX si riferiscono a stencil costituiti da disegni e forme utilizzati per la creazione di diagrammi in Microsoft Visio. Ulteriori informazioni su questo formato di file [Qui](https://wiki.fileformat.com/visio/vsx/) .
 
 ```csharp
 public static readonly FileType VSX;

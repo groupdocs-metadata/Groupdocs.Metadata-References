@@ -20,7 +20,7 @@ Un pacchetto di metadati contenente i risultati dell'ispezione per il documento.
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * [Lavorare con i metadati in Presentazioni](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+Presentations)
 
