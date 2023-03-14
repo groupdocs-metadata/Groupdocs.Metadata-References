@@ -16,7 +16,7 @@ public PropertyValue(int value)
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| value | Int32 | انInt32 القيمة. |
+| value | Int32 | انInt32قيمة. |
 
 ### أنظر أيضا
 
@@ -36,7 +36,7 @@ public PropertyValue(long value)
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| value | Int64 | أInt64 القيمة. |
+| value | Int64 | أInt64قيمة. |
 
 ### أنظر أيضا
 
@@ -56,7 +56,7 @@ public PropertyValue(bool value)
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| value | Boolean | أBoolean القيمة. |
+| value | Boolean | أBooleanقيمة. |
 
 ### أنظر أيضا
 
@@ -76,7 +76,7 @@ public PropertyValue(double value)
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| value | Double | أDouble القيمة. |
+| value | Double | أDoubleقيمة. |
 
 ### أنظر أيضا
 
@@ -96,7 +96,7 @@ public PropertyValue(string value)
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| value | String | أString القيمة. |
+| value | String | أStringقيمة. |
 
 ### أنظر أيضا
 
@@ -116,7 +116,7 @@ public PropertyValue(DateTime value)
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| value | DateTime | أDateTime القيمة. |
+| value | DateTime | أDateTimeقيمة. |
 
 ### أنظر أيضا
 
@@ -136,7 +136,7 @@ public PropertyValue(TimeSpan value)
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| value | TimeSpan | أTimeSpan القيمة. |
+| value | TimeSpan | أTimeSpanقيمة. |
 
 ### أنظر أيضا
 
@@ -228,7 +228,7 @@ public PropertyValue(int[] values)
 
 ## PropertyValue(long[]) {#constructor_7}
 
-يقوم بتهيئة مثيل جديد لملف[`PropertyValue`](../../propertyvalue)فئة بمصفوفة من القيم الطويلة.
+يقوم بتهيئة مثيل جديد لملف[`PropertyValue`](../../propertyvalue) فئة بمصفوفة من القيم الطويلة.
 
 ```csharp
 public PropertyValue(long[] values)

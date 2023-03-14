@@ -26,7 +26,7 @@ public class PropertyValue
 | [PropertyValue](propertyvalue#constructor_4)(int) | يقوم بتهيئة مثيل جديد لملف[`PropertyValue`](../propertyvalue) فئة ذات قيمة عدد صحيح. |
 | [PropertyValue](propertyvalue#constructor_5)(int[]) | يقوم بتهيئة مثيل جديد لملف[`PropertyValue`](../propertyvalue) فئة مع مصفوفة من القيم الصحيحة. |
 | [PropertyValue](propertyvalue#constructor_6)(long) | يقوم بتهيئة مثيل جديد لملف[`PropertyValue`](../propertyvalue) فئة ذات قيمة طويلة. |
-| [PropertyValue](propertyvalue#constructor_7)(long[]) | يقوم بتهيئة مثيل جديد لملف[`PropertyValue`](../propertyvalue)فئة بمصفوفة من القيم الطويلة. |
+| [PropertyValue](propertyvalue#constructor_7)(long[]) | يقوم بتهيئة مثيل جديد لملف[`PropertyValue`](../propertyvalue) فئة بمصفوفة من القيم الطويلة. |
 | [PropertyValue](propertyvalue#constructor_9)(string) | يقوم بتهيئة مثيل جديد لملف[`PropertyValue`](../propertyvalue) فئة ذات قيمة سلسلة. |
 | [PropertyValue](propertyvalue#constructor_10)(string[]) | يقوم بتهيئة مثيل جديد لملف[`PropertyValue`](../propertyvalue) فئة مع مصفوفة سلسلة. |
 | [PropertyValue](propertyvalue#constructor_11)(TimeSpan) | يقوم بتهيئة مثيل جديد لملف[`PropertyValue`](../propertyvalue) فئة معTimeSpan القيمة . |

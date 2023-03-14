@@ -16,7 +16,7 @@ public void SetDescription(string description)
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| description | String | الوصف المطلوب تعيينه. |
+| description | String | الوصف المراد تعيينه. |
 
 ### أنظر أيضا
 

@@ -16,7 +16,7 @@ public XmpDate(DateTime dateTime)
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| dateTime | DateTime | DateTime القيمة. |
+| dateTime | DateTime | DateTimeقيمة. |
 
 ### أنظر أيضا
 

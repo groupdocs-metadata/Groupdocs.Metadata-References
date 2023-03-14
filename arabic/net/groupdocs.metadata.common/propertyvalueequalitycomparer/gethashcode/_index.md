@@ -26,7 +26,7 @@ public int GetHashCode(PropertyValue obj)
 
 | استثناء | حالة |
 | --- | --- |
-| ArgumentNullException | نوع من*obj* هو نوع مرجعي و*obj* هو`null`. |
+| ArgumentNullException | نوع من*obj* هو نوع مرجعي و*obj* يكون`null`. |
 
 ### أنظر أيضا
 

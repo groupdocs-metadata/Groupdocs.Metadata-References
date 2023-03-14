@@ -1,14 +1,14 @@
 ---
 title: PreviewOptions
 second_title: GroupDocs.Metadata لمرجع .NET API
-description: يقوم بتهيئة مثيل جديد لملفPreviewOptionsgroupdocs.metadata.options/previewoptionsفئة تسببت في إغلاق تيار الإخراج.
+description: يقوم بتهيئة مثيل جديد لملفPreviewOptionsgroupdocs.metadata.options/previewoptions فئة تسببت في إغلاق تيار الإخراج.
 type: docs
 weight: 10
 url: /ar/net/groupdocs.metadata.options/previewoptions/previewoptions/
 ---
 ## PreviewOptions(CreatePageStream) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`PreviewOptions`](../../previewoptions)فئة تسببت في إغلاق تيار الإخراج.
+يقوم بتهيئة مثيل جديد لملف[`PreviewOptions`](../../previewoptions) فئة تسببت في إغلاق تيار الإخراج.
 
 ```csharp
 public PreviewOptions(CreatePageStream createPageStream)

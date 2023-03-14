@@ -1,14 +1,14 @@
 ---
 title: OpenTypeIsoEncoding
 second_title: GroupDocs.Metadata لمرجع .NET API
-description: يمثل ترميز ملفاتIso المنصة.
+description: يمثل ترميز ملفاتIsoالمنصة.
 type: docs
 weight: 1470
 url: /ar/net/groupdocs.metadata.formats.font/opentypeisoencoding/
 ---
 ## OpenTypeIsoEncoding enumeration
 
-يمثل ترميز ملفاتIso المنصة.
+يمثل ترميز ملفاتIsoالمنصة.
 
 ```csharp
 public enum OpenTypeIsoEncoding : ushort

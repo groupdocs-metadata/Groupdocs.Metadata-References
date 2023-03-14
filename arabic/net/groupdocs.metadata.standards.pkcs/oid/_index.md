@@ -1,14 +1,14 @@
 ---
 title: Oid
 second_title: GroupDocs.Metadata لمرجع .NET API
-description: يمثل معرّف كائن OID . آلية معرف موحدة من قبل الاتحاد الدولي للاتصالات ITU و ISO / IEC لتسمية أي كائن أو مفهوم أو شيء باسم دائم لا لبس فيه.
+description: يمثل معرّف كائن OID . آلية معرف موحَّدة من قبل الاتحاد الدولي للاتصالات ITU و ISO / IEC لتسمية أي كائن أو مفهوم أو شيء باسم دائم لا لبس فيه .
 type: docs
 weight: 3020
 url: /ar/net/groupdocs.metadata.standards.pkcs/oid/
 ---
 ## Oid class
 
-يمثل معرّف كائن (OID) . آلية معرف موحدة من قبل الاتحاد الدولي للاتصالات (ITU) و ISO / IEC لتسمية أي كائن أو مفهوم أو "شيء" باسم دائم لا لبس فيه.
+يمثل معرّف كائن (OID) . آلية معرف موحَّدة من قبل الاتحاد الدولي للاتصالات (ITU) و ISO / IEC لتسمية أي كائن أو مفهوم أو "شيء" باسم دائم لا لبس فيه .
 
 ```csharp
 public sealed class Oid : CustomPackage

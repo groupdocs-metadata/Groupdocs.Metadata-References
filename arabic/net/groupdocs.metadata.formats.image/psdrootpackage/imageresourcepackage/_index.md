@@ -26,7 +26,7 @@ public ImageResourcePackage ImageResourcePackage { get; }
 
 ### أمثلة
 
-يوضح نموذج التعليمات البرمجية أدناه كيفية استخراج كتل موارد الصورة (اللبنات الأساسية لتنسيق ملف Photoshop) من صورة PSD.
+يوضح نموذج التعليمات البرمجية أدناه كيفية استخراج مجموعات موارد الصورة (اللبنات الأساسية لتنسيق ملف Photoshop) من صورة PSD.
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.PsdWithIrb))
