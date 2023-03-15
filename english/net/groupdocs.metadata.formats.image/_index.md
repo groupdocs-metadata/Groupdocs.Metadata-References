@@ -36,6 +36,17 @@ The namespace provides functionality allowing users to read and update metadata 
 | [PsdLayer](./psdlayer) | Represents a layer in a PSD file. |
 | [PsdPackage](./psdpackage) | Represents native Photoshop metadata. |
 | [PsdRootPackage](./psdrootpackage) | Represents the root package allowing working with metadata in a Photoshop Document. |
+| [RawDoubleTag](./rawdoubletag) | Represents a Raw Double tag. |
+| [RawFloatTag](./rawfloattag) | Represents a Raw float tag. |
+| [RawRational](./rawrational) | Represents a rational number. |
+| [RawRationalTag](./rawrationaltag) | Represents a Raw Rational tag. |
+| [RawSByteTag](./rawsbytetag) | Represents a Raw SByte tag. |
+| [RawSLongTag](./rawslongtag) | Represents a Raw SLong tag. |
+| [RawSRational](./rawsrational) | Represents signed rational number. |
+| [RawSRationalTag](./rawsrationaltag) | Represents a Raw SRational tag. |
+| [RawSShortTag](./rawsshorttag) | Represents a Raw SShort tag. |
+| [RawTypePackage](./rawtypepackage) | Represents a metadata package containing image-specific file format information. |
+| [RawUndefinedTag](./rawundefinedtag) | Represents a Raw tag with the Undefined type. |
 | [TiffArrayTag&lt;T&gt;](./tiffarraytag-1) | Represents an array-based TIFF tag. |
 | [TiffAsciiTag](./tiffasciitag) | Represents a TIFF ASCII tag. |
 | [TiffByteTag](./tiffbytetag) | Represents a Byte tag. |

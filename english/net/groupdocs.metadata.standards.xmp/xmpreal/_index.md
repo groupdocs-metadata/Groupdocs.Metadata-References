@@ -3,7 +3,7 @@ title: XmpReal
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents XMP Real.
 type: docs
-weight: 3520
+weight: 4430
 url: /net/groupdocs.metadata.standards.xmp/xmpreal/
 ---
 ## XmpReal class

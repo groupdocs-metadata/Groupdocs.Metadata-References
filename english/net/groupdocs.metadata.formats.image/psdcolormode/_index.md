@@ -3,7 +3,7 @@ title: PsdColorMode
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the psd file format color mode.
 type: docs
-weight: 1880
+weight: 1900
 url: /net/groupdocs.metadata.formats.image/psdcolormode/
 ---
 ## PsdColorMode enumeration

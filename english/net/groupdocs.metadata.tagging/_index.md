@@ -3,7 +3,7 @@ title: GroupDocs.Metadata.Tagging
 second_title: GroupDocs.Metadata for .NET API Reference
 description: The namespace contains various sets of tags with which most important metadata properties are marked. The tags allow users to find and update metadata properties in different packages regardless of the metadata standard and file format.
 type: docs
-weight: 270
+weight: 310
 url: /net/groupdocs.metadata.tagging/
 ---
 The namespace contains various sets of tags with which most important metadata properties are marked. The tags allow users to find and update metadata properties in different packages regardless of the metadata standard and file format.

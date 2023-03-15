@@ -3,7 +3,7 @@ title: CanonMakerNotePackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents CANON MakerNote metadata.
 type: docs
-weight: 2820
+weight: 3730
 url: /net/groupdocs.metadata.standards.exif.makernote/canonmakernotepackage/
 ---
 ## CanonMakerNotePackage class

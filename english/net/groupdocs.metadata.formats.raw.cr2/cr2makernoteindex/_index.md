@@ -1,0 +1,106 @@
+---
+title: Cr2MakerNoteIndex
+second_title: GroupDocs.Metadata for .NET API Reference
+description: Defines ids of Cr2MakerNote tags.
+type: docs
+weight: 2660
+url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernoteindex/
+---
+## Cr2MakerNoteIndex enumeration
+
+Defines ids of Cr2MakerNote tags.
+
+```csharp
+public enum Cr2MakerNoteIndex
+```
+
+### Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| CameraSettings | `1` | Indicates the CameraSettings. |
+| FocalLength | `2` | Indicates the FocalLength. |
+| ShotInfo | `4` | Indicates the ShotInfo. |
+| Panorama | `5` | Indicates the Panorama. |
+| ImageType | `6` | Indicates the ImageType. |
+| FirmwareVersion | `7` | Indicates the FirmwareVersion. |
+| FileNumber | `8` | Indicates the FileNumber. |
+| OwnerName | `9` | Indicates the OwnerName. |
+| SerialNumber | `12` | Indicates the SerialNumber. |
+| CameraInfo | `13` | Indicates the CameraInfo. |
+| FileLength | `14` | Indicates the FileLength. |
+| CustomFunctions | `15` | Indicates the CustomFunctions. |
+| ModelID | `16` | Indicates the ModelID. |
+| MovieInfo | `17` | Indicates the MovieInfo. |
+| CanonAFInfo | `18` | Indicates the CanonAFInfo. |
+| ThumbnailImageValidArea | `19` | Indicates the ThumbnailImageValidArea. |
+| SerialNumberFormat | `21` | Indicates the SerialNumberFormat. |
+| SuperMacro | `26` | Indicates the SuperMacro. |
+| DateStampMode | `28` | Indicates the DateStampMode. |
+| MyColors | `29` | Indicates the MyColors. |
+| Categories | `35` | Indicates the Categories. |
+| FaceDetect1 | `36` | Indicates the FaceDetect1. |
+| FaceDetect2 | `37` | Indicates the FaceDetect2. |
+| CanonAFInfo2 | `38` | Indicates the CanonAFInfo2. |
+| ContrastInfo | `39` | Indicates the ContrastInfo. |
+| ImageUniqueID | `40` | Indicates the ImageUniqueID. |
+| WBInfo | `41` | Indicates the WBInfo. |
+| FaceDetect3 | `47` | Indicates the FaceDetect3. |
+| TimeInfo | `53` | Indicates the TimeInfo. |
+| BatteryType | `56` | Indicates the BatteryType. |
+| AFInfo3 | `60` | Indicates the AFInfo3. |
+| RawDataOffset | `129` | Indicates the RawDataOffset. |
+| OriginalDecisionDataOffset | `131` | Indicates the OriginalDecisionDataOffset. |
+| CustomFunctions1D | `144` | Indicates the CustomFunctions1D. |
+| PersonalFunctions | `145` | Indicates the PersonalFunctions. |
+| PersonalFunctionValues | `146` | Indicates the PersonalFunctionValues. |
+| CanonFileInfo | `147` | Indicates the CanonFileInfo. |
+| AFPointsInFocus1D | `148` | Indicates the AFPointsInFocus1D. |
+| LensModel | `149` | Indicates the LensModel. |
+| SerialInfo | `150` | Indicates the SerialInfo. |
+| DustRemovalData | `151` | Indicates the DustRemovalData. |
+| CropInfo | `152` | Indicates the CropInfo. |
+| CustomFunctions2 | `153` | Indicates the CustomFunctions2. |
+| AspectInfo | `154` | Indicates the AspectInfo. |
+| ProcessingInfo | `160` | Indicates the ProcessingInfo. |
+| ToneCurveTable | `161` | Indicates the ToneCurveTable. |
+| SharpnessTable | `162` | Indicates the SharpnessTable. |
+| SharpnessFreqTable | `163` | Indicates the SharpnessFreqTable. |
+| WhiteBalanceTable | `164` | Indicates the WhiteBalanceTable. |
+| ColorBalance | `169` | Indicates the ColorBalance. |
+| MeasuredColor | `170` | Indicates the MeasuredColor. |
+| ColorTemperature | `174` | Indicates the ColorTemperature. |
+| CanonFlags | `176` | Indicates the CanonFlags. |
+| ModifiedInfo | `177` | Indicates the ModifiedInfo. |
+| ToneCurveMatching | `178` | Indicates the ToneCurveMatching. |
+| WhiteBalanceMatching | `179` | Indicates the WhiteBalanceMatching. |
+| ColorSpace | `180` | Indicates the ColorSpace. |
+| PreviewImageInfo | `182` | Indicates the PreviewImageInfo. |
+| VRDOffset | `208` | Indicates the VRDOffset. |
+| SensorInfo | `224` | Indicates the SensorInfo. |
+| ColorData1 | `16385` | Indicates the ColorData1. |
+| CRWParam | `16386` | Indicates the CRWParam. |
+| ColorInfo | `16387` | Indicates the ColorInfo. |
+| Flavor | `16389` | Indicates the Flavor. |
+| PictureStyleUserDef | `16392` | Indicates the PictureStyleUserDef. |
+| PictureStylePC | `16393` | Indicates the PictureStylePC. |
+| CustomPictureStyleFileName | `16400` | Indicates the CustomPictureStyleFileName. |
+| AFMicroAdj | `16403` | Indicates the AFMicroAdj. |
+| VignettingCorr | `16405` | Indicates the VignettingCorr. |
+| VignettingCorr2 | `16406` | Indicates the VignettingCorr2. |
+| LightingOpt | `16408` | Indicates the LightingOpt. |
+| LensInfo | `16409` | Indicates the LensInfo. |
+| AmbienceInfo | `16416` | Indicates the AmbienceInfo. |
+| MultiExp | `16417` | Indicates the MultiExp. |
+| FilterInfo | `16420` | Indicates the FilterInfo. |
+| HDRInfo | `16421` | Indicates the HDRInfo. |
+| LogInfo | `16422` | Indicates the LogInfo. |
+| AFConfig | `16424` | Indicates the AFConfig. |
+| RawBurstModeRoll | `16447` | Indicates the RawBurstModeRoll. |
+
+### See Also
+
+* namespace [GroupDocs.Metadata.Formats.Raw.Cr2](../../groupdocs.metadata.formats.raw.cr2)
+* assembly [GroupDocs.Metadata](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.metadata.dll -->

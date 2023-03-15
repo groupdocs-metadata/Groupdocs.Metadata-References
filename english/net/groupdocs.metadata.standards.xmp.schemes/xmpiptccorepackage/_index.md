@@ -3,7 +3,7 @@ title: XmpIptcCorePackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the IPTC Core XMP package.
 type: docs
-weight: 3140
+weight: 4050
 url: /net/groupdocs.metadata.standards.xmp.schemes/xmpiptccorepackage/
 ---
 ## XmpIptcCorePackage class

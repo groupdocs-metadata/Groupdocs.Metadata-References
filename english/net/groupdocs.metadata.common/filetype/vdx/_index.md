@@ -3,7 +3,7 @@ title: VDX
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Any drawing or chart created in Microsoft Visio but saved in XML format have .VDX extension. Learn more about this file format herehttps//wiki.fileformat.com/visio/vdx/.
 type: docs
-weight: 660
+weight: 690
 url: /net/groupdocs.metadata.common/filetype/vdx/
 ---
 ## FileType.VDX field

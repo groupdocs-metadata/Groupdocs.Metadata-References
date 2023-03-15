@@ -3,7 +3,7 @@ title: MatroskaSubtitleTrack
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents subtitle metadata in a Matroska video.
 type: docs
-weight: 2520
+weight: 3430
 url: /net/groupdocs.metadata.formats.video/matroskasubtitletrack/
 ---
 ## MatroskaSubtitleTrack class

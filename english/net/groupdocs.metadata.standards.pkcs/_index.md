@@ -3,7 +3,7 @@ title: GroupDocs.Metadata.Standards.Pkcs
 second_title: GroupDocs.Metadata for .NET API Reference
 description: The namespace provides functionality intended to work with digital signatures based on the syntax of PKCS 7 specified in RFC 5652.
 type: docs
-weight: 230
+weight: 270
 url: /net/groupdocs.metadata.standards.pkcs/
 ---
 The namespace provides functionality intended to work with digital signatures based on the syntax of PKCS #7, specified in RFC 5652.

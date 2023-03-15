@@ -3,7 +3,7 @@ title: XmpGuid
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents XMP global unique identifier.
 type: docs
-weight: 3410
+weight: 4320
 url: /net/groupdocs.metadata.standards.xmp/xmpguid/
 ---
 ## XmpGuid class

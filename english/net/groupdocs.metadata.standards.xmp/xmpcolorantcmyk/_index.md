@@ -3,7 +3,7 @@ title: XmpColorantCmyk
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the CMYK Colorant.
 type: docs
-weight: 3310
+weight: 4220
 url: /net/groupdocs.metadata.standards.xmp/xmpcolorantcmyk/
 ---
 ## XmpColorantCmyk class

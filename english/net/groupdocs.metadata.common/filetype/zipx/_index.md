@@ -3,7 +3,7 @@ title: ZIPX
 second_title: GroupDocs.Metadata for .NET API Reference
 description: ZIPX is a Zip file in which WinZip has used one or more of its available advanced compression methods.
 type: docs
-weight: 840
+weight: 870
 url: /net/groupdocs.metadata.common/filetype/zipx/
 ---
 ## FileType.ZIPX field

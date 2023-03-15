@@ -55,6 +55,8 @@ public enum FileFormat
 | Msg | `34` | An MSG email message. MSG is a file format used by Microsoft Outlook and Exchange to store email messages, contact, appointment, or other tasks. Such messages may contain one or more email fields, with the sender, recipient, subject, date, and message body, or contact information, appointment particulars, and one or more task specifications. Learn more about this file format [here](https://wiki.fileformat.com/email/msg/). |
 | Torrent | `35` | A torrent file that contains metadata about files and folders to be distributed. |
 | Heif | `36` | A HEIF/HEIC image. |
+| Dng | `37` | A dng RAW image. |
+| Cr2 | `38` | A CR2 image. |
 
 ### See Also
 

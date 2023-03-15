@@ -3,7 +3,7 @@ title: GroupDocs.Metadata.Standards.Xmp
 second_title: GroupDocs.Metadata for .NET API Reference
 description: The namespace provides functionality for XMP Extensible Metadata Platform metadata reading and writing.
 type: docs
-weight: 250
+weight: 290
 url: /net/groupdocs.metadata.standards.xmp/
 ---
 The namespace provides functionality for XMP (Extensible Metadata Platform) metadata reading and writing.

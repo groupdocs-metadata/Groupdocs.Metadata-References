@@ -3,7 +3,7 @@ title: GroupDocs.Metadata.Formats.Riff
 second_title: GroupDocs.Metadata for .NET API Reference
 description: The namespace provides functionality allowing users to work with metadata of various formats derived from the RIFF container.
 type: docs
-weight: 160
+weight: 200
 url: /net/groupdocs.metadata.formats.riff/
 ---
 The namespace provides functionality allowing users to work with metadata of various formats derived from the RIFF container.
