@@ -16,7 +16,7 @@ public bool SharedDoc { get; set; }
 
 ### Mülk değeri
 
-`doğru` sunum birden fazla kişi arasında paylaşılıyorsa; aksi halde,`yanlış` .
+`doğru` sunum birden fazla kişi arasında paylaşılıyorsa; aksi takdirde,`YANLIŞ` .
 
 ### Notlar
 

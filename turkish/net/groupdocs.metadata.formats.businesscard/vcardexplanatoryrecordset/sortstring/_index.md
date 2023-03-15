@@ -1,14 +1,14 @@
 ---
 title: SortString
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: Ulusal dile özgü sıralama için kullanılacak aile adını veya verilen ad metnini alır.FormattedNamesgroupdocs.metadata.formats.businesscard/vcardidentificationrecordset/formattednames veNamegroupdocs.metadata.formats.businesscard/vcardidentificationrecordset/name türleri.
+description: Ulusal dile özgü sıralama için kullanılacak aile adını veya verilen ad metnini alır.FormattedNamesgroupdocs.metadata.formats.businesscard/vcardidentificationrecordset/formattednames VeNamegroupdocs.metadata.formats.businesscard/vcardidentificationrecordset/name türleri.
 type: docs
 weight: 110
 url: /tr/net/groupdocs.metadata.formats.businesscard/vcardexplanatoryrecordset/sortstring/
 ---
 ## VCardExplanatoryRecordset.SortString property
 
-Ulusal dile özgü sıralama için kullanılacak aile adını veya verilen ad metnini alır.[`FormattedNames`](../../vcardidentificationrecordset/formattednames) ve[`Name`](../../vcardidentificationrecordset/name) türleri.
+Ulusal dile özgü sıralama için kullanılacak aile adını veya verilen ad metnini alır.[`FormattedNames`](../../vcardidentificationrecordset/formattednames) Ve[`Name`](../../vcardidentificationrecordset/name) türleri.
 
 ```csharp
 public string SortString { get; }
@@ -16,7 +16,7 @@ public string SortString { get; }
 
 ### Mülk değeri
 
-Ulusal dile özgü sıralama için kullanılacak aile adı veya verilen ad metni[`FormattedNames`](../../vcardidentificationrecordset/formattednames) ve[`Name`](../../vcardidentificationrecordset/name) türleri.
+Ulusal dile özgü sıralama için kullanılacak aile adı veya verilen ad metni[`FormattedNames`](../../vcardidentificationrecordset/formattednames) Ve[`Name`](../../vcardidentificationrecordset/name) türleri.
 
 ### Ayrıca bakınız
 

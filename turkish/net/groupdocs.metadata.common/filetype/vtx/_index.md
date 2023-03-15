@@ -1,14 +1,14 @@
 ---
 title: VTX
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: .VTX uzantılı dosyalar diske XML dosya formatında kaydedilen Microsoft Visio çizim şablonuna atıfta bulunur. Bu dosya hakkında daha fazla bilgi edinin format buradahttps//docs.fileformat.com/visio/vtx/ .
+description: .VTX uzantılı dosyalar diske XML dosya formatında kaydedilen Microsoft Visio çizim şablonuna atıfta bulunur. Bu dosya hakkında daha fazla bilgi edinin format Buradahttps//docs.fileformat.com/visio/vtx/ .
 type: docs
 weight: 710
 url: /tr/net/groupdocs.metadata.common/filetype/vtx/
 ---
 ## FileType.VTX field
 
-.VTX uzantılı dosyalar, diske XML dosya formatında kaydedilen Microsoft Visio çizim şablonuna atıfta bulunur. Bu dosya hakkında daha fazla bilgi edinin format [burada](https://docs.fileformat.com/visio/vtx/) .
+.VTX uzantılı dosyalar, diske XML dosya formatında kaydedilen Microsoft Visio çizim şablonuna atıfta bulunur. Bu dosya hakkında daha fazla bilgi edinin format [Burada](https://docs.fileformat.com/visio/vtx/) .
 
 ```csharp
 public static readonly FileType VTX;

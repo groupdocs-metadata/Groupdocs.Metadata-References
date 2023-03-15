@@ -1,14 +1,14 @@
 ---
 title: JPF
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: JPEG 2000 JPF bir görüntü kodlama sistemi ve en gelişmiş görüntü sıkıştırma standardıdır. Dalgacık teknolojisi kullanılarak tasarlanmıştır JPEG 2000 herhangi bir kalitede kayıpsız içeriği tek seferde kodlayabilir. Bu dosya biçimi hakkında daha fazla bilgi edinin buradahttps//wiki.fileformat.com/image/jpf/ .
+description: JPEG 2000 JPF bir görüntü kodlama sistemi ve en gelişmiş görüntü sıkıştırma standardıdır. Dalgacık teknolojisi kullanılarak tasarlanmıştır JPEG 2000 herhangi bir kalitede kayıpsız içeriği tek seferde kodlayabilir. Bu dosya biçimi hakkında daha fazla bilgi edinin Buradahttps//wiki.fileformat.com/image/jpf/ .
 type: docs
 weight: 270
 url: /tr/net/groupdocs.metadata.common/filetype/jpf/
 ---
 ## FileType.JPF field
 
-JPEG 2000 (JPF), bir görüntü kodlama sistemi ve en gelişmiş görüntü sıkıştırma standardıdır. Dalgacık teknolojisi kullanılarak tasarlanmıştır JPEG 2000, herhangi bir kalitede kayıpsız içeriği tek seferde kodlayabilir. Bu dosya biçimi hakkında daha fazla bilgi edinin [burada](https://wiki.fileformat.com/image/jpf/) .
+JPEG 2000 (JPF), bir görüntü kodlama sistemi ve en gelişmiş görüntü sıkıştırma standardıdır. Dalgacık teknolojisi kullanılarak tasarlanmıştır JPEG 2000, herhangi bir kalitede kayıpsız içeriği tek seferde kodlayabilir. Bu dosya biçimi hakkında daha fazla bilgi edinin [Burada](https://wiki.fileformat.com/image/jpf/) .
 
 ```csharp
 public static readonly FileType JPF;

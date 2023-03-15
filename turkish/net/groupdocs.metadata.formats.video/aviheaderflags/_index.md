@@ -20,10 +20,10 @@ public enum AviHeaderFlags
 | İsim | Değer | Tanım |
 | --- | --- | --- |
 | HasIndex | `10` | AVI dosyasının bir dizine sahip olduğunu gösterir. |
-| MustUseIndex | `20` | Uygulamanın, verilerin sunulma sırasını belirlemek için, dosyasındaki parçaların fiziksel sıralaması yerine dizini kullanması gerektiğini belirtir. Örneğin, bu bayrak, düzenleme için bir çerçeve listesi oluşturmak için kullanılabilir. |
+| MustUseIndex | `20` | Uygulamanın, verilerin sunum sırasını belirlemek için, dosyasındaki parçaların fiziksel sıralaması yerine dizini kullanması gerektiğini belirtir. Örneğin, bu bayrak, düzenleme için bir çerçeve listesi oluşturmak için kullanılabilir. |
 | IsInterleaved | `100` | AVI dosyasının araya eklendiğini gösterir. |
 | TrustCkType | `800` | Ana kareleri bulmak için CKType'ı kullanın. |
-| WasCaptureFile | `10000` | AVI dosyasının gerçek zamanlı video yakalamak için özel olarak tahsis edilmiş bir dosya olduğunu belirtir. Kullanıcı muhtemelen bu dosyayı birleştirdiğinden, uygulamalar bu bayrak setiyle bir dosya üzerine yazmadan önce kullanıcıyı uyarmalıdır. |
+| WasCaptureFile | `10000` | AVI dosyasının gerçek zamanlı video yakalamak için özel olarak tahsis edilmiş bir dosya olduğunu belirtir. Uygulamalar, bu bayrak setiyle bir dosya üzerine yazmadan önce kullanıcıyı uyarmalıdır, çünkü kullanıcı muhtemelen bu dosyayı birleştirmiştir. |
 | Copyrighted | `20000` | AVI dosyasının telif hakkıyla korunan veri ve yazılım içerdiğini belirtir. Bu bayrak kullanıldığında, yazılım verilerin çoğaltılmasına izin vermemelidir. |
 
 ### Ayrıca bakınız

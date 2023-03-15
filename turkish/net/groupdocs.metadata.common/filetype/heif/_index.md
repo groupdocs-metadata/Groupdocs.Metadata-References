@@ -1,14 +1,14 @@
 ---
 title: HEIF
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: HEIF dosyası tek bir görüntüyü veya bir dizi görüntüyü tek bir dosyada depolayabilen Yüksek Verimli Kapsayıcı Görüntü dosyası biçimidir. HEIF dosya biçimi Yüksek Verimli Video Kodlama HEVC standardını kullanarak görüntüleri sıkıştırır. Bu dosya hakkında daha fazla bilgi edinin format buradahttps//docs.fileformat.com/image/heif/ .
+description: HEIF dosyası tek bir görüntüyü veya bir dizi görüntüyü tek bir dosyada depolayabilen Yüksek Verimli Kapsayıcı Görüntü dosyası biçimidir. HEIF dosya biçimi Yüksek Verimli Video Kodlama HEVC standardını kullanarak görüntüleri sıkıştırır. Bu dosya hakkında daha fazla bilgi edinin format Buradahttps//docs.fileformat.com/image/heif/ .
 type: docs
 weight: 210
 url: /tr/net/groupdocs.metadata.common/filetype/heif/
 ---
 ## FileType.HEIF field
 
-HEIF dosyası, tek bir görüntüyü veya bir dizi görüntüyü tek bir dosyada depolayabilen Yüksek Verimli Kapsayıcı Görüntü dosyası biçimidir. HEIF dosya biçimi, Yüksek Verimli Video Kodlama (HEVC) standardını kullanarak görüntüleri sıkıştırır. Bu dosya hakkında daha fazla bilgi edinin format [burada](https://docs.fileformat.com/image/heif/) .
+HEIF dosyası, tek bir görüntüyü veya bir dizi görüntüyü tek bir dosyada depolayabilen Yüksek Verimli Kapsayıcı Görüntü dosyası biçimidir. HEIF dosya biçimi, Yüksek Verimli Video Kodlama (HEVC) standardını kullanarak görüntüleri sıkıştırır. Bu dosya hakkında daha fazla bilgi edinin format [Burada](https://docs.fileformat.com/image/heif/) .
 
 ```csharp
 public static readonly FileType HEIF;

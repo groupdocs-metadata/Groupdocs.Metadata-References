@@ -1,14 +1,14 @@
 ---
 title: VSDX
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: .VSDX uzantılı dosyalar Microsoft Office 2013ten itibaren kullanıma sunulan Microsoft Visio dosya biçimini temsil eder. Bu dosya hakkında daha fazla bilgi edinin format buradahttps//wiki.fileformat.com/visio/vsdx/ .
+description: .VSDX uzantılı dosyalar Microsoft Office 2013ten itibaren kullanıma sunulan Microsoft Visio dosya biçimini temsil eder. Bu dosya hakkında daha fazla bilgi edinin format Buradahttps//wiki.fileformat.com/visio/vsdx/ .
 type: docs
 weight: 680
 url: /tr/net/groupdocs.metadata.common/filetype/vsdx/
 ---
 ## FileType.VSDX field
 
-.VSDX uzantılı dosyalar, Microsoft Office 2013'ten itibaren kullanıma sunulan Microsoft Visio dosya biçimini temsil eder. Bu dosya hakkında daha fazla bilgi edinin format [burada](https://wiki.fileformat.com/visio/vsdx/) .
+.VSDX uzantılı dosyalar, Microsoft Office 2013'ten itibaren kullanıma sunulan Microsoft Visio dosya biçimini temsil eder. Bu dosya hakkında daha fazla bilgi edinin format [Burada](https://wiki.fileformat.com/visio/vsdx/) .
 
 ```csharp
 public static readonly FileType VSDX;

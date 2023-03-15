@@ -1,14 +1,14 @@
 ---
 title: MPT
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: MPT Microsoft tarafından bir proje yönetimi uygulama yazılımı olan Microsoft Project MSP için dosya biçimi olarak geliştirilmiş tescilli bir dosya biçimidir. Bu dosya biçimi hakkında daha fazla bilgi edinin buradahttps//wiki.fileformat.com/projectmanagement/mpt/ .
+description: MPT Microsoft tarafından bir proje yönetimi uygulama yazılımı olan Microsoft Project MSP için dosya biçimi olarak geliştirilmiş tescilli bir dosya biçimidir. Bu dosya biçimi hakkında daha fazla bilgi edinin Buradahttps//wiki.fileformat.com/projectmanagement/mpt/ .
 type: docs
 weight: 380
 url: /tr/net/groupdocs.metadata.common/filetype/mpt/
 ---
 ## FileType.MPT field
 
-MPT, Microsoft tarafından bir proje yönetimi uygulama yazılımı olan Microsoft Project (MSP) için dosya biçimi olarak geliştirilmiş tescilli bir dosya biçimidir. Bu dosya biçimi hakkında daha fazla bilgi edinin [burada](https://wiki.fileformat.com/project-management/mpt/) .
+MPT, Microsoft tarafından bir proje yönetimi uygulama yazılımı olan Microsoft Project (MSP) için dosya biçimi olarak geliştirilmiş tescilli bir dosya biçimidir. Bu dosya biçimi hakkında daha fazla bilgi edinin [Burada](https://wiki.fileformat.com/project-management/mpt/) .
 
 ```csharp
 public static readonly FileType MPT;

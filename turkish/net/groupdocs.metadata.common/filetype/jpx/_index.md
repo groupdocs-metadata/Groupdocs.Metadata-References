@@ -1,14 +1,14 @@
 ---
 title: JPX
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: JPEG 2000 JPX bir görüntü kodlama sistemi ve en gelişmiş görüntü sıkıştırma standardıdır. Dalgacık teknolojisi kullanılarak tasarlanmıştır JPEG 2000 herhangi bir kalitede kayıpsız içeriği tek seferde kodlayabilir. Bu dosya biçimi hakkında daha fazla bilgi edinin buradahttps//wiki.fileformat.com/image/jpx/ .
+description: JPEG 2000 JPX bir görüntü kodlama sistemi ve en gelişmiş görüntü sıkıştırma standardıdır. Dalgacık teknolojisi kullanılarak tasarlanmıştır JPEG 2000 herhangi bir kalitede kayıpsız içeriği tek seferde kodlayabilir. Bu dosya biçimi hakkında daha fazla bilgi edinin Buradahttps//wiki.fileformat.com/image/jpx/ .
 type: docs
 weight: 300
 url: /tr/net/groupdocs.metadata.common/filetype/jpx/
 ---
 ## FileType.JPX field
 
-JPEG 2000 (JPX), bir görüntü kodlama sistemi ve en gelişmiş görüntü sıkıştırma standardıdır. Dalgacık teknolojisi kullanılarak tasarlanmıştır JPEG 2000, herhangi bir kalitede kayıpsız içeriği tek seferde kodlayabilir. Bu dosya biçimi hakkında daha fazla bilgi edinin [burada](https://wiki.fileformat.com/image/jpx/) .
+JPEG 2000 (JPX), bir görüntü kodlama sistemi ve en gelişmiş görüntü sıkıştırma standardıdır. Dalgacık teknolojisi kullanılarak tasarlanmıştır JPEG 2000, herhangi bir kalitede kayıpsız içeriği tek seferde kodlayabilir. Bu dosya biçimi hakkında daha fazla bilgi edinin [Burada](https://wiki.fileformat.com/image/jpx/) .
 
 ```csharp
 public static readonly FileType JPX;

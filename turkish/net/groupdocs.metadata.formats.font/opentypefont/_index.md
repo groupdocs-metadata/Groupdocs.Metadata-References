@@ -22,7 +22,7 @@ public class OpenTypeFont : CustomPackage
 | [Created](../../groupdocs.metadata.formats.font/opentypefont/created) { get; } | Oluşturulan tarihi alır. |
 | [DirectionHint](../../groupdocs.metadata.formats.font/opentypefont/directionhint) { get; } | Yön ipucunu alır. |
 | [EmbeddingLicensingRights](../../groupdocs.metadata.formats.font/opentypefont/embeddinglicensingrights) { get; } | Yerleştirme lisanslama hakları türünü alır. |
-| [Flags](../../groupdocs.metadata.formats.font/opentypefont/flags) { get; } | Başlık işaretlerini alır. |
+| [Flags](../../groupdocs.metadata.formats.font/opentypefont/flags) { get; } | Başlık bayraklarını alır. |
 | [FontFamilyName](../../groupdocs.metadata.formats.font/opentypefont/fontfamilyname) { get; } | Yazı tipi ailesinin adını alır. |
 | [FontRevision](../../groupdocs.metadata.formats.font/opentypefont/fontrevision) { get; } | Yazı tipi revizyonunu alır. |
 | [FontSubfamilyName](../../groupdocs.metadata.formats.font/opentypefont/fontsubfamilyname) { get; } | Yazı tipi alt ailesinin adını alır. |
@@ -35,7 +35,7 @@ public class OpenTypeFont : CustomPackage
 | [MinorVersion](../../groupdocs.metadata.formats.font/opentypefont/minorversion) { get; } | Üst bilgi küçük sürümünü alır. |
 | [Modified](../../groupdocs.metadata.formats.font/opentypefont/modified) { get; } | Değiştirilen tarihi alır. |
 | [Names](../../groupdocs.metadata.formats.font/opentypefont/names) { get; } | İsim kayıtlarını alır. |
-| [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | GroupDocs.Metadata arama motoru aracılığıyla erişilebilen özellikler hakkında bilgi içeren bir tanımlayıcı koleksiyonu alır. |
+| [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | GroupDocs.Metadata arama motoru aracılığıyla erişilebilen özellikler hakkında bilgi içeren tanımlayıcılardan oluşan bir koleksiyon alır. |
 | [SfntVersion](../../groupdocs.metadata.formats.font/opentypefont/sfntversion) { get; } | Başlık SFNT sürümünü alır. |
 | [Style](../../groupdocs.metadata.formats.font/opentypefont/style) { get; } | Yazı tipi stilini alır. |
 | [TypographicFamily](../../groupdocs.metadata.formats.font/opentypefont/typographicfamily) { get; } | Tipografik aileyi alır. |
@@ -53,7 +53,7 @@ public class OpenTypeFont : CustomPackage
 | [GetEnumerator](../../groupdocs.metadata.common/metadatapackage/getenumerator)() | Koleksiyon boyunca yinelenen bir numaralandırıcı döndürür. |
 | virtual [RemoveProperties](../../groupdocs.metadata.common/metadatapackage/removeproperties)(Func&lt;MetadataProperty, bool&gt;) | Belirtilen yüklemi karşılayan meta veri özelliklerini kaldırır. |
 | virtual [Sanitize](../../groupdocs.metadata.common/metadatapackage/sanitize)() | Paketten yazılabilir meta veri özelliklerini kaldırır. İşlem özyinelemeli olduğundan iç içe geçmiş tüm paketleri de etkiler. |
-| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Belirtilen yüklemi karşılayan bilinen meta veri özelliklerini ayarlar. İşlem özyinelemeli olduğundan tüm iç içe geçmiş paketleri de etkiler. Bu yöntem,[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties) ve[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) Mevcut bir özellik yüklemi karşılıyorsa, değeri güncellenir. Yüklemi karşılayan pakette eksik bilinen bir özellik varsa, pakete eklenir. |
+| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Belirtilen yüklemi karşılayan bilinen meta veri özelliklerini ayarlar. İşlem özyinelemeli olduğundan tüm iç içe geçmiş paketleri de etkiler. Bu yöntem,[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties) Ve[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) Mevcut bir özellik yüklemi karşılıyorsa, değeri güncellenir. Yüklemi karşılayan pakette eksik bilinen bir özellik varsa, pakete eklenir. |
 | [UpdateProperties](../../groupdocs.metadata.common/metadatapackage/updateproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Belirtilen yüklemi karşılayan bilinen meta veri özelliklerini günceller. İşlem yinelemeli olduğundan tüm iç içe geçmiş paketleri de etkiler. |
 
 ### Notlar

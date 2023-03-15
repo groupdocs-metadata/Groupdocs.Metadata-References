@@ -1,14 +1,14 @@
 ---
 title: FLV
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: FLV Flash Video Adobe Flash Player veya Adobe Air kullanılarak internet üzerinden ses/video içeriği iletmek için kullanılan bir konteyner dosyası format dir. Bu dosya hakkında daha fazla bilgi edinin format buradahttps//docs.fileformat.com/video/flv/ .
+description: FLV Flash Video Adobe Flash Player veya Adobe Air kullanılarak internet üzerinden ses/video içeriği iletmek için kullanılan bir konteyner dosyası format dir. Bu dosya hakkında daha fazla bilgi edinin format Buradahttps//docs.fileformat.com/video/flv/ .
 type: docs
 weight: 180
 url: /tr/net/groupdocs.metadata.common/filetype/flv/
 ---
 ## FileType.FLV field
 
-FLV (Flash Video), Adobe Flash Player veya Adobe Air kullanılarak internet üzerinden ses/video içeriği iletmek için kullanılan bir konteyner dosyası format 'dir. Bu dosya hakkında daha fazla bilgi edinin format [burada](https://docs.fileformat.com/video/flv/) .
+FLV (Flash Video), Adobe Flash Player veya Adobe Air kullanılarak internet üzerinden ses/video içeriği iletmek için kullanılan bir konteyner dosyası format 'dir. Bu dosya hakkında daha fazla bilgi edinin format [Burada](https://docs.fileformat.com/video/flv/) .
 
 ```csharp
 public static readonly FileType FLV;

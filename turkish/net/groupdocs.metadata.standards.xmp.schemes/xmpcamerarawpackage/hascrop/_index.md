@@ -16,7 +16,7 @@ public bool? HasCrop { get; set; }
 
 ### Mülk değeri
 
-`doğru` görüntünün bir kırpma dikdörtgeni varsa; aksi halde,`yanlış` .
+`doğru` görüntünün bir kırpma dikdörtgeni varsa; aksi takdirde,`YANLIŞ` .
 
 ### Ayrıca bakınız
 

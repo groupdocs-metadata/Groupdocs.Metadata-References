@@ -38,7 +38,7 @@ public class SpreadsheetPackage : DocumentPackage
 | [Manager](../../groupdocs.metadata.formats.document/spreadsheetpackage/manager) { get; set; } | Yöneticiyi alır veya ayarlar. |
 | [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | Meta veri türünü alır. |
 | [NameOfApplication](../../groupdocs.metadata.formats.document/spreadsheetpackage/nameofapplication) { get; set; } | Uygulamanın adını alır veya ayarlar. |
-| [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | GroupDocs.Metadata arama motoru aracılığıyla erişilebilen özellikler hakkında bilgi içeren bir tanımlayıcı koleksiyonu alır. |
+| [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | GroupDocs.Metadata arama motoru aracılığıyla erişilebilen özellikler hakkında bilgi içeren tanımlayıcılardan oluşan bir koleksiyon alır. |
 | [Revision](../../groupdocs.metadata.formats.document/spreadsheetpackage/revision) { get; set; } | Belge revizyon numarasını alır veya ayarlar. |
 | [Subject](../../groupdocs.metadata.formats.document/spreadsheetpackage/subject) { get; set; } | Konuyu alır veya ayarlar. |
 | [Template](../../groupdocs.metadata.formats.document/spreadsheetpackage/template) { get; set; } | Belge şablonu adını alır veya ayarlar. |
@@ -65,7 +65,7 @@ public class SpreadsheetPackage : DocumentPackage
 | [Set](../../groupdocs.metadata.formats.document/spreadsheetpackage/set#set_1)(string, double) | Metadata özelliğini belirtilen adla ekler veya değiştirir. |
 | [Set](../../groupdocs.metadata.formats.document/spreadsheetpackage/set#set_2)(string, int) | Metadata özelliğini belirtilen adla ekler veya değiştirir. |
 | [Set](../../groupdocs.metadata.formats.document/spreadsheetpackage/set#set_4)(string, string) | Metadata özelliğini belirtilen adla ekler veya değiştirir. |
-| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Belirtilen yüklemi karşılayan bilinen meta veri özelliklerini ayarlar. İşlem özyinelemeli olduğundan tüm iç içe geçmiş paketleri de etkiler. Bu yöntem,[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties) ve[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) Mevcut bir özellik yüklemi karşılıyorsa, değeri güncellenir. Yüklemi karşılayan pakette eksik bilinen bir özellik varsa, pakete eklenir. |
+| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Belirtilen yüklemi karşılayan bilinen meta veri özelliklerini ayarlar. İşlem özyinelemeli olduğundan tüm iç içe geçmiş paketleri de etkiler. Bu yöntem,[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties) Ve[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) Mevcut bir özellik yüklemi karşılıyorsa, değeri güncellenir. Yüklemi karşılayan pakette eksik bilinen bir özellik varsa, pakete eklenir. |
 | [UpdateProperties](../../groupdocs.metadata.common/metadatapackage/updateproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Belirtilen yüklemi karşılayan bilinen meta veri özelliklerini günceller. İşlem yinelemeli olduğundan tüm iç içe geçmiş paketleri de etkiler. |
 
 ### Notlar

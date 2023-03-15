@@ -16,7 +16,7 @@ public XmpDate(DateTime dateTime)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| dateTime | DateTime | DateTime değer. |
+| dateTime | DateTime | DateTimedeğer. |
 
 ### Ayrıca bakınız
 

@@ -1,14 +1,14 @@
 ---
 title: OpenTypeMacintoshLanguage
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: için dil sıralamasını temsil eder.Macintosh platform.
+description: için dil sıralamasını temsil eder.Macintoshplatform.
 type: docs
 weight: 1500
 url: /tr/net/groupdocs.metadata.formats.font/opentypemacintoshlanguage/
 ---
 ## OpenTypeMacintoshLanguage enumeration
 
-için dil sıralamasını temsil eder.Macintosh platform.
+için dil sıralamasını temsil eder.Macintoshplatform.
 
 ```csharp
 public enum OpenTypeMacintoshLanguage : ushort

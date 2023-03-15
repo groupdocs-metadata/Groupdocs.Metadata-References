@@ -20,7 +20,7 @@ public bool ContainsPackage(string namespaceUri)
 
 ### Geri dönüş değeri
 
-`doğru` paket tarafından bulunursa*namespaceUri* ; aksi halde`yanlış` .
+`doğru` paket tarafından bulunursa*namespaceUri* ; aksi takdirde`YANLIŞ` .
 
 ### istisnalar
 

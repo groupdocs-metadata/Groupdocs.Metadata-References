@@ -1,14 +1,14 @@
 ---
 title: OpenTypeUnicodeEncoding
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: için kodlamayı temsil ederUnicode platform.
+description: için kodlamayı temsil ederUnicodeplatform.
 type: docs
 weight: 1570
 url: /tr/net/groupdocs.metadata.formats.font/opentypeunicodeencoding/
 ---
 ## OpenTypeUnicodeEncoding enumeration
 
-için kodlamayı temsil ederUnicode platform.
+için kodlamayı temsil ederUnicodeplatform.
 
 ```csharp
 public enum OpenTypeUnicodeEncoding : ushort

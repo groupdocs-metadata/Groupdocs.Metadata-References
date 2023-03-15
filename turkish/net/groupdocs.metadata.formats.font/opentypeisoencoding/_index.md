@@ -1,14 +1,14 @@
 ---
 title: OpenTypeIsoEncoding
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: için kodlamayı temsil ederIso platform.
+description: için kodlamayı temsil ederIsoplatform.
 type: docs
 weight: 1470
 url: /tr/net/groupdocs.metadata.formats.font/opentypeisoencoding/
 ---
 ## OpenTypeIsoEncoding enumeration
 
-için kodlamayı temsil ederIso platform.
+için kodlamayı temsil ederIsoplatform.
 
 ```csharp
 public enum OpenTypeIsoEncoding : ushort

@@ -1,14 +1,14 @@
 ---
 title: DXF
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: DXF Çizim Değişim Formatı veya Çizim Değişim Formatı AutoCAD çizim dosyasının etiketli bir veri temsilidir. Bu dosya hakkında daha fazla bilgi edinin format buradahttps//wiki.fileformat.com/cad/dxf/ .
+description: DXF Çizim Değişim Formatı veya Çizim Değişim Formatı AutoCAD çizim dosyasının etiketli bir veri temsilidir. Bu dosya hakkında daha fazla bilgi edinin format Buradahttps//wiki.fileformat.com/cad/dxf/ .
 type: docs
 weight: 140
 url: /tr/net/groupdocs.metadata.common/filetype/dxf/
 ---
 ## FileType.DXF field
 
-DXF, Çizim Değişim Formatı veya Çizim Değişim Formatı, AutoCAD çizim dosyasının etiketli bir veri temsilidir. Bu dosya hakkında daha fazla bilgi edinin format [burada](https://wiki.fileformat.com/cad/dxf/) .
+DXF, Çizim Değişim Formatı veya Çizim Değişim Formatı, AutoCAD çizim dosyasının etiketli bir veri temsilidir. Bu dosya hakkında daha fazla bilgi edinin format [Burada](https://wiki.fileformat.com/cad/dxf/) .
 
 ```csharp
 public static readonly FileType DXF;

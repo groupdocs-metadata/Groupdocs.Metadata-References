@@ -1,14 +1,14 @@
 ---
 title: DisplayUnit
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: Nasıl olduğunu alırDisplayWidthgroupdocs.metadata.formats.video/matroskavideotrack/displaywidth veDisplayHeightgroupdocs.metadata.formats.video/matroskavideotrack/displayheight yorumlanır.
+description: Nasıl olduğunu alırDisplayWidthgroupdocs.metadata.formats.video/matroskavideotrack/displaywidth VeDisplayHeightgroupdocs.metadata.formats.video/matroskavideotrack/displayheight yorumlanır.
 type: docs
 weight: 30
 url: /tr/net/groupdocs.metadata.formats.video/matroskavideotrack/displayunit/
 ---
 ## MatroskaVideoTrack.DisplayUnit property
 
-Nasıl olduğunu alır[`DisplayWidth`](../displaywidth) ve[`DisplayHeight`](../displayheight) yorumlanır.
+Nasıl olduğunu alır[`DisplayWidth`](../displaywidth) Ve[`DisplayHeight`](../displayheight) yorumlanır.
 
 ```csharp
 public MatroskaVideoDisplayUnit DisplayUnit { get; }
@@ -16,7 +16,7 @@ public MatroskaVideoDisplayUnit DisplayUnit { get; }
 
 ### Mülk değeri
 
-Nasıl[`DisplayWidth`](../displaywidth) ve[`DisplayHeight`](../displayheight) yorumlanır.
+Nasıl[`DisplayWidth`](../displaywidth) Ve[`DisplayHeight`](../displayheight) yorumlanır.
 
 ### Ayrıca bakınız
 

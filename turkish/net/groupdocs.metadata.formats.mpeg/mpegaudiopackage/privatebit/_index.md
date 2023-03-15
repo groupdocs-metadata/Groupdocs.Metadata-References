@@ -16,7 +16,7 @@ public bool PrivateBit { get; }
 
 ### Mülk değeri
 
-`doğru` if [özel bit]; aksi halde,`yanlış` .
+`doğru` if [özel bit]; aksi takdirde,`YANLIŞ` .
 
 ### Ayrıca bakınız
 

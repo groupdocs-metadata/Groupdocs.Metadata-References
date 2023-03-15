@@ -1,14 +1,14 @@
 ---
 title: Rating
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: Bu dosya için kullanıcı tarafından atanan bir derecelendirmeyi alır veya ayarlar. Değer 1 veya 0..5 aralığında olmalıdır burada 1 reddedildiyi ve 0 derecelendirilmemişi gösterir.
+description: Bu dosya için kullanıcı tarafından atanan bir derecelendirmeyi alır veya ayarlar. Değer 1 veya 0..5 aralığında olmalıdır burada 1 reddedildiyi ve 0 derecelendirilmemişi belirtir.
 type: docs
 weight: 100
 url: /tr/net/groupdocs.metadata.standards.xmp.schemes/xmpbasicpackage/rating/
 ---
 ## XmpBasicPackage.Rating property
 
-Bu dosya için kullanıcı tarafından atanan bir derecelendirmeyi alır veya ayarlar. Değer -1 veya [0..5] aralığında olmalıdır; burada -1, "reddedildi"yi ve 0, "derecelendirilmemiş"i gösterir.
+Bu dosya için kullanıcı tarafından atanan bir derecelendirmeyi alır veya ayarlar. Değer -1 veya [0..5] aralığında olmalıdır; burada -1, "reddedildi"yi ve 0, "derecelendirilmemiş"i belirtir.
 
 ```csharp
 public double Rating { get; set; }

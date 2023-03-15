@@ -1,14 +1,14 @@
 ---
 title: VSS
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: VSS Microsoft Visio 2007 ve önceki sürümlerle oluşturulmuş şablon dosyalarıdır. Kalıp dosyaları bir .VSD Visio çizimine dahil edilebilecek drawing nesneleri sağlar. Bu dosya hakkında daha fazla bilgi edinin format buradahttps//wiki.fileformat.com/visio/vss/ .
+description: VSS Microsoft Visio 2007 ve önceki sürümleriyle oluşturulan kalıp dosyalarıdır. Kalıp dosyaları bir .VSD Visio çizimine dahil edilebilecek drawing nesneleri sağlar. Bu dosya hakkında daha fazla bilgi edinin format Buradahttps//wiki.fileformat.com/visio/vss/ .
 type: docs
 weight: 690
 url: /tr/net/groupdocs.metadata.common/filetype/vss/
 ---
 ## FileType.VSS field
 
-VSS, Microsoft Visio 2007 ve önceki sürümlerle oluşturulmuş şablon dosyalarıdır. Kalıp dosyaları, bir .VSD Visio çizimine dahil edilebilecek drawing nesneleri sağlar. Bu dosya hakkında daha fazla bilgi edinin format [burada](https://wiki.fileformat.com/visio/vss/) .
+VSS, Microsoft Visio 2007 ve önceki sürümleriyle oluşturulan kalıp dosyalarıdır. Kalıp dosyaları, bir .VSD Visio çizimine dahil edilebilecek drawing nesneleri sağlar. Bu dosya hakkında daha fazla bilgi edinin format [Burada](https://wiki.fileformat.com/visio/vss/) .
 
 ```csharp
 public static readonly FileType VSS;

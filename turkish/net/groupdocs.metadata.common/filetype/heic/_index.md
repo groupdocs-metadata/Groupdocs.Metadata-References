@@ -1,14 +1,14 @@
 ---
 title: HEIC
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: HEIC dosyası birden çok görüntüyü tek bir dosyada koleksiyon olarak depolayabilen bir Yüksek Verimli Kapsayıcı Görüntü dosyası biçimidir. HEIF gibi HEIC Yüksek Verimli Video Kodlama HEVC standardı kullanılarak sıkıştırılır ve boyut olarak daha küçüktür. kaliteden ödün vermek. Bu dosya hakkında daha fazla bilgi edinin format buradahttps//docs.fileformat.com/image/heic/ .
+description: HEIC dosyası birden çok görüntüyü tek bir dosyada koleksiyon olarak depolayabilen bir Yüksek Verimli Kapsayıcı Görüntü dosyası biçimidir. HEIF gibi HEIC Yüksek Verimli Video Kodlama HEVC standardı kullanılarak sıkıştırılır ve boyut olarak daha küçüktür. kaliteden ödün vermek. Bu dosya hakkında daha fazla bilgi edinin format Buradahttps//docs.fileformat.com/image/heic/ .
 type: docs
 weight: 200
 url: /tr/net/groupdocs.metadata.common/filetype/heic/
 ---
 ## FileType.HEIC field
 
-HEIC dosyası, birden çok görüntüyü tek bir dosyada koleksiyon olarak depolayabilen bir Yüksek Verimli Kapsayıcı Görüntü dosyası biçimidir. HEIF gibi HEIC, Yüksek Verimli Video Kodlama (HEVC) standardı kullanılarak sıkıştırılır ve boyut olarak daha küçüktür. kaliteden ödün vermek. Bu dosya hakkında daha fazla bilgi edinin format [burada](https://docs.fileformat.com/image/heic/) .
+HEIC dosyası, birden çok görüntüyü tek bir dosyada koleksiyon olarak depolayabilen bir Yüksek Verimli Kapsayıcı Görüntü dosyası biçimidir. HEIF gibi HEIC, Yüksek Verimli Video Kodlama (HEVC) standardı kullanılarak sıkıştırılır ve boyut olarak daha küçüktür. kaliteden ödün vermek. Bu dosya hakkında daha fazla bilgi edinin format [Burada](https://docs.fileformat.com/image/heic/) .
 
 ```csharp
 public static readonly FileType HEIC;

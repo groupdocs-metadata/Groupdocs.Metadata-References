@@ -44,7 +44,7 @@ public override bool Equals(object obj)
 
 ### Geri dönüş değeri
 
-`doğru` eğer belirtilenObject bu örneğe eşittir; aksi halde,`yanlış` .
+`doğru` eğer belirtilenObject bu örneğe eşittir; aksi takdirde,`YANLIŞ` .
 
 ### Ayrıca bakınız
 

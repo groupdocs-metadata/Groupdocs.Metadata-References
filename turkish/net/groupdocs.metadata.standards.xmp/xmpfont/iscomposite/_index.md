@@ -16,7 +16,7 @@ public bool? IsComposite { get; set; }
 
 ### Mülk değeri
 
-`doğru` yazı tipi bileşik ise; aksi halde,`yanlış` .
+`doğru` yazı tipi bileşik ise; aksi takdirde,`YANLIŞ` .
 
 ### Ayrıca bakınız
 

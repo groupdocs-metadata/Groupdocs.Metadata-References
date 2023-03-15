@@ -1,14 +1,14 @@
 ---
 title: ImageSize
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: Bitmap ham veri boyutunu bayt cinsinden alır.
+description: Bitmap ham veri boyutunu bayt olarak alır.
 type: docs
 weight: 40
 url: /tr/net/groupdocs.metadata.formats.image/bmpheaderpackage/imagesize/
 ---
 ## BmpHeaderPackage.ImageSize property
 
-Bitmap ham veri boyutunu bayt cinsinden alır.
+Bitmap ham veri boyutunu bayt olarak alır.
 
 ```csharp
 public uint ImageSize { get; }

@@ -45,7 +45,7 @@ public sealed class Metadata : IDisposable
 | [Save](../../groupdocs.metadata/metadata/save#save)() | Yüklenen belgede yapılan tüm değişiklikleri kaydeder. |
 | [Save](../../groupdocs.metadata/metadata/save#save_1)(Stream) | Belge içeriğini bir akışa kaydeder. |
 | [Save](../../groupdocs.metadata/metadata/save#save_2)(string) | Belge içeriğini belirtilen dosyaya kaydeder. |
-| [SetProperties](../../groupdocs.metadata/metadata/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Belirtilen yüklemi karşılayan bilinen meta veri özelliklerini ayarlar. İşlem özyinelemeli olduğundan tüm iç içe geçmiş paketleri de etkiler. Bu yöntem,[`AddProperties`](./addproperties) ve[`UpdateProperties`](./updateproperties) . Mevcut bir özellik yüklemi karşılıyorsa, değeri güncellenir. Bir pakette yüklemi karşılayan bilinen bir özellik eksikse, pakete eklenir. |
+| [SetProperties](../../groupdocs.metadata/metadata/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Belirtilen yüklemi karşılayan bilinen meta veri özelliklerini ayarlar. İşlem özyinelemeli olduğundan tüm iç içe geçmiş paketleri de etkiler. Bu yöntem,[`AddProperties`](./addproperties) Ve[`UpdateProperties`](./updateproperties) . Mevcut bir özellik yüklemi karşılıyorsa, değeri güncellenir. Bir pakette yüklemi karşılayan bilinen bir özellik eksikse, pakete eklenir. |
 | [UpdateProperties](../../groupdocs.metadata/metadata/updateproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Belirtilen yüklemi karşılayan bilinen meta veri özelliklerini günceller. İşlem yinelemeli olduğundan tüm iç içe geçmiş paketleri de etkiler. |
 
 ### Ayrıca bakınız

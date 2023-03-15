@@ -1,14 +1,14 @@
 ---
 title: MatroskaVideoFlagInterlaced
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: Matroska videosunun aşamalı mı yoksa taramalı mı olduğunun bilinip bilinmediğini beyan etmek için bir bayrağı temsil eder ve uygulanabilirse taramayla ilgili ayrıntıları beyan etmek için.
+description: Matroska videosunun progresif veya interlaced olduğu bilinip bilinmediğini beyan etmek için bir işareti temsil eder ve varsa interlacement hakkında ayrıntıları beyan etmek için.
 type: docs
 weight: 2590
 url: /tr/net/groupdocs.metadata.formats.video/matroskavideoflaginterlaced/
 ---
 ## MatroskaVideoFlagInterlaced enumeration
 
-Matroska videosunun aşamalı mı yoksa taramalı mı olduğunun bilinip bilinmediğini beyan etmek için bir bayrağı temsil eder ve uygulanabilirse, taramayla ilgili ayrıntıları beyan etmek için.
+Matroska videosunun progresif veya interlaced olduğu bilinip bilinmediğini beyan etmek için bir işareti temsil eder ve varsa interlacement hakkında ayrıntıları beyan etmek için.
 
 ```csharp
 public enum MatroskaVideoFlagInterlaced : byte

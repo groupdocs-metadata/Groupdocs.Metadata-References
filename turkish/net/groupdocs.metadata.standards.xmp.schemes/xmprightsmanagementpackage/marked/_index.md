@@ -16,7 +16,7 @@ public bool? Marked { get; set; }
 
 ### Mülk değeri
 
-`doğru` kaynak haklar tarafından yönetiliyorsa; aksi halde`yanlış` . Yanlış olduğunda, bunun bir kamu malı kaynak olduğunu gösterir. Durum bilinmiyorsa atlayın.
+`doğru` kaynak haklar tarafından yönetiliyorsa; aksi takdirde`YANLIŞ` . Yanlış olduğunda, bunun bir kamu malı kaynak olduğunu gösterir. Durum bilinmiyorsa atlayın.
 
 ### Ayrıca bakınız
 

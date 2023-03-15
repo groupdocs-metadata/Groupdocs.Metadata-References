@@ -16,7 +16,7 @@ public bool? HasSettings { get; set; }
 
 ### Mülk değeri
 
-`doğru` görüntünün varsayılan olmayan camera raw ayarları varsa; aksi halde,`yanlış` .
+`doğru` görüntünün varsayılan olmayan camera raw ayarları varsa; aksi takdirde,`YANLIŞ` .
 
 ### Ayrıca bakınız
 
