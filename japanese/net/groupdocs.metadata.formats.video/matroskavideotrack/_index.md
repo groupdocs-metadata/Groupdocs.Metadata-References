@@ -1,0 +1,75 @@
+---
+title: MatroskaVideoTrack
+second_title: GroupDocs.Metadata for .NET API リファレンス
+description: Matroska ビデオのビデオ メタデータを表します
+type: docs
+weight: 2610
+url: /ja/net/groupdocs.metadata.formats.video/matroskavideotrack/
+---
+## MatroskaVideoTrack class
+
+Matroska ビデオのビデオ メタデータを表します。
+
+```csharp
+public class MatroskaVideoTrack : MatroskaTrack
+```
+
+## プロパティ
+
+| 名前 | 説明 |
+| --- | --- |
+| [AlphaMode](../../groupdocs.metadata.formats.video/matroskavideotrack/alphamode) { get; } | アルファ ビデオ モードを取得します。 この要素の存在は、BlockAdditional 要素がアルファ データを含む可能性があることを示します。 |
+| [CodecID](../../groupdocs.metadata.formats.video/matroskatrack/codecid) { get; } | コーデックに対応する ID を取得します。 |
+| [CodecName](../../groupdocs.metadata.formats.video/matroskatrack/codecname) { get; } | コーデックを指定する人間が読める文字列を取得します。 |
+| [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | メタデータ プロパティの数を取得します。 |
+| [DefaultDuration](../../groupdocs.metadata.formats.video/matroskatrack/defaultduration) { get; } | ナノ秒数を取得します ([`TimecodeScale`](../matroskasegment/timecodescale) ) フレームあたり. |
+| [DisplayHeight](../../groupdocs.metadata.formats.video/matroskavideotrack/displayheight) { get; } | 表示するビデオ フレームの高さを取得します。 トリミング後のビデオ フレームに適用されます (PixelCrop* 要素)。 |
+| [DisplayUnit](../../groupdocs.metadata.formats.video/matroskavideotrack/displayunit) { get; } | 方法を取得します[`DisplayWidth`](./displaywidth)と[`DisplayHeight`](./displayheight)解釈されます. |
+| [DisplayWidth](../../groupdocs.metadata.formats.video/matroskavideotrack/displaywidth) { get; } | 表示するビデオ フレームの幅を取得します。 トリミング後のビデオ フレームに適用されます (PixelCrop* 要素)。 |
+| [FieldOrder](../../groupdocs.metadata.formats.video/matroskavideotrack/fieldorder) { get; } | ビデオのフィールド順序を宣言します。 FlagInterlaced が 1 に設定されていない場合、この要素を無視する必要があります. |
+| [FlagEnabled](../../groupdocs.metadata.formats.video/matroskatrack/flagenabled) { get; } | 有効フラグを取得します。トラックが使用可能な場合は true です。 |
+| [FlagInterlaced](../../groupdocs.metadata.formats.video/matroskavideotrack/flaginterlaced) { get; } | ビデオがプログレッシブまたはインターレースであることがわかっているかどうかを宣言するフラグを取得し、該当する場合はインターレースに関する詳細を宣言します。 |
+| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | を取得します[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)指定された名前で. |
+| [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | メタデータ プロパティ名のコレクションを取得します。 |
+| [Language](../../groupdocs.metadata.formats.video/matroskatrack/language) { get; } | トラックの言語を Matroska 言語形式で取得します。 この要素は、[`LanguageIetf`](../matroskatrack/languageietf)要素は同じ TrackEntry. で使用されています |
+| [LanguageIetf](../../groupdocs.metadata.formats.video/matroskatrack/languageietf) { get; } | BCP 47 に従い、IANA 言語サブタグ レジストリを使用してトラックの言語を取得します。 この要素が使用されている場合、[`Language`](../matroskatrack/language)同じ TrackEntry で使用される要素は無視する必要があります. |
+| [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | メタデータ タイプを取得します。 |
+| [Name](../../groupdocs.metadata.formats.video/matroskatrack/name) { get; } | 人間が読めるトラック名を取得します。 |
+| [PixelCropBottom](../../groupdocs.metadata.formats.video/matroskavideotrack/pixelcropbottom) { get; } | 画像の下部で削除するビデオ ピクセルの数を取得します。 |
+| [PixelCropLeft](../../groupdocs.metadata.formats.video/matroskavideotrack/pixelcropleft) { get; } | 画像の左側から削除するビデオ ピクセルの数を取得します。 |
+| [PixelCropRight](../../groupdocs.metadata.formats.video/matroskavideotrack/pixelcropright) { get; } | 画像の右側で削除するビデオ ピクセルの数を取得します。 |
+| [PixelCropTop](../../groupdocs.metadata.formats.video/matroskavideotrack/pixelcroptop) { get; } | 画像の上部で削除するビデオ ピクセルの数を取得します。 |
+| [PixelHeight](../../groupdocs.metadata.formats.video/matroskavideotrack/pixelheight) { get; } | エンコードされたビデオ フレームの高さをピクセル単位で取得します。 |
+| [PixelWidth](../../groupdocs.metadata.formats.video/matroskavideotrack/pixelwidth) { get; } | エンコードされたビデオ フレームの幅をピクセル単位で取得します。 |
+| [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | GroupDocs.Metadata 検索エンジンを介してアクセス可能なプロパティに関する情報を含む記述子のコレクションを取得します。 |
+| [StereoMode](../../groupdocs.metadata.formats.video/matroskavideotrack/stereomode) { get; } | ステレオ 3D ビデオ モードを取得します。 |
+| [TrackNumber](../../groupdocs.metadata.formats.video/matroskatrack/tracknumber) { get; } | ブロック ヘッダーで使用されるトラック番号を取得します。 |
+| [TrackType](../../groupdocs.metadata.formats.video/matroskatrack/tracktype) { get; } | トラックのタイプを取得します。 |
+| [TrackUid](../../groupdocs.metadata.formats.video/matroskatrack/trackuid) { get; } | トラックを識別するための一意の ID を取得します。 これは、トラックの直接ストリーム コピーを別のファイルに作成する場合も同じにする必要があります。 |
+
+## メソッド
+
+| 名前 | 説明 |
+| --- | --- |
+| [AddProperties](../../groupdocs.metadata.common/metadatapackage/addproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 指定された述語を満たす既知のメタデータ プロパティを追加します。 操作は再帰的であるため、ネストされたすべてのパッケージにも影響します。 |
+| [Contains](../../groupdocs.metadata.common/metadatapackage/contains)(string) | 指定した名前のメタデータ プロパティがパッケージに含まれているかどうかを判断します。 |
+| virtual [FindProperties](../../groupdocs.metadata.common/metadatapackage/findproperties)(Func&lt;MetadataProperty, bool&gt;) | 指定された述語を満たすメタデータ プロパティを検索します。 検索は再帰的であるため、ネストされたすべてのパッケージにも影響します。 |
+| [GetEnumerator](../../groupdocs.metadata.common/metadatapackage/getenumerator)() | コレクションを反復処理する列挙子を返します。 |
+| virtual [RemoveProperties](../../groupdocs.metadata.common/metadatapackage/removeproperties)(Func&lt;MetadataProperty, bool&gt;) | 指定された述語を満たすメタデータ プロパティを削除します。 |
+| virtual [Sanitize](../../groupdocs.metadata.common/metadatapackage/sanitize)() | 書き込み可能なメタデータ プロパティをパッケージから削除します。 操作は再帰的であるため、ネストされたすべてのパッケージにも影響します。 |
+| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 指定された述語を満たす既知のメタデータ プロパティを設定します。 操作は再帰的であるため、ネストされたすべてのパッケージにも影響します。 このメソッドは、[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)と[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 既存のプロパティが述語を満たす場合、その値が更新されます。 述語を満たす既知のプロパティがパッケージにない場合、それがパッケージに追加されます。 |
+| [UpdateProperties](../../groupdocs.metadata.common/metadatapackage/updateproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 指定された述語を満たす既知のメタデータ プロパティを更新します。 操作は再帰的であるため、ネストされたすべてのパッケージにも影響します。 |
+
+### 備考
+
+**もっと詳しく知る**
+
+* [Matroska (MKV) ファイルのメタデータの操作](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+Matroska+%28MKV%29+files)
+
+### 関連項目
+
+* class [MatroskaTrack](../matroskatrack)
+* 名前空間 [GroupDocs.Metadata.Formats.Video](../../groupdocs.metadata.formats.video)
+* 組み立て [GroupDocs.Metadata](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.Metadata.dll -->
