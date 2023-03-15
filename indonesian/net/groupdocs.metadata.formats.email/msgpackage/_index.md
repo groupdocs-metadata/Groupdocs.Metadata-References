@@ -1,0 +1,62 @@
+---
+title: MsgPackage
+second_title: GroupDocs.Metadata untuk Referensi .NET API
+description: Merupakan metadata pesan MSG.
+type: docs
+weight: 1400
+url: /id/net/groupdocs.metadata.formats.email/msgpackage/
+---
+## MsgPackage class
+
+Merupakan metadata pesan MSG.
+
+```csharp
+public class MsgPackage : EmailPackage
+```
+
+## Properti
+
+| Nama | Keterangan |
+| --- | --- |
+| [AttachedFileNames](../../groupdocs.metadata.formats.email/emailpackage/attachedfilenames) { get; } | Mendapat larik nama file terlampir. |
+| [BlindCarbonCopyRecipients](../../groupdocs.metadata.formats.email/emailpackage/blindcarboncopyrecipients) { get; set; } | Mendapat atau menyetel susunan penerima BCC (blind carbon copy) dari pesan email. |
+| [Body](../../groupdocs.metadata.formats.email/msgpackage/body) { get; } | Mendapat teks pesan email. |
+| [CarbonCopyRecipients](../../groupdocs.metadata.formats.email/emailpackage/carboncopyrecipients) { get; set; } | Mendapat atau menyetel susunan penerima CC (salinan karbon) dari pesan email. |
+| [Categories](../../groupdocs.metadata.formats.email/msgpackage/categories) { get; } | Mendapat deretan kategori atau kata kunci. |
+| [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | Mendapat jumlah properti metadata. |
+| [DeliveryTime](../../groupdocs.metadata.formats.email/msgpackage/deliverytime) { get; } | Mendapat tanggal dan waktu pengiriman pesan. |
+| [Headers](../../groupdocs.metadata.formats.email/emailpackage/headers) { get; } | Mendapat paket metadata yang berisi header email. |
+| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | Mendapatkan[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty) dengan nama yang ditentukan. |
+| [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | Mendapat kumpulan nama properti metadata. |
+| [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | Mendapatkan jenis metadata. |
+| [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | Mendapat kumpulan deskriptor yang berisi informasi tentang properti yang dapat diakses melalui mesin pencari GroupDocs.Metadata. |
+| [Recipients](../../groupdocs.metadata.formats.email/emailpackage/recipients) { get; set; } | Mendapat atau mengatur larik penerima email. |
+| [Sender](../../groupdocs.metadata.formats.email/emailpackage/sender) { get; } | Mendapat alamat email pengirim. |
+| [Subject](../../groupdocs.metadata.formats.email/emailpackage/subject) { get; set; } | Mendapat atau menyetel subjek email. |
+
+## Metode
+
+| Nama | Keterangan |
+| --- | --- |
+| [AddProperties](../../groupdocs.metadata.common/metadatapackage/addproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Menambahkan properti metadata yang dikenal yang memenuhi predikat yang ditentukan. Operasi bersifat rekursif sehingga memengaruhi semua paket bersarang juga. |
+| [Contains](../../groupdocs.metadata.common/metadatapackage/contains)(string) | Menentukan apakah paket berisi properti metadata dengan nama yang ditentukan. |
+| virtual [FindProperties](../../groupdocs.metadata.common/metadatapackage/findproperties)(Func&lt;MetadataProperty, bool&gt;) | Menemukan properti metadata yang memenuhi predikat yang ditentukan. Pencarian bersifat rekursif sehingga memengaruhi semua paket bersarang juga. |
+| [GetEnumerator](../../groupdocs.metadata.common/metadatapackage/getenumerator)() | Mengembalikan pencacah yang mengulang melalui koleksi. |
+| virtual [RemoveProperties](../../groupdocs.metadata.common/metadatapackage/removeproperties)(Func&lt;MetadataProperty, bool&gt;) | Menghapus properti metadata yang memenuhi predikat yang ditentukan. |
+| virtual [Sanitize](../../groupdocs.metadata.common/metadatapackage/sanitize)() | Menghapus properti metadata yang dapat ditulisi dari paket. Operasi bersifat rekursif sehingga memengaruhi semua paket bersarang juga. |
+| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Menyetel properti metadata yang dikenal yang memenuhi predikat yang ditentukan. Operasi bersifat rekursif sehingga memengaruhi semua paket bersarang juga. Metode ini merupakan kombinasi dari[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties) Dan[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) Jika properti yang ada memenuhi predikat, nilainya diperbarui. Jika ada properti yang diketahui hilang dalam paket yang memenuhi predikat itu ditambahkan ke paket. |
+| [UpdateProperties](../../groupdocs.metadata.common/metadatapackage/updateproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Memperbarui properti metadata yang dikenal yang memenuhi predikat yang ditentukan. Operasi bersifat rekursif sehingga memengaruhi semua paket bersarang juga. |
+
+### Perkataan
+
+**Belajarlah lagi**
+
+* [Bekerja dengan Email yang disimpan](https://docs.groupdocs.com/display/metadatanet/Working+with+saved+Emails)
+
+### Lihat juga
+
+* class [EmailPackage](../emailpackage)
+* ruang nama [GroupDocs.Metadata.Formats.Email](../../groupdocs.metadata.formats.email)
+* perakitan [GroupDocs.Metadata](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.Metadata.dll -->

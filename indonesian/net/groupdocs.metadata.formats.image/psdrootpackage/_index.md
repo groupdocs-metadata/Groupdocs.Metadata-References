@@ -1,0 +1,64 @@
+---
+title: PsdRootPackage
+second_title: GroupDocs.Metadata untuk Referensi .NET API
+description: Merupakan paket root yang memungkinkan bekerja dengan metadata dalam Dokumen Photoshop.
+type: docs
+weight: 1930
+url: /id/net/groupdocs.metadata.formats.image/psdrootpackage/
+---
+## PsdRootPackage class
+
+Merupakan paket root yang memungkinkan bekerja dengan metadata dalam Dokumen Photoshop.
+
+```csharp
+public class PsdRootPackage : ImageRootPackage, IExif, IIptc, IXmp
+```
+
+## Properti
+
+| Nama | Keterangan |
+| --- | --- |
+| [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | Mendapat jumlah properti metadata. |
+| [ExifPackage](../../groupdocs.metadata.formats.image/psdrootpackage/exifpackage) { get; set; } | Mendapat atau menyetel paket metadata EXIF. |
+| [FileType](../../groupdocs.metadata.formats.image/imagerootpackage/filetype) { get; } | Mendapatkan paket metadata tipe file. (2 properties) |
+| [ImageResourcePackage](../../groupdocs.metadata.formats.image/psdrootpackage/imageresourcepackage) { get; } | Mendapatkan paket metadata Sumber Daya Gambar Photoshop. Blok sumber daya gambar adalah unit dasar format file asli Photoshop. |
+| [IptcPackage](../../groupdocs.metadata.formats.image/psdrootpackage/iptcpackage) { get; set; } | Mendapat atau menyetel paket metadata IPTC. |
+| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | Mendapatkan[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty) dengan nama yang ditentukan. |
+| [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | Mendapat kumpulan nama properti metadata. |
+| [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | Mendapatkan jenis metadata. |
+| [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | Mendapat kumpulan deskriptor yang berisi informasi tentang properti yang dapat diakses melalui mesin pencari GroupDocs.Metadata. |
+| [PsdPackage](../../groupdocs.metadata.formats.image/psdrootpackage/psdpackage) { get; } | Mendapatkan paket metadata yang berisi informasi tentang file PSD. |
+| [XmpPackage](../../groupdocs.metadata.formats.image/psdrootpackage/xmppackage) { get; set; } | Mendapat atau menyetel paket metadata XMP. |
+
+## Metode
+
+| Nama | Keterangan |
+| --- | --- |
+| [AddProperties](../../groupdocs.metadata.common/metadatapackage/addproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Menambahkan properti metadata yang dikenal yang memenuhi predikat yang ditentukan. Operasi bersifat rekursif sehingga memengaruhi semua paket bersarang juga. |
+| [Contains](../../groupdocs.metadata.common/metadatapackage/contains)(string) | Menentukan apakah paket berisi properti metadata dengan nama yang ditentukan. |
+| virtual [FindProperties](../../groupdocs.metadata.common/metadatapackage/findproperties)(Func&lt;MetadataProperty, bool&gt;) | Menemukan properti metadata yang memenuhi predikat yang ditentukan. Pencarian bersifat rekursif sehingga memengaruhi semua paket bersarang juga. |
+| [GetEnumerator](../../groupdocs.metadata.common/metadatapackage/getenumerator)() | Mengembalikan pencacah yang mengulang melalui koleksi. |
+| virtual [RemoveProperties](../../groupdocs.metadata.common/metadatapackage/removeproperties)(Func&lt;MetadataProperty, bool&gt;) | Menghapus properti metadata yang memenuhi predikat yang ditentukan. |
+| override [Sanitize](../../groupdocs.metadata.common/rootmetadatapackage/sanitize)() | Menghapus properti metadata yang dapat ditulisi dari paket. Operasi bersifat rekursif sehingga memengaruhi semua paket bersarang juga. |
+| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Menyetel properti metadata yang dikenal yang memenuhi predikat yang ditentukan. Operasi bersifat rekursif sehingga memengaruhi semua paket bersarang juga. Metode ini merupakan kombinasi dari[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties) Dan[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) Jika properti yang ada memenuhi predikat, nilainya diperbarui. Jika ada properti yang diketahui hilang dalam paket yang memenuhi predikat itu ditambahkan ke paket. |
+| [UpdateProperties](../../groupdocs.metadata.common/metadatapackage/updateproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Memperbarui properti metadata yang dikenal yang memenuhi predikat yang ditentukan. Operasi bersifat rekursif sehingga memengaruhi semua paket bersarang juga. |
+
+### Perkataan
+
+**Belajarlah lagi**
+
+* [Bekerja dengan metadata dalam gambar PSD](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+PSD+images)
+* [Bekerja dengan metadata EXIF](https://docs.groupdocs.com/display/metadatanet/Working+with+EXIF+metadata)
+* [Bekerja dengan metadata XMP](https://docs.groupdocs.com/display/metadatanet/Working+with+XMP+metadata)
+* [Bekerja dengan metadata IIM IPTC](https://docs.groupdocs.com/display/metadatanet/Working+with+IPTC+IIM+metadata)
+
+### Lihat juga
+
+* class [ImageRootPackage](../imagerootpackage)
+* interface [IExif](../../groupdocs.metadata.standards.exif/iexif)
+* interface [IIptc](../../groupdocs.metadata.standards.iptc/iiptc)
+* interface [IXmp](../../groupdocs.metadata.standards.xmp/ixmp)
+* ruang nama [GroupDocs.Metadata.Formats.Image](../../groupdocs.metadata.formats.image)
+* perakitan [GroupDocs.Metadata](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.Metadata.dll -->
