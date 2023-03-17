@@ -1,14 +1,14 @@
 ---
 title: DerivedFrom
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置对资源的引用从该资源派生该资源
+description: 获取或设置对派生此资源的资源的引用
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpmediamanagementpackage/derivedfrom/
 ---
 ## XmpMediaManagementPackage.DerivedFrom property
 
-获取或设置对资源的引用，从该资源派生该资源。
+获取或设置对派生此资源的资源的引用。
 
 ```csharp
 public XmpResourceRef DerivedFrom { get; set; }
@@ -16,7 +16,7 @@ public XmpResourceRef DerivedFrom { get; set; }
 
 ### 适当的价值
 
-对该资源的引用，此资源的来源。
+对派生此资源的资源的引用。
 
 ### 也可以看看
 

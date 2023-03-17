@@ -1,14 +1,14 @@
 ---
 title: SetProperties
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: Belirtilen yüklemi karşılayan bilinen meta veri özelliklerini ayarlar. İşlem özyinelemeli olduğundan tüm iç içe geçmiş paketleri de etkiler. Bu yöntemAddPropertiesgroupdocs.metadata/metadata/addproperties veUpdatePropertiesgroupdocs.metadata/metadata/updateproperties . Mevcut bir özellik yüklemi karşılıyorsa değeri güncellenir. Bir pakette yüklemi karşılayan bilinen bir özellik eksikse pakete eklenir.
+description: Belirtilen yüklemi karşılayan bilinen meta veri özelliklerini ayarlar. İşlem özyinelemeli olduğundan tüm iç içe geçmiş paketleri de etkiler. Bu yöntemAddPropertiesgroupdocs.metadata/metadata/addproperties VeUpdatePropertiesgroupdocs.metadata/metadata/updateproperties . Mevcut bir özellik yüklemi karşılıyorsa değeri güncellenir. Bir pakette yüklemi karşılayan bilinen bir özellik eksikse pakete eklenir.
 type: docs
 weight: 120
 url: /tr/net/groupdocs.metadata/metadata/setproperties/
 ---
 ## Metadata.SetProperties method
 
-Belirtilen yüklemi karşılayan bilinen meta veri özelliklerini ayarlar. İşlem özyinelemeli olduğundan tüm iç içe geçmiş paketleri de etkiler. Bu yöntem,[`AddProperties`](../addproperties) ve[`UpdateProperties`](../updateproperties) . Mevcut bir özellik yüklemi karşılıyorsa, değeri güncellenir. Bir pakette yüklemi karşılayan bilinen bir özellik eksikse, pakete eklenir.
+Belirtilen yüklemi karşılayan bilinen meta veri özelliklerini ayarlar. İşlem özyinelemeli olduğundan tüm iç içe geçmiş paketleri de etkiler. Bu yöntem,[`AddProperties`](../addproperties) Ve[`UpdateProperties`](../updateproperties) . Mevcut bir özellik yüklemi karşılıyorsa, değeri güncellenir. Bir pakette yüklemi karşılayan bilinen bir özellik eksikse, pakete eklenir.
 
 ```csharp
 public int SetProperties(Func<MetadataProperty, bool> predicate, PropertyValue value)

@@ -1,14 +1,14 @@
 ---
 title: XmpRational
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 代表 XMP XmpRational
+description: 代表XMP XmpRational.
 type: docs
 weight: 3510
 url: /zh/net/groupdocs.metadata.standards.xmp/xmprational/
 ---
 ## XmpRational class
 
-代表 XMP XmpRational。
+代表XMP XmpRational.
 
 ```csharp
 public sealed class XmpRational : XmpValueBase
@@ -18,8 +18,8 @@ public sealed class XmpRational : XmpValueBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| [XmpRational](xmprational#constructor_1)(string) | 初始化[`XmpBoolean`](../xmpboolean)类. |
-| [XmpRational](xmprational#constructor)(long, long) | 初始化[`XmpRational`](../xmprational)类. |
+| [XmpRational](xmprational#constructor_1)(string) | 初始化一个新的实例[`XmpBoolean`](../xmpboolean)类. |
+| [XmpRational](xmprational#constructor)(long, long) | 初始化一个新的实例[`XmpRational`](../xmprational)类. |
 
 ## 特性
 
@@ -39,7 +39,7 @@ public sealed class XmpRational : XmpValueBase
 | override [GetXmpRepresentation](../../groupdocs.metadata.standards.xmp/xmprational/getxmprepresentation)() | 以 XMP 格式返回包含字符串的值。 |
 | [ToArray&lt;TElement&gt;](../../groupdocs.metadata.common/propertyvalue/toarray)() | 将属性值转换为指定类型的数组。 |
 | [ToClass&lt;T&gt;](../../groupdocs.metadata.common/propertyvalue/toclass)() | 将属性值转换为引用类型。 |
-| override [ToString](../../groupdocs.metadata.standards.xmp/xmpvaluebase/tostring)() | 返回一个表示属性值的字符串。 |
+| override [ToString](../../groupdocs.metadata.standards.xmp/xmpvaluebase/tostring)() | 返回表示属性值的字符串。 |
 | [ToStruct&lt;T&gt;](../../groupdocs.metadata.common/propertyvalue/tostruct)() | 将属性值转换为值类型。 |
 | [ToStruct&lt;T&gt;](../../groupdocs.metadata.common/propertyvalue/tostruct)(T) | 将属性值转换为值类型。 |
 

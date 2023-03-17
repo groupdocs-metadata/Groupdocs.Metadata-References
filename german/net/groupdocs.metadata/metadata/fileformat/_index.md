@@ -16,7 +16,7 @@ public FileFormat FileFormat { get; }
 
 ### Eigentumswert
 
-Der Typ der geladenen Datei, falls erkannt; Andernfalls,Unknown.
+Der Typ der geladenen Datei, falls erkannt; ansonsten,Unknown.
 
 ### Siehe auch
 

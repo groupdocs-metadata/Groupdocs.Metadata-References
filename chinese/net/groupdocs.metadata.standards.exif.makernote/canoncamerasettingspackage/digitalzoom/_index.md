@@ -16,7 +16,7 @@ public short DigitalZoom { get; }
 
 ### 适当的价值
 
-数码变焦。
+数码变焦.
 
 ### 也可以看看
 

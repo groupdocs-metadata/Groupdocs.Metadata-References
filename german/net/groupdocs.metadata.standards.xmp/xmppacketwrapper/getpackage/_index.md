@@ -20,7 +20,7 @@ public XmpPackage GetPackage(string namespaceUri)
 
 ### Rückgabewert
 
-Angemessen[`XmpPackage`](../../xmppackage) wenn Paket gefunden von*namespaceUri*; sonst null.
+Geeignet[`XmpPackage`](../../xmppackage) wenn Paket gefunden von*namespaceUri*; sonst null.
 
 ### Ausnahmen
 

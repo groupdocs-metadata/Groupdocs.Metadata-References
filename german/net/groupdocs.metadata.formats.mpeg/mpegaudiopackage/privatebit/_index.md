@@ -16,7 +16,7 @@ public bool PrivateBit { get; }
 
 ### Eigentumswert
 
-`Stimmt` if [privates Bit]; Andernfalls,`FALSCH` .
+`WAHR` if [privates Bit]; ansonsten,`FALSCH` .
 
 ### Siehe auch
 

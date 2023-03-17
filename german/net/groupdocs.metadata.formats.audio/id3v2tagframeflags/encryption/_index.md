@@ -16,7 +16,7 @@ public bool Encryption { get; }
 
 ### Eigentumswert
 
-`Stimmt`wenn der Rahmen verschlüsselt ist; andernfalls falsch.
+`WAHR`wenn der Rahmen verschlüsselt ist; andernfalls falsch.
 
 ### Siehe auch
 

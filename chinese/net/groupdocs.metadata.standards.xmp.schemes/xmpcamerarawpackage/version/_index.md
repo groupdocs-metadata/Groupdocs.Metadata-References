@@ -1,14 +1,14 @@
 ---
 title: Version
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置 Camera Raw 插件的版本
+description: 获取或设置 Camera Raw 增效工具的版本
 type: docs
 weight: 370
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/version/
 ---
 ## XmpCameraRawPackage.Version property
 
-获取或设置 Camera Raw 插件的版本。
+获取或设置 Camera Raw 增效工具的版本。
 
 ```csharp
 public string Version { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: DateCreated
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置对象知识内容的创建日期
+description: 获取或设置对象的知识内容的创建日期
 type: docs
 weight: 170
 url: /zh/net/groupdocs.metadata.standards.iptc/iptcapplicationrecord/datecreated/
 ---
 ## IptcApplicationRecord.DateCreated property
 
-获取或设置对象知识内容的创建日期。
+获取或设置对象的知识内容的创建日期。
 
 ```csharp
 public DateTime? DateCreated { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: TagTrackUid
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取唯一 ID 以标识标签所属的 Tracks 如果该级别的值为0则标签适用于Segment中的所有轨道
+description: 获取唯一 ID 以标识标签所属的轨道 如果此级别的值为 0则标记适用于段中的所有轨道
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.formats.video/matroskatag/tagtrackuid/
 ---
 ## MatroskaTag.TagTrackUid property
 
-获取唯一 ID 以标识标签所属的 Track(s)。 如果该级别的值为0，则标签适用于Segment中的所有轨道。
+获取唯一 ID 以标识标签所属的轨道。 如果此级别的值为 0，则标记适用于段中的所有轨道。
 
 ```csharp
 public ulong TagTrackUid { get; }

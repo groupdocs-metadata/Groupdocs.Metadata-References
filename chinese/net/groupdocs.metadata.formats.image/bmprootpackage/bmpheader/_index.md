@@ -1,14 +1,14 @@
 ---
 title: BmpHeader
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取 BMP 头元数据包
+description: 获取BMP头元数据包
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.image/bmprootpackage/bmpheader/
 ---
 ## BmpRootPackage.BmpHeader property
 
-获取 BMP 头元数据包。
+获取BMP头元数据包。
 
 ```csharp
 public BmpHeaderPackage BmpHeader { get; }
@@ -20,7 +20,7 @@ BMP 标头元数据包。
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [使用 BMP 元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+BMP+metadata)
 

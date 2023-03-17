@@ -16,7 +16,7 @@ public short SelfTimer { get; }
 
 ### 适当的价值
 
-自拍定时器.
+自拍定时器。
 
 ### 也可以看看
 

@@ -16,7 +16,7 @@ public XmpDate(DateTime dateTime)
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| dateTime | DateTime | DateTime värde. |
+| dateTime | DateTime | DateTimevärde. |
 
 ### Se även
 

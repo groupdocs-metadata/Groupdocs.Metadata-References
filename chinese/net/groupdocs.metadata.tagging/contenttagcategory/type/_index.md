@@ -1,14 +1,14 @@
 ---
 title: Type
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取表示文件内容的性质或类型的标记 它还包括描述内容的一般类别功能聚合级别的术语
+description: 获取指示文件内容的性质或流派的标记 它还包括描述内容的一般类别功能聚合级别的术语
 type: docs
 weight: 140
 url: /zh/net/groupdocs.metadata.tagging/contenttagcategory/type/
 ---
 ## ContentTagCategory.Type property
 
-获取表示文件内容的性质或类型的标记。 它还包括描述内容的一般类别、功能、聚合级别的术语。
+获取指示文件内容的性质或流派的标记。 它还包括描述内容的一般类别、功能、聚合级别的术语。
 
 ```csharp
 public PropertyTag Type { get; }

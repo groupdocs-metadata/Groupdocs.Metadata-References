@@ -1,14 +1,14 @@
 ---
 title: Mode
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取定义颜色的颜色空间之一CMYKRGBLAB.
+description: 获取定义颜色的颜色空间其中之一CMYKRGBLAB.
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpcolorantbase/mode/
 ---
 ## XmpColorantBase.Mode property
 
-获取定义颜色的颜色空间。之一：CMYK、RGB、LAB.
+获取定义颜色的颜色空间。其中之一：CMYK、RGB、LAB.
 
 ```csharp
 public XmpColorantColorMode Mode { get; }

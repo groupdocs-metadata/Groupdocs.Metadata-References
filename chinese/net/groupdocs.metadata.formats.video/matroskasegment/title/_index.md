@@ -16,7 +16,7 @@ public string Title { get; }
 
 ### 适当的价值
 
-段的通用名称。
+Segment 的通用名称。
 
 ### 也可以看看
 

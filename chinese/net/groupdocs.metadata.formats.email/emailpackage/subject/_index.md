@@ -1,14 +1,14 @@
 ---
 title: Subject
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置邮件主题
+description: 获取或设置电子邮件主题
 type: docs
 weight: 70
 url: /zh/net/groupdocs.metadata.formats.email/emailpackage/subject/
 ---
 ## EmailPackage.Subject property
 
-获取或设置邮件主题。
+获取或设置电子邮件主题。
 
 ```csharp
 public string Subject { get; set; }

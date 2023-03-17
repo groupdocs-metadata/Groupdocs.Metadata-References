@@ -20,7 +20,7 @@ Il pacchetto di metadati EPUB.
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * [Lavorare con i metadati negli e-book EPUB](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+EPUB+E-Books)
 

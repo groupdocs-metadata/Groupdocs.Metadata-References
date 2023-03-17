@@ -1,14 +1,14 @@
 ---
 title: ToDataSetList
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 从包中创建一个数据集列表
+description: 从包中创建数据集列表
 type: docs
 weight: 90
 url: /zh/net/groupdocs.metadata.standards.iptc/iptcrecordset/todatasetlist/
 ---
 ## IptcRecordSet.ToDataSetList method
 
-从包中创建一个数据集列表。
+从包中创建数据集列表。
 
 ```csharp
 public IReadOnlyList<IptcDataSet> ToDataSetList()

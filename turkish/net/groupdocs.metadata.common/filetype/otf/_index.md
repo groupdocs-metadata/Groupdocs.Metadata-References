@@ -1,14 +1,14 @@
 ---
 title: OTF
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: .otf uzantılı bir dosya OpenType yazı tipi formatına atıfta bulunur. OTF yazı tipi formatı daha ölçeklenebilirdir ve dijital tipografi için TTF formatlarının mevcut özelliklerini genişletir. Bu dosya hakkında daha fazla bilgi edinin format buradahttps//docs.fileformat.com/font/otf/ .
+description: .otf uzantılı bir dosya OpenType yazı tipi formatına atıfta bulunur. OTF yazı tipi formatı daha ölçeklenebilirdir ve dijital tipografi için TTF formatlarının mevcut özelliklerini genişletir. Bu dosya hakkında daha fazla bilgi edinin format Buradahttps//docs.fileformat.com/font/otf/ .
 type: docs
 weight: 440
 url: /tr/net/groupdocs.metadata.common/filetype/otf/
 ---
 ## FileType.OTF field
 
-.otf uzantılı bir dosya, OpenType yazı tipi formatına atıfta bulunur. OTF yazı tipi formatı daha ölçeklenebilirdir ve dijital tipografi için TTF formatlarının mevcut özelliklerini genişletir. Bu dosya hakkında daha fazla bilgi edinin format [burada](https://docs.fileformat.com/font/otf/) .
+.otf uzantılı bir dosya, OpenType yazı tipi formatına atıfta bulunur. OTF yazı tipi formatı daha ölçeklenebilirdir ve dijital tipografi için TTF formatlarının mevcut özelliklerini genişletir. Bu dosya hakkında daha fazla bilgi edinin format [Burada](https://docs.fileformat.com/font/otf/) .
 
 ```csharp
 public static readonly FileType OTF;

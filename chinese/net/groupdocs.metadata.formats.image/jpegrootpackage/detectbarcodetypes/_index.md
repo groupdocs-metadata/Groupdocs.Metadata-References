@@ -16,17 +16,17 @@ public string[] DetectBarcodeTypes()
 
 ### 返回值
 
-条码类型数组。
+条形码类型数组。
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* [处理 JPEG 图像中的元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+JPEG+images)
+* [使用 JPEG 图像中的元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+JPEG+images)
 
 ### 例子
 
-此代码段演示如何检测 JPEG 图像中的条形码。
+此代码片段演示了如何检测 JPEG 图像中的条形码。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.JpegWithBarcodes))

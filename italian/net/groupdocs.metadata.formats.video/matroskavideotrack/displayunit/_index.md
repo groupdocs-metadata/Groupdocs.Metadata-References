@@ -1,14 +1,14 @@
 ---
 title: DisplayUnit
 second_title: Riferimento API GroupDocs.Metadata per .NET
-description: Ottiene il comeDisplayWidthgroupdocs.metadata.formats.video/matroskavideotrack/displaywidth eDisplayHeightgroupdocs.metadata.formats.video/matroskavideotrack/displayheight sono interpretati.
+description: Ottiene il comeDisplayWidthgroupdocs.metadata.formats.video/matroskavideotrack/displaywidth EDisplayHeightgroupdocs.metadata.formats.video/matroskavideotrack/displayheight sono interpretati.
 type: docs
 weight: 30
 url: /it/net/groupdocs.metadata.formats.video/matroskavideotrack/displayunit/
 ---
 ## MatroskaVideoTrack.DisplayUnit property
 
-Ottiene il come[`DisplayWidth`](../displaywidth) e[`DisplayHeight`](../displayheight) sono interpretati.
+Ottiene il come[`DisplayWidth`](../displaywidth) E[`DisplayHeight`](../displayheight) sono interpretati.
 
 ```csharp
 public MatroskaVideoDisplayUnit DisplayUnit { get; }
@@ -16,7 +16,7 @@ public MatroskaVideoDisplayUnit DisplayUnit { get; }
 
 ### Valore della proprietà
 
-Il come[`DisplayWidth`](../displaywidth) e[`DisplayHeight`](../displayheight) vengono interpretati.
+Il come[`DisplayWidth`](../displaywidth) E[`DisplayHeight`](../displayheight) vengono interpretati.
 
 ### Guarda anche
 

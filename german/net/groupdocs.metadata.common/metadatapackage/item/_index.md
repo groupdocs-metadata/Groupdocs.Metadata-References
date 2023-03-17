@@ -20,7 +20,7 @@ public MetadataProperty this[string propertyName] { get; }
 
 ### Rückgabewert
 
-Das[`MetadataProperty`](../../metadataproperty) wenn gefunden; andernfalls null.
+Der[`MetadataProperty`](../../metadataproperty) wenn gefunden; andernfalls null.
 
 ### Eigentumswert
 

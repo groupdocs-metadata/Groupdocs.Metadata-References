@@ -20,7 +20,7 @@ Das CAD-Metadatenpaket.
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * [Arbeiten mit CAD-Metadaten](https://docs.groupdocs.com/display/metadatanet/Working+with+CAD+metadata)
 

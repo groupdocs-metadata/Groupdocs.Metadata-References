@@ -1,14 +1,14 @@
 ---
 title: Nicknames
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取一个数组其中包含与对象昵称对应的文本
+description: 获取包含对象昵称对应文本的数组
 type: docs
 weight: 170
 url: /zh/net/groupdocs.metadata.formats.businesscard/vcardidentificationrecordset/nicknames/
 ---
 ## VCardIdentificationRecordset.Nicknames property
 
-获取一个数组，其中包含与对象昵称对应的文本。
+获取包含对象昵称对应文本的数组。
 
 ```csharp
 public string[] Nicknames { get; }
@@ -20,7 +20,7 @@ public string[] Nicknames { get; }
 
 ### 评论
 
-这个属性是一个简化版[`NicknameRecords`](../nicknamerecords).
+此属性是[`NicknameRecords`](../nicknamerecords).
 
 ### 也可以看看
 

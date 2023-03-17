@@ -16,7 +16,7 @@ public bool IsOriginal { get; }
 
 ### El valor de la propiedad
 
-`verdadero` si el audio es original; de lo contrario,`falso` .
+`verdadero` si el audio es original; de lo contrario,`FALSO` .
 
 ### Ver también
 

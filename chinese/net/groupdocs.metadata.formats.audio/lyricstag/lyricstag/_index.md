@@ -1,14 +1,14 @@
 ---
 title: LyricsTag
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化LyricsTaggroupdocs.metadata.formats.audio/lyricstag类.
+description: 初始化一个新的实例LyricsTaggroupdocs.metadata.formats.audio/lyricstag类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.audio/lyricstag/lyricstag/
 ---
 ## LyricsTag constructor
 
-初始化[`LyricsTag`](../../lyricstag)类.
+初始化一个新的实例[`LyricsTag`](../../lyricstag)类.
 
 ```csharp
 public LyricsTag()

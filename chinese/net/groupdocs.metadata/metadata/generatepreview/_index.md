@@ -20,13 +20,13 @@ public void GeneratePreview(PreviewOptions previewOptions)
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [生成文档预览](https://docs.groupdocs.com/display/metadatanet/Generate+document+preview)
 
 ### 例子
 
-此代码段演示如何为文档页面创建图像预览。
+此代码片段演示了如何为文档页面创建图像预览。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.InputDocx))

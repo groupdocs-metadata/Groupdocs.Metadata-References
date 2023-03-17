@@ -1,14 +1,14 @@
 ---
 title: Manager
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置用户输入的文本字符串标识项目或部门负责人 最大长度为63个字符
+description: 获取或设置用户输入的文本字符串用于标识项目或部门的负责人 最大长度为 63 个字符
 type: docs
 weight: 110
 url: /zh/net/groupdocs.metadata.formats.document/diagrampackage/manager/
 ---
 ## DiagramPackage.Manager property
 
-获取或设置用户输入的文本字符串，标识项目或部门负责人。 最大长度为63个字符。
+获取或设置用户输入的文本字符串，用于标识项目或部门的负责人。 最大长度为 63 个字符。
 
 ```csharp
 public string Manager { get; set; }

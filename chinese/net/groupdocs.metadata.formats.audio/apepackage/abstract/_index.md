@@ -16,7 +16,7 @@ public string Abstract { get; }
 
 ### 适当的价值
 
-抽象链接。
+抽象链接.
 
 ### 也可以看看
 

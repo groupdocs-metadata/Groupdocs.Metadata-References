@@ -1,14 +1,14 @@
 ---
 title: OTF
 second_title: Riferimento API GroupDocs.Metadata per .NET
-description: Un file con estensione .otf fa riferimento al formato di carattere OpenType. Il formato di carattere OTF è più scalabile ed estende le funzionalità esistenti dei formati TTF per la tipografia digitale. Ulteriori informazioni su questo formato di file quihttps//docs.fileformat.com/font/otf/ .
+description: Un file con estensione .otf fa riferimento al formato di carattere OpenType. Il formato di carattere OTF è più scalabile ed estende le funzionalità esistenti dei formati TTF per la tipografia digitale. Ulteriori informazioni su questo formato di file Quihttps//docs.fileformat.com/font/otf/ .
 type: docs
 weight: 440
 url: /it/net/groupdocs.metadata.common/filetype/otf/
 ---
 ## FileType.OTF field
 
-Un file con estensione .otf fa riferimento al formato di carattere OpenType. Il formato di carattere OTF è più scalabile ed estende le funzionalità esistenti dei formati TTF per la tipografia digitale. Ulteriori informazioni su questo formato di file [qui](https://docs.fileformat.com/font/otf/) .
+Un file con estensione .otf fa riferimento al formato di carattere OpenType. Il formato di carattere OTF è più scalabile ed estende le funzionalità esistenti dei formati TTF per la tipografia digitale. Ulteriori informazioni su questo formato di file [Qui](https://docs.fileformat.com/font/otf/) .
 
 ```csharp
 public static readonly FileType OTF;

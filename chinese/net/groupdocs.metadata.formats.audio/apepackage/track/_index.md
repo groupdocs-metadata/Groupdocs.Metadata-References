@@ -1,14 +1,14 @@
 ---
 title: Track
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取曲目编号
+description: 获取轨道号
 type: docs
 weight: 200
 url: /zh/net/groupdocs.metadata.formats.audio/apepackage/track/
 ---
 ## ApePackage.Track property
 
-获取曲目编号。
+获取轨道号。
 
 ```csharp
 public int? Track { get; }

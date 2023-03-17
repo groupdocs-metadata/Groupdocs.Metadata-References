@@ -1,14 +1,14 @@
 ---
 title: AutoExposure
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置 AutoExposure 值为真时曝光会自动调整
+description: 获取或设置自动曝光值为真时曝光会自动调整
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/autoexposure/
 ---
 ## XmpCameraRawPackage.AutoExposure property
 
-获取或设置 AutoExposure 值。为真时，“曝光”会自动调整。
+获取或设置自动曝光值。为真时，“曝光”会自动调整。
 
 ```csharp
 public bool? AutoExposure { get; set; }
@@ -16,7 +16,7 @@ public bool? AutoExposure { get; set; }
 
 ### 适当的价值
 
-`真的` if [自动曝光]；否则，`错误的`.
+`真的`如果[自动曝光]；否则，`错误的`.
 
 ### 也可以看看
 

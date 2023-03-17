@@ -1,14 +1,14 @@
 ---
 title: OpenTypeWindowsLanguage
 second_title: GroupDocs.Metadata für .NET-API-Referenz
-description: Stellt die Sprache für darWindows Plattform.
+description: Stellt die Sprache für darWindowsPlattform.
 type: docs
 weight: 1630
 url: /de/net/groupdocs.metadata.formats.font/opentypewindowslanguage/
 ---
 ## OpenTypeWindowsLanguage enumeration
 
-Stellt die Sprache für darWindows Plattform.
+Stellt die Sprache für darWindowsPlattform.
 
 ```csharp
 public enum OpenTypeWindowsLanguage : ushort

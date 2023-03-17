@@ -16,7 +16,7 @@ public DateTime? ExpirationDate { get; set; }
 
 ### 适当的价值
 
-有效期。
+到期日期。
 
 ### 也可以看看
 

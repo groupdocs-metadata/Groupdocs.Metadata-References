@@ -1,14 +1,14 @@
 ---
 title: Rating
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取标记用户指定文件评级的标签
+description: 获取标记用户指定的文件评级的标签
 type: docs
 weight: 70
 url: /zh/net/groupdocs.metadata.tagging/contenttagcategory/rating/
 ---
 ## ContentTagCategory.Rating property
 
-获取标记用户指定文件评级的标签。
+获取标记用户指定的文件评级的标签。
 
 ```csharp
 public PropertyTag Rating { get; }

@@ -20,7 +20,7 @@ public IptcDataSet this[byte dataSetNumber] { get; }
 
 ### Valor_devuelto
 
-los[`IptcDataSet`](../../iptcdataset) con el número de conjunto de datos especificado, si se encuentra; de lo contrario nulo.
+El[`IptcDataSet`](../../iptcdataset) con el número de conjunto de datos especificado, si se encuentra; de lo contrario nulo.
 
 ### Ver también
 

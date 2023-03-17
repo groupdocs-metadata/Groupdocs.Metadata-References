@@ -1,14 +1,14 @@
 ---
 title: Jpeg2000Package
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取 JPEG2000 原生元数据包
+description: 获取 JPEG2000 本机元数据包
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.formats.image/jpeg2000rootpackage/jpeg2000package/
 ---
 ## Jpeg2000RootPackage.Jpeg2000Package property
 
-获取 JPEG2000 原生元数据包。
+获取 JPEG2000 本机元数据包。
 
 ```csharp
 public Jpeg2000Package Jpeg2000Package { get; }
@@ -16,17 +16,17 @@ public Jpeg2000Package Jpeg2000Package { get; }
 
 ### 适当的价值
 
-JPEG2000 原生元数据包。
+JPEG2000 本机元数据包。
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* [处理 JPEG2000 图像中的元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+JPEG2000+images)
+* [使用 JPEG2000 图像中的元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+JPEG2000+images)
 
 ### 例子
 
-此代码段演示如何读取 JPEG2000 图像注释。
+此代码片段演示了如何读取 JPEG2000 图像注释。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.InputJpeg2000))

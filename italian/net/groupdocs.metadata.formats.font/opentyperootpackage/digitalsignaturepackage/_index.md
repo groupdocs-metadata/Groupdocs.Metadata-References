@@ -20,7 +20,7 @@ Il pacchetto di metadati della firma digitale.
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * [Lavorare con i font OpenType](https://docs.groupdocs.com/display/metadatanet/Working+with+OpenType+fonts)
 

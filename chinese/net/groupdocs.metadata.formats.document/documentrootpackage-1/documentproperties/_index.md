@@ -1,14 +1,14 @@
 ---
 title: DocumentProperties
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取文档中呈现的本机元数据属性
+description: 获取文档中显示的本机元数据属性
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.document/documentrootpackage-1/documentproperties/
 ---
 ## DocumentRootPackage&lt;TPackage&gt;.DocumentProperties property
 
-获取文档中呈现的本机元数据属性。
+获取文档中显示的本机元数据属性。
 
 ```csharp
 public virtual TPackage DocumentProperties { get; }

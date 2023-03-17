@@ -1,14 +1,14 @@
 ---
 title: Source
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取标记对导出文件内容的资源的引用的标记
+description: 获取标记对资源的引用的标记文件内容源自该资源
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.tagging/origintagcategory/source/
 ---
 ## OriginTagCategory.Source property
 
-获取标记对导出文件内容的资源的引用的标记。
+获取标记对资源的引用的标记，文件内容源自该资源。
 
 ```csharp
 public PropertyTag Source { get; }

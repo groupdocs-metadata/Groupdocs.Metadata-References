@@ -20,7 +20,7 @@ Das Metadatenpaket, das Informationen über die PSD-Datei enthält.
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * [Arbeiten mit Metadaten in PSD-Bildern](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+PSD+images)
 

@@ -1,14 +1,14 @@
 ---
 title: EndTime
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取最后一个对象的呈现时间加上播放的持续时间指示此数字媒体流在整个 ASF 文件的时间轴上下文中的 结束位置
+description: 获取最后一个对象的呈现时间加上播放持续时间指示 此数字媒体流在整个 ASF 文件的时间轴上下文中结束的位置
 type: docs
 weight: 50
 url: /zh/net/groupdocs.metadata.formats.video/asfbasestreamproperty/endtime/
 ---
 ## AsfBaseStreamProperty.EndTime property
 
-获取最后一个对象的呈现时间加上播放的持续时间，指示此数字媒体流在整个 ASF 文件的时间轴上下文中的 结束位置。
+获取最后一个对象的呈现时间加上播放持续时间，指示 此数字媒体流在整个 ASF 文件的时间轴上下文中结束的位置。
 
 ```csharp
 public ulong? EndTime { get; }

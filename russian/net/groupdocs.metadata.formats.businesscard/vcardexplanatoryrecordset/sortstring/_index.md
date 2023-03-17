@@ -1,14 +1,14 @@
 ---
 title: SortString
 second_title: Справочник по API GroupDocs.Metadata для .NET
-description: Получает текст фамилии или имени который будет использоваться для сортировки по национальному языкуFormattedNamesgroupdocs.metadata.formats.businesscard/vcardidentificationrecordset/formattednames а такжеNamegroupdocs.metadata.formats.businesscard/vcardidentificationrecordset/name типы.
+description: Получает текст фамилии или имени который будет использоваться для сортировки по национальному языкуFormattedNamesgroupdocs.metadata.formats.businesscard/vcardidentificationrecordset/formattednames иNamegroupdocs.metadata.formats.businesscard/vcardidentificationrecordset/name типы.
 type: docs
 weight: 110
 url: /ru/net/groupdocs.metadata.formats.businesscard/vcardexplanatoryrecordset/sortstring/
 ---
 ## VCardExplanatoryRecordset.SortString property
 
-Получает текст фамилии или имени, который будет использоваться для сортировки по национальному языку[`FormattedNames`](../../vcardidentificationrecordset/formattednames) а также[`Name`](../../vcardidentificationrecordset/name) типы.
+Получает текст фамилии или имени, который будет использоваться для сортировки по национальному языку[`FormattedNames`](../../vcardidentificationrecordset/formattednames) и[`Name`](../../vcardidentificationrecordset/name) типы.
 
 ```csharp
 public string SortString { get; }
@@ -16,7 +16,7 @@ public string SortString { get; }
 
 ### Стоимость имущества
 
-Текст фамилии или имени, который будет использоваться для сортировки по национальному языку[`FormattedNames`](../../vcardidentificationrecordset/formattednames) а также[`Name`](../../vcardidentificationrecordset/name) типы.
+Текст фамилии или имени, который будет использоваться для сортировки по национальному языку[`FormattedNames`](../../vcardidentificationrecordset/formattednames) и[`Name`](../../vcardidentificationrecordset/name) типы.
 
 ### Смотрите также
 

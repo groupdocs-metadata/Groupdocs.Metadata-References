@@ -16,7 +16,7 @@ public bool? IsComposite { get; set; }
 
 ### Valeur de la propriété
 
-`vrai` si la police est composite ; Par ailleurs,`faux` .
+`vrai` si la police est composite ; sinon,`FAUX` .
 
 ### Voir également
 

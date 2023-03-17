@@ -16,7 +16,7 @@ public string PartMapping { get; set; }
 
 ### 适当的价值
 
-用于将 fromPart 映射到 toPart 的映射函数的名称或 URI。时间映射的默认值为“线性”。
+用于将 fromPart 映射到 toPart 的映射函数的名称或 URI。时间映射的默认值是“线性”。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Company
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取标记属性的标记该属性包含有关有助于文件创建的公司的信息 或者标签可以引用文件内容所在的公司
+description: 获取标记属性的标签该属性包含有关参与文件创建的公司的信息 或者标签可以引用文件内容所涉及的公司
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.tagging/corporatetagcategory/company/
 ---
 ## CorporateTagCategory.Company property
 
-获取标记属性的标记，该属性包含有关有助于文件创建的公司的信息。 或者，标签可以引用文件内容所在的公司。
+获取标记属性的标签，该属性包含有关参与文件创建的公司的信息。 或者，标签可以引用文件内容所涉及的公司。
 
 ```csharp
 public PropertyTag Company { get; }

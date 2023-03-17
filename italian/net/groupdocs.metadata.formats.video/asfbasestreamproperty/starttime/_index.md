@@ -1,14 +1,14 @@
 ---
 title: StartTime
 second_title: Riferimento API GroupDocs.Metadata per .NET
-description: Ottiene lora di presentazione del primo oggetto indicando dove inizia questo flusso multimediale digitale allinterno del contesto della sequenza temporale del file ASF nel suo insieme.
+description: Ottiene lora di presentazione del primo oggetto indicando dove questo flusso multimediale digitale inizia nel contesto della sequenza temporale del file ASF nel suo insieme.
 type: docs
 weight: 80
 url: /it/net/groupdocs.metadata.formats.video/asfbasestreamproperty/starttime/
 ---
 ## AsfBaseStreamProperty.StartTime property
 
-Ottiene l'ora di presentazione del primo oggetto, indicando dove inizia questo flusso multimediale digitale all'interno del contesto della sequenza temporale del file ASF nel suo insieme.
+Ottiene l'ora di presentazione del primo oggetto, indicando dove questo flusso multimediale digitale inizia nel contesto della sequenza temporale del file ASF nel suo insieme.
 
 ```csharp
 public ulong? StartTime { get; }

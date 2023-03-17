@@ -1,14 +1,14 @@
 ---
 title: Identifier
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置一个字符串值表示对给定上下文中资源的明确引用
+description: 获取或设置一个字符串值表示在给定上下文中对资源的明确引用
 type: docs
 weight: 80
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpdublincorepackage/identifier/
 ---
 ## XmpDublinCorePackage.Identifier property
 
-获取或设置一个字符串值，表示对给定上下文中资源的明确引用。
+获取或设置一个字符串值，表示在给定上下文中对资源的明确引用。
 
 ```csharp
 public string Identifier { get; set; }
@@ -16,11 +16,11 @@ public string Identifier { get; set; }
 
 ### 适当的价值
 
-一个字符串值，表示对给定上下文中资源的明确引用。
+表示在给定上下文中对资源的明确引用的字符串值。
 
 ### 评论
 
-推荐的最佳实践是通过符合正式标识系统的字符串来标识资源。
+推荐的最佳做法是通过符合正式标识系统的字符串来标识资源。
 
 ### 也可以看看
 

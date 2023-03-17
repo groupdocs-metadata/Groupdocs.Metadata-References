@@ -32,7 +32,7 @@ Ad alanı, XMP (Genişletilebilir Meta Veri Platformu) meta veri okuma ve yazma 
 | [XmpLangAlt](./xmplangalt) | XMP Dil Alternatifini Temsil Eder. |
 | [XmpMeta](./xmpmeta) | xmpmeta'yı temsil eder. İsteğe Bağlı. Bu öğenin amacı, RDF'nin XMP dışı diğer kullanımlarını içerebilecek genel XML metni içindeki XMP meta verilerini tanımlamaktır. |
 | [XmpMetadataContainer](./xmpmetadatacontainer) | XMP meta veri özellikleri için bir kapsayıcıyı temsil eder. |
-| [XmpNamespaces](./xmpnamespaces) | Kullanılan ad alanlarını içerir[`XmpPackage`](../groupdocs.metadata.standards.xmp/xmppackage) ve[`XmpComplexType`](../groupdocs.metadata.standards.xmp/xmpcomplextype) . |
+| [XmpNamespaces](./xmpnamespaces) | Kullanılan ad alanlarını içerir[`XmpPackage`](../groupdocs.metadata.standards.xmp/xmppackage) Ve[`XmpComplexType`](../groupdocs.metadata.standards.xmp/xmpcomplextype) . |
 | [XmpPackage](./xmppackage) | XMP paketi için temel soyutlamayı temsil eder. |
 | [XmpPacketWrapper](./xmppacketwrapper) | Başlık ve son bilgi dahil olmak üzere seri hale getirilmiş XMP paketi içerir. Bir çift XML işleme talimatından (PI) oluşan bir sarmalayıcı, rdf:RDF öğesinin etrafına yerleştirilebilir. |
 | [XmpRational](./xmprational) | XMP'yi Temsil Eder XmpRational. |

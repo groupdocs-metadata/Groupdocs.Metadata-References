@@ -1,14 +1,14 @@
 ---
 title: LyricsField
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化LyricsFieldgroupdocs.metadata.formats.audio/lyricsfield类.
+description: 初始化一个新的实例LyricsFieldgroupdocs.metadata.formats.audio/lyricsfield类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.audio/lyricsfield/lyricsfield/
 ---
 ## LyricsField constructor
 
-初始化[`LyricsField`](../../lyricsfield)类.
+初始化一个新的实例[`LyricsField`](../../lyricsfield)类.
 
 ```csharp
 public LyricsField(string id, string data)
@@ -16,7 +16,7 @@ public LyricsField(string id, string data)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| id | String | 三字符字段ID。 |
+| id | String | 三字符字段标识。 |
 | data | String | 场数据。 |
 
 ### 也可以看看

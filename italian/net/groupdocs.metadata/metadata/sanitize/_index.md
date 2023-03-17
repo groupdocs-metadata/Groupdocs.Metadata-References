@@ -20,7 +20,7 @@ Il numero di proprietà interessate.
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * [Metadati puliti](https://docs.groupdocs.com/display/metadatanet/Clean+metadata)
 

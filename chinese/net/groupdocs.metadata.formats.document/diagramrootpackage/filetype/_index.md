@@ -20,7 +20,7 @@ public DiagramTypePackage FileType { get; }
 
 ### 例子
 
-这个代码示例展示了如何检测加载图表的确切类型并提取一些额外的文件格式信息。
+此代码示例展示了如何检测加载图表的确切类型并提取一些额外的文件格式信息。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.InputVdx))

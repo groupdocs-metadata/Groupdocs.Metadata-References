@@ -64,7 +64,7 @@ public sealed class XmpDynamicMediaPackage : XmpPackage
 | [ProjectName](../../groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/projectname) { get; set; } | Obtiene o establece el nombre del proyecto del que forma parte este archivo. |
 | [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | Obtiene una colección de descriptores que contienen información sobre propiedades accesibles a través del motor de búsqueda GroupDocs.Metadata. |
 | [RelativeTimestamp](../../groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/relativetimestamp) { get; set; } | Obtiene o establece la hora de inicio de los medios dentro del proyecto de audio. |
-| [ReleaseDate](../../groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/releasedate) { get; set; } | Obtiene o establece la fecha de lanzamiento del título. |
+| [ReleaseDate](../../groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/releasedate) { get; set; } | Obtiene o establece la fecha de publicación del título. |
 | [ShotDate](../../groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/shotdate) { get; set; } | Obtiene o establece la fecha y la hora en que se grabó el video. |
 | [StartTimecode](../../groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/starttimecode) { get; set; } | Obtiene o establece el código de tiempo del primer cuadro de video en el archivo, tal como se obtiene del control del dispositivo. |
 | [TakeNumber](../../groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/takenumber) { get; set; } | Obtiene o establece un valor numérico que indica el número absoluto de una toma. |

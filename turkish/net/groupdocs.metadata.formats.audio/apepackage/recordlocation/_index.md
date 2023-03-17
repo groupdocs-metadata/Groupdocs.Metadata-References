@@ -16,7 +16,7 @@ public string RecordLocation { get; }
 
 ### Mülk değeri
 
-Kayıt konumu.
+Kayıt yeri.
 
 ### Ayrıca bakınız
 

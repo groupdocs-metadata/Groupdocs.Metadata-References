@@ -16,7 +16,7 @@ public Metadata(string filePath)
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| filePath | String | سلسلة تحتوي على الاسم الكامل للملف المراد إنشاء ملف[`Metadata`](../../metadata) نموذج. |
+| filePath | String | سلسلة تحتوي على الاسم الكامل للملف المراد إنشاء ملف[`Metadata`](../../metadata) مثال. |
 
 ### ملاحظات
 
@@ -97,7 +97,7 @@ public Metadata(string filePath, LoadOptions loadOptions)
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| filePath | String | سلسلة تحتوي على الاسم الكامل للملف المراد إنشاء ملف[`Metadata`](../../metadata) نموذج. |
+| filePath | String | سلسلة تحتوي على الاسم الكامل للملف المراد إنشاء ملف[`Metadata`](../../metadata) مثال. |
 | loadOptions | LoadOptions | خيارات إضافية لاستخدامها عند تحميل مستند. |
 
 ### ملاحظات

@@ -24,7 +24,7 @@ public IEnumerable<MetadataProperty> FindProperties(Func<MetadataProperty, bool>
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * Дополнительные примеры, демонстрирующие использование этого метода: [Извлечение метаданных](https://docs.groupdocs.com/display/metadatanet/Extracting+metadata)
 

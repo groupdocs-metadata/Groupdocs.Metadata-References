@@ -16,7 +16,7 @@ public bool? AutoBrightness { get; set; }
 
 ### Eigentumswert
 
-`Stimmt` if [automatische Helligkeit]; Andernfalls,`FALSCH` .
+`WAHR` if [automatische Helligkeit]; ansonsten,`FALSCH` .
 
 ### Siehe auch
 

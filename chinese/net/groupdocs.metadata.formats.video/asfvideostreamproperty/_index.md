@@ -18,23 +18,23 @@ public class AsfVideoStreamProperty : AsfBaseStreamProperty
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AlternateBitrate](../../groupdocs.metadata.formats.video/asfbasestreamproperty/alternatebitrate) { get; } | 获取包含流的数据部分 且未溢出的漏桶的泄漏率 RAlt，以比特/秒为单位，不包括所有 ASF 数据包开销。 |
-| [AverageBitrate](../../groupdocs.metadata.formats.video/asfbasestreamproperty/averagebitrate) { get; } | 获取平均比特率。 |
-| [AverageTimePerFrame](../../groupdocs.metadata.formats.video/asfbasestreamproperty/averagetimeperframe) { get; } | 获取每帧的平均持续时间，以 100 纳秒为单位。 |
-| [Bitrate](../../groupdocs.metadata.formats.video/asfbasestreamproperty/bitrate) { get; } | 获取包含流的数据部分 且未溢出的漏桶的泄漏率 R，以比特/秒为单位，不包括所有 ASF 数据包开销。 |
+| [AlternateBitrate](../../groupdocs.metadata.formats.video/asfbasestreamproperty/alternatebitrate) { get; } | 获取包含流的数据部分 且未溢出的泄漏桶的泄漏率 RAlt（以比特/秒为单位），不包括所有 ASF 数据包开销。 |
+| [AverageBitrate](../../groupdocs.metadata.formats.video/asfbasestreamproperty/averagebitrate) { get; } | 获取平均码率。 |
+| [AverageTimePerFrame](../../groupdocs.metadata.formats.video/asfbasestreamproperty/averagetimeperframe) { get; } | 获取每帧的平均持续时间，以 100 纳秒为单位测量。 |
+| [Bitrate](../../groupdocs.metadata.formats.video/asfbasestreamproperty/bitrate) { get; } | 获取包含流的数据部分 且未溢出的泄漏桶的泄漏率 R（以比特/秒为单位），不包括所有 ASF 数据包开销。 |
 | [BitsPerPixels](../../groupdocs.metadata.formats.video/asfvideostreamproperty/bitsperpixels) { get; } | 获取每像素的位数。 |
 | [Compression](../../groupdocs.metadata.formats.video/asfvideostreamproperty/compression) { get; } | 获取视频压缩Id. |
 | [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | 获取元数据属性的数量。 |
-| [EndTime](../../groupdocs.metadata.formats.video/asfbasestreamproperty/endtime) { get; } | 获取最后一个对象的呈现时间加上播放的持续时间，指示此数字媒体流在整个 ASF 文件的时间轴上下文中的 结束位置。 |
+| [EndTime](../../groupdocs.metadata.formats.video/asfbasestreamproperty/endtime) { get; } | 获取最后一个对象的呈现时间加上播放持续时间，指示 此数字媒体流在整个 ASF 文件的时间轴上下文中结束的位置。 |
 | [Flags](../../groupdocs.metadata.formats.video/asfbasestreamproperty/flags) { get; } | 获取标志。 |
-| [ImageHeight](../../groupdocs.metadata.formats.video/asfvideostreamproperty/imageheight) { get; } | 获取编码图像的高度（以像素为单位）。 |
+| [ImageHeight](../../groupdocs.metadata.formats.video/asfvideostreamproperty/imageheight) { get; } | 获取编码图像的像素高度。 |
 | [ImageWidth](../../groupdocs.metadata.formats.video/asfvideostreamproperty/imagewidth) { get; } | 获取编码图像的宽度（以像素为单位）。 |
-| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定的名称。 |
+| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定名称. |
 | [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | 获取元数据属性名称的集合。 |
 | [Language](../../groupdocs.metadata.formats.video/asfbasestreamproperty/language) { get; } | 获取流语言。 |
 | [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | 获取元数据类型。 |
 | [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | 获取描述符集合，其中包含有关可通过 GroupDocs.Metadata 搜索引擎访问的属性的信息。 |
-| [StartTime](../../groupdocs.metadata.formats.video/asfbasestreamproperty/starttime) { get; } | 获取第一个对象的呈现时间，指示此数字媒体流 在整个 ASF 文件的时间线上下文中从何处开始。 |
+| [StartTime](../../groupdocs.metadata.formats.video/asfbasestreamproperty/starttime) { get; } | 获取第一个对象的呈现时间，指示此数字媒体流 在整个 ASF 文件的时间线上下文中的开始位置。 |
 | [StreamNumber](../../groupdocs.metadata.formats.video/asfbasestreamproperty/streamnumber) { get; } | 获取此流的编号。 |
 | [StreamType](../../groupdocs.metadata.formats.video/asfbasestreamproperty/streamtype) { get; } | 获取此流的类型。 |
 
@@ -48,12 +48,12 @@ public class AsfVideoStreamProperty : AsfBaseStreamProperty
 | [GetEnumerator](../../groupdocs.metadata.common/metadatapackage/getenumerator)() | 返回一个遍历集合的枚举器。 |
 | virtual [RemoveProperties](../../groupdocs.metadata.common/metadatapackage/removeproperties)(Func&lt;MetadataProperty, bool&gt;) | 删除满足指定谓词的元数据属性。 |
 | virtual [Sanitize](../../groupdocs.metadata.common/metadatapackage/sanitize)() | 从包中删除可写元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
-| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
+| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是以下方法的组合[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
 | [UpdateProperties](../../groupdocs.metadata.common/metadatapackage/updateproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 更新满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [使用 ASF 文件中的元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+Metadata+in+ASF+Files)
 

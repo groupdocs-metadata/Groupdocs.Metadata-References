@@ -20,9 +20,9 @@ MSG 元数据包。
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* [使用已保存的电子邮件](https://docs.groupdocs.com/display/metadatanet/Working+with+saved+Emails)
+* [使用保存的电子邮件](https://docs.groupdocs.com/display/metadatanet/Working+with+saved+Emails)
 
 ### 也可以看看
 

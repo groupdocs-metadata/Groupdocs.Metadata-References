@@ -1,14 +1,14 @@
 ---
 title: OpenTypeWeight
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示 OpenType 字体粗细 表示字体中字符的视觉粗细黑度或笔划粗细 1 到 1000 的值有效
+description: 表示OpenType字体粗细 表示字体中字符的视觉粗细黑度或笔画粗细 1到1000之间的值有效
 type: docs
 weight: 1600
 url: /zh/net/groupdocs.metadata.formats.font/opentypeweight/
 ---
 ## OpenTypeWeight enumeration
 
-表示 OpenType 字体粗细。 表示字体中字符的视觉粗细（黑度或笔划粗细）。 1 到 1000 的值有效。
+表示OpenType字体粗细。 表示字体中字符的视觉粗细（黑度或笔画粗细）。 1到1000之间的值有效。
 
 ```csharp
 public enum OpenTypeWeight : ushort
@@ -18,16 +18,16 @@ public enum OpenTypeWeight : ushort
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Undefined | `0` | 未定义的重量。 |
+| Undefined | `0` | 未定义的权重。 |
 | Thin | `100` | 瘦体重. |
-| ExtraLight | `200` | 超轻（超轻）重量。 |
-| Light | `300` | 轻量级. |
+| ExtraLight | `200` | 超轻（Ultra-light）重量。 |
+| Light | `300` | 重量轻. |
 | Normal | `400` | 正常（常规）重量。 |
 | Medium | `500` | 中等重量。 |
-| SemiBold | `600` | 半粗体（Demi-bold）的权重。 |
-| Bold | `700` | 粗体重量. |
-| ExtraBold | `800` | Extra-bold（超粗体）重量。 |
-| Heavy | `900` | 黑（重）重。 |
+| SemiBold | `600` | 半粗体（Demi-bold）权重. |
+| Bold | `700` | 粗体字重。 |
+| ExtraBold | `800` | Extra-bold（超粗体）权重. |
+| Heavy | `900` | 黑色（重）重量。 |
 
 ### 也可以看看
 

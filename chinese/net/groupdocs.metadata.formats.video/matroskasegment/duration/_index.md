@@ -1,14 +1,14 @@
 ---
 title: Duration
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取 SEGMENT 的持续时间 请看TimecodeScalegroupdocs.metadata.formats.video/matroskasegment/timecodescale了解更多信息
+description: 获取 SEGMENT 的持续时间 请参阅TimecodeScalegroupdocs.metadata.formats.video/matroskasegment/timecodescale了解更多信息
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.formats.video/matroskasegment/duration/
 ---
 ## MatroskaSegment.Duration property
 
-获取 SEGMENT 的持续时间。 请看[`TimecodeScale`](../timecodescale)了解更多信息。
+获取 SEGMENT 的持续时间。 请参阅[`TimecodeScale`](../timecodescale)了解更多信息。
 
 ```csharp
 public double? Duration { get; }

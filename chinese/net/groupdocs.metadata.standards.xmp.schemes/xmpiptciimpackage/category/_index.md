@@ -1,14 +1,14 @@
 ---
 title: Category
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置提供者认为的对象数据的主题
+description: 获取或设置提供者认为对象数据的主题
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpiptciimpackage/category/
 ---
 ## XmpIptcIimPackage.Category property
 
-获取或设置提供者认为的对象数据的主题。
+获取或设置提供者认为对象数据的主题。
 
 ```csharp
 public string Category { get; set; }

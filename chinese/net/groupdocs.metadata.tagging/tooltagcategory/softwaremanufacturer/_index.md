@@ -1,14 +1,14 @@
 ---
 title: SoftwareManufacturer
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取标记软件制造商的标签
+description: 获取标记软件制造商的标记
 type: docs
 weight: 50
 url: /zh/net/groupdocs.metadata.tagging/tooltagcategory/softwaremanufacturer/
 ---
 ## ToolTagCategory.SoftwareManufacturer property
 
-获取标记软件制造商的标签。
+获取标记软件制造商的标记。
 
 ```csharp
 public PropertyTag SoftwareManufacturer { get; }

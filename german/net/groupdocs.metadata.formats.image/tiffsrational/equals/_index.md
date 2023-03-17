@@ -21,7 +21,7 @@ public static bool Equals(TiffSRational rational, TiffSRational other)
 
 ### Rückgabewert
 
-`Stimmt` wenn Objekte gleich sind; Andernfalls`FALSCH`.
+`WAHR` wenn Objekte gleich sind; ansonsten`FALSCH`.
 
 ### Siehe auch
 
@@ -45,7 +45,7 @@ public bool Equals(TiffSRational other)
 
 ### Rückgabewert
 
-`Stimmt` wenn das aktuelle Objekt gleich dem ist*other* Parameter; Andernfalls,`FALSCH` .
+`WAHR` wenn das aktuelle Objekt gleich dem ist*other* Parameter; ansonsten,`FALSCH` .
 
 ### Siehe auch
 
@@ -69,7 +69,7 @@ public override bool Equals(object obj)
 
 ### Rückgabewert
 
-`Stimmt` wenn das aktuelle Objekt gleich dem ist*obj* Parameter; Andernfalls,`FALSCH` .
+`WAHR` wenn das aktuelle Objekt gleich dem ist*obj* Parameter; ansonsten,`FALSCH` .
 
 ### Siehe auch
 

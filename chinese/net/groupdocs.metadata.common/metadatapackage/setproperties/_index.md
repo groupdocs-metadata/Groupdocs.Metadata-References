@@ -1,14 +1,14 @@
 ---
 title: SetProperties
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 设置满足指定谓词的已知元数据属性 该操作是递归的因此它也会影响所有嵌套包 此方法是AddPropertiesgroupdocs.metadata.common/metadatapackage/addproperties和UpdatePropertiesgroupdocs.metadata.common/metadatapackage/updateproperties 如果现有属性满足谓词则更新其值 如果包中缺少满足谓词的已知属性则将其添加到包中
+description: 设置满足指定谓词的已知元数据属性 该操作是递归的因此它也会影响所有嵌套包 此方法是以下方法的组合AddPropertiesgroupdocs.metadata.common/metadatapackage/addproperties和UpdatePropertiesgroupdocs.metadata.common/metadatapackage/updateproperties 如果现有属性满足谓词则更新其值 如果包中缺少满足谓词的已知属性则将其添加到包中
 type: docs
 weight: 120
 url: /zh/net/groupdocs.metadata.common/metadatapackage/setproperties/
 ---
 ## MetadataPackage.SetProperties method
 
-设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是[`AddProperties`](../addproperties)和[`UpdateProperties`](../updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。
+设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是以下方法的组合[`AddProperties`](../addproperties)和[`UpdateProperties`](../updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。
 
 ```csharp
 public int SetProperties(Func<MetadataProperty, bool> predicate, PropertyValue value)
@@ -16,18 +16,18 @@ public int SetProperties(Func<MetadataProperty, bool> predicate, PropertyValue v
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| predicate | Func`2 | 用于测试每个元数据属性的条件的函数。 |
-| value | PropertyValue | 过滤属性的新值。 |
+| predicate | Func`2 | 用于测试条件的每个元数据属性的函数。 |
+| value | PropertyValue | 筛选属性的新值。 |
 
 ### 返回值
 
-受影响属性的数量。
+受影响的属性的数量。
 
 ### 评论
 
-请注意 GroupDocs.Metadata 隐式检查每个过滤属性的类型。 无法设置具有不适当类型的值的属性。
+请注意，GroupDocs.Metadata 隐式检查每个筛选属性的类型。 无法设置具有不适当类型的值的属性。
 
-**学到更多**
+**了解更多**
 
 * [设置元数据属性](https://docs.groupdocs.com/display/metadatanet/Set+metadata+properties)
 

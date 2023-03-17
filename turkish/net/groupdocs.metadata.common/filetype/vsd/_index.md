@@ -1,14 +1,14 @@
 ---
 title: VSD
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: VSD dosyaları çeşitli grafik nesneleri ve bunlar arasındaki ara bağlantıyı temsil etmek için Microsoft Visio uygulamasıyla oluşturulan çizimlerdir. Bu dosya hakkında daha fazla bilgi edinin format buradahttps//wiki.fileformat.com/visio/vsd/ .
+description: VSD dosyaları çeşitli grafik nesneleri ve bunlar arasındaki ara bağlantıyı temsil etmek için Microsoft Visio uygulamasıyla oluşturulan çizimlerdir. Bu dosya hakkında daha fazla bilgi edinin format Buradahttps//wiki.fileformat.com/visio/vsd/ .
 type: docs
 weight: 670
 url: /tr/net/groupdocs.metadata.common/filetype/vsd/
 ---
 ## FileType.VSD field
 
-VSD dosyaları, çeşitli grafik nesneleri ve bunlar arasındaki ara bağlantıyı temsil etmek için Microsoft Visio uygulamasıyla oluşturulan çizimlerdir. Bu dosya hakkında daha fazla bilgi edinin format [burada](https://wiki.fileformat.com/visio/vsd/) .
+VSD dosyaları, çeşitli grafik nesneleri ve bunlar arasındaki ara bağlantıyı temsil etmek için Microsoft Visio uygulamasıyla oluşturulan çizimlerdir. Bu dosya hakkında daha fazla bilgi edinin format [Burada](https://wiki.fileformat.com/visio/vsd/) .
 
 ```csharp
 public static readonly FileType VSD;

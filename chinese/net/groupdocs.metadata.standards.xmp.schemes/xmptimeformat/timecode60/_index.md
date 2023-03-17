@@ -16,7 +16,7 @@ public static XmpTimeFormat Timecode60 { get; }
 
 ### 适当的价值
 
-60时间码.
+60 时间码.
 
 ### 也可以看看
 

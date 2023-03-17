@@ -1,14 +1,14 @@
 ---
 title: ColorType
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置颜色的类型
+description: 获取或设置颜色类型
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpcolorantbase/colortype/
 ---
 ## XmpColorantBase.ColorType property
 
-获取或设置颜色的类型。
+获取或设置颜色类型。
 
 ```csharp
 public XmpColorType? ColorType { get; set; }

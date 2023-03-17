@@ -1,14 +1,14 @@
 ---
 title: Artist
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置艺术家姓名 该值由 EAR 字段表示
+description: 获取或设置艺术家姓名 此值由 EAR 字段表示
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.formats.audio/lyricstag/artist/
 ---
 ## LyricsTag.Artist property
 
-获取或设置艺术家姓名。 该值由 EAR 字段表示。
+获取或设置艺术家姓名。 此值由 EAR 字段表示。
 
 ```csharp
 public string Artist { get; set; }

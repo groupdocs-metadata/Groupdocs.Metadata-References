@@ -37,7 +37,7 @@ using (Metadata metadata = new Metadata(Constants.MP3WithLyrics))
     root.Lyrics3V2.Album = "test album";
     root.Lyrics3V2.Track = "test track";
 
-    // 您可以在标签中添加一个完全自定义的字段
+    // 您可以向标签添加一个完全自定义的字段
     root.Lyrics3V2.Set(new LyricsField("ABC", "custom value"));
 
     // ...

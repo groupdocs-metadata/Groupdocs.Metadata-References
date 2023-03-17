@@ -16,7 +16,7 @@ public DateTime CreatedDate { get; set; }
 
 ### 适当的价值
 
-评论的创建日期。
+创建评论的日期。
 
 ### 也可以看看
 

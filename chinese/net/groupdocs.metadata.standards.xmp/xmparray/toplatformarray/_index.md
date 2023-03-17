@@ -20,7 +20,7 @@ public T[] ToPlatformArray<T>()
 
 ### 返回值
 
-一个特定于平台的数组，包含[`XmpArray`](../../xmparray).
+包含元素的特定于平台的数组[`XmpArray`](../../xmparray).
 
 ### 也可以看看
 

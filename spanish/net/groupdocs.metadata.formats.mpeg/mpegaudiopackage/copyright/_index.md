@@ -16,7 +16,7 @@ public bool Copyright { get; }
 
 ### El valor de la propiedad
 
-`verdadero`si los derechos de autor; de lo contrario,`falso` .
+`verdadero`si los derechos de autor; de lo contrario,`FALSO` .
 
 ### Ver también
 

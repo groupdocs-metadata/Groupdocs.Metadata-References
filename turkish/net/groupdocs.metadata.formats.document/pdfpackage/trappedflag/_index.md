@@ -16,7 +16,7 @@ public bool? TrappedFlag { get; set; }
 
 ### Mülk değeri
 
-`doğru` tuzak bayrağı ayarlanmışsa; aksi halde,`yanlış` .
+`doğru` tuzak bayrağı ayarlanmışsa; aksi takdirde,`YANLIŞ` .
 
 ### Ayrıca bakınız
 

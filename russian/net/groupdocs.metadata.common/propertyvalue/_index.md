@@ -26,7 +26,7 @@ public class PropertyValue
 | [PropertyValue](propertyvalue#constructor_4)(int) | Инициализирует новый экземпляр[`PropertyValue`](../propertyvalue) класс с целочисленным значением. |
 | [PropertyValue](propertyvalue#constructor_5)(int[]) | Инициализирует новый экземпляр[`PropertyValue`](../propertyvalue) класс с массивом целочисленных значений. |
 | [PropertyValue](propertyvalue#constructor_6)(long) | Инициализирует новый экземпляр[`PropertyValue`](../propertyvalue) класс с длинным значением. |
-| [PropertyValue](propertyvalue#constructor_7)(long[]) | Инициализирует новый экземпляр[`PropertyValue`](../propertyvalue)класс с массивом длинных значений. |
+| [PropertyValue](propertyvalue#constructor_7)(long[]) | Инициализирует новый экземпляр[`PropertyValue`](../propertyvalue) класс с массивом длинных значений. |
 | [PropertyValue](propertyvalue#constructor_9)(string) | Инициализирует новый экземпляр[`PropertyValue`](../propertyvalue) класс со строковым значением. |
 | [PropertyValue](propertyvalue#constructor_10)(string[]) | Инициализирует новый экземпляр[`PropertyValue`](../propertyvalue) класс со строковым массивом. |
 | [PropertyValue](propertyvalue#constructor_11)(TimeSpan) | Инициализирует новый экземпляр[`PropertyValue`](../propertyvalue) класс сTimeSpan значение. |

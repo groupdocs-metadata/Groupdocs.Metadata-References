@@ -1,14 +1,14 @@
 ---
 title: AdditionalInfo
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置附加信息 该值由INF字段表示
+description: 获取或设置附加信息 此值由 INF 字段表示
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.formats.audio/lyricstag/additionalinfo/
 ---
 ## LyricsTag.AdditionalInfo property
 
-获取或设置附加信息。 该值由INF字段表示。
+获取或设置附加信息。 此值由 INF 字段表示。
 
 ```csharp
 public string AdditionalInfo { get; set; }
@@ -20,7 +20,7 @@ public string AdditionalInfo { get; set; }
 
 ### 评论
 
-在 v2.00 中，这始终是三 (3) 个字符，但在未来的标准中可能会更长。 第一个字节表示天气或不存在歌词字段。 “1”表示当前，“0”表示否则。 第二个字符表示歌词中是否有时间戳。同样，“1”表示是，“0”表示否。 第三个字符禁止随机选择的轨道 - 如果禁止，则为“1”，否则为“0”。
+这在 v2.00 中始终为三 (3) 个字符长，但在未来的标准中可能会更长。 第一个字节指示天气或不存在歌词字段。 “1”表示存在，“0”表示不存在。 第二个字符表示歌词中是否有时间戳。同样，“1”表示是，“0”表示否。 第三个字符禁止随机选择轨道 - 如果禁止则为“1”，否则为“0”。
 
 ### 也可以看看
 

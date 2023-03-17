@@ -1,14 +1,14 @@
 ---
 title: XmpText
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpTextgroupdocs.metadata.standards.xmp/xmptext类.
+description: 初始化一个新的实例XmpTextgroupdocs.metadata.standards.xmp/xmptext类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp/xmptext/xmptext/
 ---
 ## XmpText constructor
 
-初始化[`XmpText`](../../xmptext)类.
+初始化一个新的实例[`XmpText`](../../xmptext)类.
 
 ```csharp
 public XmpText(string value)

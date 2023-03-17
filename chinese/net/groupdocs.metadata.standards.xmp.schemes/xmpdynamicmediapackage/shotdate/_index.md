@@ -16,7 +16,7 @@ public DateTime? ShotDate { get; set; }
 
 ### 适当的价值
 
-视频拍摄的日期和时间。
+拍摄视频的日期和时间。
 
 ### 也可以看看
 

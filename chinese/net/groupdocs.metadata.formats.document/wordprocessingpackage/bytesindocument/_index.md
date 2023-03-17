@@ -16,7 +16,7 @@ public int? BytesInDocument { get; }
 
 ### 适当的价值
 
-文档中字节数的估计值。
+文档中字节数的估计。
 
 ### 也可以看看
 

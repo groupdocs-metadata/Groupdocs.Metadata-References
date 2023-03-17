@@ -1,14 +1,14 @@
 ---
 title: GetHashCode
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 用作默认哈希函数
+description: 作为默认哈希函数
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.tagging/propertytag/gethashcode/
 ---
 ## PropertyTag.GetHashCode method
 
-用作默认哈希函数。
+作为默认哈希函数。
 
 ```csharp
 public override int GetHashCode()

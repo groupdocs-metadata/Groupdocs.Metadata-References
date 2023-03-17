@@ -86,7 +86,7 @@ public enum TiffTagID : ushort
 | T6Options | `293` | T6 kodlama seçenekleri. |
 | ResolutionUnit | `296` | XResolution ve YResolution. için ölçüm birimi |
 | PageNumber | `297` | Bu görüntünün tarandığı sayfanın sayfa numarası. |
-| TransferFunction | `301` | Görüntü için bir aktarım işlevini tablo biçiminde tanımlar. Piksel bileşenleri x000d_ gama telafili, sıkıştırılmış, eşit olmayan şekilde nicelenmiş veya başka bir şekilde x000d_ kodlanmış olabilir. TransferFunction, piksel bileşenlerini lineer olmayan BitsPerSample (örn. 8 bit) formundan, algılanabilir bir doğruluk kaybı olmadan 16 bit lineer forma eşler. |
+| TransferFunction | `301` | Görüntü için bir aktarım işlevini tablo biçiminde tanımlar. Piksel bileşenleri gama telafili, sıkıştırılmış, eşit olmayan şekilde nicelenmiş veya başka bir şekilde kodlanmış olabilir. TransferFunction, piksel bileşenlerini lineer olmayan BitsPerSample (örn. 8 bit) formundan, algılanabilir bir doğruluk kaybı olmadan 16 bit lineer forma eşler. |
 | Software | `305` | Görüntüyü oluşturmak için kullanılan yazılım paketlerinin adı ve sürüm numarası. |
 | DateTime | `306` | Görüntü oluşturma tarihi ve saati. |
 | Artist | `315` | Resmi oluşturan kişi. |
@@ -95,7 +95,7 @@ public enum TiffTagID : ushort
 | WhitePoint | `318` | Görüntünün beyaz noktasının renkliliği. |
 | PrimaryChromaticities | `319` | Görüntünün ana renklerinin renklilikleri. |
 | ColorMap | `320` | Palet renkli görüntüler için bir renk haritası. |
-| HalftoneHints | `321` | Yarı Tonlu İpuçları alanının amacı, x000d_ ton detayını tutması gereken kolorimetrik olarak belirlenmiş bir görüntüdeki gri seviyeleri aralığını yarı ton işlevine iletmektir. |
+| HalftoneHints | `321` | Yarı Tonlu İpuçları alanının amacı, ton detayını tutması gereken kolorimetrik olarak belirlenmiş bir görüntüdeki gri seviyeleri aralığını yarı ton işlevine iletmektir. |
 | TileWidth | `322` | Piksel cinsinden döşeme genişliği. Bu, her döşemedeki sütun sayısıdır. |
 | TileLength | `323` | Piksel cinsinden karo uzunluğu (yüksekliği). Bu, her döşemedeki satır sayısıdır. |
 | TileOffsets | `324` | Her kutucuk için, o kutucuğun sıkıştırılmış ve diskte saklanan bayt ofseti. Ofset, TIFF dosyasının başlangıcına göre belirtilir. Bunun, her döşemenin diğer döşemelerin konumlarından bağımsız bir konuma sahip olduğu anlamına geldiğini unutmayın. |
@@ -142,7 +142,7 @@ public enum TiffTagID : ushort
 | FlashpixVersion | `40960` | Bir FPXR dosyası tarafından desteklenen Flashpix biçimi sürümü. FPXR işlevi Flashpix biçimi Ver. 1.0'da bu, "0100"ün 4 bayt ASCII. olarak kaydedilmesiyle ExifVersion'a benzer şekilde belirtilir. |
 | ColorSpace | `40961` | Renk alanı bilgi etiketi (ColorSpace) her zaman renk alanı belirleyicisi olarak kaydedilir. Normalde sRGB (=1), PC monitör koşulları ve ortamına göre renk uzayını tanımlamak için kullanılır. sRGB dışında bir renk alanı kullanılıyorsa Kalibre Edilmemiş (=FFFF.H) ayarlanır. |
 | PixelXDimension | `40962` | Sıkıştırılmış verilere özel bilgiler. Sıkıştırılmış bir dosya kaydedildiğinde, , dolgu verisi veya yeniden başlatma işaretçisi olsun ya da olmasın, anlamlı görüntünün geçerli genişliği bu etikete kaydedilecektir. |
-| PixelYDimension | `40963` | Sıkıştırılmış verilere özel bilgiler. Sıkıştırılmış bir dosya kaydedildiğinde, , dolgu verisi veya yeniden başlatma işaretçisi olsun veya olmasın, anlamlı görüntünün geçerli yüksekliği bu etikete kaydedilmelidir. |
+| PixelYDimension | `40963` | Sıkıştırılmış verilere özel bilgiler. Sıkıştırılmış bir dosya kaydedildiğinde, anlamlı görüntünün geçerli yüksekliği, dolgu verisi veya yeniden başlatma işaretçisi olsun ya da olmasın, bu etikete kaydedilecektir. |
 | SceneCaptureType | `41990` | Bu etiket, çekilen sahnenin türünü belirtir. Görüntünün çekildiği modu kaydetmek için de kullanılabilir. |
 | Gamma | `42240` | gama katsayısının değerini gösterir. |
 | CompressedBitsPerPixel | `37122` | Sıkıştırılmış verilere özel bilgiler. Sıkıştırılmış bir görüntü için kullanılan sıkıştırma modu, piksel başına birim bit cinsinden belirtilir. |
@@ -163,7 +163,7 @@ public enum TiffTagID : ushort
 | Oecf | `34856` | ISO 14524'te belirtilen Opto-Elektrik Dönüştürme İşlevini (OECF) belirtir. OECF, kamera optik girişi ile görüntü değerleri arasındaki ilişkidir. |
 | SensitivityType | `34864` | SensitivityType etiketi, ISO12232 parametrelerinden hangisinin PhotographicSensitivity etiketi olduğunu gösterir. İsteğe bağlı bir etiket olmasına rağmen, bir PhotographicSensitivity etiketi kaydedildiğinde kaydedilmelidir. |
 | StandardOutputSensitivity | `34865` | Bu etiket, ISO 12232'de tanımlanan bir kameranın veya giriş cihazının standart çıkış hassasiyet değerini gösterir. Bu etiketi kaydederken, PhotographicSensitivity ve SensitivityType etiketleri de kaydedilecektir. |
-| RecommendedExposureIndex | `34866` | Bu etiket, bir kameranın veya ISO 12232'de tanımlanan giriş cihazının önerilen poz indeks değerini gösterir. Bu etiketi kaydederken, PhotographicSensitivity ve SensitivityType etiketleri de kaydedilmelidir. |
+| RecommendedExposureIndex | `34866` | Bu etiket, bir kameranın veya ISO 12232'de tanımlanan giriş cihazının önerilen poz indeks değerini gösterir. Bu etiketi kaydederken, PhotographicSensitivity ve SensitivityType etiketleri de kaydedilecektir. |
 | IsoSpeed | `34867` | Bu etiket, ISO 12232'de tanımlanan bir kameranın veya giriş cihazının ISO hız değerini gösterir. Bu etiketi kaydederken, PhotographicSensitivity ve SensitivityType etiketleri de kaydedilmelidir. |
 | ISOSpeedLatitudeYyy | `34868` | Bu etiket, bir kameranın veya ISO 12232. 'de tanımlanan giriş cihazının ISO hız enlem yyy değerini gösterir. |
 | ISOSpeedLatitudeZzz | `34869` | Bu etiket, bir kameranın veya ISO 12232. 'de tanımlanan giriş cihazının ISO hız enlemi zzz değerini gösterir. |

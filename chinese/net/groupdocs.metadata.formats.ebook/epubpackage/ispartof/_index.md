@@ -1,14 +1,14 @@
 ---
 title: IsPartOf
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置相关资源所描述的资源在物理上或逻辑上都包含在其中
+description: 获取或设置相关资源其中描述的资源在物理上或逻辑上包含
 type: docs
 weight: 300
 url: /zh/net/groupdocs.metadata.formats.ebook/epubpackage/ispartof/
 ---
 ## EpubPackage.IsPartOf property
 
-获取或设置相关资源，所描述的资源在物理上或逻辑上都包含在其中。
+获取或设置相关资源，其中描述的资源在物理上或逻辑上包含。
 
 ```csharp
 public string IsPartOf { get; set; }
@@ -16,7 +16,7 @@ public string IsPartOf { get; set; }
 
 ### 适当的价值
 
-物理或逻辑上包含所描述资源的相关资源。
+描述的资源在物理上或逻辑上包含的相关资源。
 
 ### 也可以看看
 

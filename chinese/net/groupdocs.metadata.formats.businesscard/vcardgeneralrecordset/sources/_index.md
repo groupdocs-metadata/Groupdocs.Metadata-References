@@ -16,11 +16,11 @@ public string[] Sources { get; }
 
 ### 适当的价值
 
-一个数组，包含内容类型中包含的目录信息的来源。
+一个数组，其中包含内容类型中包含的目录信息的来源。
 
 ### 评论
 
-这个属性是一个简化版[`SourceRecords`](../sourcerecords).
+此属性是[`SourceRecords`](../sourcerecords).
 
 ### 也可以看看
 

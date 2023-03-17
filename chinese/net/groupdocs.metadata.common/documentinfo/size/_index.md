@@ -1,14 +1,14 @@
 ---
 title: Size
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取已加载文档的大小以字节为单位
+description: 以字节为单位获取加载文档的大小
 type: docs
 weight: 50
 url: /zh/net/groupdocs.metadata.common/documentinfo/size/
 ---
 ## DocumentInfo.Size property
 
-获取已加载文档的大小（以字节为单位）。
+以字节为单位获取加载文档的大小。
 
 ```csharp
 public long Size { get; }

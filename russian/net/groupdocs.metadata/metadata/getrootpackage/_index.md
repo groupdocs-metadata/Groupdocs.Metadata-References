@@ -20,7 +20,7 @@ public RootMetadataPackage GetRootPackage()
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * [Обход всего дерева метаданных](https://docs.groupdocs.com/display/metadatanet/Traverse+a+whole+metadata+tree)
 
@@ -103,7 +103,7 @@ public TRoot GetRootPackage<TRoot>()
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * [Обход всего дерева метаданных](https://docs.groupdocs.com/display/metadatanet/Traverse+a+whole+metadata+tree)
 

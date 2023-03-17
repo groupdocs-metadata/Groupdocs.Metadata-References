@@ -16,7 +16,7 @@ public bool? Marked { get; set; }
 
 ### Valeur de la propriété
 
-`vrai` si la ressource est gérée par des droits ; Par ailleurs`faux` . Lorsqu'il est faux, indique qu'il s'agit d'une ressource du domaine public. Omettre si l'état est inconnu.
+`vrai` si la ressource est gérée par des droits ; sinon`FAUX` . Lorsqu'il est faux, indique qu'il s'agit d'une ressource du domaine public. Omettre si l'état est inconnu.
 
 ### Voir également
 

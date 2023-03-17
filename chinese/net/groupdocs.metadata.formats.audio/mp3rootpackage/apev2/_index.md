@@ -20,7 +20,7 @@ APE v2 元数据。
 
 ### 例子
 
-本示例演示如何读取 MP3 文件中的 APEv2 标签。
+此示例演示如何读取 MP3 文件中的 APEv2 标签。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.MP3WithApe))

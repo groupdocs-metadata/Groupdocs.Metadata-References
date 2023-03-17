@@ -20,7 +20,7 @@ public string ContentStatus { get; set; }
 
 ### 评论
 
-只能在 PPTX 文档中更新。其他支持格式的只读。
+只能在 PPTX 文档中更新。对于其他支持的格式只读。
 
 ### 也可以看看
 

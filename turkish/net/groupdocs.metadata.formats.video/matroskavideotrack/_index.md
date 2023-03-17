@@ -24,7 +24,7 @@ public class MatroskaVideoTrack : MatroskaTrack
 | [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | Meta veri özelliklerinin sayısını alır. |
 | [DefaultDuration](../../groupdocs.metadata.formats.video/matroskatrack/defaultduration) { get; } | Nanosaniye sayısını alır (aracılığıyla ölçeklenmez)[`TimecodeScale`](../matroskasegment/timecodescale) ) kare başına. |
 | [DisplayHeight](../../groupdocs.metadata.formats.video/matroskavideotrack/displayheight) { get; } | Görüntülenecek video karelerinin yüksekliğini alır. Kırpıldıktan sonra video karesine uygulanır (PixelCrop* Öğeleri). |
-| [DisplayUnit](../../groupdocs.metadata.formats.video/matroskavideotrack/displayunit) { get; } | Nasıl olduğunu alır[`DisplayWidth`](./displaywidth) ve[`DisplayHeight`](./displayheight) yorumlanır. |
+| [DisplayUnit](../../groupdocs.metadata.formats.video/matroskavideotrack/displayunit) { get; } | Nasıl olduğunu alır[`DisplayWidth`](./displaywidth) Ve[`DisplayHeight`](./displayheight) yorumlanır. |
 | [DisplayWidth](../../groupdocs.metadata.formats.video/matroskavideotrack/displaywidth) { get; } | Görüntülenecek video karelerinin genişliğini alır. Kırpıldıktan sonra video karesine uygulanır (PixelCrop* Öğeleri). |
 | [FieldOrder](../../groupdocs.metadata.formats.video/matroskavideotrack/fieldorder) { get; } | Videonun alan sıralamasını bildirir. FlagInterlaced 1 olarak ayarlanmazsa, bu Eleman dikkate alınmamalıdır ZORUNLU. |
 | [FlagEnabled](../../groupdocs.metadata.formats.video/matroskatrack/flagenabled) { get; } | İz kullanılabilirse doğru olan etkin bayrağını alır. |
@@ -41,7 +41,7 @@ public class MatroskaVideoTrack : MatroskaTrack
 | [PixelCropTop](../../groupdocs.metadata.formats.video/matroskavideotrack/pixelcroptop) { get; } | Görüntünün üstünden kaldırılacak video piksellerinin sayısını alır. |
 | [PixelHeight](../../groupdocs.metadata.formats.video/matroskavideotrack/pixelheight) { get; } | Kodlanmış video karelerinin yüksekliğini piksel cinsinden alır. |
 | [PixelWidth](../../groupdocs.metadata.formats.video/matroskavideotrack/pixelwidth) { get; } | Kodlanmış video karelerinin genişliğini piksel cinsinden alır. |
-| [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | GroupDocs.Metadata arama motoru aracılığıyla erişilebilen özellikler hakkında bilgi içeren bir tanımlayıcı koleksiyonu alır. |
+| [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | GroupDocs.Metadata arama motoru aracılığıyla erişilebilen özellikler hakkında bilgi içeren tanımlayıcılardan oluşan bir koleksiyon alır. |
 | [StereoMode](../../groupdocs.metadata.formats.video/matroskavideotrack/stereomode) { get; } | Stereo-3D video modunu alır. |
 | [TrackNumber](../../groupdocs.metadata.formats.video/matroskatrack/tracknumber) { get; } | Blok Başlığında kullanılan parça numarasını alır. Tasarım sınırsız sayıya izin verse de 127'den fazla parça kullanılması önerilmez. |
 | [TrackType](../../groupdocs.metadata.formats.video/matroskatrack/tracktype) { get; } | Parçanın türünü alır. |
@@ -57,7 +57,7 @@ public class MatroskaVideoTrack : MatroskaTrack
 | [GetEnumerator](../../groupdocs.metadata.common/metadatapackage/getenumerator)() | Koleksiyon boyunca yinelenen bir numaralandırıcı döndürür. |
 | virtual [RemoveProperties](../../groupdocs.metadata.common/metadatapackage/removeproperties)(Func&lt;MetadataProperty, bool&gt;) | Belirtilen yüklemi karşılayan meta veri özelliklerini kaldırır. |
 | virtual [Sanitize](../../groupdocs.metadata.common/metadatapackage/sanitize)() | Paketten yazılabilir meta veri özelliklerini kaldırır. İşlem özyinelemeli olduğundan iç içe geçmiş tüm paketleri de etkiler. |
-| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Belirtilen yüklemi karşılayan bilinen meta veri özelliklerini ayarlar. İşlem özyinelemeli olduğundan tüm iç içe geçmiş paketleri de etkiler. Bu yöntem,[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties) ve[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) Mevcut bir özellik yüklemi karşılıyorsa, değeri güncellenir. Yüklemi karşılayan pakette eksik bilinen bir özellik varsa, pakete eklenir. |
+| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Belirtilen yüklemi karşılayan bilinen meta veri özelliklerini ayarlar. İşlem özyinelemeli olduğundan tüm iç içe geçmiş paketleri de etkiler. Bu yöntem,[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties) Ve[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) Mevcut bir özellik yüklemi karşılıyorsa, değeri güncellenir. Yüklemi karşılayan pakette eksik bilinen bir özellik varsa, pakete eklenir. |
 | [UpdateProperties](../../groupdocs.metadata.common/metadatapackage/updateproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Belirtilen yüklemi karşılayan bilinen meta veri özelliklerini günceller. İşlem yinelemeli olduğundan tüm iç içe geçmiş paketleri de etkiler. |
 
 ### Notlar

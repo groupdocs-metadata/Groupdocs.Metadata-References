@@ -1,14 +1,14 @@
 ---
 title: OpenTypeUnicodeEncoding
 second_title: GroupDocs.Metadata für .NET-API-Referenz
-description: Stellt die Codierung für darUnicode Plattform.
+description: Stellt die Codierung für darUnicodePlattform.
 type: docs
 weight: 1570
 url: /de/net/groupdocs.metadata.formats.font/opentypeunicodeencoding/
 ---
 ## OpenTypeUnicodeEncoding enumeration
 
-Stellt die Codierung für darUnicode Plattform.
+Stellt die Codierung für darUnicodePlattform.
 
 ```csharp
 public enum OpenTypeUnicodeEncoding : ushort

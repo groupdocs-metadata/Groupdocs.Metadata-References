@@ -1,14 +1,14 @@
 ---
 title: SetProperties
 second_title: GroupDocs.Metadata für .NET-API-Referenz
-description: Legt bekannte Metadateneigenschaften fest die das angegebene Prädikat erfüllen. Die Operation ist rekursiv sodass sie sich auch auf alle verschachtelten Pakete auswirkt. Diese Methode ist eine Kombination ausAddPropertiesgroupdocs.metadata.common/metadatapackage/addproperties undUpdatePropertiesgroupdocs.metadata.common/metadatapackage/updateproperties Wenn eine vorhandene Eigenschaft das Prädikat erfüllt wird ihr Wert aktualisiert. Wenn im Paket eine bekannte Eigenschaft fehlt die das Prädikat erfüllt wird sie dem Paket hinzugefügt.
+description: Legt bekannte Metadateneigenschaften fest die das angegebene Prädikat erfüllen. Die Operation ist rekursiv sodass sie sich auch auf alle verschachtelten Pakete auswirkt. Diese Methode ist eine Kombination ausAddPropertiesgroupdocs.metadata.common/metadatapackage/addproperties UndUpdatePropertiesgroupdocs.metadata.common/metadatapackage/updateproperties Wenn eine vorhandene Eigenschaft das Prädikat erfüllt wird ihr Wert aktualisiert. Wenn im Paket eine bekannte Eigenschaft fehlt die das Prädikat erfüllt wird sie dem Paket hinzugefügt.
 type: docs
 weight: 120
 url: /de/net/groupdocs.metadata.common/metadatapackage/setproperties/
 ---
 ## MetadataPackage.SetProperties method
 
-Legt bekannte Metadateneigenschaften fest, die das angegebene Prädikat erfüllen. Die Operation ist rekursiv, sodass sie sich auch auf alle verschachtelten Pakete auswirkt. Diese Methode ist eine Kombination aus[`AddProperties`](../addproperties) und[`UpdateProperties`](../updateproperties) Wenn eine vorhandene Eigenschaft das Prädikat erfüllt, wird ihr Wert aktualisiert. Wenn im Paket eine bekannte Eigenschaft fehlt, die das Prädikat erfüllt, wird sie dem Paket hinzugefügt.
+Legt bekannte Metadateneigenschaften fest, die das angegebene Prädikat erfüllen. Die Operation ist rekursiv, sodass sie sich auch auf alle verschachtelten Pakete auswirkt. Diese Methode ist eine Kombination aus[`AddProperties`](../addproperties) Und[`UpdateProperties`](../updateproperties) Wenn eine vorhandene Eigenschaft das Prädikat erfüllt, wird ihr Wert aktualisiert. Wenn im Paket eine bekannte Eigenschaft fehlt, die das Prädikat erfüllt, wird sie dem Paket hinzugefügt.
 
 ```csharp
 public int SetProperties(Func<MetadataProperty, bool> predicate, PropertyValue value)
@@ -25,9 +25,9 @@ Die Anzahl der betroffenen Eigenschaften.
 
 ### Bemerkungen
 
-Bitte beachten Sie, dass GroupDocs.Metadata implizit den Typ jeder gefilterten Eigenschaft überprüft. Es ist unmöglich, eine Eigenschaft mit einem Wert festzulegen, der einen ungeeigneten Typ hat.
+Bitte beachten Sie, dass GroupDocs.Metadata implizit den Typ jeder gefilterten Eigenschaft prüft. Es ist unmöglich, eine Eigenschaft mit einem Wert festzulegen, der einen ungeeigneten Typ hat.
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * [Legen Sie Metadateneigenschaften fest](https://docs.groupdocs.com/display/metadatanet/Set+metadata+properties)
 

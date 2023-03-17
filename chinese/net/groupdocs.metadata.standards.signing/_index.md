@@ -1,12 +1,12 @@
 ---
 title: GroupDocs.Metadata.Standards.Signing
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 命名空间提供旨在使用数字签名的基本功能
+description: 命名空间提供用于处理数字签名的基本功能
 type: docs
 weight: 240
 url: /zh/net/groupdocs.metadata.standards.signing/
 ---
-命名空间提供旨在使用数字签名的基本功能。
+命名空间提供用于处理数字签名的基本功能。
 
 ## 课程
 

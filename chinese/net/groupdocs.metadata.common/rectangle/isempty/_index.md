@@ -1,14 +1,14 @@
 ---
 title: IsEmpty
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取一个指示此实例是否为空的值
+description: 获取一个值指示此实例是否为空
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.common/rectangle/isempty/
 ---
 ## Rectangle.IsEmpty property
 
-获取一个指示此实例是否为空的值。
+获取一个值，指示此实例是否为空。
 
 ```csharp
 public bool IsEmpty { get; }

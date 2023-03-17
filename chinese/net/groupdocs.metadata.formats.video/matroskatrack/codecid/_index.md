@@ -1,14 +1,14 @@
 ---
 title: CodecID
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取编解码器对应的ID
+description: 获取codec对应的ID
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.video/matroskatrack/codecid/
 ---
 ## MatroskaTrack.CodecID property
 
-获取编解码器对应的ID。
+获取codec对应的ID。
 
 ```csharp
 public string CodecID { get; }
@@ -20,7 +20,7 @@ public string CodecID { get; }
 
 ### 评论
 
-有关更多信息，请参阅 http://www.matroska.org/technical/specs/codecid/index.html 编解码器页面。
+有关详细信息，请参阅 http://www.matroska.org/technical/specs/codecid/index.html 编解码器页面。
 
 ### 也可以看看
 

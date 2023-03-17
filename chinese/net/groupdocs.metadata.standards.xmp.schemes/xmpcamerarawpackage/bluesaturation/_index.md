@@ -8,7 +8,7 @@ url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/bluesa
 ---
 ## XmpCameraRawPackage.BlueSaturation property
 
-获取或设置 BlueSaturation。如果未定义，则为空。
+获取或设置 BlueSaturation。如果未定义则为空。
 
 ```csharp
 public int? BlueSaturation { get; set; }

@@ -8,7 +8,7 @@ url: /zh/net/groupdocs.metadata.formats.video/flvrootpackage/header/
 ---
 ## FlvRootPackage.Header property
 
-获取FLV头包
+获取FLV头包。
 
 ```csharp
 public FlvHeader Header { get; }
@@ -20,7 +20,7 @@ FLV 标头包。
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [使用 FLV 文件中的元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+FLV+files)
 

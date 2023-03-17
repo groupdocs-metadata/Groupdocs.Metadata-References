@@ -1,14 +1,14 @@
 ---
 title: Composers
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置作曲家名称用/字符分隔 这个值由TCOM帧表示
+description: 获取或设置作曲家名称以/字符分隔 此值由 TCOM 帧表示
 type: docs
 weight: 80
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2tag/composers/
 ---
 ## ID3V2Tag.Composers property
 
-获取或设置作曲家。名称用“/”字符分隔。 这个值由TCOM帧表示。
+获取或设置作曲家。名称以“/”字符分隔。 此值由 TCOM 帧表示。
 
 ```csharp
 public string Composers { get; set; }
@@ -16,7 +16,7 @@ public string Composers { get; set; }
 
 ### 适当的价值
 
-作曲家。名称用“/”字符分隔。
+作曲家。名称以“/”字符分隔。
 
 ### 也可以看看
 

@@ -1,0 +1,85 @@
+---
+title: EmlRootPackage
+second_title: .NET API संदर्भ के लिए GroupDocs.Metadata
+description: ईएमएल ईमेल संदेश में मेटडेट के सथ कम करने क अनुमत देने वले रूट पैकेज क प्रतनधत्व करत है
+type: docs
+weight: 1390
+url: /hi/net/groupdocs.metadata.formats.email/emlrootpackage/
+---
+## EmlRootPackage class
+
+ईएमएल ईमेल संदेश में मेटाडेटा के साथ काम करने की अनुमति देने वाले रूट पैकेज का प्रतिनिधित्व करता है।
+
+```csharp
+public class EmlRootPackage : EmailRootPackage
+```
+
+## गुण
+
+| नाम | विवरण |
+| --- | --- |
+| [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | मेटाडेटा गुणों की संख्या प्राप्त करता है। |
+| [EmailPackage](../../groupdocs.metadata.formats.email/emlrootpackage/emailpackage) { get; } | ईएमएल मेटाडेटा पैकेज प्राप्त करता है। (2 properties) |
+| [FileType](../../groupdocs.metadata.common/rootmetadatapackage/filetype) { get; } | फ़ाइल प्रकार मेटाडेटा पैकेज प्राप्त करता है। |
+| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | हो जाता है[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty) निर्दिष्ट नाम के साथ. |
+| [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | मेटाडेटा गुण नामों का संग्रह प्राप्त करता है. |
+| [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | मेटाडेटा प्रकार प्राप्त करता है। |
+| [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | वर्णनकर्ताओं का एक संग्रह प्राप्त करता है जिसमें GroupDocs.Metadata खोज इंजन के माध्यम से पहुंच योग्य गुणों के बारे में जानकारी होती है। |
+
+## तरीकों
+
+| नाम | विवरण |
+| --- | --- |
+| [AddProperties](../../groupdocs.metadata.common/metadatapackage/addproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | निर्दिष्ट विधेय को संतुष्ट करने वाले ज्ञात मेटाडेटा गुणों को जोड़ता है। ऑपरेशन पुनरावर्ती है इसलिए यह सभी नेस्टेड पैकेजों को भी प्रभावित करता है। |
+| [ClearAttachments](../../groupdocs.metadata.formats.email/emailrootpackage/clearattachments)() | ईमेल संदेश से सभी अटैचमेंट हटा देता है। |
+| [Contains](../../groupdocs.metadata.common/metadatapackage/contains)(string) | निर्धारित करता है कि पैकेज में निर्दिष्ट नाम के साथ मेटाडेटा गुण है या नहीं। |
+| virtual [FindProperties](../../groupdocs.metadata.common/metadatapackage/findproperties)(Func&lt;MetadataProperty, bool&gt;) | निर्दिष्ट विधेय को संतुष्ट करने वाले मेटाडेटा गुणों को ढूँढता है। खोज पुनरावर्ती है इसलिए यह सभी नेस्टेड पैकेजों को भी प्रभावित करती है। |
+| [GetEnumerator](../../groupdocs.metadata.common/metadatapackage/getenumerator)() | एक एन्यूमरेटर लौटाता है जो संग्रह के माध्यम से पुनरावृति करता है। |
+| virtual [RemoveProperties](../../groupdocs.metadata.common/metadatapackage/removeproperties)(Func&lt;MetadataProperty, bool&gt;) | निर्दिष्ट विधेय को पूरा करने वाले मेटाडेटा गुणों को हटाता है। |
+| override [Sanitize](../../groupdocs.metadata.common/rootmetadatapackage/sanitize)() | पैकेज से लिखने योग्य मेटाडेटा गुणों को हटाता है। ऑपरेशन पुनरावर्ती है इसलिए यह सभी नेस्टेड पैकेजों को भी प्रभावित करता है। |
+| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | निर्दिष्ट विधेय को संतुष्ट करने वाले ज्ञात मेटाडेटा गुणों को सेट करता है। ऑपरेशन पुनरावर्ती है इसलिए यह सभी नेस्टेड पैकेजों को भी प्रभावित करता है। यह विधि एक संयोजन है[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties) और[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) यदि कोई मौजूदा संपत्ति विधेय को संतुष्ट करती है तो उसका मान अपडेट किया जाता है। यदि पैकेज में कोई ज्ञात संपत्ति गायब है जो विधेय को संतुष्ट करती है तो इसे पैकेज में जोड़ा जाता है। |
+| [UpdateProperties](../../groupdocs.metadata.common/metadatapackage/updateproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | अद्यतन ज्ञात मेटाडेटा गुण निर्दिष्ट विधेय को संतुष्ट करते हैं। ऑपरेशन पुनरावर्ती है इसलिए यह सभी नेस्टेड पैकेजों को भी प्रभावित करता है। |
+
+### टिप्पणियों
+
+**और अधिक जानें**
+
+* [सहेजे गए ईमेल के साथ काम करना](https://docs.groupdocs.com/display/metadatanet/Working+with+saved+Emails)
+
+### उदाहरण
+
+यह कोड नमूना दिखाता है कि ईएमएल संदेश से मेटाडेटा कैसे निकाला जाए।
+
+```csharp
+using (Metadata metadata = new Metadata(Constants.InputEml))
+{
+    var root = metadata.GetRootPackage<EmlRootPackage>();
+
+    Console.WriteLine(root.EmailPackage.Sender);
+    Console.WriteLine(root.EmailPackage.Subject);
+    foreach (string recipient in root.EmailPackage.Recipients)
+    {
+        Console.WriteLine(recipient);
+    }
+
+    foreach (var attachedFileName in root.EmailPackage.AttachedFileNames)
+    {
+        Console.WriteLine(attachedFileName);
+    }
+
+    foreach (var header in root.EmailPackage.Headers)
+    {
+        Console.WriteLine("{0} = {1}", header.Name, header.Value);
+    }
+
+    // ...
+}
+```
+
+### यह सभी देखें
+
+* class [EmailRootPackage](../emailrootpackage)
+* नाम स्थान [GroupDocs.Metadata.Formats.Email](../../groupdocs.metadata.formats.email)
+* सभा [GroupDocs.Metadata](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for GroupDocs.Metadata.dll -->

@@ -16,11 +16,11 @@ public ID3V2TagFrame[] Get(string frameId)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| frameId | String | 要获取的帧的 id。 |
+| frameId | String | 要获取的帧的 ID。 |
 
 ### 返回值
 
-具有指定 id 的帧数组。
+具有指定 ID 的帧数组。
 
 ### 也可以看看
 

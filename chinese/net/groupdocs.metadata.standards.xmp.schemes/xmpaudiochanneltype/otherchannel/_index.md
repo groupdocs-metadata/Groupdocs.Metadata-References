@@ -16,7 +16,7 @@ public static XmpAudioChannelType OtherChannel { get; }
 
 ### 适当的价值
 
-另一个频道。
+另一个通道。
 
 ### 也可以看看
 

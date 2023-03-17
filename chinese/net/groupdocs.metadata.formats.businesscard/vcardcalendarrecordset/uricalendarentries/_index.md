@@ -20,7 +20,7 @@ public string[] UriCalendarEntries { get; }
 
 ### 评论
 
-这个属性是一个简化版[`CalendarUriRecords`](../calendarurirecords).
+此属性是[`CalendarUriRecords`](../calendarurirecords).
 
 ### 也可以看看
 

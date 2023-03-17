@@ -1,14 +1,14 @@
 ---
 title: LastPrintedDate
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置上次打印日期
+description: 获取或设置最后打印日期
 type: docs
 weight: 110
 url: /zh/net/groupdocs.metadata.formats.document/wordprocessingpackage/lastprinteddate/
 ---
 ## WordProcessingPackage.LastPrintedDate property
 
-获取或设置上次打印日期。
+获取或设置最后打印日期。
 
 ```csharp
 public DateTime? LastPrintedDate { get; set; }
@@ -16,7 +16,7 @@ public DateTime? LastPrintedDate { get; set; }
 
 ### 适当的价值
 
-最后打印的日期。
+最后打印日期。
 
 ### 也可以看看
 

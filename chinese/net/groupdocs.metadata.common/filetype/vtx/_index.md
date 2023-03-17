@@ -1,14 +1,14 @@
 ---
 title: VTX
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 带有 .VTX 扩展名的文件是指以 XML 文件格式保存到光盘的 Microsoft Visio 绘图模板 了解有关此文件格式的更多信息 这里https//docs.fileformat.com/visio/vtx/.
+description: 扩展名为 .VTX 的文件是指以 XML 文件格式保存到光盘的 Microsoft Visio 绘图模板 了解有关此文件格式的更多信息 这里https//docs.fileformat.com/visio/vtx/.
 type: docs
 weight: 710
 url: /zh/net/groupdocs.metadata.common/filetype/vtx/
 ---
 ## FileType.VTX field
 
-带有 .VTX 扩展名的文件是指以 XML 文件格式保存到光盘的 Microsoft Visio 绘图模板。 了解有关此文件格式的更多信息 [这里](https://docs.fileformat.com/visio/vtx/).
+扩展名为 .VTX 的文件是指以 XML 文件格式保存到光盘的 Microsoft Visio 绘图模板。 了解有关此文件格式的更多信息 [这里](https://docs.fileformat.com/visio/vtx/).
 
 ```csharp
 public static readonly FileType VTX;

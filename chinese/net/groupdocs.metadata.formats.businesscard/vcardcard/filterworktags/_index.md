@@ -1,14 +1,14 @@
 ---
 title: FilterWorkTags
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 过滤所有标有 WORK 标记的 vCard 记录
+description: 过滤所有标有 WORK 标签的 vCard 记录
 type: docs
 weight: 140
 url: /zh/net/groupdocs.metadata.formats.businesscard/vcardcard/filterworktags/
 ---
 ## VCardCard.FilterWorkTags method
 
-过滤所有标有 WORK 标记的 vCard 记录。
+过滤所有标有 WORK 标签的 vCard 记录。
 
 ```csharp
 public VCardCard FilterWorkTags()
@@ -16,7 +16,7 @@ public VCardCard FilterWorkTags()
 
 ### 返回值
 
-过滤的 vCard 实例。
+过滤后的 vCard 实例。
 
 ### 也可以看看
 

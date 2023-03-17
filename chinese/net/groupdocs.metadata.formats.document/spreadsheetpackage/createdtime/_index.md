@@ -16,7 +16,7 @@ public DateTime? CreatedTime { get; set; }
 
 ### 适当的价值
 
-创建时间。
+创建时间.
 
 ### 也可以看看
 

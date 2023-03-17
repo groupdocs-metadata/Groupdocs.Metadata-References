@@ -16,7 +16,7 @@ public string[] OrganisationInImageCodes { get; set; }
 
 ### 适当的价值
 
-组织的代码。
+组织代码。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: XmlRecords
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取一个包含扩展的 XML 编码的 vCard 数据的数组
+description: 获取包含扩展的 XML 编码 vCard 数据的数组
 type: docs
 weight: 60
 url: /zh/net/groupdocs.metadata.formats.businesscard/vcardgeneralrecordset/xmlrecords/
 ---
 ## VCardGeneralRecordset.XmlRecords property
 
-获取一个包含扩展的 XML 编码的 vCard 数据的数组。
+获取包含扩展的 XML 编码 vCard 数据的数组。
 
 ```csharp
 public VCardTextRecord[] XmlRecords { get; }
@@ -16,7 +16,7 @@ public VCardTextRecord[] XmlRecords { get; }
 
 ### 适当的价值
 
-包含扩展的 XML 编码的 vCard 数据的数组。
+包含扩展的 XML 编码 vCard 数据的数组。
 
 ### 也可以看看
 

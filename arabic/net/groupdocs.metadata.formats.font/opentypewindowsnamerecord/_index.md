@@ -1,14 +1,14 @@
 ---
 title: OpenTypeWindowsNameRecord
 second_title: GroupDocs.Metadata لمرجع .NET API
-description: يمثل قيمة جدول سجل الاسم لـWindows المنصة.
+description: يمثل قيمة جدول سجل الاسم لـWindowsالمنصة.
 type: docs
 weight: 1640
 url: /ar/net/groupdocs.metadata.formats.font/opentypewindowsnamerecord/
 ---
 ## OpenTypeWindowsNameRecord class
 
-يمثل قيمة جدول سجل الاسم لـWindows المنصة.
+يمثل قيمة جدول سجل الاسم لـWindowsالمنصة.
 
 ```csharp
 public class OpenTypeWindowsNameRecord : OpenTypeBaseNameRecord

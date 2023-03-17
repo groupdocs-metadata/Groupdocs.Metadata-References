@@ -1,14 +1,14 @@
 ---
 title: XmpMediaManagementPackage
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpMediaManagementPackagegroupdocs.metadata.standards.xmp.schemes/xmpmediamanagementpackage类.
+description: 初始化一个新的实例XmpMediaManagementPackagegroupdocs.metadata.standards.xmp.schemes/xmpmediamanagementpackage类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpmediamanagementpackage/xmpmediamanagementpackage/
 ---
 ## XmpMediaManagementPackage constructor
 
-初始化[`XmpMediaManagementPackage`](../../xmpmediamanagementpackage)类.
+初始化一个新的实例[`XmpMediaManagementPackage`](../../xmpmediamanagementpackage)类.
 
 ```csharp
 public XmpMediaManagementPackage()

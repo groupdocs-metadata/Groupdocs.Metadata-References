@@ -1,14 +1,14 @@
 ---
 title: Source
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置所描述资源的相关资源
+description: 获取或设置所描述资源派生的相关资源
 type: docs
 weight: 130
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpdublincorepackage/source/
 ---
 ## XmpDublinCorePackage.Source property
 
-获取或设置所描述资源的相关资源。
+获取或设置所描述资源派生的相关资源。
 
 ```csharp
 public string Source { get; set; }
@@ -20,7 +20,7 @@ public string Source { get; set; }
 
 ### 评论
 
-所描述的资源可能全部或部分来源于相关资源。 推荐的最佳实践是通过符合正式标识系统的字符串来标识相关资源。
+描述的资源可能全部或部分来源于相关资源。 推荐的最佳实践是通过符合正式标识系统的字符串来标识相关资源。
 
 ### 也可以看看
 

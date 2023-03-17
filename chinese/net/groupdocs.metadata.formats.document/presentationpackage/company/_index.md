@@ -16,7 +16,7 @@ public string Company { get; set; }
 
 ### 适当的价值
 
-公司.
+公司。
 
 ### 也可以看看
 

@@ -47,7 +47,7 @@ public class ProjectManagementRootPackage : DocumentRootPackage<ProjectManagemen
 
 ### Ejemplos
 
-Este ejemplo de código demuestra cómo extraer propiedades integradas de un documento de ProjectManagement.
+Este ejemplo de código muestra cómo extraer propiedades integradas de un documento de ProjectManagement.
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.InputMpp))

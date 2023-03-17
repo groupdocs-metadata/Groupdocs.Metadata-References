@@ -16,7 +16,7 @@ public byte[] VersionID { get; set; }
 
 ### 适当的价值
 
-GPS IFD的版本
+GPS IFD 的版本
 
 ### 也可以看看
 

@@ -120,7 +120,7 @@ public class FileType
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * [Поддерживаемые форматы документов](https://docs.groupdocs.com/metadata/net/supported-document-formats/)
 * [Получить поддерживаемые форматы файлов](https://docs.groupdocs.com/metadata/net/get-supported-file-formats/)

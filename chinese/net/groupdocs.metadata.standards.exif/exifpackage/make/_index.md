@@ -1,14 +1,14 @@
 ---
 title: Make
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置记录设备的制造商 这是生成图像的DSC扫描仪视频数字化仪或其他设备的制造商
+description: 获取或设置记录设备的制造商 这是生成图像的 DSC扫描仪视频数字转换器或其他设备的制造商
 type: docs
 weight: 100
 url: /zh/net/groupdocs.metadata.standards.exif/exifpackage/make/
 ---
 ## ExifPackage.Make property
 
-获取或设置记录设备的制造商。 这是生成图像的DSC、扫描仪、视频数字化仪或其他设备的制造商。
+获取或设置记录设备的制造商。 这是生成图像的 DSC、扫描仪、视频数字转换器或其他设备的制造商。
 
 ```csharp
 public string Make { get; set; }

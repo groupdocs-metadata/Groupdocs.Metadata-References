@@ -1,14 +1,14 @@
 ---
 title: Metadata
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化Metadatagroupdocs.metadata/metadata类.
+description: 初始化一个新的实例Metadatagroupdocs.metadata/metadata类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata/metadata/metadata/
 ---
 ## Metadata(string) {#constructor_2}
 
-初始化[`Metadata`](../../metadata)类.
+初始化一个新的实例[`Metadata`](../../metadata)类.
 
 ```csharp
 public Metadata(string filePath)
@@ -16,16 +16,16 @@ public Metadata(string filePath)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| filePath | String | 一个字符串，其中包含要从中创建文件的文件的全名[`Metadata`](../../metadata)实例。 |
+| filePath | String | 一个字符串，包含要从中创建的文件的全名[`Metadata`](../../metadata)实例。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [从本地磁盘加载](https://docs.groupdocs.com/display/metadatanet/Load+from+a+local+disk)
 * [从流中加载](https://docs.groupdocs.com/display/metadatanet/Load+from+a+stream)
 * [加载特定格式的文件](https://docs.groupdocs.com/display/metadatanet/Load+a+file+of+a+specific+format)
-* [加载受密码保护的文档](https://docs.groupdocs.com/display/metadatanet/Load+a+password-protected+document)
+* [装入受密码保护的文档](https://docs.groupdocs.com/display/metadatanet/Load+a+password-protected+document)
 
 ### 例子
 
@@ -48,7 +48,7 @@ using (Metadata metadata = new Metadata(Constants.InputOne))
 
 ## Metadata(Stream) {#constructor}
 
-初始化[`Metadata`](../../metadata)类.
+初始化一个新的实例[`Metadata`](../../metadata)类.
 
 ```csharp
 public Metadata(Stream document)
@@ -60,12 +60,12 @@ public Metadata(Stream document)
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [从本地磁盘加载](https://docs.groupdocs.com/display/metadatanet/Load+from+a+local+disk)
 * [从流中加载](https://docs.groupdocs.com/display/metadatanet/Load+from+a+stream)
 * [加载特定格式的文件](https://docs.groupdocs.com/display/metadatanet/Load+a+file+of+a+specific+format)
-* [加载受密码保护的文档](https://docs.groupdocs.com/display/metadatanet/Load+a+password-protected+document)
+* [装入受密码保护的文档](https://docs.groupdocs.com/display/metadatanet/Load+a+password-protected+document)
 
 ### 例子
 
@@ -89,7 +89,7 @@ using (Metadata metadata = new Metadata(stream))
 
 ## Metadata(string, LoadOptions) {#constructor_3}
 
-初始化[`Metadata`](../../metadata)类.
+初始化一个新的实例[`Metadata`](../../metadata)类.
 
 ```csharp
 public Metadata(string filePath, LoadOptions loadOptions)
@@ -97,17 +97,17 @@ public Metadata(string filePath, LoadOptions loadOptions)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| filePath | String | 一个字符串，其中包含要从中创建文件的文件的全名[`Metadata`](../../metadata)实例。 |
-| loadOptions | LoadOptions | 加载文档时使用的其他选项。 |
+| filePath | String | 一个字符串，包含要从中创建的文件的全名[`Metadata`](../../metadata)实例。 |
+| loadOptions | LoadOptions | 加载文档时要使用的其他选项。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [从本地磁盘加载](https://docs.groupdocs.com/display/metadatanet/Load+from+a+local+disk)
 * [从流中加载](https://docs.groupdocs.com/display/metadatanet/Load+from+a+stream)
 * [加载特定格式的文件](https://docs.groupdocs.com/display/metadatanet/Load+a+file+of+a+specific+format)
-* [加载受密码保护的文档](https://docs.groupdocs.com/display/metadatanet/Load+a+password-protected+document)
+* [装入受密码保护的文档](https://docs.groupdocs.com/display/metadatanet/Load+a+password-protected+document)
 
 ### 例子
 
@@ -137,7 +137,7 @@ using (var metadata = new Metadata(Constants.ProtectedDocx, loadOptions))
 
 ## Metadata(Stream, LoadOptions) {#constructor_1}
 
-初始化[`Metadata`](../../metadata)类.
+初始化一个新的实例[`Metadata`](../../metadata)类.
 
 ```csharp
 public Metadata(Stream document, LoadOptions loadOptions)
@@ -146,16 +146,16 @@ public Metadata(Stream document, LoadOptions loadOptions)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | document | Stream | 包含要加载的文档的流。 |
-| loadOptions | LoadOptions | 加载文档时使用的其他选项。 |
+| loadOptions | LoadOptions | 加载文档时要使用的其他选项。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [从本地磁盘加载](https://docs.groupdocs.com/display/metadatanet/Load+from+a+local+disk)
 * [从流中加载](https://docs.groupdocs.com/display/metadatanet/Load+from+a+stream)
 * [加载特定格式的文件](https://docs.groupdocs.com/display/metadatanet/Load+a+file+of+a+specific+format)
-* [加载受密码保护的文档](https://docs.groupdocs.com/display/metadatanet/Load+a+password-protected+document)
+* [装入受密码保护的文档](https://docs.groupdocs.com/display/metadatanet/Load+a+password-protected+document)
 
 ### 也可以看看
 

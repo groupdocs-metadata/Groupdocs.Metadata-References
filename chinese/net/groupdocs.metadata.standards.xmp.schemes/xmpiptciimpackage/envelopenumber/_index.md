@@ -16,7 +16,7 @@ public string EnvelopeNumber { get; set; }
 
 ### 适当的价值
 
-信封号码。
+信封号。
 
 ### 也可以看看
 

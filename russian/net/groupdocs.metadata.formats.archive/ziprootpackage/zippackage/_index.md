@@ -20,7 +20,7 @@ public ZipPackage ZipPackage { get; }
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * [Работа с ZIP-архивами](https://docs.groupdocs.com/display/metadatanet/Working+with+ZIP+archives)
 

@@ -20,7 +20,7 @@ Il pacchetto di metadati dell'intestazione BMP.
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * [Lavorare con i metadati BMP](https://docs.groupdocs.com/display/metadatanet/Working+with+BMP+metadata)
 

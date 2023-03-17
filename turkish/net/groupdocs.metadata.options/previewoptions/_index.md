@@ -18,7 +18,7 @@ public class PreviewOptions
 
 | İsim | Tanım |
 | --- | --- |
-| [PreviewOptions](previewoptions#constructor)(CreatePageStream) | Yeni bir örneğini başlatır.[`PreviewOptions`](../previewoptions)çıktı akışının kapanmasına neden olan sınıf. |
+| [PreviewOptions](previewoptions#constructor)(CreatePageStream) | Yeni bir örneğini başlatır.[`PreviewOptions`](../previewoptions) çıktı akışının kapanmasına neden olan sınıf. |
 | [PreviewOptions](previewoptions#constructor_1)(CreatePageStream, ReleasePageStream) | Yeni bir örneğini başlatır[`PreviewOptions`](../previewoptions) çıktı akışının daha fazla kullanım için istemciye döndürülmesine neden olan sınıf. |
 
 ## Özellikleri

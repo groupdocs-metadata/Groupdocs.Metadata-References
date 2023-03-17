@@ -16,7 +16,7 @@ public IReadOnlyList<IptcRecord> ToList()
 
 ### 返回值
 
-包含包中所有 IPTC 记录的列表。
+包含包裹中所有 IPTC 记录的列表。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: EncapsulatedContent
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取签名的内容由内容类型标识符和内容本身组成
+description: 获取签名内容由内容类型标识符和内容本身组成
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.standards.pkcs/cms/encapsulatedcontent/
 ---
 ## Cms.EncapsulatedContent property
 
-获取签名的内容，由内容类型标识符和内容本身组成。
+获取签名内容，由内容类型标识符和内容本身组成。
 
 ```csharp
 public CmsEncapsulatedContent EncapsulatedContent { get; }
@@ -16,7 +16,7 @@ public CmsEncapsulatedContent EncapsulatedContent { get; }
 
 ### 适当的价值
 
-签名的内容，由内容类型标识符和内容本身组成。
+签名内容，由内容类型标识符和内容本身组成。
 
 ### 也可以看看
 

@@ -31,7 +31,7 @@ public enum TiffTagID : ushort
 | GpsMeasureMode | `10` | Indica la modalità di misurazione GPS. |
 | GpsDop | `11` | Indica il GPS DOP (grado di precisione dei dati). |
 | GpsSpeedRef | `12` | Indica l'unità utilizzata per esprimere la velocità di movimento del ricevitore GPS |
-| GpsSpeed | `13` | Indica la velocità di spostamento del ricevitore GPS. |
+| GpsSpeed | `13` | Indica la velocità di movimento del ricevitore GPS. |
 | GpsTrackRef | `14` | Indica il riferimento per dare la direzione del movimento del ricevitore GPS. |
 | GpsTrack | `15` | Indica la direzione del movimento del ricevitore GPS. |
 | GpsImgDirectionRef | `16` | Indica il riferimento per dare la direzione dell'immagine quando viene catturata. |
@@ -160,7 +160,7 @@ public enum TiffTagID : ushort
 | ExposureProgram | `34850` | La classe del programma utilizzato dalla fotocamera per impostare l'esposizione quando viene scattata la foto. |
 | SpectralSensitivity | `34852` | Indica la sensibilità spettrale di ogni canale della telecamera utilizzata. Il valore del tag è una stringa ASCII compatibile con lo standard sviluppato dal comitato tecnico ASTM. |
 | PhotographicSensitivity | `34855` | Questo tag indica la sensibilità della fotocamera o del dispositivo di input quando è stata scattata l'immagine. |
-| Oecf | `34856` | Indica la funzione di conversione optoelettrica (OECF) specificata in ISO 14524. OECF è la relazione tra l'ingresso ottico della telecamera e i valori dell'immagine. |
+| Oecf | `34856` | Indica la funzione di conversione opto-elettrica (OECF) specificata in ISO 14524. OECF è la relazione tra l'ingresso ottico della telecamera e i valori dell'immagine. |
 | SensitivityType | `34864` | Il tag SensitivityType indica quale dei parametri di ISO12232 è il tag PhotographicSensitivity. Sebbene sia un tag facoltativo, dovrebbe essere registrato quando viene registrato un tag PhotographicSensitivity. |
 | StandardOutputSensitivity | `34865` | Questo tag indica il valore standard della sensibilità di output di una fotocamera o di un dispositivo di input definito in ISO 12232. Quando si registra questo tag, devono essere registrati anche i tag PhotographicSensitivity e SensitivityType. |
 | RecommendedExposureIndex | `34866` | Questo tag indica il valore dell'indice di esposizione consigliato di una fotocamera o di un dispositivo di input definito in ISO 12232. Quando si registra questo tag, devono essere registrati anche i tag PhotographicSensitivity e SensitivityType. |

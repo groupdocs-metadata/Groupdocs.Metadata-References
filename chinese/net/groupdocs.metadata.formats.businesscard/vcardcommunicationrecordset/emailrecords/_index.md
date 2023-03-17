@@ -1,14 +1,14 @@
 ---
 title: EmailRecords
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取与对象通信的电子邮件地址
+description: 获取用于与对象通信的电子邮件地址
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.businesscard/vcardcommunicationrecordset/emailrecords/
 ---
 ## VCardCommunicationRecordset.EmailRecords property
 
-获取与对象通信的电子邮件地址。
+获取用于与对象通信的电子邮件地址。
 
 ```csharp
 public VCardTextRecord[] EmailRecords { get; }

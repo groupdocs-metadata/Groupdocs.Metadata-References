@@ -16,7 +16,7 @@ public bool MultiBurstMode { get; }
 
 ### Mülk değeri
 
-`doğru` çoklu seri çekim modu açıksa; aksi halde,`yanlış` .
+`doğru` çoklu seri çekim modu açıksa; aksi takdirde,`YANLIŞ` .
 
 ### Ayrıca bakınız
 

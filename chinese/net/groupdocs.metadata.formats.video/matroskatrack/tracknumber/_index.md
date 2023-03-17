@@ -1,14 +1,14 @@
 ---
 title: TrackNumber
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取块头中使用的轨道号 不鼓励使用超过 127 个轨道尽管设计允许无限数量
+description: 获取块标头中使用的轨道编号 不鼓励使用超过 127 个轨道尽管设计允许数量不受限制
 type: docs
 weight: 80
 url: /zh/net/groupdocs.metadata.formats.video/matroskatrack/tracknumber/
 ---
 ## MatroskaTrack.TrackNumber property
 
-获取块头中使用的轨道号。 不鼓励使用超过 127 个轨道，尽管设计允许无限数量。
+获取块标头中使用的轨道编号。 不鼓励使用超过 127 个轨道，尽管设计允许数量不受限制。
 
 ```csharp
 public ulong TrackNumber { get; }
@@ -16,7 +16,7 @@ public ulong TrackNumber { get; }
 
 ### 适当的价值
 
-块标头中使用的轨道号。
+块头中使用的轨道号。
 
 ### 也可以看看
 

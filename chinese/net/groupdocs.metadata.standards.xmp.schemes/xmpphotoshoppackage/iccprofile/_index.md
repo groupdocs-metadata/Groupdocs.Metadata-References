@@ -1,14 +1,14 @@
 ---
 title: IccProfile
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置颜色配置文件如AppleRGBAdobeRGB1998.
+description: 获取或设置颜色配置文件如 AppleRGBAdobeRGB1998.
 type: docs
 weight: 120
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpphotoshoppackage/iccprofile/
 ---
 ## XmpPhotoshopPackage.IccProfile property
 
-获取或设置颜色配置文件，如AppleRGB、AdobeRGB1998.
+获取或设置颜色配置文件，如 AppleRGB、AdobeRGB1998.
 
 ```csharp
 public string IccProfile { get; set; }

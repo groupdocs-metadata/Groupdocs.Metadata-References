@@ -1,14 +1,14 @@
 ---
 title: XmpReal
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示 XMP 真实值
+description: 代表XMP Real.
 type: docs
 weight: 3520
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpreal/
 ---
 ## XmpReal class
 
-表示 XMP 真实值。
+代表XMP Real.
 
 ```csharp
 public sealed class XmpReal : XmpValueBase
@@ -18,8 +18,8 @@ public sealed class XmpReal : XmpValueBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| [XmpReal](xmpreal#constructor)(double) | 初始化[`XmpReal`](../xmpreal)类. |
-| [XmpReal](xmpreal#constructor_1)(string) | 初始化[`XmpReal`](../xmpreal)类. |
+| [XmpReal](xmpreal#constructor)(double) | 初始化一个新的实例[`XmpReal`](../xmpreal)类. |
+| [XmpReal](xmpreal#constructor_1)(string) | 初始化一个新的实例[`XmpReal`](../xmpreal)类. |
 
 ## 特性
 
@@ -37,7 +37,7 @@ public sealed class XmpReal : XmpValueBase
 | override [GetXmpRepresentation](../../groupdocs.metadata.standards.xmp/xmpreal/getxmprepresentation)() | 以 XMP 格式返回包含字符串的值。 |
 | [ToArray&lt;TElement&gt;](../../groupdocs.metadata.common/propertyvalue/toarray)() | 将属性值转换为指定类型的数组。 |
 | [ToClass&lt;T&gt;](../../groupdocs.metadata.common/propertyvalue/toclass)() | 将属性值转换为引用类型。 |
-| override [ToString](../../groupdocs.metadata.standards.xmp/xmpvaluebase/tostring)() | 返回一个表示属性值的字符串。 |
+| override [ToString](../../groupdocs.metadata.standards.xmp/xmpvaluebase/tostring)() | 返回表示属性值的字符串。 |
 | [ToStruct&lt;T&gt;](../../groupdocs.metadata.common/propertyvalue/tostruct)() | 将属性值转换为值类型。 |
 | [ToStruct&lt;T&gt;](../../groupdocs.metadata.common/propertyvalue/tostruct)(T) | 将属性值转换为值类型。 |
 

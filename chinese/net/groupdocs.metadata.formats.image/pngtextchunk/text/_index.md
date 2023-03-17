@@ -1,14 +1,14 @@
 ---
 title: Text
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取块表示的实际文本字符串
+description: 获取由块表示的实际文本字符串
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.formats.image/pngtextchunk/text/
 ---
 ## PngTextChunk.Text property
 
-获取块表示的实际文本字符串。
+获取由块表示的实际文本字符串。
 
 ```csharp
 public string Text { get; }

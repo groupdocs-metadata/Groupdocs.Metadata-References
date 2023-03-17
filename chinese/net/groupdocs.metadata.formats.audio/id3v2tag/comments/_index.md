@@ -16,7 +16,7 @@ public ID3V2CommentFrame[] Comments { get; set; }
 
 ### 适当的价值
 
-用户评论。
+用户评论.
 
 ### 也可以看看
 

@@ -16,7 +16,7 @@ public bool MultiBurstMode { get; }
 
 ### El valor de la propiedad
 
-`verdadero` si el modo de ráfaga múltiple está activado; de lo contrario,`falso` .
+`verdadero` si el modo de ráfaga múltiple está activado; de lo contrario,`FALSO` .
 
 ### Ver también
 

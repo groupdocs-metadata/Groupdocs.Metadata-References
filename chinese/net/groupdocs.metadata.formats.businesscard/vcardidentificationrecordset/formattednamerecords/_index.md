@@ -16,7 +16,7 @@ public VCardTextRecord[] FormattedNameRecords { get; }
 
 ### 适当的价值
 
-包含与对象名称对应的格式化文本的数组。
+包含与对象名称相对应的格式化文本的数组。
 
 ### 也可以看看
 

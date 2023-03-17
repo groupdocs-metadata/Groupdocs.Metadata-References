@@ -1,14 +1,14 @@
 ---
 title: Lyrics
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置歌词 这个值由LYR字段表示
+description: 获取或设置歌词 该值由 LYR 字段表示
 type: docs
 weight: 60
 url: /zh/net/groupdocs.metadata.formats.audio/lyricstag/lyrics/
 ---
 ## LyricsTag.Lyrics property
 
-获取或设置歌词。 这个值由LYR字段表示。
+获取或设置歌词。 该值由 LYR 字段表示。
 
 ```csharp
 public string Lyrics { get; set; }

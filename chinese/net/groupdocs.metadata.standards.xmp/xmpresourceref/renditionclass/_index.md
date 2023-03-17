@@ -16,7 +16,7 @@ public string RenditionClass { get; set; }
 
 ### 适当的价值
 
-来自引用资源的 xmpMM:RenditionClass 属性的值。
+引用资源中 xmpMM:RenditionClass 属性的值。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: MinL
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 分量 L 最小值
+description: 组件 L 最小值
 type: docs
 weight: 60
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpcolorantlab/minl/
 ---
 ## XmpColorantLab.MinL field
 
-分量 L 最小值。
+组件 L 最小值。
 
 ```csharp
 public const double MinL;

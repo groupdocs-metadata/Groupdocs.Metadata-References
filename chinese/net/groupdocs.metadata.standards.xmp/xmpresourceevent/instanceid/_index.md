@@ -1,14 +1,14 @@
 ---
 title: InstanceID
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置修改输出资源的 xmpMMInstanceID 属性的值
+description: 获取或设置已修改输出资源的 xmpMMInstanceID 属性的值
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpresourceevent/instanceid/
 ---
 ## XmpResourceEvent.InstanceID property
 
-获取或设置修改（输出）资源的 xmpMM:InstanceID 属性的值。
+获取或设置已修改（输出）资源的 xmpMM:InstanceID 属性的值。
 
 ```csharp
 public string InstanceID { get; set; }

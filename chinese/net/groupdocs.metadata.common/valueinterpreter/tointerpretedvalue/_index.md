@@ -20,7 +20,7 @@ public PropertyValue ToInterpretedValue(PropertyValue originalValue)
 
 ### 返回值
 
-解释的值。
+解释值。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: OTC
 second_title: GroupDocs.Metadata for .NET API 参考
-description: OTCOpenType Collection是一种OpenType字体集合格式 一个OTC文件可以将多个字体文件组合成它
+description: OTCOpenType Collection是一种OpenType字体集合格式 一个OTC文件可以将多个字体文件组合成一个
 type: docs
 weight: 430
 url: /zh/net/groupdocs.metadata.common/filetype/otc/
 ---
 ## FileType.OTC field
 
-OTC（OpenType Collection）是一种OpenType字体集合格式。 一个OTC文件可以将多个字体文件组合成它。
+OTC（OpenType Collection）是一种OpenType字体集合格式。 一个OTC文件可以将多个字体文件组合成一个。
 
 ```csharp
 public static readonly FileType OTC;

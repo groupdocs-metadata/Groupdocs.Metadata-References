@@ -1,14 +1,14 @@
 ---
 title: MinorVersion
 second_title: Riferimento API GroupDocs.Metadata per .NET
-description: Ottiene la versione minore dellintestazione.
+description: Ottiene la versione secondaria dellintestazione.
 type: docs
 weight: 110
 url: /it/net/groupdocs.metadata.formats.font/opentypefont/minorversion/
 ---
 ## OpenTypeFont.MinorVersion property
 
-Ottiene la versione minore dell'intestazione.
+Ottiene la versione secondaria dell'intestazione.
 
 ```csharp
 public ushort MinorVersion { get; }

@@ -20,7 +20,7 @@ Il pacchetto di statistiche del documento.
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * [Lavorare con i metadati nei documenti PDF](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+PDF+documents)
 

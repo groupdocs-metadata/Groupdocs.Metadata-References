@@ -1,14 +1,14 @@
 ---
 title: InvalidFormatException
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 文件格式无效时引发的异常
+description: 文件格式无效时抛出的异常
 type: docs
 weight: 290
 url: /zh/net/groupdocs.metadata.exceptions/invalidformatexception/
 ---
 ## InvalidFormatException class
 
-文件格式无效时引发的异常。
+文件格式无效时抛出的异常。
 
 ```csharp
 public sealed class InvalidFormatException : GroupDocsMetadataException
@@ -18,9 +18,9 @@ public sealed class InvalidFormatException : GroupDocsMetadataException
 
 | 姓名 | 描述 |
 | --- | --- |
-| [InvalidFormatException](invalidformatexception#constructor)() | 初始化[`InvalidFormatException`](../invalidformatexception)类. |
-| [InvalidFormatException](invalidformatexception#constructor_1)(string) | 初始化[`InvalidFormatException`](../invalidformatexception)类. |
-| [InvalidFormatException](invalidformatexception#constructor_2)(string, Exception) | 初始化[`InvalidFormatException`](../invalidformatexception)类. |
+| [InvalidFormatException](invalidformatexception#constructor)() | 初始化一个新的实例[`InvalidFormatException`](../invalidformatexception)类. |
+| [InvalidFormatException](invalidformatexception#constructor_1)(string) | 初始化一个新的实例[`InvalidFormatException`](../invalidformatexception)类. |
+| [InvalidFormatException](invalidformatexception#constructor_2)(string, Exception) | 初始化一个新的实例[`InvalidFormatException`](../invalidformatexception)类. |
 
 ### 也可以看看
 

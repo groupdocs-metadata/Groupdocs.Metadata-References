@@ -1,14 +1,14 @@
 ---
 title: RightsHolder
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置拥有或管理资源权限的个人或组织
+description: 获取或设置拥有或管理资源的个人或组织
 type: docs
 weight: 480
 url: /zh/net/groupdocs.metadata.formats.ebook/epubpackage/rightsholder/
 ---
 ## EpubPackage.RightsHolder property
 
-获取或设置拥有或管理资源权限的个人或组织。
+获取或设置拥有或管理资源的个人或组织。
 
 ```csharp
 public string RightsHolder { get; set; }

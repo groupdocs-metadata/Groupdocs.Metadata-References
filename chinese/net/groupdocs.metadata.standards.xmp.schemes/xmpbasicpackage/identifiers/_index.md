@@ -1,14 +1,14 @@
 ---
 title: Identifiers
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置一个无序的文本字符串数组明确标识给定上下文中的资源
+description: 获取或设置一个无序的文本字符串数组这些字符串明确标识给定上下文中的资源
 type: docs
 weight: 50
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpbasicpackage/identifiers/
 ---
 ## XmpBasicPackage.Identifiers property
 
-获取或设置一个无序的文本字符串数组，明确标识给定上下文中的资源。
+获取或设置一个无序的文本字符串数组，这些字符串明确标识给定上下文中的资源。
 
 ```csharp
 public string[] Identifiers { get; set; }

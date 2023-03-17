@@ -16,7 +16,7 @@ public bool? HasCrop { get; set; }
 
 ### El valor de la propiedad
 
-`verdadero` si la imagen tiene un rectángulo de recorte; de lo contrario,`falso` .
+`verdadero` si la imagen tiene un rectángulo de recorte; de lo contrario,`FALSO` .
 
 ### Ver también
 

@@ -1,14 +1,14 @@
 ---
 title: DigitalSignatures
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取文档中呈现的数字签名数组
+description: 获取文档中显示的数字签名数组
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.formats.document/spreadsheetinspectionpackage/digitalsignatures/
 ---
 ## SpreadsheetInspectionPackage.DigitalSignatures property
 
-获取文档中呈现的数字签名数组。
+获取文档中显示的数字签名数组。
 
 ```csharp
 public DigitalSignature[] DigitalSignatures { get; }

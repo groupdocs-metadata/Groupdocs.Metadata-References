@@ -1,14 +1,14 @@
 ---
 title: PngPackage
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取 PNG 原生元数据包
+description: 获取 PNG 本机元数据包
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.formats.image/pngrootpackage/pngpackage/
 ---
 ## PngRootPackage.PngPackage property
 
-获取 PNG 原生元数据包。
+获取 PNG 本机元数据包。
 
 ```csharp
 public PngPackage PngPackage { get; }
@@ -16,7 +16,7 @@ public PngPackage PngPackage { get; }
 
 ### 适当的价值
 
-PNG 原生元数据包。
+PNG 本机元数据包。
 
 ### 也可以看看
 

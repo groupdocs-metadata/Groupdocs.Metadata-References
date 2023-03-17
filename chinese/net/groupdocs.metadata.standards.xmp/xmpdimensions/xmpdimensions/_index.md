@@ -1,14 +1,14 @@
 ---
 title: XmpDimensions
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpDimensionsgroupdocs.metadata.standards.xmp/xmpdimensions类.
+description: 初始化一个新的实例XmpDimensionsgroupdocs.metadata.standards.xmp/xmpdimensions类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpdimensions/xmpdimensions/
 ---
 ## XmpDimensions() {#constructor}
 
-初始化[`XmpDimensions`](../../xmpdimensions)类.
+初始化一个新的实例[`XmpDimensions`](../../xmpdimensions)类.
 
 ```csharp
 public XmpDimensions()
@@ -24,7 +24,7 @@ public XmpDimensions()
 
 ## XmpDimensions(double, double) {#constructor_1}
 
-初始化[`XmpDimensions`](../../xmpdimensions)类.
+初始化一个新的实例[`XmpDimensions`](../../xmpdimensions)类.
 
 ```csharp
 public XmpDimensions(double width, double height)

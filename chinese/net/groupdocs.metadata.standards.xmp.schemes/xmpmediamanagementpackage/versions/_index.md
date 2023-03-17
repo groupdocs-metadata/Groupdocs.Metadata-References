@@ -16,7 +16,7 @@ public XmpVersion[] Versions { get; set; }
 
 ### 适当的价值
 
-与此资源关联的版本历史记录。 条目 [0] 是此文档的已知最早版本，条目 [Versions.Length - 1] 是最新版本。
+与此资源关联的版本历史记录。 条目 [0] 是该文档的最早已知版本，条目 [Versions.Length - 1] 是最新版本。
 
 ### 也可以看看
 

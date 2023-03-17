@@ -16,7 +16,7 @@ public bool? AutoShadows { get; set; }
 
 ### Eigentumswert
 
-`Stimmt` if [automatische Schatten]; Andernfalls,`FALSCH` .
+`WAHR` if [automatische Schatten]; ansonsten,`FALSCH` .
 
 ### Siehe auch
 

@@ -1,14 +1,14 @@
 ---
 title: Source
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置所描述资源的派生相关资源
+description: 获取或设置所描述资源的相关资源
 type: docs
 weight: 490
 url: /zh/net/groupdocs.metadata.formats.ebook/epubpackage/source/
 ---
 ## EpubPackage.Source property
 
-获取或设置所描述资源的派生相关资源。
+获取或设置所描述资源的相关资源。
 
 ```csharp
 public string Source { get; set; }

@@ -1,18 +1,18 @@
 ---
 title: GroupDocs.Metadata.Export
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 命名空间包含允许用户将元数据属性导出到不同表示的类
+description: 命名空间包含允许用户将元数据属性导出为不同表示的类
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.export/
 ---
-命名空间包含允许用户将元数据属性导出到不同表示的类。
+命名空间包含允许用户将元数据属性导出为不同表示的类。
 
 ## 课程
 
 | 班级 | 描述 |
 | --- | --- |
-| [ExportManager](./exportmanager) | 提供一系列方法允许用户将元数据属性导出为各种格式。 |
+| [ExportManager](./exportmanager) | 提供一行方法允许用户将元数据属性导出为各种格式。 |
 ## 枚举
 
 | 枚举 | 描述 |

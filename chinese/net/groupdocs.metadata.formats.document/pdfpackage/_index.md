@@ -1,14 +1,14 @@
 ---
 title: PdfPackage
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示 PDF 文档中的原生元数据
+description: 表示 PDF 文档中的本机元数据
 type: docs
 weight: 1030
 url: /zh/net/groupdocs.metadata.formats.document/pdfpackage/
 ---
 ## PdfPackage class
 
-表示 PDF 文档中的原生元数据。
+表示 PDF 文档中的本机元数据。
 
 ```csharp
 public class PdfPackage : DocumentPackage
@@ -22,16 +22,16 @@ public class PdfPackage : DocumentPackage
 | [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | 获取元数据属性的数量。 |
 | [CreatedDate](../../groupdocs.metadata.formats.document/pdfpackage/createddate) { get; set; } | 获取或设置文档创建日期。 |
 | [Creator](../../groupdocs.metadata.formats.document/pdfpackage/creator) { get; } | 获取文档的创建者。 |
-| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定的名称。 |
+| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定名称. |
 | [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | 获取元数据属性名称的集合。 |
 | [Keywords](../../groupdocs.metadata.formats.document/pdfpackage/keywords) { get; set; } | 获取或设置关键字。 |
 | [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | 获取元数据类型。 |
-| [ModifiedDate](../../groupdocs.metadata.formats.document/pdfpackage/modifieddate) { get; set; } | 获取或设置最后一次修改的日期。 |
-| [Producer](../../groupdocs.metadata.formats.document/pdfpackage/producer) { get; } | 获取文档生产者。 |
+| [ModifiedDate](../../groupdocs.metadata.formats.document/pdfpackage/modifieddate) { get; set; } | 获取或设置上次修改的日期。 |
+| [Producer](../../groupdocs.metadata.formats.document/pdfpackage/producer) { get; } | 获取文档制作者。 |
 | [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | 获取描述符集合，其中包含有关可通过 GroupDocs.Metadata 搜索引擎访问的属性的信息。 |
 | [Subject](../../groupdocs.metadata.formats.document/pdfpackage/subject) { get; set; } | 获取或设置文档的主题。 |
 | [Title](../../groupdocs.metadata.formats.document/pdfpackage/title) { get; set; } | 获取或设置文档的标题。 |
-| [TrappedFlag](../../groupdocs.metadata.formats.document/pdfpackage/trappedflag) { get; set; } | 获取或设置被困标志。 |
+| [TrappedFlag](../../groupdocs.metadata.formats.document/pdfpackage/trappedflag) { get; set; } | 获取或设置陷阱标志。 |
 
 ## 方法
 
@@ -48,18 +48,18 @@ public class PdfPackage : DocumentPackage
 | virtual [RemoveProperties](../../groupdocs.metadata.common/metadatapackage/removeproperties)(Func&lt;MetadataProperty, bool&gt;) | 删除满足指定谓词的元数据属性。 |
 | virtual [Sanitize](../../groupdocs.metadata.common/metadatapackage/sanitize)() | 从包中删除可写元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
 | [Set](../../groupdocs.metadata.formats.document/pdfpackage/set)(string, string) | 添加或替换具有指定名称的元数据属性。 |
-| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
+| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是以下方法的组合[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
 | [UpdateProperties](../../groupdocs.metadata.common/metadatapackage/updateproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 更新满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [使用 PDF 文档中的元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+PDF+documents)
 
 ### 例子
 
-此代码片段演示如何更新 PDF 文档中的内置元数据属性。
+此代码片段演示了如何更新 PDF 文档中的内置元数据属性。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.InputPdf))

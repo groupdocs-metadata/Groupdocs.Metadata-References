@@ -18,18 +18,18 @@ public abstract class EmailPackage : CustomPackage
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AttachedFileNames](../../groupdocs.metadata.formats.email/emailpackage/attachedfilenames) { get; } | 获取附件名称的数组。 |
-| [BlindCarbonCopyRecipients](../../groupdocs.metadata.formats.email/emailpackage/blindcarboncopyrecipients) { get; set; } | 获取或设置电子邮件的密件抄送（密件抄送）收件人数组。 |
-| [CarbonCopyRecipients](../../groupdocs.metadata.formats.email/emailpackage/carboncopyrecipients) { get; set; } | 获取或设置电子邮件的抄送（抄送）收件人数组。 |
+| [AttachedFileNames](../../groupdocs.metadata.formats.email/emailpackage/attachedfilenames) { get; } | 获取附件名称数组。 |
+| [BlindCarbonCopyRecipients](../../groupdocs.metadata.formats.email/emailpackage/blindcarboncopyrecipients) { get; set; } | 获取或设置电子邮件的 BCC（密件抄送）收件人数组。 |
+| [CarbonCopyRecipients](../../groupdocs.metadata.formats.email/emailpackage/carboncopyrecipients) { get; set; } | 获取或设置电子邮件的 CC（抄送）收件人数组。 |
 | [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | 获取元数据属性的数量。 |
 | [Headers](../../groupdocs.metadata.formats.email/emailpackage/headers) { get; } | 获取包含电子邮件标头的元数据包。 |
-| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定的名称。 |
+| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定名称. |
 | [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | 获取元数据属性名称的集合。 |
 | [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | 获取元数据类型。 |
 | [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | 获取描述符集合，其中包含有关可通过 GroupDocs.Metadata 搜索引擎访问的属性的信息。 |
-| [Recipients](../../groupdocs.metadata.formats.email/emailpackage/recipients) { get; set; } | 获取或设置电子邮件收件人的数组。 |
+| [Recipients](../../groupdocs.metadata.formats.email/emailpackage/recipients) { get; set; } | 获取或设置电子邮件收件人数组。 |
 | [Sender](../../groupdocs.metadata.formats.email/emailpackage/sender) { get; } | 获取发件人的电子邮件地址。 |
-| [Subject](../../groupdocs.metadata.formats.email/emailpackage/subject) { get; set; } | 获取或设置邮件主题。 |
+| [Subject](../../groupdocs.metadata.formats.email/emailpackage/subject) { get; set; } | 获取或设置电子邮件主题。 |
 
 ## 方法
 
@@ -41,14 +41,14 @@ public abstract class EmailPackage : CustomPackage
 | [GetEnumerator](../../groupdocs.metadata.common/metadatapackage/getenumerator)() | 返回一个遍历集合的枚举器。 |
 | virtual [RemoveProperties](../../groupdocs.metadata.common/metadatapackage/removeproperties)(Func&lt;MetadataProperty, bool&gt;) | 删除满足指定谓词的元数据属性。 |
 | virtual [Sanitize](../../groupdocs.metadata.common/metadatapackage/sanitize)() | 从包中删除可写元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
-| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
+| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是以下方法的组合[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
 | [UpdateProperties](../../groupdocs.metadata.common/metadatapackage/updateproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 更新满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* [使用已保存的电子邮件](https://docs.groupdocs.com/display/metadatanet/Working+with+saved+Emails)
+* [使用保存的电子邮件](https://docs.groupdocs.com/display/metadatanet/Working+with+saved+Emails)
 
 ### 例子
 

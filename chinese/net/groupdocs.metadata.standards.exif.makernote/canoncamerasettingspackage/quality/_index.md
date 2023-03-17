@@ -16,7 +16,7 @@ public short Quality { get; }
 
 ### 适当的价值
 
-质量.
+质量。
 
 ### 也可以看看
 

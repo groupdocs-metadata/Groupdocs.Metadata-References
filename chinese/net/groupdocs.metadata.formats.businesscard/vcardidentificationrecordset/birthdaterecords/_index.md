@@ -1,14 +1,14 @@
 ---
 title: BirthdateRecords
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取一个数组其中包含不同表示形式的对象的出生日期
+description: 获取一个包含对象出生日期的数组以不同的表示形式
 type: docs
 weight: 60
 url: /zh/net/groupdocs.metadata.formats.businesscard/vcardidentificationrecordset/birthdaterecords/
 ---
 ## VCardIdentificationRecordset.BirthdateRecords property
 
-获取一个数组，其中包含不同表示形式的对象的出生日期。
+获取一个包含对象出生日期的数组，以不同的表示形式。
 
 ```csharp
 public VCardRecord[] BirthdateRecords { get; }
@@ -16,7 +16,7 @@ public VCardRecord[] BirthdateRecords { get; }
 
 ### 适当的价值
 
-一个数组，包含不同表示形式的对象的出生日期。
+包含不同表示形式的对象出生日期的数组。
 
 ### 也可以看看
 

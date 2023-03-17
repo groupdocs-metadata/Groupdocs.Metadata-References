@@ -16,7 +16,7 @@ public bool IsWritable { get; }
 
 ### El valor de la propiedad
 
-`verdadero` si el paquete XMP es escribible; de lo contrario,`falso` .
+`verdadero` si el paquete XMP es escribible; de lo contrario,`FALSO` .
 
 ### Ver también
 

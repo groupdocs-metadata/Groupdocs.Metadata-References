@@ -1,14 +1,14 @@
 ---
 title: XmpTrailerPI
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示 XMP 预告片处理指令
+description: 代表XMP片尾处理指令
 type: docs
 weight: 3610
 url: /zh/net/groupdocs.metadata.standards.xmp/xmptrailerpi/
 ---
 ## XmpTrailerPI class
 
-表示 XMP 预告片处理指令。
+代表XMP片尾处理指令。
 
 ```csharp
 public sealed class XmpTrailerPI : IXmpType
@@ -18,8 +18,8 @@ public sealed class XmpTrailerPI : IXmpType
 
 | 姓名 | 描述 |
 | --- | --- |
-| [XmpTrailerPI](xmptrailerpi#constructor)() | 初始化[`XmpTrailerPI`](../xmptrailerpi)类. |
-| [XmpTrailerPI](xmptrailerpi#constructor_1)(bool) | 初始化[`XmpTrailerPI`](../xmptrailerpi)类. |
+| [XmpTrailerPI](xmptrailerpi#constructor)() | 初始化一个新的实例[`XmpTrailerPI`](../xmptrailerpi)类. |
+| [XmpTrailerPI](xmptrailerpi#constructor_1)(bool) | 初始化一个新的实例[`XmpTrailerPI`](../xmptrailerpi)类. |
 
 ## 特性
 
@@ -31,7 +31,7 @@ public sealed class XmpTrailerPI : IXmpType
 
 | 姓名 | 描述 |
 | --- | --- |
-| [GetXmpRepresentation](../../groupdocs.metadata.standards.xmp/xmptrailerpi/getxmprepresentation)() | 将 XMP 值转换为 xml 表示形式。 |
+| [GetXmpRepresentation](../../groupdocs.metadata.standards.xmp/xmptrailerpi/getxmprepresentation)() | 将 XMP 值转换为 xml 表示。 |
 
 ### 评论
 
@@ -39,7 +39,7 @@ public sealed class XmpTrailerPI : IXmpType
 
 ### 例子
 
-允许的预告片 PI:
+预告片 PI 的允许形式：
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: EducationLevel
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置代理类根据通过教育或培训环境的进展来定义所描述的资源是针对的
+description: 获取或设置一类代理根据教育或培训上下文的进展定义所描述的资源适用于这些代理
 type: docs
 weight: 200
 url: /zh/net/groupdocs.metadata.formats.ebook/epubpackage/educationlevel/
 ---
 ## EpubPackage.EducationLevel property
 
-获取或设置代理类，根据通过教育或培训环境的进展来定义，所描述的资源是针对的。
+获取或设置一类代理，根据教育或培训上下文的进展定义，所描述的资源适用于这些代理。
 
 ```csharp
 public string EducationLevel { get; set; }
@@ -16,7 +16,7 @@ public string EducationLevel { get; set; }
 
 ### 适当的价值
 
-一类代理，根据通过教育或培训环境的进展来定义，所描述的资源是针对其的。
+一类代理人，根据教育或培训环境的进展定义，所描述的资源适用于此。
 
 ### 也可以看看
 

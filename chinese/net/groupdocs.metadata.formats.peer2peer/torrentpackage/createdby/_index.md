@@ -1,14 +1,14 @@
 ---
 title: CreatedBy
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置用于创建种子的程序的名称和版本
+description: 获取或设置用于创建 torrent 的程序的名称和版本
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.formats.peer2peer/torrentpackage/createdby/
 ---
 ## TorrentPackage.CreatedBy property
 
-获取或设置用于创建种子的程序的名称和版本。
+获取或设置用于创建 torrent 的程序的名称和版本。
 
 ```csharp
 public string CreatedBy { get; set; }
@@ -16,7 +16,7 @@ public string CreatedBy { get; set; }
 
 ### 适当的价值
 
-用于创建种子的程序的名称和版本。
+用于创建 torrent 的程序的名称和版本。
 
 ### 也可以看看
 

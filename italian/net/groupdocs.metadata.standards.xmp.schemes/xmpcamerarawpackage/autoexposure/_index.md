@@ -16,7 +16,7 @@ public bool? AutoExposure { get; set; }
 
 ### Valore della proprietà
 
-`VERO` se [esposizione automatica]; altrimenti,`falso` .
+`VERO` if [esposizione automatica]; Altrimenti,`falso` .
 
 ### Guarda anche
 

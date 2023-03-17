@@ -1,14 +1,14 @@
 ---
 title: XmpDynamicMediaPackage
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpDynamicMediaPackagegroupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage类.
+description: 初始化一个新的实例XmpDynamicMediaPackagegroupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/xmpdynamicmediapackage/
 ---
 ## XmpDynamicMediaPackage constructor
 
-初始化[`XmpDynamicMediaPackage`](../../xmpdynamicmediapackage)类.
+初始化一个新的实例[`XmpDynamicMediaPackage`](../../xmpdynamicmediapackage)类.
 
 ```csharp
 public XmpDynamicMediaPackage()

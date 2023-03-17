@@ -16,7 +16,7 @@ public static XmpAudioChannelType Stereo { get; }
 
 ### 适当的价值
 
-立体声音响.
+立体声.
 
 ### 也可以看看
 

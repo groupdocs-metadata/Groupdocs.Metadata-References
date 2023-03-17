@@ -1,14 +1,14 @@
 ---
 title: XmpRenditionClass
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpRenditionClassgroupdocs.metadata.standards.xmp/xmprenditionclass类.
+description: 初始化一个新的实例XmpRenditionClassgroupdocs.metadata.standards.xmp/xmprenditionclass类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp/xmprenditionclass/xmprenditionclass/
 ---
 ## XmpRenditionClass constructor
 
-初始化[`XmpRenditionClass`](../../xmprenditionclass)类.
+初始化一个新的实例[`XmpRenditionClass`](../../xmprenditionclass)类.
 
 ```csharp
 public XmpRenditionClass(params string[] tokens)

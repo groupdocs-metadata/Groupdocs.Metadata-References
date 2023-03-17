@@ -1,14 +1,14 @@
 ---
 title: AnniversaryTextRecord
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取以单个文本值表示的结婚日期
+description: 获取表示为单个文本值的结婚日期
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.formats.businesscard/vcardidentificationrecordset/anniversarytextrecord/
 ---
 ## VCardIdentificationRecordset.AnniversaryTextRecord property
 
-获取以单个文本值表示的结婚日期。
+获取表示为单个文本值的结婚日期。
 
 ```csharp
 public VCardTextRecord AnniversaryTextRecord { get; }
@@ -16,11 +16,11 @@ public VCardTextRecord AnniversaryTextRecord { get; }
 
 ### 适当的价值
 
-以单个文本值表示的结婚日期。
+结婚日期表示为单个文本值。
 
 ### 评论
 
-这个属性是一个简化版[`AnniversaryRecord`](../anniversaryrecord).
+此属性是[`AnniversaryRecord`](../anniversaryrecord).
 
 ### 也可以看看
 

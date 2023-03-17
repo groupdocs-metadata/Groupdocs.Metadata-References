@@ -1,14 +1,14 @@
 ---
 title: Action
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置发生的动作
+description: 获取或设置发生的操作
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpresourceevent/action/
 ---
 ## XmpResourceEvent.Action property
 
-获取或设置发生的动作。
+获取或设置发生的操作。
 
 ```csharp
 public string Action { get; set; }
@@ -16,7 +16,7 @@ public string Action { get; set; }
 
 ### 适当的价值
 
-发生的操作。 定义的值是：转换、复制、创建、裁剪、编辑、过滤、格式化、版本更新、 打印、发布、管理、生产、调整大小、保存。 新值应该是过去时的动词.
+发生的动作。 定义值有：converted, copied, created, cropped, edited, filtered, formatted, version_updated, printed, published, managed, produced, resized, saved. 新值应该是动词的过去式.
 
 ### 也可以看看
 

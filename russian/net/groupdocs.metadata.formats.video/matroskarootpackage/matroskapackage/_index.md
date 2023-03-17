@@ -20,7 +20,7 @@ public MatroskaPackage MatroskaPackage { get; }
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * [Работа с метаданными в файлах Matroska (MKV)](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+Matroska+%28MKV%29+files)
 

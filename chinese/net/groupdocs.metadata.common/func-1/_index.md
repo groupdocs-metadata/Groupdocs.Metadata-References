@@ -1,14 +1,14 @@
 ---
 title: FuncTResult
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 封装一个没有参数的方法并返回一个由TResult范围
+description: 封装一个没有参数的方法返回一个指定类型的值TResult范围
 type: docs
 weight: 70
 url: /zh/net/groupdocs.metadata.common/func-1/
 ---
 ## Func&lt;TResult&gt; delegate
 
-封装一个没有参数的方法，并返回一个由*TResult*范围。
+封装一个没有参数的方法，返回一个指定类型的值*TResult*范围。
 
 ```csharp
 public delegate TResult Func<out TResult>();
@@ -16,7 +16,7 @@ public delegate TResult Func<out TResult>();
 
 | 范围 | 描述 |
 | --- | --- |
-| TResult | 此委托封装的方法的返回值的类型。 |
+| TResult | 此委托封装的方法的返回值类型。 |
 
 ### 返回值
 

@@ -20,7 +20,7 @@ Die Anzahl der betroffenen Eigenschaften.
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * [Metadaten bereinigen](https://docs.groupdocs.com/display/metadatanet/Clean+metadata)
 

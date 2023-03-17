@@ -1,14 +1,14 @@
 ---
 title: FuncTTResult
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 封装一个方法该方法有一个参数并返回一个由TResult范围
+description: 封装一个方法该方法有一个参数并返回一个由参数指定的类型的值TResult范围
 type: docs
 weight: 80
 url: /zh/net/groupdocs.metadata.common/func-2/
 ---
 ## Func&lt;T,TResult&gt; delegate
 
-封装一个方法，该方法有一个参数并返回一个由*TResult*范围。
+封装一个方法，该方法有一个参数并返回一个由参数指定的类型的值*TResult*范围。
 
 ```csharp
 public delegate TResult Func<in T, out TResult>(T arg);
@@ -17,7 +17,7 @@ public delegate TResult Func<in T, out TResult>(T arg);
 | 范围 | 描述 |
 | --- | --- |
 | T | 此委托封装的方法的参数类型。 |
-| TResult | 此委托封装的方法的返回值的类型。 |
+| TResult | 此委托封装的方法的返回值类型。 |
 | arg | 此委托封装的方法的参数。 |
 
 ### 返回值

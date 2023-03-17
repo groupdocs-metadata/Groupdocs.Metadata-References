@@ -16,7 +16,7 @@ public bool IsWritable { get; }
 
 ### Mülk değeri
 
-`doğru` XMP paketi yazılabilir ise; aksi halde,`yanlış` .
+`doğru` XMP paketi yazılabilir ise; aksi takdirde,`YANLIŞ` .
 
 ### Ayrıca bakınız
 

@@ -1,14 +1,14 @@
 ---
 title: Title
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置标题/歌曲名称/内容描述 这个值由TIT2帧表示
+description: 获取或设置 Title/Song name/Content description. 该值由 TIT2 帧表示
 type: docs
 weight: 230
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2tag/title/
 ---
 ## ID3V2Tag.Title property
 
-获取或设置标题/歌曲名称/内容描述。 这个值由TIT2帧表示。
+获取或设置 Title/Song name/Content description. 该值由 TIT2 帧表示。
 
 ```csharp
 public string Title { get; set; }

@@ -16,7 +16,7 @@ public bool? AutoContrast { get; set; }
 
 ### El valor de la propiedad
 
-`verdadero` si [contraste automático]; de lo contrario,`falso` .
+`verdadero` si [contraste automático]; de lo contrario,`FALSO` .
 
 ### Ver también
 

@@ -1,14 +1,14 @@
 ---
 title: Description
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置文档的描述性文本字符串 使用此元素存储有关文档的重要信息例如其用途最近的更改或待处理的更改 最大为 191 个字符
+description: 获取或设置文档的描述性文本字符串 使用此元素存储有关文档的重要信息例如其用途最近的更改或未决更改 最多为 191 个字符
 type: docs
 weight: 70
 url: /zh/net/groupdocs.metadata.formats.document/diagrampackage/description/
 ---
 ## DiagramPackage.Description property
 
-获取或设置文档的描述性文本字符串。 使用此元素存储有关文档的重要信息，例如其用途、最近的更改或待处理的更改。 最大为 191 个字符。
+获取或设置文档的描述性文本字符串。 使用此元素存储有关文档的重要信息，例如其用途、最近的更改或未决更改。 最多为 191 个字符。
 
 ```csharp
 public string Description { get; set; }

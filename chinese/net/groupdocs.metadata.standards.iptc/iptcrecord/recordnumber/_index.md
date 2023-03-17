@@ -8,7 +8,7 @@ url: /zh/net/groupdocs.metadata.standards.iptc/iptcrecord/recordnumber/
 ---
 ## IptcRecord.RecordNumber property
 
-获取记录号
+获取记录号。
 
 ```csharp
 public byte RecordNumber { get; }
@@ -16,7 +16,7 @@ public byte RecordNumber { get; }
 
 ### 适当的价值
 
-记录编号。
+记录号。
 
 ### 也可以看看
 

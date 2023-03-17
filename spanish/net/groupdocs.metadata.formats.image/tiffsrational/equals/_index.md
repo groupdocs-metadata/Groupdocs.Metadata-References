@@ -21,7 +21,7 @@ public static bool Equals(TiffSRational rational, TiffSRational other)
 
 ### Valor_devuelto
 
-`verdadero` si los objetos son iguales; de lo contrario`falso`.
+`verdadero` si los objetos son iguales; de lo contrario`FALSO`.
 
 ### Ver también
 
@@ -45,7 +45,7 @@ public bool Equals(TiffSRational other)
 
 ### Valor_devuelto
 
-`verdadero` si el objeto actual es igual al*other* parámetro; de lo contrario,`falso` .
+`verdadero` si el objeto actual es igual al*other* parámetro; de lo contrario,`FALSO` .
 
 ### Ver también
 
@@ -69,7 +69,7 @@ public override bool Equals(object obj)
 
 ### Valor_devuelto
 
-`verdadero` si el objeto actual es igual al*obj* parámetro; de lo contrario,`falso` .
+`verdadero` si el objeto actual es igual al*obj* parámetro; de lo contrario,`FALSO` .
 
 ### Ver también
 

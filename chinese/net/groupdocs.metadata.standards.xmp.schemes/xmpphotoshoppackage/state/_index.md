@@ -16,7 +16,7 @@ public string State { get; set; }
 
 ### 适当的价值
 
-省/州。
+省/州.
 
 ### 也可以看看
 

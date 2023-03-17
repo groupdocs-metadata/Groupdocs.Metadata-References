@@ -20,7 +20,7 @@ public byte[][] BinaryPublicKeys { get; }
 
 ### 评论
 
-这个属性是一个简化版[`PublicKeyBinaryRecords`](../publickeybinaryrecords).
+此属性是[`PublicKeyBinaryRecords`](../publickeybinaryrecords).
 
 ### 也可以看看
 

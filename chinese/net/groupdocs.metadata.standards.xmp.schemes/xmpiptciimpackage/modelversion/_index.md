@@ -16,7 +16,7 @@ public int? ModelVersion { get; set; }
 
 ### 适当的价值
 
-模型版本.
+模型版本。
 
 ### 也可以看看
 

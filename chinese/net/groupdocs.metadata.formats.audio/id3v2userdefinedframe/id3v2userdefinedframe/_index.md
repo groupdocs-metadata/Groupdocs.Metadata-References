@@ -1,14 +1,14 @@
 ---
 title: ID3V2UserDefinedFrame
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化ID3V2UserDefinedFramegroupdocs.metadata.formats.audio/id3v2userdefinedframe类.
+description: 初始化一个新的实例ID3V2UserDefinedFramegroupdocs.metadata.formats.audio/id3v2userdefinedframe类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2userdefinedframe/id3v2userdefinedframe/
 ---
 ## ID3V2UserDefinedFrame(string, string) {#constructor_1}
 
-初始化[`ID3V2UserDefinedFrame`](../../id3v2userdefinedframe)类.
+初始化一个新的实例[`ID3V2UserDefinedFrame`](../../id3v2userdefinedframe)类.
 
 ```csharp
 public ID3V2UserDefinedFrame(string description, string value)
@@ -29,7 +29,7 @@ public ID3V2UserDefinedFrame(string description, string value)
 
 ## ID3V2UserDefinedFrame(ID3V2EncodingType, string, string) {#constructor}
 
-初始化[`ID3V2UserDefinedFrame`](../../id3v2userdefinedframe)类.
+初始化一个新的实例[`ID3V2UserDefinedFrame`](../../id3v2userdefinedframe)类.
 
 ```csharp
 public ID3V2UserDefinedFrame(ID3V2EncodingType encoding, string description, string value)

@@ -26,7 +26,7 @@ public class PropertyValue
 | [PropertyValue](propertyvalue#constructor_4)(int) | Yeni bir örneğini başlatır.[`PropertyValue`](../propertyvalue) tamsayı değeri olan sınıf. |
 | [PropertyValue](propertyvalue#constructor_5)(int[]) | Yeni bir örneğini başlatır.[`PropertyValue`](../propertyvalue) tamsayı değerleri dizisine sahip sınıf. |
 | [PropertyValue](propertyvalue#constructor_6)(long) | Yeni bir örneğini başlatır.[`PropertyValue`](../propertyvalue) uzun bir değere sahip sınıf. |
-| [PropertyValue](propertyvalue#constructor_7)(long[]) | Yeni bir örneğini başlatır.[`PropertyValue`](../propertyvalue)uzun değerler dizisine sahip sınıf. |
+| [PropertyValue](propertyvalue#constructor_7)(long[]) | Yeni bir örneğini başlatır.[`PropertyValue`](../propertyvalue) uzun değerler dizisine sahip sınıf. |
 | [PropertyValue](propertyvalue#constructor_9)(string) | Yeni bir örneğini başlatır.[`PropertyValue`](../propertyvalue) dize değeri olan sınıf. |
 | [PropertyValue](propertyvalue#constructor_10)(string[]) | Yeni bir örneğini başlatır.[`PropertyValue`](../propertyvalue) dizi dizili sınıf. |
 | [PropertyValue](propertyvalue#constructor_11)(TimeSpan) | Yeni bir örneğini başlatır.[`PropertyValue`](../propertyvalue) ile sınıfTimeSpan değer. |

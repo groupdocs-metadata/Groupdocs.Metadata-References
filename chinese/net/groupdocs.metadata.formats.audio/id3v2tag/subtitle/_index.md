@@ -1,14 +1,14 @@
 ---
 title: Subtitle
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置字幕/描述细化 该值由TIT3帧表示
+description: 获取或设置字幕/描述细化 此值由 TIT3 帧表示
 type: docs
 weight: 200
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2tag/subtitle/
 ---
 ## ID3V2Tag.Subtitle property
 
-获取或设置字幕/描述细化。 该值由TIT3帧表示。
+获取或设置字幕/描述细化。 此值由 TIT3 帧表示。
 
 ```csharp
 public string Subtitle { get; set; }

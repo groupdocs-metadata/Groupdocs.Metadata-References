@@ -21,7 +21,7 @@ public bool Equals(MetadataProperty x, MetadataProperty y)
 
 ### Return_Value
 
-`true` si les objets spécifiés sont égaux ; Par ailleurs,`false`.
+`true` si les objets spécifiés sont égaux ; sinon,`false`.
 
 ### Voir également
 

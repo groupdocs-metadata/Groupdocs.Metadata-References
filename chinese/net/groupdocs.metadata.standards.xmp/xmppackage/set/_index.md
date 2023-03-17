@@ -115,7 +115,7 @@ public void Set(string name, bool value)
 
 ## Set(string, DateTime) {#set_6}
 
-套DateTime属性.
+集DateTime财产.
 
 ```csharp
 public void Set(string name, DateTime value)

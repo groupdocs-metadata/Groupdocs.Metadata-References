@@ -1,14 +1,14 @@
 ---
 title: XmpNamespaces
 second_title: Riferimento API GroupDocs.Metadata per .NET
-description: Contiene gli spazi dei nomi utilizzati inXmpPackage./xmppackage eXmpComplexType./xmpcomplextype .
+description: Contiene gli spazi dei nomi utilizzati inXmpPackage./xmppackage EXmpComplexType./xmpcomplextype .
 type: docs
 weight: 3480
 url: /it/net/groupdocs.metadata.standards.xmp/xmpnamespaces/
 ---
 ## XmpNamespaces class
 
-Contiene gli spazi dei nomi utilizzati in[`XmpPackage`](../xmppackage) e[`XmpComplexType`](../xmpcomplextype) .
+Contiene gli spazi dei nomi utilizzati in[`XmpPackage`](../xmppackage) E[`XmpComplexType`](../xmpcomplextype) .
 
 ```csharp
 public static class XmpNamespaces

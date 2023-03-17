@@ -20,7 +20,7 @@ public string ProductIdentifier { get; }
 
 ### 评论
 
-这个属性是一个简化版[`ProductIdentifierRecord`](../productidentifierrecord).
+此属性是[`ProductIdentifierRecord`](../productidentifierrecord).
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Format
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: Görüntü formatını alır veya ayarlar. Tanımlanan değer JPEG.
+description: Görüntü biçimini alır veya ayarlar. Tanımlanan değer JPEG.
 type: docs
 weight: 20
 url: /tr/net/groupdocs.metadata.standards.xmp/xmpthumbnail/format/
 ---
 ## XmpThumbnail.Format property
 
-Görüntü formatını alır veya ayarlar. Tanımlanan değer: JPEG.
+Görüntü biçimini alır veya ayarlar. Tanımlanan değer: JPEG.
 
 ```csharp
 public string Format { get; set; }

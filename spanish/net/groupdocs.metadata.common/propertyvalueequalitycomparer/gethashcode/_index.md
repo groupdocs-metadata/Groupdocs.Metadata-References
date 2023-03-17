@@ -16,7 +16,7 @@ public int GetHashCode(PropertyValue obj)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| obj | PropertyValue | los[`PropertyValue`](../../propertyvalue) para el que se devolverá un código hash. |
+| obj | PropertyValue | El[`PropertyValue`](../../propertyvalue) para el que se devolverá un código hash. |
 
 ### Valor_devuelto
 

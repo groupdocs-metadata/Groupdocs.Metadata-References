@@ -1,14 +1,14 @@
 ---
 title: TypographicSubfamily
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取印刷子系列
+description: 获取排版子系列
 type: docs
 weight: 170
 url: /zh/net/groupdocs.metadata.formats.font/opentypefont/typographicsubfamily/
 ---
 ## OpenTypeFont.TypographicSubfamily property
 
-获取印刷子系列。
+获取排版子系列。
 
 ```csharp
 public string TypographicSubfamily { get; }

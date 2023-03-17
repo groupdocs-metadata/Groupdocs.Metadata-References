@@ -23,7 +23,7 @@ public class ReadOnlyList<T> : IList, IList<T>, IReadOnlyList<T>
 | 姓名 | 描述 |
 | --- | --- |
 | [Count](../../groupdocs.metadata.common/readonlylist-1/count) { get; } | 获取集合中包含的元素数。 |
-| [IsReadOnly](../../groupdocs.metadata.common/readonlylist-1/isreadonly) { get; } | 获取一个值，该值指示该集合是否为只读。 |
+| [IsReadOnly](../../groupdocs.metadata.common/readonlylist-1/isreadonly) { get; } | 获取一个值，指示集合是否为只读。 |
 | [Item](../../groupdocs.metadata.common/readonlylist-1/item) { get; } | 获取集合中指定索引处的元素。 |
 
 ## 方法

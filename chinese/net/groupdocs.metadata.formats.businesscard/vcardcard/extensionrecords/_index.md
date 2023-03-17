@@ -1,14 +1,14 @@
 ---
 title: ExtensionRecords
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取私有扩展记录
+description: 获取私有分机记录
 type: docs
 weight: 50
 url: /zh/net/groupdocs.metadata.formats.businesscard/vcardcard/extensionrecords/
 ---
 ## VCardCard.ExtensionRecords property
 
-获取私有扩展记录。
+获取私有分机记录。
 
 ```csharp
 public VCardTextRecord[] ExtensionRecords { get; }
@@ -16,7 +16,7 @@ public VCardTextRecord[] ExtensionRecords { get; }
 
 ### 适当的价值
 
-私人分机记录。
+私有分机记录。
 
 ### 也可以看看
 

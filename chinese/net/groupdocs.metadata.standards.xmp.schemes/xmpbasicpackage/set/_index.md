@@ -16,7 +16,7 @@ public override void Set(string name, string value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | XmpBasic 键。 |
+| name | String | Xmp基本键。 |
 | value | String | 字符串值。 |
 
 ### 例外

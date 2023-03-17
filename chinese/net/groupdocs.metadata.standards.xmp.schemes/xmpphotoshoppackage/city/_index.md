@@ -16,7 +16,7 @@ public string City { get; set; }
 
 ### 适当的价值
 
-城市。
+城市.
 
 ### 也可以看看
 

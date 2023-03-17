@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取MetadataPropertygroupdocs.metadata.common/metadataproperty具有指定的名称
+description: 获取MetadataPropertygroupdocs.metadata.common/metadataproperty具有指定名称.
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.common/metadatapackage/item/
 ---
 ## MetadataPackage indexer
 
-获取[`MetadataProperty`](../../metadataproperty)具有指定的名称。
+获取[`MetadataProperty`](../../metadataproperty)具有指定名称.
 
 ```csharp
 public MetadataProperty this[string propertyName] { get; }
@@ -16,7 +16,7 @@ public MetadataProperty this[string propertyName] { get; }
 
 | 范围 | 描述 |
 | --- | --- |
-| propertyName | 要找到的元数据属性的名称。 |
+| propertyName | 要查找的元数据属性的名称。 |
 
 ### 返回值
 
@@ -24,7 +24,7 @@ public MetadataProperty this[string propertyName] { get; }
 
 ### 适当的价值
 
-适当的[`MetadataProperty`](../../metadataproperty).
+合适的[`MetadataProperty`](../../metadataproperty).
 
 ### 也可以看看
 

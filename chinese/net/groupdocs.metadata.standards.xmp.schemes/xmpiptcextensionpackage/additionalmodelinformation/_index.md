@@ -1,14 +1,14 @@
 ---
 title: AdditionalModelInformation
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置有关模型发布图像中模型的种族和其他方面的信息
+description: 获取或设置模型发布图像中有关模型的种族和其他方面的信息
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpiptcextensionpackage/additionalmodelinformation/
 ---
 ## XmpIptcExtensionPackage.AdditionalModelInformation property
 
-获取或设置有关模型发布图像中模型的种族和其他方面的信息。
+获取或设置模型发布图像中有关模型的种族和其他方面的信息。
 
 ```csharp
 public string AdditionalModelInformation { get; set; }
@@ -16,7 +16,7 @@ public string AdditionalModelInformation { get; set; }
 
 ### 适当的价值
 
-附加型号信息。
+附加模型信息。
 
 ### 也可以看看
 

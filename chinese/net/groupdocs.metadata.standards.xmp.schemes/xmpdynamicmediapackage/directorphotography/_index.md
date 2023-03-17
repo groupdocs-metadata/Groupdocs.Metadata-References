@@ -16,7 +16,7 @@ public string DirectorPhotography { get; set; }
 
 ### 适当的价值
 
-该场景的摄影指导。
+现场摄影指导。
 
 ### 也可以看看
 

@@ -20,7 +20,7 @@ Il pacchetto di metadati QuickTime.
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * [Lavorare con i metadati nei file MOV](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+MOV+Files)
 

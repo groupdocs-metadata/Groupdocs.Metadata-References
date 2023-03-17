@@ -1,14 +1,14 @@
 ---
 title: PageInfo
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 提供有关文档页面幻灯片工作表等的通用信息
+description: 提供有关文档页面幻灯片工作表等的常用信息
 type: docs
 weight: 170
 url: /zh/net/groupdocs.metadata.common/pageinfo/
 ---
 ## PageInfo class
 
-提供有关文档页面（幻灯片、工作表等）的通用信息。
+提供有关文档页面（幻灯片、工作表等）的常用信息。
 
 ```csharp
 public class PageInfo
@@ -24,7 +24,7 @@ public class PageInfo
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [获取文档信息](https://docs.groupdocs.com/display/metadatanet/Get+document+info)
 

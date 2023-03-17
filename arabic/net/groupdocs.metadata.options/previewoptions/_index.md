@@ -18,7 +18,7 @@ public class PreviewOptions
 
 | اسم | وصف |
 | --- | --- |
-| [PreviewOptions](previewoptions#constructor)(CreatePageStream) | يقوم بتهيئة مثيل جديد لملف[`PreviewOptions`](../previewoptions)فئة تسببت في إغلاق تيار الإخراج. |
+| [PreviewOptions](previewoptions#constructor)(CreatePageStream) | يقوم بتهيئة مثيل جديد لملف[`PreviewOptions`](../previewoptions) فئة تسببت في إغلاق تيار الإخراج. |
 | [PreviewOptions](previewoptions#constructor_1)(CreatePageStream, ReleasePageStream) | يقوم بتهيئة مثيل جديد من[`PreviewOptions`](../previewoptions) فئة تتسبب في إرجاع دفق الإخراج إلى العميل لمزيد من الاستخدام. |
 
 ## الخصائص

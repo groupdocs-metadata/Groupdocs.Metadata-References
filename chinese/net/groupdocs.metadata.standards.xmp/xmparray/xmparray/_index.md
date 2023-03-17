@@ -1,14 +1,14 @@
 ---
 title: XmpArray
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpArraygroupdocs.metadata.standards.xmp/xmparray类.
+description: 初始化一个新的实例XmpArraygroupdocs.metadata.standards.xmp/xmparray类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp/xmparray/xmparray/
 ---
 ## XmpArray(XmpArrayType, XmpValueBase[]) {#constructor_1}
 
-初始化[`XmpArray`](../../xmparray)类.
+初始化一个新的实例[`XmpArray`](../../xmparray)类.
 
 ```csharp
 public XmpArray(XmpArrayType arrayType, XmpValueBase[] items)
@@ -31,7 +31,7 @@ public XmpArray(XmpArrayType arrayType, XmpValueBase[] items)
 
 ## XmpArray(XmpArrayType, XmpComplexType[]) {#constructor}
 
-初始化[`XmpArray`](../../xmparray)类.
+初始化一个新的实例[`XmpArray`](../../xmparray)类.
 
 ```csharp
 public XmpArray(XmpArrayType arrayType, XmpComplexType[] items)

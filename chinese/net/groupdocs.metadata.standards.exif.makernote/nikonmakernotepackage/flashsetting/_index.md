@@ -1,14 +1,14 @@
 ---
 title: FlashSetting
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取闪存设置
+description: 获取闪光灯设置
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.standards.exif.makernote/nikonmakernotepackage/flashsetting/
 ---
 ## NikonMakerNotePackage.FlashSetting property
 
-获取闪存设置。
+获取闪光灯设置。
 
 ```csharp
 public string FlashSetting { get; }
@@ -16,7 +16,7 @@ public string FlashSetting { get; }
 
 ### 适当的价值
 
-闪光灯设置。
+闪光设置.
 
 ### 也可以看看
 

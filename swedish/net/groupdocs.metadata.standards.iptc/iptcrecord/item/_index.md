@@ -16,7 +16,7 @@ public IptcDataSet this[byte dataSetNumber] { get; }
 
 | Parameter | Beskrivning |
 | --- | --- |
-| dataSetNumber | IPTC-datauppsättningsnumret. |
+| dataSetNumber | IPTC-datauppsättningens nummer. |
 
 ### Returvärde
 

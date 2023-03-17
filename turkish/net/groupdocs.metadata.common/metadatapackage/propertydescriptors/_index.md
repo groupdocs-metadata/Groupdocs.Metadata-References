@@ -1,14 +1,14 @@
 ---
 title: PropertyDescriptors
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: GroupDocs.Metadata arama motoru aracılığıyla erişilebilen özellikler hakkında bilgi içeren bir tanımlayıcı koleksiyonu alır.
+description: GroupDocs.Metadata arama motoru aracılığıyla erişilebilen özellikler hakkında bilgi içeren tanımlayıcılardan oluşan bir koleksiyon alır.
 type: docs
 weight: 50
 url: /tr/net/groupdocs.metadata.common/metadatapackage/propertydescriptors/
 ---
 ## MetadataPackage.PropertyDescriptors property
 
-GroupDocs.Metadata arama motoru aracılığıyla erişilebilen özellikler hakkında bilgi içeren bir tanımlayıcı koleksiyonu alır.
+GroupDocs.Metadata arama motoru aracılığıyla erişilebilen özellikler hakkında bilgi içeren tanımlayıcılardan oluşan bir koleksiyon alır.
 
 ```csharp
 public IReadOnlyList<PropertyDescriptor> PropertyDescriptors { get; }

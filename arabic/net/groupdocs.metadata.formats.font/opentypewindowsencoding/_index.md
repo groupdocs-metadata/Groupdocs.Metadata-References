@@ -1,14 +1,14 @@
 ---
 title: OpenTypeWindowsEncoding
 second_title: GroupDocs.Metadata لمرجع .NET API
-description: يمثل ترميز ملفاتWindows المنصة.
+description: يمثل ترميز ملفاتWindowsالمنصة.
 type: docs
 weight: 1620
 url: /ar/net/groupdocs.metadata.formats.font/opentypewindowsencoding/
 ---
 ## OpenTypeWindowsEncoding enumeration
 
-يمثل ترميز ملفاتWindows المنصة.
+يمثل ترميز ملفاتWindowsالمنصة.
 
 ```csharp
 public enum OpenTypeWindowsEncoding : ushort

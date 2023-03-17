@@ -1,14 +1,14 @@
 ---
 title: TimecodeScale
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取时间码刻度值 MATROSKA 文件中的每个缩放时间码乘以 TIMECODESCALE 以获得以纳秒为单位的时间码请注意并非所有时间码都被缩放
+description: 获取时间码比例值 MATROSKA 文件中的每个缩放时间码都乘以 TIMECODESCALE 以获得以纳秒为单位的时间码请注意并非所有时间码都按比例缩放
 type: docs
 weight: 70
 url: /zh/net/groupdocs.metadata.formats.video/matroskasegment/timecodescale/
 ---
 ## MatroskaSegment.TimecodeScale property
 
-获取时间码刻度值。 MATROSKA 文件中的每个缩放时间码乘以 TIMECODESCALE 以获得以纳秒为单位的时间码。请注意，并非所有时间码都被缩放！
+获取时间码比例值。 MATROSKA 文件中的每个缩放时间码都乘以 TIMECODESCALE 以获得以纳秒为单位的时间码。请注意，并非所有时间码都按比例缩放！
 
 ```csharp
 public ulong TimecodeScale { get; }
@@ -16,7 +16,7 @@ public ulong TimecodeScale { get; }
 
 ### 适当的价值
 
-时间码刻度值。
+时间码比例值。
 
 ### 也可以看看
 

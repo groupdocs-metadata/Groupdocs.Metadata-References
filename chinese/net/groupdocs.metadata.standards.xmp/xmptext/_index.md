@@ -1,14 +1,14 @@
 ---
 title: XmpText
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示 XMP Text 基本类型
+description: 代表XMP Text基本类型
 type: docs
 weight: 3570
 url: /zh/net/groupdocs.metadata.standards.xmp/xmptext/
 ---
 ## XmpText class
 
-表示 XMP Text 基本类型。
+代表XMP Text基本类型。
 
 ```csharp
 public class XmpText : XmpValueBase
@@ -18,7 +18,7 @@ public class XmpText : XmpValueBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| [XmpText](xmptext)(string) | 初始化[`XmpText`](../xmptext)类. |
+| [XmpText](xmptext)(string) | 初始化一个新的实例[`XmpText`](../xmptext)类. |
 
 ## 特性
 
@@ -36,7 +36,7 @@ public class XmpText : XmpValueBase
 | override [GetXmpRepresentation](../../groupdocs.metadata.standards.xmp/xmptext/getxmprepresentation)() | 以 XMP 格式返回包含字符串的值。 |
 | [ToArray&lt;TElement&gt;](../../groupdocs.metadata.common/propertyvalue/toarray)() | 将属性值转换为指定类型的数组。 |
 | [ToClass&lt;T&gt;](../../groupdocs.metadata.common/propertyvalue/toclass)() | 将属性值转换为引用类型。 |
-| override [ToString](../../groupdocs.metadata.standards.xmp/xmpvaluebase/tostring)() | 返回一个表示属性值的字符串。 |
+| override [ToString](../../groupdocs.metadata.standards.xmp/xmpvaluebase/tostring)() | 返回表示属性值的字符串。 |
 | [ToStruct&lt;T&gt;](../../groupdocs.metadata.common/propertyvalue/tostruct)() | 将属性值转换为值类型。 |
 | [ToStruct&lt;T&gt;](../../groupdocs.metadata.common/propertyvalue/tostruct)(T) | 将属性值转换为值类型。 |
 

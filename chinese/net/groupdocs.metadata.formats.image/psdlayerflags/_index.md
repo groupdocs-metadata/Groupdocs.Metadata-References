@@ -23,9 +23,9 @@ public enum PsdLayerFlags : byte
 | TransparencyProtected | `1` | 透明保护标志。 |
 | Visible | `2` | 可见性标志。 |
 | Obsolete | `4` | 过时的标志。 |
-| HasUsefulInformation | `8` | 定义位 4 是否有有用的信息。 1 适用于 Photoshop 5.0 及更高版本， |
+| HasUsefulInformation | `8` | 定义位 4 是否有有用信息。 1 适用于 Photoshop 5.0 及更高版本， |
 | PixelDataIrrelevantToAppearanceInDocument | `10` | 像素数据与文档中的外观无关。 |
-| Undocumented | `20` | 未记录的标志。 |
+| Undocumented | `20` | 一个未记录的标志。 |
 
 ### 也可以看看
 

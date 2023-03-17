@@ -16,7 +16,7 @@ public PropertyValue(int value)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| value | Int32 | UnInt32 valore. |
+| value | Int32 | UNInt32valore. |
 
 ### Guarda anche
 
@@ -36,7 +36,7 @@ public PropertyValue(long value)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| value | Int64 | UNInt64 valore. |
+| value | Int64 | UNInt64valore. |
 
 ### Guarda anche
 
@@ -56,7 +56,7 @@ public PropertyValue(bool value)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| value | Boolean | UNBoolean valore. |
+| value | Boolean | UNBooleanvalore. |
 
 ### Guarda anche
 
@@ -76,7 +76,7 @@ public PropertyValue(double value)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| value | Double | UNDouble valore. |
+| value | Double | UNDoublevalore. |
 
 ### Guarda anche
 
@@ -96,7 +96,7 @@ public PropertyValue(string value)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| value | String | UNString valore. |
+| value | String | UNStringvalore. |
 
 ### Guarda anche
 
@@ -116,7 +116,7 @@ public PropertyValue(DateTime value)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| value | DateTime | UNDateTime valore. |
+| value | DateTime | UNDateTimevalore. |
 
 ### Guarda anche
 
@@ -136,7 +136,7 @@ public PropertyValue(TimeSpan value)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| value | TimeSpan | UNTimeSpan valore. |
+| value | TimeSpan | UNTimeSpanvalore. |
 
 ### Guarda anche
 
@@ -228,7 +228,7 @@ public PropertyValue(int[] values)
 
 ## PropertyValue(long[]) {#constructor_7}
 
-Inizializza una nuova istanza di[`PropertyValue`](../../propertyvalue)classe con un array di valori lunghi.
+Inizializza una nuova istanza di[`PropertyValue`](../../propertyvalue) classe con un array di valori lunghi.
 
 ```csharp
 public PropertyValue(long[] values)

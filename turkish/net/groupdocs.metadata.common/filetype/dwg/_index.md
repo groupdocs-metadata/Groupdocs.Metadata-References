@@ -1,14 +1,14 @@
 ---
 title: DWG
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: DWG uzantılı dosyalar 2B ve 3B tasarım verilerini içermek için kullanılan tescilli ikili dosyaları temsil eder. Bu dosya hakkında daha fazla bilgi edinin format buradahttps//wiki.fileformat.com/cad/dwg/ .
+description: DWG uzantılı dosyalar 2B ve 3B tasarım verilerini içermek için kullanılan tescilli ikili dosyaları temsil eder. Bu dosya hakkında daha fazla bilgi edinin format Buradahttps//wiki.fileformat.com/cad/dwg/ .
 type: docs
 weight: 130
 url: /tr/net/groupdocs.metadata.common/filetype/dwg/
 ---
 ## FileType.DWG field
 
-DWG uzantılı dosyalar, 2B ve 3B tasarım verilerini içermek için kullanılan tescilli ikili dosyaları temsil eder. Bu dosya hakkında daha fazla bilgi edinin format [burada](https://wiki.fileformat.com/cad/dwg/) .
+DWG uzantılı dosyalar, 2B ve 3B tasarım verilerini içermek için kullanılan tescilli ikili dosyaları temsil eder. Bu dosya hakkında daha fazla bilgi edinin format [Burada](https://wiki.fileformat.com/cad/dwg/) .
 
 ```csharp
 public static readonly FileType DWG;

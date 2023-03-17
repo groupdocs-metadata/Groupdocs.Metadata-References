@@ -1,14 +1,14 @@
 ---
 title: PlateNames
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置打印文档包括包含的任何文档所需的板名的有序数组
+description: 获取或设置打印文档包括包含的文档中的任何内容所需的印版名称的有序数组
 type: docs
 weight: 60
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmppagedtextpackage/platenames/
 ---
 ## XmpPagedTextPackage.PlateNames property
 
-获取或设置打印文档（包括包含的任何文档）所需的板名的有序数组。
+获取或设置打印文档（包括包含的文档中的任何内容）所需的印版名称的有序数组。
 
 ```csharp
 public string[] PlateNames { get; set; }
@@ -16,7 +16,7 @@ public string[] PlateNames { get; set; }
 
 ### 适当的价值
 
-板块名称。
+车牌名称.
 
 ### 也可以看看
 

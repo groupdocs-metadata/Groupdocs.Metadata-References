@@ -34,7 +34,7 @@ public sealed class LyricsTag : CustomPackage
 | [Lyrics](../../groupdocs.metadata.formats.audio/lyricstag/lyrics) { get; set; } | Ruft den Liedtext ab oder legt ihn fest. Dieser Wert wird durch das LYR-Feld dargestellt. |
 | [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | Ruft den Metadatentyp ab. |
 | [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | Ruft eine Sammlung von Deskriptoren ab, die Informationen zu Eigenschaften enthalten, auf die über die Suchmaschine GroupDocs.Metadata zugegriffen werden kann. |
-| [Track](../../groupdocs.metadata.formats.audio/lyricstag/track) { get; set; } | Ruft den Tracktitel ab oder legt ihn fest. Dieser Wert wird durch das ETT-Feld repräsentiert. |
+| [Track](../../groupdocs.metadata.formats.audio/lyricstag/track) { get; set; } | Ruft den Tracktitel ab oder legt ihn fest. Dieser Wert wird durch das ETT-Feld dargestellt. |
 
 ## Methoden
 
@@ -49,7 +49,7 @@ public sealed class LyricsTag : CustomPackage
 | virtual [RemoveProperties](../../groupdocs.metadata.common/metadatapackage/removeproperties)(Func&lt;MetadataProperty, bool&gt;) | Entfernt Metadateneigenschaften, die das angegebene Prädikat erfüllen. |
 | virtual [Sanitize](../../groupdocs.metadata.common/metadatapackage/sanitize)() | Entfernt beschreibbare Metadateneigenschaften aus dem Paket. Der Vorgang ist rekursiv, sodass er sich auch auf alle verschachtelten Pakete auswirkt. |
 | [Set](../../groupdocs.metadata.formats.audio/lyricstag/set)(LyricsField) | Fügt das angegebene Liedtext3-Feld hinzu oder ersetzt es. |
-| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Legt bekannte Metadateneigenschaften fest, die das angegebene Prädikat erfüllen. Die Operation ist rekursiv, sodass sie sich auch auf alle verschachtelten Pakete auswirkt. Diese Methode ist eine Kombination aus[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties) und[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) Wenn eine vorhandene Eigenschaft das Prädikat erfüllt, wird ihr Wert aktualisiert. Wenn im Paket eine bekannte Eigenschaft fehlt, die das Prädikat erfüllt, wird sie dem Paket hinzugefügt. |
+| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Legt bekannte Metadateneigenschaften fest, die das angegebene Prädikat erfüllen. Die Operation ist rekursiv, sodass sie sich auch auf alle verschachtelten Pakete auswirkt. Diese Methode ist eine Kombination aus[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties) Und[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) Wenn eine vorhandene Eigenschaft das Prädikat erfüllt, wird ihr Wert aktualisiert. Wenn im Paket eine bekannte Eigenschaft fehlt, die das Prädikat erfüllt, wird sie dem Paket hinzugefügt. |
 | [ToList](../../groupdocs.metadata.formats.audio/lyricstag/tolist)() | Erstellt eine Liste aus dem Paket. |
 | [UpdateProperties](../../groupdocs.metadata.common/metadatapackage/updateproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Aktualisiert bekannte Metadateneigenschaften, die das angegebene Prädikat erfüllen. Die Operation ist rekursiv, sodass sie sich auch auf alle verschachtelten Pakete auswirkt. |
 
@@ -57,7 +57,7 @@ public sealed class LyricsTag : CustomPackage
 
 Lyrics3 v2.00 verwendet Felder zur Darstellung von Informationen. Die Daten in einem Feld können laut Standard aus ASCII-Zeichen im Bereich von 01 bis 254 bestehen. Da die ASCII-Zeichentabelle nur von 00 bis 128 ISO-8859- 1 könnte angenommen werden. Numerische Felder sind je nach Standort 5 oder 6 Zeichen lang und werden mit Nullen aufgefüllt.
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * [Handhabung des Lyrics-Tags](https://docs.groupdocs.com/display/metadatanet/Handling+the+Lyrics+tag)
 

@@ -1,14 +1,14 @@
 ---
 title: Name
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取图片资源块名称
+description: 获取图像资源块名称
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.formats.image/imageresourceblock/name/
 ---
 ## ImageResourceBlock.Name property
 
-获取图片资源块名称。
+获取图像资源块名称。
 
 ```csharp
 public string Name { get; }

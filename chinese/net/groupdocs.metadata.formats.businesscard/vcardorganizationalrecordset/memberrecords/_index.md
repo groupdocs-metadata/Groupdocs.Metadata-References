@@ -1,14 +1,14 @@
 ---
 title: MemberRecords
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取此 vCard 所代表的组中的成员
+description: 获取此 vCard 代表的组中的成员
 type: docs
 weight: 80
 url: /zh/net/groupdocs.metadata.formats.businesscard/vcardorganizationalrecordset/memberrecords/
 ---
 ## VCardOrganizationalRecordset.MemberRecords property
 
-获取此 vCard 所代表的组中的成员。
+获取此 vCard 代表的组中的成员。
 
 ```csharp
 public VCardTextRecord[] MemberRecords { get; }
@@ -16,7 +16,7 @@ public VCardTextRecord[] MemberRecords { get; }
 
 ### 适当的价值
 
-此 vCard 所代表的组中的成员。
+此 vCard 代表的组中的成员。
 
 ### 也可以看看
 

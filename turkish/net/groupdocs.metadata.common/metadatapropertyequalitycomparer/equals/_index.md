@@ -21,7 +21,7 @@ public bool Equals(MetadataProperty x, MetadataProperty y)
 
 ### Geri dönüş değeri
 
-`true` belirtilen nesneler eşit ise; aksi halde,`false`.
+`true` belirtilen nesneler eşit ise; aksi takdirde,`false`.
 
 ### Ayrıca bakınız
 

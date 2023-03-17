@@ -16,7 +16,7 @@ public string CameraModel { get; set; }
 
 ### 适当的价值
 
-用于拍摄的相机的品牌和型号。
+用于拍摄的相机品牌和型号。
 
 ### 也可以看看
 

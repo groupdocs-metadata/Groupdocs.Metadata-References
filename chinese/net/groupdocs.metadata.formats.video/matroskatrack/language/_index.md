@@ -1,14 +1,14 @@
 ---
 title: Language
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 以 Matroska 语言形式获取曲目的语言 如果LanguageIetfgroupdocs.metadata.formats.video/matroskatrack/languageietf元素在同一个TrackEntry. 中使用
+description: 获取 Matroska 语言形式的轨道语言 如果LanguageIetfgroupdocs.metadata.formats.video/matroskatrack/languageietfElement用在同一个TrackEntry.
 type: docs
 weight: 50
 url: /zh/net/groupdocs.metadata.formats.video/matroskatrack/language/
 ---
 ## MatroskaTrack.Language property
 
-以 Matroska 语言形式获取曲目的语言。 如果[`LanguageIetf`](../languageietf)元素在同一个TrackEntry. 中使用
+获取 Matroska 语言形式的轨道语言。 如果[`LanguageIetf`](../languageietf)Element用在同一个TrackEntry.
 
 ```csharp
 public string Language { get; }
@@ -16,11 +16,11 @@ public string Language { get; }
 
 ### 适当的价值
 
-Matroska 语言形式的曲目语言。
+轨道语言采用 Matroska 语言形式。
 
 ### 评论
 
-语言代码可以是 3 个字母的书目 ISO-639-2 形式（如法语的“fre”）、 或此类语言代码后跟破折号和语言专业的国家代码（如“fre-ca”加拿大法语）。 国家代码与用于互联网域的代码相同。
+语言代码可以是 3 个字母的书目 ISO-639-2 形式（如法语的“fre”）， 或这样的语言代码后跟破折号和语言专业的国家代码（如“fre-ca”加拿大法语）。 国家代码与用于互联网域的国家代码相同。
 
 ### 也可以看看
 

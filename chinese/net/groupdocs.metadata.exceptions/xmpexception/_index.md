@@ -1,14 +1,14 @@
 ---
 title: XmpException
 second_title: GroupDocs.Metadata for .NET API 参考
-description: XMP 结构无效时抛出的异常
+description: XMP 具有无效结构时抛出的异常
 type: docs
 weight: 310
 url: /zh/net/groupdocs.metadata.exceptions/xmpexception/
 ---
 ## XmpException class
 
-XMP 结构无效时抛出的异常。
+XMP 具有无效结构时抛出的异常。
 
 ```csharp
 public sealed class XmpException : GroupDocsMetadataException
@@ -18,9 +18,9 @@ public sealed class XmpException : GroupDocsMetadataException
 
 | 姓名 | 描述 |
 | --- | --- |
-| [XmpException](xmpexception#constructor)() | 初始化[`XmpException`](../xmpexception)类. |
-| [XmpException](xmpexception#constructor_1)(string) | 初始化[`XmpException`](../xmpexception)类. |
-| [XmpException](xmpexception#constructor_2)(string, Exception) | 初始化[`XmpException`](../xmpexception)类. |
+| [XmpException](xmpexception#constructor)() | 初始化一个新的实例[`XmpException`](../xmpexception)类. |
+| [XmpException](xmpexception#constructor_1)(string) | 初始化一个新的实例[`XmpException`](../xmpexception)类. |
+| [XmpException](xmpexception#constructor_2)(string, Exception) | 初始化一个新的实例[`XmpException`](../xmpexception)类. |
 
 ### 也可以看看
 

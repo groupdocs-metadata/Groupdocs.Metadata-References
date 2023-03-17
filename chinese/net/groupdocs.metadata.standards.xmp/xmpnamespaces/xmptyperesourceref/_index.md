@@ -1,14 +1,14 @@
 ---
 title: XmpTypeResourceRef
 second_title: GroupDocs.Metadata for .NET API 参考
-description: XMP 资源引用 URI.
+description: XMP ResourceRef URI.
 type: docs
 weight: 220
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpnamespaces/xmptyperesourceref/
 ---
 ## XmpNamespaces.XmpTypeResourceRef field
 
-XMP 资源引用 URI.
+XMP ResourceRef URI.
 
 ```csharp
 public const string XmpTypeResourceRef;

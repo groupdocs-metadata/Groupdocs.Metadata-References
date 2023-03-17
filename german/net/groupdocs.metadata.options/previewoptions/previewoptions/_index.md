@@ -1,14 +1,14 @@
 ---
 title: PreviewOptions
 second_title: GroupDocs.Metadata für .NET-API-Referenz
-description: Initialisiert eine neue Instanz vonPreviewOptionsgroupdocs.metadata.options/previewoptionsKlasse bewirkt dass der Ausgabestrom geschlossen wird.
+description: Initialisiert eine neue Instanz vonPreviewOptionsgroupdocs.metadata.options/previewoptions Klasse bewirkt dass der Ausgabestrom geschlossen wird.
 type: docs
 weight: 10
 url: /de/net/groupdocs.metadata.options/previewoptions/previewoptions/
 ---
 ## PreviewOptions(CreatePageStream) {#constructor}
 
-Initialisiert eine neue Instanz von[`PreviewOptions`](../../previewoptions)Klasse bewirkt, dass der Ausgabestrom geschlossen wird.
+Initialisiert eine neue Instanz von[`PreviewOptions`](../../previewoptions) Klasse bewirkt, dass der Ausgabestrom geschlossen wird.
 
 ```csharp
 public PreviewOptions(CreatePageStream createPageStream)

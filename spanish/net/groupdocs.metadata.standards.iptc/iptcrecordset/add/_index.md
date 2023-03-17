@@ -1,14 +1,14 @@
 ---
 title: Add
 second_title: Referencia de API de GroupDocs.Metadata para .NET
-description: Agrega el conjunto de datos especificado al registro apropiado. El conjunto de datos se considera repetible si ya existe un conjunto de datos con el número especificado.
+description: Agrega el conjunto de datos especificado al registro correspondiente. El conjunto de datos se considera repetible si ya existe un conjunto de datos con el número especificado.
 type: docs
 weight: 50
 url: /es/net/groupdocs.metadata.standards.iptc/iptcrecordset/add/
 ---
 ## IptcRecordSet.Add method
 
-Agrega el conjunto de datos especificado al registro apropiado. El conjunto de datos se considera repetible si ya existe un conjunto de datos con el número especificado.
+Agrega el conjunto de datos especificado al registro correspondiente. El conjunto de datos se considera repetible si ya existe un conjunto de datos con el número especificado.
 
 ```csharp
 public void Add(IptcDataSet dataSet)

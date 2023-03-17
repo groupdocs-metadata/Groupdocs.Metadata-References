@@ -16,7 +16,7 @@ public bool MultiBurstMode { get; }
 
 ### Eigentumswert
 
-`Stimmt` wenn der Multi-Burst-Modus eingeschaltet ist; Andernfalls,`FALSCH` .
+`WAHR` wenn der Multi-Burst-Modus eingeschaltet ist; ansonsten,`FALSCH` .
 
 ### Siehe auch
 

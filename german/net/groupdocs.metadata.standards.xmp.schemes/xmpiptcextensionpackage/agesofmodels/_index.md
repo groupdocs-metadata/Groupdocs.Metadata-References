@@ -1,14 +1,14 @@
 ---
 title: AgesOfModels
 second_title: GroupDocs.Metadata für .NET-API-Referenz
-description: Ruft das Alter der menschlichen Modelle ab oder legt es fest als dieses Bild in einem von einem Modell freigegebenen Bild aufgenommen wurde.
+description: Ruft das Alter der menschlichen Modelle ab oder legt es fest als dieses Bild in einem von einem Modell veröffentlichten Bild aufgenommen wurde.
 type: docs
 weight: 30
 url: /de/net/groupdocs.metadata.standards.xmp.schemes/xmpiptcextensionpackage/agesofmodels/
 ---
 ## XmpIptcExtensionPackage.AgesOfModels property
 
-Ruft das Alter der menschlichen Modelle ab oder legt es fest, als dieses Bild in einem von einem Modell freigegebenen Bild aufgenommen wurde.
+Ruft das Alter der menschlichen Modelle ab oder legt es fest, als dieses Bild in einem von einem Modell veröffentlichten Bild aufgenommen wurde.
 
 ```csharp
 public int[] AgesOfModels { get; set; }

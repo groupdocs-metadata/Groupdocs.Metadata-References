@@ -1,14 +1,14 @@
 ---
 title: IptcApplicationRecord
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化IptcApplicationRecordgroupdocs.metadata.standards.iptc/iptcapplicationrecord类.
+description: 初始化一个新的实例IptcApplicationRecordgroupdocs.metadata.standards.iptc/iptcapplicationrecord类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.iptc/iptcapplicationrecord/iptcapplicationrecord/
 ---
 ## IptcApplicationRecord constructor
 
-初始化[`IptcApplicationRecord`](../../iptcapplicationrecord)类.
+初始化一个新的实例[`IptcApplicationRecord`](../../iptcapplicationrecord)类.
 
 ```csharp
 public IptcApplicationRecord()

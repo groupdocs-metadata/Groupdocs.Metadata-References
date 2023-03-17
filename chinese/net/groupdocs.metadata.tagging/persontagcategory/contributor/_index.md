@@ -1,14 +1,14 @@
 ---
 title: Contributor
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取标记属性的标签该属性包含以某种方式为文件创建做出贡献的人的姓名 请注意该标签不适用于标有此类别中更具体标签的元数据属性 例如如果属性标有 Creator 标记
+description: 获取标记属性的标签该属性包含以某种方式对文件创建做出贡献的人的姓名 请注意该标签不适用于标有此类别的更具体标签的元数据属性 例如如果属性标有 Creator 标签
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.tagging/persontagcategory/contributor/
 ---
 ## PersonTagCategory.Contributor property
 
-获取标记属性的标签，该属性包含以某种方式为文件创建做出贡献的人的姓名。 请注意，该标签不适用于标有此类别中更具体标签的元数据属性。 例如，如果属性标有 Creator 标记。
+获取标记属性的标签，该属性包含以某种方式对文件创建做出贡献的人的姓名。 请注意，该标签不适用于标有此类别的更具体标签的元数据属性。 例如，如果属性标有 Creator 标签。
 
 ```csharp
 public PropertyTag Contributor { get; }
@@ -16,7 +16,7 @@ public PropertyTag Contributor { get; }
 
 ### 适当的价值
 
-标记属性的标签，其中包含以某种方式为文件创建做出贡献的人的姓名。
+标记属性的标签，其中包含以某种方式对文件创建做出贡献的人的姓名。
 
 ### 也可以看看
 

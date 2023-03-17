@@ -16,7 +16,7 @@ public AviHeader Header { get; }
 
 ### Fastighetsvärde
 
-AVI-headerpaketet.
+AVI-huvudpaketet.
 
 ### Anmärkningar
 

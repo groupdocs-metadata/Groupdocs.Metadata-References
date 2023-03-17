@@ -1,14 +1,14 @@
 ---
 title: IsFormatOf
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置与描述的资源基本相同但格式不同的预先存在的相关资源
+description: 获取或设置一个预先存在的相关资源该资源与描述的资源基本相同但格式不同
 type: docs
 weight: 290
 url: /zh/net/groupdocs.metadata.formats.ebook/epubpackage/isformatof/
 ---
 ## EpubPackage.IsFormatOf property
 
-获取或设置与描述的资源基本相同但格式不同的预先存在的相关资源。
+获取或设置一个预先存在的相关资源，该资源与描述的资源基本相同，但格式不同。
 
 ```csharp
 public string IsFormatOf { get; set; }
@@ -16,7 +16,7 @@ public string IsFormatOf { get; set; }
 
 ### 适当的价值
 
-预先存在的相关资源，与所描述的资源基本相同，但格式不同。
+与描述的资源基本相同但格式不同的预先存在的相关资源。
 
 ### 也可以看看
 

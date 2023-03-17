@@ -1,14 +1,14 @@
 ---
 title: B
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置B组件
+description: 获取或设置 B 分量
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpcolorantlab/b/
 ---
 ## XmpColorantLab.B property
 
-获取或设置B组件。
+获取或设置 B 分量。
 
 ```csharp
 public sbyte? B { get; set; }
@@ -16,7 +16,7 @@ public sbyte? B { get; set; }
 
 ### 适当的价值
 
-B 组件。
+B 分量.
 
 ### 也可以看看
 

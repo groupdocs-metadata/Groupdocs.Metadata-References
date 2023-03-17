@@ -1,14 +1,14 @@
 ---
 title: Comments
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取 JPEG2000 评论
+description: 获取 JPEG2000 注释
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.image/jpeg2000package/comments/
 ---
 ## Jpeg2000Package.Comments property
 
-获取 JPEG2000 评论。
+获取 JPEG2000 注释。
 
 ```csharp
 public string[] Comments { get; }

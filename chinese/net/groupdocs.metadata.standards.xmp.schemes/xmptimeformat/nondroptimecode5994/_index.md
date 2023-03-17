@@ -1,14 +1,14 @@
 ---
 title: NonDropTimecode5994
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取 5994NonDropTimecode.
+description: 获取 5994NonDropTimecode
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmptimeformat/nondroptimecode5994/
 ---
 ## XmpTimeFormat.NonDropTimecode5994 property
 
-获取 5994NonDropTimecode.
+获取 5994NonDropTimecode。
 
 ```csharp
 public static XmpTimeFormat NonDropTimecode5994 { get; }

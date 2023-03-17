@@ -16,7 +16,7 @@ public int? Saturation { get; }
 
 ### 适当的价值
 
-饱和度。
+饱和度.
 
 ### 也可以看看
 

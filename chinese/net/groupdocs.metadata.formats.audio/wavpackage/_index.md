@@ -1,14 +1,14 @@
 ---
 title: WavPackage
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示 WAV 音频文件中的原生元数据包
+description: 表示 WAV 音频文件中的本机元数据包
 type: docs
 weight: 590
 url: /zh/net/groupdocs.metadata.formats.audio/wavpackage/
 ---
 ## WavPackage class
 
-表示 WAV 音频文件中的原生元数据包。
+表示 WAV 音频文件中的本机元数据包。
 
 ```csharp
 public sealed class WavPackage : CustomPackage
@@ -18,7 +18,7 @@ public sealed class WavPackage : CustomPackage
 
 | 姓名 | 描述 |
 | --- | --- |
-| [WavPackage](wavpackage)() | 初始化[`WavPackage`](../wavpackage)类. |
+| [WavPackage](wavpackage)() | 初始化一个新的实例[`WavPackage`](../wavpackage)类. |
 
 ## 特性
 
@@ -27,9 +27,9 @@ public sealed class WavPackage : CustomPackage
 | [AudioFormat](../../groupdocs.metadata.formats.audio/wavpackage/audioformat) { get; } | 获取音频格式。 PCM = 1（即线性量化）。 1 以外的值表示某种形式的压缩。 |
 | [BitsPerSample](../../groupdocs.metadata.formats.audio/wavpackage/bitspersample) { get; } | 获取每个样本值的位数。 |
 | [BlockAlign](../../groupdocs.metadata.formats.audio/wavpackage/blockalign) { get; } | 获取块对齐。 |
-| [ByteRate](../../groupdocs.metadata.formats.audio/wavpackage/byterate) { get; } | 获取字节速率。 |
+| [ByteRate](../../groupdocs.metadata.formats.audio/wavpackage/byterate) { get; } | 获取字节率。 |
 | [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | 获取元数据属性的数量。 |
-| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定的名称。 |
+| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定名称. |
 | [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | 获取元数据属性名称的集合。 |
 | [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | 获取元数据类型。 |
 | [NumberOfChannels](../../groupdocs.metadata.formats.audio/wavpackage/numberofchannels) { get; } | 获取通道数。 |
@@ -46,12 +46,12 @@ public sealed class WavPackage : CustomPackage
 | [GetEnumerator](../../groupdocs.metadata.common/metadatapackage/getenumerator)() | 返回一个遍历集合的枚举器。 |
 | virtual [RemoveProperties](../../groupdocs.metadata.common/metadatapackage/removeproperties)(Func&lt;MetadataProperty, bool&gt;) | 删除满足指定谓词的元数据属性。 |
 | virtual [Sanitize](../../groupdocs.metadata.common/metadatapackage/sanitize)() | 从包中删除可写元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
-| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
+| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是以下方法的组合[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
 | [UpdateProperties](../../groupdocs.metadata.common/metadatapackage/updateproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 更新满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [处理 WAV 文件中的元数据](https://docs.groupdocs.com/display/metadatanet/Handling+metadata+in+WAV+files)
 

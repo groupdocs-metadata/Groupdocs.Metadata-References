@@ -20,13 +20,13 @@ ASF 元数据包。
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [使用 ASF 文件中的元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+Metadata+in+ASF+Files)
 
 ### 例子
 
-此代码示例演示如何读取本机 ASF 元数据。
+此代码示例演示了如何读取原生 ASF 元数据。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.InputAsf))

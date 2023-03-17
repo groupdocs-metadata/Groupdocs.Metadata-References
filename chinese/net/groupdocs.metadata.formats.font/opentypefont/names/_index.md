@@ -1,14 +1,14 @@
 ---
 title: Names
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取名称记录
+description: 获取姓名记录
 type: docs
 weight: 130
 url: /zh/net/groupdocs.metadata.formats.font/opentypefont/names/
 ---
 ## OpenTypeFont.Names property
 
-获取名称记录。
+获取姓名记录。
 
 ```csharp
 public OpenTypeBaseNameRecord[] Names { get; }
@@ -16,7 +16,7 @@ public OpenTypeBaseNameRecord[] Names { get; }
 
 ### 适当的价值
 
-姓名记录。
+名字记载。
 
 ### 也可以看看
 

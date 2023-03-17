@@ -1,14 +1,14 @@
 ---
 title: ReleaseDate
 second_title: Referencia de API de GroupDocs.Metadata para .NET
-description: Obtiene o establece la fecha de lanzamiento del título.
+description: Obtiene o establece la fecha de publicación del título.
 type: docs
 weight: 350
 url: /es/net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/releasedate/
 ---
 ## XmpDynamicMediaPackage.ReleaseDate property
 
-Obtiene o establece la fecha de lanzamiento del título.
+Obtiene o establece la fecha de publicación del título.
 
 ```csharp
 public DateTime? ReleaseDate { get; set; }

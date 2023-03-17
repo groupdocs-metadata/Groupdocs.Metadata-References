@@ -16,7 +16,7 @@ public TiffRational[] Latitude { get; set; }
 
 ### 适当的价值
 
-纬度。
+纬度.
 
 ### 也可以看看
 

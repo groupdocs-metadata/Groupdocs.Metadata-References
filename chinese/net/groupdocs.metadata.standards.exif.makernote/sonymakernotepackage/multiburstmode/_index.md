@@ -1,14 +1,14 @@
 ---
 title: MultiBurstMode
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取一个值该值指示多突发模式是否开启
+description: 获取指示多突发模式是否打开的值
 type: docs
 weight: 150
 url: /zh/net/groupdocs.metadata.standards.exif.makernote/sonymakernotepackage/multiburstmode/
 ---
 ## SonyMakerNotePackage.MultiBurstMode property
 
-获取一个值，该值指示多突发模式是否开启。
+获取指示多突发模式是否打开的值。
 
 ```csharp
 public bool MultiBurstMode { get; }
@@ -16,7 +16,7 @@ public bool MultiBurstMode { get; }
 
 ### 适当的价值
 
-`真的`如果多连发模式开启；否则，`错误的`.
+`真的`如果多突发模式打开；否则，`错误的`.
 
 ### 也可以看看
 

@@ -16,7 +16,7 @@ public PropertyValue(int value)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| value | Int32 | EinInt32 Wert. |
+| value | Int32 | EinInt32Wert. |
 
 ### Siehe auch
 
@@ -36,7 +36,7 @@ public PropertyValue(long value)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| value | Int64 | EINInt64 Wert. |
+| value | Int64 | AInt64Wert. |
 
 ### Siehe auch
 
@@ -56,7 +56,7 @@ public PropertyValue(bool value)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| value | Boolean | EINBoolean Wert. |
+| value | Boolean | ABooleanWert. |
 
 ### Siehe auch
 
@@ -76,7 +76,7 @@ public PropertyValue(double value)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| value | Double | EINDouble Wert. |
+| value | Double | ADoubleWert. |
 
 ### Siehe auch
 
@@ -96,7 +96,7 @@ public PropertyValue(string value)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| value | String | EINString Wert. |
+| value | String | AStringWert. |
 
 ### Siehe auch
 
@@ -116,7 +116,7 @@ public PropertyValue(DateTime value)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| value | DateTime | EINDateTime Wert. |
+| value | DateTime | ADateTimeWert. |
 
 ### Siehe auch
 
@@ -136,7 +136,7 @@ public PropertyValue(TimeSpan value)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| value | TimeSpan | EINTimeSpan Wert. |
+| value | TimeSpan | ATimeSpanWert. |
 
 ### Siehe auch
 
@@ -228,7 +228,7 @@ public PropertyValue(int[] values)
 
 ## PropertyValue(long[]) {#constructor_7}
 
-Initialisiert eine neue Instanz von[`PropertyValue`](../../propertyvalue)Klasse mit einem Array von langen Werten.
+Initialisiert eine neue Instanz von[`PropertyValue`](../../propertyvalue) Klasse mit einem Array von langen Werten.
 
 ```csharp
 public PropertyValue(long[] values)

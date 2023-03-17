@@ -1,14 +1,14 @@
 ---
 title: NikonMakerNotePackage
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化NikonMakerNotePackagegroupdocs.metadata.standards.exif.makernote/nikonmakernotepackage类.
+description: 初始化一个新的实例NikonMakerNotePackagegroupdocs.metadata.standards.exif.makernote/nikonmakernotepackage类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.exif.makernote/nikonmakernotepackage/nikonmakernotepackage/
 ---
 ## NikonMakerNotePackage constructor
 
-初始化[`NikonMakerNotePackage`](../../nikonmakernotepackage)类.
+初始化一个新的实例[`NikonMakerNotePackage`](../../nikonmakernotepackage)类.
 
 ```csharp
 public NikonMakerNotePackage(TiffTag[] tags)

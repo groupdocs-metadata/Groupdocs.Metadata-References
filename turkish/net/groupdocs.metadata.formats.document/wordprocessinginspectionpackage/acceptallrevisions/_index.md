@@ -1,14 +1,14 @@
 ---
 title: AcceptAllRevisions
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: Belgede algılanan tüm revizyonları kabul eder.
+description: Belgede algılanan tüm düzeltmeleri kabul eder.
 type: docs
 weight: 60
 url: /tr/net/groupdocs.metadata.formats.document/wordprocessinginspectionpackage/acceptallrevisions/
 ---
 ## WordProcessingInspectionPackage.AcceptAllRevisions method
 
-Belgede algılanan tüm revizyonları kabul eder.
+Belgede algılanan tüm düzeltmeleri kabul eder.
 
 ```csharp
 public void AcceptAllRevisions()

@@ -1,14 +1,14 @@
 ---
 title: OpenTypeWindowsNameRecord
 second_title: Referencia de API de GroupDocs.Metadata para .NET
-description: Representa el valor de la tabla de registro de nombres paraWindows plataforma.
+description: Representa el valor de la tabla de registro de nombres paraWindowsplataforma.
 type: docs
 weight: 1640
 url: /es/net/groupdocs.metadata.formats.font/opentypewindowsnamerecord/
 ---
 ## OpenTypeWindowsNameRecord class
 
-Representa el valor de la tabla de registro de nombres paraWindows plataforma.
+Representa el valor de la tabla de registro de nombres paraWindowsplataforma.
 
 ```csharp
 public class OpenTypeWindowsNameRecord : OpenTypeBaseNameRecord

@@ -1,14 +1,14 @@
 ---
 title: J2K
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: JPEG 2000 J2K bir görüntü kodlama sistemi ve en gelişmiş görüntü sıkıştırma standardıdır. Dalgacık teknolojisi kullanılarak tasarlanmıştır JPEG 2000 herhangi bir kalitede kayıpsız içeriği tek seferde kodlayabilir. Bu dosya biçimi hakkında daha fazla bilgi edinin buradahttps//wiki.fileformat.com/image/j2k/ .
+description: JPEG 2000 J2K bir görüntü kodlama sistemi ve en gelişmiş görüntü sıkıştırma standardıdır. Dalgacık teknolojisi kullanılarak tasarlanmıştır JPEG 2000 herhangi bir kalitede kayıpsız içeriği tek seferde kodlayabilir. Bu dosya biçimi hakkında daha fazla bilgi edinin Buradahttps//wiki.fileformat.com/image/j2k/ .
 type: docs
 weight: 220
 url: /tr/net/groupdocs.metadata.common/filetype/j2k/
 ---
 ## FileType.J2K field
 
-JPEG 2000 (J2K), bir görüntü kodlama sistemi ve en gelişmiş görüntü sıkıştırma standardıdır. Dalgacık teknolojisi kullanılarak tasarlanmıştır JPEG 2000, herhangi bir kalitede kayıpsız içeriği tek seferde kodlayabilir. Bu dosya biçimi hakkında daha fazla bilgi edinin [burada](https://wiki.fileformat.com/image/j2k/) .
+JPEG 2000 (J2K), bir görüntü kodlama sistemi ve en gelişmiş görüntü sıkıştırma standardıdır. Dalgacık teknolojisi kullanılarak tasarlanmıştır JPEG 2000, herhangi bir kalitede kayıpsız içeriği tek seferde kodlayabilir. Bu dosya biçimi hakkında daha fazla bilgi edinin [Burada](https://wiki.fileformat.com/image/j2k/) .
 
 ```csharp
 public static readonly FileType J2K;

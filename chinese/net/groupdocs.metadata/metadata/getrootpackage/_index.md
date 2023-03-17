@@ -1,14 +1,14 @@
 ---
 title: GetRootPackage
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取提供对从文件中提取的所有元数据属性的访问权限的根包
+description: 获取根包提供对从文件中提取的所有元数据属性的访问权限
 type: docs
 weight: 80
 url: /zh/net/groupdocs.metadata/metadata/getrootpackage/
 ---
 ## GetRootPackage() {#getrootpackage}
 
-获取提供对从文件中提取的所有元数据属性的访问权限的根包。
+获取根包，提供对从文件中提取的所有元数据属性的访问权限。
 
 ```csharp
 public RootMetadataPackage GetRootPackage()
@@ -16,17 +16,17 @@ public RootMetadataPackage GetRootPackage()
 
 ### 返回值
 
-提供对从文件中提取的所有元数据属性的访问权限的根包。
+根包提供对从文件中提取的所有元数据属性的访问。
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [遍历整个元数据树](https://docs.groupdocs.com/display/metadatanet/Traverse+a+whole+metadata+tree)
 
 ### 例子
 
-此示例演示如何遍历特定文件的整个元数据树，而不管格式如何。
+此示例演示如何遍历特定文件的整个元数据树，而不考虑格式。
 
 ```csharp
 public static void Run()
@@ -86,7 +86,7 @@ private static void DisplayMetadataTree(MetadataPackage[] packages, int indent)
 
 ## GetRootPackage&lt;TRoot&gt;() {#getrootpackage_1}
 
-获取提供对从文件中提取的所有元数据属性的访问权限的根包。
+获取根包，提供对从文件中提取的所有元数据属性的访问权限。
 
 ```csharp
 public TRoot GetRootPackage<TRoot>()
@@ -99,11 +99,11 @@ public TRoot GetRootPackage<TRoot>()
 
 ### 返回值
 
-提供对从文件中提取的所有元数据属性的访问权限的根包。
+根包提供对从文件中提取的所有元数据属性的访问。
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [遍历整个元数据树](https://docs.groupdocs.com/display/metadatanet/Traverse+a+whole+metadata+tree)
 

@@ -16,7 +16,7 @@ public byte ReadVersion { get; }
 
 ### 适当的价值
 
-EBML 解析器需要符合的最低版本才能读取文件。
+EBML 解析器需要兼容才能读取文件的最低版本。
 
 ### 也可以看看
 

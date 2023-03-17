@@ -16,7 +16,7 @@ public XmpBasicJobTicketPackage BasicJobTicket { get; set; }
 
 ### 适当的价值
 
-XMP 作业票命名空间。
+XMP 作业单命名空间。
 
 ### 也可以看看
 

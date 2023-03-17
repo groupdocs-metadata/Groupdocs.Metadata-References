@@ -20,7 +20,7 @@ public IptcRecord this[byte recordNumber] { get; }
 
 ### Rückgabewert
 
-Das[`IptcRecord`](../../iptcrecord)mit der angegebenen Nummer, falls gefunden; sonst null.
+Der[`IptcRecord`](../../iptcrecord)mit der angegebenen Nummer, falls gefunden; sonst null.
 
 ### Siehe auch
 
@@ -46,7 +46,7 @@ public IptcDataSet this[byte recordNumber, byte dataSetNumber] { get; }
 
 ### Rückgabewert
 
-Das[`IptcDataSet`](../../iptcdataset) mit der angegebenen Satz- und Datensatznummer.
+Der[`IptcDataSet`](../../iptcdataset) mit der angegebenen Satz- und Datensatznummer.
 
 ### Siehe auch
 

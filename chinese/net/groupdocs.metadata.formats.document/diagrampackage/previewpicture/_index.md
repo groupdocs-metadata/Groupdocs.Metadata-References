@@ -16,7 +16,7 @@ public byte[] PreviewPicture { get; set; }
 
 ### 适当的价值
 
-预览图片。
+预览图片.
 
 ### 也可以看看
 

@@ -58,7 +58,7 @@ public enum ImageResourceID
 | ExifData1Photoshop7 | `1058` | данные EXIF 1,[узнать больше](http://www.kodak.com/global/plugins/acrobat/en/service/digCam/exifStandard2.pdf) . |
 | ExifData3Photoshop7 | `1059` | [ EXIF-данные 3.](http://www.kodak.com/global/plugins/acrobat/en/service/digCam/exifStandard2.pdf) |
 | XmpPhotoshop7 | `1060` | Метаданные XMP. Информация о файле в виде XML-описания,[узнать больше](http://www.adobe.com/devnet/xmp) . |
-| CaptionDigestPhotoshop7 | `1061` | Дайджест титров. 16 байт: RSA Data Security, алгоритм дайджеста сообщения MD5. |
+| CaptionDigestPhotoshop7 | `1061` | Дайджест титров. 16 байт: RSA Data Security, алгоритм дайджеста сообщений MD5. |
 | PrintScalePhotoshop7 | `1062` | Масштаб печати. Стиль 2 байта (0 = по центру, 1 = по размеру, 2 = определяется пользователем). 4 байта x местоположение (с плавающей запятой). 4 байта y местоположение (с плавающей запятой). 4-байтовая шкала (с плавающей запятой). |
 | PixelAspectRatio | `1064` | Пиксельное соотношение сторон. 4 байта (версия = 1 или 2), 8 байтов двойные, x/y пикселя. Версия 2, попытка исправить значения для NTSC и PAL, ранее отключенные с коэффициентом прибл. 5%. |
 | LayerComps | `1065` | Композиции слоев. 4 байта (версия дескриптора = 16), Descriptor. |

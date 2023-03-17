@@ -1,14 +1,14 @@
 ---
 title: DisplayHeight
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取要显示的视频帧的高度 应用于裁剪后的视频帧PixelCrop Elements
+description: 获取要显示的视频帧的高度 适用于裁剪后的视频帧PixelCrop 元素
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.formats.video/matroskavideotrack/displayheight/
 ---
 ## MatroskaVideoTrack.DisplayHeight property
 
-获取要显示的视频帧的高度。 应用于裁剪后的视频帧（PixelCrop* Elements）。
+获取要显示的视频帧的高度。 适用于裁剪后的视频帧（PixelCrop* 元素）。
 
 ```csharp
 public ulong? DisplayHeight { get; }

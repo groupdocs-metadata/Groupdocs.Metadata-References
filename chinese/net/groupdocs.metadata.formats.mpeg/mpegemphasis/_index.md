@@ -18,7 +18,7 @@ public enum MpegEmphasis
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| None | `0` | 没有强调指示。 |
+| None | `0` | 无强调指示。 |
 | Ms5015 | `1` | 50/15 毫秒. |
 | Reserved | `2` | 保留。 |
 | CcitJ17 | `3` | CCIT J.17. |

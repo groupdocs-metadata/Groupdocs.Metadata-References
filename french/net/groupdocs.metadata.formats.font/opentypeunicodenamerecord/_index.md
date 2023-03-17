@@ -1,14 +1,14 @@
 ---
 title: OpenTypeUnicodeNameRecord
 second_title: Référence de l'API GroupDocs.Metadata pour .NET
-description: Représente la valeur de la table denregistrement de nom pour leUnicode plateforme.
+description: Représente la valeur de la table denregistrement de nom pour leUnicodeplateforme.
 type: docs
 weight: 1580
 url: /fr/net/groupdocs.metadata.formats.font/opentypeunicodenamerecord/
 ---
 ## OpenTypeUnicodeNameRecord class
 
-Représente la valeur de la table d'enregistrement de nom pour leUnicode plate-forme.
+Représente la valeur de la table d'enregistrement de nom pour leUnicodeplate-forme.
 
 ```csharp
 public class OpenTypeUnicodeNameRecord : OpenTypeBaseNameRecord

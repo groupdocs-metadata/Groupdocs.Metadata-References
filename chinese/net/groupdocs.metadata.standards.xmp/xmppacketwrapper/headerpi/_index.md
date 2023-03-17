@@ -1,14 +1,14 @@
 ---
 title: HeaderPI
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置头部处理指令
+description: 获取或设置表头处理指令
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.standards.xmp/xmppacketwrapper/headerpi/
 ---
 ## XmpPacketWrapper.HeaderPI property
 
-获取或设置头部处理指令。
+获取或设置表头处理指令。
 
 ```csharp
 public XmpHeaderPI HeaderPI { get; set; }
@@ -16,7 +16,7 @@ public XmpHeaderPI HeaderPI { get; set; }
 
 ### 适当的价值
 
-头部处理指令。
+header 处理指令。
 
 ### 也可以看看
 

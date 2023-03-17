@@ -1,14 +1,14 @@
 ---
 title: Pages
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取表示有关文档页面幻灯片工作表等的公共信息的对象集合
+description: 获取代表文档页面幻灯片工作表等公共信息的对象集合
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.common/documentinfo/pages/
 ---
 ## DocumentInfo.Pages property
 
-获取表示有关文档页面（幻灯片、工作表等）的公共信息的对象集合。
+获取代表文档页面（幻灯片、工作表等）公共信息的对象集合。
 
 ```csharp
 public IReadOnlyList<PageInfo> Pages { get; }

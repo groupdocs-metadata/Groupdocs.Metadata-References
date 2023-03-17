@@ -1,14 +1,14 @@
 ---
 title: Auto
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 白平衡自动
+description: 白平衡自动.
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpwhitebalance/auto/
 ---
 ## XmpWhiteBalance.Auto property
 
-白平衡：自动。
+白平衡：自动.
 
 ```csharp
 public static XmpWhiteBalance Auto { get; }

@@ -16,7 +16,7 @@ public double Rating { get; set; }
 
 ### 适当的价值
 
-评分。
+评级。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: IsRequiredBy
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置需要所描述的资源来支持其功能交付或一致性的相关资源
+description: 获取或设置相关资源该资源需要描述的资源来支持其功能交付或连贯性
 type: docs
 weight: 330
 url: /zh/net/groupdocs.metadata.formats.ebook/epubpackage/isrequiredby/
 ---
 ## EpubPackage.IsRequiredBy property
 
-获取或设置需要所描述的资源来支持其功能、交付或一致性的相关资源。
+获取或设置相关资源，该资源需要描述的资源来支持其功能、交付或连贯性。
 
 ```csharp
 public string IsRequiredBy { get; set; }
@@ -16,7 +16,7 @@ public string IsRequiredBy { get; set; }
 
 ### 适当的价值
 
-需要所描述的资源来支持其功能、交付或连贯性的相关资源。
+需要描述的资源来支持其功能、交付或连贯性的相关资源。
 
 ### 也可以看看
 

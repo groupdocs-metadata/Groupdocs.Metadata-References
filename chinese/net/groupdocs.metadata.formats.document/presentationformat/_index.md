@@ -18,16 +18,16 @@ public enum PresentationFormat
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Unknown | `0` | 格式无法识别。 |
-| Ppt | `1` | 表示 .PPT PowerPoint 格式。 带有 PPT 扩展名的文件表示 PowerPoint 文件，该文件由一组幻灯片组成，用于显示为 SlideShow。 它指定 Microsoft PowerPoint 97-2003 使用的二进制文件格式。一个 PPT 文件可以包含多种不同类型的信息，例如文本、 项目符号点、图像、多媒体和其他嵌入式 OLE 对象。 了解有关此文件格式的更多信息[这里](https://wiki.fileformat.com/presentation/ppt/). |
-| Pptx | `2` | 表示 .PPTX PowerPoint 格式。 带有 PPTX 扩展名的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文件。 与以前版本的演示文件格式 PPT 不同的是，PPTX 格式是基于 Microsoft PowerPoint 打开 XML 演示文件format. 了解有关此文件格式的更多信息[这里](https://wiki.fileformat.com/presentation/pptx/). |
-| Potm | `3` | 表示 .POTM PowerPoint 格式。 带有 POTM 扩展名的文件是支持宏的 Microsoft PowerPoint 模板文件。 POTM 文件是使用 PowerPoint 2007 或更高版本创建的，包含可用于创建更多演示文件的默认设置。 了解更多关于这种文件格式[这里](https://wiki.fileformat.com/presentation/potm/). |
-| Potx | `4` | 表示 .POTX PowerPoint 格式。 带有 .POTX 扩展名的文件表示使用 Microsoft PowerPoint 2007 及更高版本创建的 Microsoft PowerPoint 模板演示文稿。 创建此格式是为了替换基于二进制文件格式的 POT 文件格式，并且是支持 PowerPoint 97-2003. 了解有关此文件格式的更多信息[这里](https://wiki.fileformat.com/presentation/potx/). |
-| Pptm | `5` | 代表 .PPTM PowerPoint 格式。 PPTM 扩展名的文件是使用 Microsoft PowerPoint 2007 或更高版本创建的启用宏的演示文稿文件。 它们与 PPTX 文件类似，不同之处在于横向无法执行宏可以包含宏。 了解有关此文件格式的更多信息[这里](https://wiki.fileformat.com/presentation/pptm/). |
-| Pps | `6` | 表示 .PPS PowerPoint 格式。 PPS，PowerPoint 幻灯片放映，文件是使用 Microsoft PowerPoint 创建的，用于幻灯片放映。 Microsoft PowerPoint 97-2003 支持 PPS 文件读取和创建。 了解有关此文件格式的更多信息[这里](https://wiki.fileformat.com/presentation/pps/). |
-| Ppsx | `7` | 代表 .PPSX PowerPoint 格式。 PPSX，Power Point 幻灯片放映，文件是使用 Microsoft PowerPoint 2007 及更高版本创建的，用于幻灯片放映目的。 这是 Microsoft PowerPoint 97-2003 版本支持的 PPS 文件格式的更新. 了解有关此文件格式的更多信息[这里](https://wiki.fileformat.com/presentation/ppsx/). |
-| Ppsm | `8` | 表示 .PPSM PowerPoint 格式。 带有 PPSM 扩展名的文件表示使用 Microsoft PowerPoint 2007 或更高版本创建的启用宏的幻灯片文件格式。 另一种类似的文件格式是 PPTM，它与 Microsoft PowerPoint 以可编辑格式打开而不是运行幻灯片放映 了解有关此文件格式的更多信息[这里](https://wiki.fileformat.com/presentation/ppsm/). |
-| Pot | `9` | 代表 .POT PowerPoint 格式。 带有 .POT 扩展名的文件代表由 PowerPoint 97-2003 版本创建的 Microsoft PowerPoint 模板文件。 与在 Office OpenXML 文件格式中创建的文件相比，使用这些版本的 Microsoft PowerPoint 创建的文件是二进制格式使用更高版本的 PowerPoint。 了解有关此文件格式的更多信息[这里](https://wiki.fileformat.com/presentation/pot/). |
+| Unknown | `0` | 无法识别格式。 |
+| Ppt | `1` | 表示 .PPT PowerPoint 格式。 具有 PPT 扩展名的文件表示 PowerPoint 文件，该文件由一组幻灯片组成，用于显示为 SlideShow。 它指定 Microsoft PowerPoint 97-2003 使用的二进制文件格式。 PPT 文件可以包含多种不同类型的信息，例如文本、 项目符号点、图像、多媒体和其他嵌入的 OLE 对象。 了解有关此文件格式的更多信息[这里](https://wiki.fileformat.com/presentation/ppt/). |
+| Pptx | `2` | 表示 .PPTX PowerPoint 格式。 带有 PPTX 扩展名的文件是使用流行的 Microsoft PowerPoint 应用程序创建的演示文稿文件。 与以前版本的二进制演示文稿文件格式 PPT 不同，PPTX 格式基于 Microsoft PowerPoint open XML 演示文稿文件format. 了解有关此文件格式的更多信息[这里](https://wiki.fileformat.com/presentation/pptx/). |
+| Potm | `3` | 表示 .POTM PowerPoint 格式。 带 POTM 扩展名的文件是支持宏的 Microsoft PowerPoint 模板文件。 POTM 文件是使用 PowerPoint 2007 或更高版本创建的，包含可用于创建更多演示文稿文件的默认设置。 了解更多关于这种文件格式[这里](https://wiki.fileformat.com/presentation/potm/). |
+| Potx | `4` | 表示 .POTX PowerPoint 格式。 扩展名为 .POTX 的文件表示使用 Microsoft PowerPoint 2007 及更高版本创建的 Microsoft PowerPoint 模板演示文稿。 创建此格式是为了替换基于二进制文件格式的 POT 文件格式，并且是支持 PowerPoint 97-2003. 了解有关此文件格式的更多信息[这里](https://wiki.fileformat.com/presentation/potx/). |
+| Pptm | `5` | 表示 .PPTM PowerPoint 格式。 带有 PPTM 扩展名的文件是使用 Microsoft PowerPoint 2007 或更高版本创建的启用宏的演示文稿文件。 它们类似于 PPTX 文件，不同之处在于横向不能执行宏，但它们可以包含宏。 了解有关此文件格式的更多信息[这里](https://wiki.fileformat.com/presentation/pptm/). |
+| Pps | `6` | 表示 .PPS PowerPoint 格式。 PPS，PowerPoint 幻灯片放映，文件是使用 Microsoft PowerPoint 为幻灯片放映目的创建的。 Microsoft PowerPoint 97-2003 支持 PPS 文件读取和创建。 了解有关此文件格式的更多信息[这里](https://wiki.fileformat.com/presentation/pps/). |
+| Ppsx | `7` | 表示 .PPSX PowerPoint 格式。 PPSX，Power Point 幻灯片，文件是使用 Microsoft PowerPoint 2007 及更高版本创建的，用于幻灯片放映。 它是对 Microsoft PowerPoint 97-2003 版本支持的 PPS 文件格式的更新. 了解有关此文件格式的更多信息[这里](https://wiki.fileformat.com/presentation/ppsx/). |
+| Ppsm | `8` | 表示 .PPSM PowerPoint 格式。 带有 PPSM 扩展名的文件表示使用 Microsoft PowerPoint 2007 或更高版本创建的启用宏的幻灯片放映文件格式。 另一种类似的文件格式是 PPTM，其不同之处在于以可编辑格式打开 Microsoft PowerPoint，而不是运行为Slide Show 了解有关此文件格式的更多信息[这里](https://wiki.fileformat.com/presentation/ppsm/). |
+| Pot | `9` | 表示 .POT PowerPoint 格式。 扩展名为 .POT 的文件表示由 PowerPoint 97-2003 版本创建的 Microsoft PowerPoint 模板文件。 使用这些版本的 Microsoft PowerPoint 创建的文件与使用 Office OpenXML 文件格式创建的文件相比，采用二进制格式使用更高版本的 PowerPoint. 了解有关此文件格式的更多信息[这里](https://wiki.fileformat.com/presentation/pot/). |
 
 ### 也可以看看
 

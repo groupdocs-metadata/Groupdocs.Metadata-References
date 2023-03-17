@@ -16,7 +16,7 @@ public PdfFormField[] Fields { get; }
 
 ### 适当的价值
 
-表单字段的数组。
+表单字段数组。
 
 ### 也可以看看
 

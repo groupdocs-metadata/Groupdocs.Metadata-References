@@ -1,14 +1,14 @@
 ---
 title: Description
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取描述都柏林核心元素
+description: 获取都柏林核心元素的描述
 type: docs
 weight: 50
 url: /zh/net/groupdocs.metadata.standards.dublincore/dublincorepackage/description/
 ---
 ## DublinCorePackage.Description property
 
-获取描述都柏林核心元素。
+获取都柏林核心元素的描述。
 
 ```csharp
 public string Description { get; }
@@ -16,7 +16,7 @@ public string Description { get; }
 
 ### 适当的价值
 
-资源内容的帐户。 描述可能包括但不限于：摘要、目录、 对内容的图形表示或内容的自由文本帐户的引用。
+资源内容的帐户。 描述可能包括但不限于：摘要、目录、 对内容图形表示的引用或内容的自由文本说明。
 
 ### 也可以看看
 

@@ -19,7 +19,7 @@ public enum MatroskaTargetTypeValue : uint
 | İsim | Değer | Tanım |
 | --- | --- | --- |
 | Undefined | `0` | Tanımlanmamış seviye. |
-| Collection | `70` | KOLEKSİYON düzeyi. |
+| Collection | `70` | KOLEKSİYON seviyesi. |
 | Edition | `60` | EDITION / SAYI / CİLT / OPUS / SEZON / DEVAM seviyesi. |
 | Album | `50` | ALBÜM / OPERA / KONSER / FİLM / BÖLÜM / KONSER seviyesi. |
 | Part | `40` | KISIM / OTURUM seviyesi. |

@@ -16,7 +16,7 @@ public PropertyTag Printed { get; }
 
 ### 适当的价值
 
-表示文件打印日期的标签。
+表示文件打印日期的标记。
 
 ### 也可以看看
 

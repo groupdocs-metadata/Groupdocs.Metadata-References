@@ -16,7 +16,7 @@ public string Format { get; }
 
 ### 适当的价值
 
-XMP 日期格式字符串。
+XMP 日期格式字符串.
 
 ### 也可以看看
 

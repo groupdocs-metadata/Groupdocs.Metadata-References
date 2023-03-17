@@ -1,14 +1,14 @@
 ---
 title: Album
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置专辑最大长度为 30 个字符
+description: 获取或设置相册最大长度为 30 个字符
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.formats.audio/id3v1tag/album/
 ---
 ## ID3V1Tag.Album property
 
-获取或设置专辑。最大长度为 30 个字符。
+获取或设置相册。最大长度为 30 个字符。
 
 ```csharp
 public string Album { get; set; }
@@ -16,7 +16,7 @@ public string Album { get; set; }
 
 ### 适当的价值
 
-专辑。
+专辑.
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Set
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 添加或替换指定的标签
+description: 添加或替换指定的标记
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.standards.exif/exifdictionarybasepackage/set/
 ---
 ## ExifDictionaryBasePackage.Set method
 
-添加或替换指定的标签。
+添加或替换指定的标记。
 
 ```csharp
 public void Set(TiffTag tag)
@@ -16,11 +16,11 @@ public void Set(TiffTag tag)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| tag | TiffTag | 要设置的标签。 |
+| tag | TiffTag | 要设置的标记。 |
 
 ### 例子
 
-此代码示例演示如何将自定义标记添加到 EXIF 包。
+此代码示例演示如何将自定义标签添加到 EXIF 包。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.TiffWithExif))
@@ -28,13 +28,13 @@ using (Metadata metadata = new Metadata(Constants.TiffWithExif))
     IExif root = metadata.GetRootPackage() as IExif;
     if (root != null)
     {
-        // 如果 EXIF 包丢失，则设置它
+        // 如果缺少 EXIF 包，则设置它
         if (root.ExifPackage == null)
         {
             root.ExifPackage = new ExifPackage();
         }
 
-        // 添加一个已知属性
+        // 添加已知属性
         root.ExifPackage.Set(new TiffAsciiTag(TiffTagID.Artist, "test artist"));
 
         // 添加一个完全自定义的属性（EXIF 规范中没有描述）。

@@ -24,7 +24,7 @@ EinIEnumerable das Eigenschaften aus dem Paket enthält, die die Bedingung erfü
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * Weitere Beispiele, die die Verwendung dieser Methode demonstrieren: [Extrahieren von Metadaten](https://docs.groupdocs.com/display/metadatanet/Extracting+metadata)
 

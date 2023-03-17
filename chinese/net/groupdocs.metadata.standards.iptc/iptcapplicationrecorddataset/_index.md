@@ -1,14 +1,14 @@
 ---
 title: IptcApplicationRecordDataSet
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 定义 IPTC 应用程序记录数据集编号
+description: 定义 IPTC 应用记录数据集编号
 type: docs
 weight: 2890
 url: /zh/net/groupdocs.metadata.standards.iptc/iptcapplicationrecorddataset/
 ---
 ## IptcApplicationRecordDataSet enumeration
 
-定义 IPTC 应用程序记录数据集编号。
+定义 IPTC 应用记录数据集编号。
 
 ```csharp
 public enum IptcApplicationRecordDataSet
@@ -18,62 +18,62 @@ public enum IptcApplicationRecordDataSet
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| RecordVersion | `0` | 表示记录版本。二进制。 JPEG 中总是 2. |
-| ObjectTypeReference | `3` | 对象类型参考。使用的模式："/\d{2}:[\w\s]{0,64}?/". |
+| RecordVersion | `0` | 代表记录版本。二进制。在 JPEG 中始终为 2. |
+| ObjectTypeReference | `3` | 对象类型引用。使用的模式：“/\d{2}:[\w\s]{0,64}?/”. |
 | ObjectAttributeReference | `4` | 对象属性引用。 |
 | ObjectName | `5` | 用作对象的速记引用。 |
-| EditStatus | `7` | objectdata的状态，根据provider的做法 |
-| EditorialUpdate | `8` | 表示此对象提供给前一个对象的更新类型。 |
-| Urgency | `10` | 指定内容的编辑紧迫性，不一定是信封处理优先级（参见 1:60，信封优先级）。 |
+| EditStatus | `7` | 对象数据的状态，根据提供者的惯例。 |
+| EditorialUpdate | `8` | 指示此对象提供给前一个对象的更新类型。 |
+| Urgency | `10` | 指定内容的编辑紧迫性，不一定是信封处理优先级（请参阅 1:60，信封优先级）。 |
 | SubjectReference | `12` | 主题参考。 |
-| Category | `15` | 标识提供者认为对象数据的主体。 |
-| SupplementalCategory | `20` | 补充类别进一步细化对象数据的主题。 每个数据集中只能包含一个补充类别。补充类别可以包括 2:15 中使用的任何公认类别。 |
+| Category | `15` | 标识提供者认为的对象数据的主题。 |
+| SupplementalCategory | `20` | 补充类别进一步细化了对象数据的主题。 每个数据集中只能包含一个补充类别。补充类别可以包括 2:15 中使用的任何公认类别。 |
 | FixtureIdentifier | `22` | 夹具标识符。 |
-| Keywords | `25` | 用于表示特定的信息检索词。 每个关键字使用单个关键字数据集。多个关键字使用多个关键字数据集。 |
-| ContentLocationCode | `26` | 表示对象的内容所引用的国家/地理位置的代码。 |
-| ContentLocationName | `27` | 提供对象内容所引用的国家/地理位置的完整、可发布名称， 根据提供者的指导方针。 |
-| ReleaseDate | `30` | 以 CCYYMMDD 形式指定提供者打算使用对象的最早日期。遵循 ISO 8601 标准。 |
-| ReleaseTime | `35` | 以 HHMMSS±HHMM 形式指定提供者打算使用对象的最早时间。遵循 ISO 8601 标准。 |
+| Keywords | `25` | 用于表示特定的信息检索词。 每个关键字使用一个单独的Keywords DataSet。多个关键字使用多个关键字数据集。 |
+| ContentLocationCode | `26` | 表示对象内容引用的国家/地理位置代码。 |
+| ContentLocationName | `27` | 提供对象内容引用的国家/地理位置的完整的、可发布的名称， 根据提供商的指导方针。 |
+| ReleaseDate | `30` | 以 CCYYMMDD 的形式指定提供者打算使用对象的最早日期。遵循 ISO 8601 标准。 |
+| ReleaseTime | `35` | 以 HHMMSS±HHMM 的形式指定提供者打算使用对象的最早时间。遵循 ISO 8601 标准。 |
 | ExpirationDate | `37` | 以 CCYYMMDD 的形式指定提供者或所有者打算使用对象数据的最晚日期。遵循 ISO 8601 标准。 |
-| SpecialInstructions | `40` | 有关使用对象数据的其他编辑说明，例如禁运和警告。 |
-| ActionAdvised | `42` | 表示此对象提供给前一个对象的操作类型。 |
+| SpecialInstructions | `40` | 关于对象数据使用的其他编辑说明，例如禁运和警告。 |
+| ActionAdvised | `42` | 指示此对象提供给前一个对象的操作类型。 |
 | ReferenceService | `45` | 标识当前对象引用的先前信封的服务标识符。 |
-| ReferenceDate | `47` | 标识当前对象所指的先前信封的日期。 |
-| ReferenceNumber | `50` | 标识当前对象引用的先前包络的包络编号。 |
-| DateCreated | `55` | 以 CCYYMMDD 的形式表示，以指定创建对象数据的知识内容的日期，而不是创建物理表示的日期。 |
-| TimeCreated | `60` | 以 HHMMSS±HHMM 形式表示，以指定创建对象数据 当前源材料的知识内容的时间，而不是创建物理表示的时间。 |
-| DigitalCreationDate | `62` | 以 CCYYMMDD 的形式表示，以指定创建对象数据的数字表示的日期。 |
-| DigitalCreationTime | `63` | 以 HHMMSS±HHMM 形式表示，以指定创建对象数据的数字表示的时间。 |
+| ReferenceDate | `47` | 标识当前对象引用的先前信封的日期。 |
+| ReferenceNumber | `50` | 标识当前对象引用的先前信封的信封编号。 |
+| DateCreated | `55` | 以 CCYYMMDD 形式表示，以指定创建对象数据的知识内容的日期，而不是创建物理表示的日期。 |
+| TimeCreated | `60` | 以 HHMMSS±HHMM 的形式表示，以指定创建对象数据 当前源材料的知识内容的时间，而不是创建物理表示的时间。 |
+| DigitalCreationDate | `62` | 以 CCYYMMDD 形式表示，以指定创建对象数据的数字表示的日期。 |
+| DigitalCreationTime | `63` | 以 HHMMSS±HHMM 的形式表示，以指定创建对象数据的数字表示的时间。 |
 | OriginatingProgram | `65` | 标识用于生成对象数据的程序类型。 |
-| ProgramVersion | `70` | 用于标识2:65中提到的程序的版本。如果不存在 2:65，则数据集 2:70 无效。 |
-| ObjectCycle | `75` | 由一个字母字符组成。其中：'a' = 早上，'p' = 晚上，'b' = 两者。 |
+| ProgramVersion | `70` | 用于标识2:65中提到的程序的版本。如果 2:65 不存在，则数据集 2:70 无效。 |
+| ObjectCycle | `75` | 由一个字母字符组成。其中：'a' = 早上，'p' = 晚上，'b' = both. |
 | Byline | `80` | 包含对象数据创建者的姓名，例如作家、摄影师或图形艺术家。 |
 | BylineTitle | `85` | 副标题是对象数据的创建者或创建者的标题。 |
-| City | `90` | 根据提供者制定的指南识别对象数据来源的城市。 |
-| SubLocation | `92` | 根据提供者制定的指导方针，识别城市内对象数据的来源位置。 |
-| ProvinceState | `95` | 根据提供者制定的指南确定原产省/州。 |
-| PrimaryLocationCode | `100` | 表示创建对象数据的知识产权的国家/主要位置的代码，例如拍摄照片、发生事件。 |
-| PrimaryLocationName | `101` | 提供创建对象数据的知识产权的国家/主要位置的完整、可发布的名称， 根据提供者的指导方针。 |
-| OriginalTransmissionReference | `103` | 根据提供者的惯例，代表原始传输位置的代码。 |
+| City | `90` | 根据提供商制定的指南识别对象数据来源的城市。 |
+| SubLocation | `92` | 根据提供商制定的指南，标识对象数据在城市中的来源位置。 |
+| ProvinceState | `95` | 根据提供商制定的指南识别省/州。 |
+| PrimaryLocationCode | `100` | 表示创建对象数据知识产权的国家/主要位置的代码，例如拍摄照片、发生事件。 |
+| PrimaryLocationName | `101` | 提供完整的、可发布的、创建对象数据知识产权的国家/主要位置的名称， 根据提供商的指南。 |
+| OriginalTransmissionReference | `103` | 根据提供者的惯例代表原始传输位置的代码。 |
 | Headline | `105` | 提供对象数据内容概要的可发布条目。 |
 | Credit | `110` | 标识对象数据的提供者，不一定是所有者/创建者。 |
-| Source | `115` | 在内容供应链中发挥作用的个人或团体的名称。 这可以是一个机构、机构的成员、个人或组合。 |
+| Source | `115` | 在内容供应链中发挥作用的个人或团体的名称。 这可以是机构、机构成员、个人或组合。 |
 | CopyrightNotice | `116` | 包含任何必要的版权声明。 |
-| Contact | `118` | 标识可以提供有关对象数据的进一步背景信息的个人或组织。 |
-| CaptionAbstract | `120` | 对象数据的文本描述，特别用于对象不是文本的情况。 |
-| WriterEditor | `122` | 参与编写、编辑或更正对象数据或标题/摘要的人员姓名的识别。 |
-| RasterizedCaption | `125` | 图像宽度 460 像素和图像高度 128 像素。扫描方向从下到上，从左到右。 |
-| ImageType | `130` | 数字字符 1 到 4 表示图像中的组件数，在单个或多个包络中。 |
+| Contact | `118` | 标识可以提供有关对象数据的更多背景信息的个人或组织。 |
+| CaptionAbstract | `120` | 对象数据的文本描述，特别是在对象不是文本的情况下使用。 |
+| WriterEditor | `122` | 参与编写、编辑或更正对象数据或标题/摘要的人员姓名的标识。 |
+| RasterizedCaption | `125` | 图像宽度 460 像素，图像高度 128 像素。扫描方向从下到上，从左到右. |
+| ImageType | `130` | 数字字符 1 到 4 表示单个或多个信封中图像中的组件数。 |
 | ImageOrientation | `131` | 表示图像区域的布局。 |
-| LanguageIdentifier | `135` | 根据 ISO 639:1988 的 2 个字母代码描述对象的主要国家语言。 |
+| LanguageIdentifier | `135` | 根据 ISO 639:1988. 的 2 字母代码描述对象的主要国家语言 |
 | AudioType | `150` | 音频类型。 |
-| AudioSamplingRate | `151` | 采样率数字字符，以赫兹 (Hz) 为单位表示采样率。 |
-| AudioSamplingResolution | `152` | 每个音频样本的位数。 |
-| AudioDuration | `153` | Duration 以 HHMMSS 形式指定音频对象数据在以录制速度播放时的运行时间。 |
-| AudioOutcue | `154` | 根据提供者建立的准则，标识音频对象数据的结尾内容。 |
-| ObjDataPreviewFileFormat | `200` | 表示 ObjectData 预览文件格式的二进制数。 |
+| AudioSamplingRate | `151` | 采样率数字字符，代表以赫兹（Hz）为单位的采样率。 |
+| AudioSamplingResolution | `152` | 每个音频样本中的位数。 |
+| AudioDuration | `153` | Duration 以 HHMMSS 格式指定音频对象数据以录制速度播放时的运行时间。 |
+| AudioOutcue | `154` | 根据提供商建立的指南，标识音频对象数据末尾的内容。 |
+| ObjDataPreviewFileFormat | `200` | 表示对象数据预览文件格式的二进制数。 |
 | ObjDataPreviewFileFormatVer | `201` | 表示 2:200. 中指定的 ObjectData 预览文件格式的特定版本的二进制数 |
-| ObjDataPreviewData | `202` | 对象数据预览。 |
+| ObjDataPreviewData | `202` | 对象数据预览. |
 
 ### 也可以看看
 

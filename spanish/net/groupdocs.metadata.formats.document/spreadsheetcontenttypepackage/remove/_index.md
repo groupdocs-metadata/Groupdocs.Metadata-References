@@ -20,7 +20,7 @@ public bool Remove(string propertyName)
 
 ### Valor_devuelto
 
-`verdadero` si la propiedad se encuentra y se elimina; de lo contrario`falso`.
+`verdadero` si la propiedad se encuentra y se elimina; de lo contrario`FALSO`.
 
 ### Ver también
 

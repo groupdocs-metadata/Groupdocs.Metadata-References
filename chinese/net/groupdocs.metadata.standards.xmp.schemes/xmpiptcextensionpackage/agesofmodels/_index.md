@@ -16,7 +16,7 @@ public int[] AgesOfModels { get; set; }
 
 ### 适当的价值
 
-模型的年龄。
+模特的年龄。
 
 ### 也可以看看
 

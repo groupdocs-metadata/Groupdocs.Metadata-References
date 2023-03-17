@@ -1,14 +1,14 @@
 ---
 title: BusyTimeEntries
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取与对象关联的繁忙时间的 URI
+description: 获取与对象关联的忙碌时间的 URI
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.businesscard/vcardcalendarrecordset/busytimeentries/
 ---
 ## VCardCalendarRecordset.BusyTimeEntries property
 
-获取与对象关联的繁忙时间的 URI。
+获取与对象关联的忙碌时间的 URI。
 
 ```csharp
 public string[] BusyTimeEntries { get; }
@@ -16,11 +16,11 @@ public string[] BusyTimeEntries { get; }
 
 ### 适当的价值
 
-与对象关联的繁忙时间的 URI。
+与对象关联的忙碌时间的 URI。
 
 ### 评论
 
-这个属性是一个简化版[`BusyTimeRecords`](../busytimerecords).
+此属性是[`BusyTimeRecords`](../busytimerecords).
 
 ### 也可以看看
 

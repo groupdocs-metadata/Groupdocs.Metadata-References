@@ -1,14 +1,14 @@
 ---
 title: Save
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 保存在加载的文档中所做的所有更改
+description: 保存在加载文档中所做的所有更改
 type: docs
 weight: 110
 url: /zh/net/groupdocs.metadata/metadata/save/
 ---
 ## Save() {#save}
 
-保存在加载的文档中所做的所有更改。
+保存在加载文档中所做的所有更改。
 
 ```csharp
 public void Save()
@@ -16,7 +16,7 @@ public void Save()
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [将修改后的文件保存到原始源](https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+the+original+source)
 * [将修改后的文件保存到指定位置](https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+a+specified+location)
@@ -24,12 +24,12 @@ public void Save()
 
 ### 例子
 
-这个例子展示了如何将修改后的内容保存到底层源。
+此示例显示如何将修改后的内容保存到基础源。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.OutputPpt))
 {
-    // 在此处编辑或删除元数据
+    // 在这里编辑或删除元数据
 
     // 将文档保存到底层源（流或文件）
     metadata.Save();
@@ -58,7 +58,7 @@ public void Save(Stream document)
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [将修改后的文件保存到原始源](https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+the+original+source)
 * [将修改后的文件保存到指定位置](https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+a+specified+location)
@@ -66,14 +66,14 @@ public void Save(Stream document)
 
 ### 例子
 
-这个例子展示了如何将文档保存到指定的流中。
+此示例显示如何将文档保存到指定流。
 
 ```csharp
 using (MemoryStream stream = new MemoryStream())
 {
     using (Metadata metadata = new Metadata(Constants.InputPng))
     {
-        // 在此处编辑或删除元数据
+        // 在这里编辑或删除元数据
 
         metadata.Save(stream);
     }
@@ -90,7 +90,7 @@ using (MemoryStream stream = new MemoryStream())
 
 ## Save(string) {#save_2}
 
-将文档内容保存到指定文件。
+将文档内容保存到指定文件中。
 
 ```csharp
 public void Save(string filePath)
@@ -102,7 +102,7 @@ public void Save(string filePath)
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [将修改后的文件保存到原始源](https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+the+original+source)
 * [将修改后的文件保存到指定位置](https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+a+specified+location)
@@ -110,12 +110,12 @@ public void Save(string filePath)
 
 ### 例子
 
-此示例说明如何将文档保存到指定位置。
+此示例显示如何将文档保存到指定位置。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.InputJpeg))
 {
-    // 在此处编辑或删除元数据
+    // 在这里编辑或删除元数据
 
     metadata.Save(Constants.OutputJpeg);
 }

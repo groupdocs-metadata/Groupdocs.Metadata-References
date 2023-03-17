@@ -16,7 +16,7 @@ public ushort Channels { get; }
 
 ### 适当的价值
 
-音频通道的数量。
+音频通道数。
 
 ### 也可以看看
 

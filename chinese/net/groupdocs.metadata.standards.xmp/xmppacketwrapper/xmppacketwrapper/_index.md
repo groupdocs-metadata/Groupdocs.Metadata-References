@@ -1,14 +1,14 @@
 ---
 title: XmpPacketWrapper
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpPacketWrappergroupdocs.metadata.standards.xmp/xmppacketwrapper类.
+description: 初始化一个新的实例XmpPacketWrappergroupdocs.metadata.standards.xmp/xmppacketwrapper类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp/xmppacketwrapper/xmppacketwrapper/
 ---
 ## XmpPacketWrapper(XmpHeaderPI, XmpTrailerPI, XmpMeta) {#constructor_1}
 
-初始化[`XmpPacketWrapper`](../../xmppacketwrapper)类.
+初始化一个新的实例[`XmpPacketWrapper`](../../xmppacketwrapper)类.
 
 ```csharp
 public XmpPacketWrapper(XmpHeaderPI header, XmpTrailerPI trailer, XmpMeta xmpMeta)
@@ -16,9 +16,9 @@ public XmpPacketWrapper(XmpHeaderPI header, XmpTrailerPI trailer, XmpMeta xmpMet
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| header | XmpHeaderPI | XMP 头处理指令。 |
-| trailer | XmpTrailerPI | XMP 拖车处理指令。 |
-| xmpMeta | XmpMeta | 实例[`XmpMeta`](../../xmpmeta). |
+| header | XmpHeaderPI | XMP 标头处理指令。 |
+| trailer | XmpTrailerPI | XMP 预告片处理指令。 |
+| xmpMeta | XmpMeta | 的实例[`XmpMeta`](../../xmpmeta). |
 
 ### 也可以看看
 
@@ -33,7 +33,7 @@ public XmpPacketWrapper(XmpHeaderPI header, XmpTrailerPI trailer, XmpMeta xmpMet
 
 ## XmpPacketWrapper() {#constructor}
 
-初始化[`XmpPacketWrapper`](../../xmppacketwrapper)类.
+初始化一个新的实例[`XmpPacketWrapper`](../../xmppacketwrapper)类.
 
 ```csharp
 public XmpPacketWrapper()

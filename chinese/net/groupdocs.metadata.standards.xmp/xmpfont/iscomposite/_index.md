@@ -1,14 +1,14 @@
 ---
 title: IsComposite
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置字体是否为复合字体的值
+description: 获取或设置是否为复合字体的值
 type: docs
 weight: 80
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpfont/iscomposite/
 ---
 ## XmpFont.IsComposite property
 
-获取或设置字体是否为复合字体的值。
+获取或设置是否为复合字体的值。
 
 ```csharp
 public bool? IsComposite { get; set; }

@@ -20,7 +20,7 @@ Das AVI-Header-Paket.
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * [Arbeiten mit Metadaten in AVI-Dateien](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+AVI+files)
 

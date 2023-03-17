@@ -1,14 +1,14 @@
 ---
 title: LongSize
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 以字节为单位获取原子大小
+description: 获取以字节为单位的原子大小
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.formats.video/movatom/longsize/
 ---
 ## MovAtom.LongSize property
 
-以字节为单位获取原子大小。
+获取以字节为单位的原子大小。
 
 ```csharp
 public long LongSize { get; }

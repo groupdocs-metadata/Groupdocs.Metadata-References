@@ -1,14 +1,14 @@
 ---
 title: XmpNamespaces
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: Kullanılan ad alanlarını içerirXmpPackage./xmppackage veXmpComplexType./xmpcomplextype .
+description: Kullanılan ad alanlarını içerirXmpPackage./xmppackage VeXmpComplexType./xmpcomplextype .
 type: docs
 weight: 3480
 url: /tr/net/groupdocs.metadata.standards.xmp/xmpnamespaces/
 ---
 ## XmpNamespaces class
 
-Kullanılan ad alanlarını içerir[`XmpPackage`](../xmppackage) ve[`XmpComplexType`](../xmpcomplextype) .
+Kullanılan ad alanlarını içerir[`XmpPackage`](../xmppackage) Ve[`XmpComplexType`](../xmpcomplextype) .
 
 ```csharp
 public static class XmpNamespaces

@@ -1,14 +1,14 @@
 ---
 title: DocTypeVersion
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取版本DocTypegroupdocs.metadata.formats.video/matroskaebmlheader/doctypewriter 用于创建文件
+description: 获取的版本DocTypegroupdocs.metadata.formats.video/matroskaebmlheader/doctypewriter 用于创建文件.
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.formats.video/matroskaebmlheader/doctypeversion/
 ---
 ## MatroskaEbmlHeader.DocTypeVersion property
 
-获取版本[`DocType`](../doctype)writer 用于创建文件。
+获取的版本[`DocType`](../doctype)writer 用于创建文件.
 
 ```csharp
 public byte DocTypeVersion { get; }

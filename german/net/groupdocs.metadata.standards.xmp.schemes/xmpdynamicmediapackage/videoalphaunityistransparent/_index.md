@@ -16,7 +16,7 @@ public bool? VideoAlphaUnityIsTransparent { get; set; }
 
 ### Eigentumswert
 
-`Stimmt` , wenn die Einheit klar ist; andernfalls ist es undurchsichtig.
+`WAHR` , wenn die Einheit klar ist; andernfalls ist es undurchsichtig.
 
 ### Siehe auch
 

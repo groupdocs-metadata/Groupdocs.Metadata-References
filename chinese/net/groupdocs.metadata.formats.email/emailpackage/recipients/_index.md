@@ -1,14 +1,14 @@
 ---
 title: Recipients
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置电子邮件收件人的数组
+description: 获取或设置电子邮件收件人数组
 type: docs
 weight: 50
 url: /zh/net/groupdocs.metadata.formats.email/emailpackage/recipients/
 ---
 ## EmailPackage.Recipients property
 
-获取或设置电子邮件收件人的数组。
+获取或设置电子邮件收件人数组。
 
 ```csharp
 public string[] Recipients { get; set; }
@@ -16,7 +16,7 @@ public string[] Recipients { get; set; }
 
 ### 适当的价值
 
-电子邮件收件人的数组。
+电子邮件收件人数组。
 
 ### 也可以看看
 

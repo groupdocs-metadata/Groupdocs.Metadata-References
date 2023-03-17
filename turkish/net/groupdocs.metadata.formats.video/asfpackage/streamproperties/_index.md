@@ -16,7 +16,7 @@ public AsfBaseStreamProperty[] StreamProperties { get; }
 
 ### Mülk değeri
 
-Dijital ortam akış özellikleri.
+Dijital ortam akışı özellikleri.
 
 ### Ayrıca bakınız
 

@@ -20,7 +20,7 @@ public TiffTag this[TiffTagID tagId] { get; }
 
 ### Valor_devuelto
 
-los[`TiffTag`](../../../groupdocs.metadata.formats.image/tifftag) con el identificador de etiqueta especificado.
+El[`TiffTag`](../../../groupdocs.metadata.formats.image/tifftag) con el identificador de etiqueta especificado.
 
 ### Ejemplos
 

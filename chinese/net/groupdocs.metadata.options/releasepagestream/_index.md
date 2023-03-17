@@ -1,14 +1,14 @@
 ---
 title: ReleasePageStream
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示释放由CreatePageStream./createpagestream代表
+description: 表示释放由创建的流的方法CreatePageStream./createpagestream代表
 type: docs
 weight: 2720
 url: /zh/net/groupdocs.metadata.options/releasepagestream/
 ---
 ## ReleasePageStream delegate
 
-表示释放由[`CreatePageStream`](../createpagestream)代表。
+表示释放由创建的流的方法[`CreatePageStream`](../createpagestream)代表。
 
 ```csharp
 public delegate void ReleasePageStream(int pageNumber, Stream pageStream);
@@ -21,7 +21,7 @@ public delegate void ReleasePageStream(int pageNumber, Stream pageStream);
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [生成文档预览](https://docs.groupdocs.com/display/metadatanet/Generate+document+preview)
 

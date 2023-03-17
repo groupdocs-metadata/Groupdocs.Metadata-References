@@ -1,14 +1,14 @@
 ---
 title: ID3V2UserDefinedUrlLinkFrame
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化ID3V2UserDefinedUrlLinkFramegroupdocs.metadata.formats.audio/id3v2userdefinedurllinkframe类.
+description: 初始化一个新的实例ID3V2UserDefinedUrlLinkFramegroupdocs.metadata.formats.audio/id3v2userdefinedurllinkframe类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2userdefinedurllinkframe/id3v2userdefinedurllinkframe/
 ---
 ## ID3V2UserDefinedUrlLinkFrame(string, string) {#constructor_1}
 
-初始化[`ID3V2UserDefinedUrlLinkFrame`](../../id3v2userdefinedurllinkframe)类.
+初始化一个新的实例[`ID3V2UserDefinedUrlLinkFrame`](../../id3v2userdefinedurllinkframe)类.
 
 ```csharp
 public ID3V2UserDefinedUrlLinkFrame(string description, string url)
@@ -29,7 +29,7 @@ public ID3V2UserDefinedUrlLinkFrame(string description, string url)
 
 ## ID3V2UserDefinedUrlLinkFrame(ID3V2EncodingType, string, string) {#constructor}
 
-初始化[`ID3V2UserDefinedUrlLinkFrame`](../../id3v2userdefinedurllinkframe)类.
+初始化一个新的实例[`ID3V2UserDefinedUrlLinkFrame`](../../id3v2userdefinedurllinkframe)类.
 
 ```csharp
 public ID3V2UserDefinedUrlLinkFrame(ID3V2EncodingType encoding, string description, string url)

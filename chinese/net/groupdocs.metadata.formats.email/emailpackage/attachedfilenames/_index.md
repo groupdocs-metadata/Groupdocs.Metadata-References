@@ -1,14 +1,14 @@
 ---
 title: AttachedFileNames
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取附件名称的数组
+description: 获取附件名称数组
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.email/emailpackage/attachedfilenames/
 ---
 ## EmailPackage.AttachedFileNames property
 
-获取附件名称的数组。
+获取附件名称数组。
 
 ```csharp
 public string[] AttachedFileNames { get; }
@@ -16,7 +16,7 @@ public string[] AttachedFileNames { get; }
 
 ### 适当的价值
 
-附件名称的数组。
+附件名称数组。
 
 ### 也可以看看
 

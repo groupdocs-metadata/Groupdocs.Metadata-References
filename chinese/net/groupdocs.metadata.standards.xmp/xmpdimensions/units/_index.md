@@ -20,7 +20,7 @@ public string Units { get; set; }
 
 ### 例子
 
-例如：英寸、毫米、像素、皮卡、点等
+例如：inch, mm, pixel, pica, point etc.
 
 ### 也可以看看
 

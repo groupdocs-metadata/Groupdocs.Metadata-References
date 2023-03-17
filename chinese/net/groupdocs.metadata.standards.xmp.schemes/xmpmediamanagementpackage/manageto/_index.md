@@ -1,14 +1,14 @@
 ---
 title: ManageTo
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置标识被管理资源到资产管理系统的URI
+description: 获取或设置资产管理系统标识托管资源的URI
 type: docs
 weight: 100
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpmediamanagementpackage/manageto/
 ---
 ## XmpMediaManagementPackage.ManageTo property
 
-获取或设置标识被管理资源到资产管理系统的URI
+获取或设置资产管理系统标识托管资源的URI
 
 ```csharp
 public string ManageTo { get; set; }
@@ -16,7 +16,7 @@ public string ManageTo { get; set; }
 
 ### 适当的价值
 
-标识资产管理系统的受管资源的 URI。
+向资产管理系统标识托管资源的 URI。
 
 ### 也可以看看
 

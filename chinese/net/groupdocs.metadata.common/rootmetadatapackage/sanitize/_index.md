@@ -16,11 +16,11 @@ public override int Sanitize()
 
 ### 返回值
 
-受影响属性的数量。
+受影响的属性的数量。
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [清理元数据](https://docs.groupdocs.com/display/metadatanet/Clean+metadata)
 

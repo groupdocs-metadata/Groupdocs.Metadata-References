@@ -16,7 +16,7 @@ public bool IsProtected { get; }
 
 ### Valore della proprietà
 
-`VERO` se è protetto; altrimenti,`falso` .
+`VERO` se è protetto; Altrimenti,`falso` .
 
 ### Guarda anche
 

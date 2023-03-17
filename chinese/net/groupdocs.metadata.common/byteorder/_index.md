@@ -19,8 +19,8 @@ public enum ByteOrder
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Unknown | `0` | 字节顺序未知。 |
-| BigEndian | `1` | 大端。 |
-| LittleEndian | `2` | 小端序。 |
+| BigEndian | `1` | 大端. |
+| LittleEndian | `2` | 小字节序. |
 
 ### 也可以看看
 

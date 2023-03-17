@@ -1,14 +1,14 @@
 ---
 title: DestDistance
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置到目标点的 GPS 距离
+description: 获取或设置到目的地点的GPS距离
 type: docs
 weight: 90
 url: /zh/net/groupdocs.metadata.standards.exif/exifgpspackage/destdistance/
 ---
 ## ExifGpsPackage.DestDistance property
 
-获取或设置到目标点的 GPS 距离。
+获取或设置到目的地点的GPS距离。
 
 ```csharp
 public TiffRational DestDistance { get; set; }
@@ -16,7 +16,7 @@ public TiffRational DestDistance { get; set; }
 
 ### 适当的价值
 
-到目的地的距离。
+到目的地点的距离。
 
 ### 也可以看看
 

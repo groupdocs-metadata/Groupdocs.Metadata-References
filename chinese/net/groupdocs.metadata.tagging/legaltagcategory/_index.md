@@ -1,14 +1,14 @@
 ---
 title: LegalTagCategory
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 提供附加到元数据属性的标签其中包含有关文件内容 的所有者以及可以使用该内容的规则的信息
+description: 提供附加到元数据属性的标签其中包含有关文件内容所有者的信息 以及可以使用该内容的规则
 type: docs
 weight: 3670
 url: /zh/net/groupdocs.metadata.tagging/legaltagcategory/
 ---
 ## LegalTagCategory class
 
-提供附加到元数据属性的标签，其中包含有关文件内容 的所有者以及可以使用该内容的规则的信息。
+提供附加到元数据属性的标签，其中包含有关文件内容所有者的信息 以及可以使用该内容的规则。
 
 ```csharp
 public class LegalTagCategory : TagCategory
@@ -18,15 +18,15 @@ public class LegalTagCategory : TagCategory
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Copyright](../../groupdocs.metadata.tagging/legaltagcategory/copyright) { get; } | 获取标记所有者提供的版权声明的标签。 |
+| [Copyright](../../groupdocs.metadata.tagging/legaltagcategory/copyright) { get; } | 获取标记所有者提供的版权声明的标记。 |
 | [Owner](../../groupdocs.metadata.tagging/legaltagcategory/owner) { get; } | 获取表示文件所有者信息的标记。 |
-| [UsageTerms](../../groupdocs.metadata.tagging/legaltagcategory/usageterms) { get; } | 获取标签说明如何使用文件的标签。 |
+| [UsageTerms](../../groupdocs.metadata.tagging/legaltagcategory/usageterms) { get; } | 获取标记有关如何使用文件的说明的标记。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [ToString](../../groupdocs.metadata.tagging/tagcategory/tostring)() | 返回代表当前对象的字符串。 |
+| override [ToString](../../groupdocs.metadata.tagging/tagcategory/tostring)() | 返回表示当前对象的字符串。 |
 
 ### 也可以看看
 

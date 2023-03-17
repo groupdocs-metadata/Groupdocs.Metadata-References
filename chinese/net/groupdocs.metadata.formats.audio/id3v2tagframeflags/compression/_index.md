@@ -1,14 +1,14 @@
 ---
 title: Compression
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取一个表示帧是否被压缩的值
+description: 获取表示帧是否压缩的值
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2tagframeflags/compression/
 ---
 ## ID3V2TagFrameFlags.Compression property
 
-获取一个表示帧是否被压缩的值。
+获取表示帧是否压缩的值。
 
 ```csharp
 public bool Compression { get; }
@@ -16,7 +16,7 @@ public bool Compression { get; }
 
 ### 适当的价值
 
-`真的`, 如果帧被压缩；否则为假。
+`真的`，如果帧被压缩；否则，假的。
 
 ### 也可以看看
 

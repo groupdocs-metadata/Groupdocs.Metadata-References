@@ -1,14 +1,14 @@
 ---
 title: WEBM
 second_title: Riferimento API GroupDocs.Metadata per .NET
-description: WEBM è un file video basato sul formato di file WebM aperto e senza royalty. È stato progettato per la condivisione di video sul Web e definisce la struttura del contenitore del file compresi i formati video e audio. Ulteriori informazioni su questo formato di file quihttps//docs.fileformat.com/video/webm/ .
+description: WEBM è un file video basato sul formato di file WebM aperto e senza royalty. È stato progettato per la condivisione di video sul Web e definisce la struttura del contenitore del file compresi i formati video e audio. Ulteriori informazioni su questo formato di file Quihttps//docs.fileformat.com/video/webm/ .
 type: docs
 weight: 730
 url: /it/net/groupdocs.metadata.common/filetype/webm/
 ---
 ## FileType.WEBM field
 
-WEBM è un file video basato sul formato di file WebM aperto e senza royalty. È stato progettato per la condivisione di video sul Web e definisce la struttura del contenitore del file, compresi i formati video e audio. Ulteriori informazioni su questo formato di file [qui](https://docs.fileformat.com/video/webm/) .
+WEBM è un file video basato sul formato di file WebM aperto e senza royalty. È stato progettato per la condivisione di video sul Web e definisce la struttura del contenitore del file, compresi i formati video e audio. Ulteriori informazioni su questo formato di file [Qui](https://docs.fileformat.com/video/webm/) .
 
 ```csharp
 public static readonly FileType WEBM;

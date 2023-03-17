@@ -1,14 +1,14 @@
 ---
 title: LastSavedBy
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置最后作者的姓名
+description: 获取或设置最后一位作者的姓名
 type: docs
 weight: 130
 url: /zh/net/groupdocs.metadata.formats.document/spreadsheetpackage/lastsavedby/
 ---
 ## SpreadsheetPackage.LastSavedBy property
 
-获取或设置最后作者的姓名。
+获取或设置最后一位作者的姓名。
 
 ```csharp
 public string LastSavedBy { get; set; }

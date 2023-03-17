@@ -1,14 +1,14 @@
 ---
 title: PageNumber
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取包含注解的页码
+description: 获取包含注释的页码
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.formats.document/pdfannotation/pagenumber/
 ---
 ## PdfAnnotation.PageNumber property
 
-获取包含注解的页码。
+获取包含注释的页码。
 
 ```csharp
 public int PageNumber { get; }

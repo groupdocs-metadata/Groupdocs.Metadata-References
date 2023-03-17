@@ -1,14 +1,14 @@
 ---
 title: Creator
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置创建或最后更新文件的人 最大长度为 63 个字符
+description: 获取或设置创建或最后更新文件的人 最大长度为 63 个字符..
 type: docs
 weight: 60
 url: /zh/net/groupdocs.metadata.formats.document/diagrampackage/creator/
 ---
 ## DiagramPackage.Creator property
 
-获取或设置创建或最后更新文件的人。 最大长度为 63 个字符。
+获取或设置创建或最后更新文件的人。 最大长度为 63 个字符..
 
 ```csharp
 public string Creator { get; set; }

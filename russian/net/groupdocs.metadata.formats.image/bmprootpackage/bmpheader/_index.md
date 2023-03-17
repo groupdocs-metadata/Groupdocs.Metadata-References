@@ -20,7 +20,7 @@ public BmpHeaderPackage BmpHeader { get; }
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * [Работа с метаданными BMP](https://docs.groupdocs.com/display/metadatanet/Working+with+BMP+metadata)
 

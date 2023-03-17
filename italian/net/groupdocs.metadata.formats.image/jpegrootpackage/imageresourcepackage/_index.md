@@ -20,7 +20,7 @@ Il pacchetto di metadati della risorsa immagine.
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * [Lavorare con i metadati nelle immagini JPEG](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+JPEG+images)
 

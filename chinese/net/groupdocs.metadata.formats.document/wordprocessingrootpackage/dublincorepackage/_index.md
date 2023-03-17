@@ -1,14 +1,14 @@
 ---
 title: DublinCorePackage
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取从文档中提取的都柏林核心元数据包
+description: 获取从文档中提取的 Dublin Core 元数据包
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.formats.document/wordprocessingrootpackage/dublincorepackage/
 ---
 ## WordProcessingRootPackage.DublinCorePackage property
 
-获取从文档中提取的都柏林核心元数据包。
+获取从文档中提取的 Dublin Core 元数据包。
 
 ```csharp
 public DublinCorePackage DublinCorePackage { get; }
@@ -20,13 +20,13 @@ public DublinCorePackage DublinCorePackage { get; }
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* [在文字处理文档中使用元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+WordProcessing+documents)
+* [在 WordProcessing 文档中处理元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+WordProcessing+documents)
 
 ### 例子
 
-此示例演示如何从文字处理文档中提取都柏林核心元数据。
+此示例演示如何从 WordProcessing 文档中提取 Dublin Core 元数据。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.InputDocx))

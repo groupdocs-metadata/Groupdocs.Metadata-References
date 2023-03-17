@@ -1,14 +1,14 @@
 ---
 title: UriPhotos
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取一个数组其中包含由 URI 表示的图像或照片信息这些信息用于注释对象的某些方面
+description: 获取一个数组其中包含由 URI 表示的图像或照片信息这些 URI 注释对象的某些方面
 type: docs
 weight: 230
 url: /zh/net/groupdocs.metadata.formats.businesscard/vcardidentificationrecordset/uriphotos/
 ---
 ## VCardIdentificationRecordset.UriPhotos property
 
-获取一个数组，其中包含由 URI 表示的图像或照片信息，这些信息用于注释对象的某些方面。
+获取一个数组，其中包含由 URI 表示的图像或照片信息，这些 URI 注释对象的某些方面。
 
 ```csharp
 public string[] UriPhotos { get; }
@@ -20,7 +20,7 @@ public string[] UriPhotos { get; }
 
 ### 评论
 
-这个属性是一个简化版[`PhotoUriRecords`](../photourirecords).
+此属性是[`PhotoUriRecords`](../photourirecords).
 
 ### 也可以看看
 

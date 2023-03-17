@@ -1,14 +1,14 @@
 ---
 title: Cms
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示使用加密消息语法 CMS  IETF 的加密保护消息标准创建的数字签名 CMS 基于 PKCS 7 的语法在 RFC 5652 中指定 请参阅https//tools.ietf.org/html/rfc5652https//tools.ietf.org/html/rfc5652了解更多信息
+description: 表示使用加密消息语法 CMS 创建的数字签名  IETF 的加密保护消息标准 CMS 基于 PKCS 7 的语法在 RFC 5652 中指定 请参阅https//tools.ietf.org/html/rfc5652https//tools.ietf.org/html/rfc5652了解更多信息
 type: docs
 weight: 2960
 url: /zh/net/groupdocs.metadata.standards.pkcs/cms/
 ---
 ## Cms class
 
-表示使用加密消息语法 (CMS) - IETF 的加密保护消息标准创建的数字签名。 CMS 基于 PKCS #7 的语法，在 RFC 5652 中指定。 请参阅[https://tools.ietf.org/html/rfc5652](https://tools.ietf.org/html/rfc5652)了解更多信息。
+表示使用加密消息语法 (CMS) 创建的数字签名 - IETF 的加密保护消息标准。 CMS 基于 PKCS #7 的语法，在 RFC 5652 中指定。 请参阅[https://tools.ietf.org/html/rfc5652](https://tools.ietf.org/html/rfc5652)了解更多信息。
 
 ```csharp
 public class Cms : DigitalSignature
@@ -23,10 +23,10 @@ public class Cms : DigitalSignature
 | [CertificateSubject](../../groupdocs.metadata.standards.signing/digitalsignature/certificatesubject) { get; } | 从证书中获取使用者专有名称。 |
 | [Comments](../../groupdocs.metadata.standards.signing/digitalsignature/comments) { get; } | 获取签名目的注释。 |
 | [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | 获取元数据属性的数量。 |
-| [DigestAlgorithms](../../groupdocs.metadata.standards.pkcs/cms/digestalgorithms) { get; } | 获取消息摘要算法标识符的数组。集合中可能有任意数量的元素，包括零。 |
-| [EncapsulatedContent](../../groupdocs.metadata.standards.pkcs/cms/encapsulatedcontent) { get; } | 获取签名的内容，由内容类型标识符和内容本身组成。 |
-| virtual [IsValid](../../groupdocs.metadata.standards.signing/digitalsignature/isvalid) { get; } | 获取一个表示签名是否有效的值。 |
-| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定的名称。 |
+| [DigestAlgorithms](../../groupdocs.metadata.standards.pkcs/cms/digestalgorithms) { get; } | 获取消息摘要算法标识符数组。集合中可能有任意数量的元素，包括零个。 |
+| [EncapsulatedContent](../../groupdocs.metadata.standards.pkcs/cms/encapsulatedcontent) { get; } | 获取签名内容，由内容类型标识符和内容本身组成。 |
+| virtual [IsValid](../../groupdocs.metadata.standards.signing/digitalsignature/isvalid) { get; } | 获取签名是否有效的值。 |
+| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定名称. |
 | [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | 获取元数据属性名称的集合。 |
 | [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | 获取元数据类型。 |
 | [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | 获取描述符集合，其中包含有关可通过 GroupDocs.Metadata 搜索引擎访问的属性的信息。 |
@@ -43,7 +43,7 @@ public class Cms : DigitalSignature
 | [GetEnumerator](../../groupdocs.metadata.common/metadatapackage/getenumerator)() | 返回一个遍历集合的枚举器。 |
 | virtual [RemoveProperties](../../groupdocs.metadata.common/metadatapackage/removeproperties)(Func&lt;MetadataProperty, bool&gt;) | 删除满足指定谓词的元数据属性。 |
 | virtual [Sanitize](../../groupdocs.metadata.common/metadatapackage/sanitize)() | 从包中删除可写元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
-| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
+| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是以下方法的组合[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
 | [UpdateProperties](../../groupdocs.metadata.common/metadatapackage/updateproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 更新满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: PdfRootPackage
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示允许在 PDF 文档中处理元数据的根包
+description: 表示允许在 PDF 文档中使用元数据的根包
 type: docs
 weight: 1040
 url: /zh/net/groupdocs.metadata.formats.document/pdfrootpackage/
 ---
 ## PdfRootPackage class
 
-表示允许在 PDF 文档中处理元数据的根包。
+表示允许在 PDF 文档中使用元数据的根包。
 
 ```csharp
 public class PdfRootPackage : DocumentRootPackage<PdfPackage>, IXmp
@@ -19,11 +19,11 @@ public class PdfRootPackage : DocumentRootPackage<PdfPackage>, IXmp
 | 姓名 | 描述 |
 | --- | --- |
 | [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | 获取元数据属性的数量。 |
-| virtual [DocumentProperties](../../groupdocs.metadata.formats.document/documentrootpackage-1/documentproperties) { get; } | 获取文档中呈现的本机元数据属性。 |
+| virtual [DocumentProperties](../../groupdocs.metadata.formats.document/documentrootpackage-1/documentproperties) { get; } | 获取文档中显示的本机元数据属性。 |
 | [DocumentStatistics](../../groupdocs.metadata.formats.document/pdfrootpackage/documentstatistics) { get; } | 获取文档统计包。 |
 | [FileType](../../groupdocs.metadata.formats.document/pdfrootpackage/filetype) { get; } | 获取文件类型元数据包。 (2 properties) |
-| [InspectionPackage](../../groupdocs.metadata.formats.document/pdfrootpackage/inspectionpackage) { get; } | 获取包含文档检查结果的元数据包。 该包包含有关在某些情况下可被视为元数据的文档部分的信息。 |
-| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定的名称。 |
+| [InspectionPackage](../../groupdocs.metadata.formats.document/pdfrootpackage/inspectionpackage) { get; } | 获取包含文档检查结果的元数据包。 该包包含有关文档部分的信息，在某些情况下可以将其视为元数据。 |
+| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定名称. |
 | [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | 获取元数据属性名称的集合。 |
 | [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | 获取元数据类型。 |
 | [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | 获取描述符集合，其中包含有关可通过 GroupDocs.Metadata 搜索引擎访问的属性的信息。 |
@@ -39,12 +39,12 @@ public class PdfRootPackage : DocumentRootPackage<PdfPackage>, IXmp
 | [GetEnumerator](../../groupdocs.metadata.common/metadatapackage/getenumerator)() | 返回一个遍历集合的枚举器。 |
 | virtual [RemoveProperties](../../groupdocs.metadata.common/metadatapackage/removeproperties)(Func&lt;MetadataProperty, bool&gt;) | 删除满足指定谓词的元数据属性。 |
 | override [Sanitize](../../groupdocs.metadata.common/rootmetadatapackage/sanitize)() | 从包中删除可写元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
-| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
+| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是以下方法的组合[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
 | [UpdateProperties](../../groupdocs.metadata.common/metadatapackage/updateproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 更新满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [使用 PDF 文档中的元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+PDF+documents)
 * [使用 XMP 元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+XMP+metadata)

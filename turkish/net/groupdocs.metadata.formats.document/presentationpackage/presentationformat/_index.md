@@ -1,14 +1,14 @@
 ---
 title: PresentationFormat
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: Sunum biçimini alır.
+description: Sunum formatını alır.
 type: docs
 weight: 160
 url: /tr/net/groupdocs.metadata.formats.document/presentationpackage/presentationformat/
 ---
 ## PresentationPackage.PresentationFormat property
 
-Sunum biçimini alır.
+Sunum formatını alır.
 
 ```csharp
 public string PresentationFormat { get; }

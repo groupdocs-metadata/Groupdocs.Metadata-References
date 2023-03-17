@@ -20,7 +20,7 @@ Das BMP-Header-Metadatenpaket.
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * [Arbeiten mit BMP-Metadaten](https://docs.groupdocs.com/display/metadatanet/Working+with+BMP+metadata)
 

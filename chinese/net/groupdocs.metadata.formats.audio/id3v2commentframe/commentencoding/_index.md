@@ -1,14 +1,14 @@
 ---
 title: CommentEncoding
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取评论的编码
+description: 获取注释的编码
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2commentframe/commentencoding/
 ---
 ## ID3V2CommentFrame.CommentEncoding property
 
-获取评论的编码。
+获取注释的编码。
 
 ```csharp
 public ID3V2EncodingType CommentEncoding { get; }
@@ -16,7 +16,7 @@ public ID3V2EncodingType CommentEncoding { get; }
 
 ### 适当的价值
 
-评论的编码。
+注释的编码。
 
 ### 也可以看看
 

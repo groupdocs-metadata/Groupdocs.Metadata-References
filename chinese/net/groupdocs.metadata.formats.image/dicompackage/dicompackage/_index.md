@@ -1,14 +1,14 @@
 ---
 title: DicomPackage
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化Metadatagroupdocs.metadata/metadata类.
+description: 初始化一个新的实例Metadatagroupdocs.metadata/metadata类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.image/dicompackage/dicompackage/
 ---
 ## DicomPackage constructor
 
-初始化[`Metadata`](../../../groupdocs.metadata/metadata)类.
+初始化一个新的实例[`Metadata`](../../../groupdocs.metadata/metadata)类.
 
 ```csharp
 public DicomPackage()

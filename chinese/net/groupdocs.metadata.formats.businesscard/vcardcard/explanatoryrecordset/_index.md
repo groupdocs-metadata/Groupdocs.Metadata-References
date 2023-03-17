@@ -16,7 +16,7 @@ public VCardExplanatoryRecordset ExplanatoryRecordset { get; }
 
 ### 适当的价值
 
-解释记录。
+解释性记录。
 
 ### 也可以看看
 

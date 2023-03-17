@@ -1,14 +1,14 @@
 ---
 title: GroupingIdentity
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取一个值该值指示该帧是否属于一组帧 如果设置组标识符字节被添加到帧头 具有相同组标识符的每一帧都属于同一个组
+description: 获取一个值表示该帧是否属于一组帧 如果设置组标识符字节添加到帧头 具有相同组标识符的每个帧都属于同一组
 type: docs
 weight: 50
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2tagframeflags/groupingidentity/
 ---
 ## ID3V2TagFrameFlags.GroupingIdentity property
 
-获取一个值，该值指示该帧是否属于一组帧。 如果设置组标识符字节被添加到帧头。 具有相同组标识符的每一帧都属于同一个组。
+获取一个值，表示该帧是否属于一组帧。 如果设置组标识符字节添加到帧头。 具有相同组标识符的每个帧都属于同一组。
 
 ```csharp
 public bool GroupingIdentity { get; }
@@ -16,7 +16,7 @@ public bool GroupingIdentity { get; }
 
 ### 适当的价值
 
-`真的`, 如果该帧属于一组帧；否则为假。
+`真的`, 如果帧属于一组帧；否则，假的。
 
 ### 也可以看看
 

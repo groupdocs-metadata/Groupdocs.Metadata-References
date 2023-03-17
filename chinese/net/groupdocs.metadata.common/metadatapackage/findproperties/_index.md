@@ -16,17 +16,17 @@ public virtual IEnumerable<MetadataProperty> FindProperties(Func<MetadataPropert
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| predicate | Func`2 | 用于测试每个元数据属性的条件的函数。 |
+| predicate | Func`2 | 用于测试条件的每个元数据属性的函数。 |
 
 ### 返回值
 
-一个IEnumerable包含满足条件的包中的属性。
+一个IEnumerable包含包中满足条件的属性。
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* 更多演示此方法用法的示例： [提取元数据](https://docs.groupdocs.com/display/metadatanet/Extracting+metadata)
+* 更多示例演示此方法的用法： [提取元数据](https://docs.groupdocs.com/display/metadatanet/Extracting+metadata)
 
 ### 也可以看看
 

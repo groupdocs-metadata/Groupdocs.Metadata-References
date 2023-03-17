@@ -1,14 +1,14 @@
 ---
 title: Flags
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: Başlık işaretlerini alır.
+description: Başlık bayraklarını alır.
 type: docs
 weight: 40
 url: /tr/net/groupdocs.metadata.formats.font/opentypefont/flags/
 ---
 ## OpenTypeFont.Flags property
 
-Başlık işaretlerini alır.
+Başlık bayraklarını alır.
 
 ```csharp
 public OpenTypeFlags Flags { get; }

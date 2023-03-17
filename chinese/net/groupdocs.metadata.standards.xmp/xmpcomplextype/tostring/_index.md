@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 返回一个String代表这个实例
+description: 返回一个String代表这个实例.
 type: docs
 weight: 50
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpcomplextype/tostring/
 ---
 ## XmpComplexType.ToString method
 
-返回一个String代表这个实例。
+返回一个String代表这个实例.
 
 ```csharp
 public override string ToString()
@@ -16,7 +16,7 @@ public override string ToString()
 
 ### 返回值
 
-一个String代表这个实例。
+一个String代表这个实例.
 
 ### 也可以看看
 

@@ -20,13 +20,13 @@ EPUB 元数据包。
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* [在 EPUB 电子书中处理元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+EPUB+E-Books)
+* [在 EPUB 电子书中使用元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+EPUB+E-Books)
 
 ### 例子
 
-此代码示例展示了如何读取 EPUB 格式特定的元数据属性。
+此代码示例展示了如何读取特定于 EPUB 格式的元数据属性。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.InputEpub))

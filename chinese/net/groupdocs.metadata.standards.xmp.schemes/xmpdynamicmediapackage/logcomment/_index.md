@@ -16,7 +16,7 @@ public string LogComment { get; set; }
 
 ### 适当的价值
 
-用户的日志评论。
+用户日志评论.
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: XmpJob
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpJobgroupdocs.metadata.standards.xmp/xmpjob类.
+description: 初始化一个新的实例XmpJobgroupdocs.metadata.standards.xmp/xmpjob类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpjob/xmpjob/
 ---
 ## XmpJob constructor
 
-初始化[`XmpJob`](../../xmpjob)类.
+初始化一个新的实例[`XmpJob`](../../xmpjob)类.
 
 ```csharp
 public XmpJob()

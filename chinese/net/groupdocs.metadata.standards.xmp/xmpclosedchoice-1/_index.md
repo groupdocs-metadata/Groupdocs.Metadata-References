@@ -22,10 +22,10 @@ public abstract class XmpClosedChoice<T> : IEquatable<XmpClosedChoice>
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Equals](../../groupdocs.metadata.standards.xmp/xmpclosedchoice-1/equals#equals_1)(object) | 表示当前对象是否等于另一个同类型的对象。 |
+| override [Equals](../../groupdocs.metadata.standards.xmp/xmpclosedchoice-1/equals#equals_1)(object) | 表示当前对象是否等于另一个相同类型的对象。 |
 | [Equals](../../groupdocs.metadata.standards.xmp/xmpclosedchoice-1/equals#equals)(XmpClosedChoice) |  |
 | override [GetHashCode](../../groupdocs.metadata.standards.xmp/xmpclosedchoice-1/gethashcode)() | 返回此实例的哈希码。 |
-| override [ToString](../../groupdocs.metadata.standards.xmp/xmpclosedchoice-1/tostring)() | 返回一个String代表这个实例。 |
+| override [ToString](../../groupdocs.metadata.standards.xmp/xmpclosedchoice-1/tostring)() | 返回一个String代表这个实例. |
 
 ### 也可以看看
 

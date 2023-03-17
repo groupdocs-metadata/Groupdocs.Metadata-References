@@ -1,14 +1,14 @@
 ---
 title: TrackUid
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取唯一 ID 以标识 Track 在将 Track 直接流复制到另一个文件时这应该保持不变
+description: 获取唯一 ID 以标识轨道 在将轨道直接流复制到另一个文件时应保持相同
 type: docs
 weight: 100
 url: /zh/net/groupdocs.metadata.formats.video/matroskatrack/trackuid/
 ---
 ## MatroskaTrack.TrackUid property
 
-获取唯一 ID 以标识 Track。 在将 Track 直接流复制到另一个文件时，这应该保持不变。
+获取唯一 ID 以标识轨道。 在将轨道直接流复制到另一个文件时，应保持相同。
 
 ```csharp
 public ulong TrackUid { get; }
@@ -16,7 +16,7 @@ public ulong TrackUid { get; }
 
 ### 适当的价值
 
-用于标识 Track 的唯一 ID。
+用于标识轨道的唯一 ID。
 
 ### 也可以看看
 

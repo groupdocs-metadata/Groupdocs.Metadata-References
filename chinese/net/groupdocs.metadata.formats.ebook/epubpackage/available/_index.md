@@ -1,14 +1,14 @@
 ---
 title: Available
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置资源变为或将变为可用的日期
+description: 获取或设置资源可用或将可用的日期
 type: docs
 weight: 80
 url: /zh/net/groupdocs.metadata.formats.ebook/epubpackage/available/
 ---
 ## EpubPackage.Available property
 
-获取或设置资源变为或将变为可用的日期。
+获取或设置资源可用或将可用的日期。
 
 ```csharp
 public string Available { get; set; }
@@ -16,7 +16,7 @@ public string Available { get; set; }
 
 ### 适当的价值
 
-资源变为或将变为可用的日期。
+资源可用或将可用的日期。
 
 ### 也可以看看
 

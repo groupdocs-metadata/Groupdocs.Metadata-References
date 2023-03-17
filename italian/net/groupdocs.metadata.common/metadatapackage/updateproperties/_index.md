@@ -27,7 +27,7 @@ Il numero di proprietà interessate.
 
 Si noti che GroupDocs.Metadata controlla implicitamente il tipo di ciascuna proprietà filtrata. Impossibile aggiornare una proprietà con un valore di tipo non appropriato.
 
-**Scopri di più**
+**Saperne di più**
 
 * Altri esempi che dimostrano l'utilizzo di questo metodo: [Aggiornamento dei metadati](https://docs.groupdocs.com/display/metadatanet/Updating+metadata)
 

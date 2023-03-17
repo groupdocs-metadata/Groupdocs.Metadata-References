@@ -1,14 +1,14 @@
 ---
 title: TiffRationalTag
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化TiffRationalTaggroupdocs.metadata.formats.image/tiffrationaltag类.
+description: 初始化一个新的实例TiffRationalTaggroupdocs.metadata.formats.image/tiffrationaltag类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.image/tiffrationaltag/tiffrationaltag/
 ---
 ## TiffRationalTag constructor
 
-初始化[`TiffRationalTag`](../../tiffrationaltag)类.
+初始化一个新的实例[`TiffRationalTag`](../../tiffrationaltag)类.
 
 ```csharp
 public TiffRationalTag(TiffTagID tagID, TiffRational[] value)
@@ -16,7 +16,7 @@ public TiffRationalTag(TiffTagID tagID, TiffRational[] value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| tagID | TiffTagID | 标签标识符。 |
+| tagID | TiffTagID | 标记标识符。 |
 | value | TiffRational[] | 价值。 |
 
 ### 也可以看看

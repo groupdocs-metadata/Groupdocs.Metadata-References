@@ -8,7 +8,7 @@ url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/bluehu
 ---
 ## XmpCameraRawPackage.BlueHue property
 
-获取或设置 BlueHue 值。如果未定义，则为空。
+获取或设置 BlueHue 值。如果未定义则为空。
 
 ```csharp
 public int? BlueHue { get; set; }
@@ -16,7 +16,7 @@ public int? BlueHue { get; set; }
 
 ### 适当的价值
 
-蓝色色调。
+蓝色调。
 
 ### 也可以看看
 

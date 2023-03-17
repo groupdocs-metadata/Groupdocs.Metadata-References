@@ -20,7 +20,7 @@ public string[] TimeZones { get; }
 
 ### 评论
 
-这个属性是一个简化版[`TimeZoneRecords`](../timezonerecords).
+此属性是[`TimeZoneRecords`](../timezonerecords).
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: EditStatus
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置对象数据的状态根据提供者的做法
+description: 获取或设置对象数据的状态根据提供者的惯例
 type: docs
 weight: 90
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpiptciimpackage/editstatus/
 ---
 ## XmpIptcIimPackage.EditStatus property
 
-获取或设置对象数据的状态，根据提供者的做法。
+获取或设置对象数据的状态，根据提供者的惯例。
 
 ```csharp
 public string EditStatus { get; set; }

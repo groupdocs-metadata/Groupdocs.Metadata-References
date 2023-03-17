@@ -1,14 +1,14 @@
 ---
 title: DateUtc
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取多路复用应用程序或库创建 Segment 的日期和时间
+description: 获取由 muxing 应用程序或库创建段的日期和时间
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.video/matroskasegment/dateutc/
 ---
 ## MatroskaSegment.DateUtc property
 
-获取多路复用应用程序或库创建 Segment 的日期和时间。
+获取由 muxing 应用程序或库创建段的日期和时间。
 
 ```csharp
 public DateTime? DateUtc { get; }
@@ -16,7 +16,7 @@ public DateTime? DateUtc { get; }
 
 ### 适当的价值
 
-多路复用应用程序或库创建段的日期和时间。
+muxing 应用程序或库创建分段的日期和时间。
 
 ### 也可以看看
 

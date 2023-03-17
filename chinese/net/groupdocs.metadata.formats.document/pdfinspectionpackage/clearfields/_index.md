@@ -1,14 +1,14 @@
 ---
 title: ClearFields
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 从文档中删除所有检测到的表单字段
+description: 从文档中删除所有检测到的表单域
 type: docs
 weight: 100
 url: /zh/net/groupdocs.metadata.formats.document/pdfinspectionpackage/clearfields/
 ---
 ## PdfInspectionPackage.ClearFields method
 
-从文档中删除所有检测到的表单字段。
+从文档中删除所有检测到的表单域。
 
 ```csharp
 public void ClearFields()

@@ -24,7 +24,7 @@ public class PageInfo
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * [Получить информацию о документе](https://docs.groupdocs.com/display/metadatanet/Get+document+info)
 

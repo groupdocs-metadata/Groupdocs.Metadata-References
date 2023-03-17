@@ -26,7 +26,7 @@ public class PropertyValue
 | [PropertyValue](propertyvalue#constructor_4)(int) | Initierar en ny instans av[`PropertyValue`](../propertyvalue) klass med ett heltalsvärde. |
 | [PropertyValue](propertyvalue#constructor_5)(int[]) | Initierar en ny instans av[`PropertyValue`](../propertyvalue) klass med en matris med heltalsvärden. |
 | [PropertyValue](propertyvalue#constructor_6)(long) | Initierar en ny instans av[`PropertyValue`](../propertyvalue) klass med ett långt värde. |
-| [PropertyValue](propertyvalue#constructor_7)(long[]) | Initierar en ny instans av[`PropertyValue`](../propertyvalue)klass med en matris med långa värden. |
+| [PropertyValue](propertyvalue#constructor_7)(long[]) | Initierar en ny instans av[`PropertyValue`](../propertyvalue) klass med en matris med långa värden. |
 | [PropertyValue](propertyvalue#constructor_9)(string) | Initierar en ny instans av[`PropertyValue`](../propertyvalue) klass med ett strängvärde. |
 | [PropertyValue](propertyvalue#constructor_10)(string[]) | Initierar en ny instans av[`PropertyValue`](../propertyvalue) klass med en strängarray. |
 | [PropertyValue](propertyvalue#constructor_11)(TimeSpan) | Initierar en ny instans av[`PropertyValue`](../propertyvalue) klass med enTimeSpan värde. |

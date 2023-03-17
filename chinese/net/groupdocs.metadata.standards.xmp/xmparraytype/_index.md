@@ -1,14 +1,14 @@
 ---
 title: XmpArrayType
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示数组类型在XmpArray./xmparray.
+description: 代表数组类型inXmpArray./xmparray.
 type: docs
 weight: 3260
 url: /zh/net/groupdocs.metadata.standards.xmp/xmparraytype/
 ---
 ## XmpArrayType enumeration
 
-表示数组类型在[`XmpArray`](../xmparray).
+代表数组类型in[`XmpArray`](../xmparray).
 
 ```csharp
 public enum XmpArrayType
@@ -18,8 +18,8 @@ public enum XmpArrayType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Unordered | `0` | 一个无序数组。 |
-| Ordered | `1` | 一个有序数组。 |
+| Unordered | `0` | 无序数组。 |
+| Ordered | `1` | 有序数组。 |
 | Alternative | `2` | 另一个数组。 |
 
 ### 也可以看看

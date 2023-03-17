@@ -1,14 +1,14 @@
 ---
 title: XmpTimeFormat
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示时间格式XmpTimecode../groupdocs.metadata.standards.xmp/xmptimecode.
+description: 表示时间格式在XmpTimecode../groupdocs.metadata.standards.xmp/xmptimecode.
 type: docs
 weight: 3230
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmptimeformat/
 ---
 ## XmpTimeFormat class
 
-表示时间格式[`XmpTimecode`](../../groupdocs.metadata.standards.xmp/xmptimecode).
+表示时间格式在[`XmpTimecode`](../../groupdocs.metadata.standards.xmp/xmptimecode).
 
 ```csharp
 public sealed class XmpTimeFormat : XmpClosedChoice<string>
@@ -21,12 +21,12 @@ public sealed class XmpTimeFormat : XmpClosedChoice<string>
 | static [DropTimecode2997](../../groupdocs.metadata.standards.xmp.schemes/xmptimeformat/droptimecode2997) { get; } | 获取 2997DropTimecode. |
 | static [DropTimecode5994](../../groupdocs.metadata.standards.xmp.schemes/xmptimeformat/droptimecode5994) { get; } | 获取 5994DropTimecode. |
 | static [NonDropTimecode2997](../../groupdocs.metadata.standards.xmp.schemes/xmptimeformat/nondroptimecode2997) { get; } | 获取 2997NonDropTimecode. |
-| static [NonDropTimecode5994](../../groupdocs.metadata.standards.xmp.schemes/xmptimeformat/nondroptimecode5994) { get; } | 获取 5994NonDropTimecode. |
+| static [NonDropTimecode5994](../../groupdocs.metadata.standards.xmp.schemes/xmptimeformat/nondroptimecode5994) { get; } | 获取 5994NonDropTimecode。 |
 | static [Timecode23976](../../groupdocs.metadata.standards.xmp.schemes/xmptimeformat/timecode23976) { get; } | 获取 23976 时间码。 |
 | static [Timecode24](../../groupdocs.metadata.standards.xmp.schemes/xmptimeformat/timecode24) { get; } | 获取 24 时间码。 |
 | static [Timecode25](../../groupdocs.metadata.standards.xmp.schemes/xmptimeformat/timecode25) { get; } | 获取 25 时间码。 |
-| static [Timecode30](../../groupdocs.metadata.standards.xmp.schemes/xmptimeformat/timecode30) { get; } | 获取 30 时间码。 |
-| static [Timecode50](../../groupdocs.metadata.standards.xmp.schemes/xmptimeformat/timecode50) { get; } | 获取 50 时间码。 |
+| static [Timecode30](../../groupdocs.metadata.standards.xmp.schemes/xmptimeformat/timecode30) { get; } | 获取 30 个时间码。 |
+| static [Timecode50](../../groupdocs.metadata.standards.xmp.schemes/xmptimeformat/timecode50) { get; } | 获取 50 个时间码。 |
 | static [Timecode60](../../groupdocs.metadata.standards.xmp.schemes/xmptimeformat/timecode60) { get; } | 获取 60 时间码。 |
 
 ## 方法

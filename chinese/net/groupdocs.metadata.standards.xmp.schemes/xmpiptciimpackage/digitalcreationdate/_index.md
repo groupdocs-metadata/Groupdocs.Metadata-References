@@ -1,14 +1,14 @@
 ---
 title: DigitalCreationDate
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置对象数据的数字表示的创建日期
+description: 获取或设置创建对象数据的数字表示的日期
 type: docs
 weight: 80
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpiptciimpackage/digitalcreationdate/
 ---
 ## XmpIptcIimPackage.DigitalCreationDate property
 
-获取或设置对象数据的数字表示的创建日期。
+获取或设置创建对象数据的数字表示的日期。
 
 ```csharp
 public DateTime? DigitalCreationDate { get; set; }
@@ -16,7 +16,7 @@ public DateTime? DigitalCreationDate { get; set; }
 
 ### 适当的价值
 
-数字创作日期。
+数字创建日期。
 
 ### 也可以看看
 

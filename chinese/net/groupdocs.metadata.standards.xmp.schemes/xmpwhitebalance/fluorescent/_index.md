@@ -16,7 +16,7 @@ public static XmpWhiteBalance Fluorescent { get; }
 
 ### 适当的价值
 
-荧光灯.
+荧光.
 
 ### 也可以看看
 

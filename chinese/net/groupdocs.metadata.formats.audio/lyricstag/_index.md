@@ -1,14 +1,14 @@
 ---
 title: LyricsTag
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 代表 Lyrics3 v2.00 元数据 请在以下位置找到更多信息http//id3.org/Lyrics3v2.
+description: 表示 Lyrics3 v2.00 元数据 请在以下位置找到更多信息http//id3.org/Lyrics3v2.
 type: docs
 weight: 570
 url: /zh/net/groupdocs.metadata.formats.audio/lyricstag/
 ---
 ## LyricsTag class
 
-代表 Lyrics3 v2.00 元数据。 请在以下位置找到更多信息http://id3.org/Lyrics3v2.
+表示 Lyrics3 v2.00 元数据。 请在以下位置找到更多信息http://id3.org/Lyrics3v2.
 
 ```csharp
 public sealed class LyricsTag : CustomPackage
@@ -18,20 +18,20 @@ public sealed class LyricsTag : CustomPackage
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LyricsTag](lyricstag)() | 初始化[`LyricsTag`](../lyricstag)类. |
+| [LyricsTag](lyricstag)() | 初始化一个新的实例[`LyricsTag`](../lyricstag)类. |
 
 ## 特性
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AdditionalInfo](../../groupdocs.metadata.formats.audio/lyricstag/additionalinfo) { get; set; } | 获取或设置附加信息。 该值由INF字段表示。 |
-| [Album](../../groupdocs.metadata.formats.audio/lyricstag/album) { get; set; } | 获取或设置专辑名称。 这个值由EAL字段表示。 |
-| [Artist](../../groupdocs.metadata.formats.audio/lyricstag/artist) { get; set; } | 获取或设置艺术家姓名。 该值由 EAR 字段表示。 |
-| [Author](../../groupdocs.metadata.formats.audio/lyricstag/author) { get; set; } | 获取或设置作者。 该值由AUT字段表示。 |
+| [AdditionalInfo](../../groupdocs.metadata.formats.audio/lyricstag/additionalinfo) { get; set; } | 获取或设置附加信息。 此值由 INF 字段表示。 |
+| [Album](../../groupdocs.metadata.formats.audio/lyricstag/album) { get; set; } | 获取或设置专辑名称。 该值由 EAL 字段表示。 |
+| [Artist](../../groupdocs.metadata.formats.audio/lyricstag/artist) { get; set; } | 获取或设置艺术家姓名。 此值由 EAR 字段表示。 |
+| [Author](../../groupdocs.metadata.formats.audio/lyricstag/author) { get; set; } | 获取或设置作者。 该值由 AUT 字段表示。 |
 | [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | 获取元数据属性的数量。 |
-| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定的名称。 |
+| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定名称. |
 | [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | 获取元数据属性名称的集合。 |
-| [Lyrics](../../groupdocs.metadata.formats.audio/lyricstag/lyrics) { get; set; } | 获取或设置歌词。 这个值由LYR字段表示。 |
+| [Lyrics](../../groupdocs.metadata.formats.audio/lyricstag/lyrics) { get; set; } | 获取或设置歌词。 该值由 LYR 字段表示。 |
 | [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | 获取元数据类型。 |
 | [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | 获取描述符集合，其中包含有关可通过 GroupDocs.Metadata 搜索引擎访问的属性的信息。 |
 | [Track](../../groupdocs.metadata.formats.audio/lyricstag/track) { get; set; } | 获取或设置曲目标题。 该值由 ETT 字段表示。 |
@@ -43,21 +43,21 @@ public sealed class LyricsTag : CustomPackage
 | [AddProperties](../../groupdocs.metadata.common/metadatapackage/addproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 添加满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
 | [Contains](../../groupdocs.metadata.common/metadatapackage/contains)(string) | 确定包是否包含具有指定名称的元数据属性。 |
 | virtual [FindProperties](../../groupdocs.metadata.common/metadatapackage/findproperties)(Func&lt;MetadataProperty, bool&gt;) | 查找满足指定谓词的元数据属性。 搜索是递归的，因此它也会影响所有嵌套包。 |
-| [Get](../../groupdocs.metadata.formats.audio/lyricstag/get)(string) | 获取指定id的字段的值。 |
+| [Get](../../groupdocs.metadata.formats.audio/lyricstag/get)(string) | 获取指定id字段的值。 |
 | [GetEnumerator](../../groupdocs.metadata.common/metadatapackage/getenumerator)() | 返回一个遍历集合的枚举器。 |
-| [Remove](../../groupdocs.metadata.formats.audio/lyricstag/remove)(string) | 删除具有指定 id 的字段。 |
+| [Remove](../../groupdocs.metadata.formats.audio/lyricstag/remove)(string) | 移除指定id的字段。 |
 | virtual [RemoveProperties](../../groupdocs.metadata.common/metadatapackage/removeproperties)(Func&lt;MetadataProperty, bool&gt;) | 删除满足指定谓词的元数据属性。 |
 | virtual [Sanitize](../../groupdocs.metadata.common/metadatapackage/sanitize)() | 从包中删除可写元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
 | [Set](../../groupdocs.metadata.formats.audio/lyricstag/set)(LyricsField) | 添加或替换指定的 Lyrics3 字段。 |
-| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
+| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是以下方法的组合[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
 | [ToList](../../groupdocs.metadata.formats.audio/lyricstag/tolist)() | 从包中创建一个列表。 |
 | [UpdateProperties](../../groupdocs.metadata.common/metadatapackage/updateproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 更新满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
 
 ### 评论
 
-Lyrics3 v2.00 使用字段来表示信息。 根据标准，字段中的数据可以由 01 到 254 范围内的 ASCII 字符组成。 由于 ASCII 字符映射仅定义从 00 到 128 ISO-8859-可以假设为 1。数字字段的长度为 5 或 6 个字符，具体取决于位置，并用零填充。
+Lyrics3 v2.00使用字段来表示信息。 字段中的数据可以由标准的01到254范围内的ASCII字符组成。 因为ASCII字符映射只定义了00到128 ISO-8859- 1 可以假设。数字字段的长度为 5 或 6 个字符，具体取决于位置，并用零填充。
 
-**学到更多**
+**了解更多**
 
 * [处理歌词标签](https://docs.groupdocs.com/display/metadatanet/Handling+the+Lyrics+tag)
 
@@ -79,7 +79,7 @@ using (Metadata metadata = new Metadata(Constants.MP3WithLyrics))
 
         // ...
 
-        // 或者，您可以遍历标签字段的完整列表
+        // 或者，您可以遍历完整的标签字段列表
         foreach (var field in root.Lyrics3V2.ToList())
         {
             Console.WriteLine("{0} = {1}", field.ID, field.Data);

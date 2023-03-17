@@ -16,7 +16,7 @@ public bool? AutoExposure { get; set; }
 
 ### Mülk değeri
 
-`doğru` [otomatik pozlama] ise; aksi halde,`yanlış` .
+`doğru` [otomatik pozlama] ise; aksi takdirde,`YANLIŞ` .
 
 ### Ayrıca bakınız
 

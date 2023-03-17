@@ -1,14 +1,14 @@
 ---
 title: Left
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取左侧图层位置
+description: 获取左图层位置
 type: docs
 weight: 60
 url: /zh/net/groupdocs.metadata.formats.image/psdlayer/left/
 ---
 ## PsdLayer.Left property
 
-获取左侧图层位置。
+获取左图层位置。
 
 ```csharp
 public int Left { get; }
@@ -16,7 +16,7 @@ public int Left { get; }
 
 ### 适当的价值
 
-左层位置。
+左边图层位置.
 
 ### 也可以看看
 

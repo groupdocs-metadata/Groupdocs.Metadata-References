@@ -16,7 +16,7 @@ public IReadOnlyList<SpreadsheetContentTypeProperty> ToList()
 
 ### 返回值
 
-包含包中的属性的列表。
+包含包中属性的列表。
 
 ### 也可以看看
 

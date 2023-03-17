@@ -1,14 +1,14 @@
 ---
 title: Encryption
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取一个表示帧是否加密的值 如果设置一个字节指示使用哪种方法加密将附加到帧头
+description: 获取表示帧是否加密的值 如果设置一个字节指示加密的方法将附加到帧头
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2tagframeflags/encryption/
 ---
 ## ID3V2TagFrameFlags.Encryption property
 
-获取一个表示帧是否加密的值。 如果设置一个字节，指示使用哪种方法加密，将附加到帧头。
+获取表示帧是否加密的值。 如果设置一个字节指示加密的方法将附加到帧头。
 
 ```csharp
 public bool Encryption { get; }
@@ -16,7 +16,7 @@ public bool Encryption { get; }
 
 ### 适当的价值
 
-`真的`如果帧被加密；否则为假。
+`真的`，如果帧是加密的；否则，假的。
 
 ### 也可以看看
 

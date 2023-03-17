@@ -1,14 +1,14 @@
 ---
 title: XmpTypeVersion
 second_title: GroupDocs.Metadata for .NET API 参考
-description: XMP 版本.
+description: XMP 版本
 type: docs
 weight: 230
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpnamespaces/xmptypeversion/
 ---
 ## XmpNamespaces.XmpTypeVersion field
 
-XMP 版本.
+XMP 版本。
 
 ```csharp
 public const string XmpTypeVersion;

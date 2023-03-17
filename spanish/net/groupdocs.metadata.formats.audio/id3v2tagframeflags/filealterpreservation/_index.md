@@ -1,14 +1,14 @@
 ---
 title: FileAlterPreservation
 second_title: Referencia de API de GroupDocs.Metadata para .NET
-description: Obtiene el indicador que le dice al software qué hacer con este marco si es desconocido y el archivo sin incluir la etiqueta se modifica. Esto no se aplica cuando el audio se reemplaza por completo con otros datos de audio.
+description: Obtiene el indicador que le dice al software qué hacer con este marco si es desconocido y el archivo sin incluir la etiqueta se altera. Esto no se aplica cuando el audio se reemplaza por completo con otros datos de audio.
 type: docs
 weight: 40
 url: /es/net/groupdocs.metadata.formats.audio/id3v2tagframeflags/filealterpreservation/
 ---
 ## ID3V2TagFrameFlags.FileAlterPreservation property
 
-Obtiene el indicador que le dice al software qué hacer con este marco si es desconocido y el archivo, sin incluir la etiqueta, se modifica. Esto no se aplica cuando el audio se reemplaza por completo con otros datos de audio.
+Obtiene el indicador que le dice al software qué hacer con este marco si es desconocido y el archivo, sin incluir la etiqueta, se altera. Esto no se aplica cuando el audio se reemplaza por completo con otros datos de audio.
 
 ```csharp
 public bool FileAlterPreservation { get; }

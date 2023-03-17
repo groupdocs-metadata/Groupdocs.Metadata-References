@@ -1,14 +1,14 @@
 ---
 title: MaxMemoryForCache
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置内存中缓存的最大可用内存以字节为单位 默认值为1073741824
+description: 获取或设置内存中缓存的最大可用内存字节数 默认值为1073741824.
 type: docs
 weight: 60
 url: /zh/net/groupdocs.metadata.options/previewoptions/maxmemoryforcache/
 ---
 ## PreviewOptions.MaxMemoryForCache property
 
-获取或设置内存中缓存的最大可用内存，以字节为单位。 默认值为1073741824。
+获取或设置内存中缓存的最大可用内存字节数。 默认值为1073741824.
 
 ```csharp
 public int MaxMemoryForCache { get; set; }

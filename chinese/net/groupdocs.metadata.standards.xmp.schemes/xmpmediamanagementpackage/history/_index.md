@@ -16,7 +16,7 @@ public XmpResourceEvent[] History { get; set; }
 
 ### 适当的价值
 
-导致此资源的高级操作数组。
+导致此资源的一系列高级操作。
 
 ### 也可以看看
 

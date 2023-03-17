@@ -1,14 +1,14 @@
 ---
 title: ImageResourcePackage
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取Photoshop图像资源元数据包 图像资源块是Photoshop原生文件格式的基本构建单元
+description: 获取 Photoshop 图像资源元数据包 图像资源块是 Photoshop 本机文件格式的基本构建单元
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.formats.image/psdrootpackage/imageresourcepackage/
 ---
 ## PsdRootPackage.ImageResourcePackage property
 
-获取Photoshop图像资源元数据包。 图像资源块是Photoshop原生文件格式的基本构建单元。
+获取 Photoshop 图像资源元数据包。 图像资源块是 Photoshop 本机文件格式的基本构建单元。
 
 ```csharp
 public ImageResourcePackage ImageResourcePackage { get; }
@@ -20,7 +20,7 @@ public ImageResourcePackage ImageResourcePackage { get; }
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [使用 PSD 图像中的元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+PSD+images)
 

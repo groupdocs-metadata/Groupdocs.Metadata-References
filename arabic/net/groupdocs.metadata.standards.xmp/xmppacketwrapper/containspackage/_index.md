@@ -20,7 +20,7 @@ public bool ContainsPackage(string namespaceUri)
 
 ### قيمة الإرجاع
 
-`حقيقي` إذا تم العثور على الحزمة بواسطة*namespaceUri* ؛ خلاف ذلك`خاطئة` .
+`حقيقي` إذا تم العثور على الحزمة بواسطة*namespaceUri* ؛ خلاف ذلك`خطأ شنيع` .
 
 ### استثناءات
 

@@ -1,14 +1,14 @@
 ---
 title: ID3V2AttachedPictureFrame
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化ID3V2AttachedPictureFramegroupdocs.metadata.formats.audio/id3v2attachedpictureframe类.
+description: 初始化一个新的实例ID3V2AttachedPictureFramegroupdocs.metadata.formats.audio/id3v2attachedpictureframe类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe/id3v2attachedpictureframe/
 ---
 ## ID3V2AttachedPictureFrame(ID3V2EncodingType, string, ID3V2AttachedPictureType, string, byte[]) {#constructor_2}
 
-初始化[`ID3V2AttachedPictureFrame`](../../id3v2attachedpictureframe)类.
+初始化一个新的实例[`ID3V2AttachedPictureFrame`](../../id3v2attachedpictureframe)类.
 
 ```csharp
 public ID3V2AttachedPictureFrame(ID3V2EncodingType encoding, string mimeType, 
@@ -21,7 +21,7 @@ public ID3V2AttachedPictureFrame(ID3V2EncodingType encoding, string mimeType,
 | mimeType | String | 图像的 MIME 类型。 |
 | pictureType | ID3V2AttachedPictureType | 图片的类型。 |
 | description | String | 图片的描述。 |
-| pictureData | Byte[] | 图片资料。 |
+| pictureData | Byte[] | 图片数据。 |
 
 ### 也可以看看
 
@@ -35,7 +35,7 @@ public ID3V2AttachedPictureFrame(ID3V2EncodingType encoding, string mimeType,
 
 ## ID3V2AttachedPictureFrame(ID3V2AttachedPictureType, string, byte[]) {#constructor_1}
 
-初始化[`ID3V2AttachedPictureFrame`](../../id3v2attachedpictureframe)类.
+初始化一个新的实例[`ID3V2AttachedPictureFrame`](../../id3v2attachedpictureframe)类.
 
 ```csharp
 public ID3V2AttachedPictureFrame(ID3V2AttachedPictureType pictureType, string description, 
@@ -46,7 +46,7 @@ public ID3V2AttachedPictureFrame(ID3V2AttachedPictureType pictureType, string de
 | --- | --- | --- |
 | pictureType | ID3V2AttachedPictureType | 图片的类型。 |
 | description | String | 图片的描述。 |
-| pictureData | Byte[] | 图片资料。 |
+| pictureData | Byte[] | 图片数据。 |
 
 ### 也可以看看
 
@@ -59,7 +59,7 @@ public ID3V2AttachedPictureFrame(ID3V2AttachedPictureType pictureType, string de
 
 ## ID3V2AttachedPictureFrame(byte[]) {#constructor}
 
-初始化[`ID3V2AttachedPictureFrame`](../../id3v2attachedpictureframe)类.
+初始化一个新的实例[`ID3V2AttachedPictureFrame`](../../id3v2attachedpictureframe)类.
 
 ```csharp
 public ID3V2AttachedPictureFrame(byte[] pictureData)
@@ -67,7 +67,7 @@ public ID3V2AttachedPictureFrame(byte[] pictureData)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| pictureData | Byte[] | 图片资料。 |
+| pictureData | Byte[] | 图片数据。 |
 
 ### 也可以看看
 

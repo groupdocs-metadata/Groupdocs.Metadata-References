@@ -1,14 +1,14 @@
 ---
 title: ToString
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 返回一个表示属性值的字符串
+description: 返回表示属性值的字符串
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpvaluebase/tostring/
 ---
 ## XmpValueBase.ToString method
 
-返回一个表示属性值的字符串。
+返回表示属性值的字符串。
 
 ```csharp
 public override string ToString()

@@ -19,7 +19,7 @@ public ID3V2AttachedPictureFrame(ID3V2EncodingType encoding, string mimeType,
 | --- | --- | --- |
 | encoding | ID3V2EncodingType | Ramkodningen. |
 | mimeType | String | Bildens MIME-typ. |
-| pictureType | ID3V2AttachedPictureType | Typen av bilden. |
+| pictureType | ID3V2AttachedPictureType | Typ av bild. |
 | description | String | Beskrivningen av bilden. |
 | pictureData | Byte[] | Bilddata. |
 
@@ -44,7 +44,7 @@ public ID3V2AttachedPictureFrame(ID3V2AttachedPictureType pictureType, string de
 
 | Parameter | Typ | Beskrivning |
 | --- | --- | --- |
-| pictureType | ID3V2AttachedPictureType | Typen av bilden. |
+| pictureType | ID3V2AttachedPictureType | Typ av bild. |
 | description | String | Beskrivningen av bilden. |
 | pictureData | Byte[] | Bilddata. |
 

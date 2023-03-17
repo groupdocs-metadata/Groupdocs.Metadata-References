@@ -32,7 +32,7 @@ url: /ru/net/groupdocs.metadata.standards.xmp/
 | [XmpLangAlt](./xmplangalt) | представляет собой альтернативу языку XMP. |
 | [XmpMeta](./xmpmeta) | Представляет xmpmeta. Необязательный. Целью этого элемента является идентификация метаданных XMP в общем тексте XML, которые могут содержать другие не-XMP варианты использования RDF. |
 | [XmpMetadataContainer](./xmpmetadatacontainer) | Представляет контейнер для свойств метаданных XMP. |
-| [XmpNamespaces](./xmpnamespaces) | Содержит пространства имен, используемые в[`XmpPackage`](../groupdocs.metadata.standards.xmp/xmppackage) а также[`XmpComplexType`](../groupdocs.metadata.standards.xmp/xmpcomplextype) . |
+| [XmpNamespaces](./xmpnamespaces) | Содержит пространства имен, используемые в[`XmpPackage`](../groupdocs.metadata.standards.xmp/xmppackage) и[`XmpComplexType`](../groupdocs.metadata.standards.xmp/xmpcomplextype) . |
 | [XmpPackage](./xmppackage) | Представляет базовую абстракцию для пакета XMP. |
 | [XmpPacketWrapper](./xmppacketwrapper) | Содержит сериализованный пакет XMP, включая заголовок и трейлер. Оболочка, состоящая из пары инструкций обработки XML (PI), может быть помещена вокруг элемента rdf:RDF. |
 | [XmpRational](./xmprational) | Представляет XMP XmpRational. |

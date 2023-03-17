@@ -16,7 +16,7 @@ public ushort? FileFormatVersion { get; set; }
 
 ### Fastighetsvärde
 
-Filformatets version.
+Filformatversionen.
 
 ### Se även
 

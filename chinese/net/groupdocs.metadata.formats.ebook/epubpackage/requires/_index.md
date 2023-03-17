@@ -1,14 +1,14 @@
 ---
 title: Requires
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置所描述资源支持其功能交付或一致性所需的相关资源
+description: 获取或设置所描述资源支持其功能交付或连贯性所需的相关资源
 type: docs
 weight: 460
 url: /zh/net/groupdocs.metadata.formats.ebook/epubpackage/requires/
 ---
 ## EpubPackage.Requires property
 
-获取或设置所描述资源支持其功能、交付或一致性所需的相关资源。
+获取或设置所描述资源支持其功能、交付或连贯性所需的相关资源。
 
 ```csharp
 public string Requires { get; set; }
@@ -16,7 +16,7 @@ public string Requires { get; set; }
 
 ### 适当的价值
 
-所描述资源支持其功能、交付或连贯性所需的相关资源。
+所描述的资源支持其功能、交付或连贯性所需的相关资源。
 
 ### 也可以看看
 

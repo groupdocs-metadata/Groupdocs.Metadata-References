@@ -1,14 +1,14 @@
 ---
 title: IXmp
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 定义旨在使用 XMP 元数据的基本操作
+description: 定义用于 XMP 元数据的基本操作
 type: docs
 weight: 3040
 url: /zh/net/groupdocs.metadata.standards.xmp/ixmp/
 ---
 ## IXmp interface
 
-定义旨在使用 XMP 元数据的基本操作。
+定义用于 XMP 元数据的基本操作。
 
 ```csharp
 public interface IXmp
@@ -22,7 +22,7 @@ public interface IXmp
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [使用 XMP 元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+XMP+metadata)
 

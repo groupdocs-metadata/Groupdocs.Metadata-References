@@ -1,14 +1,14 @@
 ---
 title: Value
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取以字符串表示的属性值
+description: 获取表示为字符串的属性值
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.standards.pkcs/cmsattribute/value/
 ---
 ## CmsAttribute.Value property
 
-获取以字符串表示的属性值。
+获取表示为字符串的属性值。
 
 ```csharp
 public string Value { get; }

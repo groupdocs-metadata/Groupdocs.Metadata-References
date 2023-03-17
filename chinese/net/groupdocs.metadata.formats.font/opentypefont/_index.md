@@ -26,21 +26,21 @@ public class OpenTypeFont : CustomPackage
 | [FontFamilyName](../../groupdocs.metadata.formats.font/opentypefont/fontfamilyname) { get; } | 获取字体系列的名称。 |
 | [FontRevision](../../groupdocs.metadata.formats.font/opentypefont/fontrevision) { get; } | 获取字体版本。 |
 | [FontSubfamilyName](../../groupdocs.metadata.formats.font/opentypefont/fontsubfamilyname) { get; } | 获取字体子系列的名称。 |
-| [FullFontName](../../groupdocs.metadata.formats.font/opentypefont/fullfontname) { get; } | 获取字体的全名。 |
+| [FullFontName](../../groupdocs.metadata.formats.font/opentypefont/fullfontname) { get; } | 获取字体全名。 |
 | [GlyphBounds](../../groupdocs.metadata.formats.font/opentypefont/glyphbounds) { get; } | 获取字形边界。 |
-| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定的名称。 |
+| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定名称. |
 | [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | 获取元数据属性名称的集合。 |
 | [MajorVersion](../../groupdocs.metadata.formats.font/opentypefont/majorversion) { get; } | 获取标头主要版本。 |
 | [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | 获取元数据类型。 |
 | [MinorVersion](../../groupdocs.metadata.formats.font/opentypefont/minorversion) { get; } | 获取标头次要版本。 |
 | [Modified](../../groupdocs.metadata.formats.font/opentypefont/modified) { get; } | 获取修改日期。 |
-| [Names](../../groupdocs.metadata.formats.font/opentypefont/names) { get; } | 获取名称记录。 |
+| [Names](../../groupdocs.metadata.formats.font/opentypefont/names) { get; } | 获取姓名记录。 |
 | [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | 获取描述符集合，其中包含有关可通过 GroupDocs.Metadata 搜索引擎访问的属性的信息。 |
 | [SfntVersion](../../groupdocs.metadata.formats.font/opentypefont/sfntversion) { get; } | 获取标头 SFNT 版本。 |
 | [Style](../../groupdocs.metadata.formats.font/opentypefont/style) { get; } | 获取字体样式。 |
 | [TypographicFamily](../../groupdocs.metadata.formats.font/opentypefont/typographicfamily) { get; } | 获取印刷系列。 |
-| [TypographicSubfamily](../../groupdocs.metadata.formats.font/opentypefont/typographicsubfamily) { get; } | 获取印刷子系列。 |
-| [Weight](../../groupdocs.metadata.formats.font/opentypefont/weight) { get; } | 获取字体粗细 |
+| [TypographicSubfamily](../../groupdocs.metadata.formats.font/opentypefont/typographicsubfamily) { get; } | 获取排版子系列。 |
+| [Weight](../../groupdocs.metadata.formats.font/opentypefont/weight) { get; } | 获取字体粗细。 |
 | [Width](../../groupdocs.metadata.formats.font/opentypefont/width) { get; } | 获取字体宽度。 |
 
 ## 方法
@@ -53,12 +53,12 @@ public class OpenTypeFont : CustomPackage
 | [GetEnumerator](../../groupdocs.metadata.common/metadatapackage/getenumerator)() | 返回一个遍历集合的枚举器。 |
 | virtual [RemoveProperties](../../groupdocs.metadata.common/metadatapackage/removeproperties)(Func&lt;MetadataProperty, bool&gt;) | 删除满足指定谓词的元数据属性。 |
 | virtual [Sanitize](../../groupdocs.metadata.common/metadatapackage/sanitize)() | 从包中删除可写元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
-| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
+| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是以下方法的组合[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
 | [UpdateProperties](../../groupdocs.metadata.common/metadatapackage/updateproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 更新满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [使用 OpenType 字体](https://docs.groupdocs.com/display/metadatanet/Working+with+OpenType+fonts)
 

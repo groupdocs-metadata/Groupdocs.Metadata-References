@@ -20,7 +20,7 @@ public PdfTypePackage FileType { get; }
 
 ### 例子
 
-此代码片段展示了如何检测加载文档的 PDF 版本并提取一些额外的文件格式信息。
+此代码片段显示如何检测加载文档的 PDF 版本并提取一些额外的文件格式信息。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.InputPdf))

@@ -30,7 +30,7 @@ public sealed class AsfMetadataDescriptor : AsfBaseDescriptor
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * [Arbeiten mit Metadaten in ASF-Dateien](https://docs.groupdocs.com/display/metadatanet/Working+with+Metadata+in+ASF+Files)
 

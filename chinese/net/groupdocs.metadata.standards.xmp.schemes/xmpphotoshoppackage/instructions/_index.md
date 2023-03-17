@@ -16,7 +16,7 @@ public string Instructions { get; set; }
 
 ### 适当的价值
 
-特殊说明。
+特殊说明.
 
 ### 也可以看看
 

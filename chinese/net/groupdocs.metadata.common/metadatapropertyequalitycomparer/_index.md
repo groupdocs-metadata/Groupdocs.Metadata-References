@@ -1,14 +1,14 @@
 ---
 title: MetadataPropertyEqualityComparer
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 定义支持比较元数据属性是否相等的方法
+description: 定义方法以支持比较元数据属性是否相等
 type: docs
 weight: 140
 url: /zh/net/groupdocs.metadata.common/metadatapropertyequalitycomparer/
 ---
 ## MetadataPropertyEqualityComparer class
 
-定义支持比较元数据属性是否相等的方法。
+定义方法以支持比较元数据属性是否相等。
 
 ```csharp
 public class MetadataPropertyEqualityComparer : IEqualityComparer<MetadataProperty>

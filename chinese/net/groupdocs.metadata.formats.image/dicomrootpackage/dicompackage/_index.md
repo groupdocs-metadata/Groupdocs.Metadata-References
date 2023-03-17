@@ -1,14 +1,14 @@
 ---
 title: DicomPackage
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取 DICOM 原生元数据包
+description: 获取 DICOM 本机元数据包
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.image/dicomrootpackage/dicompackage/
 ---
 ## DicomRootPackage.DicomPackage property
 
-获取 DICOM 原生元数据包。
+获取 DICOM 本机元数据包。
 
 ```csharp
 public DicomPackage DicomPackage { get; }
@@ -16,11 +16,11 @@ public DicomPackage DicomPackage { get; }
 
 ### 适当的价值
 
-DICOM 原生元数据包。
+DICOM 本机元数据包。
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [使用 DICOM 元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+DICOM+metadata)
 

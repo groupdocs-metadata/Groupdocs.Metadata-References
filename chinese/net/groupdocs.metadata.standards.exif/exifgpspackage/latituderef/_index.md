@@ -1,14 +1,14 @@
 ---
 title: LatitudeRef
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置一个GPS值指示纬度是北纬还是南纬
+description: 获取或设置一个GPS值表示纬度是北纬还是南纬
 type: docs
 weight: 200
 url: /zh/net/groupdocs.metadata.standards.exif/exifgpspackage/latituderef/
 ---
 ## ExifGpsPackage.LatitudeRef property
 
-获取或设置一个GPS值，指示纬度是北纬还是南纬。
+获取或设置一个GPS值，表示纬度是北纬还是南纬。
 
 ```csharp
 public string LatitudeRef { get; set; }
@@ -16,7 +16,7 @@ public string LatitudeRef { get; set; }
 
 ### 适当的价值
 
-指示纬度是北纬还是南纬的 GPS 值。
+表示纬度是北纬还是南纬的 GPS 值。
 
 ### 也可以看看
 

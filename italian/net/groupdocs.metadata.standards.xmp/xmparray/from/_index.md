@@ -23,7 +23,7 @@ public static XmpArray From<T>(T[] array, XmpArrayType type)
 
 ### Valore di ritorno
 
-Un[`XmpArray`](../../xmparray) contenente tutti gli elementi dell'array originale.
+UN[`XmpArray`](../../xmparray) contenente tutti gli elementi dell'array originale.
 
 ### Guarda anche
 
@@ -50,7 +50,7 @@ public static XmpArray From(string[] array, XmpArrayType type)
 
 ### Valore di ritorno
 
-Un[`XmpArray`](../../xmparray) contenente tutti gli elementi dell'array originale.
+UN[`XmpArray`](../../xmparray) contenente tutti gli elementi dell'array originale.
 
 ### Guarda anche
 
@@ -76,7 +76,7 @@ public static XmpArray From(int[] array, XmpArrayType type)
 
 ### Valore di ritorno
 
-Un[`XmpArray`](../../xmparray) contenente tutti gli elementi dell'array originale.
+UN[`XmpArray`](../../xmparray) contenente tutti gli elementi dell'array originale.
 
 ### Guarda anche
 
@@ -102,7 +102,7 @@ public static XmpArray From(DateTime[] array, XmpArrayType type)
 
 ### Valore di ritorno
 
-Un[`XmpArray`](../../xmparray) contenente tutti gli elementi dell'array originale.
+UN[`XmpArray`](../../xmparray) contenente tutti gli elementi dell'array originale.
 
 ### Guarda anche
 
@@ -128,7 +128,7 @@ public static XmpArray From(double[] array, XmpArrayType type)
 
 ### Valore di ritorno
 
-Un[`XmpArray`](../../xmparray) contenente tutti gli elementi dell'array originale.
+UN[`XmpArray`](../../xmparray) contenente tutti gli elementi dell'array originale.
 
 ### Guarda anche
 

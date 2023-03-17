@@ -16,7 +16,7 @@ public string Time { get; set; }
 
 ### 适当的价值
 
-包含录制时间的 HHMM 格式的数字字符串。
+包含记录时间的 HHMM 格式的数字字符串。
 
 ### 也可以看看
 

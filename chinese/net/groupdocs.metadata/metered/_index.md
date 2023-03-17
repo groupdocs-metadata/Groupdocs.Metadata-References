@@ -1,14 +1,14 @@
 ---
 title: Metered
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 提供设置计量键的方法
+description: 提供设置计量密钥的方法
 type: docs
 weight: 2670
 url: /zh/net/groupdocs.metadata/metered/
 ---
 ## Metered class
 
-提供设置计量键的方法。
+提供设置计量密钥的方法。
 
 ```csharp
 public class Metered
@@ -24,9 +24,9 @@ public class Metered
 
 | 姓名 | 描述 |
 | --- | --- |
-| [SetMeteredKey](../../groupdocs.metadata/metered/setmeteredkey)(string, string) | 设置计量的公钥和私钥 |
-| static [GetConsumptionCredit](../../groupdocs.metadata/metered/getconsumptioncredit)() | 获取消费积分。 |
-| static [GetConsumptionQuantity](../../groupdocs.metadata/metered/getconsumptionquantity)() | 获取消费文件大小。 |
+| [SetMeteredKey](../../groupdocs.metadata/metered/setmeteredkey)(string, string) | 设置计量公钥和私钥 |
+| static [GetConsumptionCredit](../../groupdocs.metadata/metered/getconsumptioncredit)() | 获取消费信用。 |
+| static [GetConsumptionQuantity](../../groupdocs.metadata/metered/getconsumptionquantity)() | 获取消耗文件大小。 |
 
 ### 也可以看看
 

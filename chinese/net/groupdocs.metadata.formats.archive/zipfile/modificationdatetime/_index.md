@@ -1,14 +1,14 @@
 ---
 title: ModificationDateTime
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取上次修改日期和时间
+description: 获取最后修改日期和时间
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.formats.archive/zipfile/modificationdatetime/
 ---
 ## ZipFile.ModificationDateTime property
 
-获取上次修改日期和时间。
+获取最后修改日期和时间。
 
 ```csharp
 public DateTime ModificationDateTime { get; }
@@ -16,7 +16,7 @@ public DateTime ModificationDateTime { get; }
 
 ### 适当的价值
 
-上次修改日期和时间。
+最后修改日期和时间。
 
 ### 也可以看看
 

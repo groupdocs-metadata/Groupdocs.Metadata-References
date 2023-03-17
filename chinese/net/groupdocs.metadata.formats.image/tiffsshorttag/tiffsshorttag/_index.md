@@ -1,14 +1,14 @@
 ---
 title: TiffSShortTag
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化TiffSShortTaggroupdocs.metadata.formats.image/tiffsshorttag类.
+description: 初始化一个新的实例TiffSShortTaggroupdocs.metadata.formats.image/tiffsshorttag类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.image/tiffsshorttag/tiffsshorttag/
 ---
 ## TiffSShortTag constructor
 
-初始化[`TiffSShortTag`](../../tiffsshorttag)类.
+初始化一个新的实例[`TiffSShortTag`](../../tiffsshorttag)类.
 
 ```csharp
 public TiffSShortTag(TiffTagID tagID, short[] value)
@@ -16,7 +16,7 @@ public TiffSShortTag(TiffTagID tagID, short[] value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| tagID | TiffTagID | 标签标识符。 |
+| tagID | TiffTagID | 标记标识符。 |
 | value | Int16[] | 价值。 |
 
 ### 也可以看看

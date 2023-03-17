@@ -16,7 +16,7 @@ public bool MultiBurstMode { get; }
 
 ### Valore della proprietà
 
-`VERO` se la modalità multi burst è attiva; altrimenti,`falso` .
+`VERO` se la modalità multi burst è attiva; Altrimenti,`falso` .
 
 ### Guarda anche
 

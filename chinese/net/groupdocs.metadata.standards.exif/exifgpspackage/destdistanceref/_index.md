@@ -1,14 +1,14 @@
 ---
 title: DestDistanceRef
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置GPS单位用于表示到目的地的距离 KM和N分别代表公里英里和节
+description: 获取或设置用于表示到目的地点距离的GPS单位 KM和N分别代表公里英里和节
 type: docs
 weight: 100
 url: /zh/net/groupdocs.metadata.standards.exif/exifgpspackage/destdistanceref/
 ---
 ## ExifGpsPackage.DestDistanceRef property
 
-获取或设置GPS单位，用于表示到目的地的距离。 'K'、'M'和'N'分别代表公里、英里和节。
+获取或设置用于表示到目的地点距离的GPS单位。 'K'、'M'和'N'分别代表公里、英里和节。
 
 ```csharp
 public string DestDistanceRef { get; set; }
@@ -16,7 +16,7 @@ public string DestDistanceRef { get; set; }
 
 ### 适当的价值
 
-用于表示到目的地点距离的 GPS 单位。
+用于表示到目的地点距离的GPS单位。
 
 ### 也可以看看
 

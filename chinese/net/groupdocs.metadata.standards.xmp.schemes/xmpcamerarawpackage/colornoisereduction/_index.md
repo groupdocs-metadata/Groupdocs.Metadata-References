@@ -16,7 +16,7 @@ public int? ColorNoiseReduction { get; set; }
 
 ### 适当的价值
 
-颜色降噪。
+颜色降噪.
 
 ### 也可以看看
 

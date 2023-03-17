@@ -1,14 +1,14 @@
 ---
 title: DataSize
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 以字节为单位获取数据大小
+description: 获取以字节为单位的数据大小
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.formats.video/movatom/datasize/
 ---
 ## MovAtom.DataSize property
 
-以字节为单位获取数据大小。
+获取以字节为单位的数据大小。
 
 ```csharp
 public int DataSize { get; }

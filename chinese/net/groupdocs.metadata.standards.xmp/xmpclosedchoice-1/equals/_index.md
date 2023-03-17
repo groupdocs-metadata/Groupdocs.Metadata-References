@@ -1,14 +1,14 @@
 ---
 title: Equals
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示当前对象是否等于另一个同类型的对象
+description: 表示当前对象是否等于另一个相同类型的对象
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpclosedchoice-1/equals/
 ---
 ## Equals(object) {#equals_1}
 
-表示当前对象是否等于另一个同类型的对象。
+表示当前对象是否等于另一个相同类型的对象。
 
 ```csharp
 public override bool Equals(object obj)
@@ -20,7 +20,7 @@ public override bool Equals(object obj)
 
 ### 返回值
 
-如果当前对象等于*obj*范围;否则为假。
+如果当前对象等于*obj*范围;否则为 false.
 
 ### 也可以看看
 

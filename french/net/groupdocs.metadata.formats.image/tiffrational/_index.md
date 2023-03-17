@@ -25,7 +25,7 @@ public sealed class TiffRational : IEquatable<TiffRational>
 | Nom | La description |
 | --- | --- |
 | [Denominator](../../groupdocs.metadata.formats.image/tiffrational/denominator) { get; } | Obtient le dénominateur. |
-| [Numerator](../../groupdocs.metadata.formats.image/tiffrational/numerator) { get; } | Récupère le numérateur. |
+| [Numerator](../../groupdocs.metadata.formats.image/tiffrational/numerator) { get; } | Obtient le numérateur. |
 | [Value](../../groupdocs.metadata.formats.image/tiffrational/value) { get; } | Obtient la valeur rationnelle. |
 
 ## Méthodes

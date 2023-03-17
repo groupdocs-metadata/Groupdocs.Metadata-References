@@ -16,7 +16,7 @@ public DateTime LastSaved { get; set; }
 
 ### 适当的价值
 
-上次保存项目的日期。
+项目最后一次保存的日期。
 
 ### 也可以看看
 

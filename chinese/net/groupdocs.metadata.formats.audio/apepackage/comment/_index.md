@@ -1,14 +1,14 @@
 ---
 title: Comment
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取评论
+description: 获取注释
 type: docs
 weight: 50
 url: /zh/net/groupdocs.metadata.formats.audio/apepackage/comment/
 ---
 ## ApePackage.Comment property
 
-获取评论。
+获取注释。
 
 ```csharp
 public string Comment { get; }

@@ -16,7 +16,7 @@ public int GetHashCode(PropertyValue obj)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| obj | PropertyValue | Das[`PropertyValue`](../../propertyvalue) für die ein Hashcode zurückgegeben werden soll. |
+| obj | PropertyValue | Der[`PropertyValue`](../../propertyvalue) für die ein Hashcode zurückgegeben werden soll. |
 
 ### Rückgabewert
 
@@ -26,7 +26,7 @@ Ein Hashcode für das angegebene Objekt.
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | Die Art von*obj* ist ein Referenztyp und*obj* ist`null`. |
+| ArgumentNullException | Die Art von*obj* ist ein Referenztyp und*obj* Ist`null`. |
 
 ### Siehe auch
 

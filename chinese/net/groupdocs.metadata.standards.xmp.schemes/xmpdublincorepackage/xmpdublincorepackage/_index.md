@@ -1,14 +1,14 @@
 ---
 title: XmpDublinCorePackage
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpDublinCorePackagegroupdocs.metadata.standards.xmp.schemes/xmpdublincorepackage类.
+description: 初始化一个新的实例XmpDublinCorePackagegroupdocs.metadata.standards.xmp.schemes/xmpdublincorepackage类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpdublincorepackage/xmpdublincorepackage/
 ---
 ## XmpDublinCorePackage constructor
 
-初始化[`XmpDublinCorePackage`](../../xmpdublincorepackage)类.
+初始化一个新的实例[`XmpDublinCorePackage`](../../xmpdublincorepackage)类.
 
 ```csharp
 public XmpDublinCorePackage()

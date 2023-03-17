@@ -16,7 +16,7 @@ public int GetHashCode(PropertyValue obj)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| obj | PropertyValue | La[`PropertyValue`](../../propertyvalue) pour lequel un code de hachage doit être renvoyé. |
+| obj | PropertyValue | Le[`PropertyValue`](../../propertyvalue) pour lequel un code de hachage doit être retourné. |
 
 ### Return_Value
 

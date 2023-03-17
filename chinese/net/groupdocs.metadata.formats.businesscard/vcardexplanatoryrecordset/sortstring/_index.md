@@ -1,14 +1,14 @@
 ---
 title: SortString
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取用于特定国家语言排序的姓氏或名字文本FormattedNamesgroupdocs.metadata.formats.businesscard/vcardidentificationrecordset/formattednames和Namegroupdocs.metadata.formats.businesscard/vcardidentificationrecordset/name类型.
+description: 获取用于国家语言特定排序的姓氏或名字文本FormattedNamesgroupdocs.metadata.formats.businesscard/vcardidentificationrecordset/formattednames和Namegroupdocs.metadata.formats.businesscard/vcardidentificationrecordset/name类型.
 type: docs
 weight: 110
 url: /zh/net/groupdocs.metadata.formats.businesscard/vcardexplanatoryrecordset/sortstring/
 ---
 ## VCardExplanatoryRecordset.SortString property
 
-获取用于特定国家语言排序的姓氏或名字文本[`FormattedNames`](../../vcardidentificationrecordset/formattednames)和[`Name`](../../vcardidentificationrecordset/name)类型.
+获取用于国家语言特定排序的姓氏或名字文本[`FormattedNames`](../../vcardidentificationrecordset/formattednames)和[`Name`](../../vcardidentificationrecordset/name)类型.
 
 ```csharp
 public string SortString { get; }

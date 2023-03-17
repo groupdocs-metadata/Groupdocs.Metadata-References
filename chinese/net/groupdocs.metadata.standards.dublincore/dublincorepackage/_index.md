@@ -23,21 +23,21 @@ public sealed class DublinCorePackage : CustomPackage
 | [Coverage](../../groupdocs.metadata.standards.dublincore/dublincorepackage/coverage) { get; } | 获取覆盖都柏林核心元素。 |
 | [Creator](../../groupdocs.metadata.standards.dublincore/dublincorepackage/creator) { get; } | 获取创建者都柏林核心元素。 |
 | [Date](../../groupdocs.metadata.standards.dublincore/dublincorepackage/date) { get; } | 获取都柏林核心元素的日期。 |
-| [Description](../../groupdocs.metadata.standards.dublincore/dublincorepackage/description) { get; } | 获取描述都柏林核心元素。 |
+| [Description](../../groupdocs.metadata.standards.dublincore/dublincorepackage/description) { get; } | 获取都柏林核心元素的描述。 |
 | [Format](../../groupdocs.metadata.standards.dublincore/dublincorepackage/format) { get; } | 获取格式都柏林核心元素。 |
 | [Identifier](../../groupdocs.metadata.standards.dublincore/dublincorepackage/identifier) { get; } | 获取标识符都柏林核心元素。 |
-| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定的名称。 |
+| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定名称. |
 | [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | 获取元数据属性名称的集合。 |
 | [Language](../../groupdocs.metadata.standards.dublincore/dublincorepackage/language) { get; } | 获取语言都柏林核心元素。 |
 | [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | 获取元数据类型。 |
 | [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | 获取描述符集合，其中包含有关可通过 GroupDocs.Metadata 搜索引擎访问的属性的信息。 |
 | [Publisher](../../groupdocs.metadata.standards.dublincore/dublincorepackage/publisher) { get; } | 获取发布者都柏林核心元素。 |
 | [Relation](../../groupdocs.metadata.standards.dublincore/dublincorepackage/relation) { get; } | 获取关系都柏林核心元素。 |
-| [Rights](../../groupdocs.metadata.standards.dublincore/dublincorepackage/rights) { get; } | 获取都柏林核心元素的权利。 |
+| [Rights](../../groupdocs.metadata.standards.dublincore/dublincorepackage/rights) { get; } | 获得都柏林核心元素的权利。 |
 | [Source](../../groupdocs.metadata.standards.dublincore/dublincorepackage/source) { get; } | 获取源都柏林核心元素。 |
 | [Subject](../../groupdocs.metadata.standards.dublincore/dublincorepackage/subject) { get; } | 获取主题都柏林核心元素。 |
 | [Title](../../groupdocs.metadata.standards.dublincore/dublincorepackage/title) { get; } | 获取标题都柏林核心元素。 |
-| [Type](../../groupdocs.metadata.standards.dublincore/dublincorepackage/type) { get; } | 获取都柏林核心元素的类型。 |
+| [Type](../../groupdocs.metadata.standards.dublincore/dublincorepackage/type) { get; } | 获取都柏林核心元素类型。 |
 
 ## 方法
 
@@ -49,7 +49,7 @@ public sealed class DublinCorePackage : CustomPackage
 | [GetEnumerator](../../groupdocs.metadata.common/metadatapackage/getenumerator)() | 返回一个遍历集合的枚举器。 |
 | virtual [RemoveProperties](../../groupdocs.metadata.common/metadatapackage/removeproperties)(Func&lt;MetadataProperty, bool&gt;) | 删除满足指定谓词的元数据属性。 |
 | virtual [Sanitize](../../groupdocs.metadata.common/metadatapackage/sanitize)() | 从包中删除可写元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
-| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
+| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是以下方法的组合[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
 | [UpdateProperties](../../groupdocs.metadata.common/metadatapackage/updateproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 更新满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
 
 ### 也可以看看

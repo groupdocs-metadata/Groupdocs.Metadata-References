@@ -1,14 +1,14 @@
 ---
 title: AccrualPeriodicity
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置将项目添加到集合中的频率
+description: 获取或设置项目添加到集合的频率
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.formats.ebook/epubpackage/accrualperiodicity/
 ---
 ## EpubPackage.AccrualPeriodicity property
 
-获取或设置将项目添加到集合中的频率。
+获取或设置项目添加到集合的频率。
 
 ```csharp
 public string AccrualPeriodicity { get; set; }

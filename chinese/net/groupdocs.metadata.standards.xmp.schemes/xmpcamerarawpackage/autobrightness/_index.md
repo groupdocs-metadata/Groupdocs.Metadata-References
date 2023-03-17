@@ -1,14 +1,14 @@
 ---
 title: AutoBrightness
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置 AutoBrightness 值真实时Brightnessgroupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/brightness自动调整
+description: 获取或设置自动亮度值当为真时Brightnessgroupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/brightness自动调整
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/autobrightness/
 ---
 ## XmpCameraRawPackage.AutoBrightness property
 
-获取或设置 AutoBrightness 值。真实时，[`Brightness`](../brightness)自动调整。
+获取或设置自动亮度值。当为真时，[`Brightness`](../brightness)自动调整。
 
 ```csharp
 public bool? AutoBrightness { get; set; }

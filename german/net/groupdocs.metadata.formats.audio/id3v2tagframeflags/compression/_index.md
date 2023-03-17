@@ -16,7 +16,7 @@ public bool Compression { get; }
 
 ### Eigentumswert
 
-`Stimmt`, wenn der Rahmen komprimiert ist; andernfalls falsch.
+`WAHR`, wenn der Rahmen komprimiert ist; andernfalls falsch.
 
 ### Siehe auch
 

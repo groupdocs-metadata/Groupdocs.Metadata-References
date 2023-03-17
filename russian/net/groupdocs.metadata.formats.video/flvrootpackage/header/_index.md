@@ -20,7 +20,7 @@ public FlvHeader Header { get; }
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * [Работа с метаданными в файлах FLV](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+FLV+files)
 

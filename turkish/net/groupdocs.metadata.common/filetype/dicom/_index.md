@@ -1,14 +1,14 @@
 ---
 title: DICOM
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: DICOM Tıpta Dijital Görüntüleme ve İletişimin kısaltmasıdır ve Tıbbi Bilişim alanıyla ilgilidir. DICOM çeşitli satıcılardan yazıcılar sunucular tarayıcılar vb. gibi tıbbi görüntüleme cihazlarının entegrasyonu için kullanılır ve ayrıca her birinin kimlik verilerini içerir benzersizlik için sabır. Bu dosya hakkında daha fazla bilgi edinin format buradahttps//docs.fileformat.com/image/dicom/ .
+description: DICOM Tıpta Dijital Görüntüleme ve İletişimin kısaltmasıdır ve Tıbbi Bilişim alanıyla ilgilidir. DICOM çeşitli satıcılardan yazıcılar sunucular tarayıcılar vb. gibi tıbbi görüntüleme cihazlarının entegrasyonu için kullanılır ve ayrıca her birinin kimlik verilerini içerir benzersizlik için sabır. Bu dosya hakkında daha fazla bilgi edinin format Buradahttps//docs.fileformat.com/image/dicom/ .
 type: docs
 weight: 40
 url: /tr/net/groupdocs.metadata.common/filetype/dicom/
 ---
 ## FileType.DICOM field
 
-DICOM, Tıpta Dijital Görüntüleme ve İletişim'in kısaltmasıdır ve Tıbbi Bilişim alanıyla ilgilidir. DICOM, çeşitli satıcılardan yazıcılar, sunucular, tarayıcılar vb. gibi tıbbi görüntüleme cihazlarının entegrasyonu için kullanılır ve ayrıca her birinin kimlik verilerini içerir benzersizlik için sabır. Bu dosya hakkında daha fazla bilgi edinin format [burada](https://docs.fileformat.com/image/dicom/) .
+DICOM, Tıpta Dijital Görüntüleme ve İletişim'in kısaltmasıdır ve Tıbbi Bilişim alanıyla ilgilidir. DICOM, çeşitli satıcılardan yazıcılar, sunucular, tarayıcılar vb. gibi tıbbi görüntüleme cihazlarının entegrasyonu için kullanılır ve ayrıca her birinin kimlik verilerini içerir benzersizlik için sabır. Bu dosya hakkında daha fazla bilgi edinin format [Burada](https://docs.fileformat.com/image/dicom/) .
 
 ```csharp
 public static readonly FileType DICOM;

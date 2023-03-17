@@ -1,14 +1,14 @@
 ---
 title: SuggestedBufferSize
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取建议的用于读取文件的缓冲区大小  通常这个大小应该足够大以包含文件中最大的块 如果设置为零或者太小播放软件将不得不在播放过程中重新分配内存这会降低性能对于交错文件 缓冲区大小应该足以读取整个记录而不仅仅是一个块
+description: 获取读取文件的建议缓冲区大小  通常此大小应足以包含文件中的最大块 如果设置为零或者太小播放软件将不得不在播放过程中重新分配内存这会降低性能对于交错文件 缓冲区大小应该足够大以读取整个记录而不仅仅是一个块
 type: docs
 weight: 90
 url: /zh/net/groupdocs.metadata.formats.video/aviheader/suggestedbuffersize/
 ---
 ## AviHeader.SuggestedBufferSize property
 
-获取建议的用于读取文件的缓冲区大小。  通常，这个大小应该足够大以包含文件中最大的块。 如果设置为零，或者太小，播放软件将不得不在播放过程中重新分配内存，这会降低性能。对于交错文件， 缓冲区大小应该足以读取整个记录，而不仅仅是一个块。
+获取读取文件的建议缓冲区大小。  通常，此大小应足以包含文件中的最大块。 如果设置为零，或者太小，播放软件将不得不在播放过程中重新分配内存，这会降低性能。对于交错文件， 缓冲区大小应该足够大以读取整个记录，而不仅仅是一个块。
 
 ```csharp
 public int SuggestedBufferSize { get; }

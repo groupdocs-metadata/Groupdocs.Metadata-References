@@ -8,7 +8,7 @@ url: /zh/net/groupdocs.metadata.formats.audio/id3v2tag/lengthinmilliseconds/
 ---
 ## ID3V2Tag.LengthInMilliseconds property
 
-获取或设置音频文件的长度，以毫秒为单位，以数字字符串表示。 该值由 TLEN 帧表示。
+获取或设置音频文件的长度（以毫秒为单位），以数字字符串表示。 该值由 TLEN 帧表示。
 
 ```csharp
 public string LengthInMilliseconds { get; set; }
@@ -16,7 +16,7 @@ public string LengthInMilliseconds { get; set; }
 
 ### 适当的价值
 
-音频文件的长度，以毫秒为单位，以数字字符串表示。
+音频文件的长度（以毫秒为单位），表示为数字字符串。
 
 ### 也可以看看
 

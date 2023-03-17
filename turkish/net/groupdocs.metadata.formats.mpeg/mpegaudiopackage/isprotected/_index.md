@@ -16,7 +16,7 @@ public bool IsProtected { get; }
 
 ### Mülk değeri
 
-`doğru` korunuyorsa; aksi halde,`yanlış` .
+`doğru` korunuyorsa; aksi takdirde,`YANLIŞ` .
 
 ### Ayrıca bakınız
 

@@ -16,7 +16,7 @@ public TiffRational Speed { get; set; }
 
 ### 适当的价值
 
-GPS 接收器移动的速度。
+GPS 接收器移动速度。
 
 ### 也可以看看
 

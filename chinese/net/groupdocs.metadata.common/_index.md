@@ -14,19 +14,19 @@ url: /zh/net/groupdocs.metadata.common/
 | --- | --- |
 | [CustomPackage](./custompackage) | 为元数据属性提供容器。 |
 | [DocumentInfo](./documentinfo) | 提供有关已加载文档的通用信息。 |
-| [FileType](./filetype) | 表示文件类型。 |
+| [FileType](./filetype) | 代表文件类型。 |
 | [FileTypePackage](./filetypepackage) | 表示包含文件格式信息的元数据包。 |
-| [Func&lt;TResult&gt;](./func-1) | 封装一个没有参数的方法，并返回一个由*TResult*范围。 |
-| [Func&lt;T,TResult&gt;](./func-2) | 封装一个方法，该方法有一个参数并返回一个由*TResult*范围。 |
-| [MetadataPackage](./metadatapackage) | 表示元数据包的基本抽象。 |
+| [Func&lt;TResult&gt;](./func-1) | 封装一个没有参数的方法，返回一个指定类型的值*TResult*范围。 |
+| [Func&lt;T,TResult&gt;](./func-2) | 封装一个方法，该方法有一个参数并返回一个由参数指定的类型的值*TResult*范围。 |
+| [MetadataPackage](./metadatapackage) | 表示元数据包的基础抽象。 |
 | [MetadataProperty](./metadataproperty) | 表示元数据属性。 |
-| [MetadataPropertyEqualityComparer](./metadatapropertyequalitycomparer) | 定义支持比较元数据属性是否相等的方法。 |
-| [PageInfo](./pageinfo) | 提供有关文档页面（幻灯片、工作表等）的通用信息。 |
+| [MetadataPropertyEqualityComparer](./metadatapropertyequalitycomparer) | 定义方法以支持比较元数据属性是否相等。 |
+| [PageInfo](./pageinfo) | 提供有关文档页面（幻灯片、工作表等）的常用信息。 |
 | [PropertyDescriptor](./propertydescriptor) | 表示可以通过 GroupDocs.Metadata 搜索引擎访问的属性的描述符。 |
-| [PropertyValue](./propertyvalue) | 表示一个属性值。 |
-| [PropertyValueEqualityComparer](./propertyvalueequalitycomparer) | 定义支持比较属性值是否相等的方法。 |
+| [PropertyValue](./propertyvalue) | 表示属性值。 |
+| [PropertyValueEqualityComparer](./propertyvalueequalitycomparer) | 定义方法以支持比较属性值是否相等。 |
 | [ReadOnlyList&lt;T&gt;](./readonlylist-1) | 为强类型只读列表提供抽象基类。 |
-| [RootMetadataPackage](./rootmetadatapackage) | 表示特定文件中呈现的所有元数据包的入口点。 |
+| [RootMetadataPackage](./rootmetadatapackage) | 表示特定文件中所有元数据包的入口点。 |
 | [ValueAcceptor](./valueacceptor) | 提供一个基本抽象类，允许从[`PropertyValue`](../groupdocs.metadata.common/propertyvalue)实例. |
 | [ValueInterpreter](./valueinterpreter) | 定义解释元数据属性值所需的操作。 |
 ## 结构
@@ -39,14 +39,14 @@ url: /zh/net/groupdocs.metadata.common/
 | 界面 | 描述 |
 | --- | --- |
 | [IDocumentInfo](./idocumentinfo) | 提供有关已加载文档的通用信息。 |
-| [IEnumValueInterpreter](./ienumvalueinterpreter) | 表示旨在将各种数值转换为描述性字符串值的解释器。 |
-| [IReadOnlyList&lt;T&gt;](./ireadonlylist-1) | 表示可以通过索引访问的元素的只读集合。 |
+| [IEnumValueInterpreter](./ienumvalueinterpreter) | 表示解释器，旨在将各种数值转换为描述性字符串值。 |
+| [IReadOnlyList&lt;T&gt;](./ireadonlylist-1) | 表示一个只读的元素集合，可以通过index. 访问 |
 ## 枚举
 
 | 枚举 | 描述 |
 | --- | --- |
 | [ByteOrder](./byteorder) | 定义各种字节顺序。 |
-| [FileFormat](./fileformat) | 表示已加载文件的识别格式。 |
+| [FileFormat](./fileformat) | 表示加载文件的识别格式。 |
 | [MetadataPropertyType](./metadatapropertytype) | 定义元数据属性类型。 |
 | [MetadataType](./metadatatype) | 指定元数据包的类型。 |
 | [PropertyAccessLevels](./propertyaccesslevels) | 定义元数据属性的访问级别。 |

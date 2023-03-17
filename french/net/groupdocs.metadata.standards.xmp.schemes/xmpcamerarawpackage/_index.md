@@ -69,7 +69,7 @@ public sealed class XmpCameraRawPackage : XmpPackage
 | [Version](../../groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/version) { get; set; } | Obtient ou définit la version du plug-in Camera Raw. |
 | [VignetteAmount](../../groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/vignetteamount) { get; set; } | Obtient ou définit le paramètre Quantité de vignette. Plage -100 à 100. |
 | [VignetteMidpoint](../../groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/vignettemidpoint) { get; set; } | Obtient ou définit le paramètre Vignetting Midpoint. Plage 0 à 100. |
-| [WhiteBalance](../../groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/whitebalance) { get; } | Obtient le réglage de la balance des blancs. Utilisation[`SetWhiteBalance`](./setwhitebalance) pour définir la valeur de la balance des blancs. |
+| [WhiteBalance](../../groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/whitebalance) { get; } | Obtient le réglage de la balance des blancs. Utiliser[`SetWhiteBalance`](./setwhitebalance) pour définir la valeur de la balance des blancs. |
 | [XmlNamespace](../../groupdocs.metadata.standards.xmp/xmppackage/xmlnamespace) { get; } | Obtient l'espace de noms XML. |
 
 ## Méthodes

@@ -1,14 +1,14 @@
 ---
 title: IptcEnvelopeRecord
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化IptcEnvelopeRecordgroupdocs.metadata.standards.iptc/iptcenveloperecord类.
+description: 初始化一个新的实例IptcEnvelopeRecordgroupdocs.metadata.standards.iptc/iptcenveloperecord类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.iptc/iptcenveloperecord/iptcenveloperecord/
 ---
 ## IptcEnvelopeRecord constructor
 
-初始化[`IptcEnvelopeRecord`](../../iptcenveloperecord)类.
+初始化一个新的实例[`IptcEnvelopeRecord`](../../iptcenveloperecord)类.
 
 ```csharp
 public IptcEnvelopeRecord()

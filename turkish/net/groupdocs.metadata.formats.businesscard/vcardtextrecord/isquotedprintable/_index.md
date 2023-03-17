@@ -16,7 +16,7 @@ public bool IsQuotedPrintable { get; }
 
 ### Mülk değeri
 
-`doğru` bu örnek yazdırılabilir olarak alıntılanırsa; aksi halde,`yanlış`.
+`doğru` bu örnek yazdırılabilir olarak alıntılanırsa; aksi takdirde,`YANLIŞ`.
 
 ### Ayrıca bakınız
 

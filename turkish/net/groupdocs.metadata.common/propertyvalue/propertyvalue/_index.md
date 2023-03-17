@@ -16,7 +16,7 @@ public PropertyValue(int value)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| value | Int32 | BirInt32 değer. |
+| value | Int32 | BirInt32değer. |
 
 ### Ayrıca bakınız
 
@@ -36,7 +36,7 @@ public PropertyValue(long value)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| value | Int64 | AInt64 değer. |
+| value | Int64 | AInt64değer. |
 
 ### Ayrıca bakınız
 
@@ -56,7 +56,7 @@ public PropertyValue(bool value)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| value | Boolean | ABoolean değer. |
+| value | Boolean | ABooleandeğer. |
 
 ### Ayrıca bakınız
 
@@ -76,7 +76,7 @@ public PropertyValue(double value)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| value | Double | ADouble değer. |
+| value | Double | ADoubledeğer. |
 
 ### Ayrıca bakınız
 
@@ -96,7 +96,7 @@ public PropertyValue(string value)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| value | String | AString değer. |
+| value | String | AStringdeğer. |
 
 ### Ayrıca bakınız
 
@@ -116,7 +116,7 @@ public PropertyValue(DateTime value)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| value | DateTime | ADateTime değer. |
+| value | DateTime | ADateTimedeğer. |
 
 ### Ayrıca bakınız
 
@@ -136,7 +136,7 @@ public PropertyValue(TimeSpan value)
 
 | Parametre | Tip | Tanım |
 | --- | --- | --- |
-| value | TimeSpan | ATimeSpan değer. |
+| value | TimeSpan | ATimeSpandeğer. |
 
 ### Ayrıca bakınız
 
@@ -228,7 +228,7 @@ public PropertyValue(int[] values)
 
 ## PropertyValue(long[]) {#constructor_7}
 
-Yeni bir örneğini başlatır.[`PropertyValue`](../../propertyvalue)uzun değerler dizisine sahip sınıf.
+Yeni bir örneğini başlatır.[`PropertyValue`](../../propertyvalue) uzun değerler dizisine sahip sınıf.
 
 ```csharp
 public PropertyValue(long[] values)

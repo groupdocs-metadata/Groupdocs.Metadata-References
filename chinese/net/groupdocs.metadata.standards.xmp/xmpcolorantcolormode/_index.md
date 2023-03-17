@@ -1,14 +1,14 @@
 ---
 title: XmpColorantColorMode
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示颜色模式XmpColorantBase./xmpcolorantbase.
+description: 代表颜色模式在XmpColorantBase./xmpcolorantbase.
 type: docs
 weight: 3320
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpcolorantcolormode/
 ---
 ## XmpColorantColorMode enumeration
 
-表示颜色模式[`XmpColorantBase`](../xmpcolorantbase).
+代表颜色模式在[`XmpColorantBase`](../xmpcolorantbase).
 
 ```csharp
 public enum XmpColorantColorMode
@@ -20,7 +20,7 @@ public enum XmpColorantColorMode
 | --- | --- | --- |
 | Undefined | `0` | 颜色模式未定义。 |
 | Cmyk | `1` | CMYK 颜色模式。 |
-| Rgb | `2` | RGB 颜色模式。 |
+| Rgb | `2` | RGB 颜色模式. |
 | Lab | `3` | LAB 颜色模式。 |
 
 ### 也可以看看

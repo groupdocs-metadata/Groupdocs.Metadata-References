@@ -17,11 +17,11 @@ public static bool operator ==(TiffSRational left, TiffSRational right)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | left | TiffSRational | 左边的对象。 |
-| right | TiffSRational | 绑定对象。 |
+| right | TiffSRational | 正确的对象。 |
 
 ### 返回值
 
-如果对象相等，则为真；否则为假。
+如果对象相等则为真；否则，假的。
 
 ### 也可以看看
 

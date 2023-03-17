@@ -20,7 +20,7 @@ public void RemoveApeV2()
 
 ### 例子
 
-此示例说明如何从 MP3 文件中删除 APEv2 标签。
+此示例显示如何从 MP3 文件中删除 APEv2 标签。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.MP3WithApe))

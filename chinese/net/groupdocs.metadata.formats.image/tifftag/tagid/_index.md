@@ -1,14 +1,14 @@
 ---
 title: TagID
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取标签id
+description: 获取标签 id.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.image/tifftag/tagid/
 ---
 ## TiffTag.TagID property
 
-获取标签id。
+获取标签 id.
 
 ```csharp
 public TiffTagID TagID { get; }
@@ -16,7 +16,7 @@ public TiffTagID TagID { get; }
 
 ### 适当的价值
 
-标签标识。
+标签 ID。
 
 ### 也可以看看
 

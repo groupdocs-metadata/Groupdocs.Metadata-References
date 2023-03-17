@@ -16,7 +16,7 @@ public string ActionAdvised { get; set; }
 
 ### 适当的价值
 
-动作的类型。
+动作类型。
 
 ### 也可以看看
 

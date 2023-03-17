@@ -1,14 +1,14 @@
 ---
 title: OpenTypeMacintoshNameRecord
 second_title: GroupDocs.Metadata لمرجع .NET API
-description: يمثل قيمة جدول سجل الاسم لملفMacintosh المنصة.
+description: يمثل قيمة جدول سجل الاسم لملفMacintoshالمنصة.
 type: docs
 weight: 1510
 url: /ar/net/groupdocs.metadata.formats.font/opentypemacintoshnamerecord/
 ---
 ## OpenTypeMacintoshNameRecord class
 
-يمثل قيمة جدول سجل الاسم لملفMacintosh المنصة.
+يمثل قيمة جدول سجل الاسم لملفMacintoshالمنصة.
 
 ```csharp
 public class OpenTypeMacintoshNameRecord : OpenTypeBaseNameRecord

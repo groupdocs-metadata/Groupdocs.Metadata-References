@@ -1,14 +1,14 @@
 ---
 title: CropUnits
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: için birimleri alır veya ayarlarCropWidthgroupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/cropwidth veCropHeightgroupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/cropheight .
+description: için birimleri alır veya ayarlarCropWidthgroupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/cropwidth VeCropHeightgroupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/cropheight .
 type: docs
 weight: 200
 url: /tr/net/groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/cropunits/
 ---
 ## XmpCameraRawPackage.CropUnits property
 
-için birimleri alır veya ayarlar[`CropWidth`](../cropwidth) ve[`CropHeight`](../cropheight) .
+için birimleri alır veya ayarlar[`CropWidth`](../cropwidth) Ve[`CropHeight`](../cropheight) .
 
 ```csharp
 public XmpCropUnit CropUnits { get; set; }

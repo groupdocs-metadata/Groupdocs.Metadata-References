@@ -1,14 +1,14 @@
 ---
 title: Pdf
 second_title: GroupDocs.Metadata for .NET API 参考
-description: Adobe PDF 命名空间
+description: Adobe PDF 命名空间.
 type: docs
 weight: 80
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpnamespaces/pdf/
 ---
 ## XmpNamespaces.Pdf field
 
-Adobe PDF 命名空间。
+Adobe PDF 命名空间.
 
 ```csharp
 public const string Pdf;

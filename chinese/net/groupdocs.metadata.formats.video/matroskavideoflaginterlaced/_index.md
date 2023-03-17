@@ -1,14 +1,14 @@
 ---
 title: MatroskaVideoFlagInterlaced
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示一个标志用于声明 Matroska 视频是否已知为逐行扫描或隔行扫描 如果适用则声明有关隔行扫描的详细信息
+description: 表示声明 Matroska 视频是否已知为渐进式或隔行扫描 的标志如果适用则声明有关隔行扫描的详细信息
 type: docs
 weight: 2590
 url: /zh/net/groupdocs.metadata.formats.video/matroskavideoflaginterlaced/
 ---
 ## MatroskaVideoFlagInterlaced enumeration
 
-表示一个标志，用于声明 Matroska 视频是否已知为逐行扫描或隔行扫描 ，如果适用，则声明有关隔行扫描的详细信息。
+表示声明 Matroska 视频是否已知为渐进式或隔行扫描 的标志，如果适用，则声明有关隔行扫描的详细信息。
 
 ```csharp
 public enum MatroskaVideoFlagInterlaced : byte
@@ -18,9 +18,9 @@ public enum MatroskaVideoFlagInterlaced : byte
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Undetermined | `0` | 未确定的标志。 |
-| Interlaced | `1` | 隔行扫描标志。 |
-| Progressive | `2` | 渐进式标志。 |
+| Undetermined | `0` | 未确定标志。 |
+| Interlaced | `1` | 交错标记. |
+| Progressive | `2` | 进步标志. |
 
 ### 也可以看看
 

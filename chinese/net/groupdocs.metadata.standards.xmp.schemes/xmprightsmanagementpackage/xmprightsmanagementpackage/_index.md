@@ -1,14 +1,14 @@
 ---
 title: XmpRightsManagementPackage
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpRightsManagementPackagegroupdocs.metadata.standards.xmp.schemes/xmprightsmanagementpackage类.
+description: 初始化一个新的实例XmpRightsManagementPackagegroupdocs.metadata.standards.xmp.schemes/xmprightsmanagementpackage类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmprightsmanagementpackage/xmprightsmanagementpackage/
 ---
 ## XmpRightsManagementPackage constructor
 
-初始化[`XmpRightsManagementPackage`](../../xmprightsmanagementpackage)类.
+初始化一个新的实例[`XmpRightsManagementPackage`](../../xmprightsmanagementpackage)类.
 
 ```csharp
 public XmpRightsManagementPackage()

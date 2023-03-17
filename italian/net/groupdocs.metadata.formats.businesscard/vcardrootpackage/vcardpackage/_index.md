@@ -20,7 +20,7 @@ Il pacchetto di metadati VCard.
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * [Utilizzo dei metadati vCard](https://docs.groupdocs.com/display/metadatanet/Working+with+vCard+metadata)
 

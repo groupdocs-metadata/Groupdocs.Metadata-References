@@ -1,14 +1,14 @@
 ---
 title: Get
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取指定id的字段的值
+description: 获取指定id字段的值
 type: docs
 weight: 80
 url: /zh/net/groupdocs.metadata.formats.audio/lyricstag/get/
 ---
 ## LyricsTag.Get method
 
-获取指定id的字段的值。
+获取指定id字段的值。
 
 ```csharp
 public string Get(string id)

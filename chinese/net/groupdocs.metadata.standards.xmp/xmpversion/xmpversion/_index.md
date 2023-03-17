@@ -1,14 +1,14 @@
 ---
 title: XmpVersion
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpVersiongroupdocs.metadata.standards.xmp/xmpversion类.
+description: 初始化一个新的实例XmpVersiongroupdocs.metadata.standards.xmp/xmpversion类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpversion/xmpversion/
 ---
 ## XmpVersion constructor
 
-初始化[`XmpVersion`](../../xmpversion)类.
+初始化一个新的实例[`XmpVersion`](../../xmpversion)类.
 
 ```csharp
 public XmpVersion()

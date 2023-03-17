@@ -1,14 +1,14 @@
 ---
 title: TiffByteTag
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化TiffByteTaggroupdocs.metadata.formats.image/tiffbytetag类.
+description: 初始化一个新的实例TiffByteTaggroupdocs.metadata.formats.image/tiffbytetag类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.image/tiffbytetag/tiffbytetag/
 ---
 ## TiffByteTag constructor
 
-初始化[`TiffByteTag`](../../tiffbytetag)类.
+初始化一个新的实例[`TiffByteTag`](../../tiffbytetag)类.
 
 ```csharp
 public TiffByteTag(TiffTagID tagID, byte[] value)
@@ -16,7 +16,7 @@ public TiffByteTag(TiffTagID tagID, byte[] value)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| tagID | TiffTagID | 标签标识符。 |
+| tagID | TiffTagID | 标记标识符。 |
 | value | Byte[] | 价值。 |
 
 ### 也可以看看

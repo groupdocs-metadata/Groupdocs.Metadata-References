@@ -1,14 +1,14 @@
 ---
 title: Duration
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置媒体文件的时长
+description: 获取或设置媒体文件的持续时间
 type: docs
 weight: 200
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/duration/
 ---
 ## XmpDynamicMediaPackage.Duration property
 
-获取或设置媒体文件的时长。
+获取或设置媒体文件的持续时间。
 
 ```csharp
 public XmpTime Duration { get; set; }

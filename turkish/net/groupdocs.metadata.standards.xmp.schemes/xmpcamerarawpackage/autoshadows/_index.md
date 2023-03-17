@@ -16,7 +16,7 @@ public bool? AutoShadows { get; set; }
 
 ### Mülk değeri
 
-`doğru` if [otomatik gölgeler]; aksi halde,`yanlış` .
+`doğru` if [otomatik gölgeler]; aksi takdirde,`YANLIŞ` .
 
 ### Ayrıca bakınız
 

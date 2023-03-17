@@ -1,14 +1,14 @@
 ---
 title: Rights
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置有关资源中和资源上的权利的信息
+description: 获取或设置有关资源中和对资源持有的权利的信息
 type: docs
 weight: 470
 url: /zh/net/groupdocs.metadata.formats.ebook/epubpackage/rights/
 ---
 ## EpubPackage.Rights property
 
-获取或设置有关资源中和资源上的权利的信息。
+获取或设置有关资源中和对资源持有的权利的信息。
 
 ```csharp
 public string Rights { get; set; }
@@ -16,7 +16,7 @@ public string Rights { get; set; }
 
 ### 适当的价值
 
-资源中和资源上的权利信息。
+有关资源中和资源上持有的权利的信息。
 
 ### 也可以看看
 

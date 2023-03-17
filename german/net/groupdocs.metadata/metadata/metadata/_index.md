@@ -20,7 +20,7 @@ public Metadata(string filePath)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * [Laden von einer lokalen Festplatte](https://docs.groupdocs.com/display/metadatanet/Load+from+a+local+disk)
 * [Aus einem Stream laden](https://docs.groupdocs.com/display/metadatanet/Load+from+a+stream)
@@ -60,7 +60,7 @@ public Metadata(Stream document)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * [Laden von einer lokalen Festplatte](https://docs.groupdocs.com/display/metadatanet/Load+from+a+local+disk)
 * [Aus einem Stream laden](https://docs.groupdocs.com/display/metadatanet/Load+from+a+stream)
@@ -102,7 +102,7 @@ public Metadata(string filePath, LoadOptions loadOptions)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * [Laden von einer lokalen Festplatte](https://docs.groupdocs.com/display/metadatanet/Load+from+a+local+disk)
 * [Aus einem Stream laden](https://docs.groupdocs.com/display/metadatanet/Load+from+a+stream)
@@ -150,7 +150,7 @@ public Metadata(Stream document, LoadOptions loadOptions)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * [Laden von einer lokalen Festplatte](https://docs.groupdocs.com/display/metadatanet/Load+from+a+local+disk)
 * [Aus einem Stream laden](https://docs.groupdocs.com/display/metadatanet/Load+from+a+stream)

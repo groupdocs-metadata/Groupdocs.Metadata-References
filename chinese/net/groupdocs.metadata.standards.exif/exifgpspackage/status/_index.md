@@ -1,14 +1,14 @@
 ---
 title: Status
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置图像记录时 GPS 接收器的状态
+description: 获取或设置记录图像时GPS接收器的状态
 type: docs
 weight: 290
 url: /zh/net/groupdocs.metadata.standards.exif/exifgpspackage/status/
 ---
 ## ExifGpsPackage.Status property
 
-获取或设置图像记录时 GPS 接收器的状态。
+获取或设置记录图像时GPS接收器的状态。
 
 ```csharp
 public string Status { get; set; }
@@ -16,7 +16,7 @@ public string Status { get; set; }
 
 ### 适当的价值
 
-记录图像时 GPS 接收器的状态。
+记录图像时GPS接收器的状态。
 
 ### 也可以看看
 

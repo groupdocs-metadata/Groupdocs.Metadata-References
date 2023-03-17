@@ -1,14 +1,14 @@
 ---
 title: Emphasis
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获得重点
+description: 得到重点
 type: docs
 weight: 50
 url: /zh/net/groupdocs.metadata.formats.mpeg/mpegaudiopackage/emphasis/
 ---
 ## MpegAudioPackage.Emphasis property
 
-获得重点。
+得到重点。
 
 ```csharp
 public MpegEmphasis Emphasis { get; }
@@ -16,7 +16,7 @@ public MpegEmphasis Emphasis { get; }
 
 ### 适当的价值
 
-重点。
+重点.
 
 ### 也可以看看
 

@@ -16,7 +16,7 @@ public bool? AutoBrightness { get; set; }
 
 ### El valor de la propiedad
 
-`verdadero` si [brillo automático]; de lo contrario,`falso` .
+`verdadero` si [brillo automático]; de lo contrario,`FALSO` .
 
 ### Ver también
 

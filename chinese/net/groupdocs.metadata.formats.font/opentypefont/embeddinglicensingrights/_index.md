@@ -16,7 +16,7 @@ public OpenTypeLicensingRights EmbeddingLicensingRights { get; }
 
 ### 适当的价值
 
-嵌入许可权限类型。
+嵌入许可权类型。
 
 ### 也可以看看
 

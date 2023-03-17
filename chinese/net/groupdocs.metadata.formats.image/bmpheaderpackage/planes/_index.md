@@ -1,14 +1,14 @@
 ---
 title: Planes
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取平面数
+description: 获取平面数.
 type: docs
 weight: 50
 url: /zh/net/groupdocs.metadata.formats.image/bmpheaderpackage/planes/
 ---
 ## BmpHeaderPackage.Planes property
 
-获取平面数。
+获取平面数.
 
 ```csharp
 public ushort Planes { get; }
@@ -16,7 +16,7 @@ public ushort Planes { get; }
 
 ### 适当的价值
 
-平面数。
+平面数.
 
 ### 也可以看看
 

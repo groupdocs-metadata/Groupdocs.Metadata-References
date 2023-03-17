@@ -1,14 +1,14 @@
 ---
 title: OpenTypePlatform
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 代表名称表的 OpenType 平台
+description: 表示名称表的 OpenType 平台
 type: docs
 weight: 1540
 url: /zh/net/groupdocs.metadata.formats.font/opentypeplatform/
 ---
 ## OpenTypePlatform enumeration
 
-代表名称表的 OpenType 平台。
+表示名称表的 OpenType 平台。
 
 ```csharp
 public enum OpenTypePlatform : ushort
@@ -22,7 +22,7 @@ public enum OpenTypePlatform : ushort
 | Macintosh | `1` | Macintosh 平台。 |
 | Iso | `2` | ISO [已弃用] 平台。 |
 | Windows | `3` | Windows 平台。 |
-| Custom | `4` | 自定义平台. |
+| Custom | `4` | 自定义平台。 |
 
 ### 也可以看看
 

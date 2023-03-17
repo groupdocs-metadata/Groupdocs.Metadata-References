@@ -1,14 +1,14 @@
 ---
 title: OpenTypeWindowsEncoding
 second_title: Référence de l'API GroupDocs.Metadata pour .NET
-description: Représente lencodage pour leWindows plateforme.
+description: Représente lencodage pour leWindowsplateforme.
 type: docs
 weight: 1620
 url: /fr/net/groupdocs.metadata.formats.font/opentypewindowsencoding/
 ---
 ## OpenTypeWindowsEncoding enumeration
 
-Représente l'encodage pour leWindows plate-forme.
+Représente l'encodage pour leWindowsplate-forme.
 
 ```csharp
 public enum OpenTypeWindowsEncoding : ushort

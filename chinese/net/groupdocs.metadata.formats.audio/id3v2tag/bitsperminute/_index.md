@@ -1,14 +1,14 @@
 ---
 title: BitsPerMinute
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置音频主体部分每分钟的节拍数 该值由TBPM帧表示
+description: 获取或设置音频主要部分每分钟的节拍数 该值由 TBPM 帧表示
 type: docs
 weight: 60
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2tag/bitsperminute/
 ---
 ## ID3V2Tag.BitsPerMinute property
 
-获取或设置音频主体部分每分钟的节拍数。 该值由TBPM帧表示。
+获取或设置音频主要部分每分钟的节拍数。 该值由 TBPM 帧表示。
 
 ```csharp
 public string BitsPerMinute { get; set; }

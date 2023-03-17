@@ -16,7 +16,7 @@ public override string GetXmpRepresentation()
 
 ### Geri dönüş değeri
 
-AString XMP değerinin gösterimi.
+birString XMP değerinin gösterimi.
 
 ### Ayrıca bakınız
 

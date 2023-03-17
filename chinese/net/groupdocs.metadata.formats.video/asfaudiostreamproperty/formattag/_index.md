@@ -1,14 +1,14 @@
 ---
 title: FormatTag
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取用于对音频数据进行编码的编解码器的唯一 ID
+description: 获取用于编码音频数据的编解码器的唯一 ID
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.formats.video/asfaudiostreamproperty/formattag/
 ---
 ## AsfAudioStreamProperty.FormatTag property
 
-获取用于对音频数据进行编码的编解码器的唯一 ID。
+获取用于编码音频数据的编解码器的唯一 ID。
 
 ```csharp
 public ushort FormatTag { get; }

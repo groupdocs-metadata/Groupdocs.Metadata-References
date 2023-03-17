@@ -16,7 +16,7 @@ public string DateSubmitted { get; set; }
 
 ### 适当的价值
 
-资源的提交日期。
+资源提交日期。
 
 ### 也可以看看
 

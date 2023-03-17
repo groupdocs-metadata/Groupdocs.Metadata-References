@@ -1,14 +1,14 @@
 ---
 title: WhiteBalance
 second_title: Riferimento API GroupDocs.Metadata per .NET
-description: Ottiene limpostazione del bilanciamento del bianco. UsoSetWhiteBalancegroupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/setwhitebalance per impostare il valore del bilanciamento del bianco.
+description: Ottiene limpostazione del bilanciamento del bianco. UtilizzoSetWhiteBalancegroupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/setwhitebalance per impostare il valore del bilanciamento del bianco.
 type: docs
 weight: 400
 url: /it/net/groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/whitebalance/
 ---
 ## XmpCameraRawPackage.WhiteBalance property
 
-Ottiene l'impostazione del bilanciamento del bianco. Uso[`SetWhiteBalance`](../setwhitebalance) per impostare il valore del bilanciamento del bianco.
+Ottiene l'impostazione del bilanciamento del bianco. Utilizzo[`SetWhiteBalance`](../setwhitebalance) per impostare il valore del bilanciamento del bianco.
 
 ```csharp
 public string WhiteBalance { get; }

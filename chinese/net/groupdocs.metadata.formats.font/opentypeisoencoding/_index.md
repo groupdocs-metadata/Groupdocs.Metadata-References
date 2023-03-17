@@ -1,14 +1,14 @@
 ---
 title: OpenTypeIsoEncoding
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 代表编码Iso平台.
+description: 代表编码为Iso平台.
 type: docs
 weight: 1470
 url: /zh/net/groupdocs.metadata.formats.font/opentypeisoencoding/
 ---
 ## OpenTypeIsoEncoding enumeration
 
-代表编码Iso平台.
+代表编码为Iso平台.
 
 ```csharp
 public enum OpenTypeIsoEncoding : ushort

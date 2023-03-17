@@ -16,7 +16,7 @@ public string[] Contributors { get; set; }
 
 ### 适当的价值
 
-贡献者的数组。
+一组贡献者。
 
 ### 评论
 

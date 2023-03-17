@@ -1,14 +1,14 @@
 ---
 title: MKV
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: MKV Matroska Video MOV ve AVI formatına benzer bir multimedya kabıdır ancak aynı dosyada birden fazla ses ve altyazı parçasını destekler. Bu dosya hakkında daha fazla bilgi edinin format buradahttps//wiki.fileformat.com/video/mkv/ .
+description: MKV Matroska Video MOV ve AVI formatına benzer bir multimedya kabıdır ancak aynı dosyada birden fazla ses ve altyazı parçasını destekler. Bu dosya hakkında daha fazla bilgi edinin format Buradahttps//wiki.fileformat.com/video/mkv/ .
 type: docs
 weight: 340
 url: /tr/net/groupdocs.metadata.common/filetype/mkv/
 ---
 ## FileType.MKV field
 
-MKV (Matroska Video), MOV ve AVI formatına benzer bir multimedya kabıdır ancak aynı dosyada birden fazla ses ve altyazı parçasını destekler. Bu dosya hakkında daha fazla bilgi edinin format [burada](https://wiki.fileformat.com/video/mkv/) .
+MKV (Matroska Video), MOV ve AVI formatına benzer bir multimedya kabıdır ancak aynı dosyada birden fazla ses ve altyazı parçasını destekler. Bu dosya hakkında daha fazla bilgi edinin format [Burada](https://wiki.fileformat.com/video/mkv/) .
 
 ```csharp
 public static readonly FileType MKV;

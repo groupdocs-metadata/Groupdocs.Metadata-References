@@ -1,14 +1,14 @@
 ---
 title: FileFormatVersion
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置文件格式版本 一个数字表示指定的文件格式的特定版本FileFormatgroupdocs.metadata.standards.iptc/iptcenveloperecord/fileformat.
+description: 获取或设置文件格式版本 代表指定的文件格式的特定版本的数字FileFormatgroupdocs.metadata.standards.iptc/iptcenveloperecord/fileformat.
 type: docs
 weight: 60
 url: /zh/net/groupdocs.metadata.standards.iptc/iptcenveloperecord/fileformatversion/
 ---
 ## IptcEnvelopeRecord.FileFormatVersion property
 
-获取或设置文件格式版本。 一个数字，表示指定的文件格式的特定版本[`FileFormat`](../fileformat).
+获取或设置文件格式版本。 代表指定的文件格式的特定版本的数字[`FileFormat`](../fileformat).
 
 ```csharp
 public ushort? FileFormatVersion { get; set; }

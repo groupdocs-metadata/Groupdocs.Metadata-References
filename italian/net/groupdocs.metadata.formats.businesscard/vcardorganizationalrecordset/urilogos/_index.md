@@ -16,7 +16,7 @@ public string[] UriLogos { get; }
 
 ### Valore della proprietà
 
-Gli URI delle immagini grafiche del logo associate all'oggetto.
+Gli URI delle immagini grafiche del logo associato all'oggetto.
 
 ### Osservazioni
 

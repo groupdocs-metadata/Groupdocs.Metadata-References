@@ -16,7 +16,7 @@ public string Language { get; }
 
 ### 适当的价值
 
-语言。
+语言.
 
 ### 也可以看看
 

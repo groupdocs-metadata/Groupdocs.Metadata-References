@@ -1,14 +1,14 @@
 ---
 title: XmpCropUnit
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示 CropWidth 和 CropHeight 的单位XmpCameraRawPackage./xmpcamerarawpackage.
+description: 代表CropWidth和CropHeight中的一个单位XmpCameraRawPackage./xmpcamerarawpackage.
 type: docs
 weight: 3110
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpcropunit/
 ---
 ## XmpCropUnit enumeration
 
-表示 CropWidth 和 CropHeight 的单位[`XmpCameraRawPackage`](../xmpcamerarawpackage).
+代表CropWidth和CropHeight中的一个单位[`XmpCameraRawPackage`](../xmpcamerarawpackage).
 
 ```csharp
 public enum XmpCropUnit
@@ -18,7 +18,7 @@ public enum XmpCropUnit
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Pixels | `0` | 像素单位。 |
+| Pixels | `0` | 像素单位. |
 | Inches | `1` | 英寸单位。 |
 | Cm | `2` | 厘米单位。 |
 

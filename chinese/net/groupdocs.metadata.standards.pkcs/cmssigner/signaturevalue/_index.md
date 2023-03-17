@@ -1,14 +1,14 @@
 ---
 title: SignatureValue
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 使用消息摘要和签名者的私钥获取数字签名生成的结果
+description: 获取数字签名生成结果使用消息摘要和签名者的私钥
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.standards.pkcs/cmssigner/signaturevalue/
 ---
 ## CmsSigner.SignatureValue property
 
-使用消息摘要和签名者的私钥获取数字签名生成的结果。
+获取数字签名生成结果，使用消息摘要和签名者的私钥。
 
 ```csharp
 public string SignatureValue { get; }

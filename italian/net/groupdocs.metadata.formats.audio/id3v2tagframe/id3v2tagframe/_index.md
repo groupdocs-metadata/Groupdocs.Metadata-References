@@ -16,7 +16,7 @@ public ID3V2TagFrame(string frameId, byte[] data)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| frameId | String | L'id del frame (quattro caratteri corrispondenti al modello [A-Z0-9]). |
+| frameId | String | L'id del frame (quattro caratteri corrispondenti al pattern [A-Z0-9]). |
 | data | Byte[] | Il contenuto della cornice. |
 
 ### Guarda anche

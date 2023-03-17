@@ -16,7 +16,7 @@ public static XmpAudioChannelType Audio16Channel { get; }
 
 ### 适当的价值
 
-16 声道音频。
+16 声道音频.
 
 ### 也可以看看
 

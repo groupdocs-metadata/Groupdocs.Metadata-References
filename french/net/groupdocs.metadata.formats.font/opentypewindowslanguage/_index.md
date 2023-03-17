@@ -1,14 +1,14 @@
 ---
 title: OpenTypeWindowsLanguage
 second_title: Référence de l'API GroupDocs.Metadata pour .NET
-description: Représente la langue pourWindows plateforme.
+description: Représente la langue pourWindowsplateforme.
 type: docs
 weight: 1630
 url: /fr/net/groupdocs.metadata.formats.font/opentypewindowslanguage/
 ---
 ## OpenTypeWindowsLanguage enumeration
 
-Représente la langue pourWindows plate-forme.
+Représente la langue pourWindowsplate-forme.
 
 ```csharp
 public enum OpenTypeWindowsLanguage : ushort

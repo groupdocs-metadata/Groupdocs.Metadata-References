@@ -1,14 +1,14 @@
 ---
 title: Files
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取一个数组ZipFilegroupdocs.metadata.formats.archive/zipfile ZIP 存档中的条目
+description: 获取数组ZipFilegroupdocs.metadata.formats.archive/zipfile ZIP 存档中的条目.
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.formats.archive/zippackage/files/
 ---
 ## ZipPackage.Files property
 
-获取一个数组[`ZipFile`](../../zipfile) ZIP 存档中的条目。
+获取数组[`ZipFile`](../../zipfile) ZIP 存档中的条目.
 
 ```csharp
 public ZipFile[] Files { get; }
@@ -16,7 +16,7 @@ public ZipFile[] Files { get; }
 
 ### 适当的价值
 
-一个数组[`ZipFile`](../../zipfile)ZIP 存档中的条目。
+的数组[`ZipFile`](../../zipfile)ZIP 存档中的条目。
 
 ### 也可以看看
 

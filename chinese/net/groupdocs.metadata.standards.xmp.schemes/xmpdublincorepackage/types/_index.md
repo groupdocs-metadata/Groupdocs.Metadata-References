@@ -1,14 +1,14 @@
 ---
 title: Types
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置表示资源性质或类型的字符串值数组
+description: 获取或设置代表资源性质或类型的字符串值数组
 type: docs
 weight: 160
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpdublincorepackage/types/
 ---
 ## XmpDublinCorePackage.Types property
 
-获取或设置表示资源性质或类型的字符串值数组。
+获取或设置代表资源性质或类型的字符串值数组。
 
 ```csharp
 public string[] Types { get; set; }

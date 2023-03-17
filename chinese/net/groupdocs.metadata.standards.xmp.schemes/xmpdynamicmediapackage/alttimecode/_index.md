@@ -8,7 +8,7 @@ url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/alt
 ---
 ## XmpDynamicMediaPackage.AltTimecode property
 
-获取或设置用户设置的时间码
+获取或设置用户设置的时间码。
 
 ```csharp
 public XmpTimecode AltTimecode { get; set; }
@@ -16,7 +16,7 @@ public XmpTimecode AltTimecode { get; set; }
 
 ### 适当的价值
 
-用户设置的时间码。指定时，将使用它代替 startTimecode.
+用户设置的时间码。指定后，将使用它代替 startTimecode.
 
 ### 也可以看看
 

@@ -20,7 +20,7 @@ Das FLV-Header-Paket.
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * [Arbeiten mit Metadaten in FLV-Dateien](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+FLV+files)
 

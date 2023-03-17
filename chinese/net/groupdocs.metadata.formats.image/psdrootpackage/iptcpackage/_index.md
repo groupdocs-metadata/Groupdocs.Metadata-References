@@ -20,13 +20,13 @@ IPTC 元数据包。
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [使用 IPTC IIM 元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+IPTC+IIM+metadata)
 
 ### 例子
 
-这个例子展示了如何读取基本的 IPTC 元数据属性。
+此示例显示如何读取基本 IPTC 元数据属性。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.PsdWithIptc))

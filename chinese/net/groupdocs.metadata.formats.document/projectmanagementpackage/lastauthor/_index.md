@@ -1,14 +1,14 @@
 ---
 title: LastAuthor
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置最后作者
+description: 获取或设置最后一个作者
 type: docs
 weight: 90
 url: /zh/net/groupdocs.metadata.formats.document/projectmanagementpackage/lastauthor/
 ---
 ## ProjectManagementPackage.LastAuthor property
 
-获取或设置最后作者。
+获取或设置最后一个作者。
 
 ```csharp
 public string LastAuthor { get; set; }
@@ -16,7 +16,7 @@ public string LastAuthor { get; set; }
 
 ### 适当的价值
 
-最后作者.
+最后一位作者。
 
 ### 也可以看看
 

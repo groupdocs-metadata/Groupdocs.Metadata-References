@@ -20,7 +20,7 @@ Il pacchetto di metadati OpenType.
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * [Lavorare con i font OpenType](https://docs.groupdocs.com/display/metadatanet/Working+with+OpenType+fonts)
 

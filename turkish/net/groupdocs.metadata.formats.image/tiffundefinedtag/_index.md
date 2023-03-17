@@ -25,7 +25,7 @@ public sealed class TiffUndefinedTag : TiffArrayTag<byte>
 | İsim | Tanım |
 | --- | --- |
 | [Descriptor](../../groupdocs.metadata.common/metadataproperty/descriptor) { get; } | Meta veri özelliğiyle ilişkili tanımlayıcıyı alır. |
-| [InterpretedValue](../../groupdocs.metadata.common/metadataproperty/interpretedvalue) { get; } | Varsa, yorumlanan özellik değerini alır. Yorumlanan değer, orijinal özellik değerinin kullanıcı dostu bir biçimidir. Örneğin, sayısal işaretler ve kimlikler yerine insan tarafından okunabilir bir dize döndürür, gerekirse bayt dizilerini metne çevirir, vb. |
+| [InterpretedValue](../../groupdocs.metadata.common/metadataproperty/interpretedvalue) { get; } | Varsa, yorumlanan özellik değerini alır. Yorumlanan değer, orijinal özellik değerinin kullanıcı dostu bir biçimidir. Örneğin, sayısal bayraklar ve kimlikler yerine insan tarafından okunabilir bir dize döndürür, gerekirse bayt dizilerini metne çevirir, vb. |
 | [Name](../../groupdocs.metadata.common/metadataproperty/name) { get; } | Özellik adını alır. |
 | [TagID](../../groupdocs.metadata.formats.image/tifftag/tagid) { get; } | Etiket kimliğini alır. |
 | [Tags](../../groupdocs.metadata.common/metadataproperty/tags) { get; } | Özellikle ilişkili bir etiket koleksiyonu alır. |

@@ -1,14 +1,14 @@
 ---
 title: VSS
 second_title: Riferimento API GroupDocs.Metadata per .NET
-description: VSS sono file stencil creati con Microsoft Visio 2007 e versioni precedenti. I file stencil forniscono oggetti drawing che possono essere inclusi in un disegno .VSD Visio. Ulteriori informazioni su questo formato di file quihttps//wiki.fileformat.com/visio/vss/ .
+description: VSS sono file stencil creati con Microsoft Visio 2007 e versioni precedenti. I file stencil forniscono oggetti drawing che possono essere inclusi in un disegno .VSD Visio. Ulteriori informazioni su questo formato di file Quihttps//wiki.fileformat.com/visio/vss/ .
 type: docs
 weight: 690
 url: /it/net/groupdocs.metadata.common/filetype/vss/
 ---
 ## FileType.VSS field
 
-VSS sono file stencil creati con Microsoft Visio 2007 e versioni precedenti. I file stencil forniscono oggetti drawing che possono essere inclusi in un disegno .VSD Visio. Ulteriori informazioni su questo formato di file [qui](https://wiki.fileformat.com/visio/vss/) .
+VSS sono file stencil creati con Microsoft Visio 2007 e versioni precedenti. I file stencil forniscono oggetti drawing che possono essere inclusi in un disegno .VSD Visio. Ulteriori informazioni su questo formato di file [Qui](https://wiki.fileformat.com/visio/vss/) .
 
 ```csharp
 public static readonly FileType VSS;

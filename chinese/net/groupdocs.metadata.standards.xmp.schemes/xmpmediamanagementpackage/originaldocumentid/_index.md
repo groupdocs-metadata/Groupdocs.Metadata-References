@@ -1,14 +1,14 @@
 ---
 title: OriginalDocumentID
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置派生当前资源的原始资源的公共标识符
+description: 获取或设置当前资源派生自的原始资源的公共标识符
 type: docs
 weight: 120
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpmediamanagementpackage/originaldocumentid/
 ---
 ## XmpMediaManagementPackage.OriginalDocumentID property
 
-获取或设置派生当前资源的原始资源的公共标识符。
+获取或设置当前资源派生自的原始资源的公共标识符。
 
 ```csharp
 public string OriginalDocumentID { get; set; }
@@ -16,7 +16,7 @@ public string OriginalDocumentID { get; set; }
 
 ### 适当的价值
 
-派生当前资源的原始资源的通用标识符
+派生当前资源的原始资源的公共标识符
 
 ### 也可以看看
 

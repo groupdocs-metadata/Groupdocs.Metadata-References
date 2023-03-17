@@ -1,14 +1,14 @@
 ---
 title: Atoms
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取一个数组MovAtomgroupdocs.metadata.formats.video/movatom原子.
+description: 获取数组MovAtomgroupdocs.metadata.formats.video/movatom原子.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.video/movpackage/atoms/
 ---
 ## MovPackage.Atoms property
 
-获取一个数组[`MovAtom`](../../movatom)原子.
+获取数组[`MovAtom`](../../movatom)原子.
 
 ```csharp
 public MovAtom[] Atoms { get; }

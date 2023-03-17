@@ -16,7 +16,7 @@ public XmpBoolean(bool value)
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| value | Boolean | Boolean القيمة. |
+| value | Boolean | Booleanقيمة. |
 
 ### أنظر أيضا
 

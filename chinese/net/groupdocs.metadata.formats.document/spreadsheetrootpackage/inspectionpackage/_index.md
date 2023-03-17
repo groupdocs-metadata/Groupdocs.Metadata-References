@@ -1,14 +1,14 @@
 ---
 title: InspectionPackage
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取包含文档检查结果的元数据包 该包包含有关在某些情况下可被视为元数据的文档部分的信息
+description: 获取包含文档检查结果的元数据包 该包包含有关文档部分的信息在某些情况下可以将其视为元数据
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.formats.document/spreadsheetrootpackage/inspectionpackage/
 ---
 ## SpreadsheetRootPackage.InspectionPackage property
 
-获取包含文档检查结果的元数据包。 该包包含有关在某些情况下可被视为元数据的文档部分的信息。
+获取包含文档检查结果的元数据包。 该包包含有关文档部分的信息，在某些情况下可以将其视为元数据。
 
 ```csharp
 public SpreadsheetInspectionPackage InspectionPackage { get; }
@@ -20,13 +20,13 @@ public SpreadsheetInspectionPackage InspectionPackage { get; }
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [在电子表格中使用元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+Spreadsheets)
 
 ### 例子
 
-此代码段显示如何检查电子表格文档。
+此代码片段显示如何检查电子表格文档。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.InputXls))

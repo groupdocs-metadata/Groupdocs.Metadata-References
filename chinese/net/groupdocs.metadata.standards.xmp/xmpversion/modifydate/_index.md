@@ -1,14 +1,14 @@
 ---
 title: ModifyDate
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置此版本的签入日期
+description: 获取或设置签入此版本的日期
 type: docs
 weight: 50
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpversion/modifydate/
 ---
 ## XmpVersion.ModifyDate property
 
-获取或设置此版本的签入日期。
+获取或设置签入此版本的日期。
 
 ```csharp
 public DateTime? ModifyDate { get; set; }

@@ -16,7 +16,7 @@ public static XmpWhiteBalance Daylight { get; }
 
 ### 适当的价值
 
-日光。
+日光.
 
 ### 也可以看看
 

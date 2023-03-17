@@ -20,10 +20,10 @@ public enum PropertyAccessLevels
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Read | `0` | 该属性是只读的。 |
-| Update | `1` | 可以使用[`UpdateProperties`](../metadatapackage/updateproperties)方法. |
-| Remove | `2` | 属性可以通过[`RemoveProperties`](../metadatapackage/removeproperties)方法. |
-| Add | `4` | 可以使用[`AddProperties`](../metadatapackage/addproperties)方法. |
-| Full | `7` | 授予对属性的完全访问权限。 |
+| Update | `1` | 可以使用更新属性[`UpdateProperties`](../metadatapackage/updateproperties)方法. |
+| Remove | `2` | 该属性可以通过[`RemoveProperties`](../metadatapackage/removeproperties)方法. |
+| Add | `4` | 可以使用更新属性[`AddProperties`](../metadatapackage/addproperties)方法. |
+| Full | `7` | 授予对该属性的完全访问权限。 |
 | AddOrUpdate | `5` | 允许添加和更新属性。所有其他操作都受到限制。 |
 
 ### 也可以看看

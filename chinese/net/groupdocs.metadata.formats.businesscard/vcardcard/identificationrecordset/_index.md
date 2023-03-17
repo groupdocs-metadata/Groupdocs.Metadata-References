@@ -16,7 +16,7 @@ public VCardIdentificationRecordset IdentificationRecordset { get; }
 
 ### 适当的价值
 
-鉴定记录。
+识别记录。
 
 ### 也可以看看
 

@@ -20,7 +20,7 @@ public OpenTypePackage OpenTypePackage { get; }
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * [Работа со шрифтами OpenType.](https://docs.groupdocs.com/display/metadatanet/Working+with+OpenType+fonts)
 

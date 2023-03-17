@@ -1,14 +1,14 @@
 ---
 title: Shade
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 白平衡阴影
+description: 白平衡阴影.
 type: docs
 weight: 80
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpwhitebalance/shade/
 ---
 ## XmpWhiteBalance.Shade property
 
-白平衡：阴影。
+白平衡：阴影.
 
 ```csharp
 public static XmpWhiteBalance Shade { get; }

@@ -1,14 +1,14 @@
 ---
 title: DICOM
 second_title: GroupDocs.Metadata für .NET-API-Referenz
-description: DICOM ist das Akronym für Digital Imaging and Communications in Medicine und bezieht sich auf den Bereich der medizinischen Informatik. DICOM wird für die Integration von medizinischen Bildgebungsgeräten wie Druckern Servern Scannern usw. verschiedener Hersteller verwendet und enthält auch Identifikationsdaten von jedem geduldig auf Einzigartigkeit. Weitere Informationen zu diesem Dateiformat hierhttps//docs.fileformat.com/image/dicom/ .
+description: DICOM ist das Akronym für Digital Imaging and Communications in Medicine und bezieht sich auf den Bereich der medizinischen Informatik. DICOM wird für die Integration von medizinischen Bildgebungsgeräten wie Druckern Servern Scannern usw. verschiedener Hersteller verwendet und enthält auch Identifikationsdaten von jedem geduldig auf Einzigartigkeit. Weitere Informationen zu diesem Dateiformat Hierhttps//docs.fileformat.com/image/dicom/ .
 type: docs
 weight: 40
 url: /de/net/groupdocs.metadata.common/filetype/dicom/
 ---
 ## FileType.DICOM field
 
-DICOM ist das Akronym für Digital Imaging and Communications in Medicine und bezieht sich auf den Bereich der medizinischen Informatik. DICOM wird für die Integration von medizinischen Bildgebungsgeräten wie Druckern, Servern, Scannern usw. verschiedener Hersteller verwendet und enthält auch Identifikationsdaten von jedem geduldig auf Einzigartigkeit. Weitere Informationen zu diesem Dateiformat [hier](https://docs.fileformat.com/image/dicom/) .
+DICOM ist das Akronym für Digital Imaging and Communications in Medicine und bezieht sich auf den Bereich der medizinischen Informatik. DICOM wird für die Integration von medizinischen Bildgebungsgeräten wie Druckern, Servern, Scannern usw. verschiedener Hersteller verwendet und enthält auch Identifikationsdaten von jedem geduldig auf Einzigartigkeit. Weitere Informationen zu diesem Dateiformat [Hier](https://docs.fileformat.com/image/dicom/) .
 
 ```csharp
 public static readonly FileType DICOM;

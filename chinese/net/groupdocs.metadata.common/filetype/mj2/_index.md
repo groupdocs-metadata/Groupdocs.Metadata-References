@@ -1,14 +1,14 @@
 ---
 title: MJ2
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 视频格式定义为 Motion JPEG 2000第 3 部分包含 JPEG 2000 图像的运动序列 不涉及帧间编码而是使用 JPEG 2000 压缩独立编码每个帧
+description: 视频格式定义为 Motion JPEG 2000第 3 部分包含 JPEG 2000 图像的运动序列 不涉及帧间编码而是使用 JPEG 2000 压缩对每个帧独立编码
 type: docs
 weight: 310
 url: /zh/net/groupdocs.metadata.common/filetype/mj2/
 ---
 ## FileType.MJ2 field
 
-视频格式定义为 Motion JPEG 2000（第 3 部分）；包含 JPEG 2000 图像的运动序列； 不涉及帧间编码，而是使用 JPEG 2000 压缩独立编码每个帧。
+视频格式定义为 Motion JPEG 2000（第 3 部分）；包含 JPEG 2000 图像的运动序列； 不涉及帧间编码，而是使用 JPEG 2000 压缩对每个帧独立编码。
 
 ```csharp
 public static readonly FileType MJ2;

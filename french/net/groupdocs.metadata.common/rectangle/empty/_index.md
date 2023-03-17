@@ -1,14 +1,14 @@
 ---
 title: Empty
 second_title: Référence de l'API GroupDocs.Metadata pour .NET
-description: Récupère le rectangle vide.
+description: Obtient le rectangle vide.
 type: docs
 weight: 10
 url: /fr/net/groupdocs.metadata.common/rectangle/empty/
 ---
 ## Rectangle.Empty property
 
-Récupère le rectangle vide.
+Obtient le rectangle vide.
 
 ```csharp
 public static Rectangle Empty { get; }

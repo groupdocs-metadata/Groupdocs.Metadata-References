@@ -1,14 +1,14 @@
 ---
 title: Artist
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置相机所有者摄影师或图像创建者的名称
+description: 获取或设置相机所有者摄影师或图像创建者的姓名
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.standards.exif/exifpackage/artist/
 ---
 ## ExifPackage.Artist property
 
-获取或设置相机所有者、摄影师或图像创建者的名称。
+获取或设置相机所有者、摄影师或图像创建者的姓名。
 
 ```csharp
 public string Artist { get; set; }

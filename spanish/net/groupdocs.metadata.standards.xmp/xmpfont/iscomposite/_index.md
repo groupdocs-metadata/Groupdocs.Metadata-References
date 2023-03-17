@@ -16,7 +16,7 @@ public bool? IsComposite { get; set; }
 
 ### El valor de la propiedad
 
-`verdadero` si la fuente es compuesta; de lo contrario,`falso` .
+`verdadero` si la fuente es compuesta; de lo contrario,`FALSO` .
 
 ### Ver también
 

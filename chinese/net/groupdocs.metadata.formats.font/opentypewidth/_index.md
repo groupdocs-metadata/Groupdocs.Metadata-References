@@ -1,14 +1,14 @@
 ---
 title: OpenTypeWidth
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示 OpenType 字体宽度 表示相对于正常纵横比宽高比 的相对变化由字体设计者为字体中的字形指定
+description: 表示 OpenType 字体宽度 表示字体设计师为字体中的字形指定的正常纵横比宽高比 的相对变化
 type: docs
 weight: 1610
 url: /zh/net/groupdocs.metadata.formats.font/opentypewidth/
 ---
 ## OpenTypeWidth enumeration
 
-表示 OpenType 字体宽度。 表示相对于正常纵横比（宽高比） 的相对变化，由字体设计者为字体中的字形指定。
+表示 OpenType 字体宽度。 表示字体设计师为字体中的字形指定的正常纵横比（宽高比） 的相对变化。
 
 ```csharp
 public enum OpenTypeWidth : ushort
@@ -19,15 +19,15 @@ public enum OpenTypeWidth : ushort
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | Undefined | `0` | 未定义的 wifth. |
-| UltraCondensed | `1` | 超浓缩的wifth. |
-| ExtraCondensed | `2` | 超浓缩的 wifth. |
-| Condensed | `3` | 浓缩的 wifth. |
-| SemiCondensed | `4` | 半浓缩的 wifth. |
-| Medium | `5` | 中型（正常）wifth. |
-| SemiExpanded | `6` | 半膨胀的 wifth. |
-| Expanded | `7` | 扩展后的 wifth. |
-| ExtraExpanded | `8` | 额外扩展的 wifth. |
-| UltraExpanded | `9` | 超扩展的wifth. |
+| UltraCondensed | `1` | 超浓缩with. |
+| ExtraCondensed | `2` | 超浓缩的. |
+| Condensed | `3` | 浓缩版. |
+| SemiCondensed | `4` | 半浓缩的. |
+| Medium | `5` | 中（正常）withth. |
+| SemiExpanded | `6` | 半膨胀with. |
+| Expanded | `7` | 扩展的withth. |
+| ExtraExpanded | `8` | 额外扩展的with. |
+| UltraExpanded | `9` | 超扩展的with. |
 
 ### 也可以看看
 

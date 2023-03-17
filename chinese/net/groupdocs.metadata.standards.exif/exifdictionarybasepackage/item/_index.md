@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取具有指定 id 的 TIFF 标签
+description: 获取指定id的TIFF标签
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.exif/exifdictionarybasepackage/item/
 ---
 ## ExifDictionaryBasePackage indexer
 
-获取具有指定 id 的 TIFF 标签。
+获取指定id的TIFF标签。
 
 ```csharp
 public TiffTag this[TiffTagID tagId] { get; }
@@ -20,7 +20,7 @@ public TiffTag this[TiffTagID tagId] { get; }
 
 ### 返回值
 
-这[`TiffTag`](../../../groupdocs.metadata.formats.image/tifftag)具有指定的标签 ID。
+这[`TiffTag`](../../../groupdocs.metadata.formats.image/tifftag)使用指定的标签 ID。
 
 ### 例子
 

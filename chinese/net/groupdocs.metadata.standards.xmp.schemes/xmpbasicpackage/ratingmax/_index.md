@@ -1,14 +1,14 @@
 ---
 title: RatingMax
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 评级最大值
+description: 评级最大值.
 type: docs
 weight: 130
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpbasicpackage/ratingmax/
 ---
 ## XmpBasicPackage.RatingMax field
 
-评级最大值。
+评级最大值.
 
 ```csharp
 public const float RatingMax;

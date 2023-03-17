@@ -1,14 +1,14 @@
 ---
 title: MaxAvailableHeight
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置原始照片的最大可用高度以像素为单位通过缩小尺寸导出这张照片
+description: 获取或设置原始照片的最大可用高度以像素为单位通过缩小尺寸从中导出此照片
 type: docs
 weight: 80
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpiptcextensionpackage/maxavailableheight/
 ---
 ## XmpIptcExtensionPackage.MaxAvailableHeight property
 
-获取或设置原始照片的最大可用高度（以像素为单位），通过缩小尺寸导出这张照片。
+获取或设置原始照片的最大可用高度（以像素为单位），通过缩小尺寸从中导出此照片。
 
 ```csharp
 public int? MaxAvailableHeight { get; set; }

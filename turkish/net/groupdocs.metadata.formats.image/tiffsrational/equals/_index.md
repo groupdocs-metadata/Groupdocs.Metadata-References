@@ -21,7 +21,7 @@ public static bool Equals(TiffSRational rational, TiffSRational other)
 
 ### Geri dönüş değeri
 
-`doğru` nesneler eşit ise; aksi halde`yanlış`.
+`doğru` nesneler eşit ise; aksi takdirde`YANLIŞ`.
 
 ### Ayrıca bakınız
 
@@ -45,7 +45,7 @@ public bool Equals(TiffSRational other)
 
 ### Geri dönüş değeri
 
-`doğru` geçerli nesne şuna eşitse*other* parametre; aksi halde,`yanlış` .
+`doğru` geçerli nesne şuna eşitse*other* parametre; aksi takdirde,`YANLIŞ` .
 
 ### Ayrıca bakınız
 
@@ -69,7 +69,7 @@ public override bool Equals(object obj)
 
 ### Geri dönüş değeri
 
-`doğru` geçerli nesne şuna eşitse*obj* parametre; aksi halde,`yanlış` .
+`doğru` geçerli nesne şuna eşitse*obj* parametre; aksi takdirde,`YANLIŞ` .
 
 ### Ayrıca bakınız
 

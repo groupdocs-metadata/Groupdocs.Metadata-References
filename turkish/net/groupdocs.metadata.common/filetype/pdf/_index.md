@@ -1,14 +1,14 @@
 ---
 title: PDF
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: Taşınabilir Belge Biçimi PDF Adobe tarafından 1990larda oluşturulmuş bir belge türüdür. this dosya formatının amacı uygulama yazılımı donanım ve İşletim Sisteminden bağımsız bir format olan de belgelerin ve diğer referans materyallerinin temsili için bir standart getirmekti. Bu dosya biçimi hakkında daha fazla bilgi edinin buradahttps//docs.fileformat.com/pdf/ .
+description: Taşınabilir Belge Biçimi PDF Adobe tarafından 1990larda oluşturulmuş bir belge türüdür. this dosya formatının amacı uygulama yazılımı donanım ve İşletim Sisteminden bağımsız bir format olan de belgelerin ve diğer referans materyallerinin temsili için bir standart getirmekti. Bu dosya biçimi hakkında daha fazla bilgi edinin Buradahttps//docs.fileformat.com/pdf/ .
 type: docs
 weight: 450
 url: /tr/net/groupdocs.metadata.common/filetype/pdf/
 ---
 ## FileType.PDF field
 
-Taşınabilir Belge Biçimi (PDF), Adobe tarafından 1990'larda oluşturulmuş bir belge türüdür. this dosya formatının amacı, uygulama yazılımı, donanım ve İşletim Sisteminden bağımsız bir format olan 'de belgelerin ve diğer referans materyallerinin temsili için bir standart getirmekti. Bu dosya biçimi hakkında daha fazla bilgi edinin [burada](https://docs.fileformat.com/pdf/) .
+Taşınabilir Belge Biçimi (PDF), Adobe tarafından 1990'larda oluşturulmuş bir belge türüdür. this dosya formatının amacı, uygulama yazılımı, donanım ve İşletim Sisteminden bağımsız bir format olan 'de belgelerin ve diğer referans materyallerinin temsili için bir standart getirmekti. Bu dosya biçimi hakkında daha fazla bilgi edinin [Burada](https://docs.fileformat.com/pdf/) .
 
 ```csharp
 public static readonly FileType PDF;

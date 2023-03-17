@@ -1,14 +1,14 @@
 ---
 title: Streams
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取文件中的流数比如一个有音视频的文件有两个流
+description: 获取文件中的流数例如一个带有音频和视频的文件有两个流
 type: docs
 weight: 80
 url: /zh/net/groupdocs.metadata.formats.video/aviheader/streams/
 ---
 ## AviHeader.Streams property
 
-获取文件中的流数。比如一个有音视频的文件有两个流。
+获取文件中的流数。例如，一个带有音频和视频的文件有两个流。
 
 ```csharp
 public int Streams { get; }

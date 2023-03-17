@@ -1,14 +1,14 @@
 ---
 title: CropHeight
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置裁剪后图像的高度CropUnitsgroupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/cropunits单位.
+description: 获取或设置生成的裁剪图像的高度CropUnitsgroupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/cropunits单位.
 type: docs
 weight: 160
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/cropheight/
 ---
 ## XmpCameraRawPackage.CropHeight property
 
-获取或设置裁剪后图像的高度[`CropUnits`](../cropunits)单位.
+获取或设置生成的裁剪图像的高度[`CropUnits`](../cropunits)单位.
 
 ```csharp
 public double? CropHeight { get; set; }

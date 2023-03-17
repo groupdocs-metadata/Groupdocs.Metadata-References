@@ -1,14 +1,14 @@
 ---
 title: IsCompressed
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取一个值该值指示该块是否被压缩
+description: 获取指示块是否被压缩的值
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.image/pnginternationaltextchunk/iscompressed/
 ---
 ## PngInternationalTextChunk.IsCompressed property
 
-获取一个值，该值指示该块是否被压缩。
+获取指示块是否被压缩的值。
 
 ```csharp
 public bool IsCompressed { get; }
@@ -16,7 +16,7 @@ public bool IsCompressed { get; }
 
 ### 适当的价值
 
-True，如果块被压缩；否则为假。
+True，如果块被压缩；否则为 false.
 
 ### 也可以看看
 

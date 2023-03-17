@@ -1,14 +1,14 @@
 ---
 title: Copyright
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取标记所有者提供的版权声明的标签
+description: 获取标记所有者提供的版权声明的标记
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.tagging/legaltagcategory/copyright/
 ---
 ## LegalTagCategory.Copyright property
 
-获取标记所有者提供的版权声明的标签。
+获取标记所有者提供的版权声明的标记。
 
 ```csharp
 public PropertyTag Copyright { get; }

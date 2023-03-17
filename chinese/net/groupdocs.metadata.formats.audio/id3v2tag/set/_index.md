@@ -1,14 +1,14 @@
 ---
 title: Set
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 删除所有与指定帧具有相同 id 的帧并将新帧添加到标签中
+description: 删除所有与指定帧具有相同 ID 的帧并将新帧添加到标签中
 type: docs
 weight: 330
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2tag/set/
 ---
 ## ID3V2Tag.Set method
 
-删除所有与指定帧具有相同 id 的帧，并将新帧添加到标签中。
+删除所有与指定帧具有相同 ID 的帧，并将新帧添加到标签中。
 
 ```csharp
 public void Set(ID3V2TagFrame frame)

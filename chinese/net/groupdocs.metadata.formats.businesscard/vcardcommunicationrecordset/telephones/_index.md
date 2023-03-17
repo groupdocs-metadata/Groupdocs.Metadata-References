@@ -20,7 +20,7 @@ public string[] Telephones { get; }
 
 ### 评论
 
-这个属性是一个简化版[`TelephoneRecords`](../telephonerecords).
+此属性是[`TelephoneRecords`](../telephonerecords).
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: SetType
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 设置资源的单一类型
+description: 设置单一类型的资源
 type: docs
 weight: 280
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpdublincorepackage/settype/
 ---
 ## XmpDublinCorePackage.SetType method
 
-设置资源的单一类型。
+设置单一类型的资源。
 
 ```csharp
 public void SetType(string type)

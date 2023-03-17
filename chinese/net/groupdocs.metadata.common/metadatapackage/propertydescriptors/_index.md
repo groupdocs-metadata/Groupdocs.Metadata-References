@@ -16,7 +16,7 @@ public IReadOnlyList<PropertyDescriptor> PropertyDescriptors { get; }
 
 ### 适当的价值
 
-一组描述符，其中包含有关可通过 GroupDocs.Metadata 搜索引擎访问的属性的信息。
+描述符的集合，其中包含有关可通过 GroupDocs.Metadata 搜索引擎访问的属性的信息。
 
 ### 也可以看看
 

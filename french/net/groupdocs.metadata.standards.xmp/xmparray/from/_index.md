@@ -18,7 +18,7 @@ public static XmpArray From<T>(T[] array, XmpArrayType type)
 | Paramètre | La description |
 | --- | --- |
 | T | Le type d'élément du tableau source. |
-| array | Le tableau pour créer un[`XmpArray`](../../xmparray) de. |
+| array | Le tableau pour créer un[`XmpArray`](../../xmparray) depuis. |
 | type | Le genre du[`XmpArray`](../../xmparray). |
 
 ### Return_Value
@@ -45,7 +45,7 @@ public static XmpArray From(string[] array, XmpArrayType type)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| array | String[] | Le tableau pour créer un[`XmpArray`](../../xmparray) de. |
+| array | String[] | Le tableau pour créer un[`XmpArray`](../../xmparray) depuis. |
 | type | XmpArrayType | Le genre du[`XmpArray`](../../xmparray). |
 
 ### Return_Value
@@ -71,7 +71,7 @@ public static XmpArray From(int[] array, XmpArrayType type)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| array | Int32[] | Le tableau pour créer un[`XmpArray`](../../xmparray) de. |
+| array | Int32[] | Le tableau pour créer un[`XmpArray`](../../xmparray) depuis. |
 | type | XmpArrayType | Le genre du[`XmpArray`](../../xmparray). |
 
 ### Return_Value
@@ -97,7 +97,7 @@ public static XmpArray From(DateTime[] array, XmpArrayType type)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| array | DateTime[] | Le tableau pour créer un[`XmpArray`](../../xmparray) de. |
+| array | DateTime[] | Le tableau pour créer un[`XmpArray`](../../xmparray) depuis. |
 | type | XmpArrayType | Le genre du[`XmpArray`](../../xmparray). |
 
 ### Return_Value
@@ -123,7 +123,7 @@ public static XmpArray From(double[] array, XmpArrayType type)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| array | Double[] | Le tableau pour créer un[`XmpArray`](../../xmparray) de. |
+| array | Double[] | Le tableau pour créer un[`XmpArray`](../../xmparray) depuis. |
 | type | XmpArrayType | Le genre du[`XmpArray`](../../xmparray). |
 
 ### Return_Value

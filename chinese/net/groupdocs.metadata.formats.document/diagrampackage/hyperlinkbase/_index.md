@@ -1,14 +1,14 @@
 ---
 title: HyperlinkBase
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置用于相对超链接的路径链接文件位置的描述与 Microsoft Visio 图相关的超链接 默认情况下超链接路径是相对于当前文档的除非指定了不同的路径在此元素中 最大长度为 256 个字符
+description: 获取或设置用于相对超链接的路径超链接的链接文件位置是相对于 Microsoft Visio 图描述的 默认情况下超链接路径是相对于当前文档的除非指定了不同的路径在此元素中 最大长度为 256 个字符
 type: docs
 weight: 80
 url: /zh/net/groupdocs.metadata.formats.document/diagrampackage/hyperlinkbase/
 ---
 ## DiagramPackage.HyperlinkBase property
 
-获取或设置用于相对超链接的路径（链接文件位置的描述与 Microsoft Visio 图相关的超链接）。 默认情况下，超链接路径是相对于当前文档的，除非指定了不同的路径在此元素中。 最大长度为 256 个字符。
+获取或设置用于相对超链接的路径（超链接的链接文件位置是相对于 Microsoft Visio 图描述的）。 默认情况下，超链接路径是相对于当前文档的，除非指定了不同的路径在此元素中。 最大长度为 256 个字符。
 
 ```csharp
 public string HyperlinkBase { get; set; }

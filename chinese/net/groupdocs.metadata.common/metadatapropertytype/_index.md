@@ -18,22 +18,22 @@ public enum MetadataPropertyType
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Empty | `0` | 表示一个空（null）属性。 |
+| Empty | `0` | 表示一个空的 (null) 属性。 |
 | String | `1` | 表示一个字符串属性。 |
 | Boolean | `2` | 表示布尔属性。 |
 | DateTime | `3` | 表示日期属性。 |
 | TimeSpan | `4` | 表示时间属性。 |
 | Integer | `5` | 表示一个整数属性。 |
-| Long | `6` | 表示长整数属性。 |
+| Long | `6` | 代表一个长整型属性。 |
 | Double | `7` | 表示具有双精度或浮点值的属性。 |
-| StringArray | `8` | 表示字符串数组属性。 |
+| StringArray | `8` | 表示一个字符串数组属性。 |
 | ByteArray | `9` | 表示一个字节数组属性。 |
-| DoubleArray | `10` | 表示双精度值数组。 |
+| DoubleArray | `10` | 表示一个double值数组。 |
 | IntegerArray | `11` | 表示整数值数组。 |
 | LongArray | `12` | 表示长值数组。 |
 | Metadata | `13` | 表示嵌套的元数据块。 |
 | MetadataArray | `14` | 表示嵌套元数据块的数组。 |
-| Guid | `15` | 表示全局唯一标识符值。 |
+| Guid | `15` | 表示一个全局唯一标识符值。 |
 | PropertyValueArray | `16` | 表示元数据属性值数组。 |
 
 ### 也可以看看

@@ -1,14 +1,14 @@
 ---
 title: ContinuousDrive
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取连续驱动器
+description: 获取连续驱动
 type: docs
 weight: 60
 url: /zh/net/groupdocs.metadata.standards.exif.makernote/canoncamerasettingspackage/continuousdrive/
 ---
 ## CanonCameraSettingsPackage.ContinuousDrive property
 
-获取连续驱动器。
+获取连续驱动。
 
 ```csharp
 public short ContinuousDrive { get; }
@@ -16,7 +16,7 @@ public short ContinuousDrive { get; }
 
 ### 适当的价值
 
-连续驱动。
+连续驱动.
 
 ### 也可以看看
 

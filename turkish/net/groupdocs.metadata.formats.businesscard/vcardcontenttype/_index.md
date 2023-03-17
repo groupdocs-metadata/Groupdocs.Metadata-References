@@ -19,7 +19,7 @@ public enum VCardContentType
 | İsim | Değer | Tanım |
 | --- | --- | --- |
 | Custom | `0` | Özel içerik türü. |
-| Text | `1` | Metin içerik türü. |
+| Text | `1` | Metin içeriği türü. |
 | Binary | `2` | İkili içerik türü. |
 | DateTime | `3` | Tarih saat içerik türü. |
 | Agent | `4` | Aracı içerik türü. |

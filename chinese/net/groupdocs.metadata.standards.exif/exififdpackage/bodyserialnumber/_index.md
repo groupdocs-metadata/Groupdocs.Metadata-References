@@ -8,7 +8,7 @@ url: /zh/net/groupdocs.metadata.standards.exif/exififdpackage/bodyserialnumber/
 ---
 ## ExifIfdPackage.BodySerialNumber property
 
-获取或设置相机机身序列号
+获取或设置相机机身序列号。
 
 ```csharp
 public string BodySerialNumber { get; set; }

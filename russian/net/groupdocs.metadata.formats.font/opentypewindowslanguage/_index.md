@@ -1,14 +1,14 @@
 ---
 title: OpenTypeWindowsLanguage
 second_title: Справочник по API GroupDocs.Metadata для .NET
-description: Представляет язык дляWindows платформа.
+description: Представляет язык дляWindowsплатформа.
 type: docs
 weight: 1630
 url: /ru/net/groupdocs.metadata.formats.font/opentypewindowslanguage/
 ---
 ## OpenTypeWindowsLanguage enumeration
 
-Представляет язык дляWindows платформа.
+Представляет язык дляWindowsплатформа.
 
 ```csharp
 public enum OpenTypeWindowsLanguage : ushort

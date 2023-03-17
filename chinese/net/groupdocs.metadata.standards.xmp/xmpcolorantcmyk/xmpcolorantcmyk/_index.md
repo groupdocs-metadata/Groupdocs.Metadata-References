@@ -1,14 +1,14 @@
 ---
 title: XmpColorantCmyk
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpColorantCmykgroupdocs.metadata.standards.xmp/xmpcolorantcmyk类.
+description: 初始化一个新的实例XmpColorantCmykgroupdocs.metadata.standards.xmp/xmpcolorantcmyk类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpcolorantcmyk/xmpcolorantcmyk/
 ---
 ## XmpColorantCmyk() {#constructor}
 
-初始化[`XmpColorantCmyk`](../../xmpcolorantcmyk)类.
+初始化一个新的实例[`XmpColorantCmyk`](../../xmpcolorantcmyk)类.
 
 ```csharp
 public XmpColorantCmyk()
@@ -24,7 +24,7 @@ public XmpColorantCmyk()
 
 ## XmpColorantCmyk(double, double, double, double) {#constructor_1}
 
-初始化[`XmpColorantCmyk`](../../xmpcolorantcmyk)类.
+初始化一个新的实例[`XmpColorantCmyk`](../../xmpcolorantcmyk)类.
 
 ```csharp
 public XmpColorantCmyk(double cyan, double magenta, double yellow, double black)
@@ -34,7 +34,7 @@ public XmpColorantCmyk(double cyan, double magenta, double yellow, double black)
 | --- | --- | --- |
 | cyan | Double | 青色成分。 |
 | magenta | Double | 洋红色成分。 |
-| yellow | Double | 黄色组件。 |
+| yellow | Double | 黄色成分。 |
 | black | Double | 黑色成分。 |
 
 ### 也可以看看

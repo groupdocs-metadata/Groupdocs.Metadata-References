@@ -1,14 +1,14 @@
 ---
 title: Parameters
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置动作的附加描述
+description: 获取或设置动作的附加说明
 type: docs
 weight: 50
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpresourceevent/parameters/
 ---
 ## XmpResourceEvent.Parameters property
 
-获取或设置动作的附加描述。
+获取或设置动作的附加说明。
 
 ```csharp
 public string Parameters { get; set; }
@@ -16,7 +16,7 @@ public string Parameters { get; set; }
 
 ### 适当的价值
 
-动作的附加说明。
+操作的附加说明。
 
 ### 也可以看看
 

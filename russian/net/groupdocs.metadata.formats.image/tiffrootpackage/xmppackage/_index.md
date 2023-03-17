@@ -20,7 +20,7 @@ public XmpPacketWrapper XmpPackage { get; set; }
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * [Работа с метаданными XMP](https://docs.groupdocs.com/display/metadatanet/Working+with+XMP+metadata)
 

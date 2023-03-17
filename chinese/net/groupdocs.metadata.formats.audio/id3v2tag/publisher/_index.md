@@ -1,14 +1,14 @@
 ---
 title: Publisher
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置标签或发布者的名称 此值由 TPUB 帧表示
+description: 获取或设置标签或发布者的名称 此值由 TPUB 框架表示
 type: docs
 weight: 170
 url: /zh/net/groupdocs.metadata.formats.audio/id3v2tag/publisher/
 ---
 ## ID3V2Tag.Publisher property
 
-获取或设置标签或发布者的名称。 此值由 TPUB 帧表示。
+获取或设置标签或发布者的名称。 此值由 TPUB 框架表示。
 
 ```csharp
 public string Publisher { get; set; }
@@ -16,7 +16,7 @@ public string Publisher { get; set; }
 
 ### 适当的价值
 
-标签或出版商的名称。
+标签或发行商的名称。
 
 ### 也可以看看
 

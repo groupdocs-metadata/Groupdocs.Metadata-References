@@ -1,14 +1,14 @@
 ---
 title: PersonTagCategory
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 提供标记元数据属性的标签其中包含有关为文件或知识内容创建做出贡献的人员的信息 这些标签可以帮助您找到文档创建者编辑者甚至是为其执行工作的客户 尽管有类别名称但一些标有标签的元数据属性可以包含公司名称而不是个人姓名
+description: 提供标记元数据属性的标签这些元数据属性包含有关为文件或知识内容创建做出贡献的人员的信息 这些标签可以帮助您找到文档创建者编辑者甚至是为其执行工作的客户 尽管有类别名称但一些标有标签的元数据属性可以包含公司名称而不是人名
 type: docs
 weight: 3690
 url: /zh/net/groupdocs.metadata.tagging/persontagcategory/
 ---
 ## PersonTagCategory class
 
-提供标记元数据属性的标签，其中包含有关为文件或知识内容创建做出贡献的人员的信息。 这些标签可以帮助您找到文档创建者、编辑者，甚至是为其执行工作的客户。 尽管有类别名称，但一些标有标签的元数据属性可以包含公司名称而不是个人姓名。
+提供标记元数据属性的标签，这些元数据属性包含有关为文件或知识内容创建做出贡献的人员的信息。 这些标签可以帮助您找到文档创建者、编辑者，甚至是为其执行工作的客户。 尽管有类别名称，但一些标有标签的元数据属性可以包含公司名称而不是人名。
 
 ```csharp
 public class PersonTagCategory : TagCategory
@@ -18,19 +18,19 @@ public class PersonTagCategory : TagCategory
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Client](../../groupdocs.metadata.tagging/persontagcategory/client) { get; } | 获取标记有关为其创建文件/智力内容的客户端的信息的标签。 |
-| [Contributor](../../groupdocs.metadata.tagging/persontagcategory/contributor) { get; } | 获取标记属性的标签，该属性包含以某种方式为文件创建做出贡献的人的姓名。 请注意，该标签不适用于标有此类别中更具体标签的元数据属性。 例如，如果属性标有 Creator 标记。 |
-| [Creator](../../groupdocs.metadata.tagging/persontagcategory/creator) { get; } | 获取表示文件/文档的原始作者的标签。 |
-| [Editor](../../groupdocs.metadata.tagging/persontagcategory/editor) { get; } | 获取标记编辑文件的人的标签。 标签通常用于标记包含最后一个编辑器信息的属性。 |
-| [Manager](../../groupdocs.metadata.tagging/persontagcategory/manager) { get; } | 获取标记有关管理文件制作过程的人员的信息的标签。 |
-| [Model](../../groupdocs.metadata.tagging/persontagcategory/model) { get; } | 获取表示文件内容所涉及的人员信息的标记。 对于图像中显示的人的照片。 |
-| [Publisher](../../groupdocs.metadata.tagging/persontagcategory/publisher) { get; } | 获取标记负责使文件可用的人员的标签。 |
+| [Client](../../groupdocs.metadata.tagging/persontagcategory/client) { get; } | 获取标记有关为其创建文件/知识内容的客户的信息的标签。 |
+| [Contributor](../../groupdocs.metadata.tagging/persontagcategory/contributor) { get; } | 获取标记属性的标签，该属性包含以某种方式对文件创建做出贡献的人的姓名。 请注意，该标签不适用于标有此类别的更具体标签的元数据属性。 例如，如果属性标有 Creator 标签。 |
+| [Creator](../../groupdocs.metadata.tagging/persontagcategory/creator) { get; } | 获取表示文件/文档的原始作者的标记。 |
+| [Editor](../../groupdocs.metadata.tagging/persontagcategory/editor) { get; } | 获取标记编辑文件的人的标签。 该标签通常用于标记包含有关最后编辑者信息的属性。 |
+| [Manager](../../groupdocs.metadata.tagging/persontagcategory/manager) { get; } | 获取标记有关管理文件制作过程的人员信息的标签。 |
+| [Model](../../groupdocs.metadata.tagging/persontagcategory/model) { get; } | 获取表示与文件内容有关的人的信息的标记。 对于图片中显示的人的照片。 |
+| [Publisher](../../groupdocs.metadata.tagging/persontagcategory/publisher) { get; } | 获取标记负责使文件可用的人员的标记。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [ToString](../../groupdocs.metadata.tagging/tagcategory/tostring)() | 返回代表当前对象的字符串。 |
+| override [ToString](../../groupdocs.metadata.tagging/tagcategory/tostring)() | 返回表示当前对象的字符串。 |
 
 ### 也可以看看
 

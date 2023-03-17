@@ -16,7 +16,7 @@ public bool? IsTrapped { get; set; }
 
 ### Mülk değeri
 
-`doğru` belge sıkışmışsa; aksi halde,`yanlış` .
+`doğru` belge sıkışmışsa; aksi takdirde,`YANLIŞ` .
 
 ### Ayrıca bakınız
 

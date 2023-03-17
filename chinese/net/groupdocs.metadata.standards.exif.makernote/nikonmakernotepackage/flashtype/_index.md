@@ -1,14 +1,14 @@
 ---
 title: FlashType
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取闪存的类型
+description: 获取 flash 的类型
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.standards.exif.makernote/nikonmakernotepackage/flashtype/
 ---
 ## NikonMakerNotePackage.FlashType property
 
-获取闪存的类型。
+获取 flash 的类型。
 
 ```csharp
 public string FlashType { get; }

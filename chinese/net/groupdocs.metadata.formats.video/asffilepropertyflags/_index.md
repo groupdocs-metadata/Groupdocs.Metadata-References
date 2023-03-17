@@ -19,9 +19,9 @@ public enum AsfFilePropertyFlags : uint
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| Undefined | `0` | 未定义的标志。 |
-| Broadcast | `1` | 指定文件正在创建过程中， 因此存储在头对象中的各种值是无效的。 |
-| Seekable | `2` | 指定文件是可查找的。 |
+| Undefined | `0` | 未定义标志。 |
+| Broadcast | `1` | 指定文件正在创建过程中， 因此标头对象中存储的各种值无效。 |
+| Seekable | `2` | 指定文件是可搜索的。 |
 
 ### 也可以看看
 

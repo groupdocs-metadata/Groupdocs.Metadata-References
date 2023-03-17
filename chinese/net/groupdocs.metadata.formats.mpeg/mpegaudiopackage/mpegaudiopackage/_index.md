@@ -1,14 +1,14 @@
 ---
 title: MpegAudioPackage
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化MpegAudioPackagegroupdocs.metadata.formats.mpeg/mpegaudiopackage类.
+description: 初始化一个新的实例MpegAudioPackagegroupdocs.metadata.formats.mpeg/mpegaudiopackage类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.mpeg/mpegaudiopackage/mpegaudiopackage/
 ---
 ## MpegAudioPackage constructor
 
-初始化[`MpegAudioPackage`](../../mpegaudiopackage)类.
+初始化一个新的实例[`MpegAudioPackage`](../../mpegaudiopackage)类.
 
 ```csharp
 public MpegAudioPackage()

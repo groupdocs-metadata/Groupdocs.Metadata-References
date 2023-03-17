@@ -16,7 +16,7 @@ public static Rectangle Empty { get; }
 
 ### 适当的价值
 
-空矩形。
+空的矩形。
 
 ### 也可以看看
 

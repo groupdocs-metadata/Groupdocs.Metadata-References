@@ -16,7 +16,7 @@ public CanonCameraSettingsPackage CameraSettings { get; }
 
 ### El valor de la propiedad
 
-Los ajustes de la cámara.
+La configuración de la cámara.
 
 ### Ver también
 

@@ -1,14 +1,14 @@
 ---
 title: InvalidFormatException
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化InvalidFormatExceptiongroupdocs.metadata.exceptions/invalidformatexception类.
+description: 初始化一个新的实例InvalidFormatExceptiongroupdocs.metadata.exceptions/invalidformatexception类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.exceptions/invalidformatexception/invalidformatexception/
 ---
 ## InvalidFormatException() {#constructor}
 
-初始化[`InvalidFormatException`](../../invalidformatexception)类.
+初始化一个新的实例[`InvalidFormatException`](../../invalidformatexception)类.
 
 ```csharp
 public InvalidFormatException()
@@ -24,7 +24,7 @@ public InvalidFormatException()
 
 ## InvalidFormatException(string) {#constructor_1}
 
-初始化[`InvalidFormatException`](../../invalidformatexception)类.
+初始化一个新的实例[`InvalidFormatException`](../../invalidformatexception)类.
 
 ```csharp
 public InvalidFormatException(string message)
@@ -44,7 +44,7 @@ public InvalidFormatException(string message)
 
 ## InvalidFormatException(string, Exception) {#constructor_2}
 
-初始化[`InvalidFormatException`](../../invalidformatexception)类.
+初始化一个新的实例[`InvalidFormatException`](../../invalidformatexception)类.
 
 ```csharp
 public InvalidFormatException(string message, Exception innerException)
@@ -53,7 +53,7 @@ public InvalidFormatException(string message, Exception innerException)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | message | String | 解释异常原因的错误消息。 |
-| innerException | Exception | 导致当前异常的异常，如果未指定内部异常，则为空引用（Visual Basic 中为 Nothing）。 |
+| innerException | Exception | 导致当前异常的异常，如果未指定内部异常，则为空引用（在 Visual Basic 中为 Nothing）。 |
 
 ### 也可以看看
 

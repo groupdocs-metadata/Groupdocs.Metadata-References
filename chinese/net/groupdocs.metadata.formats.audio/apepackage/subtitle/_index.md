@@ -16,7 +16,7 @@ public string Subtitle { get; }
 
 ### 适当的价值
 
-字幕。
+字幕.
 
 ### 也可以看看
 

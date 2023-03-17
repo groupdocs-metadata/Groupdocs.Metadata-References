@@ -1,14 +1,14 @@
 ---
 title: HasPart
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置在物理上或逻辑上包含在所描述资源中的相关资源
+description: 获取或设置相关资源该资源在物理上或逻辑上包含在所描述的资源中
 type: docs
 weight: 240
 url: /zh/net/groupdocs.metadata.formats.ebook/epubpackage/haspart/
 ---
 ## EpubPackage.HasPart property
 
-获取或设置在物理上或逻辑上包含在所描述资源中的相关资源。
+获取或设置相关资源，该资源在物理上或逻辑上包含在所描述的资源中。
 
 ```csharp
 public string HasPart { get; set; }

@@ -16,7 +16,7 @@ public static XmpTimeFormat Timecode24 { get; }
 
 ### 适当的价值
 
-24Timecode.
+24 时间码.
 
 ### 也可以看看
 

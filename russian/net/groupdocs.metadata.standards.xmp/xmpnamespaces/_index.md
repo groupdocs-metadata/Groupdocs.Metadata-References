@@ -1,14 +1,14 @@
 ---
 title: XmpNamespaces
 second_title: Справочник по API GroupDocs.Metadata для .NET
-description: Содержит пространства имен используемые вXmpPackage./xmppackage а такжеXmpComplexType./xmpcomplextype .
+description: Содержит пространства имен используемые вXmpPackage./xmppackage иXmpComplexType./xmpcomplextype .
 type: docs
 weight: 3480
 url: /ru/net/groupdocs.metadata.standards.xmp/xmpnamespaces/
 ---
 ## XmpNamespaces class
 
-Содержит пространства имен, используемые в[`XmpPackage`](../xmppackage) а также[`XmpComplexType`](../xmpcomplextype) .
+Содержит пространства имен, используемые в[`XmpPackage`](../xmppackage) и[`XmpComplexType`](../xmpcomplextype) .
 
 ```csharp
 public static class XmpNamespaces

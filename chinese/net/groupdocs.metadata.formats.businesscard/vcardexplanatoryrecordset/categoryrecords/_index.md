@@ -1,14 +1,14 @@
 ---
 title: CategoryRecords
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取关于 vCard 的应用程序类别信息也称为标签
+description: 获取vCard的应用类别信息也称为标签
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.formats.businesscard/vcardexplanatoryrecordset/categoryrecords/
 ---
 ## VCardExplanatoryRecordset.CategoryRecords property
 
-获取关于 vCard 的应用程序类别信息，也称为“标签”。
+获取vCard的应用类别信息，也称为“标签”。
 
 ```csharp
 public VCardTextRecord[] CategoryRecords { get; }
@@ -16,7 +16,7 @@ public VCardTextRecord[] CategoryRecords { get; }
 
 ### 适当的价值
 
-关于 vCard 的应用程序类别信息，也称为“标签”。
+vCard 的应用类别信息，也称为“标签”。
 
 ### 也可以看看
 

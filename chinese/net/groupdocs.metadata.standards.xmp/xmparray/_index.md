@@ -1,14 +1,14 @@
 ---
 title: XmpArray
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示 XMP 数组的基本抽象
+description: 表示 XMP 数组的基础抽象
 type: docs
 weight: 3250
 url: /zh/net/groupdocs.metadata.standards.xmp/xmparray/
 ---
 ## XmpArray class
 
-表示 XMP 数组的基本抽象。
+表示 XMP 数组的基础抽象。
 
 ```csharp
 public class XmpArray : XmpValueBase
@@ -18,8 +18,8 @@ public class XmpArray : XmpValueBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| [XmpArray](xmparray#constructor)(XmpArrayType, XmpComplexType[]) | 初始化[`XmpArray`](../xmparray)类. |
-| [XmpArray](xmparray#constructor_1)(XmpArrayType, XmpValueBase[]) | 初始化[`XmpArray`](../xmparray)类. |
+| [XmpArray](xmparray#constructor)(XmpArrayType, XmpComplexType[]) | 初始化一个新的实例[`XmpArray`](../xmparray)类. |
+| [XmpArray](xmparray#constructor_1)(XmpArrayType, XmpValueBase[]) | 初始化一个新的实例[`XmpArray`](../xmparray)类. |
 
 ## 特性
 
@@ -33,17 +33,17 @@ public class XmpArray : XmpValueBase
 
 | 姓名 | 描述 |
 | --- | --- |
-| static [From](../../groupdocs.metadata.standards.xmp/xmparray/from#from_2)(DateTime[], XmpArrayType) | 创建一个[`XmpArray`](../xmparray)实例形成一个日期数组。 |
-| static [From](../../groupdocs.metadata.standards.xmp/xmparray/from#from)(double[], XmpArrayType) | 创建一个[`XmpArray`](../xmparray)实例形成一个双数组。 |
-| static [From](../../groupdocs.metadata.standards.xmp/xmparray/from#from_1)(int[], XmpArrayType) | 创建一个[`XmpArray`](../xmparray)实例形成一个整数数组。 |
-| static [From](../../groupdocs.metadata.standards.xmp/xmparray/from#from_3)(string[], XmpArrayType) | 创建一个[`XmpArray`](../xmparray)实例形成一个字符串数组。 |
+| static [From](../../groupdocs.metadata.standards.xmp/xmparray/from#from_2)(DateTime[], XmpArrayType) | 创建一个[`XmpArray`](../xmparray)实例形成一个日期数组. |
+| static [From](../../groupdocs.metadata.standards.xmp/xmparray/from#from)(double[], XmpArrayType) | 创建一个[`XmpArray`](../xmparray)实例形成一个双数组. |
+| static [From](../../groupdocs.metadata.standards.xmp/xmparray/from#from_1)(int[], XmpArrayType) | 创建一个[`XmpArray`](../xmparray)实例形成一个整数数组. |
+| static [From](../../groupdocs.metadata.standards.xmp/xmparray/from#from_3)(string[], XmpArrayType) | 创建一个[`XmpArray`](../xmparray)实例形成一个字符串数组. |
 | static [From&lt;T&gt;](../../groupdocs.metadata.standards.xmp/xmparray/from#from_4)(T[], XmpArrayType) | 创建一个[`XmpArray`](../xmparray)实例形成一个数组[`XmpComplexType`](../xmpcomplextype). |
 | [AcceptValue](../../groupdocs.metadata.common/propertyvalue/acceptvalue)(ValueAcceptor) | 使用自定义提取属性值[`ValueAcceptor`](../../groupdocs.metadata.common/valueacceptor). |
-| override [GetXmpRepresentation](../../groupdocs.metadata.standards.xmp/xmparray/getxmprepresentation)() | 将 XMP 值转换为 xml 表示形式。 |
+| override [GetXmpRepresentation](../../groupdocs.metadata.standards.xmp/xmparray/getxmprepresentation)() | 将 XMP 值转换为 xml 表示。 |
 | [ToArray&lt;TElement&gt;](../../groupdocs.metadata.common/propertyvalue/toarray)() | 将属性值转换为指定类型的数组。 |
 | [ToClass&lt;T&gt;](../../groupdocs.metadata.common/propertyvalue/toclass)() | 将属性值转换为引用类型。 |
 | [ToPlatformArray&lt;T&gt;](../../groupdocs.metadata.standards.xmp/xmparray/toplatformarray)() | 转换[`XmpArray`](../xmparray)到特定于平台的数组。 |
-| override [ToString](../../groupdocs.metadata.standards.xmp/xmpvaluebase/tostring)() | 返回一个表示属性值的字符串。 |
+| override [ToString](../../groupdocs.metadata.standards.xmp/xmpvaluebase/tostring)() | 返回表示属性值的字符串。 |
 | [ToStruct&lt;T&gt;](../../groupdocs.metadata.common/propertyvalue/tostruct)() | 将属性值转换为值类型。 |
 | [ToStruct&lt;T&gt;](../../groupdocs.metadata.common/propertyvalue/tostruct)(T) | 将属性值转换为值类型。 |
 

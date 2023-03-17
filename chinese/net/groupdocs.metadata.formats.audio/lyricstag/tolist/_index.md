@@ -16,7 +16,7 @@ public IReadOnlyList<LyricsField> ToList()
 
 ### 返回值
 
-包含在 Lyrics3 标记中的所有字段的列表。
+Lyrics3 标签中包含的所有字段的列表。
 
 ### 也可以看看
 

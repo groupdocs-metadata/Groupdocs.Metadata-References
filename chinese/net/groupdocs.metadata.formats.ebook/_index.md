@@ -1,12 +1,12 @@
 ---
 title: GroupDocs.Metadata.Formats.Ebook
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 命名空间提供了使用电子书格式的功能
+description: 命名空间提供处理电子书格式的功能
 type: docs
 weight: 100
 url: /zh/net/groupdocs.metadata.formats.ebook/
 ---
-命名空间提供了使用电子书格式的功能。
+命名空间提供处理电子书格式的功能。
 
 ## 课程
 

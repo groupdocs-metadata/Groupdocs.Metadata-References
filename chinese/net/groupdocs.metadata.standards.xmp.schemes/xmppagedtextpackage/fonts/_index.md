@@ -1,14 +1,14 @@
 ---
 title: Fonts
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置文档中使用的无序字体数组包括包含的任何文档
+description: 获取或设置文档中使用的无序字体数组包括包含的文档中的任何字体
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmppagedtextpackage/fonts/
 ---
 ## XmpPagedTextPackage.Fonts property
 
-获取或设置文档中使用的无序字体数组（包括包含的任何文档）。
+获取或设置文档中使用的无序字体数组（包括包含的文档中的任何字体）。
 
 ```csharp
 public XmpFont[] Fonts { get; set; }

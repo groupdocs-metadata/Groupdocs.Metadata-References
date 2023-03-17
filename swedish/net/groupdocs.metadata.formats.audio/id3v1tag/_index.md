@@ -53,7 +53,7 @@ public sealed class ID3V1Tag : ID3Tag
 
 ### Anmärkningar
 
-ID3(v1)-taggen är en liten bit extra data i slutet av MP3. Mer information hittar du på[http://id3.org/ID3v1](http://id3.org/ID3v1) .
+ID3(v1)-taggen är en liten bit extra data i slutet av MP3. Mer information finns på[http://id3.org/ID3v1](http://id3.org/ID3v1) .
 
 **Läs mer**
 

@@ -40,11 +40,11 @@ public override bool Equals(object obj)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| obj | Object | LaObject à comparer avec cet exemple. |
+| obj | Object | LeObject à comparer avec cet exemple. |
 
 ### Return_Value
 
-`vrai` si le spécifiéObject est égal à cette instance ; Par ailleurs,`faux` .
+`vrai` si le spécifiéObject est égal à cette instance ; sinon,`FAUX` .
 
 ### Voir également
 

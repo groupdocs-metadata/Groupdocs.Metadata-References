@@ -1,14 +1,14 @@
 ---
 title: XmpNamespaces
 second_title: GroupDocs.Metadata für .NET-API-Referenz
-description: Enthält Namespaces die verwendet werden inXmpPackage./xmppackage undXmpComplexType./xmpcomplextype .
+description: Enthält Namespaces die verwendet werden inXmpPackage./xmppackage UndXmpComplexType./xmpcomplextype .
 type: docs
 weight: 3480
 url: /de/net/groupdocs.metadata.standards.xmp/xmpnamespaces/
 ---
 ## XmpNamespaces class
 
-Enthält Namespaces, die verwendet werden in[`XmpPackage`](../xmppackage) und[`XmpComplexType`](../xmpcomplextype) .
+Enthält Namespaces, die verwendet werden in[`XmpPackage`](../xmppackage) Und[`XmpComplexType`](../xmpcomplextype) .
 
 ```csharp
 public static class XmpNamespaces

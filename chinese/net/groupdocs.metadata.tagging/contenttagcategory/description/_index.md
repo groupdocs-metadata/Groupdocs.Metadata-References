@@ -16,7 +16,7 @@ public PropertyTag Description { get; }
 
 ### 适当的价值
 
-标记包含文件描述的属性的标签。
+标记包含文件描述的属性的标记。
 
 ### 也可以看看
 

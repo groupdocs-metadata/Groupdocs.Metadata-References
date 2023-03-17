@@ -20,7 +20,7 @@ public TorrentPackage TorrentPackage { get; }
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * [Работа с TORRENT-файлами](https://docs.groupdocs.com/display/metadatanet/Working+with+TORRENT+files)
 

@@ -18,7 +18,7 @@ public enum ExifGpsAltitudeRef
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| AboveSeaLevel | `0` | 海平面以上。 |
+| AboveSeaLevel | `0` | 海拔高度。 |
 | BelowSeaLevel | `1` | 低于海平面。 |
 
 ### 也可以看看

@@ -19,17 +19,17 @@ public class ToolTagCategory : TagCategory
 | 姓名 | 描述 |
 | --- | --- |
 | [Hardware](../../groupdocs.metadata.tagging/tooltagcategory/hardware) { get; } | 获取表示用于创建文件的任何类型硬件的标记。 |
-| [HardwareManufacturer](../../groupdocs.metadata.tagging/tooltagcategory/hardwaremanufacturer) { get; } | 获取标记硬件制造商的标签。 |
+| [HardwareManufacturer](../../groupdocs.metadata.tagging/tooltagcategory/hardwaremanufacturer) { get; } | 获取标记硬件制造商的标记。 |
 | [HardwareVersion](../../groupdocs.metadata.tagging/tooltagcategory/hardwareversion) { get; } | 获取标记属性的标签，其中包含用于创建文件的硬件版本。 |
 | [Software](../../groupdocs.metadata.tagging/tooltagcategory/software) { get; } | 获取标记用于创建文件的任何类型软件的标签。 |
-| [SoftwareManufacturer](../../groupdocs.metadata.tagging/tooltagcategory/softwaremanufacturer) { get; } | 获取标记软件制造商的标签。 |
+| [SoftwareManufacturer](../../groupdocs.metadata.tagging/tooltagcategory/softwaremanufacturer) { get; } | 获取标记软件制造商的标记。 |
 | [SoftwareVersion](../../groupdocs.metadata.tagging/tooltagcategory/softwareversion) { get; } | 获取标记属性的标签，其中包含用于创建文件的软件版本。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [ToString](../../groupdocs.metadata.tagging/tagcategory/tostring)() | 返回代表当前对象的字符串。 |
+| override [ToString](../../groupdocs.metadata.tagging/tagcategory/tostring)() | 返回表示当前对象的字符串。 |
 
 ### 也可以看看
 

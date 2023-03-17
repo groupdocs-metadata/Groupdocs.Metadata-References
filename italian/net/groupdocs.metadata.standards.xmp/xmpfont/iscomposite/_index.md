@@ -16,7 +16,7 @@ public bool? IsComposite { get; set; }
 
 ### Valore della proprietà
 
-`VERO` se il carattere è composito; altrimenti,`falso` .
+`VERO` se il carattere è composito; Altrimenti,`falso` .
 
 ### Guarda anche
 

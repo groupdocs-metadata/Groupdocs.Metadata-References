@@ -20,9 +20,9 @@ MakerNote 元数据包。
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* [处理 JPEG 图像中的元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+JPEG+images)
+* [使用 JPEG 图像中的元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+JPEG+images)
 
 ### 也可以看看
 

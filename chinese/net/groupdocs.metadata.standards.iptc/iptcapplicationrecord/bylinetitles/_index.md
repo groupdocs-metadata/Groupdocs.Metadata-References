@@ -1,14 +1,14 @@
 ---
 title: ByLineTitles
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置对象的创建者的头衔
+description: 获取或设置对象的创建者或创建者的头衔
 type: docs
 weight: 60
 url: /zh/net/groupdocs.metadata.standards.iptc/iptcapplicationrecord/bylinetitles/
 ---
 ## IptcApplicationRecord.ByLineTitles property
 
-获取或设置对象的创建者的头衔。
+获取或设置对象的创建者或创建者的头衔。
 
 ```csharp
 public string[] ByLineTitles { get; set; }

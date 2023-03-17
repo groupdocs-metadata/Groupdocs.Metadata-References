@@ -1,14 +1,14 @@
 ---
 title: DisplayUnit
 second_title: Справочник по API GroupDocs.Metadata для .NET
-description: Получает какDisplayWidthgroupdocs.metadata.formats.video/matroskavideotrack/displaywidth а такжеDisplayHeightgroupdocs.metadata.formats.video/matroskavideotrack/displayheight интерпретируются.
+description: Получает какDisplayWidthgroupdocs.metadata.formats.video/matroskavideotrack/displaywidth иDisplayHeightgroupdocs.metadata.formats.video/matroskavideotrack/displayheight интерпретируются.
 type: docs
 weight: 30
 url: /ru/net/groupdocs.metadata.formats.video/matroskavideotrack/displayunit/
 ---
 ## MatroskaVideoTrack.DisplayUnit property
 
-Получает как[`DisplayWidth`](../displaywidth) а также[`DisplayHeight`](../displayheight) интерпретируются.
+Получает как[`DisplayWidth`](../displaywidth) и[`DisplayHeight`](../displayheight) интерпретируются.
 
 ```csharp
 public MatroskaVideoDisplayUnit DisplayUnit { get; }
@@ -16,7 +16,7 @@ public MatroskaVideoDisplayUnit DisplayUnit { get; }
 
 ### Стоимость имущества
 
-как[`DisplayWidth`](../displaywidth) а также[`DisplayHeight`](../displayheight) интерпретируются.
+как[`DisplayWidth`](../displaywidth) и[`DisplayHeight`](../displayheight) интерпретируются.
 
 ### Смотрите также
 

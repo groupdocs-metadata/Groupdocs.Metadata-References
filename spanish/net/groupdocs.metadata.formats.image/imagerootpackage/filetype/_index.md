@@ -20,7 +20,7 @@ El paquete de metadatos del tipo de archivo.
 
 ### Ejemplos
 
-Este ejemplo de código demuestra cómo extraer propiedades de imagen comunes, como ancho y alto, tipo MIME, orden de bytes, etc.
+Este ejemplo de código muestra cómo extraer propiedades de imagen comunes, como ancho y alto, tipo MIME, orden de bytes, etc.
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.InputPng))

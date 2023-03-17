@@ -1,14 +1,14 @@
 ---
 title: Compressed
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取压缩的音频样本
+description: 获取压缩音频样本
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpaudiosampletype/compressed/
 ---
 ## XmpAudioSampleType.Compressed property
 
-获取压缩的音频样本。
+获取压缩音频样本。
 
 ```csharp
 public static XmpAudioSampleType Compressed { get; }
@@ -16,7 +16,7 @@ public static XmpAudioSampleType Compressed { get; }
 
 ### 适当的价值
 
-压缩后的音频。
+压缩音频。
 
 ### 也可以看看
 

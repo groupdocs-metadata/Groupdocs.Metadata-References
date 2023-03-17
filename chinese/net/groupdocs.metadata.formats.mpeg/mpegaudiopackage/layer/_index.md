@@ -1,14 +1,14 @@
 ---
 title: Layer
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取图层描述对于 MP3 音频它是 3.
+description: 获取图层描述对于 MP3 音频它是3.
 type: docs
 weight: 100
 url: /zh/net/groupdocs.metadata.formats.mpeg/mpegaudiopackage/layer/
 ---
 ## MpegAudioPackage.Layer property
 
-获取图层描述。对于 MP3 音频，它是 '3'.
+获取图层描述。对于 MP3 音频，它是“3”.
 
 ```csharp
 public int Layer { get; }
@@ -16,7 +16,7 @@ public int Layer { get; }
 
 ### 适当的价值
 
-图层描述。
+图层描述.
 
 ### 也可以看看
 

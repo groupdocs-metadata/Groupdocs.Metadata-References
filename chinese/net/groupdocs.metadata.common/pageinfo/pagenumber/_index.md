@@ -16,7 +16,7 @@ public int PageNumber { get; }
 
 ### 适当的价值
 
-页数。
+页码。
 
 ### 也可以看看
 

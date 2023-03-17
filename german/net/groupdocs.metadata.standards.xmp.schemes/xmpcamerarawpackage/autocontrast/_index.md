@@ -16,7 +16,7 @@ public bool? AutoContrast { get; set; }
 
 ### Eigentumswert
 
-`Stimmt` if [automatischer Kontrast]; Andernfalls,`FALSCH` .
+`WAHR` if [automatischer Kontrast]; ansonsten,`FALSCH` .
 
 ### Siehe auch
 

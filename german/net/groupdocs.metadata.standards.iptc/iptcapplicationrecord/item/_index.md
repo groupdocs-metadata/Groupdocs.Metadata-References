@@ -20,7 +20,7 @@ public IptcDataSet this[IptcApplicationRecordDataSet dataSetNumber] { get; }
 
 ### Rückgabewert
 
-Das[`IptcDataSet`](../../iptcdataset) mit der angegebenen Nummer.
+Der[`IptcDataSet`](../../iptcdataset) mit der angegebenen Nummer.
 
 ### Siehe auch
 

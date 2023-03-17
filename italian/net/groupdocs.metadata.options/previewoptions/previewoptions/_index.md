@@ -1,14 +1,14 @@
 ---
 title: PreviewOptions
 second_title: Riferimento API GroupDocs.Metadata per .NET
-description: Inizializza una nuova istanza diPreviewOptionsgroupdocs.metadata.options/previewoptionsclasse che causa la chiusura del flusso di output.
+description: Inizializza una nuova istanza diPreviewOptionsgroupdocs.metadata.options/previewoptions classe che causa la chiusura del flusso di output.
 type: docs
 weight: 10
 url: /it/net/groupdocs.metadata.options/previewoptions/previewoptions/
 ---
 ## PreviewOptions(CreatePageStream) {#constructor}
 
-Inizializza una nuova istanza di[`PreviewOptions`](../../previewoptions)classe che causa la chiusura del flusso di output.
+Inizializza una nuova istanza di[`PreviewOptions`](../../previewoptions) classe che causa la chiusura del flusso di output.
 
 ```csharp
 public PreviewOptions(CreatePageStream createPageStream)

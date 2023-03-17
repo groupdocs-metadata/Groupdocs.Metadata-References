@@ -16,7 +16,7 @@ public static XmpWhiteBalance Tungsten { get; }
 
 ### 适当的价值
 
-钨丝。
+钨.
 
 ### 也可以看看
 

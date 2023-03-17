@@ -16,7 +16,7 @@ public PropertyValue(int value)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| value | Int32 | UnInt32 valor. |
+| value | Int32 | UnInt32valor. |
 
 ### Ver también
 
@@ -36,7 +36,7 @@ public PropertyValue(long value)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| value | Int64 | AInt64 valor. |
+| value | Int64 | AInt64valor. |
 
 ### Ver también
 
@@ -56,7 +56,7 @@ public PropertyValue(bool value)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| value | Boolean | ABoolean valor. |
+| value | Boolean | ABooleanvalor. |
 
 ### Ver también
 
@@ -76,7 +76,7 @@ public PropertyValue(double value)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| value | Double | ADouble valor. |
+| value | Double | ADoublevalor. |
 
 ### Ver también
 
@@ -96,7 +96,7 @@ public PropertyValue(string value)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| value | String | AString valor. |
+| value | String | AStringvalor. |
 
 ### Ver también
 
@@ -116,7 +116,7 @@ public PropertyValue(DateTime value)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| value | DateTime | ADateTime valor. |
+| value | DateTime | ADateTimevalor. |
 
 ### Ver también
 
@@ -136,7 +136,7 @@ public PropertyValue(TimeSpan value)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| value | TimeSpan | ATimeSpan valor. |
+| value | TimeSpan | ATimeSpanvalor. |
 
 ### Ver también
 
@@ -228,7 +228,7 @@ public PropertyValue(int[] values)
 
 ## PropertyValue(long[]) {#constructor_7}
 
-Inicializa una nueva instancia del[`PropertyValue`](../../propertyvalue)clase con una matriz de valores largos.
+Inicializa una nueva instancia del[`PropertyValue`](../../propertyvalue) clase con una matriz de valores largos.
 
 ```csharp
 public PropertyValue(long[] values)

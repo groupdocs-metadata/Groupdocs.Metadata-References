@@ -16,7 +16,7 @@ public DateTime LastModificationTime { get; }
 
 ### 适当的价值
 
-最后修改时间。
+最后修改时间.
 
 ### 也可以看看
 

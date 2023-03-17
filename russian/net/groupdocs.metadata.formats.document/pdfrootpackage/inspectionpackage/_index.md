@@ -20,7 +20,7 @@ public PdfInspectionPackage InspectionPackage { get; }
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * [Работа с метаданными в документах PDF](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+PDF+documents)
 

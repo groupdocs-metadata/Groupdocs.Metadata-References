@@ -16,7 +16,7 @@ public bool SharedDoc { get; set; }
 
 ### Eigentumswert
 
-`Stimmt` wenn die Präsentation von mehreren Personen geteilt wird; Andernfalls,`FALSCH` .
+`WAHR` wenn die Präsentation von mehreren Personen geteilt wird; ansonsten,`FALSCH` .
 
 ### Bemerkungen
 

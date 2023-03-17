@@ -20,13 +20,13 @@ TORRENT 文件元数据包。
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [使用 TORRENT 文件](https://docs.groupdocs.com/display/metadatanet/Working+with+TORRENT+files)
 
 ### 例子
 
-此代码示例显示如何更新 TORRENT 文件中的元数据。
+此代码示例展示了如何更新 TORRENT 文件中的元数据。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.InputTorrent))

@@ -16,7 +16,7 @@ public bool Copyright { get; }
 
 ### Mülk değeri
 
-`doğru`telif hakkı ise; aksi halde,`yanlış` .
+`doğru`telif hakkı ise; aksi takdirde,`YANLIŞ` .
 
 ### Ayrıca bakınız
 

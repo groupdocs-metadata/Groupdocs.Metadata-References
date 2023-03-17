@@ -16,7 +16,7 @@ public override int Sanitize()
 
 ### 返回值
 
-受影响属性的数量。
+受影响的属性的数量。
 
 ### 也可以看看
 

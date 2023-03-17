@@ -1,14 +1,14 @@
 ---
 title: Modified
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置资源更改的日期
+description: 获取或设置更改资源的日期
 type: docs
 weight: 400
 url: /zh/net/groupdocs.metadata.formats.ebook/epubpackage/modified/
 ---
 ## EpubPackage.Modified property
 
-获取或设置资源更改的日期。
+获取或设置更改资源的日期。
 
 ```csharp
 public string Modified { get; set; }

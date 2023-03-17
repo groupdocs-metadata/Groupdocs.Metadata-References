@@ -1,14 +1,14 @@
 ---
 title: LastPrinted
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置项目的最后打印时间
+description: 获取或设置项目的上次打印时间
 type: docs
 weight: 100
 url: /zh/net/groupdocs.metadata.formats.document/projectmanagementpackage/lastprinted/
 ---
 ## ProjectManagementPackage.LastPrinted property
 
-获取或设置项目的最后打印时间。
+获取或设置项目的上次打印时间。
 
 ```csharp
 public DateTime LastPrinted { get; set; }

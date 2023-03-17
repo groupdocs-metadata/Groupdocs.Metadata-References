@@ -1,14 +1,14 @@
 ---
 title: TimeTagCategory
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 提供标记元数据属性的标签用于描述文件的生命周期 标签处理创建编辑打印文件或知识内容等的时间点
+description: 提供标记用于描述文件生命周期的元数据属性的标签 标签处理文件或知识内容创建编辑打印等的时间点
 type: docs
 weight: 3740
 url: /zh/net/groupdocs.metadata.tagging/timetagcategory/
 ---
 ## TimeTagCategory class
 
-提供标记元数据属性的标签，用于描述文件的生命周期。 标签处理创建、编辑、打印文件或知识内容等的时间点。
+提供标记用于描述文件生命周期的元数据属性的标签。 标签处理文件或知识内容创建、编辑、打印等的时间点。
 
 ```csharp
 public class TimeTagCategory : TagCategory
@@ -19,19 +19,19 @@ public class TimeTagCategory : TagCategory
 | 姓名 | 描述 |
 | --- | --- |
 | [Created](../../groupdocs.metadata.tagging/timetagcategory/created) { get; } | 获取指示文件创建日期的标记。 |
-| [Duration](../../groupdocs.metadata.tagging/timetagcategory/duration) { get; } | 获取表示媒体文件持续时间的标签。 |
+| [Duration](../../groupdocs.metadata.tagging/timetagcategory/duration) { get; } | 获取表示媒体文件持续时间的标记。 |
 | [Expired](../../groupdocs.metadata.tagging/timetagcategory/expired) { get; } | 获取标记所有者打算使用文件数据的最新日期的标签。 |
 | [IntellectualContentCreated](../../groupdocs.metadata.tagging/timetagcategory/intellectualcontentcreated) { get; } | 获取表示文件知识内容创建日期的标记。 |
 | [Modified](../../groupdocs.metadata.tagging/timetagcategory/modified) { get; } | 获取指示文件编辑日期的标记。 |
 | [Printed](../../groupdocs.metadata.tagging/timetagcategory/printed) { get; } | 获取表示文件打印日期的标记。 |
 | [Published](../../groupdocs.metadata.tagging/timetagcategory/published) { get; } | 获取指示文件可用日期的标记。 |
-| [TotalEditingTime](../../groupdocs.metadata.tagging/timetagcategory/totaleditingtime) { get; } | 获取表示文件总编辑时间的标签。 |
+| [TotalEditingTime](../../groupdocs.metadata.tagging/timetagcategory/totaleditingtime) { get; } | 获取表示文件总编辑时间的标记。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [ToString](../../groupdocs.metadata.tagging/tagcategory/tostring)() | 返回代表当前对象的字符串。 |
+| override [ToString](../../groupdocs.metadata.tagging/tagcategory/tostring)() | 返回表示当前对象的字符串。 |
 
 ### 也可以看看
 

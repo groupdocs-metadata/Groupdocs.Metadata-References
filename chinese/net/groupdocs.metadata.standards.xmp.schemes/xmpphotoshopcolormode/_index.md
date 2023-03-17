@@ -1,14 +1,14 @@
 ---
 title: XmpPhotoshopColorMode
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示颜色模式XmpPhotoshopPackage./xmpphotoshoppackage.
+description: 代表一个颜色模式在XmpPhotoshopPackage./xmpphotoshoppackage.
 type: docs
 weight: 3200
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpphotoshopcolormode/
 ---
 ## XmpPhotoshopColorMode enumeration
 
-表示颜色模式[`XmpPhotoshopPackage`](../xmpphotoshoppackage).
+代表一个颜色模式在[`XmpPhotoshopPackage`](../xmpphotoshoppackage).
 
 ```csharp
 public enum XmpPhotoshopColorMode
@@ -20,11 +20,11 @@ public enum XmpPhotoshopColorMode
 | --- | --- | --- |
 | Bitmap | `0` | 位图颜色模式。 |
 | GrayScale | `1` | 灰度颜色模式。 |
-| IndexedColor | `2` | 索引颜色。 |
+| IndexedColor | `2` | 索引颜色. |
 | Rgb | `3` | RGB 颜色模式。 |
 | Cmyk | `4` | CMYK 颜色模式。 |
 | MultiChannel | `7` | 多通道颜色模式。 |
-| Duotone | `8` | 双色调模式。 |
+| Duotone | `8` | 双色调颜色模式。 |
 | LabColor | `9` | LAB 颜色模式。 |
 
 ### 也可以看看

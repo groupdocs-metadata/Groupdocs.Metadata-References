@@ -1,14 +1,14 @@
 ---
 title: XmpResourceEvent
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpResourceEventgroupdocs.metadata.standards.xmp/xmpresourceevent类.
+description: 初始化一个新的实例XmpResourceEventgroupdocs.metadata.standards.xmp/xmpresourceevent类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpresourceevent/xmpresourceevent/
 ---
 ## XmpResourceEvent constructor
 
-初始化[`XmpResourceEvent`](../../xmpresourceevent)类.
+初始化一个新的实例[`XmpResourceEvent`](../../xmpresourceevent)类.
 
 ```csharp
 public XmpResourceEvent()

@@ -1,14 +1,14 @@
 ---
 title: MK3D
 second_title: Riferimento API GroupDocs.Metadata per .NET
-description: MK3D è in realtà un video 3D stereoscopico creato utilizzando il formato Matroska 3D. Il contenitore di file MKV utilizza il valore di un campo StereoMode per definire il tipo di materiale video 3D stereoscopico. Ulteriori informazioni su questo formato di file quihttps//docs.fileformat.com/video/mk3d/ .
+description: MK3D è in realtà un video 3D stereoscopico creato utilizzando il formato Matroska 3D. Il contenitore di file MKV utilizza il valore di un campo StereoMode per definire il tipo di materiale video 3D stereoscopico. Ulteriori informazioni su questo formato di file Quihttps//docs.fileformat.com/video/mk3d/ .
 type: docs
 weight: 320
 url: /it/net/groupdocs.metadata.common/filetype/mk3d/
 ---
 ## FileType.MK3D field
 
-MK3D è in realtà un video 3D stereoscopico creato utilizzando il formato Matroska 3D. Il contenitore di file MKV utilizza il valore di un campo StereoMode per definire il tipo di materiale video 3D stereoscopico. Ulteriori informazioni su questo formato di file [qui](https://docs.fileformat.com/video/mk3d/) .
+MK3D è in realtà un video 3D stereoscopico creato utilizzando il formato Matroska 3D. Il contenitore di file MKV utilizza il valore di un campo StereoMode per definire il tipo di materiale video 3D stereoscopico. Ulteriori informazioni su questo formato di file [Qui](https://docs.fileformat.com/video/mk3d/) .
 
 ```csharp
 public static readonly FileType MK3D;

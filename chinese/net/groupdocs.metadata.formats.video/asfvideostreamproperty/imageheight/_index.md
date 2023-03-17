@@ -1,14 +1,14 @@
 ---
 title: ImageHeight
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取编码图像的高度以像素为单位
+description: 获取编码图像的像素高度
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.formats.video/asfvideostreamproperty/imageheight/
 ---
 ## AsfVideoStreamProperty.ImageHeight property
 
-获取编码图像的高度（以像素为单位）。
+获取编码图像的像素高度。
 
 ```csharp
 public uint ImageHeight { get; }

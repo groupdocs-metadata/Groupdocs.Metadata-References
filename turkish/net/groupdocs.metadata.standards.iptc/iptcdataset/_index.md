@@ -30,7 +30,7 @@ public sealed class IptcDataSet : MetadataProperty
 | [AlternativeName](../../groupdocs.metadata.standards.iptc/iptcdataset/alternativename) { get; } | dataSet. alternatif adını alır |
 | [DataSetNumber](../../groupdocs.metadata.standards.iptc/iptcdataset/datasetnumber) { get; } | Veri Kümesi numarasını alır. |
 | [Descriptor](../../groupdocs.metadata.common/metadataproperty/descriptor) { get; } | Meta veri özelliğiyle ilişkili tanımlayıcıyı alır. |
-| [InterpretedValue](../../groupdocs.metadata.common/metadataproperty/interpretedvalue) { get; } | Varsa, yorumlanan özellik değerini alır. Yorumlanan değer, orijinal özellik değerinin kullanıcı dostu bir biçimidir. Örneğin, sayısal işaretler ve kimlikler yerine insan tarafından okunabilir bir dize döndürür, gerekirse bayt dizilerini metne çevirir, vb. |
+| [InterpretedValue](../../groupdocs.metadata.common/metadataproperty/interpretedvalue) { get; } | Varsa, yorumlanan özellik değerini alır. Yorumlanan değer, orijinal özellik değerinin kullanıcı dostu bir biçimidir. Örneğin, sayısal bayraklar ve kimlikler yerine insan tarafından okunabilir bir dize döndürür, gerekirse bayt dizilerini metne çevirir, vb. |
 | [Name](../../groupdocs.metadata.common/metadataproperty/name) { get; } | Özellik adını alır. |
 | [RecordNumber](../../groupdocs.metadata.standards.iptc/iptcdataset/recordnumber) { get; } | Kayıt numarasını alır. |
 | [Tags](../../groupdocs.metadata.common/metadataproperty/tags) { get; } | Özellikle ilişkili bir etiket koleksiyonu alır. |

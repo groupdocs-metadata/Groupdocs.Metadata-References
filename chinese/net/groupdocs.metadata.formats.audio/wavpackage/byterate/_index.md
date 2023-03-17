@@ -1,14 +1,14 @@
 ---
 title: ByteRate
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取字节速率
+description: 获取字节率
 type: docs
 weight: 50
 url: /zh/net/groupdocs.metadata.formats.audio/wavpackage/byterate/
 ---
 ## WavPackage.ByteRate property
 
-获取字节速率。
+获取字节率。
 
 ```csharp
 public int ByteRate { get; }
@@ -16,7 +16,7 @@ public int ByteRate { get; }
 
 ### 适当的价值
 
-字节速率。
+字节率。
 
 ### 也可以看看
 

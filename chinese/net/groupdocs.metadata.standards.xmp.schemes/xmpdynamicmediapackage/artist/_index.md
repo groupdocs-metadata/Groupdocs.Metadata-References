@@ -1,14 +1,14 @@
 ---
 title: Artist
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置艺术家的名字
+description: 获取或设置艺术家的姓名
 type: docs
 weight: 60
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/artist/
 ---
 ## XmpDynamicMediaPackage.Artist property
 
-获取或设置艺术家的名字。
+获取或设置艺术家的姓名。
 
 ```csharp
 public string Artist { get; set; }
@@ -16,7 +16,7 @@ public string Artist { get; set; }
 
 ### 适当的价值
 
-艺术家或艺术家的名字。
+艺术家的名字。
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Client
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取标记有关为其创建文件/智力内容的客户端的信息的标签
+description: 获取标记有关为其创建文件/知识内容的客户的信息的标签
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.tagging/persontagcategory/client/
 ---
 ## PersonTagCategory.Client property
 
-获取标记有关为其创建文件/智力内容的客户端的信息的标签。
+获取标记有关为其创建文件/知识内容的客户的信息的标签。
 
 ```csharp
 public PropertyTag Client { get; }

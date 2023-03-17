@@ -16,7 +16,7 @@ public ulong PixelCropRight { get; }
 
 ### 适当的价值
 
-图像右侧要移除的视频像素数。
+要在图像右侧移除的视频像素数。
 
 ### 也可以看看
 

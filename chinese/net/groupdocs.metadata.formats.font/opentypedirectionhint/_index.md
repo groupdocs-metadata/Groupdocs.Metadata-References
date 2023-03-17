@@ -19,10 +19,10 @@ public enum OpenTypeDirectionHint : short
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | FullyMixed | `0` | 完全混合的方向字形。 |
-| OnlyLeftToRight | `1` | 只从左到右强烈。 |
-| LeftToRightAndNeutrals | `2` | 喜欢OnlyLeftToRight但也包含中性。 |
-| OnlyRightToLeft | `-1` | 仅从右到左强烈。 |
-| RightToLeftAndNeutrals | `-2` | 喜欢OnlyRightToLeft但也包含中性。 |
+| OnlyLeftToRight | `1` | 仅从左到右强烈. |
+| LeftToRightAndNeutrals | `2` | 喜欢OnlyLeftToRight但也包含中性元素。 |
+| OnlyRightToLeft | `-1` | 只有从右到左强烈. |
+| RightToLeftAndNeutrals | `-2` | 喜欢OnlyRightToLeft但也包含中性元素。 |
 
 ### 也可以看看
 

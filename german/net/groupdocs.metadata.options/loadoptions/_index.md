@@ -30,7 +30,7 @@ public class LoadOptions
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * [Laden von einer lokalen Festplatte](https://docs.groupdocs.com/display/metadatanet/Load+from+a+local+disk)
 * [Aus einem Stream laden](https://docs.groupdocs.com/display/metadatanet/Load+from+a+stream)

@@ -1,14 +1,14 @@
 ---
 title: ExportManager
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 提供一系列方法允许用户将元数据属性导出为各种格式
+description: 提供一行方法允许用户将元数据属性导出为各种格式
 type: docs
 weight: 330
 url: /zh/net/groupdocs.metadata.export/exportmanager/
 ---
 ## ExportManager class
 
-提供一系列方法允许用户将元数据属性导出为各种格式。
+提供一行方法允许用户将元数据属性导出为各种格式。
 
 ```csharp
 public class ExportManager
@@ -18,13 +18,13 @@ public class ExportManager
 
 | 姓名 | 描述 |
 | --- | --- |
-| [ExportManager](exportmanager)(IEnumerable&lt;MetadataProperty&gt;) | 初始化[`ExportManager`](../exportmanager)类. |
+| [ExportManager](exportmanager)(IEnumerable&lt;MetadataProperty&gt;) | 初始化一个新的实例[`ExportManager`](../exportmanager)类. |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| [Export](../../groupdocs.metadata.export/exportmanager/export#export)(Stream, ExportFormat) | 将元数据属性导出到流中。 |
+| [Export](../../groupdocs.metadata.export/exportmanager/export#export)(Stream, ExportFormat) | 将元数据属性导出到流。 |
 | [Export](../../groupdocs.metadata.export/exportmanager/export#export_1)(string, ExportFormat) | 将元数据属性导出到文件。 |
 
 ### 也可以看看

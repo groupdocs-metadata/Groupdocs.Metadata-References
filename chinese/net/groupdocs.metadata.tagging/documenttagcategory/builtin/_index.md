@@ -1,14 +1,14 @@
 ---
 title: BuiltIn
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取表示它所标注的属性是内置的标签
+description: 获取指示其标记的属性是内置的标记
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.tagging/documenttagcategory/builtin/
 ---
 ## DocumentTagCategory.BuiltIn property
 
-获取表示它所标注的属性是内置的标签。
+获取指示其标记的属性是内置的标记。
 
 ```csharp
 public PropertyTag BuiltIn { get; }
@@ -16,7 +16,7 @@ public PropertyTag BuiltIn { get; }
 
 ### 适当的价值
 
-指示它标记的属性是内置的标记。
+表示它标记的属性是内置的标记。
 
 ### 也可以看看
 

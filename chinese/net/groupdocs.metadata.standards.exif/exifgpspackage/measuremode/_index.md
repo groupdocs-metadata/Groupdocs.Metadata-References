@@ -1,14 +1,14 @@
 ---
 title: MeasureMode
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置 GPS 测量模式
+description: 获取或设置GPS测量模式
 type: docs
 weight: 240
 url: /zh/net/groupdocs.metadata.standards.exif/exifgpspackage/measuremode/
 ---
 ## ExifGpsPackage.MeasureMode property
 
-获取或设置 GPS 测量模式。
+获取或设置GPS测量模式。
 
 ```csharp
 public string MeasureMode { get; set; }

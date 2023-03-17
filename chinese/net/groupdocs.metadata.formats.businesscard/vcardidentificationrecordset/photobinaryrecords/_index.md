@@ -1,14 +1,14 @@
 ---
 title: PhotoBinaryRecords
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取一个数组该数组包含表示为二进制数据的图像或照片信息该二进制数据注释对象的某些方面
+description: 获取一个数组其中包含表示为二进制数据的图像或照片信息用于注释对象的某些方面
 type: docs
 weight: 180
 url: /zh/net/groupdocs.metadata.formats.businesscard/vcardidentificationrecordset/photobinaryrecords/
 ---
 ## VCardIdentificationRecordset.PhotoBinaryRecords property
 
-获取一个数组，该数组包含表示为二进制数据的图像或照片信息，该二进制数据注释对象的某些方面。
+获取一个数组，其中包含表示为二进制数据的图像或照片信息，用于注释对象的某些方面。
 
 ```csharp
 public VCardBinaryRecord[] PhotoBinaryRecords { get; }
@@ -16,11 +16,11 @@ public VCardBinaryRecord[] PhotoBinaryRecords { get; }
 
 ### 适当的价值
 
-包含表示为二进制数据的图像或照片信息的数组，用于注释对象的某些方面。
+包含图像或照片信息的数组，表示为二进制数据，用于注释对象的某些方面。
 
 ### 评论
 
-这个属性是一个简化版[`PhotoRecords`](../photorecords).
+此属性是[`PhotoRecords`](../photorecords).
 
 ### 也可以看看
 

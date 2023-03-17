@@ -16,7 +16,7 @@ public string OwnerName { get; }
 
 ### 适当的价值
 
-所有者的姓名。
+所有者的名字。
 
 ### 也可以看看
 

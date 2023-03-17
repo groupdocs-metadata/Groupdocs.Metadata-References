@@ -20,7 +20,7 @@ Ein Metadatenpaket mit Prüfergebnissen für das Dokument.
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * [Arbeiten mit Metadaten in Präsentationen](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+Presentations)
 

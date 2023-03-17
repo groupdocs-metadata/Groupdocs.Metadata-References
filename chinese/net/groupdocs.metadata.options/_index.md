@@ -12,10 +12,10 @@ url: /zh/net/groupdocs.metadata.options/
 
 | 班级 | 描述 |
 | --- | --- |
-| [CreatePageStream](./createpagestream) | 表示返回流以写入页面预览数据的方法。 |
+| [CreatePageStream](./createpagestream) | 表示返回流写入页面预览数据的方法。 |
 | [LoadOptions](./loadoptions) | 允许开发人员在加载文件时指定其他选项（例如密码）。 |
-| [PreviewOptions](./previewoptions) | 提供选项来设置预览生成的要求和流代理。 |
-| [ReleasePageStream](./releasepagestream) | 表示释放由[`CreatePageStream`](../groupdocs.metadata.options/createpagestream)代表。 |
+| [PreviewOptions](./previewoptions) | 提供选项来设置预览生成的要求和流委托。 |
+| [ReleasePageStream](./releasepagestream) | 表示释放由创建的流的方法[`CreatePageStream`](../groupdocs.metadata.options/createpagestream)代表。 |
 ## 枚举
 
 | 枚举 | 描述 |

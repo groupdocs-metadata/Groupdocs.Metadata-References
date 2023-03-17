@@ -1,14 +1,14 @@
 ---
 title: OpenTypeUnicodeEncoding
 second_title: GroupDocs.Metadata لمرجع .NET API
-description: يمثل ترميز ملفاتUnicode المنصة.
+description: يمثل ترميز ملفاتUnicodeالمنصة.
 type: docs
 weight: 1570
 url: /ar/net/groupdocs.metadata.formats.font/opentypeunicodeencoding/
 ---
 ## OpenTypeUnicodeEncoding enumeration
 
-يمثل ترميز ملفاتUnicode المنصة.
+يمثل ترميز ملفاتUnicodeالمنصة.
 
 ```csharp
 public enum OpenTypeUnicodeEncoding : ushort

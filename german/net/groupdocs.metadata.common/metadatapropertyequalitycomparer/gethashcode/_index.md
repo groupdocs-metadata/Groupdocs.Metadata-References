@@ -16,7 +16,7 @@ public int GetHashCode(MetadataProperty obj)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| obj | MetadataProperty | Das[`MetadataProperty`](../../metadataproperty) für die ein Hashcode zurückgegeben werden soll. |
+| obj | MetadataProperty | Der[`MetadataProperty`](../../metadataproperty) für die ein Hashcode zurückgegeben werden soll. |
 
 ### Rückgabewert
 
@@ -26,7 +26,7 @@ Ein Hashcode für das angegebene Objekt.
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | Die Art von*obj* ist ein Referenztyp und*obj* ist`null`. |
+| ArgumentNullException | Die Art von*obj* ist ein Referenztyp und*obj* Ist`null`. |
 
 ### Siehe auch
 

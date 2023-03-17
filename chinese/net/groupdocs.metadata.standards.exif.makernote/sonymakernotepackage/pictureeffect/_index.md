@@ -8,7 +8,7 @@ url: /zh/net/groupdocs.metadata.standards.exif.makernote/sonymakernotepackage/pi
 ---
 ## SonyMakerNotePackage.PictureEffect property
 
-获取图片效果
+获取图片效果。
 
 ```csharp
 public ushort? PictureEffect { get; }
@@ -16,7 +16,7 @@ public ushort? PictureEffect { get; }
 
 ### 适当的价值
 
-图片效果
+图片效果.
 
 ### 也可以看看
 

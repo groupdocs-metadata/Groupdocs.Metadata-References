@@ -1,14 +1,14 @@
 ---
 title: SetProperties
 second_title: Riferimento API GroupDocs.Metadata per .NET
-description: Imposta le proprietà dei metadati noti che soddisfano il predicato specificato. Loperazione è ricorsiva quindi interessa anche tutti i pacchetti nidificati. Questo metodo è una combinazione diAddPropertiesgroupdocs.metadata.common/metadatapackage/addproperties eUpdatePropertiesgroupdocs.metadata.common/metadatapackage/updateproperties Se una proprietà esistente soddisfa il predicato il suo valore viene aggiornato. Se nel pacchetto manca una proprietà nota che soddisfa il predicato viene aggiunta al pacchetto.
+description: Imposta le proprietà dei metadati noti che soddisfano il predicato specificato. Loperazione è ricorsiva quindi interessa anche tutti i pacchetti nidificati. Questo metodo è una combinazione diAddPropertiesgroupdocs.metadata.common/metadatapackage/addproperties EUpdatePropertiesgroupdocs.metadata.common/metadatapackage/updateproperties Se una proprietà esistente soddisfa il predicato il suo valore viene aggiornato. Se nel pacchetto manca una proprietà nota che soddisfa il predicato viene aggiunta al pacchetto.
 type: docs
 weight: 120
 url: /it/net/groupdocs.metadata.common/metadatapackage/setproperties/
 ---
 ## MetadataPackage.SetProperties method
 
-Imposta le proprietà dei metadati noti che soddisfano il predicato specificato. L'operazione è ricorsiva quindi interessa anche tutti i pacchetti nidificati. Questo metodo è una combinazione di[`AddProperties`](../addproperties) e[`UpdateProperties`](../updateproperties) Se una proprietà esistente soddisfa il predicato, il suo valore viene aggiornato. Se nel pacchetto manca una proprietà nota che soddisfa il predicato, viene aggiunta al pacchetto.
+Imposta le proprietà dei metadati noti che soddisfano il predicato specificato. L'operazione è ricorsiva quindi interessa anche tutti i pacchetti nidificati. Questo metodo è una combinazione di[`AddProperties`](../addproperties) E[`UpdateProperties`](../updateproperties) Se una proprietà esistente soddisfa il predicato, il suo valore viene aggiornato. Se nel pacchetto manca una proprietà nota che soddisfa il predicato, viene aggiunta al pacchetto.
 
 ```csharp
 public int SetProperties(Func<MetadataProperty, bool> predicate, PropertyValue value)
@@ -27,7 +27,7 @@ Il numero di proprietà interessate.
 
 Si noti che GroupDocs.Metadata controlla implicitamente il tipo di ciascuna proprietà filtrata. È impossibile impostare una proprietà con un valore di tipo inappropriato.
 
-**Scopri di più**
+**Saperne di più**
 
 * [Imposta le proprietà dei metadati](https://docs.groupdocs.com/display/metadatanet/Set+metadata+properties)
 

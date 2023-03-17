@@ -1,14 +1,14 @@
 ---
 title: MPT
 second_title: GroupDocs.Metadata for .NET API 参考
-description: MPT 是 Microsoft 开发的专有文件格式作为 Microsoft Project MSP 的文件格式这是一个项目管理应用软件 了解有关此文件格式的更多信息 这里https//wiki.fileformat.com/projectmanagement/mpt/.
+description: MPT 是 Microsoft 开发的专有文件格式作为项目管理应用软件 Microsoft Project MSP 的文件格式 了解有关此文件格式的更多信息 这里https//wiki.fileformat.com/projectmanagement/mpt/.
 type: docs
 weight: 380
 url: /zh/net/groupdocs.metadata.common/filetype/mpt/
 ---
 ## FileType.MPT field
 
-MPT 是 Microsoft 开发的专有文件格式，作为 Microsoft Project (MSP) 的文件格式，这是一个项目管理应用软件。 了解有关此文件格式的更多信息 [这里](https://wiki.fileformat.com/project-management/mpt/).
+MPT 是 Microsoft 开发的专有文件格式，作为项目管理应用软件 Microsoft Project (MSP) 的文件格式。 了解有关此文件格式的更多信息 [这里](https://wiki.fileformat.com/project-management/mpt/).
 
 ```csharp
 public static readonly FileType MPT;

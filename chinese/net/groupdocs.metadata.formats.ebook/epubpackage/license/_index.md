@@ -1,14 +1,14 @@
 ---
 title: License
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置一个法律文件给予官方许可对资源做某事
+description: 获取或设置一份法律文件授予对资源执行某些操作的官方许可
 type: docs
 weight: 370
 url: /zh/net/groupdocs.metadata.formats.ebook/epubpackage/license/
 ---
 ## EpubPackage.License property
 
-获取或设置一个法律文件，给予官方许可对资源做某事。
+获取或设置一份法律文件，授予对资源执行某些操作的官方许可。
 
 ```csharp
 public string License { get; set; }
@@ -16,7 +16,7 @@ public string License { get; set; }
 
 ### 适当的价值
 
-正式授权对资源进行某些操作的法律文件。
+官方许可对资源进行处理的法律文件。
 
 ### 也可以看看
 

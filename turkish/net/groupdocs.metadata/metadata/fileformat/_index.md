@@ -16,7 +16,7 @@ public FileFormat FileFormat { get; }
 
 ### Mülk değeri
 
-Tanınırsa yüklenen dosyanın türü; aksi halde,Unknown.
+Tanınırsa yüklenen dosyanın türü; aksi takdirde,Unknown.
 
 ### Ayrıca bakınız
 

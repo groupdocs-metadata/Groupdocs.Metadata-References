@@ -1,14 +1,14 @@
 ---
 title: BitsPerSample
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取单声道数据的每个样本的位数
+description: 获取单声道数据每个样本的位数
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.video/asfaudiostreamproperty/bitspersample/
 ---
 ## AsfAudioStreamProperty.BitsPerSample property
 
-获取单声道数据的每个样本的位数。
+获取单声道数据每个样本的位数。
 
 ```csharp
 public ushort BitsPerSample { get; }

@@ -18,7 +18,7 @@ public sealed class TiffSRational : IEquatable<TiffSRational>
 
 | 姓名 | 描述 |
 | --- | --- |
-| [TiffSRational](tiffsrational)(int, int) | 初始化[`TiffSRational`](../tiffsrational)类. |
+| [TiffSRational](tiffsrational)(int, int) | 初始化一个新的实例[`TiffSRational`](../tiffsrational)类. |
 
 ## 特性
 
@@ -26,17 +26,17 @@ public sealed class TiffSRational : IEquatable<TiffSRational>
 | --- | --- |
 | [Denominator](../../groupdocs.metadata.formats.image/tiffsrational/denominator) { get; } | 获取分母。 |
 | [Numerator](../../groupdocs.metadata.formats.image/tiffsrational/numerator) { get; } | 获取分子。 |
-| [Value](../../groupdocs.metadata.formats.image/tiffsrational/value) { get; } | 获取以双精度表示的实际值。 |
+| [Value](../../groupdocs.metadata.formats.image/tiffsrational/value) { get; } | 获取表示为双精度的实际值。 |
 
 ## 方法
 
 | 姓名 | 描述 |
 | --- | --- |
-| override [Equals](../../groupdocs.metadata.formats.image/tiffsrational/equals#equals_1)(object) | 表示当前对象是否等于另一个同类型的对象。 |
-| [Equals](../../groupdocs.metadata.formats.image/tiffsrational/equals#equals)(TiffSRational) | 表示当前对象是否等于另一个同类型的对象。 |
+| override [Equals](../../groupdocs.metadata.formats.image/tiffsrational/equals#equals_1)(object) | 表示当前对象是否等于另一个相同类型的对象。 |
+| [Equals](../../groupdocs.metadata.formats.image/tiffsrational/equals#equals)(TiffSRational) | 表示当前对象是否等于另一个相同类型的对象。 |
 | override [GetHashCode](../../groupdocs.metadata.formats.image/tiffsrational/gethashcode)() | 返回此实例的哈希码。 |
-| override [ToString](../../groupdocs.metadata.formats.image/tiffsrational/tostring)() | 返回一个String代表这个实例。 |
-| static [Equals](../../groupdocs.metadata.formats.image/tiffsrational/equals)(TiffSRational, TiffSRational) | 比较一对[`TiffSRational`](../tiffsrational). |
+| override [ToString](../../groupdocs.metadata.formats.image/tiffsrational/tostring)() | 返回一个String代表这个实例. |
+| static [Equals](../../groupdocs.metadata.formats.image/tiffsrational/equals)(TiffSRational, TiffSRational) | 比较对[`TiffSRational`](../tiffsrational). |
 | [operator ==](../../groupdocs.metadata.formats.image/tiffsrational/op_equality) | 表示两个相同类型的对象是否相等。 |
 | [operator !=](../../groupdocs.metadata.formats.image/tiffsrational/op_inequality) | 表示两个相同类型的对象是否不相等。 |
 

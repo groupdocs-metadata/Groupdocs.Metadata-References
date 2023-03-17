@@ -16,7 +16,7 @@ public int? Shadows { get; set; }
 
 ### 适当的价值
 
-阴影。
+阴影.
 
 ### 也可以看看
 

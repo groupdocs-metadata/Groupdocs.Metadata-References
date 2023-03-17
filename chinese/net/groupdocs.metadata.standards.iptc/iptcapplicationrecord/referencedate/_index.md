@@ -16,7 +16,7 @@ public DateTime? ReferenceDate { get; set; }
 
 ### 适当的价值
 
-当前对象引用的先前信封的日期。
+当前对象所指的先前信封的日期。
 
 ### 也可以看看
 

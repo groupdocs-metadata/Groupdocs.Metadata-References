@@ -16,7 +16,7 @@ public string Director { get; set; }
 
 ### 适当的价值
 
-现场导演。
+现场导演.
 
 ### 也可以看看
 

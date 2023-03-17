@@ -20,7 +20,7 @@ public DocumentStatistics DocumentStatistics { get; }
 
 ### Примечания
 
-**Учить больше**
+**Узнать больше**
 
 * [Работа с метаданными в диаграммах](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+Diagrams)
 

@@ -1,14 +1,14 @@
 ---
 title: UncompressedSize
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 以字节为单位获取未压缩的大小
+description: 获取以字节为单位的未压缩大小
 type: docs
 weight: 70
 url: /zh/net/groupdocs.metadata.formats.archive/zipfile/uncompressedsize/
 ---
 ## ZipFile.UncompressedSize property
 
-以字节为单位获取未压缩的大小。
+获取以字节为单位的未压缩大小。
 
 ```csharp
 public ulong UncompressedSize { get; }

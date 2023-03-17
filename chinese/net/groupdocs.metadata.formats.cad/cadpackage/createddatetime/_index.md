@@ -16,7 +16,7 @@ public DateTime? CreatedDateTime { get; }
 
 ### 适当的价值
 
-绘图的创建日期和时间。
+创建绘图的日期和时间。
 
 ### 也可以看看
 

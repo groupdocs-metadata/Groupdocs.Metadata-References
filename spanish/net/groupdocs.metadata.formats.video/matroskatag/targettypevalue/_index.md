@@ -16,7 +16,7 @@ public MatroskaTargetTypeValue TargetTypeValue { get; }
 
 ### El valor de la propiedad
 
-El número para indicar el nivel lógico del destino.
+El número para indicar el nivel lógico del objetivo.
 
 ### Ver también
 

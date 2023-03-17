@@ -1,14 +1,14 @@
 ---
 title: Technician
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取对主题文件进行数字化的技术人员
+description: 获取将主题文件数字化的技术人员
 type: docs
 weight: 120
 url: /zh/net/groupdocs.metadata.formats.riff/riffinfopackage/technician/
 ---
 ## RiffInfoPackage.Technician property
 
-获取对主题文件进行数字化的技术人员。
+获取将主题文件数字化的技术人员。
 
 ```csharp
 public string Technician { get; }

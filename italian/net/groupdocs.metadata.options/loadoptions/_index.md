@@ -30,7 +30,7 @@ public class LoadOptions
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * [Carica da un disco locale](https://docs.groupdocs.com/display/metadatanet/Load+from+a+local+disk)
 * [Carica da un flusso](https://docs.groupdocs.com/display/metadatanet/Load+from+a+stream)

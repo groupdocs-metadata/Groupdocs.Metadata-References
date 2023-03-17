@@ -16,7 +16,7 @@ public bool IsEmpty { get; }
 
 ### El valor de la propiedad
 
-`verdadero` si esta instancia está vacía; de lo contrario,`falso` .
+`verdadero` si esta instancia está vacía; de lo contrario,`FALSO` .
 
 ### Ver también
 

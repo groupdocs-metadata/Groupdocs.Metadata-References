@@ -20,7 +20,7 @@ public bool SharedDoc { get; set; }
 
 ### 评论
 
-只能在 PPTX 文档中更新。只读其他格式，如 PPT、POT 等。
+只能在 PPTX 文档中更新。 PPT、POT等其他格式只读
 
 ### 也可以看看
 

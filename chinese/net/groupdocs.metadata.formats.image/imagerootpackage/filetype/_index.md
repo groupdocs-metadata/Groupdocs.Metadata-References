@@ -20,7 +20,7 @@ public ImageTypePackage FileType { get; }
 
 ### 例子
 
-此代码示例演示了如何提取常见的图像属性，例如宽度和高度、MIME 类型、字节顺序等。
+此代码示例演示了如何提取常见的图像属性，例如宽度和高度、MIME 类型、字节顺序等
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.InputPng))

@@ -19,7 +19,7 @@ public enum OpenTypeDigitalSignatureFlags : ushort
 
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
-| None | `0` | 未定义标志。 |
+| None | `0` | 未定义标志. |
 | CannotBeResigned | `1` | 不能辞职。 |
 
 ### 也可以看看

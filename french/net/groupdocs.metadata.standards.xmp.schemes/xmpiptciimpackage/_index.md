@@ -25,7 +25,7 @@ public sealed class XmpIptcIimPackage : XmpPackage
 | Nom | La description |
 | --- | --- |
 | [ActionAdvised](../../groupdocs.metadata.standards.xmp.schemes/xmpiptciimpackage/actionadvised) { get; set; } | Obtient ou définit le type d'action que cet objet fournit à un objet précédent. |
-| [Category](../../groupdocs.metadata.standards.xmp.schemes/xmpiptciimpackage/category) { get; set; } | Obtient ou définit le sujet des données d'objet selon l'avis du fournisseur. |
+| [Category](../../groupdocs.metadata.standards.xmp.schemes/xmpiptciimpackage/category) { get; set; } | Obtient ou définit le sujet des données d'objet selon l'opinion du fournisseur. |
 | [ContentLocationCodes](../../groupdocs.metadata.standards.xmp.schemes/xmpiptciimpackage/contentlocationcodes) { get; set; } | Obtient ou définit les codes d'emplacement du contenu. |
 | [ContentLocationNames](../../groupdocs.metadata.standards.xmp.schemes/xmpiptciimpackage/contentlocationnames) { get; set; } | Obtient ou définit les noms d'emplacement de contenu. |
 | [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | Obtient le nombre de propriétés de métadonnées. |

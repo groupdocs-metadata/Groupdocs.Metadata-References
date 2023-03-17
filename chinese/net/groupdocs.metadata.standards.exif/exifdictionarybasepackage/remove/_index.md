@@ -16,11 +16,11 @@ public bool Remove(TiffTagID tagId)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| tagId | TiffTagID | TIFF 标签 ID。 |
+| tagId | TiffTagID | 一个 TIFF 标签 ID。 |
 
 ### 返回值
 
-如果找到并删除了指定的 TIFF 标签，则为真；否则为假。
+如果找到并删除了指定的 TIFF 标签，则为真；否则为真。否则，假的。
 
 ### 也可以看看
 

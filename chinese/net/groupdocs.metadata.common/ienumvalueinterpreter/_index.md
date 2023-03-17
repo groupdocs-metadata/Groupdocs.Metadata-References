@@ -1,14 +1,14 @@
 ---
 title: IEnumValueInterpreter
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示旨在将各种数值转换为描述性字符串值的解释器
+description: 表示解释器旨在将各种数值转换为描述性字符串值
 type: docs
 weight: 100
 url: /zh/net/groupdocs.metadata.common/ienumvalueinterpreter/
 ---
 ## IEnumValueInterpreter interface
 
-表示旨在将各种数值转换为描述性字符串值的解释器。
+表示解释器，旨在将各种数值转换为描述性字符串值。
 
 ```csharp
 public interface IEnumValueInterpreter

@@ -1,14 +1,14 @@
 ---
 title: Draft
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 评论再现
+description: 评论演绎
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.standards.xmp/xmprenditionclass/draft/
 ---
 ## XmpRenditionClass.Draft field
 
-评论再现。
+评论演绎。
 
 ```csharp
 public const string Draft;

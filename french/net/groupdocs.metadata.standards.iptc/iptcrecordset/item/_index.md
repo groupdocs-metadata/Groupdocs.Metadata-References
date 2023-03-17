@@ -20,7 +20,7 @@ public IptcRecord this[byte recordNumber] { get; }
 
 ### Return_Value
 
-La[`IptcRecord`](../../iptcrecord)avec le numéro spécifié, s'il est trouvé ; sinon nul.
+Le[`IptcRecord`](../../iptcrecord)avec le numéro spécifié, s'il est trouvé ; sinon nul.
 
 ### Voir également
 
@@ -46,7 +46,7 @@ public IptcDataSet this[byte recordNumber, byte dataSetNumber] { get; }
 
 ### Return_Value
 
-La[`IptcDataSet`](../../iptcdataset) avec l'enregistrement et le numéro de dataSet spécifiés.
+Le[`IptcDataSet`](../../iptcdataset) avec l'enregistrement et le numéro de dataSet spécifiés.
 
 ### Voir également
 

@@ -1,14 +1,14 @@
 ---
 title: PieceLength
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取每个片段中的字节数有关更多信息请参阅.
+description: 获取每个片段中的字节数欲了解更多信息请参阅.
 type: docs
 weight: 50
 url: /zh/net/groupdocs.metadata.formats.peer2peer/torrentpackage/piecelength/
 ---
 ## TorrentPackage.PieceLength property
 
-获取每个片段中的字节数。有关更多信息，请参阅.
+获取每个片段中的字节数。欲了解更多信息，请参阅.
 
 ```csharp
 public long PieceLength { get; }

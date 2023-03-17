@@ -1,14 +1,14 @@
 ---
 title: XmpIptcIimPackage
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpIptcIimPackagegroupdocs.metadata.standards.xmp.schemes/xmpiptciimpackage类.
+description: 初始化一个新的实例XmpIptcIimPackagegroupdocs.metadata.standards.xmp.schemes/xmpiptciimpackage类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpiptciimpackage/xmpiptciimpackage/
 ---
 ## XmpIptcIimPackage constructor
 
-初始化[`XmpIptcIimPackage`](../../xmpiptciimpackage)类.
+初始化一个新的实例[`XmpIptcIimPackage`](../../xmpiptciimpackage)类.
 
 ```csharp
 public XmpIptcIimPackage()

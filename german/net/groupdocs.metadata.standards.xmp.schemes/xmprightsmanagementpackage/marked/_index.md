@@ -16,7 +16,7 @@ public bool? Marked { get; set; }
 
 ### Eigentumswert
 
-`Stimmt` wenn die Ressource rechteverwaltet ist; Andernfalls`FALSCH` . Zeigt bei „false“ an, dass es sich um eine Public-Domain-Ressource handelt. Weglassen, wenn der Status unbekannt ist.
+`WAHR` wenn die Ressource rechteverwaltet ist; ansonsten`FALSCH` . Zeigt bei „false“ an, dass es sich um eine Public-Domain-Ressource handelt. Weglassen, wenn der Status unbekannt ist.
 
 ### Siehe auch
 

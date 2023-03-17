@@ -1,14 +1,14 @@
 ---
 title: OpenTypeMacintoshLanguage
 second_title: GroupDocs.Metadata für .NET-API-Referenz
-description: Stellt die Sprachaufzählung für die darMacintosh Plattform.
+description: Stellt die Sprachaufzählung für die darMacintoshPlattform.
 type: docs
 weight: 1500
 url: /de/net/groupdocs.metadata.formats.font/opentypemacintoshlanguage/
 ---
 ## OpenTypeMacintoshLanguage enumeration
 
-Stellt die Sprachaufzählung für die darMacintosh Plattform.
+Stellt die Sprachaufzählung für die darMacintoshPlattform.
 
 ```csharp
 public enum OpenTypeMacintoshLanguage : ushort

@@ -1,14 +1,14 @@
 ---
 title: OpenTypeMacintoshEncoding
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 代表编码Macintosh平台.
+description: 代表编码为Macintosh平台.
 type: docs
 weight: 1490
 url: /zh/net/groupdocs.metadata.formats.font/opentypemacintoshencoding/
 ---
 ## OpenTypeMacintoshEncoding enumeration
 
-代表编码Macintosh平台.
+代表编码为Macintosh平台.
 
 ```csharp
 public enum OpenTypeMacintoshEncoding : ushort
@@ -19,12 +19,12 @@ public enum OpenTypeMacintoshEncoding : ushort
 | 姓名 | 价值 | 描述 |
 | --- | --- | --- |
 | DefaultSemantics | `0` | 默认语义。 |
-| Version11Semantics | `1` | 1.1 版语义。 |
-| Iso106461993Semantics | `2` | ISO 10646 1993 语义（已弃用）。 |
+| Version11Semantics | `1` | 版本 1.1 语义。 |
+| Iso106461993Semantics | `2` | ISO 10646 1993 语义（已弃用）. |
 | Unicode20BmpOnly | `3` | Unicode 2.0 或更高版本的语义（仅限 BMP）。 |
-| Unicode20NonBmp | `4` | Unicode 2.0 或更高版本的语义（允许非 BMP 字符）。 |
+| Unicode20NonBmp | `4` | Unicode 2.0 或更高版本的语义（允许使用非 BMP 字符）。 |
 | UnicodeVariationSequences | `5` | Unicode 变体序列. |
-| FullUnicodeCoverage | `6` | 完整的 Unicode 覆盖。 |
+| FullUnicodeCoverage | `6` | 完整的 Unicode 覆盖范围。 |
 
 ### 也可以看看
 

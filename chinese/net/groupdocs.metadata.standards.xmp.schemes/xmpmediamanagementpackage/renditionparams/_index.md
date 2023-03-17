@@ -1,14 +1,14 @@
 ---
 title: RenditionParams
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置用于提供附加再现参数的值 太复杂或太冗长而无法在 xmpMMRenditionClass 中编码
+description: 获取或设置用于提供额外再现参数 的值这些参数太复杂或冗长而无法在 xmpMMRenditionClass. 中编码
 type: docs
 weight: 140
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpmediamanagementpackage/renditionparams/
 ---
 ## XmpMediaManagementPackage.RenditionParams property
 
-获取或设置用于提供附加再现参数的值 太复杂或太冗长而无法在 xmpMM:RenditionClass 中编码。
+获取或设置用于提供额外再现参数 的值，这些参数太复杂或冗长而无法在 xmpMM:RenditionClass. 中编码
 
 ```csharp
 public string RenditionParams { get; set; }

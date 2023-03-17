@@ -16,7 +16,7 @@ public virtual DateTime SignTime { get; }
 
 ### 适当的价值
 
-文件签署的时间。
+签署文档的时间。
 
 ### 也可以看看
 

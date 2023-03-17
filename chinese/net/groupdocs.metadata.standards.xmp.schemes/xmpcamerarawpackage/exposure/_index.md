@@ -16,7 +16,7 @@ public double? Exposure { get; set; }
 
 ### 适当的价值
 
-曝光。
+曝光.
 
 ### 也可以看看
 

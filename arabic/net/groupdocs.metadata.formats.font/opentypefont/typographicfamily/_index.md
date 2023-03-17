@@ -16,7 +16,7 @@ public string TypographicFamily { get; }
 
 ### Property_Value
 
-عائلة الطباعة.
+الأسرة المطبعية.
 
 ### أنظر أيضا
 

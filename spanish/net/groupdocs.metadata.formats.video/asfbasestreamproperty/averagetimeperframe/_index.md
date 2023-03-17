@@ -16,7 +16,7 @@ public ulong? AverageTimePerFrame { get; }
 
 ### El valor de la propiedad
 
-La duración de tiempo promedio, medida en unidades de 100 nanosegundos, de cada cuadro.
+La duración de tiempo promedio, medida en unidades de 100 nanosegundos, de cada fotograma.
 
 ### Ver también
 

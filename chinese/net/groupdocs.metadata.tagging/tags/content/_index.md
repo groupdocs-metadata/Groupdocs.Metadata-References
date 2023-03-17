@@ -1,14 +1,14 @@
 ---
 title: Content
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取附加到描述文件内容的元数据属性的标签 这些标签有助于找出内容语言类型流派主题评级等
+description: 获取附加到描述文件内容的元数据属性的标签 标签可用于查找内容语言类型流派主题评级等
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.tagging/tags/content/
 ---
 ## Tags.Content property
 
-获取附加到描述文件内容的元数据属性的标签。 这些标签有助于找出内容语言、类型（流派）、主题、评级等。
+获取附加到描述文件内容的元数据属性的标签。 标签可用于查找内容语言、类型（流派）、主题、评级等。
 
 ```csharp
 public static ContentTagCategory Content { get; }

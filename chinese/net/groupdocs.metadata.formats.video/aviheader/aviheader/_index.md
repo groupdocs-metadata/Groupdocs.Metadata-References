@@ -1,14 +1,14 @@
 ---
 title: AviHeader
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化AviHeadergroupdocs.metadata.formats.video/aviheader类.
+description: 初始化一个新的实例AviHeadergroupdocs.metadata.formats.video/aviheader类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.formats.video/aviheader/aviheader/
 ---
 ## AviHeader constructor
 
-初始化[`AviHeader`](../../aviheader)类.
+初始化一个新的实例[`AviHeader`](../../aviheader)类.
 
 ```csharp
 public AviHeader()

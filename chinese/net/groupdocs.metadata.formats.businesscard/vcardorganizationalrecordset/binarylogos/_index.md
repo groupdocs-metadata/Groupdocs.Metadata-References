@@ -20,7 +20,7 @@ public byte[][] BinaryLogos { get; }
 
 ### 评论
 
-这个属性是一个简化版[`LogoBinaryRecords`](../logobinaryrecords).
+此属性是[`LogoBinaryRecords`](../logobinaryrecords).
 
 ### 也可以看看
 

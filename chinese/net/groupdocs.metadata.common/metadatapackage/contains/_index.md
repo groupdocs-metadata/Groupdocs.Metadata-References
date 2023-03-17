@@ -20,7 +20,7 @@ public bool Contains(string propertyName)
 
 ### 返回值
 
-如果包包含具有指定名称的属性，则为真；否则为假。
+如果包包含具有指定名称的属性则为真；否则为 false.
 
 ### 也可以看看
 

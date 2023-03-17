@@ -1,14 +1,14 @@
 ---
 title: PreviewOptions
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: Yeni bir örneğini başlatır.PreviewOptionsgroupdocs.metadata.options/previewoptionsçıktı akışının kapanmasına neden olan sınıf.
+description: Yeni bir örneğini başlatır.PreviewOptionsgroupdocs.metadata.options/previewoptions çıktı akışının kapanmasına neden olan sınıf.
 type: docs
 weight: 10
 url: /tr/net/groupdocs.metadata.options/previewoptions/previewoptions/
 ---
 ## PreviewOptions(CreatePageStream) {#constructor}
 
-Yeni bir örneğini başlatır.[`PreviewOptions`](../../previewoptions)çıktı akışının kapanmasına neden olan sınıf.
+Yeni bir örneğini başlatır.[`PreviewOptions`](../../previewoptions) çıktı akışının kapanmasına neden olan sınıf.
 
 ```csharp
 public PreviewOptions(CreatePageStream createPageStream)

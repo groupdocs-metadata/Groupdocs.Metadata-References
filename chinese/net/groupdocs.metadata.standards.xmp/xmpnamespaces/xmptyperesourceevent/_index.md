@@ -1,14 +1,14 @@
 ---
 title: XmpTypeResourceEvent
 second_title: GroupDocs.Metadata for .NET API 参考
-description: XMP 资源事件 URI.
+description: XMP ResourceEvent URI.
 type: docs
 weight: 210
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpnamespaces/xmptyperesourceevent/
 ---
 ## XmpNamespaces.XmpTypeResourceEvent field
 
-XMP 资源事件 URI.
+XMP ResourceEvent URI.
 
 ```csharp
 public const string XmpTypeResourceEvent;

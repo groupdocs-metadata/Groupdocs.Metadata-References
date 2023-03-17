@@ -1,14 +1,14 @@
 ---
 title: XmpReal
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 初始化XmpRealgroupdocs.metadata.standards.xmp/xmpreal类.
+description: 初始化一个新的实例XmpRealgroupdocs.metadata.standards.xmp/xmpreal类.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpreal/xmpreal/
 ---
 ## XmpReal(double) {#constructor}
 
-初始化[`XmpReal`](../../xmpreal)类.
+初始化一个新的实例[`XmpReal`](../../xmpreal)类.
 
 ```csharp
 public XmpReal(double value)
@@ -28,7 +28,7 @@ public XmpReal(double value)
 
 ## XmpReal(string) {#constructor_1}
 
-初始化[`XmpReal`](../../xmpreal)类.
+初始化一个新的实例[`XmpReal`](../../xmpreal)类.
 
 ```csharp
 public XmpReal(string value)
@@ -43,7 +43,7 @@ public XmpReal(string value)
 | 例外 | （健康）状况 |
 | --- | --- |
 | ArgumentNullException | 值不能为空。 |
-| ArgumentException | 无效值。应该是双倍的。 |
+| ArgumentException | 无效值。应该是双 |
 
 ### 也可以看看
 

@@ -20,7 +20,7 @@ public bool Remove(string propertyName)
 
 ### Geri dönüş değeri
 
-`doğru` özellik bulunursa ve silinirse; aksi halde`yanlış`.
+`doğru` özellik bulunursa ve silinirse; aksi takdirde`YANLIŞ`.
 
 ### Ayrıca bakınız
 

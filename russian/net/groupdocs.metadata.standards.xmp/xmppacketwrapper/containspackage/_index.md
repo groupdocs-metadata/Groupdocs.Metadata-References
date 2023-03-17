@@ -16,7 +16,7 @@ public bool ContainsPackage(string namespaceUri)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| namespaceUri | String | URI пространства имен пакета. |
+| namespaceUri | String | URI пространства имен пакетов. |
 
 ### Возвращаемое значение
 

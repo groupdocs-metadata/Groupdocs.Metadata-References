@@ -16,7 +16,7 @@ public bool? HasCrop { get; set; }
 
 ### Valeur de la propriété
 
-`vrai` si l'image a un rectangle de recadrage ; Par ailleurs,`faux` .
+`vrai` si l'image a un rectangle de recadrage ; sinon,`FAUX` .
 
 ### Voir également
 

@@ -1,14 +1,14 @@
 ---
 title: OpenTypeIsoEncoding
 second_title: GroupDocs.Metadata für .NET-API-Referenz
-description: Stellt die Codierung für die darIso Plattform.
+description: Stellt die Codierung für die darIsoPlattform.
 type: docs
 weight: 1470
 url: /de/net/groupdocs.metadata.formats.font/opentypeisoencoding/
 ---
 ## OpenTypeIsoEncoding enumeration
 
-Stellt die Codierung für die darIso Plattform.
+Stellt die Codierung für die darIsoPlattform.
 
 ```csharp
 public enum OpenTypeIsoEncoding : ushort

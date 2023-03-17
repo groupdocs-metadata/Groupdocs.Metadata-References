@@ -20,7 +20,7 @@ public MetadataProperty this[string propertyName] { get; }
 
 ### Valore di ritorno
 
-Il[`MetadataProperty`](../../metadataproperty) se trovato; altrimenti nullo.
+IL[`MetadataProperty`](../../metadataproperty) se trovato; altrimenti nullo.
 
 ### Valore della proprietà
 

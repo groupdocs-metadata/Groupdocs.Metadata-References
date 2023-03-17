@@ -1,14 +1,14 @@
 ---
 title: WhiteBalance
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取白平衡设置利用SetWhiteBalancegroupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/setwhitebalance设置白平衡值
+description: 获取白平衡设置使用SetWhiteBalancegroupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/setwhitebalance设置白平衡值.
 type: docs
 weight: 400
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/whitebalance/
 ---
 ## XmpCameraRawPackage.WhiteBalance property
 
-获取白平衡设置。利用[`SetWhiteBalance`](../setwhitebalance)设置白平衡值。
+获取白平衡设置。使用[`SetWhiteBalance`](../setwhitebalance)设置白平衡值.
 
 ```csharp
 public string WhiteBalance { get; }

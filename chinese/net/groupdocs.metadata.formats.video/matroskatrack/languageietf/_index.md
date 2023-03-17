@@ -1,14 +1,14 @@
 ---
 title: LanguageIetf
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 根据 BCP 47 并使用 IANA 语言子标签注册表获取轨道的语言 如果使用此元素则任何Languagegroupdocs.metadata.formats.video/matroskatrack/language必须忽略同一 TrackEntry 中使用的元素
+description: 根据 BCP 47 并使用 IANA 语言子标签注册表获取轨道语言 如果使用此元素则任何Languagegroupdocs.metadata.formats.video/matroskatrack/language必须忽略同一 TrackEntry 中使用的元素
 type: docs
 weight: 60
 url: /zh/net/groupdocs.metadata.formats.video/matroskatrack/languageietf/
 ---
 ## MatroskaTrack.LanguageIetf property
 
-根据 BCP 47 并使用 IANA 语言子标签注册表获取轨道的语言。 如果使用此元素，则任何[`Language`](../language)必须忽略同一 TrackEntry 中使用的元素。
+根据 BCP 47 并使用 IANA 语言子标签注册表获取轨道语言。 如果使用此元素，则任何[`Language`](../language)必须忽略同一 TrackEntry 中使用的元素。
 
 ```csharp
 public string LanguageIetf { get; }
@@ -16,7 +16,7 @@ public string LanguageIetf { get; }
 
 ### 适当的价值
 
-根据 BCP 47 并使用 IANA 语言子标签注册表的轨道语言。
+轨道语言符合 BCP 47 并使用 IANA 语言子标签注册表。
 
 ### 也可以看看
 

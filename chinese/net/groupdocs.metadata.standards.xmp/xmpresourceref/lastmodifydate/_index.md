@@ -16,7 +16,7 @@ public DateTime? LastModifyDate { get; set; }
 
 ### 适当的价值
 
-stEvt的值：最后一次写入文件的时间。
+stEvt 的值：最后一次写入文件的时间。
 
 ### 也可以看看
 

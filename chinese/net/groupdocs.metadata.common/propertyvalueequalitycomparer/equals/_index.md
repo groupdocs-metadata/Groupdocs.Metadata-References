@@ -17,7 +17,7 @@ public bool Equals(PropertyValue x, PropertyValue y)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | x | PropertyValue | 类型的第一个对象[`PropertyValue`](../../propertyvalue)比较。 |
-| y | PropertyValue | 类型的第二个对象[`PropertyValue`](../../propertyvalue)比较。 |
+| y | PropertyValue | 第二个对象类型[`PropertyValue`](../../propertyvalue)比较。 |
 
 ### 返回值
 

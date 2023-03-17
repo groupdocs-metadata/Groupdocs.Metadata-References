@@ -1,14 +1,14 @@
 ---
 title: Gender
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取对象的性别和性别身份的组成部分
+description: 获取对象的sex和gender identity的组成部分
 type: docs
 weight: 120
 url: /zh/net/groupdocs.metadata.formats.businesscard/vcardidentificationrecordset/gender/
 ---
 ## VCardIdentificationRecordset.Gender property
 
-获取对象的性别和性别身份的组成部分。
+获取对象的sex和gender identity的组成部分。
 
 ```csharp
 public string Gender { get; }
@@ -20,7 +20,7 @@ public string Gender { get; }
 
 ### 评论
 
-这个属性是一个简化版[`GenderRecord`](../genderrecord).
+此属性是[`GenderRecord`](../genderrecord).
 
 ### 也可以看看
 

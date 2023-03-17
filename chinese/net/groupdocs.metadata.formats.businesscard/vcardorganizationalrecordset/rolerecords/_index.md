@@ -1,14 +1,14 @@
 ---
 title: RoleRecords
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取对象在特定情况下发挥的功能或部分
+description: 获取对象在特定情况下所起的作用或部分
 type: docs
 weight: 150
 url: /zh/net/groupdocs.metadata.formats.businesscard/vcardorganizationalrecordset/rolerecords/
 ---
 ## VCardOrganizationalRecordset.RoleRecords property
 
-获取对象在特定情况下发挥的功能或部分。
+获取对象在特定情况下所起的作用或部分。
 
 ```csharp
 public VCardTextRecord[] RoleRecords { get; }
@@ -16,7 +16,7 @@ public VCardTextRecord[] RoleRecords { get; }
 
 ### 适当的价值
 
-对象在特定情况下所发挥的功能或部分。
+物体在特定情况下所起的作用或部分。
 
 ### 也可以看看
 

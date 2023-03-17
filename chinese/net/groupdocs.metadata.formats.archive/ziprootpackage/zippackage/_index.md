@@ -20,7 +20,7 @@ ZIP 元数据包。
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [使用 ZIP 档案](https://docs.groupdocs.com/display/metadatanet/Working+with+ZIP+archives)
 

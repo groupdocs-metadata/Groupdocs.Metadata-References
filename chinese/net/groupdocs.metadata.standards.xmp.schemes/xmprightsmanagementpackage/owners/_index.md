@@ -16,7 +16,7 @@ public string[] Owners { get; set; }
 
 ### 适当的价值
 
-合法所有者。
+合法所有者.
 
 ### 也可以看看
 

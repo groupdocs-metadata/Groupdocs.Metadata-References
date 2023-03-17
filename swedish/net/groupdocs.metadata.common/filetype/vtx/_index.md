@@ -1,14 +1,14 @@
 ---
 title: VTX
 second_title: GroupDocs.Metadata for .NET API-referens
-description: Filer med filtillägget .VTX hänvisar till Microsoft Visio ritmall som sparas på skiva i XMLfilformat. Läs mer om detta filformat härhttps//docs.fileformat.com/visio/vtx/ .
+description: Filer med tillägget .VTX hänvisar till Microsoft Visio ritmall som sparas på skiva i XMLfilformat. Läs mer om detta filformat härhttps//docs.fileformat.com/visio/vtx/ .
 type: docs
 weight: 710
 url: /sv/net/groupdocs.metadata.common/filetype/vtx/
 ---
 ## FileType.VTX field
 
-Filer med filtillägget .VTX hänvisar till Microsoft Visio ritmall som sparas på skiva i XML-filformat. Läs mer om detta filformat [här](https://docs.fileformat.com/visio/vtx/) .
+Filer med tillägget .VTX hänvisar till Microsoft Visio ritmall som sparas på skiva i XML-filformat. Läs mer om detta filformat [här](https://docs.fileformat.com/visio/vtx/) .
 
 ```csharp
 public static readonly FileType VTX;

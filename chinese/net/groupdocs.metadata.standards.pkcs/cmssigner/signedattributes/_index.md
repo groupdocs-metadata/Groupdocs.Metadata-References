@@ -16,7 +16,7 @@ public CmsAttribute[] SignedAttributes { get; }
 
 ### 适当的价值
 
-已签名的属性的集合。
+已签名的属性集合。
 
 ### 也可以看看
 

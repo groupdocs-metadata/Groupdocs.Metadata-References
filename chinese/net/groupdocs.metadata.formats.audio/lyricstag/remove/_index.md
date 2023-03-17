@@ -1,14 +1,14 @@
 ---
 title: Remove
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 删除具有指定 id 的字段
+description: 移除指定id的字段
 type: docs
 weight: 90
 url: /zh/net/groupdocs.metadata.formats.audio/lyricstag/remove/
 ---
 ## LyricsTag.Remove method
 
-删除具有指定 id 的字段。
+移除指定id的字段。
 
 ```csharp
 public void Remove(string id)

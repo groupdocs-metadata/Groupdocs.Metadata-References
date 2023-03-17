@@ -1,14 +1,14 @@
 ---
 title: Album
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取相册
+description: 获取专辑
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.formats.audio/apepackage/album/
 ---
 ## ApePackage.Album property
 
-获取相册。
+获取专辑。
 
 ```csharp
 public string Album { get; }
@@ -16,7 +16,7 @@ public string Album { get; }
 
 ### 适当的价值
 
-专辑。
+专辑.
 
 ### 也可以看看
 

@@ -1,14 +1,14 @@
 ---
 title: Default
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 主资源不允许使用额外的令牌
+description: 主资源不允许有额外的标记
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.standards.xmp/xmprenditionclass/default/
 ---
 ## XmpRenditionClass.Default field
 
-主资源；不允许使用额外的令牌。
+主资源；不允许有额外的标记。
 
 ```csharp
 public const string Default;

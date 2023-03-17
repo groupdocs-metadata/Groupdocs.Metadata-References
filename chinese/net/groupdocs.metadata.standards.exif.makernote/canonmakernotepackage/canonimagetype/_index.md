@@ -16,7 +16,7 @@ public string CanonImageType { get; }
 
 ### 适当的价值
 
-图像的佳能类型。
+图像的 Canon 类型。
 
 ### 也可以看看
 

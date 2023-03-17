@@ -20,13 +20,13 @@ public IptcRecordSet IptcPackage { get; set; }
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [使用 IPTC IIM 元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+IPTC+IIM+metadata)
 
 ### 例子
 
-此代码示例显示如何从文件中删除 IPTC 元数据。
+此代码示例展示了如何从文件中删除 IPTC 元数据。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.JpegWithIptc))

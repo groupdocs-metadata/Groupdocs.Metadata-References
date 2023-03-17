@@ -1,14 +1,14 @@
 ---
 title: Item
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取IptcDataSetgroupdocs.metadata.standards.iptc/iptcdataset具有指定的数据集编号
+description: 获取IptcDataSetgroupdocs.metadata.standards.iptc/iptcdataset使用指定的数据集编号.
 type: docs
 weight: 10
 url: /zh/net/groupdocs.metadata.standards.iptc/iptcrecord/item/
 ---
 ## IptcRecord indexer
 
-获取[`IptcDataSet`](../../iptcdataset)具有指定的数据集编号。
+获取[`IptcDataSet`](../../iptcdataset)使用指定的数据集编号.
 
 ```csharp
 public IptcDataSet this[byte dataSetNumber] { get; }

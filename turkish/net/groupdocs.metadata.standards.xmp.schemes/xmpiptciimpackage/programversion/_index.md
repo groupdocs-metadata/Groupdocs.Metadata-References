@@ -16,7 +16,7 @@ public string ProgramVersion { get; set; }
 
 ### Mülk değeri
 
-Program versiyonu.
+Program sürümü.
 
 ### Ayrıca bakınız
 

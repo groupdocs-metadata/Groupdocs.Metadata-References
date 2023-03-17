@@ -20,7 +20,7 @@ public bool Remove(string propertyName)
 
 ### Rückgabewert
 
-`Stimmt` wenn die Eigenschaft gefunden und gelöscht wird; Andernfalls`FALSCH`.
+`WAHR` wenn die Eigenschaft gefunden und gelöscht wird; ansonsten`FALSCH`.
 
 ### Siehe auch
 

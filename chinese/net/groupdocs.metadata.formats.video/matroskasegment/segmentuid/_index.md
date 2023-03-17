@@ -1,14 +1,14 @@
 ---
 title: SegmentUid
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取标识 SEGMENT 的唯一 128 位编号 显然如果存在 SEGMENTUID则文件只能由另一个文件引用但是如果没有该 UID则可以播放
+description: 获取标识 SEGMENT 的唯一 128 位编号 显然如果存在 SEGMENTUID则一个文件只能被另一个文件引用但是没有该 UID 也可以播放
 type: docs
 weight: 60
 url: /zh/net/groupdocs.metadata.formats.video/matroskasegment/segmentuid/
 ---
 ## MatroskaSegment.SegmentUid property
 
-获取标识 SEGMENT 的唯一 128 位编号。 显然，如果存在 SEGMENTUID，则文件只能由另一个文件引用，但是，如果没有该 UID，则可以播放。
+获取标识 SEGMENT 的唯一 128 位编号。 显然，如果存在 SEGMENTUID，则一个文件只能被另一个文件引用，但是，没有该 UID 也可以播放。
 
 ```csharp
 public byte[] SegmentUid { get; }

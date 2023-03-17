@@ -16,7 +16,7 @@ public bool IsOriginal { get; }
 
 ### Mülk değeri
 
-`doğru` ses orijinal ise; aksi halde,`yanlış` .
+`doğru` ses orijinal ise; aksi takdirde,`YANLIŞ` .
 
 ### Ayrıca bakınız
 

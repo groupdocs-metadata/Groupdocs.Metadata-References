@@ -16,8 +16,8 @@ public override void GetObjectData(SerializationInfo info, StreamingContext cont
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| info | SerializationInfo | 这SerializationInfo保存关于被抛出异常的 序列化对象数据。 |
-| context | StreamingContext | 这StreamingContext 包含有关源或目标的上下文信息。 |
+| info | SerializationInfo | 这SerializationInfo保存有关抛出异常的 the 序列化对象数据。 |
+| context | StreamingContext | 这StreamingContext ，其中包含有关源或目标的上下文信息。 |
 
 ### 也可以看看
 

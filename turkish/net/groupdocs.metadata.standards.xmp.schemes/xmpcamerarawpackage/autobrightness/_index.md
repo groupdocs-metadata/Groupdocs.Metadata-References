@@ -16,7 +16,7 @@ public bool? AutoBrightness { get; set; }
 
 ### Mülk değeri
 
-`doğru` [otomatik parlaklık] ise; aksi halde,`yanlış` .
+`doğru` [otomatik parlaklık] ise; aksi takdirde,`YANLIŞ` .
 
 ### Ayrıca bakınız
 

@@ -1,14 +1,14 @@
 ---
 title: AviHeader
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 表示 AVI 视频中的 AVIMAINHEADER 结构
+description: 表示AVI视频中的AVIMAINHEADER结构
 type: docs
 weight: 2380
 url: /zh/net/groupdocs.metadata.formats.video/aviheader/
 ---
 ## AviHeader class
 
-表示 AVI 视频中的 AVIMAINHEADER 结构。
+表示AVI视频中的AVIMAINHEADER结构。
 
 ```csharp
 public sealed class AviHeader : CustomPackage
@@ -18,7 +18,7 @@ public sealed class AviHeader : CustomPackage
 
 | 姓名 | 描述 |
 | --- | --- |
-| [AviHeader](aviheader)() | 初始化[`AviHeader`](../aviheader)类. |
+| [AviHeader](aviheader)() | 初始化一个新的实例[`AviHeader`](../aviheader)类. |
 
 ## 特性
 
@@ -27,16 +27,16 @@ public sealed class AviHeader : CustomPackage
 | [AviHeaderFlags](../../groupdocs.metadata.formats.video/aviheader/aviheaderflags) { get; } | 获取零个或多个 AVI 标志的按位组合。 |
 | [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | 获取元数据属性的数量。 |
 | [Height](../../groupdocs.metadata.formats.video/aviheader/height) { get; } | 获取 AVI 文件的高度（以像素为单位）。 |
-| [InitialFrames](../../groupdocs.metadata.formats.video/aviheader/initialframes) { get; } | 获取交错文件的初始帧。  非交错文件应指定为零。如果您正在创建交错文件，请在此成员中指定 AVI 序列的初始帧之前的文件中的帧数 。 |
-| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定的名称。 |
+| [InitialFrames](../../groupdocs.metadata.formats.video/aviheader/initialframes) { get; } | 获取交错文件的初始帧。  非交错文件应指定为零。如果您正在创建交错文件，请在此成员中的 AVI 序列的初始帧之前指定文件中的帧数 。 |
+| [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | 获取[`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty)具有指定名称. |
 | [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | 获取元数据属性名称的集合。 |
-| [MaxBytesPerSec](../../groupdocs.metadata.formats.video/aviheader/maxbytespersec) { get; } | 获取文件的近似最大数据速率。  该值表示系统每秒必须处理的字节数，以将 AVI 序列呈现为 ，由包含在主标头和流标头块中的其他参数指定。 |
+| [MaxBytesPerSec](../../groupdocs.metadata.formats.video/aviheader/maxbytespersec) { get; } | 获取文件的近似最大数据速率。  此值表示系统必须处理的每秒字节数，以将 AVI 序列呈现为 ，由主标头和流标头块中包含的其他参数指定。 |
 | [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | 获取元数据类型。 |
-| [MicroSecPerFrame](../../groupdocs.metadata.formats.video/aviheader/microsecperframe) { get; } | 获取帧之间的微秒数。该值表示文件的整体时序。 |
-| [PaddingGranularity](../../groupdocs.metadata.formats.video/aviheader/paddinggranularity) { get; } | 获取数据的对齐方式，以字节为单位。将数据填充到该值的倍数。 |
+| [MicroSecPerFrame](../../groupdocs.metadata.formats.video/aviheader/microsecperframe) { get; } | 获取帧之间的微秒数。此值表示文件的总体时间。 |
+| [PaddingGranularity](../../groupdocs.metadata.formats.video/aviheader/paddinggranularity) { get; } | 获取数据的对齐方式，以字节为单位。将数据填充为该值的倍数。 |
 | [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | 获取描述符集合，其中包含有关可通过 GroupDocs.Metadata 搜索引擎访问的属性的信息。 |
-| [Streams](../../groupdocs.metadata.formats.video/aviheader/streams) { get; } | 获取文件中的流数。比如一个有音视频的文件有两个流。 |
-| [SuggestedBufferSize](../../groupdocs.metadata.formats.video/aviheader/suggestedbuffersize) { get; } | 获取建议的用于读取文件的缓冲区大小。  通常，这个大小应该足够大以包含文件中最大的块。 如果设置为零，或者太小，播放软件将不得不在播放过程中重新分配内存，这会降低性能。对于交错文件， 缓冲区大小应该足以读取整个记录，而不仅仅是一个块。 |
+| [Streams](../../groupdocs.metadata.formats.video/aviheader/streams) { get; } | 获取文件中的流数。例如，一个带有音频和视频的文件有两个流。 |
+| [SuggestedBufferSize](../../groupdocs.metadata.formats.video/aviheader/suggestedbuffersize) { get; } | 获取读取文件的建议缓冲区大小。  通常，此大小应足以包含文件中的最大块。 如果设置为零，或者太小，播放软件将不得不在播放过程中重新分配内存，这会降低性能。对于交错文件， 缓冲区大小应该足够大以读取整个记录，而不仅仅是一个块。 |
 | [TotalFrames](../../groupdocs.metadata.formats.video/aviheader/totalframes) { get; } | 获取文件中数据的总帧数。 |
 | [Width](../../groupdocs.metadata.formats.video/aviheader/width) { get; } | 获取 AVI 文件的宽度（以像素为单位）。 |
 
@@ -50,14 +50,14 @@ public sealed class AviHeader : CustomPackage
 | [GetEnumerator](../../groupdocs.metadata.common/metadatapackage/getenumerator)() | 返回一个遍历集合的枚举器。 |
 | virtual [RemoveProperties](../../groupdocs.metadata.common/metadatapackage/removeproperties)(Func&lt;MetadataProperty, bool&gt;) | 删除满足指定谓词的元数据属性。 |
 | virtual [Sanitize](../../groupdocs.metadata.common/metadatapackage/sanitize)() | 从包中删除可写元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
-| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
+| [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 设置满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 此方法是以下方法的组合[`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties)和[`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties) 如果现有属性满足谓词，则更新其值。 如果包中缺少满足谓词的已知属性，则将其添加到包中。 |
 | [UpdateProperties](../../groupdocs.metadata.common/metadatapackage/updateproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | 更新满足指定谓词的已知元数据属性。 该操作是递归的，因此它也会影响所有嵌套包。 |
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
-* [使用 AVI 文件中的元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+AVI+files)
+* [处理 AVI 文件中的元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+AVI+files)
 
 ### 也可以看看
 

@@ -20,7 +20,7 @@ CAD 元数据包。
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [使用 CAD 元数据](https://docs.groupdocs.com/display/metadatanet/Working+with+CAD+metadata)
 

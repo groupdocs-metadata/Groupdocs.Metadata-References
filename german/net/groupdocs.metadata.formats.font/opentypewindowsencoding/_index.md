@@ -1,14 +1,14 @@
 ---
 title: OpenTypeWindowsEncoding
 second_title: GroupDocs.Metadata für .NET-API-Referenz
-description: Stellt die Codierung für die darWindows Plattform.
+description: Stellt die Codierung für die darWindowsPlattform.
 type: docs
 weight: 1620
 url: /de/net/groupdocs.metadata.formats.font/opentypewindowsencoding/
 ---
 ## OpenTypeWindowsEncoding enumeration
 
-Stellt die Codierung für die darWindows Plattform.
+Stellt die Codierung für die darWindowsPlattform.
 
 ```csharp
 public enum OpenTypeWindowsEncoding : ushort
@@ -18,7 +18,7 @@ public enum OpenTypeWindowsEncoding : ushort
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| Symbol | `0` | Die Symbolkodierung. |
+| Symbol | `0` | Die Symbolcodierung. |
 | UnicodeBmp | `1` | Die Unicode-BMP-Codierung. |
 | ShiftJis | `2` | Die ShiftJIS-Kodierung. |
 | Prc | `3` | Die PRC-Codierung. |

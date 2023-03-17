@@ -1,14 +1,14 @@
 ---
 title: TTF
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: TTF TrueType spesifikasyonları yazı tipi teknolojisine dayalı yazı tipi dosyalarını temsil eder. TrueType yazı tipleri bilgisayar ekranlarında ve yazıcılarda çözünürlüğe bağlı olmadan en yüksek kalitede görüntüleme sağlar. Bu dosya formatı hakkında daha fazla bilgi edinin buradahttps//docs.fileformat.com/font/ttf/ .
+description: TTF TrueType spesifikasyonları yazı tipi teknolojisine dayalı yazı tipi dosyalarını temsil eder. TrueType yazı tipleri bilgisayar ekranlarında ve yazıcılarda çözünürlüğe bağlı olmadan en yüksek kalitede görüntüleme sağlar. Bu dosya formatı hakkında daha fazla bilgi edinin Buradahttps//docs.fileformat.com/font/ttf/ .
 type: docs
 weight: 620
 url: /tr/net/groupdocs.metadata.common/filetype/ttf/
 ---
 ## FileType.TTF field
 
-TTF, TrueType spesifikasyonları yazı tipi teknolojisine dayalı yazı tipi dosyalarını temsil eder. TrueType yazı tipleri, bilgisayar ekranlarında ve yazıcılarda çözünürlüğe bağlı olmadan en yüksek kalitede görüntüleme sağlar. Bu dosya formatı hakkında daha fazla bilgi edinin [burada](https://docs.fileformat.com/font/ttf/) .
+TTF, TrueType spesifikasyonları yazı tipi teknolojisine dayalı yazı tipi dosyalarını temsil eder. TrueType yazı tipleri, bilgisayar ekranlarında ve yazıcılarda çözünürlüğe bağlı olmadan en yüksek kalitede görüntüleme sağlar. Bu dosya formatı hakkında daha fazla bilgi edinin [Burada](https://docs.fileformat.com/font/ttf/) .
 
 ```csharp
 public static readonly FileType TTF;

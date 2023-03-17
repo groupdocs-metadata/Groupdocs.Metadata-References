@@ -1,14 +1,14 @@
 ---
 title: WordProcessingRevisionType
 second_title: Référence de l'API GroupDocs.Metadata pour .NET
-description: Spécifie le type de modification suivi par une révision.
+description: Spécifie le type de modification suivie par une révision.
 type: docs
 weight: 1300
 url: /fr/net/groupdocs.metadata.formats.document/wordprocessingrevisiontype/
 ---
 ## WordProcessingRevisionType enumeration
 
-Spécifie le type de modification suivi par une révision.
+Spécifie le type de modification suivie par une révision.
 
 ```csharp
 public enum WordProcessingRevisionType

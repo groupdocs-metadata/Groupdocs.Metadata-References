@@ -16,7 +16,7 @@ public int GetHashCode(MetadataProperty obj)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| obj | MetadataProperty | los[`MetadataProperty`](../../metadataproperty) para el que se devolverá un código hash. |
+| obj | MetadataProperty | El[`MetadataProperty`](../../metadataproperty) para el que se devolverá un código hash. |
 
 ### Valor_devuelto
 

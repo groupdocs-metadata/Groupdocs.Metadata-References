@@ -18,8 +18,8 @@ public class LoadOptions
 
 | 姓名 | 描述 |
 | --- | --- |
-| [LoadOptions](loadoptions#constructor)() | 初始化[`LoadOptions`](../loadoptions)类. |
-| [LoadOptions](loadoptions#constructor_1)(FileFormat) | 初始化[`LoadOptions`](../loadoptions)类. |
+| [LoadOptions](loadoptions#constructor)() | 初始化一个新的实例[`LoadOptions`](../loadoptions)类. |
+| [LoadOptions](loadoptions#constructor_1)(FileFormat) | 初始化一个新的实例[`LoadOptions`](../loadoptions)类. |
 
 ## 特性
 
@@ -30,12 +30,12 @@ public class LoadOptions
 
 ### 评论
 
-**学到更多**
+**了解更多**
 
 * [从本地磁盘加载](https://docs.groupdocs.com/display/metadatanet/Load+from+a+local+disk)
 * [从流中加载](https://docs.groupdocs.com/display/metadatanet/Load+from+a+stream)
 * [加载特定格式的文件](https://docs.groupdocs.com/display/metadatanet/Load+a+file+of+a+specific+format)
-* [加载受密码保护的文档](https://docs.groupdocs.com/display/metadatanet/Load+a+password-protected+document)
+* [装入受密码保护的文档](https://docs.groupdocs.com/display/metadatanet/Load+a+password-protected+document)
 
 ### 也可以看看
 

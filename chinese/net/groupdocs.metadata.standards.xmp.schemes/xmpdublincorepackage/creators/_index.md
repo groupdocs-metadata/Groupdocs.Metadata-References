@@ -1,14 +1,14 @@
 ---
 title: Creators
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置创建者数组
+description: 获取或设置创作者数组
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpdublincorepackage/creators/
 ---
 ## XmpDublinCorePackage.Creators property
 
-获取或设置创建者数组。
+获取或设置创作者数组。
 
 ```csharp
 public string[] Creators { get; set; }
@@ -16,11 +16,11 @@ public string[] Creators { get; set; }
 
 ### 适当的价值
 
-创建者数组。
+创作者数组。
 
 ### 评论
 
-实体应按优先级递减的顺序列出，如果这样的顺序很重要。 创建者的示例包括个人、组织或服务。通常，应使用创建者的名称来指示实体。
+实体应按优先级递减的顺序列出，如果这样的顺序很重要。 创建者的示例包括个人、组织或服务。通常，应该使用创建者的名称来指示实体。
 
 ### 也可以看看
 

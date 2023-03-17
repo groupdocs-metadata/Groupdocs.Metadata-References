@@ -16,7 +16,7 @@ public string Language { get; }
 
 ### Mülk değeri
 
-Çevrilen anahtar sözcük ve metin tarafından kullanılan insan dili.
+Çevrilen anahtar kelime ve metin tarafından kullanılan insan dili.
 
 ### Ayrıca bakınız
 

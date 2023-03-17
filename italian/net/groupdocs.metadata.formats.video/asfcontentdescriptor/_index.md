@@ -27,7 +27,7 @@ public sealed class AsfContentDescriptor : AsfBaseDescriptor
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * [Lavorare con i metadati nei file ASF](https://docs.groupdocs.com/display/metadatanet/Working+with+Metadata+in+ASF+Files)
 

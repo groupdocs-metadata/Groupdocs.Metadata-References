@@ -1,14 +1,14 @@
 ---
 title: OpenTypeUnicodeNameRecord
 second_title: GroupDocs.Metadata لمرجع .NET API
-description: يمثل قيمة جدول سجل الاسم لملفUnicode المنصة.
+description: يمثل قيمة جدول سجل الاسم لملفUnicodeالمنصة.
 type: docs
 weight: 1580
 url: /ar/net/groupdocs.metadata.formats.font/opentypeunicodenamerecord/
 ---
 ## OpenTypeUnicodeNameRecord class
 
-يمثل قيمة جدول سجل الاسم لملفUnicode المنصة.
+يمثل قيمة جدول سجل الاسم لملفUnicodeالمنصة.
 
 ```csharp
 public class OpenTypeUnicodeNameRecord : OpenTypeBaseNameRecord

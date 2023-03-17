@@ -1,14 +1,14 @@
 ---
 title: HeaderPosition
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取头偏移量
+description: 获取标头偏移量
 type: docs
 weight: 70
 url: /zh/net/groupdocs.metadata.formats.mpeg/mpegaudiopackage/headerposition/
 ---
 ## MpegAudioPackage.HeaderPosition property
 
-获取头偏移量。
+获取标头偏移量。
 
 ```csharp
 public long HeaderPosition { get; }

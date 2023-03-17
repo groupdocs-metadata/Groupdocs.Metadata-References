@@ -1,14 +1,14 @@
 ---
 title: Replaces
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置被描述资源取代置换或取代的相关资源
+description: 获取或设置相关资源该资源被描述的资源取代替换或取代
 type: docs
 weight: 450
 url: /zh/net/groupdocs.metadata.formats.ebook/epubpackage/replaces/
 ---
 ## EpubPackage.Replaces property
 
-获取或设置被描述资源取代、置换或取代的相关资源。
+获取或设置相关资源，该资源被描述的资源取代、替换或取代。
 
 ```csharp
 public string Replaces { get; set; }
@@ -16,7 +16,7 @@ public string Replaces { get; set; }
 
 ### 适当的价值
 
-被所述资源取代、置换或取代的相关资源。
+被描述的资源取代、置换或取代的相关资源。
 
 ### 也可以看看
 

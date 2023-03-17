@@ -16,7 +16,7 @@ public bool? HasSettings { get; set; }
 
 ### El valor de la propiedad
 
-`verdadero` si la imagen tiene una configuración RAW de cámara no predeterminada; de lo contrario,`falso` .
+`verdadero` si la imagen tiene una configuración RAW de cámara no predeterminada; de lo contrario,`FALSO` .
 
 ### Ver también
 

@@ -1,14 +1,14 @@
 ---
 title: CameraAngle
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 从一组固定的行业标准术语中获取或设置相机对静态拍摄对象的方向
+description: 从一组固定的行业标准术语中获取或设置相机相对于静态镜头中主体的方向
 type: docs
 weight: 110
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/cameraangle/
 ---
 ## XmpDynamicMediaPackage.CameraAngle property
 
-从一组固定的行业标准术语中获取或设置相机对静态拍摄对象的方向。
+从一组固定的行业标准术语中获取或设置相机相对于静态镜头中主体的方向。
 
 ```csharp
 public string CameraAngle { get; set; }
@@ -16,7 +16,7 @@ public string CameraAngle { get; set; }
 
 ### 适当的价值
 
-相机在静态拍摄中的方向，来自一组固定的行业标准术语。 预定义值包括：低角度、眼睛水平、高角度、俯视图、鸟瞰图、荷兰角、POV、上方肩膀，反应射击.
+相机在静态镜头中的方向，来自一组固定的行业标准术语。 预定义值包括：低角度、眼睛水平、高角度、俯拍、鸟瞰、荷兰角、POV、Over肩膀，反应射击.
 
 ### 也可以看看
 

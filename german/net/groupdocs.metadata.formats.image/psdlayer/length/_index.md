@@ -16,7 +16,7 @@ public int Length { get; }
 
 ### Eigentumswert
 
-Die Gesamtschichtlänge in Bytes.
+Die Gesamtschichtlänge in Byte.
 
 ### Siehe auch
 

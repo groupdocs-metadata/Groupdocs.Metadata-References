@@ -1,14 +1,14 @@
 ---
 title: CreativeStyle
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取广告素材样式
+description: 获取创意样式
 type: docs
 weight: 60
 url: /zh/net/groupdocs.metadata.standards.exif.makernote/sonymakernotepackage/creativestyle/
 ---
 ## SonyMakerNotePackage.CreativeStyle property
 
-获取广告素材样式。
+获取创意样式。
 
 ```csharp
 public string CreativeStyle { get; }

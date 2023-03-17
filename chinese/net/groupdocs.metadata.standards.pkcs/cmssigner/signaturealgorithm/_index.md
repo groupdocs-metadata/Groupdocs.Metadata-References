@@ -1,14 +1,14 @@
 ---
 title: SignatureAlgorithm
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取签名者用来生成数字签名的签名算法和任何相关参数
+description: 获取签名者用于生成数字签名的签名算法和任何相关参数
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.standards.pkcs/cmssigner/signaturealgorithm/
 ---
 ## CmsSigner.SignatureAlgorithm property
 
-获取签名者用来生成数字签名的签名算法和任何相关参数。
+获取签名者用于生成数字签名的签名算法和任何相关参数。
 
 ```csharp
 public Oid SignatureAlgorithm { get; }

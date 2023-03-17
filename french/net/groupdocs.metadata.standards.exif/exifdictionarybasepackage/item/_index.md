@@ -20,7 +20,7 @@ public TiffTag this[TiffTagID tagId] { get; }
 
 ### Return_Value
 
-La[`TiffTag`](../../../groupdocs.metadata.formats.image/tifftag) avec l'identifiant de balise spécifié.
+Le[`TiffTag`](../../../groupdocs.metadata.formats.image/tifftag) avec l'identifiant de balise spécifié.
 
 ### Exemples
 

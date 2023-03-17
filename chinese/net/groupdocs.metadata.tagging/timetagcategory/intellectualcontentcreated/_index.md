@@ -16,7 +16,7 @@ public PropertyTag IntellectualContentCreated { get; }
 
 ### 适当的价值
 
-表示文件的知识内容创建日期的标签。
+表示文件知识内容创建日期的标记。
 
 ### 也可以看看
 

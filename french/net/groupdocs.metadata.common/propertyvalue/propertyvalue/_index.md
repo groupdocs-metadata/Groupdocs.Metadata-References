@@ -16,7 +16,7 @@ public PropertyValue(int value)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| value | Int32 | UnInt32 évaluer. |
+| value | Int32 | UnInt32valeur. |
 
 ### Voir également
 
@@ -36,7 +36,7 @@ public PropertyValue(long value)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| value | Int64 | UNInt64 évaluer. |
+| value | Int64 | UNInt64valeur. |
 
 ### Voir également
 
@@ -56,7 +56,7 @@ public PropertyValue(bool value)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| value | Boolean | UNBoolean évaluer. |
+| value | Boolean | UNBooleanvaleur. |
 
 ### Voir également
 
@@ -76,7 +76,7 @@ public PropertyValue(double value)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| value | Double | UNDouble évaluer. |
+| value | Double | UNDoublevaleur. |
 
 ### Voir également
 
@@ -96,7 +96,7 @@ public PropertyValue(string value)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| value | String | UNString évaluer. |
+| value | String | UNStringvaleur. |
 
 ### Voir également
 
@@ -116,7 +116,7 @@ public PropertyValue(DateTime value)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| value | DateTime | UNDateTime évaluer. |
+| value | DateTime | UNDateTimevaleur. |
 
 ### Voir également
 
@@ -136,7 +136,7 @@ public PropertyValue(TimeSpan value)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| value | TimeSpan | UNTimeSpan évaluer. |
+| value | TimeSpan | UNTimeSpanvaleur. |
 
 ### Voir également
 
@@ -228,7 +228,7 @@ public PropertyValue(int[] values)
 
 ## PropertyValue(long[]) {#constructor_7}
 
-Initialise une nouvelle instance du[`PropertyValue`](../../propertyvalue)classe avec un tableau de valeurs longues.
+Initialise une nouvelle instance du[`PropertyValue`](../../propertyvalue) classe avec un tableau de valeurs longues.
 
 ```csharp
 public PropertyValue(long[] values)

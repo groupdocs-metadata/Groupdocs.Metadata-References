@@ -16,7 +16,7 @@ public PropertyTag Version { get; }
 
 ### Eigentumswert
 
-Das Tag, das die Version oder Revision einer Datei kennzeichnet.
+Das Tag, das die Version oder Revision einer Datei bezeichnet.
 
 ### Siehe auch
 

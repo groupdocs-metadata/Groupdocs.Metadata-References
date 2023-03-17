@@ -16,7 +16,7 @@ public PropertyTag Title { get; }
 
 ### Eigentumswert
 
-Das Tag, das den einer Datei gegebenen Namen kennzeichnet.
+Das Tag, das den einer Datei gegebenen Namen bezeichnet.
 
 ### Siehe auch
 

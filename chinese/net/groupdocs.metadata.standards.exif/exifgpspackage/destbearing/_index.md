@@ -1,14 +1,14 @@
 ---
 title: DestBearing
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置到目标点的 GPS 方位 取值范围为 0.00 到 359.99
+description: 获取或设置目标点的GPS方位 取值范围为0.00到359.99
 type: docs
 weight: 70
 url: /zh/net/groupdocs.metadata.standards.exif/exifgpspackage/destbearing/
 ---
 ## ExifGpsPackage.DestBearing property
 
-获取或设置到目标点的 GPS 方位。 取值范围为 0.00 到 359.99。
+获取或设置目标点的GPS方位。 取值范围为0.00到359.99。
 
 ```csharp
 public TiffRational DestBearing { get; set; }
@@ -16,7 +16,7 @@ public TiffRational DestBearing { get; set; }
 
 ### 适当的价值
 
-到目的地的方位角。
+到目的地点的方位。
 
 ### 也可以看看
 

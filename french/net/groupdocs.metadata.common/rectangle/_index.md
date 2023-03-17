@@ -18,7 +18,7 @@ public struct Rectangle
 
 | Nom | La description |
 | --- | --- |
-| static [Empty](../../groupdocs.metadata.common/rectangle/empty) { get; } | Récupère le rectangle vide. |
+| static [Empty](../../groupdocs.metadata.common/rectangle/empty) { get; } | Obtient le rectangle vide. |
 | [Bottom](../../groupdocs.metadata.common/rectangle/bottom) { get; } | Obtient la coordonnée y qui est la somme des valeurs des propriétés Y et Height du rectangle. |
 | [Height](../../groupdocs.metadata.common/rectangle/height) { get; } | Obtient la hauteur. |
 | [IsEmpty](../../groupdocs.metadata.common/rectangle/isempty) { get; } | Obtient une valeur indiquant si cette instance est vide. |

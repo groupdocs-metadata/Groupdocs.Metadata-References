@@ -16,7 +16,7 @@ public string[] Publishers { get; set; }
 
 ### 适当的价值
 
-发布者数组使资源可用。
+一系列发布者使资源可用。
 
 ### 评论
 

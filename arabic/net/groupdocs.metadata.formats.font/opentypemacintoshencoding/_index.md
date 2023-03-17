@@ -1,14 +1,14 @@
 ---
 title: OpenTypeMacintoshEncoding
 second_title: GroupDocs.Metadata لمرجع .NET API
-description: يمثل ترميز ملفاتMacintosh المنصة.
+description: يمثل ترميز ملفاتMacintoshالمنصة.
 type: docs
 weight: 1490
 url: /ar/net/groupdocs.metadata.formats.font/opentypemacintoshencoding/
 ---
 ## OpenTypeMacintoshEncoding enumeration
 
-يمثل ترميز ملفاتMacintosh المنصة.
+يمثل ترميز ملفاتMacintoshالمنصة.
 
 ```csharp
 public enum OpenTypeMacintoshEncoding : ushort

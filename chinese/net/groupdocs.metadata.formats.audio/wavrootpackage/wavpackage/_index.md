@@ -16,7 +16,7 @@ public WavPackage WavPackage { get; }
 
 ### 适当的价值
 
-WAV 原生元数据包。
+WAV 本机元数据包。
 
 ### 也可以看看
 

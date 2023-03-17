@@ -1,14 +1,14 @@
 ---
 title: HasExtendedSize
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取一个值该值指示扩展大小字段是否用于存储原子数据
+description: 获取一个值指示扩展大小字段是否用于存储原子数据
 type: docs
 weight: 30
 url: /zh/net/groupdocs.metadata.formats.video/movatom/hasextendedsize/
 ---
 ## MovAtom.HasExtendedSize property
 
-获取一个值，该值指示扩展大小字段是否用于存储原子数据。
+获取一个值，指示扩展大小字段是否用于存储原子数据。
 
 ```csharp
 public bool HasExtendedSize { get; }
@@ -16,7 +16,7 @@ public bool HasExtendedSize { get; }
 
 ### 适当的价值
 
-是的，如果扩展大小字段用于存储原子数据；否则为假。
+是的，如果扩展大小字段用于存储原子数据；否则，假的。
 
 ### 也可以看看
 

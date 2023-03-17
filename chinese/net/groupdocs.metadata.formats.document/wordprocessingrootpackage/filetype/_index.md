@@ -20,7 +20,7 @@ public WordProcessingTypePackage FileType { get; }
 
 ### 例子
 
-这个例子展示了如何检测加载文档的确切类型并提取一些额外的文件格式信息。
+此示例说明如何检测加载文档的确切类型并提取一些额外的文件格式信息。
 
 ```csharp
 using (Metadata metadata = new Metadata(Constants.InputDoc))

@@ -1,14 +1,14 @@
 ---
 title: TTC
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: TTC TrueType Koleksiyonu bir TrueType yazı tipi koleksiyonu formatıdır. Bir TTC dosyası birden çok yazı tipi dosyasını kendi içinde birleştirebilir. Bu dosya hakkında daha fazla bilgi edinin format buradahttps//docs.fileformat.com/font/ttc/ .
+description: TTC TrueType Koleksiyonu bir TrueType yazı tipi koleksiyonu formatıdır. Bir TTC dosyası birden çok yazı tipi dosyasını kendi içinde birleştirebilir. Bu dosya hakkında daha fazla bilgi edinin format Buradahttps//docs.fileformat.com/font/ttc/ .
 type: docs
 weight: 610
 url: /tr/net/groupdocs.metadata.common/filetype/ttc/
 ---
 ## FileType.TTC field
 
-TTC (TrueType Koleksiyonu), bir TrueType yazı tipi koleksiyonu formatıdır. Bir TTC dosyası, birden çok yazı tipi dosyasını kendi içinde birleştirebilir. Bu dosya hakkında daha fazla bilgi edinin format [burada](https://docs.fileformat.com/font/ttc/) .
+TTC (TrueType Koleksiyonu), bir TrueType yazı tipi koleksiyonu formatıdır. Bir TTC dosyası, birden çok yazı tipi dosyasını kendi içinde birleştirebilir. Bu dosya hakkında daha fazla bilgi edinin format [Burada](https://docs.fileformat.com/font/ttc/) .
 
 ```csharp
 public static readonly FileType TTC;

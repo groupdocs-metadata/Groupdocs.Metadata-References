@@ -8,7 +8,7 @@ url: /zh/net/groupdocs.metadata.standards.pkcs/cmsencapsulatedcontent/contenttyp
 ---
 ## CmsEncapsulatedContent.ContentType property
 
-获取唯一指定内容类型的对象标识符
+获取唯一指定内容类型的对象标识符。
 
 ```csharp
 public Oid ContentType { get; }
@@ -16,7 +16,7 @@ public Oid ContentType { get; }
 
 ### 适当的价值
 
-对象标识符唯一地指定内容类型。
+对象标识符唯一指定内容类型。
 
 ### 也可以看看
 

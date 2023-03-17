@@ -1,14 +1,14 @@
 ---
 title: Statistic
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取表示包含文档统计信息字数字符数等的属性的标记
+description: 获取指示包含文档统计信息字数字符数等的属性的标记
 type: docs
 weight: 70
 url: /zh/net/groupdocs.metadata.tagging/documenttagcategory/statistic/
 ---
 ## DocumentTagCategory.Statistic property
 
-获取表示包含文档统计信息（字数、字符数等）的属性的标记。
+获取指示包含文档统计信息（字数、字符数等）的属性的标记。
 
 ```csharp
 public PropertyTag Statistic { get; }
@@ -16,7 +16,7 @@ public PropertyTag Statistic { get; }
 
 ### 适当的价值
 
-指示包含文档统计信息（字数、字符数等）的属性的标签。
+指示包含文档统计信息（字数、字符数等）的属性的标记。
 
 ### 也可以看看
 

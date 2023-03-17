@@ -16,7 +16,7 @@ public void SetRelation(string relation)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| relation | String | 要设置的关系。 |
+| relation | String | 设置的关系。 |
 
 ### 也可以看看
 

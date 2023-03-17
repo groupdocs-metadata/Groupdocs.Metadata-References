@@ -20,7 +20,7 @@ public string[] UriPublicKeys { get; }
 
 ### 评论
 
-这个属性是一个简化版[`PublicKeyUriRecords`](../publickeyurirecords).
+此属性是[`PublicKeyUriRecords`](../publickeyurirecords).
 
 ### 也可以看看
 

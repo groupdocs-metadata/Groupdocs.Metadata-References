@@ -16,7 +16,7 @@ public bool? AutoContrast { get; set; }
 
 ### Mülk değeri
 
-`doğru` if [otomatik kontrast]; aksi halde,`yanlış` .
+`doğru` if [otomatik kontrast]; aksi takdirde,`YANLIŞ` .
 
 ### Ayrıca bakınız
 

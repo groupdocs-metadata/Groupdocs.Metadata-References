@@ -16,7 +16,7 @@ public string LensType { get; }
 
 ### 适当的价值
 
-镜头类型。
+镜头的类型。
 
 ### 也可以看看
 

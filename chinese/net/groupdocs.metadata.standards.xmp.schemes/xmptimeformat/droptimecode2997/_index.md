@@ -16,7 +16,7 @@ public static XmpTimeFormat DropTimecode2997 { get; }
 
 ### 适当的价值
 
-掉落时间码2997.
+下降时间码2997.
 
 ### 也可以看看
 

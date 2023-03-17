@@ -1,14 +1,14 @@
 ---
 title: VideoAlphaPremultipleColor
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置文件中第一帧视频的时间码从设备控制中获取
+description: 获取或设置文件中第一帧视频的时间码从设备控件中获取
 type: docs
 weight: 410
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/videoalphapremultiplecolor/
 ---
 ## XmpDynamicMediaPackage.VideoAlphaPremultipleColor property
 
-获取或设置文件中第一帧视频的时间码，从设备控制中获取。
+获取或设置文件中第一帧视频的时间码，从设备控件中获取。
 
 ```csharp
 public XmpColorantBase VideoAlphaPremultipleColor { get; set; }

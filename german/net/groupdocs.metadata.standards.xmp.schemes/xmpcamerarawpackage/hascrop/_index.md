@@ -16,7 +16,7 @@ public bool? HasCrop { get; set; }
 
 ### Eigentumswert
 
-`Stimmt` wenn das Bild ein Zuschneiderechteck hat; Andernfalls,`FALSCH` .
+`WAHR` wenn das Bild ein Zuschneiderechteck hat; ansonsten,`FALSCH` .
 
 ### Siehe auch
 

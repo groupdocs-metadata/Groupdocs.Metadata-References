@@ -1,14 +1,14 @@
 ---
 title: Differential
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置一个 GPS 值该值指示是否将差分校正应用于 GPS 接收器
+description: 获取或设置一个 GPS 值该值指示差分校正是否应用于 GPS 接收器
 type: docs
 weight: 150
 url: /zh/net/groupdocs.metadata.standards.exif/exifgpspackage/differential/
 ---
 ## ExifGpsPackage.Differential property
 
-获取或设置一个 GPS 值，该值指示是否将差分校正应用于 GPS 接收器。
+获取或设置一个 GPS 值，该值指示差分校正是否应用于 GPS 接收器。
 
 ```csharp
 public int? Differential { get; set; }
@@ -16,7 +16,7 @@ public int? Differential { get; set; }
 
 ### 适当的价值
 
-一个 GPS 值，指示是否将差分校正应用于 GPS 接收器。
+指示差分校正是否应用于 GPS 接收器的 GPS 值。
 
 ### 也可以看看
 

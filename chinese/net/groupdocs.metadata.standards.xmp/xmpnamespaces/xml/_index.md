@@ -1,14 +1,14 @@
 ---
 title: Xml
 second_title: GroupDocs.Metadata for .NET API 参考
-description: Xml 命名空间
+description: Xml 命名空间.
 type: docs
 weight: 110
 url: /zh/net/groupdocs.metadata.standards.xmp/xmpnamespaces/xml/
 ---
 ## XmpNamespaces.Xml field
 
-Xml 命名空间。
+Xml 命名空间.
 
 ```csharp
 public const string Xml;

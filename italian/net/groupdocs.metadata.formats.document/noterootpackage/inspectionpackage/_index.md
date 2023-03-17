@@ -20,7 +20,7 @@ Un pacchetto di metadati contenente i risultati dell'ispezione per il documento.
 
 ### Osservazioni
 
-**Scopri di più**
+**Saperne di più**
 
 * [Lavorare con i metadati nei formati Note](https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+Note+formats)
 

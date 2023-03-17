@@ -16,7 +16,7 @@ public void Save()
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * [Speichern Sie eine geänderte Datei in der ursprünglichen Quelle](https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+the+original+source)
 * [Speichern Sie eine geänderte Datei an einem angegebenen Ort](https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+a+specified+location)
@@ -58,7 +58,7 @@ public void Save(Stream document)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * [Speichern Sie eine geänderte Datei in der ursprünglichen Quelle](https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+the+original+source)
 * [Speichern Sie eine geänderte Datei an einem angegebenen Ort](https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+a+specified+location)
@@ -102,7 +102,7 @@ public void Save(string filePath)
 
 ### Bemerkungen
 
-**Mehr erfahren**
+**Erfahren Sie mehr**
 
 * [Speichern Sie eine geänderte Datei in der ursprünglichen Quelle](https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+the+original+source)
 * [Speichern Sie eine geänderte Datei an einem angegebenen Ort](https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+a+specified+location)

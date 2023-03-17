@@ -1,14 +1,14 @@
 ---
 title: CropBottom
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置 CropBottom 设置当 HasCrop 为真时裁剪矩形的底部
+description: 获取或设置 CropBottom 设置当 HasCrop 为真时裁剪矩形的底部.
 type: docs
 weight: 150
 url: /zh/net/groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/cropbottom/
 ---
 ## XmpCameraRawPackage.CropBottom property
 
-获取或设置 CropBottom 设置。当 HasCrop 为真时，裁剪矩形的底部。
+获取或设置 CropBottom 设置。当 HasCrop 为真时，裁剪矩形的底部.
 
 ```csharp
 public double? CropBottom { get; set; }
@@ -16,7 +16,7 @@ public double? CropBottom { get; set; }
 
 ### 适当的价值
 
-作物底部。
+作物底部.
 
 ### 也可以看看
 

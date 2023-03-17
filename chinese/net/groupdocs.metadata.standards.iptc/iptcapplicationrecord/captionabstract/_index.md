@@ -1,14 +1,14 @@
 ---
 title: CaptionAbstract
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取或设置对象的文本描述特别用于对象不是文本的情况
+description: 获取或设置对象的文本描述特别是在对象不是文本的情况下使用
 type: docs
 weight: 70
 url: /zh/net/groupdocs.metadata.standards.iptc/iptcapplicationrecord/captionabstract/
 ---
 ## IptcApplicationRecord.CaptionAbstract property
 
-获取或设置对象的文本描述，特别用于对象不是文本的情况。
+获取或设置对象的文本描述，特别是在对象不是文本的情况下使用。
 
 ```csharp
 public string CaptionAbstract { get; set; }
@@ -16,7 +16,7 @@ public string CaptionAbstract { get; set; }
 
 ### 适当的价值
 
-对象的文本描述，特别用于对象不是文本的情况。
+对象的文本描述，特别是在对象不是文本的情况下使用。
 
 ### 也可以看看
 

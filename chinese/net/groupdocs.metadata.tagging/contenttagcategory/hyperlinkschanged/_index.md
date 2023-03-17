@@ -1,14 +1,14 @@
 ---
 title: HyperlinksChanged
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取标签表示该部分中的一个或多个超链接已由制造商在该部分中专门更新
+description: 获取表示该部分中的一个或多个超链接已由制造商在该部分中专门更新的标记
 type: docs
 weight: 40
 url: /zh/net/groupdocs.metadata.tagging/contenttagcategory/hyperlinkschanged/
 ---
 ## ContentTagCategory.HyperlinksChanged property
 
-获取标签，表示该部分中的一个或多个超链接已由制造商在该部分中专门更新。
+获取表示该部分中的一个或多个超链接已由制造商在该部分中专门更新的标记。
 
 ```csharp
 public PropertyTag HyperlinksChanged { get; }
@@ -16,7 +16,7 @@ public PropertyTag HyperlinksChanged { get; }
 
 ### 适当的价值
 
-表示该部分中的一个或多个超链接已由制造商在该部分中专门更新的标记。
+表示的标签表示该部分中的一个或多个超链接已由制造商在该部分中专门更新。
 
 ### 也可以看看
 

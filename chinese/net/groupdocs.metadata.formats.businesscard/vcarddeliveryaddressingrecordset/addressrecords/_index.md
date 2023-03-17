@@ -1,14 +1,14 @@
 ---
 title: AddressRecords
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取对象的收货地址的组成部分
+description: 获取对象的发送地址的组成部分
 type: docs
 weight: 20
 url: /zh/net/groupdocs.metadata.formats.businesscard/vcarddeliveryaddressingrecordset/addressrecords/
 ---
 ## VCardDeliveryAddressingRecordset.AddressRecords property
 
-获取对象的收货地址的组成部分。
+获取对象的发送地址的组成部分。
 
 ```csharp
 public VCardTextRecord[] AddressRecords { get; }
@@ -16,7 +16,7 @@ public VCardTextRecord[] AddressRecords { get; }
 
 ### 适当的价值
 
-对象的交货地址的组成部分。
+对象的传递地址的组成部分。
 
 ### 也可以看看
 

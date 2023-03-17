@@ -1,14 +1,14 @@
 ---
 title: Keywords
 second_title: GroupDocs.Metadata for .NET API 参考
-description: 获取表示元数据属性的标记该属性包含描述内容的关键字
+description: 获取表示包含描述内容的关键字的元数据属性的标记
 type: docs
 weight: 50
 url: /zh/net/groupdocs.metadata.tagging/contenttagcategory/keywords/
 ---
 ## ContentTagCategory.Keywords property
 
-获取表示元数据属性的标记，该属性包含描述内容的关键字。
+获取表示包含描述内容的关键字的元数据属性的标记。
 
 ```csharp
 public PropertyTag Keywords { get; }
@@ -16,7 +16,7 @@ public PropertyTag Keywords { get; }
 
 ### 适当的价值
 
-表示元数据属性的标记，其中包含描述内容的关键字。
+表示包含描述内容的关键字的元数据属性的标记。
 
 ### 也可以看看
 

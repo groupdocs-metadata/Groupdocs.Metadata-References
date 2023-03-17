@@ -1,14 +1,14 @@
 ---
 title: VSX
 second_title: .NET API Başvurusu için GroupDocs.Metadata
-description: .VSX uzantılı dosyalar Microsoft Visioda diyagramlar oluşturmak için kullanılan çizimlerden ve şekillerden oluşan kalıpları ifade eder. Bu dosya hakkında daha fazla bilgi edinin format buradahttps//wiki.fileformat.com/visio/vsx/ .
+description: .VSX uzantılı dosyalar Microsoft Visioda diyagramlar oluşturmak için kullanılan çizimlerden ve şekillerden oluşan kalıpları ifade eder. Bu dosya hakkında daha fazla bilgi edinin format Buradahttps//wiki.fileformat.com/visio/vsx/ .
 type: docs
 weight: 700
 url: /tr/net/groupdocs.metadata.common/filetype/vsx/
 ---
 ## FileType.VSX field
 
-.VSX uzantılı dosyalar, Microsoft Visio'da diyagramlar oluşturmak için kullanılan çizimlerden ve şekillerden oluşan kalıpları ifade eder. Bu dosya hakkında daha fazla bilgi edinin format [burada](https://wiki.fileformat.com/visio/vsx/) .
+.VSX uzantılı dosyalar, Microsoft Visio'da diyagramlar oluşturmak için kullanılan çizimlerden ve şekillerden oluşan kalıpları ifade eder. Bu dosya hakkında daha fazla bilgi edinin format [Burada](https://wiki.fileformat.com/visio/vsx/) .
 
 ```csharp
 public static readonly FileType VSX;

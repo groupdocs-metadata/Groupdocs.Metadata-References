@@ -16,7 +16,7 @@ public DateTime Value { get; }
 
 ### 适当的价值
 
-记录值。
+创纪录的价值。
 
 ### 也可以看看
 
