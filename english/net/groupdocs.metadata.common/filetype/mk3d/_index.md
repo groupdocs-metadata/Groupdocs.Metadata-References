@@ -3,7 +3,7 @@ title: MK3D
 second_title: GroupDocs.Metadata for .NET API Reference
 description: MK3D is actually stereoscopic 3D video created using Matroska 3D format. The MKV file container uses a StereoMode fields value to define the type of stereoscopic 3D video stuff. Learn more about this file format herehttps//docs.fileformat.com/video/mk3d/.
 type: docs
-weight: 320
+weight: 350
 url: /net/groupdocs.metadata.common/filetype/mk3d/
 ---
 ## FileType.MK3D field

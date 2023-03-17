@@ -3,7 +3,7 @@ title: CmsPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a CMS digital signature metadata package.
 type: docs
-weight: 3000
+weight: 3910
 url: /net/groupdocs.metadata.standards.pkcs/cmspackage/
 ---
 ## CmsPackage class

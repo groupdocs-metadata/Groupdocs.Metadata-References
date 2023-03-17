@@ -3,7 +3,7 @@ title: DWG
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Files with DWG extension represent proprietary binary files used for containing 2D and 3D design data. Learn more about this file format herehttps//wiki.fileformat.com/cad/dwg/.
 type: docs
-weight: 130
+weight: 160
 url: /net/groupdocs.metadata.common/filetype/dwg/
 ---
 ## FileType.DWG field

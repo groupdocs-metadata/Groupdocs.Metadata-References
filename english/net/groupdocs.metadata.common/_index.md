@@ -29,6 +29,11 @@ The namespace contains base classes, utility classes and interfaces used across 
 | [RootMetadataPackage](./rootmetadatapackage) | Represents an entry point to all metadata packages presented in a particular file. |
 | [ValueAcceptor](./valueacceptor) | Provides a base abstract class that allows extracting all supported types of values from a [`PropertyValue`](../groupdocs.metadata.common/propertyvalue) instance. |
 | [ValueInterpreter](./valueinterpreter) | Defines operations required to interpret metadata property values. |
+## Structures
+
+| Structure | Description |
+| --- | --- |
+| [Rectangle](./rectangle) | A set of four integers that represent the location and size of a rectangle. |
 ## Interfaces
 
 | Interface | Description |

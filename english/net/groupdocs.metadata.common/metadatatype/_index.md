@@ -59,6 +59,8 @@ public enum MetadataType
 | Msg | `38` | An MSG message metadata package. |
 | Torrent | `39` | A torrent file metadata package. Please find more information at [https://en.wikipedia.org/wiki/Torrent_file/](https://en.wikipedia.org/wiki/Torrent_file/). |
 | Png | `40` | A PNG image metadata package. |
+| Dng | `41` | A DNG image metadata package. |
+| Cr2 | `42` | A CR2 image metadata package. |
 
 ### See Also
 

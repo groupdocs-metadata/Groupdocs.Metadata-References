@@ -3,7 +3,7 @@ title: XmpTrailerPI
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents XMP trailer processing instruction.
 type: docs
-weight: 3610
+weight: 4520
 url: /net/groupdocs.metadata.standards.xmp/xmptrailerpi/
 ---
 ## XmpTrailerPI class

@@ -3,7 +3,7 @@ title: GroupDocs.Metadata.Formats.Peer2Peer
 second_title: GroupDocs.Metadata for .NET API Reference
 description: The namespace contains classes intended to work with different formats based on the peer2peer protocol.
 type: docs
-weight: 150
+weight: 160
 url: /net/groupdocs.metadata.formats.peer2peer/
 ---
 The namespace contains classes intended to work with different formats based on the peer2peer protocol.

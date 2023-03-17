@@ -3,7 +3,7 @@ title: XmpWhiteBalance
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the White Balance setting in XmpCameraRawPackage./xmpcamerarawpackage.
 type: docs
-weight: 3240
+weight: 4150
 url: /net/groupdocs.metadata.standards.xmp.schemes/xmpwhitebalance/
 ---
 ## XmpWhiteBalance class

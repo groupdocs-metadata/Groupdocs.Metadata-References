@@ -5,6 +5,7 @@ weight: 10
 url: /net/
 description: GroupDocs.Metadata for .NET API References contain examples, code snippets, and API documentation. It provides namespaces, classes, interfaces, and other API details.
 is_root: true
+version:
 ---
 
 ## Namespaces
@@ -24,8 +25,12 @@ is_root: true
 | [GroupDocs.Metadata.Formats.Email](./groupdocs.metadata.formats.email) | The namespace contains classes representing saved email messages and their parts. |
 | [GroupDocs.Metadata.Formats.Font](./groupdocs.metadata.formats.font) | The namespace contains classes allowing users to work with formats representing scalable computer fonts. |
 | [GroupDocs.Metadata.Formats.Image](./groupdocs.metadata.formats.image) | The namespace provides functionality allowing users to read and update metadata stored in different image formats. |
+| [GroupDocs.Metadata.Formats.Image.Dng](./groupdocs.metadata.formats.image.dng) |  |
 | [GroupDocs.Metadata.Formats.Mpeg](./groupdocs.metadata.formats.mpeg) | The namespace provides functionality allowing users to work with metadata of various MPEG standards. |
 | [GroupDocs.Metadata.Formats.Peer2Peer](./groupdocs.metadata.formats.peer2peer) | The namespace contains classes intended to work with different formats based on the peer2peer protocol. |
+| [GroupDocs.Metadata.Formats.Raw](./groupdocs.metadata.formats.raw) |  |
+| [GroupDocs.Metadata.Formats.Raw.Cr2](./groupdocs.metadata.formats.raw.cr2) |  |
+| [GroupDocs.Metadata.Formats.Raw.Tag](./groupdocs.metadata.formats.raw.tag) |  |
 | [GroupDocs.Metadata.Formats.Riff](./groupdocs.metadata.formats.riff) | The namespace provides functionality allowing users to work with metadata of various formats derived from the RIFF container. |
 | [GroupDocs.Metadata.Formats.Video](./groupdocs.metadata.formats.video) | The namespace contains classes for working with the most popular video formats. |
 | [GroupDocs.Metadata.Options](./groupdocs.metadata.options) | The namespace contains all classes representing settings that allow users to control file and metadata processing. |

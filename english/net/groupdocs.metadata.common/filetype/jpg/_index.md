@@ -3,7 +3,7 @@ title: JPG
 second_title: GroupDocs.Metadata for .NET API Reference
 description: A JPEG is a type of image format that is saved using the method of lossy compression. Learn more about this file format herehttps//wiki.fileformat.com/image/jpeg/.
 type: docs
-weight: 280
+weight: 310
 url: /net/groupdocs.metadata.common/filetype/jpg/
 ---
 ## FileType.JPG field

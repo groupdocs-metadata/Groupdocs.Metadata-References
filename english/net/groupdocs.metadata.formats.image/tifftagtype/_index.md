@@ -3,7 +3,7 @@ title: TiffTagType
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the IFD data type.
 type: docs
-weight: 2110
+weight: 2240
 url: /net/groupdocs.metadata.formats.image/tifftagtype/
 ---
 ## TiffTagType enumeration

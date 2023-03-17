@@ -3,7 +3,7 @@ title: GroupDocs.Metadata.Standards.Exif.MakerNote
 second_title: GroupDocs.Metadata for .NET API Reference
 description: The namespace contains classes intended to work with MakerNote metadata written by various camera manufacturers.
 type: docs
-weight: 210
+weight: 250
 url: /net/groupdocs.metadata.standards.exif.makernote/
 ---
 The namespace contains classes intended to work with MakerNote metadata written by various camera manufacturers.

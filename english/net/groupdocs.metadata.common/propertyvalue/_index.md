@@ -30,6 +30,7 @@ public class PropertyValue
 | [PropertyValue](propertyvalue#constructor_9)(string) | Initializes a new instance of the [`PropertyValue`](../propertyvalue) class with a string value. |
 | [PropertyValue](propertyvalue#constructor_10)(string[]) | Initializes a new instance of the [`PropertyValue`](../propertyvalue) class with a string array. |
 | [PropertyValue](propertyvalue#constructor_11)(TimeSpan) | Initializes a new instance of the [`PropertyValue`](../propertyvalue) class with a TimeSpan value. |
+| [PropertyValue](propertyvalue#constructor_12)(ushort[]) | Initializes a new instance of the [`PropertyValue`](../propertyvalue) class with an array of ushort values. |
 
 ## Properties
 

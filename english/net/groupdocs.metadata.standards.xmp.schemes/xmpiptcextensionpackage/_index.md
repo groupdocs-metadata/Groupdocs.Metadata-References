@@ -3,7 +3,7 @@ title: XmpIptcExtensionPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the IPTC Extension XMP package.
 type: docs
-weight: 3150
+weight: 4060
 url: /net/groupdocs.metadata.standards.xmp.schemes/xmpiptcextensionpackage/
 ---
 ## XmpIptcExtensionPackage class

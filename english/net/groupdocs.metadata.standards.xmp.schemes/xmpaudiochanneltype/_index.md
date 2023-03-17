@@ -3,7 +3,7 @@ title: XmpAudioChannelType
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents audio channel type.
 type: docs
-weight: 3060
+weight: 3970
 url: /net/groupdocs.metadata.standards.xmp.schemes/xmpaudiochanneltype/
 ---
 ## XmpAudioChannelType class
