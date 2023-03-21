@@ -3,7 +3,7 @@ title: HDRInfo
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the HDRInfo.
 type: docs
-weight: 750
+weight: 690
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/hdrinfo/
 ---
 ## Cr2MakerNotePackage.HDRInfo property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/hdrinfo/
 Gets the HDRInfo.
 
 ```csharp
-public long HDRInfo { get; }
+public long HDRInfo { get; set; }
 ```
 
 ### Property Value

@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/categories/
 Gets the Categories.
 
 ```csharp
-public long[] Categories { get; }
+public long[] Categories { get; set; }
 ```
 
 ### Property Value

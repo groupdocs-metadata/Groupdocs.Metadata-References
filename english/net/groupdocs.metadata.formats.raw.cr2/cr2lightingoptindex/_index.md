@@ -3,7 +3,7 @@ title: Cr2LightingOptIndex
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ids of Cr2LightingOpt tags.
 type: docs
-weight: 2620
+weight: 2610
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2lightingoptindex/
 ---
 ## Cr2LightingOptIndex enumeration
@@ -18,6 +18,7 @@ public enum Cr2LightingOptIndex
 
 | Name | Value | Description |
 | --- | --- | --- |
+| Unknown1 | `0` | Unknown tag. |
 | PeripheralIlluminationCorr | `1` | Indicates the PeripheralIlluminationCorr. |
 | AutoLightingOptimizer | `2` | Indicates the AutoLightingOptimizer. |
 | HighlightTonePriority | `3` | Indicates the HighlightTonePriority. |

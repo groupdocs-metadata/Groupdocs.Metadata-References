@@ -3,7 +3,7 @@ title: Cr2ColorBalance
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the CanonCameraSettings Offset.
 type: docs
-weight: 240
+weight: 220
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2colorbalance/
 ---
 ## Cr2MakerNotePackage.Cr2ColorBalance property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2colorbalance
 Gets the CanonCameraSettings Offset.
 
 ```csharp
-public long Cr2ColorBalance { get; }
+public long Cr2ColorBalance { get; set; }
 ```
 
 ### Property Value

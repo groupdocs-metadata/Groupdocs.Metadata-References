@@ -3,7 +3,7 @@ title: InteroperabilityIFDPointerPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents Canon MakerNotes tags.
 type: docs
-weight: 2990
+weight: 2980
 url: /net/groupdocs.metadata.formats.raw/interoperabilityifdpointerpackage/
 ---
 ## InteroperabilityIFDPointerPackage class

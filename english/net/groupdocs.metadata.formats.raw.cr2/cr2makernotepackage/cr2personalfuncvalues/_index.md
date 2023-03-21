@@ -3,7 +3,7 @@ title: Cr2PersonalFuncValues
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the CanonCameraSettings Offset.
 type: docs
-weight: 520
+weight: 480
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2personalfuncvalues/
 ---
 ## Cr2MakerNotePackage.Cr2PersonalFuncValues property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2personalfunc
 Gets the CanonCameraSettings Offset.
 
 ```csharp
-public long Cr2PersonalFuncValues { get; }
+public long Cr2PersonalFuncValues { get; set; }
 ```
 
 ### Property Value

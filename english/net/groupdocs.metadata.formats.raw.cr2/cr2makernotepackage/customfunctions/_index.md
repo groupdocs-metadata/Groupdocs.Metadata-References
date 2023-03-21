@@ -3,7 +3,7 @@ title: CustomFunctions
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the CustomFunctions.
 type: docs
-weight: 660
+weight: 600
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/customfunctions/
 ---
 ## Cr2MakerNotePackage.CustomFunctions property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/customfunctions
 Gets the CustomFunctions.
 
 ```csharp
-public long CustomFunctions { get; }
+public long CustomFunctions { get; set; }
 ```
 
 ### Property Value

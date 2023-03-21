@@ -3,7 +3,7 @@ title: InternalSerialNumber
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the InternalSerialNumber.
 type: docs
-weight: 780
+weight: 720
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/internalserialnumber/
 ---
 ## Cr2MakerNotePackage.InternalSerialNumber property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/internalserialn
 Gets the InternalSerialNumber.
 
 ```csharp
-public string InternalSerialNumber { get; }
+public string InternalSerialNumber { get; set; }
 ```
 
 ### Property Value

@@ -3,7 +3,7 @@ title: Cr2Functions1DPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the CustomFunctions1D These custom functions are used by all 1D models up to but not including the Mark III..
 type: docs
-weight: 350
+weight: 330
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2functions1dpackage/
 ---
 ## Cr2MakerNotePackage.Cr2Functions1DPackage property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2functions1dp
 Gets the CustomFunctions1D (These custom functions are used by all 1D models up to but not including the Mark III.).
 
 ```csharp
-public Cr2Functions1DPackage Cr2Functions1DPackage { get; }
+public Cr2Functions1DPackage Cr2Functions1DPackage { get; set; }
 ```
 
 ### Property Value

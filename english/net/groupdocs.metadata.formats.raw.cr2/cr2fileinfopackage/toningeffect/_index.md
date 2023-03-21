@@ -3,7 +3,7 @@ title: ToningEffect
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the ToningEffect.
 type: docs
-weight: 190
+weight: 180
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2fileinfopackage/toningeffect/
 ---
 ## Cr2FileInfoPackage.ToningEffect property

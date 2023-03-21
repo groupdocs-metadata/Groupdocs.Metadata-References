@@ -3,7 +3,7 @@ title: ExifTag
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a ExifTag property.
 type: docs
-weight: 2940
+weight: 2930
 url: /net/groupdocs.metadata.formats.raw/exiftag/
 ---
 ## ExifTag class

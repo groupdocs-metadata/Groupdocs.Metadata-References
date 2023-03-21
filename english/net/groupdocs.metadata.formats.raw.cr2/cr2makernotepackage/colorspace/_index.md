@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/colorspace/
 Gets the ColorSpace.
 
 ```csharp
-public ushort ColorSpace { get; }
+public ushort ColorSpace { get; set; }
 ```
 
 ### Property Value

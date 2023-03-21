@@ -28,7 +28,7 @@ public sealed class Cr2FileInfoPackage : RawDictionaryBasePackage
 | [BracketShotNumber](../../groupdocs.metadata.formats.raw.cr2/cr2fileinfopackage/bracketshotnumber) { get; } | Gets the BracketShotNumber. |
 | [BracketValue](../../groupdocs.metadata.formats.raw.cr2/cr2fileinfopackage/bracketvalue) { get; } | Gets the BracketValue. |
 | [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | Gets the number of metadata properties. |
-| [FileNumber](../../groupdocs.metadata.formats.raw.cr2/cr2fileinfopackage/filenumber) { get; } | Gets the FileNumber. |
+| [FileNumberOrShutterCount](../../groupdocs.metadata.formats.raw.cr2/cr2fileinfopackage/filenumberorshuttercount) { get; } | Gets the FileNumberOrShutterCount. |
 | [FilterEffect](../../groupdocs.metadata.formats.raw.cr2/cr2fileinfopackage/filtereffect) { get; } | Gets the FilterEffect. |
 | [FlashExposureLock](../../groupdocs.metadata.formats.raw.cr2/cr2fileinfopackage/flashexposurelock) { get; } | Gets the FlashExposureLock. |
 | [FocusDistanceLower](../../groupdocs.metadata.formats.raw.cr2/cr2fileinfopackage/focusdistancelower) { get; } | Gets the FocusDistanceLower. |
@@ -43,7 +43,6 @@ public sealed class Cr2FileInfoPackage : RawDictionaryBasePackage
 | [RawJpgQuality](../../groupdocs.metadata.formats.raw.cr2/cr2fileinfopackage/rawjpgquality) { get; } | Gets the RawJpgQuality. |
 | [RawJpgSize](../../groupdocs.metadata.formats.raw.cr2/cr2fileinfopackage/rawjpgsize) { get; } | Gets the RawJpgSize. |
 | [RFLensType](../../groupdocs.metadata.formats.raw.cr2/cr2fileinfopackage/rflenstype) { get; } | Gets the RFLensType. |
-| [ShutterCount](../../groupdocs.metadata.formats.raw.cr2/cr2fileinfopackage/shuttercount) { get; } | Gets the ShutterCount. |
 | [ShutterMode](../../groupdocs.metadata.formats.raw.cr2/cr2fileinfopackage/shuttermode) { get; } | Gets the ShutterMode. |
 | [Size](../../groupdocs.metadata.formats.raw.cr2/cr2fileinfopackage/size) { get; set; } | Gets the Size. |
 | [ToningEffect](../../groupdocs.metadata.formats.raw.cr2/cr2fileinfopackage/toningeffect) { get; } | Gets the ToningEffect. |

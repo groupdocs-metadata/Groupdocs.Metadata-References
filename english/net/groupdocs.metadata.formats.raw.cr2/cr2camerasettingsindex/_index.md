@@ -18,12 +18,15 @@ public enum Cr2CameraSettingsIndex
 
 | Name | Value | Description |
 | --- | --- | --- |
+| Unknown1 | `0` | Unknown tag. |
 | MacroMode | `1` | Indicates the MacroMode. |
 | SelfTimer | `2` | Indicates the SelfTimer. |
 | Quality | `3` | Indicates the Quality. |
 | CanonFlashMode | `4` | Indicates the CanonFlashMode. |
 | ContinuousDrive | `5` | Indicates the ContinuousDrive. |
+| Unknown2 | `6` | Unknown tag. |
 | FocusMode | `7` | Indicates the FocusMode. |
+| Unknown3 | `8` | Unknown tag. |
 | RecordMode | `9` | Indicates the RecordMode. |
 | CanonImageSize | `10` | Indicates the CanonImageSize. |
 | EasyMode | `11` | Indicates the EasyMode. |
@@ -36,6 +39,7 @@ public enum Cr2CameraSettingsIndex
 | FocusRange | `18` | Indicates the FocusRange. |
 | AFPoint | `19` | Indicates the AFPoint. |
 | CanonExposureMode | `20` | Indicates the CanonExposureMode. |
+| Unknown4 | `21` | Unknown tag. |
 | LensType | `22` | Indicates the LensType. |
 | MaxFocalLength | `23` | Indicates the MaxFocalLength. |
 | MinFocalLength | `24` | Indicates the MinFocalLength. |
@@ -50,11 +54,19 @@ public enum Cr2CameraSettingsIndex
 | DisplayAperture | `35` | Indicates the DisplayAperture. |
 | ZoomSourceWidth | `36` | Indicates the ZoomSourceWidth. |
 | ZoomTargetWidth | `37` | Indicates the ZoomTargetWidth. |
+| Unknown5 | `38` | Unknown tag. |
 | SpotMeteringMode | `39` | Indicates the SpotMeteringMode. |
 | PhotoEffect | `40` | Indicates the PhotoEffect. |
 | ManualFlashOutput | `41` | Indicates the ManualFlashOutput. |
-| ColorTone | `42` | Indicates the ColorTone. |
-| SRAWQuality | `46` | Indicates the SRAWQuality. |
+| Unknown6 | `42` | Unknown tag. |
+| ColorTone | `43` | Indicates the ColorTone. |
+| Unknown7 | `44` | Unknown tag. |
+| Unknown8 | `45` | Unknown tag. |
+| Unknown9 | `46` | Unknown tag. |
+| SRAWQuality | `47` | Indicates the SRAWQuality. |
+| Unknown10 | `48` | Unknown tag. |
+| Unknown11 | `49` | Unknown tag. |
+| Unknown12 | `50` | Unknown tag. |
 
 ### See Also
 

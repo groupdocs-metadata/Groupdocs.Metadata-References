@@ -3,7 +3,7 @@ title: MeasuredColor
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the MeasuredColor.
 type: docs
-weight: 810
+weight: 750
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/measuredcolor/
 ---
 ## Cr2MakerNotePackage.MeasuredColor property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/measuredcolor/
 Gets the MeasuredColor.
 
 ```csharp
-public ushort[] MeasuredColor { get; }
+public ushort[] MeasuredColor { get; set; }
 ```
 
 ### Property Value

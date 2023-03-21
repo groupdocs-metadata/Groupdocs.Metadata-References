@@ -3,7 +3,7 @@ title: SerialNumber
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the SerialNumber.
 type: docs
-weight: 900
+weight: 840
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/serialnumber/
 ---
 ## Cr2MakerNotePackage.SerialNumber property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/serialnumber/
 Gets the SerialNumber.
 
 ```csharp
-public long SerialNumber { get; }
+public long SerialNumber { get; set; }
 ```
 
 ### Property Value

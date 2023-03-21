@@ -3,7 +3,7 @@ title: Cr2ProcessingIndex
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ids of Cr2Processing tags.
 type: docs
-weight: 2810
+weight: 2800
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2processingindex/
 ---
 ## Cr2ProcessingIndex enumeration
@@ -18,6 +18,7 @@ public enum Cr2ProcessingIndex
 
 | Name | Value | Description |
 | --- | --- | --- |
+| Unknown1 | `0` | Unknown tag. |
 | ToneCurve | `1` | Indicates the ToneCurve. |
 | Sharpness | `2` | Indicates the Sharpness. |
 | SharpnessFrequency | `3` | Indicates the SharpnessFrequency. |

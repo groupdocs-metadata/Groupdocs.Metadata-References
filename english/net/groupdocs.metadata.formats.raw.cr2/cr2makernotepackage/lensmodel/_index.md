@@ -3,7 +3,7 @@ title: LensModel
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the LensModel.
 type: docs
-weight: 800
+weight: 740
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/lensmodel/
 ---
 ## Cr2MakerNotePackage.LensModel property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/lensmodel/
 Gets the LensModel.
 
 ```csharp
-public string LensModel { get; }
+public string LensModel { get; set; }
 ```
 
 ### Property Value

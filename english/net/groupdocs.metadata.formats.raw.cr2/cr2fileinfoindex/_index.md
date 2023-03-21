@@ -18,8 +18,8 @@ public enum Cr2FileInfoIndex
 
 | Name | Value | Description |
 | --- | --- | --- |
-| FileNumber | `1` | Indicates the FileNumber. |
-| ShutterCount | `2` | Indicates the ShutterCount. |
+| Unknown1 | `0` | Unknown tag. |
+| FileNumberOrShutterCount | `1` | Indicates the FileNumber or ShutterCount. |
 | BracketMode | `3` | Indicates the BracketMode. |
 | BracketValue | `4` | Indicates the BracketValue. |
 | BracketShotNumber | `5` | Indicates the BracketShotNumber. |
@@ -27,11 +27,15 @@ public enum Cr2FileInfoIndex
 | RawJpgSize | `7` | Indicates the RawJpgSize. |
 | LongExposureNoiseReduction2 | `8` | Indicates the LongExposureNoiseReduction2. |
 | WBBracketMode | `9` | Indicates the WBBracketMode. |
+| Unknown2 | `10` | Unknown tag. |
+| Unknown3 | `11` | Unknown tag. |
 | WBBracketValueAB | `12` | Indicates the WBBracketValueAB. |
 | WBBracketValueGM | `13` | Indicates the WBBracketValueGM. |
 | FilterEffect | `14` | Indicates the FilterEffect. |
 | ToningEffect | `15` | Indicates the ToningEffect. |
 | MacroMagnification | `16` | Indicates the MacroMagnification. |
+| Unknown4 | `17` | Unknown tag. |
+| Unknown5 | `18` | Unknown tag. |
 | LiveViewShooting | `19` | Indicates the LiveViewShooting. |
 | FocusDistanceUpper | `20` | Indicates the FocusDistanceUpper. |
 | FocusDistanceLower | `21` | Indicates the FocusDistanceLower. |

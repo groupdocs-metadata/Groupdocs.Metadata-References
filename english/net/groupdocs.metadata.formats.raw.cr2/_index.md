@@ -24,7 +24,6 @@ url: /net/groupdocs.metadata.formats.raw.cr2/
 | [Cr2FileInfoPackage](./cr2fileinfopackage) | Represents Canon MakerNotes tags. |
 | [Cr2FocalLengthPackage](./cr2focallengthpackage) | Represents Canon MakerNotes tags. |
 | [Cr2Functions1DPackage](./cr2functions1dpackage) | Represents Canon MakerNotes tags. |
-| [Cr2Functions2Package](./cr2functions2package) | Represents Canon MakerNotes tags. |
 | [Cr2LightingOptPackage](./cr2lightingoptpackage) | Represents Canon MakerNotes tags. |
 | [Cr2LogInfoPackage](./cr2loginfopackage) | Represents Canon MakerNotes tags. |
 | [Cr2MakerNotePackage](./cr2makernotepackage) | Represents Canon MakerNotes tags. |

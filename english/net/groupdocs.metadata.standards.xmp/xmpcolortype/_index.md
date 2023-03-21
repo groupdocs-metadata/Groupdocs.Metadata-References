@@ -3,7 +3,7 @@ title: XmpColorType
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Type of color in XmpColorantBase./xmpcolorantbase.
 type: docs
-weight: 4200
+weight: 4190
 url: /net/groupdocs.metadata.standards.xmp/xmpcolortype/
 ---
 ## XmpColorType enumeration

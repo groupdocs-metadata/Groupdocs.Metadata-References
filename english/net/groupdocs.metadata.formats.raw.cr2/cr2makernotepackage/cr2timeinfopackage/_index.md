@@ -3,7 +3,7 @@ title: Cr2TimeInfoPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the TimeInfo.
 type: docs
-weight: 610
+weight: 570
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2timeinfopackage/
 ---
 ## Cr2MakerNotePackage.Cr2TimeInfoPackage property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2timeinfopack
 Gets the TimeInfo.
 
 ```csharp
-public Cr2TimeInfoPackage Cr2TimeInfoPackage { get; }
+public Cr2TimeInfoPackage Cr2TimeInfoPackage { get; set; }
 ```
 
 ### Property Value

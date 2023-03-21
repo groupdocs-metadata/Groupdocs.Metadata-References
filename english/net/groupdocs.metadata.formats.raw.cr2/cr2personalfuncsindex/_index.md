@@ -3,7 +3,7 @@ title: Cr2PersonalFuncsIndex
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ids of Cr2PersonalFuncs tags.
 type: docs
-weight: 2790
+weight: 2780
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2personalfuncsindex/
 ---
 ## Cr2PersonalFuncsIndex enumeration
@@ -18,6 +18,7 @@ public enum Cr2PersonalFuncsIndex
 
 | Name | Value | Description |
 | --- | --- | --- |
+| Unknown1 | `0` | Unknown tag. |
 | PF0CustomFuncRegistration | `1` | Indicates the PF0CustomFuncRegistration. |
 | PF1DisableShootingModes | `2` | Indicates the PF1DisableShootingModes. |
 | PF2DisableMeteringModes | `3` | Indicates the PF2DisableMeteringModes. |

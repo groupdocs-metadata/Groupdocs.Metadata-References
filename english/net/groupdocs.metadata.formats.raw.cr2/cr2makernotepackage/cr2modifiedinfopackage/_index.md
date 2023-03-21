@@ -3,7 +3,7 @@ title: Cr2ModifiedInfoPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the MeasuredColor.
 type: docs
-weight: 430
+weight: 390
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2modifiedinfopackage/
 ---
 ## Cr2MakerNotePackage.Cr2ModifiedInfoPackage property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2modifiedinfo
 Gets the MeasuredColor.
 
 ```csharp
-public Cr2ModifiedInfoPackage Cr2ModifiedInfoPackage { get; }
+public Cr2ModifiedInfoPackage Cr2ModifiedInfoPackage { get; set; }
 ```
 
 ### Property Value

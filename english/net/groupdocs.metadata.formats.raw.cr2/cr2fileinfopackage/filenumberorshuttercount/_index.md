@@ -1,17 +1,17 @@
 ---
-title: FileNumber
+title: FileNumberOrShutterCount
 second_title: GroupDocs.Metadata for .NET API Reference
-description: Gets the FileNumber.
+description: Gets the FileNumberOrShutterCount.
 type: docs
 weight: 50
-url: /net/groupdocs.metadata.formats.raw.cr2/cr2fileinfopackage/filenumber/
+url: /net/groupdocs.metadata.formats.raw.cr2/cr2fileinfopackage/filenumberorshuttercount/
 ---
-## Cr2FileInfoPackage.FileNumber property
+## Cr2FileInfoPackage.FileNumberOrShutterCount property
 
-Gets the FileNumber.
+Gets the FileNumberOrShutterCount.
 
 ```csharp
-public int FileNumber { get; }
+public int FileNumberOrShutterCount { get; }
 ```
 
 ### Property Value

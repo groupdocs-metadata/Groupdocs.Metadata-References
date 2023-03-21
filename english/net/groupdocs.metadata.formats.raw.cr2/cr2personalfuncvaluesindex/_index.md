@@ -3,7 +3,7 @@ title: Cr2PersonalFuncValuesIndex
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ids of Cr2PersonalFuncValues tags.
 type: docs
-weight: 2770
+weight: 2760
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2personalfuncvaluesindex/
 ---
 ## Cr2PersonalFuncValuesIndex enumeration
@@ -18,6 +18,7 @@ public enum Cr2PersonalFuncValuesIndex
 
 | Name | Value | Description |
 | --- | --- | --- |
+| Unknown1 | `0` | Unknown tag. |
 | PF1Value | `1` | Indicates the PF1Value. |
 | PF2Value | `2` | Indicates the PF2Value. |
 | PF3Value | `3` | Indicates the PF3Value. |

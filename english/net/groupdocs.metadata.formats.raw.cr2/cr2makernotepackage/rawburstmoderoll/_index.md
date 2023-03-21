@@ -3,7 +3,7 @@ title: RawBurstModeRoll
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the RawBurstModeRoll.
 type: docs
-weight: 890
+weight: 830
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/rawburstmoderoll/
 ---
 ## Cr2MakerNotePackage.RawBurstModeRoll property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/rawburstmoderol
 Gets the RawBurstModeRoll.
 
 ```csharp
-public long RawBurstModeRoll { get; }
+public long RawBurstModeRoll { get; set; }
 ```
 
 ### Property Value

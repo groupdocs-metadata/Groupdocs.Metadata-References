@@ -3,7 +3,7 @@ title: IDublinCore
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines base operations allowing working with Dublin Core metadata.
 type: docs
-weight: 3650
+weight: 3640
 url: /net/groupdocs.metadata.standards.dublincore/idublincore/
 ---
 ## IDublinCore interface

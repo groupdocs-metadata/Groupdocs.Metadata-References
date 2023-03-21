@@ -3,7 +3,7 @@ title: ThumbnailImageValidArea
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the ThumbnailImageValidArea.
 type: docs
-weight: 930
+weight: 870
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/thumbnailimagevalidarea/
 ---
 ## Cr2MakerNotePackage.ThumbnailImageValidArea property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/thumbnailimagev
 Gets the ThumbnailImageValidArea.
 
 ```csharp
-public ushort[] ThumbnailImageValidArea { get; }
+public ushort[] ThumbnailImageValidArea { get; set; }
 ```
 
 ### Property Value

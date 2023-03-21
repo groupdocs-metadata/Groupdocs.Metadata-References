@@ -3,7 +3,7 @@ title: Cr2ShotInfoPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the CanonShotInfo.
 type: docs
-weight: 590
+weight: 550
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2shotinfopackage/
 ---
 ## Cr2MakerNotePackage.Cr2ShotInfoPackage property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2shotinfopack
 Gets the CanonShotInfo.
 
 ```csharp
-public Cr2ShotInfoPackage Cr2ShotInfoPackage { get; }
+public Cr2ShotInfoPackage Cr2ShotInfoPackage { get; set; }
 ```
 
 ### Property Value

@@ -3,7 +3,7 @@ title: WBBracketValueGM
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the WBBracketValueGM.
 type: docs
-weight: 220
+weight: 210
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2fileinfopackage/wbbracketvaluegm/
 ---
 ## Cr2FileInfoPackage.WBBracketValueGM property

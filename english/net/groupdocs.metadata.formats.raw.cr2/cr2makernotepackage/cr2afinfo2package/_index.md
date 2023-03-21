@@ -3,7 +3,7 @@ title: Cr2AFInfo2Package
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the AFInfo3 Newer version of the AFInfo record.
 type: docs
-weight: 150
+weight: 140
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2afinfo2package/
 ---
 ## Cr2MakerNotePackage.Cr2AFInfo2Package property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2afinfo2packa
 Gets the AFInfo3 (Newer version of the AFInfo record).
 
 ```csharp
-public Cr2AFInfo2Package Cr2AFInfo2Package { get; }
+public Cr2AFInfo2Package Cr2AFInfo2Package { get; set; }
 ```
 
 ### Property Value

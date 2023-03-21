@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/colortemperatur
 Gets the ColorTemperature.
 
 ```csharp
-public ushort ColorTemperature { get; }
+public ushort ColorTemperature { get; set; }
 ```
 
 ### Property Value

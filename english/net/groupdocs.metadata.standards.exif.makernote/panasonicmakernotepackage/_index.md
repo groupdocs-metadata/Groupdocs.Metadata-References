@@ -3,7 +3,7 @@ title: PanasonicMakerNotePackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents PANASONIC MakerNote metadata.
 type: docs
-weight: 3760
+weight: 3750
 url: /net/groupdocs.metadata.standards.exif.makernote/panasonicmakernotepackage/
 ---
 ## PanasonicMakerNotePackage class

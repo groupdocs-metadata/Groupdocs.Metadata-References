@@ -3,7 +3,7 @@ title: SerialNumberFormat
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the SerialNumberFormat.
 type: docs
-weight: 910
+weight: 850
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/serialnumberformat/
 ---
 ## Cr2MakerNotePackage.SerialNumberFormat property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/serialnumberfor
 Gets the SerialNumberFormat.
 
 ```csharp
-public long SerialNumberFormat { get; }
+public long SerialNumberFormat { get; set; }
 ```
 
 ### Property Value

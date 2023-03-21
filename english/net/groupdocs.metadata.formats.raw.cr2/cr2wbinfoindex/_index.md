@@ -3,7 +3,7 @@ title: Cr2WBInfoIndex
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ids of Cr2WBInfo tags.
 type: docs
-weight: 2920
+weight: 2910
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2wbinfoindex/
 ---
 ## Cr2WBInfoIndex enumeration
@@ -19,14 +19,23 @@ public enum Cr2WBInfoIndex
 | Name | Value | Description |
 | --- | --- | --- |
 | WB_GRBGLevelsAuto | `2` | Indicates the WB_GRBGLevelsAuto. |
+| Unknown1 | `3` | Unknown tag. |
 | WB_GRBGLevelsDaylight | `10` | Indicates the WB_GRBGLevelsDaylight. |
+| Unknown2 | `11` | Unknown tag. |
 | WB_GRBGLevelsCloudy | `18` | Indicates the WB_GRBGLevelsCloudy. |
+| Unknown3 | `19` | Unknown tag. |
 | WB_GRBGLevelsTungsten | `26` | Indicates the WB_GRBGLevelsTungsten. |
+| Unknown4 | `27` | Unknown tag. |
 | WB_GRBGLevelsFluorescent | `34` | Indicates the WB_GRBGLevelsFluorescent. |
+| Unknown5 | `35` | Unknown tag. |
 | WB_GRBGLevelsFluorHigh | `42` | Indicates the WB_GRBGLevelsFluorHigh. |
+| Unknown6 | `43` | Unknown tag. |
 | WB_GRBGLevelsFlash | `50` | Indicates the WB_GRBGLevelsFlash. |
+| Unknown7 | `51` | Unknown tag. |
 | WB_GRBGLevelsUnderwater | `58` | Indicates the WB_GRBGLevelsUnderwater. |
+| Unknown8 | `59` | Unknown tag. |
 | WB_GRBGLevelsCustom1 | `66` | Indicates the WB_GRBGLevelsCustom1. |
+| Unknown9 | `67` | Unknown tag. |
 | WB_GRBGLevelsCustom2 | `74` | Indicates the WB_GRBGLevelsCustom2. |
 
 ### See Also

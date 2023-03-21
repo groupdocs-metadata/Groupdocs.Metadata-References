@@ -3,7 +3,7 @@ title: Cr2MovieInfoPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the MovieInfo Tags written by some Canon cameras when recording video.
 type: docs
-weight: 450
+weight: 410
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2movieinfopackage/
 ---
 ## Cr2MakerNotePackage.Cr2MovieInfoPackage property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2movieinfopac
 Gets the MovieInfo (Tags written by some Canon cameras when recording video).
 
 ```csharp
-public Cr2MovieInfoPackage Cr2MovieInfoPackage { get; }
+public Cr2MovieInfoPackage Cr2MovieInfoPackage { get; set; }
 ```
 
 ### Property Value

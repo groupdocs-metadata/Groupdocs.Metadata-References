@@ -3,7 +3,7 @@ title: Cr2FileInfoPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Not used in this version. Gets the CanonFileInfo.
 type: docs
-weight: 310
+weight: 290
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2fileinfopackage/
 ---
 ## Cr2MakerNotePackage.Cr2FileInfoPackage property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2fileinfopack
 Not used in this version. Gets the CanonFileInfo.
 
 ```csharp
-public Cr2FileInfoPackage Cr2FileInfoPackage { get; }
+public Cr2FileInfoPackage Cr2FileInfoPackage { get; set; }
 ```
 
 ### Property Value

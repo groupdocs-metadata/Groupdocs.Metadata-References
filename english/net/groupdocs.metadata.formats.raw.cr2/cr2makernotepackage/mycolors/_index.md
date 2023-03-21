@@ -3,7 +3,7 @@ title: MyColors
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the MyColors.
 type: docs
-weight: 830
+weight: 770
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/mycolors/
 ---
 ## Cr2MakerNotePackage.MyColors property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/mycolors/
 Gets the MyColors.
 
 ```csharp
-public ushort[] MyColors { get; }
+public ushort[] MyColors { get; set; }
 ```
 
 ### Property Value

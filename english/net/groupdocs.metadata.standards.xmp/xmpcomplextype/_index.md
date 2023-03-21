@@ -3,7 +3,7 @@ title: XmpComplexType
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents base abstraction for XMP Complex value type.
 type: docs
-weight: 4260
+weight: 4250
 url: /net/groupdocs.metadata.standards.xmp/xmpcomplextype/
 ---
 ## XmpComplexType class

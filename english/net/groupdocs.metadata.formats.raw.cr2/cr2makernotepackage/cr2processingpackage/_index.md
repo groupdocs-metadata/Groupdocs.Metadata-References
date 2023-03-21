@@ -3,7 +3,7 @@ title: Cr2ProcessingPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the ProcessingInfo.
 type: docs
-weight: 550
+weight: 510
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2processingpackage/
 ---
 ## Cr2MakerNotePackage.Cr2ProcessingPackage property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2processingpa
 Gets the ProcessingInfo.
 
 ```csharp
-public Cr2ProcessingPackage Cr2ProcessingPackage { get; }
+public Cr2ProcessingPackage Cr2ProcessingPackage { get; set; }
 ```
 
 ### Property Value

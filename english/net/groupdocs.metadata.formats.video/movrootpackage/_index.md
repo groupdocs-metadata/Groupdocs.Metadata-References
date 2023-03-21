@@ -3,7 +3,7 @@ title: MovRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the root package allowing working with metadata in a QuickTime video.
 type: docs
-weight: 3550
+weight: 3540
 url: /net/groupdocs.metadata.formats.video/movrootpackage/
 ---
 ## MovRootPackage class

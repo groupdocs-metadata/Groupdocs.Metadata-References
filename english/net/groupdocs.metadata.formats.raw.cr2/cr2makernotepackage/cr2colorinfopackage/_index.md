@@ -3,7 +3,7 @@ title: Cr2ColorInfoPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the ColorInfo.
 type: docs
-weight: 270
+weight: 250
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2colorinfopackage/
 ---
 ## Cr2MakerNotePackage.Cr2ColorInfoPackage property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2colorinfopac
 Gets the ColorInfo.
 
 ```csharp
-public Cr2ColorInfoPackage Cr2ColorInfoPackage { get; }
+public Cr2ColorInfoPackage Cr2ColorInfoPackage { get; set; }
 ```
 
 ### Property Value

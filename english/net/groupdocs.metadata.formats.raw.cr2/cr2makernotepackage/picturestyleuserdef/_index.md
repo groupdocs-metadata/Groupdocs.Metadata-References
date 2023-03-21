@@ -3,7 +3,7 @@ title: PictureStyleUserDef
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the PictureStyleUserDef.
 type: docs
-weight: 870
+weight: 810
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/picturestyleuserdef/
 ---
 ## Cr2MakerNotePackage.PictureStyleUserDef property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/picturestyleuse
 Gets the PictureStyleUserDef.
 
 ```csharp
-public ushort[] PictureStyleUserDef { get; }
+public ushort[] PictureStyleUserDef { get; set; }
 ```
 
 ### Property Value

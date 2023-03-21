@@ -3,7 +3,7 @@ title: Cr2AFInfo3Package
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the AFInfo3.
 type: docs
-weight: 170
+weight: 160
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2afinfo3package/
 ---
 ## Cr2MakerNotePackage.Cr2AFInfo3Package property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2afinfo3packa
 Gets the AFInfo3.
 
 ```csharp
-public Cr2AFInfo2Package Cr2AFInfo3Package { get; }
+public Cr2AFInfo2Package Cr2AFInfo3Package { get; set; }
 ```
 
 ### Property Value

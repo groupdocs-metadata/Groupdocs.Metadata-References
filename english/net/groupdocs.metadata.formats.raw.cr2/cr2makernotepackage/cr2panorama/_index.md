@@ -3,7 +3,7 @@ title: Cr2Panorama
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the CanonCameraSettings Offset.
 type: docs
-weight: 480
+weight: 440
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2panorama/
 ---
 ## Cr2MakerNotePackage.Cr2Panorama property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2panorama/
 Gets the CanonCameraSettings Offset.
 
 ```csharp
-public long Cr2Panorama { get; }
+public long Cr2Panorama { get; set; }
 ```
 
 ### Property Value

@@ -18,6 +18,7 @@ public enum Cr2AFMicroAdjIndex
 
 | Name | Value | Description |
 | --- | --- | --- |
+| Unknown1 | `0` | Unknown tag. |
 | AFMicroAdjMode | `1` | Indicates the AFMicroAdjMode. |
 | AFMicroAdjValue | `2` | Indicates the AFMicroAdjValue. |
 

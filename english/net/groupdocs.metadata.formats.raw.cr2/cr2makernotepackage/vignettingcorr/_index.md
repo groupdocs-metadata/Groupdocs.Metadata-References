@@ -3,7 +3,7 @@ title: VignettingCorr
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the VignettingCorr.
 type: docs
-weight: 940
+weight: 880
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/vignettingcorr/
 ---
 ## Cr2MakerNotePackage.VignettingCorr property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/vignettingcorr/
 Gets the VignettingCorr.
 
 ```csharp
-public long VignettingCorr { get; }
+public long VignettingCorr { get; set; }
 ```
 
 ### Property Value

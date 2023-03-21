@@ -3,7 +3,7 @@ title: ImageUniqueID
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the ImageUniqueID.
 type: docs
-weight: 770
+weight: 710
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/imageuniqueid/
 ---
 ## Cr2MakerNotePackage.ImageUniqueID property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/imageuniqueid/
 Gets the ImageUniqueID.
 
 ```csharp
-public byte[] ImageUniqueID { get; }
+public byte[] ImageUniqueID { get; set; }
 ```
 
 ### Property Value
