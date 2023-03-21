@@ -13,8 +13,8 @@ url: /net/groupdocs.metadata.formats.raw/
 | Class | Description |
 | --- | --- |
 | [ExifTag](./exiftag) | Represents a ExifTag property. |
-| [GpsIfdPackage](./gpsifdpackage) | Represents Canon MakerNotes tags. |
-| [InteroperabilityIFDPointerPackage](./interoperabilityifdpointerpackage) | Represents Canon MakerNotes tags. |
+| [GpsIfdPackage](./gpsifdpackage) | Represents GPS IFD. |
+| [InteroperabilityIFDPointerPackage](./interoperabilityifdpointerpackage) | Represents Interoperability IFD. |
 | [RawDictionaryBasePackage](./rawdictionarybasepackage) | Provides an abstract base class for EXIF metadata dictionaries. |
 | [RawExifTagPackage](./rawexiftagpackage) | Represents Exif tags. |
 | [RawMakerNotePackage](./rawmakernotepackage) | Represents Raw MakerNotes tags. |
