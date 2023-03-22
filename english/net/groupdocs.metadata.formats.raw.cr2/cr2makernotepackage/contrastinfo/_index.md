@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/contrastinfo/
 Gets the Categories.
 
 ```csharp
-public ushort[] ContrastInfo { get; }
+public ushort[] ContrastInfo { get; set; }
 ```
 
 ### Property Value

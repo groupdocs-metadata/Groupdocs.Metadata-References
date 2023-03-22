@@ -3,7 +3,7 @@ title: Cr2PersonalFuncValuesPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the PersonalFunctionValues.
 type: docs
-weight: 530
+weight: 490
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2personalfuncvaluespackage/
 ---
 ## Cr2MakerNotePackage.Cr2PersonalFuncValuesPackage property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2personalfunc
 Gets the PersonalFunctionValues.
 
 ```csharp
-public Cr2PersonalFuncValuesPackage Cr2PersonalFuncValuesPackage { get; }
+public Cr2PersonalFuncValuesPackage Cr2PersonalFuncValuesPackage { get; set; }
 ```
 
 ### Property Value

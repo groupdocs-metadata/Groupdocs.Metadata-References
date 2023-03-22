@@ -3,7 +3,7 @@ title: Cr2LogInfoPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the LogInfo.
 type: docs
-weight: 410
+weight: 370
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2loginfopackage/
 ---
 ## Cr2MakerNotePackage.Cr2LogInfoPackage property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2loginfopacka
 Gets the LogInfo.
 
 ```csharp
-public Cr2LogInfoPackage Cr2LogInfoPackage { get; }
+public Cr2LogInfoPackage Cr2LogInfoPackage { get; set; }
 ```
 
 ### Property Value

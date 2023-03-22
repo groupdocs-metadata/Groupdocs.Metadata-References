@@ -3,7 +3,7 @@ title: ImageType
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the ImageType.
 type: docs
-weight: 760
+weight: 700
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/imagetype/
 ---
 ## Cr2MakerNotePackage.ImageType property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/imagetype/
 Gets the ImageType.
 
 ```csharp
-public string ImageType { get; }
+public string ImageType { get; set; }
 ```
 
 ### Property Value

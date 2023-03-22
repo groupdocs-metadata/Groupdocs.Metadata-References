@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/canonflags/
 Gets the CanonFlags.
 
 ```csharp
-public ushort CanonFlags { get; }
+public ushort CanonFlags { get; set; }
 ```
 
 ### Property Value

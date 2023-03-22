@@ -1,14 +1,14 @@
 ---
 title: GpsIfdPackage
 second_title: GroupDocs.Metadata for .NET API Reference
-description: Represents Canon MakerNotes tags.
+description: Represents GPS IFD.
 type: docs
-weight: 2970
+weight: 2960
 url: /net/groupdocs.metadata.formats.raw/gpsifdpackage/
 ---
 ## GpsIfdPackage class
 
-Represents Canon MakerNotes tags.
+Represents GPS IFD.
 
 ```csharp
 public sealed class GpsIfdPackage : RawDictionaryBasePackage

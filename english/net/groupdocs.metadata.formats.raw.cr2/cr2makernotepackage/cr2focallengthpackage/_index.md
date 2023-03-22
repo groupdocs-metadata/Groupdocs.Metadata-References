@@ -3,7 +3,7 @@ title: Cr2FocalLengthPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the CanonFocalLength.
 type: docs
-weight: 330
+weight: 310
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2focallengthpackage/
 ---
 ## Cr2MakerNotePackage.Cr2FocalLengthPackage property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2focallengthp
 Gets the CanonFocalLength.
 
 ```csharp
-public Cr2FocalLengthPackage Cr2FocalLengthPackage { get; }
+public Cr2FocalLengthPackage Cr2FocalLengthPackage { get; set; }
 ```
 
 ### Property Value

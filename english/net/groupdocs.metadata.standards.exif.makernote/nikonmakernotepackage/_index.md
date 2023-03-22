@@ -3,7 +3,7 @@ title: NikonMakerNotePackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents NIKON MakerNote metadata.
 type: docs
-weight: 3750
+weight: 3740
 url: /net/groupdocs.metadata.standards.exif.makernote/nikonmakernotepackage/
 ---
 ## NikonMakerNotePackage class

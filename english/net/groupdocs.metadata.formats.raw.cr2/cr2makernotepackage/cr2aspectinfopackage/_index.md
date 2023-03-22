@@ -3,7 +3,7 @@ title: Cr2AspectInfoPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the AspectInfo.
 type: docs
-weight: 220
+weight: 200
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2aspectinfopackage/
 ---
 ## Cr2MakerNotePackage.Cr2AspectInfoPackage property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2aspectinfopa
 Gets the AspectInfo.
 
 ```csharp
-public Cr2AspectInfoPackage Cr2AspectInfoPackage { get; }
+public Cr2AspectInfoPackage Cr2AspectInfoPackage { get; set; }
 ```
 
 ### Property Value

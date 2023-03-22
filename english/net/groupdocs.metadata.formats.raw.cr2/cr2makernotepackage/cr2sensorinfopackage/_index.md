@@ -3,7 +3,7 @@ title: Cr2SensorInfoPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the SensorInfo.
 type: docs
-weight: 570
+weight: 530
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2sensorinfopackage/
 ---
 ## Cr2MakerNotePackage.Cr2SensorInfoPackage property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2sensorinfopa
 Gets the SensorInfo.
 
 ```csharp
-public Cr2SensorInfoPackage Cr2SensorInfoPackage { get; }
+public Cr2SensorInfoPackage Cr2SensorInfoPackage { get; set; }
 ```
 
 ### Property Value

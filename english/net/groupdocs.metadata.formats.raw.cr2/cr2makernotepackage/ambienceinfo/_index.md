@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/ambienceinfo/
 Gets the LensInfo.
 
 ```csharp
-public long[] AmbienceInfo { get; }
+public long[] AmbienceInfo { get; set; }
 ```
 
 ### Property Value

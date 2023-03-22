@@ -3,7 +3,7 @@ title: IExif
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines base operations intended to work with EXIF metadata.
 type: docs
-weight: 3710
+weight: 3700
 url: /net/groupdocs.metadata.standards.exif/iexif/
 ---
 ## IExif interface

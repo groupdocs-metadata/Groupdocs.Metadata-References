@@ -3,7 +3,7 @@ title: Cr2AspectInfo
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the CanonCameraSettings Offset.
 type: docs
-weight: 210
+weight: 190
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2aspectinfo/
 ---
 ## Cr2MakerNotePackage.Cr2AspectInfo property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2aspectinfo/
 Gets the CanonCameraSettings Offset.
 
 ```csharp
-public long Cr2AspectInfo { get; }
+public long Cr2AspectInfo { get; set; }
 ```
 
 ### Property Value

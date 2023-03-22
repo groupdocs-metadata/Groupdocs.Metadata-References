@@ -3,7 +3,7 @@ title: Cr2MultiExpPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the MultiExp.
 type: docs
-weight: 470
+weight: 430
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2multiexppackage/
 ---
 ## Cr2MakerNotePackage.Cr2MultiExpPackage property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2multiexppack
 Gets the MultiExp.
 
 ```csharp
-public Cr2MultiExpPackage Cr2MultiExpPackage { get; }
+public Cr2MultiExpPackage Cr2MultiExpPackage { get; set; }
 ```
 
 ### Property Value

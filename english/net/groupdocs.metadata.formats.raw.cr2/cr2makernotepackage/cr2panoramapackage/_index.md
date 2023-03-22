@@ -3,7 +3,7 @@ title: Cr2PanoramaPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the CanonPanorama.
 type: docs
-weight: 490
+weight: 450
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2panoramapackage/
 ---
 ## Cr2MakerNotePackage.Cr2PanoramaPackage property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2panoramapack
 Gets the CanonPanorama.
 
 ```csharp
-public Cr2PanoramaPackage Cr2PanoramaPackage { get; }
+public Cr2PanoramaPackage Cr2PanoramaPackage { get; set; }
 ```
 
 ### Property Value

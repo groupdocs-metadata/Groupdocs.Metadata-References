@@ -3,7 +3,7 @@ title: WBBracketMode
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the WBBracketMode.
 type: docs
-weight: 200
+weight: 190
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2fileinfopackage/wbbracketmode/
 ---
 ## Cr2FileInfoPackage.WBBracketMode property

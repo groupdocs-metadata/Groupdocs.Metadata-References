@@ -3,7 +3,7 @@ title: PictureStylePC
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the PictureStylePC.
 type: docs
-weight: 860
+weight: 800
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/picturestylepc/
 ---
 ## Cr2MakerNotePackage.PictureStylePC property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/picturestylepc/
 Gets the PictureStylePC.
 
 ```csharp
-public ushort[] PictureStylePC { get; }
+public ushort[] PictureStylePC { get; set; }
 ```
 
 ### Property Value

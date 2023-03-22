@@ -3,7 +3,7 @@ title: Cr2AFMicroAdj
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the CanonCameraSettings Offset.
 type: docs
-weight: 190
+weight: 170
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2afmicroadj/
 ---
 ## Cr2MakerNotePackage.Cr2AFMicroAdj property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2afmicroadj/
 Gets the CanonCameraSettings Offset.
 
 ```csharp
-public long Cr2AFMicroAdj { get; }
+public long Cr2AFMicroAdj { get; set; }
 ```
 
 ### Property Value

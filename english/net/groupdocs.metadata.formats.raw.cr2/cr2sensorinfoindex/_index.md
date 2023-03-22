@@ -3,7 +3,7 @@ title: Cr2SensorInfoIndex
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ids of Cr2SensorInfo tags.
 type: docs
-weight: 2840
+weight: 2830
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2sensorinfoindex/
 ---
 ## Cr2SensorInfoIndex enumeration
@@ -18,8 +18,11 @@ public enum Cr2SensorInfoIndex
 
 | Name | Value | Description |
 | --- | --- | --- |
+| Unknown1 | `0` | Unknown tag. |
 | SensorWidth | `1` | Indicates the SensorWidth. |
 | SensorHeight | `2` | Indicates the SensorHeight. |
+| Unknown2 | `3` | Unknown tag. |
+| Unknown3 | `4` | Unknown tag. |
 | SensorLeftBorder | `5` | Indicates the SensorLeftBorder. |
 | SensorTopBorder | `6` | Indicates the SensorTopBorder. |
 | SensorRightBorder | `7` | Indicates the SensorRightBorder. |

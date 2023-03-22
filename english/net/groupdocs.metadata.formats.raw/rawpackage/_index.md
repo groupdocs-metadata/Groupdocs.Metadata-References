@@ -3,7 +3,7 @@ title: RawPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents Raw Package.
 type: docs
-weight: 3040
+weight: 3030
 url: /net/groupdocs.metadata.formats.raw/rawpackage/
 ---
 ## RawPackage class

@@ -3,7 +3,7 @@ title: Cr2CameraSettingsPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the CanonCameraSettings.
 type: docs
-weight: 230
+weight: 210
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2camerasettingspackage/
 ---
 ## Cr2MakerNotePackage.Cr2CameraSettingsPackage property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2camerasettin
 Gets the CanonCameraSettings.
 
 ```csharp
-public Cr2CameraSettingsPackage Cr2CameraSettingsPackage { get; }
+public Cr2CameraSettingsPackage Cr2CameraSettingsPackage { get; set; }
 ```
 
 ### Property Value

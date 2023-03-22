@@ -3,7 +3,7 @@ title: OwnerName
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the OwnerName.
 type: docs
-weight: 850
+weight: 790
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/ownername/
 ---
 ## Cr2MakerNotePackage.OwnerName property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/ownername/
 Gets the OwnerName.
 
 ```csharp
-public string OwnerName { get; }
+public string OwnerName { get; set; }
 ```
 
 ### Property Value

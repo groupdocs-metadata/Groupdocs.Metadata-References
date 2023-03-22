@@ -18,6 +18,7 @@ public enum Cr2AFConfigIndex
 
 | Name | Value | Description |
 | --- | --- | --- |
+| Unknown1 | `0` | Unknown tag. |
 | AFConfigTool | `1` | Indicates the AFConfigTool. |
 | AFTrackingSensitivity | `2` | Indicates the AFTrackingSensitivity. |
 | AFAccelDecelTracking | `3` | Indicates the AFAccelDecelTracking. |

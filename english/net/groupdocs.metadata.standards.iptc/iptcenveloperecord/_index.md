@@ -3,7 +3,7 @@ title: IptcEnvelopeRecord
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents an IPTC Envelope Record.
 type: docs
-weight: 3820
+weight: 3810
 url: /net/groupdocs.metadata.standards.iptc/iptcenveloperecord/
 ---
 ## IptcEnvelopeRecord class

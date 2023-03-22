@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/camerasettings/
 Gets the CanonCameraSettings Offset.
 
 ```csharp
-public long CameraSettings { get; }
+public long CameraSettings { get; set; }
 ```
 
 ### Property Value

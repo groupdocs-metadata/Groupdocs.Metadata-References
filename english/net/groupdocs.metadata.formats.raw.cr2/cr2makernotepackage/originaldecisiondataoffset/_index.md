@@ -3,7 +3,7 @@ title: OriginalDecisionDataOffset
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the OriginalDecisionDataOffset.
 type: docs
-weight: 840
+weight: 780
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/originaldecisiondataoffset/
 ---
 ## Cr2MakerNotePackage.OriginalDecisionDataOffset property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/originaldecisio
 Gets the OriginalDecisionDataOffset.
 
 ```csharp
-public long OriginalDecisionDataOffset { get; }
+public long OriginalDecisionDataOffset { get; set; }
 ```
 
 ### Property Value

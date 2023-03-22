@@ -3,7 +3,7 @@ title: SuperMacro
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the SuperMacro.
 type: docs
-weight: 920
+weight: 860
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/supermacro/
 ---
 ## Cr2MakerNotePackage.SuperMacro property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/supermacro/
 Gets the SuperMacro.
 
 ```csharp
-public ushort SuperMacro { get; }
+public ushort SuperMacro { get; set; }
 ```
 
 ### Property Value

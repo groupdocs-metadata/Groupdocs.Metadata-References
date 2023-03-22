@@ -3,7 +3,7 @@ title: PreviewImageInfo
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the PreviewImageInfo.
 type: docs
-weight: 880
+weight: 820
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/previewimageinfo/
 ---
 ## Cr2MakerNotePackage.PreviewImageInfo property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/previewimageinf
 Gets the PreviewImageInfo.
 
 ```csharp
-public long PreviewImageInfo { get; }
+public long PreviewImageInfo { get; set; }
 ```
 
 ### Property Value

@@ -3,7 +3,7 @@ title: LensInfo
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the LensInfo.
 type: docs
-weight: 790
+weight: 730
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/lensinfo/
 ---
 ## Cr2MakerNotePackage.LensInfo property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/lensinfo/
 Gets the LensInfo.
 
 ```csharp
-public byte[] LensInfo { get; }
+public byte[] LensInfo { get; set; }
 ```
 
 ### Property Value

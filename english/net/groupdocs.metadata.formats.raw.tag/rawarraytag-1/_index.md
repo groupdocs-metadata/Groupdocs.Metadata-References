@@ -3,7 +3,7 @@ title: RawArrayTagT
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents an arraybased TIFF tag.
 type: docs
-weight: 3070
+weight: 3060
 url: /net/groupdocs.metadata.formats.raw.tag/rawarraytag-1/
 ---
 ## RawArrayTag&lt;T&gt; class

@@ -3,7 +3,7 @@ title: WBBracketValueAB
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the WBBracketValueAB.
 type: docs
-weight: 210
+weight: 200
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2fileinfopackage/wbbracketvalueab/
 ---
 ## Cr2FileInfoPackage.WBBracketValueAB property

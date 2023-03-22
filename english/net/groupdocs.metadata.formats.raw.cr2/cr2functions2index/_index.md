@@ -18,6 +18,7 @@ public enum Cr2Functions2Index
 
 | Name | Value | Description |
 | --- | --- | --- |
+| Unknown1 | `0` | Unknown tag. |
 | ExposureLevelIncrements | `257` | Indicates the ExposureLevelIncrements. |
 | ISOSpeedIncrements | `258` | Indicates the ISOSpeedIncrements. |
 | ISOSpeedRange | `259` | Indicates the ISOSpeedRange. |
@@ -38,6 +39,7 @@ public enum Cr2Functions2Index
 | SameExposureForNewAperture | `274` | Indicates the SameExposureForNewAperture. |
 | ExposureCompAutoCancel | `275` | Indicates the ExposureCompAutoCancel. |
 | AELockMeterModeAfterFocus | `276` | Indicates the AELockMeterModeAfterFocus. |
+| Unknown2 | `277` | Unknown tag. |
 | LongExposureNoiseReduction | `513` | Indicates the LongExposureNoiseReduction. |
 | HighISONoiseReduction | `514` | Indicates the HighISONoiseReduction. |
 | HighlightTonePriority | `515` | Indicates the HighlightTonePriority. |
@@ -51,6 +53,7 @@ public enum Cr2Functions2Index
 | ViewfinderWarnings | `1034` | Indicates the ViewfinderWarnings. |
 | LVShootingAreaDisplay | `1035` | Indicates the LVShootingAreaDisplay. |
 | LVShootingAreaDisplay2 | `1036` | Indicates the LVShootingAreaDisplay2. |
+| Unknown3 | `1280` | Unknown tag. |
 | USMLensElectronicMF | `1281` | Indicates the USMLensElectronicMF. |
 | AIServoTrackingSensitivity | `1282` | Indicates the AIServoTrackingSensitivity. |
 | AIServoImagePriority | `1283` | Indicates the AIServoImagePriority. |

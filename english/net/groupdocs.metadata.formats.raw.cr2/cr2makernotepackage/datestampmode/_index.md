@@ -3,7 +3,7 @@ title: DateStampMode
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the DateStampMode.
 type: docs
-weight: 680
+weight: 620
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/datestampmode/
 ---
 ## Cr2MakerNotePackage.DateStampMode property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/datestampmode/
 Gets the DateStampMode.
 
 ```csharp
-public ushort DateStampMode { get; }
+public ushort DateStampMode { get; set; }
 ```
 
 ### Property Value

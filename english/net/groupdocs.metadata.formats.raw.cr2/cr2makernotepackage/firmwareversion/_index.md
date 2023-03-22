@@ -3,7 +3,7 @@ title: FirmwareVersion
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the FirmwareVersion.
 type: docs
-weight: 740
+weight: 680
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/firmwareversion/
 ---
 ## Cr2MakerNotePackage.FirmwareVersion property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/firmwareversion
 Gets the FirmwareVersion.
 
 ```csharp
-public string FirmwareVersion { get; }
+public string FirmwareVersion { get; set; }
 ```
 
 ### Property Value

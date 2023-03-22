@@ -3,7 +3,7 @@ title: Cr2CropInfoPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the CropInfo.
 type: docs
-weight: 290
+weight: 270
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2cropinfopackage/
 ---
 ## Cr2MakerNotePackage.Cr2CropInfoPackage property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2cropinfopack
 Gets the CropInfo.
 
 ```csharp
-public Cr2CropInfoPackage Cr2CropInfoPackage { get; }
+public Cr2CropInfoPackage Cr2CropInfoPackage { get; set; }
 ```
 
 ### Property Value

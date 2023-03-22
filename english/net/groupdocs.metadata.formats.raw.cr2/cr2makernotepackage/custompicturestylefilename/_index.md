@@ -3,7 +3,7 @@ title: CustomPictureStyleFileName
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the CustomPictureStyleFileName.
 type: docs
-weight: 670
+weight: 610
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/custompicturestylefilename/
 ---
 ## Cr2MakerNotePackage.CustomPictureStyleFileName property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/custompicturest
 Gets the CustomPictureStyleFileName.
 
 ```csharp
-public string CustomPictureStyleFileName { get; }
+public string CustomPictureStyleFileName { get; set; }
 ```
 
 ### Property Value

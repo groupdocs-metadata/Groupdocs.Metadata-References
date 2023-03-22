@@ -3,7 +3,7 @@ title: Cr2ColorBalancePackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the ColorBalance These tags are used by the 10D and 300D..
 type: docs
-weight: 250
+weight: 230
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2colorbalancepackage/
 ---
 ## Cr2MakerNotePackage.Cr2ColorBalancePackage property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2colorbalance
 Gets the ColorBalance (These tags are used by the 10D and 300D.).
 
 ```csharp
-public Cr2ColorBalancePackage Cr2ColorBalancePackage { get; }
+public Cr2ColorBalancePackage Cr2ColorBalancePackage { get; set; }
 ```
 
 ### Property Value

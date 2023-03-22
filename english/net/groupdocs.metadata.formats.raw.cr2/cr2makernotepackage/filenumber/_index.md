@@ -3,7 +3,7 @@ title: FileNumber
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the FileNumber.
 type: docs
-weight: 730
+weight: 670
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/filenumber/
 ---
 ## Cr2MakerNotePackage.FileNumber property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/filenumber/
 Gets the FileNumber.
 
 ```csharp
-public long FileNumber { get; }
+public long FileNumber { get; set; }
 ```
 
 ### Property Value

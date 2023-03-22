@@ -3,7 +3,7 @@ title: Cr2LightingOptPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the LightingOpt This information is new in images from the EOS 7D..
 type: docs
-weight: 390
+weight: 350
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2lightingoptpackage/
 ---
 ## Cr2MakerNotePackage.Cr2LightingOptPackage property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2lightingoptp
 Gets the LightingOpt (This information is new in images from the EOS 7D.).
 
 ```csharp
-public Cr2LightingOptPackage Cr2LightingOptPackage { get; }
+public Cr2LightingOptPackage Cr2LightingOptPackage { get; set; }
 ```
 
 ### Property Value

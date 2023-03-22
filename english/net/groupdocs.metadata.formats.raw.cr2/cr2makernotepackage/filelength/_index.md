@@ -3,7 +3,7 @@ title: FileLength
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the FileLength.
 type: docs
-weight: 720
+weight: 660
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/filelength/
 ---
 ## Cr2MakerNotePackage.FileLength property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/filelength/
 Gets the FileLength.
 
 ```csharp
-public long FileLength { get; }
+public long FileLength { get; set; }
 ```
 
 ### Property Value

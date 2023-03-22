@@ -3,7 +3,7 @@ title: FaceDetect1
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the FaceDetect1.
 type: docs
-weight: 690
+weight: 630
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/facedetect1/
 ---
 ## Cr2MakerNotePackage.FaceDetect1 property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/facedetect1/
 Gets the FaceDetect1.
 
 ```csharp
-public long FaceDetect1 { get; }
+public long FaceDetect1 { get; set; }
 ```
 
 ### Property Value

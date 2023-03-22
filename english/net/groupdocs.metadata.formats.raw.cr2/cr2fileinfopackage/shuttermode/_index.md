@@ -3,7 +3,7 @@ title: ShutterMode
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the ShutterMode.
 type: docs
-weight: 170
+weight: 160
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2fileinfopackage/shuttermode/
 ---
 ## Cr2FileInfoPackage.ShutterMode property

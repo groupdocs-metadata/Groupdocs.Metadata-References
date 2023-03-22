@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2afconfigpack
 Gets the AFConfig.
 
 ```csharp
-public Cr2AFConfigPackage Cr2AFConfigPackage { get; }
+public Cr2AFConfigPackage Cr2AFConfigPackage { get; set; }
 ```
 
 ### Property Value

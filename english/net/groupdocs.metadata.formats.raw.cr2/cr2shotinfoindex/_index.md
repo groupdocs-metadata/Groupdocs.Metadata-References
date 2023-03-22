@@ -3,7 +3,7 @@ title: Cr2ShotInfoIndex
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ids of Cr2ShotInfo tags.
 type: docs
-weight: 2860
+weight: 2850
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2shotinfoindex/
 ---
 ## Cr2ShotInfoIndex enumeration
@@ -18,6 +18,7 @@ public enum Cr2ShotInfoIndex
 
 | Name | Value | Description |
 | --- | --- | --- |
+| Unknown1 | `0` | Unknown tag. |
 | AutoISO | `1` | Indicates the AutoISO. |
 | BaseISO | `2` | Indicates the BaseISO. |
 | MeasuredEV | `3` | Indicates the MeasuredEV. |
@@ -28,6 +29,7 @@ public enum Cr2ShotInfoIndex
 | SlowShutter | `8` | Indicates the SlowShutter. |
 | SequenceNumber | `9` | Indicates the SequenceNumber. |
 | OpticalZoomCode | `10` | Indicates the OpticalZoomCode. |
+| Unknown2 | `11` | Unknown tag. |
 | CameraTemperature | `12` | Indicates the CameraTemperature. |
 | FlashGuideNumber | `13` | Indicates the FlashGuideNumber. |
 | AFPointsInFocus | `14` | Indicates the AFPointsInFocus. |
@@ -41,10 +43,14 @@ public enum Cr2ShotInfoIndex
 | ExposureTime | `22` | Indicates the ExposureTime. |
 | MeasuredEV2 | `23` | Indicates the MeasuredEV2. |
 | BulbDuration | `24` | Indicates the BulbDuration. |
+| Unknown3 | `25` | Unknown tag. |
 | CameraType | `26` | Indicates the CameraType. |
 | AutoRotate | `27` | Indicates the AutoRotate. |
 | NDFilter | `28` | Indicates the NDFilter. |
 | SelfTimer2 | `29` | Indicates the SelfTimer2. |
+| Unknown4 | `30` | Unknown tag. |
+| Unknown5 | `31` | Unknown tag. |
+| Unknown6 | `32` | Unknown tag. |
 | FlashOutput | `33` | Indicates the FlashOutput. |
 
 ### See Also

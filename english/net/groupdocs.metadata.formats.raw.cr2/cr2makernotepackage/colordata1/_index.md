@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/colordata1/
 Gets the ColorData1.
 
 ```csharp
-public long ColorData1 { get; }
+public long ColorData1 { get; set; }
 ```
 
 ### Property Value

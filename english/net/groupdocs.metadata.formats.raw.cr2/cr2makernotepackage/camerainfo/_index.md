@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/camerainfo/
 Gets the CameraInfo.
 
 ```csharp
-public long CameraInfo { get; }
+public long CameraInfo { get; set; }
 ```
 
 ### Property Value

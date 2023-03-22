@@ -3,7 +3,7 @@ title: Size
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the Size.
 type: docs
-weight: 180
+weight: 170
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2fileinfopackage/size/
 ---
 ## Cr2FileInfoPackage.Size property

@@ -18,6 +18,7 @@ public enum Cr2ColorInfoIndex
 
 | Name | Value | Description |
 | --- | --- | --- |
+| Unknown1 | `0` | Unknown tag. |
 | Saturation | `1` | Indicates the Saturation. |
 | ColorTone | `2` | Indicates the ColorTone. |
 | ColorSpace | `3` | Indicates the ColorSpace. |

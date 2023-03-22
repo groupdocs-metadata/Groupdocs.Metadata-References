@@ -3,7 +3,7 @@ title: VRDOffset
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the VRDOffset.
 type: docs
-weight: 950
+weight: 890
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/vrdoffset/
 ---
 ## Cr2MakerNotePackage.VRDOffset property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/vrdoffset/
 Gets the VRDOffset.
 
 ```csharp
-public long VRDOffset { get; }
+public long VRDOffset { get; set; }
 ```
 
 ### Property Value

@@ -3,7 +3,7 @@ title: Cr2MultiExpIndex
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ids of Cr2MultiExp tags.
 type: docs
-weight: 2720
+weight: 2710
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2multiexpindex/
 ---
 ## Cr2MultiExpIndex enumeration
@@ -18,9 +18,11 @@ public enum Cr2MultiExpIndex
 
 | Name | Value | Description |
 | --- | --- | --- |
+| Unknown1 | `0` | Unknown tag. |
 | MultiExposure | `1` | Indicates the MultiExposure. |
 | MultiExposureControl | `2` | Indicates the MultiExposureControl. |
 | MultiExposureShots | `3` | Indicates the MultiExposureShots. |
+| Unknown2 | `5` | Unknown tag. |
 
 ### See Also
 

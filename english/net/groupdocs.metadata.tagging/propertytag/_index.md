@@ -3,7 +3,7 @@ title: PropertyTag
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a tag used to mark metadata properties.
 type: docs
-weight: 4610
+weight: 4600
 url: /net/groupdocs.metadata.tagging/propertytag/
 ---
 ## PropertyTag class

@@ -3,7 +3,7 @@ title: Cr2Package
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents native CR2 metadata.
 type: docs
-weight: 2740
+weight: 2730
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2package/
 ---
 ## Cr2Package class

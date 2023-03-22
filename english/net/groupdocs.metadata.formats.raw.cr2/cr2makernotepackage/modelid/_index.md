@@ -3,7 +3,7 @@ title: ModelID
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the ModelID.
 type: docs
-weight: 820
+weight: 760
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/modelid/
 ---
 ## Cr2MakerNotePackage.ModelID property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/modelid/
 Gets the ModelID.
 
 ```csharp
-public long ModelID { get; }
+public long ModelID { get; set; }
 ```
 
 ### Property Value

@@ -3,7 +3,7 @@ title: Cr2AFMicroAdjPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the AFMicroAdj.
 type: docs
-weight: 200
+weight: 180
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2afmicroadjpackage/
 ---
 ## Cr2MakerNotePackage.Cr2AFMicroAdjPackage property
@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2afmicroadjpa
 Gets the AFMicroAdj.
 
 ```csharp
-public Cr2AFMicroAdjPackage Cr2AFMicroAdjPackage { get; }
+public Cr2AFMicroAdjPackage Cr2AFMicroAdjPackage { get; set; }
 ```
 
 ### Property Value
