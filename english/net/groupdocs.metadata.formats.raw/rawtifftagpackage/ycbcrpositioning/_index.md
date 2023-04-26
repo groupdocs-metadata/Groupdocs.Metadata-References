@@ -3,7 +3,7 @@ title: YCbCrPositioning
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the YCbCrPositioning.
 type: docs
-weight: 320
+weight: 350
 url: /net/groupdocs.metadata.formats.raw/rawtifftagpackage/ycbcrpositioning/
 ---
 ## RawTiffTagPackage.YCbCrPositioning property

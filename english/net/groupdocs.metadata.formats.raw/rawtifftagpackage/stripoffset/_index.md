@@ -3,7 +3,7 @@ title: StripOffset
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the StripOffset.
 type: docs
-weight: 270
+weight: 300
 url: /net/groupdocs.metadata.formats.raw/rawtifftagpackage/stripoffset/
 ---
 ## RawTiffTagPackage.StripOffset property

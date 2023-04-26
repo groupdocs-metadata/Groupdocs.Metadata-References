@@ -3,7 +3,7 @@ title: ReferenceBlackWhite
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the ReferenceBlackWhite.
 type: docs
-weight: 210
+weight: 240
 url: /net/groupdocs.metadata.formats.raw/rawtifftagpackage/referenceblackwhite/
 ---
 ## RawTiffTagPackage.ReferenceBlackWhite property

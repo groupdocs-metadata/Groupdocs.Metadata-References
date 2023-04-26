@@ -3,7 +3,7 @@ title: YCbCrSubSampling
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the YCbCrSubSampling.
 type: docs
-weight: 330
+weight: 360
 url: /net/groupdocs.metadata.formats.raw/rawtifftagpackage/ycbcrsubsampling/
 ---
 ## RawTiffTagPackage.YCbCrSubSampling property

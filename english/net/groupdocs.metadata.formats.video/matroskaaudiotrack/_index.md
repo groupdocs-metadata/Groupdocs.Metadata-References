@@ -3,7 +3,7 @@ title: MatroskaAudioTrack
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents audio metadata in a Matroska video.
 type: docs
-weight: 3330
+weight: 3360
 url: /net/groupdocs.metadata.formats.video/matroskaaudiotrack/
 ---
 ## MatroskaAudioTrack class

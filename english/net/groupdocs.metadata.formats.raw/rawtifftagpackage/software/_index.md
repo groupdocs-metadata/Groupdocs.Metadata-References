@@ -3,7 +3,7 @@ title: Software
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the Software.
 type: docs
-weight: 250
+weight: 280
 url: /net/groupdocs.metadata.formats.raw/rawtifftagpackage/software/
 ---
 ## RawTiffTagPackage.Software property

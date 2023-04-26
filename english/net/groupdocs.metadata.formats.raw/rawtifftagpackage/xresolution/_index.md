@@ -3,7 +3,7 @@ title: XResolution
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the XResolution.
 type: docs
-weight: 300
+weight: 330
 url: /net/groupdocs.metadata.formats.raw/rawtifftagpackage/xresolution/
 ---
 ## RawTiffTagPackage.XResolution property

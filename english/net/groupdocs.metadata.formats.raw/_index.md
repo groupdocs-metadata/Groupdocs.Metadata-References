@@ -17,6 +17,9 @@ url: /net/groupdocs.metadata.formats.raw/
 | [InteroperabilityIFDPointerPackage](./interoperabilityifdpointerpackage) | Represents Interoperability IFD. |
 | [RawDictionaryBasePackage](./rawdictionarybasepackage) | Provides an abstract base class for EXIF metadata dictionaries. |
 | [RawExifTagPackage](./rawexiftagpackage) | Represents Exif tags. |
+| [RawIFD1Package](./rawifd1package) | Represents IFD1 tags. |
+| [RawIFD2Package](./rawifd2package) | Represents IFD1 tags. |
+| [RawIFD3Package](./rawifd3package) | Represents IFD1 tags. |
 | [RawMakerNotePackage](./rawmakernotepackage) | Represents Raw MakerNotes tags. |
 | [RawPackage](./rawpackage) | Represents Raw Package. |
 | [RawTiffTagPackage](./rawtifftagpackage) | Represents Tiff tags. |

@@ -3,7 +3,7 @@ title: StripByteCounts
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the strip byte counts.
 type: docs
-weight: 260
+weight: 290
 url: /net/groupdocs.metadata.formats.raw/rawtifftagpackage/stripbytecounts/
 ---
 ## RawTiffTagPackage.StripByteCounts property

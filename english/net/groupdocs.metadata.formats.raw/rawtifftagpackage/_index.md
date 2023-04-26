@@ -3,7 +3,7 @@ title: RawTiffTagPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents Tiff tags.
 type: docs
-weight: 3050
+weight: 3080
 url: /net/groupdocs.metadata.formats.raw/rawtifftagpackage/
 ---
 ## RawTiffTagPackage class
@@ -43,6 +43,9 @@ public sealed class RawTiffTagPackage : RawDictionaryBasePackage
 | [PrimaryChromaticities](../../groupdocs.metadata.formats.raw/rawtifftagpackage/primarychromaticities) { get; } | Gets the PrimaryChromaticities. |
 | [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | Gets a collection of descriptors that contain information about properties accessible through the GroupDocs.Metadata search engine. |
 | [RawExifTagPackage](../../groupdocs.metadata.formats.raw/rawtifftagpackage/rawexiftagpackage) { get; } | Gets the Exif tag (Exif IFD Pointer). |
+| [RawIFD1Package](../../groupdocs.metadata.formats.raw/rawtifftagpackage/rawifd1package) { get; } | Gets the IFD1. |
+| [RawIFD2Package](../../groupdocs.metadata.formats.raw/rawtifftagpackage/rawifd2package) { get; } | Gets the IFD2. |
+| [RawIFD3Package](../../groupdocs.metadata.formats.raw/rawtifftagpackage/rawifd3package) { get; } | Gets the IFD3. |
 | [ReferenceBlackWhite](../../groupdocs.metadata.formats.raw/rawtifftagpackage/referenceblackwhite) { get; } | Gets the ReferenceBlackWhite. |
 | [ResolutionUnit](../../groupdocs.metadata.formats.raw/rawtifftagpackage/resolutionunit) { get; } | Gets the Resolution Unit. |
 | [RowsPerStrip](../../groupdocs.metadata.formats.raw/rawtifftagpackage/rowsperstrip) { get; } | Gets the RowsPerStrip. |

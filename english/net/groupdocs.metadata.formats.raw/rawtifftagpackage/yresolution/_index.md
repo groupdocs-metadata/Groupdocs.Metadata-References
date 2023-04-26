@@ -3,7 +3,7 @@ title: YResolution
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the YResolution.
 type: docs
-weight: 340
+weight: 370
 url: /net/groupdocs.metadata.formats.raw/rawtifftagpackage/yresolution/
 ---
 ## RawTiffTagPackage.YResolution property

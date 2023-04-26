@@ -3,7 +3,7 @@ title: ExifGpsAltitudeRef
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a GPS altitude reference.
 type: docs
-weight: 3660
+weight: 3690
 url: /net/groupdocs.metadata.standards.exif/exifgpsaltituderef/
 ---
 ## ExifGpsAltitudeRef enumeration

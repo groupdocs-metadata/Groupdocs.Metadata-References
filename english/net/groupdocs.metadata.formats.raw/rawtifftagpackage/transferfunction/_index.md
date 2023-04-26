@@ -3,7 +3,7 @@ title: TransferFunction
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the TransferFunction.
 type: docs
-weight: 280
+weight: 310
 url: /net/groupdocs.metadata.formats.raw/rawtifftagpackage/transferfunction/
 ---
 ## RawTiffTagPackage.TransferFunction property

@@ -3,7 +3,7 @@ title: ResolutionUnit
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the Resolution Unit.
 type: docs
-weight: 220
+weight: 250
 url: /net/groupdocs.metadata.formats.raw/rawtifftagpackage/resolutionunit/
 ---
 ## RawTiffTagPackage.ResolutionUnit property

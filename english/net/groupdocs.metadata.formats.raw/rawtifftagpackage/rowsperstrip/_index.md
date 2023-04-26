@@ -3,7 +3,7 @@ title: RowsPerStrip
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the RowsPerStrip.
 type: docs
-weight: 230
+weight: 260
 url: /net/groupdocs.metadata.formats.raw/rawtifftagpackage/rowsperstrip/
 ---
 ## RawTiffTagPackage.RowsPerStrip property

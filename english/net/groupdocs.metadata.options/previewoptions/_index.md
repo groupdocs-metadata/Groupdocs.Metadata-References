@@ -3,7 +3,7 @@ title: PreviewOptions
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Provides options to sets requirements and stream delegates for preview generation.
 type: docs
-weight: 3600
+weight: 3630
 url: /net/groupdocs.metadata.options/previewoptions/
 ---
 ## PreviewOptions class
