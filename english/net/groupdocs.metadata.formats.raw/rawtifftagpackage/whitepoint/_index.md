@@ -3,7 +3,7 @@ title: WhitePoint
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the WhitePoint.
 type: docs
-weight: 290
+weight: 320
 url: /net/groupdocs.metadata.formats.raw/rawtifftagpackage/whitepoint/
 ---
 ## RawTiffTagPackage.WhitePoint property

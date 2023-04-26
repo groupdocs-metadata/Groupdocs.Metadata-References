@@ -16,7 +16,7 @@ public RawExifTagPackage RawExifTagPackage { get; }
 
 ### Property Value
 
-The cExif tag (Exif IFD Pointer).
+The Exif tag (Exif IFD Pointer).
 
 ### See Also
 

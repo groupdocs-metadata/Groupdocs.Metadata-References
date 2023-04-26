@@ -3,7 +3,7 @@ title: SamplesPerPixel
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the SamplesPerPixel.
 type: docs
-weight: 240
+weight: 270
 url: /net/groupdocs.metadata.formats.raw/rawtifftagpackage/samplesperpixel/
 ---
 ## RawTiffTagPackage.SamplesPerPixel property

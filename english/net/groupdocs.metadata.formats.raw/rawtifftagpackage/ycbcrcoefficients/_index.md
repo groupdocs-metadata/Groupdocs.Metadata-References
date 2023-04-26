@@ -3,7 +3,7 @@ title: YCbCrCoefficients
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the YCbCrCoefficients.
 type: docs
-weight: 310
+weight: 340
 url: /net/groupdocs.metadata.formats.raw/rawtifftagpackage/ycbcrcoefficients/
 ---
 ## RawTiffTagPackage.YCbCrCoefficients property
