@@ -21,6 +21,7 @@ public class ToolTagCategory : TagCategory
 | [Hardware](../../groupdocs.metadata.tagging/tooltagcategory/hardware) { get; } | Gets the tag that denotes any kind of hardware used to create a file. |
 | [HardwareManufacturer](../../groupdocs.metadata.tagging/tooltagcategory/hardwaremanufacturer) { get; } | Gets the tag that marks a hardware manufacturer. |
 | [HardwareVersion](../../groupdocs.metadata.tagging/tooltagcategory/hardwareversion) { get; } | Gets the tag that labels properties containing the version of the hardware used to create a file. |
+| [ModelId](../../groupdocs.metadata.tagging/tooltagcategory/modelid) { get; } | Gets the tag that marks a model id. |
 | [Software](../../groupdocs.metadata.tagging/tooltagcategory/software) { get; } | Gets the tag that labels any kind of software used to create a file. |
 | [SoftwareManufacturer](../../groupdocs.metadata.tagging/tooltagcategory/softwaremanufacturer) { get; } | Gets the tag that marks a software manufacturer. |
 | [SoftwareVersion](../../groupdocs.metadata.tagging/tooltagcategory/softwareversion) { get; } | Gets the tag that labels properties containing the version of the software used to create a file. |

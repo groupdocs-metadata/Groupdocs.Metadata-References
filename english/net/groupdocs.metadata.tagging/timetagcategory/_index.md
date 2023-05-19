@@ -26,6 +26,7 @@ public class TimeTagCategory : TagCategory
 | [Printed](../../groupdocs.metadata.tagging/timetagcategory/printed) { get; } | Gets the tag that denotes the date a file was printed. |
 | [Published](../../groupdocs.metadata.tagging/timetagcategory/published) { get; } | Gets the tag that indicates the date a file became available. |
 | [TotalEditingTime](../../groupdocs.metadata.tagging/timetagcategory/totaleditingtime) { get; } | Gets the tag that denotes the total editing time of a file. |
+| [ZoneCity](../../groupdocs.metadata.tagging/timetagcategory/zonecity) { get; } | Gets the tag that denotes the time zone. |
 
 ## Methods
 
