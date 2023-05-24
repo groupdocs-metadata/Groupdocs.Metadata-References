@@ -1,22 +1,22 @@
 ---
-title: Software
+title: ModelId
 second_title: GroupDocs.Metadata for .NET API Reference
-description: Gets the tag that labels any kind of software used to create a file.
+description: Gets the tag that marks a model id.
 type: docs
-weight: 50
-url: /net/groupdocs.metadata.tagging/tooltagcategory/software/
+weight: 40
+url: /net/groupdocs.metadata.tagging/tooltagcategory/modelid/
 ---
-## ToolTagCategory.Software property
+## ToolTagCategory.ModelId property
 
-Gets the tag that labels any kind of software used to create a file.
+Gets the tag that marks a model id.
 
 ```csharp
-public PropertyTag Software { get; }
+public PropertyTag ModelId { get; }
 ```
 
 ### Property Value
 
-The tag that labels any kind of software used to create a file.
+The tag that marks a model id.
 
 ### See Also
 

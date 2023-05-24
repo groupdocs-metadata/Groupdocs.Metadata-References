@@ -3,7 +3,7 @@ title: SoftwareManufacturer
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that marks a software manufacturer.
 type: docs
-weight: 50
+weight: 60
 url: /net/groupdocs.metadata.tagging/tooltagcategory/softwaremanufacturer/
 ---
 ## ToolTagCategory.SoftwareManufacturer property
