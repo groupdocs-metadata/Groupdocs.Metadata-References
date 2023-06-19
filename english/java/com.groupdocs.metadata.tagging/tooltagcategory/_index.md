@@ -23,6 +23,7 @@ Provides tags intended to mark metadata properties related to the tools (softwar
 | [getHardwareVersion()](#getHardwareVersion--) | Gets the tag that labels properties containing the version of the hardware used to create a file. |
 | [getSoftwareManufacturer()](#getSoftwareManufacturer--) | Gets the tag that marks a software manufacturer. |
 | [getHardwareManufacturer()](#getHardwareManufacturer--) | Gets the tag that marks a hardware manufacturer. |
+| [getModelId()](#getModelId--) | Gets the tag that marks a model id. |
 ### getSoftware() {#getSoftware--}
 ```
 public final PropertyTag getSoftware()
@@ -83,3 +84,13 @@ Gets the tag that marks a hardware manufacturer.
 
 **Returns:**
 [PropertyTag](../../com.groupdocs.metadata.tagging/propertytag) - The tag that marks a hardware manufacturer.
+### getModelId() {#getModelId--}
+```
+public final PropertyTag getModelId()
+```
+
+
+Gets the tag that marks a model id.
+
+**Returns:**
+[PropertyTag](../../com.groupdocs.metadata.tagging/propertytag) - The tag that marks a model id.

@@ -110,6 +110,8 @@ Represents the file type.
 | [WEBM](#WEBM) | WEBM is a video file based on the open, royalty-free WebM file format. |
 | [FLV](#FLV) | FLV (Flash Video) is a container file format which is used to deliver audio/video content over the internet by using the Adobe Flash Player or Adobe Air. |
 | [ASF](#ASF) | The Advanced Systems Format (ASF) is a digital multimedia container designed primarily for storing and transmitting media streams. |
+| [DNG](#DNG) | DNG is a digital camera image format used for the storage of raw files. |
+| [CR2](#CR2) | The .CR2 file format (Canon RAW version 2) is a digital photography RAW format created by Canon. |
 ## Methods
 
 | Method | Description |
@@ -1024,6 +1026,28 @@ The Advanced Systems Format (ASF) is a digital multimedia container designed pri
 
 
 [here]: https://wiki.fileformat.com/video/wmv/
+
+### DNG {#DNG}
+```
+public static final FileType DNG
+```
+
+
+DNG is a digital camera image format used for the storage of raw files. It has been developed by Adobe in September 2004. It was basically developed for digital photography. DNG is an extension of TIFF/EP standard format and uses metadata significantly. In order to manipulate raw data from digital cameras with the ease of flexibility and artistic control, photographers opt camera raw files. JPEG and TIFF formats store images that are processed by the camera, therefore, not much room for alteration is available in such formats. [here][].
+
+
+[here]: https://wiki.fileformat.com/image/dng/
+
+### CR2 {#CR2}
+```
+public static final FileType CR2
+```
+
+
+The .CR2 file format (Canon RAW version 2) is a digital photography RAW format created by Canon. [here][].
+
+
+[here]: https://wiki.fileformat.com/image/cr2/
 
 ### getDescription() {#getDescription--}
 ```

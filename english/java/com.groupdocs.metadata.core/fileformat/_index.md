@@ -57,6 +57,8 @@ Represents the recognized format of a loaded file.
 | [Msg](#Msg) | An MSG email message. |
 | [Torrent](#Torrent) | A torrent file that contains metadata about files and folders to be distributed. |
 | [Heif](#Heif) | A HEIF/HEIC image. |
+| [Dng](#Dng) | A dng RAW image. |
+| [Cr2](#Cr2) | A CR2 image. |
 ## Methods
 
 | Method | Description |
@@ -455,6 +457,22 @@ public static final FileFormat Heif
 
 
 A HEIF/HEIC image.
+
+### Dng {#Dng}
+```
+public static final FileFormat Dng
+```
+
+
+A dng RAW image.
+
+### Cr2 {#Cr2}
+```
+public static final FileFormat Cr2
+```
+
+
+A CR2 image.
 
 ### values() {#values--}
 ```
