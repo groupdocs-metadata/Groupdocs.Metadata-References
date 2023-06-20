@@ -25,6 +25,7 @@ Provides tags that mark metadata properties used to describe the lifecycle of a 
 | [getExpired()](#getExpired--) | Gets the tag that labels the latest date the owner intends the file data to be used. |
 | [getTotalEditingTime()](#getTotalEditingTime--) | Gets the tag that denotes the total editing time of a file. |
 | [getDuration()](#getDuration--) | Gets the tag that denotes the duration of a media file. |
+| [getZoneCity()](#getZoneCity--) | Gets the tag that denotes the time zone. |
 ### getIntellectualContentCreated() {#getIntellectualContentCreated--}
 ```
 public final PropertyTag getIntellectualContentCreated()
@@ -105,3 +106,13 @@ Gets the tag that denotes the duration of a media file.
 
 **Returns:**
 [PropertyTag](../../com.groupdocs.metadata.tagging/propertytag) - The tag that denotes the duration of a media file.
+### getZoneCity() {#getZoneCity--}
+```
+public final PropertyTag getZoneCity()
+```
+
+
+Gets the tag that denotes the time zone.
+
+**Returns:**
+[PropertyTag](../../com.groupdocs.metadata.tagging/propertytag) - The tag that denotes the time zone.

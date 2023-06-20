@@ -61,6 +61,8 @@ Specifies the type of a metadata package.
 | [Msg](#Msg) | An MSG message metadata package. |
 | [Torrent](#Torrent) | A torrent file metadata package. |
 | [Png](#Png) | A PNG image metadata package. |
+| [Dng](#Dng) | A DNG image metadata package. |
+| [Cr2](#Cr2) | A CR2 image metadata package. |
 ## Methods
 
 | Method | Description |
@@ -404,6 +406,22 @@ public static final MetadataType Png
 
 
 A PNG image metadata package.
+
+### Dng {#Dng}
+```
+public static final MetadataType Dng
+```
+
+
+A DNG image metadata package.
+
+### Cr2 {#Cr2}
+```
+public static final MetadataType Cr2
+```
+
+
+A CR2 image metadata package.
 
 ### values() {#values--}
 ```
