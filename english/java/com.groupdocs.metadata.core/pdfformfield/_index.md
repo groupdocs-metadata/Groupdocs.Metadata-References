@@ -3,7 +3,7 @@ title: PdfFormField
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a form field in a PDF document.
 type: docs
-weight: 155
+weight: 188
 url: /java/com.groupdocs.metadata.core/pdfformfield/
 ---
 **Inheritance:**

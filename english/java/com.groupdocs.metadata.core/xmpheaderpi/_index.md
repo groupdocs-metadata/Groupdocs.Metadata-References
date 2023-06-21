@@ -3,7 +3,7 @@ title: XmpHeaderPI
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents XMP header processing instruction.
 type: docs
-weight: 270
+weight: 311
 url: /java/com.groupdocs.metadata.core/xmpheaderpi/
 ---
 **Inheritance:**

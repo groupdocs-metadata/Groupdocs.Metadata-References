@@ -3,7 +3,7 @@ title: MatroskaPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a metadata container in a Matroska video.
 type: docs
-weight: 117
+weight: 150
 url: /java/com.groupdocs.metadata.core/matroskapackage/
 ---
 **Inheritance:**

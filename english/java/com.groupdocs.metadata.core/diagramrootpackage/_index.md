@@ -3,7 +3,7 @@ title: DiagramRootPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the root package intended to work with metadata in a diagram.
 type: docs
-weight: 42
+weight: 71
 url: /java/com.groupdocs.metadata.core/diagramrootpackage/
 ---
 **Inheritance:**

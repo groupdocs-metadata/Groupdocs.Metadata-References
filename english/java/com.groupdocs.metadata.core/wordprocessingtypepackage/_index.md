@@ -3,7 +3,7 @@ title: WordProcessingTypePackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a metadata package containing document-specific file format information.
 type: docs
-weight: 247
+weight: 288
 url: /java/com.groupdocs.metadata.core/wordprocessingtypepackage/
 ---
 **Inheritance:**

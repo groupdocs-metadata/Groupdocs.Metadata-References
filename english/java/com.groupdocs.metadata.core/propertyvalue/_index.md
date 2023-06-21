@@ -3,7 +3,7 @@ title: PropertyValue
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a property value.
 type: docs
-weight: 176
+weight: 209
 url: /java/com.groupdocs.metadata.core/propertyvalue/
 ---
 **Inheritance:**

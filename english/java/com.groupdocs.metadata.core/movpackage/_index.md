@@ -3,7 +3,7 @@ title: MovPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents QuickTime metadata.
 type: docs
-weight: 130
+weight: 163
 url: /java/com.groupdocs.metadata.core/movpackage/
 ---
 **Inheritance:**

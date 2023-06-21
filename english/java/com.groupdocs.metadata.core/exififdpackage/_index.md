@@ -3,7 +3,7 @@ title: ExifIfdPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the Exif Image File Directory.
 type: docs
-weight: 67
+weight: 98
 url: /java/com.groupdocs.metadata.core/exififdpackage/
 ---
 **Inheritance:**

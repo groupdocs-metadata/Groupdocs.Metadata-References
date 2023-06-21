@@ -3,7 +3,7 @@ title: ReadOnlyList
 second_title: GroupDocs.Metadata for Java API Reference
 description: Provides an abstract base class for a strongly typed read-only list.
 type: docs
-weight: 181
+weight: 222
 url: /java/com.groupdocs.metadata.core/readonlylist/
 ---
 **Inheritance:**

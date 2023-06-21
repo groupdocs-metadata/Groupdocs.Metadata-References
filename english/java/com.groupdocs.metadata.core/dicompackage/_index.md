@@ -3,7 +3,7 @@ title: DicomPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents native DICOM metadata.
 type: docs
-weight: 44
+weight: 73
 url: /java/com.groupdocs.metadata.core/dicompackage/
 ---
 **Inheritance:**

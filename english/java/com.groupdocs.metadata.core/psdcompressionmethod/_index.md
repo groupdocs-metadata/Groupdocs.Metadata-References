@@ -3,7 +3,7 @@ title: PsdCompressionMethod
 second_title: GroupDocs.Metadata for Java API Reference
 description: Defines the compression method used for image data.
 type: docs
-weight: 351
+weight: 392
 url: /java/com.groupdocs.metadata.core/psdcompressionmethod/
 ---
 **Inheritance:**

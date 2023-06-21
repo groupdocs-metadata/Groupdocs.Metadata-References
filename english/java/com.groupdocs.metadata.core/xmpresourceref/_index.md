@@ -3,7 +3,7 @@ title: XmpResourceRef
 second_title: GroupDocs.Metadata for Java API Reference
 description: 
 type: docs
-weight: 290
+weight: 331
 url: /java/com.groupdocs.metadata.core/xmpresourceref/
 ---
 **Inheritance:**

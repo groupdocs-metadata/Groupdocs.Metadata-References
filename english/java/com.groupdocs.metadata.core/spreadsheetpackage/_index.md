@@ -3,7 +3,7 @@ title: SpreadsheetPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a native metadata package in a spreadsheet.
 type: docs
-weight: 190
+weight: 231
 url: /java/com.groupdocs.metadata.core/spreadsheetpackage/
 ---
 **Inheritance:**

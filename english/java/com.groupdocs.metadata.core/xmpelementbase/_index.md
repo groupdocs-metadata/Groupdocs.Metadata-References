@@ -3,7 +3,7 @@ title: XmpElementBase
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents base XMP element that contains attributes.
 type: docs
-weight: 266
+weight: 307
 url: /java/com.groupdocs.metadata.core/xmpelementbase/
 ---
 **Inheritance:**

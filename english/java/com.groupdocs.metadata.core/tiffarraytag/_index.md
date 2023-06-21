@@ -3,7 +3,7 @@ title: TiffArrayTag
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents an array-based TIFF tag.
 type: docs
-weight: 194
+weight: 235
 url: /java/com.groupdocs.metadata.core/tiffarraytag/
 ---
 **Inheritance:**

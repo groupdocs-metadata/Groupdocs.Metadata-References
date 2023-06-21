@@ -3,7 +3,7 @@ title: DigitalSignature
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a digital signature used to sign a document.
 type: docs
-weight: 46
+weight: 75
 url: /java/com.groupdocs.metadata.core/digitalsignature/
 ---
 **Inheritance:**

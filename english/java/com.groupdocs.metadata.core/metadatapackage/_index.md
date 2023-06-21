@@ -3,7 +3,7 @@ title: MetadataPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents base abstraction for a metadata package.
 type: docs
-weight: 126
+weight: 159
 url: /java/com.groupdocs.metadata.core/metadatapackage/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: GroupDocsMetadataException
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a product-specific exception that is thrown during file processing.
 type: docs
-weight: 76
+weight: 108
 url: /java/com.groupdocs.metadata.core/groupdocsmetadataexception/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: VCardRecord
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents abstract vCard record metadata class.
 type: docs
-weight: 230
+weight: 271
 url: /java/com.groupdocs.metadata.core/vcardrecord/
 ---
 **Inheritance:**

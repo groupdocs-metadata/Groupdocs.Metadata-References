@@ -3,7 +3,7 @@ title: XmpArrayType
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents array type in XmpArray.
 type: docs
-weight: 358
+weight: 399
 url: /java/com.groupdocs.metadata.core/xmparraytype/
 ---
 **Inheritance:**

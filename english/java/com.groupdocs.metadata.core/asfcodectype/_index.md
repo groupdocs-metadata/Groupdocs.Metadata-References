@@ -3,7 +3,7 @@ title: AsfCodecType
 second_title: GroupDocs.Metadata for Java API Reference
 description: Defines ASF codec types.
 type: docs
-weight: 314
+weight: 355
 url: /java/com.groupdocs.metadata.core/asfcodectype/
 ---
 **Inheritance:**

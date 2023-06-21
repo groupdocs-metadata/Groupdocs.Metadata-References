@@ -3,7 +3,7 @@ title: ID3V2TagFrameFlags
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents flags used in a ID3v2 tag frame.
 type: docs
-weight: 89
+weight: 121
 url: /java/com.groupdocs.metadata.core/id3v2tagframeflags/
 ---
 **Inheritance:**

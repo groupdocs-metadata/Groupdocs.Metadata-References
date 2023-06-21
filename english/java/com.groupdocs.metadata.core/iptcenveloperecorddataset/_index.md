@@ -3,7 +3,7 @@ title: IptcEnvelopeRecordDataSet
 second_title: GroupDocs.Metadata for Java API Reference
 description: Defines IPTC Envelope Record dataSet numbers.
 type: docs
-weight: 103
+weight: 136
 url: /java/com.groupdocs.metadata.core/iptcenveloperecorddataset/
 ---
 **Inheritance:**

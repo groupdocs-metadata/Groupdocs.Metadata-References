@@ -3,7 +3,7 @@ title: EmailHeaderPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a metadata package containing email message headers.
 type: docs
-weight: 57
+weight: 88
 url: /java/com.groupdocs.metadata.core/emailheaderpackage/
 ---
 **Inheritance:**

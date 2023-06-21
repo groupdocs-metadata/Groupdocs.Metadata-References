@@ -3,7 +3,7 @@ title: MetadataValidationException
 second_title: GroupDocs.Metadata for Java API Reference
 description: The exception that is thrown when validation errors encountered during metadata saving.
 type: docs
-weight: 128
+weight: 161
 url: /java/com.groupdocs.metadata.core/metadatavalidationexception/
 ---
 **Inheritance:**

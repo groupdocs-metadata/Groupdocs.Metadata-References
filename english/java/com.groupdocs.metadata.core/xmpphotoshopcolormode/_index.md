@@ -3,7 +3,7 @@ title: XmpPhotoshopColorMode
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a color mode in XmpPhotoshopPackage.
 type: docs
-weight: 362
+weight: 403
 url: /java/com.groupdocs.metadata.core/xmpphotoshopcolormode/
 ---
 **Inheritance:**

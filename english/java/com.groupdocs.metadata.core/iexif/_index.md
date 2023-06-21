@@ -3,7 +3,7 @@ title: IExif
 second_title: GroupDocs.Metadata for Java API Reference
 description: Defines base operations intended to work with EXIF metadata.
 type: docs
-weight: 309
+weight: 350
 url: /java/com.groupdocs.metadata.core/iexif/
 ---```
 public interface IExif

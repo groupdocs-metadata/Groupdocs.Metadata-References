@@ -3,7 +3,7 @@ title: EmfRootPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the root package intended to work with metadata in an EMF image.
 type: docs
-weight: 60
+weight: 91
 url: /java/com.groupdocs.metadata.core/emfrootpackage/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: XmpColorantColorMode
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents color mode in XmpColorantBase.
 type: docs
-weight: 360
+weight: 401
 url: /java/com.groupdocs.metadata.core/xmpcolorantcolormode/
 ---
 **Inheritance:**

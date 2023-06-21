@@ -3,7 +3,7 @@ title: MsgPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents MSG message metadata.
 type: docs
-weight: 133
+weight: 166
 url: /java/com.groupdocs.metadata.core/msgpackage/
 ---
 **Inheritance:**

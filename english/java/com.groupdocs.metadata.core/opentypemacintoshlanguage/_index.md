@@ -3,7 +3,7 @@ title: OpenTypeMacintoshLanguage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents language enum for the OpenTypePlatform.Macintosh platform.
 type: docs
-weight: 339
+weight: 380
 url: /java/com.groupdocs.metadata.core/opentypemacintoshlanguage/
 ---
 **Inheritance:**

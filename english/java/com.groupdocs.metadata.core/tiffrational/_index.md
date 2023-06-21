@@ -3,7 +3,7 @@ title: TiffRational
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a rational number.
 type: docs
-weight: 200
+weight: 241
 url: /java/com.groupdocs.metadata.core/tiffrational/
 ---
 **Inheritance:**

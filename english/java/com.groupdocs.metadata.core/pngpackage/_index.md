@@ -3,7 +3,7 @@ title: PngPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents native PNG metadata.
 type: docs
-weight: 163
+weight: 196
 url: /java/com.groupdocs.metadata.core/pngpackage/
 ---
 **Inheritance:**

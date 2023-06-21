@@ -41,6 +41,35 @@ url: /java/com.groupdocs.metadata.core/
 | [CmsEncapsulatedContent](../com.groupdocs.metadata.core/cmsencapsulatedcontent) | Represents a signed content container, consisting of a content type identifier and the content itself. |
 | [CmsPackage](../com.groupdocs.metadata.core/cmspackage) | Represents a CMS digital signature metadata package. |
 | [CmsSigner](../com.groupdocs.metadata.core/cmssigner) | Represents CMS per-signer information. |
+| [Cr2AFConfigPackage](../com.groupdocs.metadata.core/cr2afconfigpackage) | Represents Canon MakerNotes tags. |
+| [Cr2AFInfo2Package](../com.groupdocs.metadata.core/cr2afinfo2package) | Represents Canon MakerNotes tags. |
+| [Cr2AFInfoPackage](../com.groupdocs.metadata.core/cr2afinfopackage) | Represents Canon MakerNotes tags. |
+| [Cr2AFMicroAdjPackage](../com.groupdocs.metadata.core/cr2afmicroadjpackage) | Represents Canon MakerNotes tags. |
+| [Cr2AspectInfoPackage](../com.groupdocs.metadata.core/cr2aspectinfopackage) | Represents Canon MakerNotes tags. |
+| [Cr2CameraSettingsPackage](../com.groupdocs.metadata.core/cr2camerasettingspackage) | Represents Canon MakerNotes tags. |
+| [Cr2ColorBalancePackage](../com.groupdocs.metadata.core/cr2colorbalancepackage) | Represents Canon MakerNotes tags. |
+| [Cr2ColorInfoPackage](../com.groupdocs.metadata.core/cr2colorinfopackage) | Represents Canon MakerNotes tags. |
+| [Cr2CropInfoPackage](../com.groupdocs.metadata.core/cr2cropinfopackage) | Represents Canon MakerNotes tags. |
+| [Cr2FileInfoPackage](../com.groupdocs.metadata.core/cr2fileinfopackage) | Represents Canon MakerNotes tags. |
+| [Cr2FocalLengthPackage](../com.groupdocs.metadata.core/cr2focallengthpackage) | Represents Canon MakerNotes tags. |
+| [Cr2Functions1DPackage](../com.groupdocs.metadata.core/cr2functions1dpackage) | Represents Canon MakerNotes tags. |
+| [Cr2LightingOptPackage](../com.groupdocs.metadata.core/cr2lightingoptpackage) | Represents Canon MakerNotes tags. |
+| [Cr2LogInfoPackage](../com.groupdocs.metadata.core/cr2loginfopackage) | Represents Canon MakerNotes tags. |
+| [Cr2MakerNotePackage](../com.groupdocs.metadata.core/cr2makernotepackage) | Represents Canon MakerNotes tags. |
+| [Cr2ModifiedInfoPackage](../com.groupdocs.metadata.core/cr2modifiedinfopackage) | Represents Canon MakerNotes tags. |
+| [Cr2MovieInfoPackage](../com.groupdocs.metadata.core/cr2movieinfopackage) | Represents Canon MakerNotes tags. |
+| [Cr2MultiExpPackage](../com.groupdocs.metadata.core/cr2multiexppackage) | Represents Canon MakerNotes tags. |
+| [Cr2Package](../com.groupdocs.metadata.core/cr2package) | Represents native CR2 metadata. |
+| [Cr2PanoramaPackage](../com.groupdocs.metadata.core/cr2panoramapackage) | Represents Canon MakerNotes tags. |
+| [Cr2PersonalFuncValuesPackage](../com.groupdocs.metadata.core/cr2personalfuncvaluespackage) | Represents Canon MakerNotes tags. |
+| [Cr2PersonalFuncsPackage](../com.groupdocs.metadata.core/cr2personalfuncspackage) | Represents Canon MakerNotes tags. |
+| [Cr2ProcessingPackage](../com.groupdocs.metadata.core/cr2processingpackage) | Represents Canon MakerNotes tags. |
+| [Cr2RootPackage](../com.groupdocs.metadata.core/cr2rootpackage) | Represents an entry point to all metadata packages presented in a particular file CR2. |
+| [Cr2SensorInfoPackage](../com.groupdocs.metadata.core/cr2sensorinfopackage) | Represents Canon MakerNotes tags. |
+| [Cr2ShotInfoPackage](../com.groupdocs.metadata.core/cr2shotinfopackage) | Represents Canon MakerNotes tags. |
+| [Cr2TimeInfoPackage](../com.groupdocs.metadata.core/cr2timeinfopackage) | Represents Canon MakerNotes tags. |
+| [Cr2VignettingCorr2Package](../com.groupdocs.metadata.core/cr2vignettingcorr2package) | Represents Canon MakerNotes tags. |
+| [Cr2WBInfoPackage](../com.groupdocs.metadata.core/cr2wbinfopackage) | Represents Canon MakerNotes tags. |
 | [CustomPackage](../com.groupdocs.metadata.core/custompackage) | Provides a container for metadata properties. |
 | [DiagramPackage](../com.groupdocs.metadata.core/diagrampackage) | Represents a native metadata package in a diagram format. |
 | [DiagramRootPackage](../com.groupdocs.metadata.core/diagramrootpackage) | Represents the root package intended to work with metadata in a diagram. |
@@ -50,6 +79,8 @@ url: /java/com.groupdocs.metadata.core/
 | [DigitalSignature](../com.groupdocs.metadata.core/digitalsignature) | Represents a digital signature used to sign a document. |
 | [DisposableWrapper<T>](../com.groupdocs.metadata.core/disposablewrapper) |  |
 | [DjVuRootPackage](../com.groupdocs.metadata.core/djvurootpackage) | Represents the root package intended to work with metadata in an DjVu image. |
+| [DngPackage](../com.groupdocs.metadata.core/dngpackage) | Represents native DNG metadata. |
+| [DngRootPackage](../com.groupdocs.metadata.core/dngrootpackage) | Represents the root package intended to work with metadata in a DNG image. |
 | [DocumentInfo](../com.groupdocs.metadata.core/documentinfo) | Provides common information about a loaded document. |
 | [DocumentPackage](../com.groupdocs.metadata.core/documentpackage) | Represents native metadata in an office document. |
 | [DocumentProtectedException](../com.groupdocs.metadata.core/documentprotectedexception) | The exception that is thrown when document is protected by password. |
@@ -76,6 +107,7 @@ url: /java/com.groupdocs.metadata.core/
 | [FlvRootPackage](../com.groupdocs.metadata.core/flvrootpackage) | Represents the root package allowing working with metadata in an FLV video. |
 | [GifImageTypePackage](../com.groupdocs.metadata.core/gifimagetypepackage) | Represents a metadata package containing GIF-specific file format information. |
 | [GifRootPackage](../com.groupdocs.metadata.core/gifrootpackage) | Represents the root package intended to work with metadata in a GIF image. |
+| [GpsIfdPackage](../com.groupdocs.metadata.core/gpsifdpackage) | Represents GPS IFD. |
 | [GroupDocsException](../com.groupdocs.metadata.core/groupdocsexception) | Represents base exception in GroupDocs products. |
 | [GroupDocsMetadataException](../com.groupdocs.metadata.core/groupdocsmetadataexception) | Represents a product-specific exception that is thrown during file processing. |
 | [HeifRootPackage](../com.groupdocs.metadata.core/heifrootpackage) | Represents the root package intended to work with metadata in a HEIF image. |
@@ -100,6 +132,7 @@ url: /java/com.groupdocs.metadata.core/
 | [ImageResourcePackage](../com.groupdocs.metadata.core/imageresourcepackage) | Represents a metadata package containing Photoshop Image Resources. |
 | [ImageRootPackage](../com.groupdocs.metadata.core/imagerootpackage) | Provides a base abstract class for all image root packages. |
 | [ImageTypePackage](../com.groupdocs.metadata.core/imagetypepackage) | Represents a metadata package containing image-specific file format information. |
+| [InteroperabilityIFDPointerPackage](../com.groupdocs.metadata.core/interoperabilityifdpointerpackage) | Represents Interoperability IFD. |
 | [InvalidFormatException](../com.groupdocs.metadata.core/invalidformatexception) | The exception that is thrown when a file has an invalid format. |
 | [IptcApplicationRecord](../com.groupdocs.metadata.core/iptcapplicationrecord) | Represents an IPTC Application Record. |
 | [IptcDataSet](../com.groupdocs.metadata.core/iptcdataset) | Represents an IPTC DataSet (metadata property). |
@@ -182,6 +215,14 @@ url: /java/com.groupdocs.metadata.core/
 | [PsdLayerFlags](../com.groupdocs.metadata.core/psdlayerflags) | The Photoshop layer flags. |
 | [PsdPackage](../com.groupdocs.metadata.core/psdpackage) | Represents native Photoshop metadata. |
 | [PsdRootPackage](../com.groupdocs.metadata.core/psdrootpackage) | Represents the root package allowing working with metadata in a Photoshop Document. |
+| [RawDictionaryBasePackage](../com.groupdocs.metadata.core/rawdictionarybasepackage) | Provides an abstract base class for EXIF metadata dictionaries. |
+| [RawExifTagPackage](../com.groupdocs.metadata.core/rawexiftagpackage) | Represents Exif tags. |
+| [RawIFD1Package](../com.groupdocs.metadata.core/rawifd1package) | Represents IFD1 tags. |
+| [RawIFD2Package](../com.groupdocs.metadata.core/rawifd2package) | Represents IFD1 tags. |
+| [RawIFD3Package](../com.groupdocs.metadata.core/rawifd3package) | Represents IFD1 tags. |
+| [RawMakerNotePackage](../com.groupdocs.metadata.core/rawmakernotepackage) | Represents Raw MakerNotes tags. |
+| [RawTiffTagPackage](../com.groupdocs.metadata.core/rawtifftagpackage) | Represents Tiff tags. |
+| [RawTypePackage](../com.groupdocs.metadata.core/rawtypepackage) | Represents a metadata package containing image-specific file format information. |
 | [ReadOnlyList<T>](../com.groupdocs.metadata.core/readonlylist) | Provides an abstract base class for a strongly typed read-only list. |
 | [Rectangle](../com.groupdocs.metadata.core/rectangle) | A set of four integers that represent the location and size of a rectangle. |
 | [RiffInfoPackage](../com.groupdocs.metadata.core/riffinfopackage) | Represents the metadata package containing properties extracted from the RIFF INFO chunk. |

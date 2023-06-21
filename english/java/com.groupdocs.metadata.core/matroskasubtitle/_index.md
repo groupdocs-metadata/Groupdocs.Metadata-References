@@ -3,7 +3,7 @@ title: MatroskaSubtitle
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents subtitle metadata in a Matroska video.
 type: docs
-weight: 121
+weight: 154
 url: /java/com.groupdocs.metadata.core/matroskasubtitle/
 ---
 **Inheritance:**

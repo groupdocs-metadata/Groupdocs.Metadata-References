@@ -3,7 +3,7 @@ title: XmpVersion
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a version of a document.
 type: docs
-weight: 300
+weight: 341
 url: /java/com.groupdocs.metadata.core/xmpversion/
 ---
 **Inheritance:**

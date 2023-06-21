@@ -3,7 +3,7 @@ title: VCardIdentificationRecordset
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a set of Identification vCard records.
 type: docs
-weight: 227
+weight: 268
 url: /java/com.groupdocs.metadata.core/vcardidentificationrecordset/
 ---
 **Inheritance:**

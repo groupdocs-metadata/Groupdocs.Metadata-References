@@ -3,7 +3,7 @@ title: DisposableWrapper
 second_title: GroupDocs.Metadata for Java API Reference
 description: 
 type: docs
-weight: 47
+weight: 76
 url: /java/com.groupdocs.metadata.core/disposablewrapper/
 ---
 **Inheritance:**

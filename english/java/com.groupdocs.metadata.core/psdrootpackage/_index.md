@@ -3,7 +3,7 @@ title: PsdRootPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the root package allowing working with metadata in a Photoshop Document.
 type: docs
-weight: 180
+weight: 213
 url: /java/com.groupdocs.metadata.core/psdrootpackage/
 ---
 **Inheritance:**

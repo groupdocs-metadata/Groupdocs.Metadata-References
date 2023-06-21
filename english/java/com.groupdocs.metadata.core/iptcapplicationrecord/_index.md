@@ -3,7 +3,7 @@ title: IptcApplicationRecord
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents an IPTC Application Record.
 type: docs
-weight: 100
+weight: 133
 url: /java/com.groupdocs.metadata.core/iptcapplicationrecord/
 ---
 **Inheritance:**

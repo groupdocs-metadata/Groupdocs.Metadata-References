@@ -3,7 +3,7 @@ title: ZipPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents ZIP archive metadata.
 type: docs
-weight: 303
+weight: 344
 url: /java/com.groupdocs.metadata.core/zippackage/
 ---
 **Inheritance:**

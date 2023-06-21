@@ -3,7 +3,7 @@ title: InvalidFormatException
 second_title: GroupDocs.Metadata for Java API Reference
 description: The exception that is thrown when a file has an invalid format.
 type: docs
-weight: 99
+weight: 132
 url: /java/com.groupdocs.metadata.core/invalidformatexception/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: DwgRootPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the root package allowing working with metadata in a DWG drawing.
 type: docs
-weight: 55
+weight: 86
 url: /java/com.groupdocs.metadata.core/dwgrootpackage/
 ---
 **Inheritance:**

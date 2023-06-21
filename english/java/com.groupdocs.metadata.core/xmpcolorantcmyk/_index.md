@@ -3,7 +3,7 @@ title: XmpColorantCmyk
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the CMYK Colorant.
 type: docs
-weight: 257
+weight: 298
 url: /java/com.groupdocs.metadata.core/xmpcolorantcmyk/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: MatroskaContentType
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a Matroska content type.
 type: docs
-weight: 323
+weight: 364
 url: /java/com.groupdocs.metadata.core/matroskacontenttype/
 ---
 **Inheritance:**

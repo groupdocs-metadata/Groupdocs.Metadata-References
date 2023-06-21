@@ -3,7 +3,7 @@ title: MatroskaEbmlHeader
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents EBML header metadata in a Matroska video.
 type: docs
-weight: 116
+weight: 149
 url: /java/com.groupdocs.metadata.core/matroskaebmlheader/
 ---
 **Inheritance:**

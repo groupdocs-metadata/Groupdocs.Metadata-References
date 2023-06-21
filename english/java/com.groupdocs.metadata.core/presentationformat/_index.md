@@ -3,7 +3,7 @@ title: PresentationFormat
 second_title: GroupDocs.Metadata for Java API Reference
 description: Defines various presentation subformats.
 type: docs
-weight: 349
+weight: 390
 url: /java/com.groupdocs.metadata.core/presentationformat/
 ---
 **Inheritance:**

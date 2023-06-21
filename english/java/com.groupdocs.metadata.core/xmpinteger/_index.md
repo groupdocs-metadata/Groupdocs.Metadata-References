@@ -3,7 +3,7 @@ title: XmpInteger
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents XMP Integer basic type.
 type: docs
-weight: 271
+weight: 312
 url: /java/com.groupdocs.metadata.core/xmpinteger/
 ---
 **Inheritance:**

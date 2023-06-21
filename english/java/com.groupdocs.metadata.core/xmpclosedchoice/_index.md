@@ -3,7 +3,7 @@ title: XmpClosedChoice
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents XMP Closed Choice.
 type: docs
-weight: 255
+weight: 296
 url: /java/com.groupdocs.metadata.core/xmpclosedchoice/
 ---
 **Inheritance:**

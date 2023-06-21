@@ -3,7 +3,7 @@ title: VCardCalendarRecordset
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a set of Calendar vCard records.
 type: docs
-weight: 218
+weight: 259
 url: /java/com.groupdocs.metadata.core/vcardcalendarrecordset/
 ---
 **Inheritance:**

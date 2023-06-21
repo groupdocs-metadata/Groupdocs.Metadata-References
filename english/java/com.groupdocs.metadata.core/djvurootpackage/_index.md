@@ -3,7 +3,7 @@ title: DjVuRootPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the root package intended to work with metadata in an DjVu image.
 type: docs
-weight: 48
+weight: 77
 url: /java/com.groupdocs.metadata.core/djvurootpackage/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: FileType
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the file type.
 type: docs
-weight: 69
+weight: 100
 url: /java/com.groupdocs.metadata.core/filetype/
 ---
 **Inheritance:**

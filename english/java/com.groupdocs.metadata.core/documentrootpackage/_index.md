@@ -3,7 +3,7 @@ title: DocumentRootPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a root package for document formats such as PDF WordProcessing Spreadsheet Presentation etc.
 type: docs
-weight: 52
+weight: 83
 url: /java/com.groupdocs.metadata.core/documentrootpackage/
 ---
 **Inheritance:**

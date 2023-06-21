@@ -3,7 +3,7 @@ title: VCardPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents VCF Virtual Contact File electronic business card format metadata.
 type: docs
-weight: 229
+weight: 270
 url: /java/com.groupdocs.metadata.core/vcardpackage/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: MatroskaSimpleTag
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents general information about the target in a Matroska video.
 type: docs
-weight: 120
+weight: 153
 url: /java/com.groupdocs.metadata.core/matroskasimpletag/
 ---
 **Inheritance:**

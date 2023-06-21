@@ -3,7 +3,7 @@ title: WordProcessingInspectionPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Contains information about document parts that can be considered as metadata in some cases.
 type: docs
-weight: 243
+weight: 284
 url: /java/com.groupdocs.metadata.core/wordprocessinginspectionpackage/
 ---
 **Inheritance:**

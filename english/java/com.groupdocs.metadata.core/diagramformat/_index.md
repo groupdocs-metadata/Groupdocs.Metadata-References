@@ -3,7 +3,7 @@ title: DiagramFormat
 second_title: GroupDocs.Metadata for Java API Reference
 description: Defines various diagram subformats.
 type: docs
-weight: 318
+weight: 359
 url: /java/com.groupdocs.metadata.core/diagramformat/
 ---
 **Inheritance:**

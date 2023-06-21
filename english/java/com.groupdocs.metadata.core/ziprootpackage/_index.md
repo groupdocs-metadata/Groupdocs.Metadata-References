@@ -3,7 +3,7 @@ title: ZipRootPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the root package allowing working with metadata in a ZIP archive.
 type: docs
-weight: 304
+weight: 345
 url: /java/com.groupdocs.metadata.core/ziprootpackage/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: XmpRenditionClass
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents XMP RenditionClass.
 type: docs
-weight: 288
+weight: 329
 url: /java/com.groupdocs.metadata.core/xmprenditionclass/
 ---
 **Inheritance:**

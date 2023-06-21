@@ -3,7 +3,7 @@ title: EmailPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents email message metadata.
 type: docs
-weight: 58
+weight: 89
 url: /java/com.groupdocs.metadata.core/emailpackage/
 ---
 **Inheritance:**

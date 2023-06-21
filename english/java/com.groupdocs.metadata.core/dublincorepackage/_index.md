@@ -3,7 +3,7 @@ title: DublinCorePackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a Dublin Core metadata package.
 type: docs
-weight: 54
+weight: 85
 url: /java/com.groupdocs.metadata.core/dublincorepackage/
 ---
 **Inheritance:**

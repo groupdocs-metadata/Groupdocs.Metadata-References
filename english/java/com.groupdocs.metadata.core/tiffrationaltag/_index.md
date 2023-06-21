@@ -3,7 +3,7 @@ title: TiffRationalTag
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a TIFF Rational tag.
 type: docs
-weight: 201
+weight: 242
 url: /java/com.groupdocs.metadata.core/tiffrationaltag/
 ---
 **Inheritance:**

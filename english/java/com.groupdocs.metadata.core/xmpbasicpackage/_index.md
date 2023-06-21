@@ -3,7 +3,7 @@ title: XmpBasicPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the XMP basic namespace.
 type: docs
-weight: 252
+weight: 293
 url: /java/com.groupdocs.metadata.core/xmpbasicpackage/
 ---
 **Inheritance:**

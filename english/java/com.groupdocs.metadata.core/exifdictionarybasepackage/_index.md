@@ -3,7 +3,7 @@ title: ExifDictionaryBasePackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Provides an abstract base class for EXIF metadata dictionaries.
 type: docs
-weight: 65
+weight: 96
 url: /java/com.groupdocs.metadata.core/exifdictionarybasepackage/
 ---
 **Inheritance:**

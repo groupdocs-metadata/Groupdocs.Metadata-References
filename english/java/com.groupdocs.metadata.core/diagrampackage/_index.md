@@ -3,7 +3,7 @@ title: DiagramPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a native metadata package in a diagram format.
 type: docs
-weight: 41
+weight: 70
 url: /java/com.groupdocs.metadata.core/diagrampackage/
 ---
 **Inheritance:**

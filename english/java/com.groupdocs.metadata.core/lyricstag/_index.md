@@ -3,7 +3,7 @@ title: LyricsTag
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents Lyrics3 v2.00 metadata.
 type: docs
-weight: 111
+weight: 144
 url: /java/com.groupdocs.metadata.core/lyricstag/
 ---
 **Inheritance:**

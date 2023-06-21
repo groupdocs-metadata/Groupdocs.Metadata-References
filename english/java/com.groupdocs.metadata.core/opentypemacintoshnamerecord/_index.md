@@ -3,7 +3,7 @@ title: OpenTypeMacintoshNameRecord
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the Name record table value for the OpenTypePlatform.Macintosh platform.
 type: docs
-weight: 144
+weight: 177
 url: /java/com.groupdocs.metadata.core/opentypemacintoshnamerecord/
 ---
 **Inheritance:**

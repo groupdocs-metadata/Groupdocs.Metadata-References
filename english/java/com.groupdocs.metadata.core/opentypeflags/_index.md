@@ -3,7 +3,7 @@ title: OpenTypeFlags
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents OpenType font header flags.
 type: docs
-weight: 141
+weight: 174
 url: /java/com.groupdocs.metadata.core/opentypeflags/
 ---
 **Inheritance:**

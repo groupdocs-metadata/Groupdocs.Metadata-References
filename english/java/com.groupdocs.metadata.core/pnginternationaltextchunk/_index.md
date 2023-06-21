@@ -3,7 +3,7 @@ title: PngInternationalTextChunk
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents international textual data extracted from a PNG image.
 type: docs
-weight: 162
+weight: 195
 url: /java/com.groupdocs.metadata.core/pnginternationaltextchunk/
 ---
 **Inheritance:**

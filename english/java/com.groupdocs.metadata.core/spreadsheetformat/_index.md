@@ -3,7 +3,7 @@ title: SpreadsheetFormat
 second_title: GroupDocs.Metadata for Java API Reference
 description: Defines various spreadsheet subformats.
 type: docs
-weight: 353
+weight: 394
 url: /java/com.groupdocs.metadata.core/spreadsheetformat/
 ---
 **Inheritance:**

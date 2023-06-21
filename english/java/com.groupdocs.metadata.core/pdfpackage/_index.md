@@ -3,7 +3,7 @@ title: PdfPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents native metadata in a PDF document.
 type: docs
-weight: 157
+weight: 190
 url: /java/com.groupdocs.metadata.core/pdfpackage/
 ---
 **Inheritance:**

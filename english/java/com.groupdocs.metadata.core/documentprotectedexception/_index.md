@@ -3,7 +3,7 @@ title: DocumentProtectedException
 second_title: GroupDocs.Metadata for Java API Reference
 description: The exception that is thrown when document is protected by password.
 type: docs
-weight: 51
+weight: 82
 url: /java/com.groupdocs.metadata.core/documentprotectedexception/
 ---
 **Inheritance:**

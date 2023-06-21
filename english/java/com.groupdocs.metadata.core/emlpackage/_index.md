@@ -3,7 +3,7 @@ title: EmlPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents EML message metadata.
 type: docs
-weight: 61
+weight: 92
 url: /java/com.groupdocs.metadata.core/emlpackage/
 ---
 **Inheritance:**

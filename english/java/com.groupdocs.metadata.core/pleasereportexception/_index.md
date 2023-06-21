@@ -3,7 +3,7 @@ title: PleaseReportException
 second_title: GroupDocs.Metadata for Java API Reference
 description: 
 type: docs
-weight: 160
+weight: 193
 url: /java/com.groupdocs.metadata.core/pleasereportexception/
 ---
 **Inheritance:**

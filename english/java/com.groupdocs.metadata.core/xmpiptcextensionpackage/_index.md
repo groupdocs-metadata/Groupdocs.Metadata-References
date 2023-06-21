@@ -3,7 +3,7 @@ title: XmpIptcExtensionPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the IPTC Extension XMP package.
 type: docs
-weight: 273
+weight: 314
 url: /java/com.groupdocs.metadata.core/xmpiptcextensionpackage/
 ---
 **Inheritance:**
