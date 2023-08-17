@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.common/metadatapackage/setproperties/
 Sets known metadata properties satisfying the specified predicate. The operation is recursive so it affects all nested packages as well. This method is a combination of [`AddProperties`](../addproperties) and [`UpdateProperties`](../updateproperties). If an existing property satisfies the predicate its value is updated. If there is a known property missing in the package that satisfies the predicate it is added to the package.
 
 ```csharp
-public int SetProperties(Func<MetadataProperty, bool> predicate, PropertyValue value)
+public virtual int SetProperties(Func<MetadataProperty, bool> predicate, PropertyValue value)
 ```
 
 | Parameter | Type | Description |
