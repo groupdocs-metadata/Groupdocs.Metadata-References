@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.common/metadatapackage/addproperties/
 Adds known metadata properties satisfying the specified predicate. The operation is recursive so it affects all nested packages as well.
 
 ```csharp
-public int AddProperties(Func<MetadataProperty, bool> predicate, PropertyValue value)
+public virtual int AddProperties(Func<MetadataProperty, bool> predicate, PropertyValue value)
 ```
 
 | Parameter | Type | Description |
