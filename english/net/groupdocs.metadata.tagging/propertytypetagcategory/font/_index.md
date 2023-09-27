@@ -3,7 +3,7 @@ title: Font
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that denotes a property describing font characteristics.
 type: docs
-weight: 30
+weight: 40
 url: /net/groupdocs.metadata.tagging/propertytypetagcategory/font/
 ---
 ## PropertyTypeTagCategory.Font property

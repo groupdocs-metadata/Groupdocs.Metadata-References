@@ -3,7 +3,7 @@ title: Hash
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that labels a property holding a hash of the file content.
 type: docs
-weight: 40
+weight: 50
 url: /net/groupdocs.metadata.tagging/propertytypetagcategory/hash/
 ---
 ## PropertyTypeTagCategory.Hash property

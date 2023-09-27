@@ -3,7 +3,7 @@ title: Location
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that indicates a property being a reference to a geographical location. The property can contain the name of a city full address GPS coordinates etc.
 type: docs
-weight: 70
+weight: 80
 url: /net/groupdocs.metadata.tagging/propertytypetagcategory/location/
 ---
 ## PropertyTypeTagCategory.Location property

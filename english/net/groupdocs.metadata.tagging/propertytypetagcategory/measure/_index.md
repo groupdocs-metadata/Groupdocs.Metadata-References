@@ -3,7 +3,7 @@ title: Measure
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that indicates a property being a measured characteristic of the content. It can be the file size number of pages page size etc.
 type: docs
-weight: 80
+weight: 90
 url: /net/groupdocs.metadata.tagging/propertytypetagcategory/measure/
 ---
 ## PropertyTypeTagCategory.Measure property
