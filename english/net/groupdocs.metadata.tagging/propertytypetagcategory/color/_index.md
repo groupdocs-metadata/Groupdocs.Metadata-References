@@ -3,7 +3,7 @@ title: Color
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that labels a property describing a color.
 type: docs
-weight: 10
+weight: 20
 url: /net/groupdocs.metadata.tagging/propertytypetagcategory/color/
 ---
 ## PropertyTypeTagCategory.Color property

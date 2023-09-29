@@ -3,7 +3,7 @@ title: Identifier
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that labels a property containing an identifier of the content.
 type: docs
-weight: 50
+weight: 60
 url: /net/groupdocs.metadata.tagging/propertytypetagcategory/identifier/
 ---
 ## PropertyTypeTagCategory.Identifier property

@@ -1,22 +1,22 @@
 ---
-title: DigitalSignature
+title: Bitrate
 second_title: GroupDocs.Metadata for .NET API Reference
-description: Gets the tag that labels a digital signature.
+description: Gets the tag that labels a property describing a bitrate.
 type: docs
-weight: 30
-url: /net/groupdocs.metadata.tagging/propertytypetagcategory/digitalsignature/
+weight: 10
+url: /net/groupdocs.metadata.tagging/propertytypetagcategory/bitrate/
 ---
-## PropertyTypeTagCategory.DigitalSignature property
+## PropertyTypeTagCategory.Bitrate property
 
-Gets the tag that labels a digital signature.
+Gets the tag that labels a property describing a bitrate.
 
 ```csharp
-public PropertyTag DigitalSignature { get; }
+public PropertyTag Bitrate { get; }
 ```
 
 ### Property Value
 
-The tag that labels a digital signature.
+The tag that labels a property describing a bitrate.
 
 ### See Also
 

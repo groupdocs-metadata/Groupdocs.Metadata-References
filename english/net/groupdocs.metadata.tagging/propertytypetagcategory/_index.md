@@ -18,6 +18,7 @@ public class PropertyTypeTagCategory : TagCategory
 
 | Name | Description |
 | --- | --- |
+| [Bitrate](../../groupdocs.metadata.tagging/propertytypetagcategory/bitrate) { get; } | Gets the tag that labels a property describing a bitrate. |
 | [Color](../../groupdocs.metadata.tagging/propertytypetagcategory/color) { get; } | Gets the tag that labels a property describing a color. |
 | [DigitalSignature](../../groupdocs.metadata.tagging/propertytypetagcategory/digitalsignature) { get; } | Gets the tag that labels a digital signature. |
 | [Font](../../groupdocs.metadata.tagging/propertytypetagcategory/font) { get; } | Gets the tag that denotes a property describing font characteristics. |

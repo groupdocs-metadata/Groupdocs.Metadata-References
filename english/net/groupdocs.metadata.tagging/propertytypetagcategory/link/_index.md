@@ -3,7 +3,7 @@ title: Link
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that denotes a property being a link to an external resource.
 type: docs
-weight: 60
+weight: 70
 url: /net/groupdocs.metadata.tagging/propertytypetagcategory/link/
 ---
 ## PropertyTypeTagCategory.Link property
