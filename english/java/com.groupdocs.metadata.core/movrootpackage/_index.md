@@ -3,7 +3,7 @@ title: MovRootPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the root package allowing working with metadata in a QuickTime video.
 type: docs
-weight: 131
+weight: 164
 url: /java/com.groupdocs.metadata.core/movrootpackage/
 ---
 **Inheritance:**

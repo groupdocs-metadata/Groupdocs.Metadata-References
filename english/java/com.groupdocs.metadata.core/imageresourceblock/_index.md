@@ -3,7 +3,7 @@ title: ImageResourceBlock
 second_title: GroupDocs.Metadata for Java API Reference
 description: 
 type: docs
-weight: 94
+weight: 126
 url: /java/com.groupdocs.metadata.core/imageresourceblock/
 ---
 **Inheritance:**

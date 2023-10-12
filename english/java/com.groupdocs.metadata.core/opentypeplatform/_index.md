@@ -3,7 +3,7 @@ title: OpenTypePlatform
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents OpenType platform for Name table.
 type: docs
-weight: 341
+weight: 382
 url: /java/com.groupdocs.metadata.core/opentypeplatform/
 ---
 **Inheritance:**

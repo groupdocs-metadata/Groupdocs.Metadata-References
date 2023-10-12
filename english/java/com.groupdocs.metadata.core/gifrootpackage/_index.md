@@ -3,7 +3,7 @@ title: GifRootPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the root package intended to work with metadata in a GIF image.
 type: docs
-weight: 74
+weight: 105
 url: /java/com.groupdocs.metadata.core/gifrootpackage/
 ---
 **Inheritance:**

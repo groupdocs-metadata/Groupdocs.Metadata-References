@@ -3,7 +3,7 @@ title: XmpNamespaces
 second_title: GroupDocs.Metadata for Java API Reference
 description: Contains namespaces used in XmpPackage and XmpComplexType.
 type: docs
-weight: 280
+weight: 321
 url: /java/com.groupdocs.metadata.core/xmpnamespaces/
 ---
 **Inheritance:**

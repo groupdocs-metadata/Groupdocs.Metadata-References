@@ -3,7 +3,7 @@ title: MatroskaVideoStereoMode
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents Matroska Stereo-3D video modes.
 type: docs
-weight: 329
+weight: 370
 url: /java/com.groupdocs.metadata.core/matroskavideostereomode/
 ---
 **Inheritance:**

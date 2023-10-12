@@ -3,7 +3,7 @@ title: MovAtom
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a QuickTime atom.
 type: docs
-weight: 129
+weight: 162
 url: /java/com.groupdocs.metadata.core/movatom/
 ---
 **Inheritance:**

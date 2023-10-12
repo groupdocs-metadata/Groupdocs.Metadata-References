@@ -3,7 +3,7 @@ title: ID3V2TextFrame
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a text frame in an ID3V2Tag.
 type: docs
-weight: 90
+weight: 122
 url: /java/com.groupdocs.metadata.core/id3v2textframe/
 ---
 **Inheritance:**

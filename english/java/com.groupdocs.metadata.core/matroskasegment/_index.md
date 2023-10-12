@@ -3,7 +3,7 @@ title: MatroskaSegment
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a SEGMENTINFO element containing general information about the SEGMENT in a Matroska video.
 type: docs
-weight: 119
+weight: 152
 url: /java/com.groupdocs.metadata.core/matroskasegment/
 ---
 **Inheritance:**

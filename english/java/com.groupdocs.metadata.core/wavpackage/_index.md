@@ -3,7 +3,7 @@ title: WavPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a native metadata package in a WAV audio file.
 type: docs
-weight: 237
+weight: 278
 url: /java/com.groupdocs.metadata.core/wavpackage/
 ---
 **Inheritance:**

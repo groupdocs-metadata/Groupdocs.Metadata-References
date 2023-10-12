@@ -3,7 +3,7 @@ title: VCardOrganizationalRecordset
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a set of Organizational vCard records.
 type: docs
-weight: 228
+weight: 269
 url: /java/com.groupdocs.metadata.core/vcardorganizationalrecordset/
 ---
 **Inheritance:**

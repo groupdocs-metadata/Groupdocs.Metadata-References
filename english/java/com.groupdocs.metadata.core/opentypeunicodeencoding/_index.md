@@ -3,7 +3,7 @@ title: OpenTypeUnicodeEncoding
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents encoding for OpenTypePlatform.Unicode platform.
 type: docs
-weight: 342
+weight: 383
 url: /java/com.groupdocs.metadata.core/opentypeunicodeencoding/
 ---
 **Inheritance:**

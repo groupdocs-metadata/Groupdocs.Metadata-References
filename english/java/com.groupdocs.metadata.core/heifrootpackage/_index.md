@@ -3,7 +3,7 @@ title: HeifRootPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the root package intended to work with metadata in a HEIF image.
 type: docs
-weight: 77
+weight: 109
 url: /java/com.groupdocs.metadata.core/heifrootpackage/
 ---
 **Inheritance:**

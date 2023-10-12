@@ -3,7 +3,7 @@ title: XmpTimecode
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a timecode value in a video.
 type: docs
-weight: 297
+weight: 338
 url: /java/com.groupdocs.metadata.core/xmptimecode/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: EpubRootPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the root package allowing working with metadata in an EPUB e-book.
 type: docs
-weight: 64
+weight: 95
 url: /java/com.groupdocs.metadata.core/epubrootpackage/
 ---
 **Inheritance:**

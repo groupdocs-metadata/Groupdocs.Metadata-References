@@ -3,7 +3,7 @@ title: XmpAudioSampleType
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents Audio sample type in XmpDynamicMediaPackage.
 type: docs
-weight: 250
+weight: 291
 url: /java/com.groupdocs.metadata.core/xmpaudiosampletype/
 ---
 **Inheritance:**

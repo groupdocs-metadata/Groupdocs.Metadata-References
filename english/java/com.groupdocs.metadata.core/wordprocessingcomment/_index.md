@@ -3,7 +3,7 @@ title: WordProcessingComment
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a comment in a word processing document.
 type: docs
-weight: 241
+weight: 282
 url: /java/com.groupdocs.metadata.core/wordprocessingcomment/
 ---
 **Inheritance:**

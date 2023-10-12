@@ -3,7 +3,7 @@ title: XmpPdfPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Specifies properties used with Adobe PDF documents.
 type: docs
-weight: 284
+weight: 325
 url: /java/com.groupdocs.metadata.core/xmppdfpackage/
 ---
 **Inheritance:**

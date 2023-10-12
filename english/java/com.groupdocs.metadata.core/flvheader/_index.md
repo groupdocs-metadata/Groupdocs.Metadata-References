@@ -3,7 +3,7 @@ title: FlvHeader
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a FLV video header.
 type: docs
-weight: 71
+weight: 102
 url: /java/com.groupdocs.metadata.core/flvheader/
 ---
 **Inheritance:**

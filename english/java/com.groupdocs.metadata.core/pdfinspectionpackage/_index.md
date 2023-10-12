@@ -3,7 +3,7 @@ title: PdfInspectionPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Contains information about PDF document parts that can be considered as metadata in some cases.
 type: docs
-weight: 156
+weight: 189
 url: /java/com.groupdocs.metadata.core/pdfinspectionpackage/
 ---
 **Inheritance:**

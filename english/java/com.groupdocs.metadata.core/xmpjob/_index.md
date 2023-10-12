@@ -3,7 +3,7 @@ title: XmpJob
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents Job.
 type: docs
-weight: 275
+weight: 316
 url: /java/com.groupdocs.metadata.core/xmpjob/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: ID3V2Tag
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents an ID3v2 tag.
 type: docs
-weight: 87
+weight: 119
 url: /java/com.groupdocs.metadata.core/id3v2tag/
 ---
 **Inheritance:**

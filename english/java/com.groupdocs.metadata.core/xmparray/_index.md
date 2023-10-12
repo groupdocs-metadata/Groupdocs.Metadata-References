@@ -3,7 +3,7 @@ title: XmpArray
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents base abstraction for XMP array.
 type: docs
-weight: 248
+weight: 289
 url: /java/com.groupdocs.metadata.core/xmparray/
 ---
 **Inheritance:**

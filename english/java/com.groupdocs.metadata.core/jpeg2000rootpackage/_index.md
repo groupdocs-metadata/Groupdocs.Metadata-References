@@ -3,7 +3,7 @@ title: Jpeg2000RootPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the root package intended to work with metadata in a JPEG2000 image.
 type: docs
-weight: 108
+weight: 141
 url: /java/com.groupdocs.metadata.core/jpeg2000rootpackage/
 ---
 **Inheritance:**

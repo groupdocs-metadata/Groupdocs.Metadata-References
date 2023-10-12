@@ -3,7 +3,7 @@ title: TiffTagType
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the IFD data type.
 type: docs
-weight: 354
+weight: 395
 url: /java/com.groupdocs.metadata.core/tifftagtype/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: TiffTagID
 second_title: GroupDocs.Metadata for Java API Reference
 description: Defines ids of TIFF tags.
 type: docs
-weight: 210
+weight: 251
 url: /java/com.groupdocs.metadata.core/tifftagid/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: XmpCameraRawPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents Camera Raw schema.
 type: docs
-weight: 254
+weight: 295
 url: /java/com.groupdocs.metadata.core/xmpcamerarawpackage/
 ---
 **Inheritance:**

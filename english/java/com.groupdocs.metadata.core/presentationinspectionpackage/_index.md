@@ -3,7 +3,7 @@ title: PresentationInspectionPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Contains information about presentation parts that can be considered as metadata in some cases.
 type: docs
-weight: 167
+weight: 200
 url: /java/com.groupdocs.metadata.core/presentationinspectionpackage/
 ---
 **Inheritance:**

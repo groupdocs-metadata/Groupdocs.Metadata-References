@@ -3,7 +3,7 @@ title: OpenTypeUnicodeNameRecord
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the Name record table value for the OpenTypePlatform.Unicode platform.
 type: docs
-weight: 148
+weight: 181
 url: /java/com.groupdocs.metadata.core/opentypeunicodenamerecord/
 ---
 **Inheritance:**

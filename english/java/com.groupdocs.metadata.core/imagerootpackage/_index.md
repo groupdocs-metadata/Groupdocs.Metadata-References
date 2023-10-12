@@ -3,7 +3,7 @@ title: ImageRootPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Provides a base abstract class for all image root packages.
 type: docs
-weight: 97
+weight: 129
 url: /java/com.groupdocs.metadata.core/imagerootpackage/
 ---
 **Inheritance:**

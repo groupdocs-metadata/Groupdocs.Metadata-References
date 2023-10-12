@@ -3,7 +3,7 @@ title: FileFormat
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the recognized format of a loaded file.
 type: docs
-weight: 320
+weight: 361
 url: /java/com.groupdocs.metadata.core/fileformat/
 ---
 **Inheritance:**

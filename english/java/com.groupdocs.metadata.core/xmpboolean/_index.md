@@ -3,7 +3,7 @@ title: XmpBoolean
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents XMP Boolean basic type.
 type: docs
-weight: 253
+weight: 294
 url: /java/com.groupdocs.metadata.core/xmpboolean/
 ---
 **Inheritance:**

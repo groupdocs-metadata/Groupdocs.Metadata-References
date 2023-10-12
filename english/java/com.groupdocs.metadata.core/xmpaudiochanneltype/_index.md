@@ -3,7 +3,7 @@ title: XmpAudioChannelType
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents audio channel type.
 type: docs
-weight: 249
+weight: 290
 url: /java/com.groupdocs.metadata.core/xmpaudiochanneltype/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: EmailRootPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the root package allowing working with metadata in an email message.
 type: docs
-weight: 59
+weight: 90
 url: /java/com.groupdocs.metadata.core/emailrootpackage/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: OpenTypeName
 second_title: GroupDocs.Metadata for Java API Reference
 description: Defines pre-defined IDs they apply to all platforms unless indicated otherwise.
 type: docs
-weight: 340
+weight: 381
 url: /java/com.groupdocs.metadata.core/opentypename/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: DocumentPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents native metadata in an office document.
 type: docs
-weight: 50
+weight: 81
 url: /java/com.groupdocs.metadata.core/documentpackage/
 ---
 **Inheritance:**

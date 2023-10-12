@@ -3,7 +3,7 @@ title: IptcEnvelopeRecord
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents an IPTC Envelope Record.
 type: docs
-weight: 102
+weight: 135
 url: /java/com.groupdocs.metadata.core/iptcenveloperecord/
 ---
 **Inheritance:**

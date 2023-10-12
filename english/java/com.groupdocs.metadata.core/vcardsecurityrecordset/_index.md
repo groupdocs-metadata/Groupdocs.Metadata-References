@@ -3,7 +3,7 @@ title: VCardSecurityRecordset
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a set of Security vCard records.
 type: docs
-weight: 233
+weight: 274
 url: /java/com.groupdocs.metadata.core/vcardsecurityrecordset/
 ---
 **Inheritance:**

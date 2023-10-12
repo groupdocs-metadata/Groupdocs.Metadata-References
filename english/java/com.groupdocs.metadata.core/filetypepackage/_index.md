@@ -3,7 +3,7 @@ title: FileTypePackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a metadata package containing file format information.
 type: docs
-weight: 70
+weight: 101
 url: /java/com.groupdocs.metadata.core/filetypepackage/
 ---
 **Inheritance:**

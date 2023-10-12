@@ -3,7 +3,7 @@ title: TiffShortTag
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a TIFF Short tag.
 type: docs
-weight: 208
+weight: 249
 url: /java/com.groupdocs.metadata.core/tiffshorttag/
 ---
 **Inheritance:**

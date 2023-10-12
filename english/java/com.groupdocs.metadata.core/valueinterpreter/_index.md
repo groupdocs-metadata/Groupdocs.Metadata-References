@@ -3,7 +3,7 @@ title: ValueInterpreter
 second_title: GroupDocs.Metadata for Java API Reference
 description: Defines operations required to interpret metadata property values.
 type: docs
-weight: 236
+weight: 277
 url: /java/com.groupdocs.metadata.core/valueinterpreter/
 ---
 **Inheritance:**

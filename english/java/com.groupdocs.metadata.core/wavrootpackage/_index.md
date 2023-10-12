@@ -3,7 +3,7 @@ title: WavRootPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the root package allowing working with metadata in a WAV audio.
 type: docs
-weight: 238
+weight: 279
 url: /java/com.groupdocs.metadata.core/wavrootpackage/
 ---
 **Inheritance:**

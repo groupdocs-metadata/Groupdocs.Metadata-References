@@ -3,7 +3,7 @@ title: TorrentRootPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the root package intended to work with metadata of a TORRENT file.
 type: docs
-weight: 213
+weight: 254
 url: /java/com.groupdocs.metadata.core/torrentrootpackage/
 ---
 **Inheritance:**

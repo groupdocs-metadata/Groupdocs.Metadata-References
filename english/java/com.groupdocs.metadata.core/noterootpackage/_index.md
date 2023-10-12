@@ -3,7 +3,7 @@ title: NoteRootPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the root package intended to work with metadata in an electronic note file.
 type: docs
-weight: 138
+weight: 171
 url: /java/com.groupdocs.metadata.core/noterootpackage/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: XmpSchemes
 second_title: GroupDocs.Metadata for Java API Reference
 description: Provides access to known XMP schemes.
 type: docs
-weight: 292
+weight: 333
 url: /java/com.groupdocs.metadata.core/xmpschemes/
 ---
 **Inheritance:**

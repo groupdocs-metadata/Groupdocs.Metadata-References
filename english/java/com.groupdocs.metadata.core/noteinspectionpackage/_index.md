@@ -3,7 +3,7 @@ title: NoteInspectionPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a metadata package exposing the internal structure of a note section.
 type: docs
-weight: 136
+weight: 169
 url: /java/com.groupdocs.metadata.core/noteinspectionpackage/
 ---
 **Inheritance:**

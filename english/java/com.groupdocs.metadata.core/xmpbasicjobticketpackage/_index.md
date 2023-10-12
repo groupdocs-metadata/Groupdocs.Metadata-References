@@ -3,7 +3,7 @@ title: XmpBasicJobTicketPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents Basic Job-Ticket namespace.
 type: docs
-weight: 251
+weight: 292
 url: /java/com.groupdocs.metadata.core/xmpbasicjobticketpackage/
 ---
 **Inheritance:**

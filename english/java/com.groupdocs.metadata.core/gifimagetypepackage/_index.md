@@ -3,7 +3,7 @@ title: GifImageTypePackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a metadata package containing GIF-specific file format information.
 type: docs
-weight: 73
+weight: 104
 url: /java/com.groupdocs.metadata.core/gifimagetypepackage/
 ---
 **Inheritance:**

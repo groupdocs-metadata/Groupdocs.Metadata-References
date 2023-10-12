@@ -3,7 +3,7 @@ title: PsdLayer
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a layer in a PSD file.
 type: docs
-weight: 177
+weight: 210
 url: /java/com.groupdocs.metadata.core/psdlayer/
 ---
 **Inheritance:**

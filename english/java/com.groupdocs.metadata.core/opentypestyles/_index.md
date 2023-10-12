@@ -3,7 +3,7 @@ title: OpenTypeStyles
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the OpenType font style.
 type: docs
-weight: 147
+weight: 180
 url: /java/com.groupdocs.metadata.core/opentypestyles/
 ---
 **Inheritance:**

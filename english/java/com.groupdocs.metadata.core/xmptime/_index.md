@@ -3,7 +3,7 @@ title: XmpTime
 second_title: GroupDocs.Metadata for Java API Reference
 description: Representation of a time value in seconds.
 type: docs
-weight: 295
+weight: 336
 url: /java/com.groupdocs.metadata.core/xmptime/
 ---
 **Inheritance:**

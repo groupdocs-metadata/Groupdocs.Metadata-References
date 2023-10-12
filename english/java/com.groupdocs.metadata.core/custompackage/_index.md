@@ -3,7 +3,7 @@ title: CustomPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Provides a container for metadata properties.
 type: docs
-weight: 40
+weight: 69
 url: /java/com.groupdocs.metadata.core/custompackage/
 ---
 **Inheritance:**

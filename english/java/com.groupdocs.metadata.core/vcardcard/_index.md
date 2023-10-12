@@ -3,7 +3,7 @@ title: VCardCard
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a single card extracted from a VCard file.
 type: docs
-weight: 219
+weight: 260
 url: /java/com.groupdocs.metadata.core/vcardcard/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: PageInfo
 second_title: GroupDocs.Metadata for Java API Reference
 description: Provides common information about a document page slide worksheet etc.
 type: docs
-weight: 150
+weight: 183
 url: /java/com.groupdocs.metadata.core/pageinfo/
 ---
 **Inheritance:**

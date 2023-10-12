@@ -3,7 +3,7 @@ title: DxfRootPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the root package allowing working with metadata in a DXF drawing.
 type: docs
-weight: 56
+weight: 87
 url: /java/com.groupdocs.metadata.core/dxfrootpackage/
 ---
 **Inheritance:**

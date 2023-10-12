@@ -3,7 +3,7 @@ title: PsdLayerFlags
 second_title: GroupDocs.Metadata for Java API Reference
 description: The Photoshop layer flags.
 type: docs
-weight: 178
+weight: 211
 url: /java/com.groupdocs.metadata.core/psdlayerflags/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: FlvRootPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the root package allowing working with metadata in an FLV video.
 type: docs
-weight: 72
+weight: 103
 url: /java/com.groupdocs.metadata.core/flvrootpackage/
 ---
 **Inheritance:**

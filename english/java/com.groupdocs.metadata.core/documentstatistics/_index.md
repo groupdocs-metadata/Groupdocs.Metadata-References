@@ -3,7 +3,7 @@ title: DocumentStatistics
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a set of document statistics.
 type: docs
-weight: 53
+weight: 84
 url: /java/com.groupdocs.metadata.core/documentstatistics/
 ---
 **Inheritance:**
