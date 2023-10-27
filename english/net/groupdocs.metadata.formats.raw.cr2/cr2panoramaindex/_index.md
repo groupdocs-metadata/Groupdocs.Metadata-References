@@ -3,7 +3,7 @@ title: Cr2PanoramaIndex
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ids of Cr2Panorama tags.
 type: docs
-weight: 2740
+weight: 2770
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2panoramaindex/
 ---
 ## Cr2PanoramaIndex enumeration

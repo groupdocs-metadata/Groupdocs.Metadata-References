@@ -3,7 +3,7 @@ title: LyricsTag
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents Lyrics3 v2.00 metadata. Please find more information at http//id3.org/Lyrics3v2.
 type: docs
-weight: 570
+weight: 600
 url: /net/groupdocs.metadata.formats.audio/lyricstag/
 ---
 ## LyricsTag class

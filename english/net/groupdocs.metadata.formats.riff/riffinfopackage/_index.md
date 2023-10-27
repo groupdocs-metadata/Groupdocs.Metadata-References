@@ -3,7 +3,7 @@ title: RiffInfoPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the metadata package containing properties extracted from the RIFF INFO chunk.
 type: docs
-weight: 3150
+weight: 3180
 url: /net/groupdocs.metadata.formats.riff/riffinfopackage/
 ---
 ## RiffInfoPackage class

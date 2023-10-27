@@ -3,7 +3,7 @@ title: SpreadsheetFormat
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines various spreadsheet subformats.
 type: docs
-weight: 1180
+weight: 1210
 url: /net/groupdocs.metadata.formats.document/spreadsheetformat/
 ---
 ## SpreadsheetFormat enumeration

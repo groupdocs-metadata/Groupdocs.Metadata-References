@@ -3,7 +3,7 @@ title: DocumentRootPackageTPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a root package for document formats such as PDF WordProcessing Spreadsheet Presentation etc.
 type: docs
-weight: 930
+weight: 960
 url: /net/groupdocs.metadata.formats.document/documentrootpackage-1/
 ---
 ## DocumentRootPackage&lt;TPackage&gt; class

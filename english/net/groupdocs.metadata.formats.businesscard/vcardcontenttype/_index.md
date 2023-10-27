@@ -3,7 +3,7 @@ title: VCardContentType
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines vCard record content types.
 type: docs
-weight: 670
+weight: 700
 url: /net/groupdocs.metadata.formats.businesscard/vcardcontenttype/
 ---
 ## VCardContentType enumeration

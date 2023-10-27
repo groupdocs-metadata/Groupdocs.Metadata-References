@@ -3,7 +3,7 @@ title: IptcEnvelopeRecordDataSet
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines IPTC Envelope Record dataSet numbers.
 type: docs
-weight: 3850
+weight: 3880
 url: /net/groupdocs.metadata.standards.iptc/iptcenveloperecorddataset/
 ---
 ## IptcEnvelopeRecordDataSet enumeration

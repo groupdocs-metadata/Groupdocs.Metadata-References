@@ -3,7 +3,7 @@ title: VCardSecurityRecordset
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a set of Security vCard records. These properties are concerned with the security of communication pathways or access to the vCard.
 type: docs
-weight: 800
+weight: 830
 url: /net/groupdocs.metadata.formats.businesscard/vcardsecurityrecordset/
 ---
 ## VCardSecurityRecordset class

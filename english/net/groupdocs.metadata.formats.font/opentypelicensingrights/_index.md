@@ -3,7 +3,7 @@ title: OpenTypeLicensingRights
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Indicates font embedding licensing rights for the font.
 type: docs
-weight: 1480
+weight: 1510
 url: /net/groupdocs.metadata.formats.font/opentypelicensingrights/
 ---
 ## OpenTypeLicensingRights enumeration

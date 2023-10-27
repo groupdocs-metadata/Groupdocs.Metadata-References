@@ -3,7 +3,7 @@ title: MovAtom
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a QuickTime atom.
 type: docs
-weight: 3550
+weight: 3580
 url: /net/groupdocs.metadata.formats.video/movatom/
 ---
 ## MovAtom class

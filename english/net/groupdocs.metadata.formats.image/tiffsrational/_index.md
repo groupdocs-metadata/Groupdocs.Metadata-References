@@ -3,7 +3,7 @@ title: TiffSRational
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents signed rational number.
 type: docs
-weight: 2180
+weight: 2210
 url: /net/groupdocs.metadata.formats.image/tiffsrational/
 ---
 ## TiffSRational class

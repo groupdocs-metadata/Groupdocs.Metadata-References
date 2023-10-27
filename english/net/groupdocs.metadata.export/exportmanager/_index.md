@@ -3,7 +3,7 @@ title: ExportManager
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Provides a row of methods allowing the user to export metadata properties to various formats.
 type: docs
-weight: 330
+weight: 340
 url: /net/groupdocs.metadata.export/exportmanager/
 ---
 ## ExportManager class
@@ -25,7 +25,9 @@ public class ExportManager
 | Name | Description |
 | --- | --- |
 | [Export](../../groupdocs.metadata.export/exportmanager/export#export)(Stream, ExportFormat) | Exports the metadata properties to a stream. |
-| [Export](../../groupdocs.metadata.export/exportmanager/export#export_1)(string, ExportFormat) | Exports the metadata properties to a file. |
+| [Export](../../groupdocs.metadata.export/exportmanager/export#export_2)(string, ExportFormat) | Exports the metadata properties to a file. |
+| [Export](../../groupdocs.metadata.export/exportmanager/export#export_1)(Stream, ExportFormat, ExportOptions) | Exports the metadata properties to a stream. |
+| [Export](../../groupdocs.metadata.export/exportmanager/export#export_3)(string, ExportFormat, ExportOptions) | Exports the metadata properties to a file. |
 
 ### See Also
 

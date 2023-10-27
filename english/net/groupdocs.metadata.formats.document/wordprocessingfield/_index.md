@@ -3,7 +3,7 @@ title: WordProcessingField
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a field in a word processing document.
 type: docs
-weight: 1250
+weight: 1280
 url: /net/groupdocs.metadata.formats.document/wordprocessingfield/
 ---
 ## WordProcessingField class
