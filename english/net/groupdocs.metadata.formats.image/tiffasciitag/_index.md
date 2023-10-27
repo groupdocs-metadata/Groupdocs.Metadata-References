@@ -3,7 +3,7 @@ title: TiffAsciiTag
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a TIFF ASCII tag.
 type: docs
-weight: 2080
+weight: 2110
 url: /net/groupdocs.metadata.formats.image/tiffasciitag/
 ---
 ## TiffAsciiTag class

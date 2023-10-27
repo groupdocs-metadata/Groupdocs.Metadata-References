@@ -3,7 +3,7 @@ title: ID3V2CommentFrame
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a COMM frame in an ID3V2Tag./id3v2tag.
 type: docs
-weight: 440
+weight: 470
 url: /net/groupdocs.metadata.formats.audio/id3v2commentframe/
 ---
 ## ID3V2CommentFrame class

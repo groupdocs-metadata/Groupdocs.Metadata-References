@@ -3,7 +3,7 @@ title: ID3V2TextFrame
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a text frame in an ID3V2Tag./id3v2tag. Almost all frames starting with the T character fall into this category. There is only one exception which is the TXXX frame represented by the ID3V2UserDefinedFrame./id3v2userdefinedframe class.
 type: docs
-weight: 520
+weight: 550
 url: /net/groupdocs.metadata.formats.audio/id3v2textframe/
 ---
 ## ID3V2TextFrame class

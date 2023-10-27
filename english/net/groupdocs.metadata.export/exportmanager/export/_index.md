@@ -6,7 +6,55 @@ type: docs
 weight: 20
 url: /net/groupdocs.metadata.export/exportmanager/export/
 ---
-## Export(string, ExportFormat) {#export_1}
+## Export(string, ExportFormat, ExportOptions) {#export_3}
+
+Exports the metadata properties to a file.
+
+```csharp
+public void Export(string filePath, ExportFormat format, ExportOptions exportOptions)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filePath | String | The full name of the output file. |
+| format | ExportFormat | The format of the output file. |
+| exportOptions | ExportOptions | Additional options to use when exporting a document. |
+
+### See Also
+
+* enum [ExportFormat](../../exportformat)
+* class [ExportOptions](../../exportoptions)
+* class [ExportManager](../../exportmanager)
+* namespace [GroupDocs.Metadata.Export](../../exportmanager)
+* assembly [GroupDocs.Metadata](../../../)
+
+---
+
+## Export(Stream, ExportFormat, ExportOptions) {#export_1}
+
+Exports the metadata properties to a stream.
+
+```csharp
+public void Export(Stream document, ExportFormat format, ExportOptions exportOptions)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| document | Stream | The full name of the output file. |
+| format | ExportFormat | The format of the output file. |
+| exportOptions | ExportOptions | Additional options to use when exporting a document. |
+
+### See Also
+
+* enum [ExportFormat](../../exportformat)
+* class [ExportOptions](../../exportoptions)
+* class [ExportManager](../../exportmanager)
+* namespace [GroupDocs.Metadata.Export](../../exportmanager)
+* assembly [GroupDocs.Metadata](../../../)
+
+---
+
+## Export(string, ExportFormat) {#export_2}
 
 Exports the metadata properties to a file.
 

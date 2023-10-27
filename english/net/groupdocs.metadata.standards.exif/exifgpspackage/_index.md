@@ -3,7 +3,7 @@ title: ExifGpsPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents GPS metadata in an EXIF metadata package.
 type: docs
-weight: 3700
+weight: 3730
 url: /net/groupdocs.metadata.standards.exif/exifgpspackage/
 ---
 ## ExifGpsPackage class

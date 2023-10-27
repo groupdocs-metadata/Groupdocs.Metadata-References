@@ -3,7 +3,7 @@ title: FlvRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the root package allowing working with metadata in an FLV video.
 type: docs
-weight: 3350
+weight: 3380
 url: /net/groupdocs.metadata.formats.video/flvrootpackage/
 ---
 ## FlvRootPackage class

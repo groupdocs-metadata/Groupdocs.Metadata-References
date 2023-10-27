@@ -3,7 +3,7 @@ title: SpreadsheetComment
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a user comment in a spreadsheet.
 type: docs
-weight: 1150
+weight: 1180
 url: /net/groupdocs.metadata.formats.document/spreadsheetcomment/
 ---
 ## SpreadsheetComment class

@@ -3,7 +3,7 @@ title: OpenTypeWindowsEncoding
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents encoding for the Windows platform.
 type: docs
-weight: 1620
+weight: 1650
 url: /net/groupdocs.metadata.formats.font/opentypewindowsencoding/
 ---
 ## OpenTypeWindowsEncoding enumeration

@@ -3,7 +3,7 @@ title: PsdRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the root package allowing working with metadata in a Photoshop Document.
 type: docs
-weight: 1950
+weight: 1980
 url: /net/groupdocs.metadata.formats.image/psdrootpackage/
 ---
 ## PsdRootPackage class

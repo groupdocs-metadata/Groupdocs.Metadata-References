@@ -3,7 +3,7 @@ title: GpsIfdIndex
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ids of GpsIfd tags.
 type: docs
-weight: 2950
+weight: 2980
 url: /net/groupdocs.metadata.formats.raw/gpsifdindex/
 ---
 ## GpsIfdIndex enumeration

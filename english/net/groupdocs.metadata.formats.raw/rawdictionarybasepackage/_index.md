@@ -3,7 +3,7 @@ title: RawDictionaryBasePackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Provides an abstract base class for EXIF metadata dictionaries.
 type: docs
-weight: 2990
+weight: 3020
 url: /net/groupdocs.metadata.formats.raw/rawdictionarybasepackage/
 ---
 ## RawDictionaryBasePackage class

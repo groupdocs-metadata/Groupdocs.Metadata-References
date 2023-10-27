@@ -3,7 +3,7 @@ title: WordProcessingRevisionType
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Specifies the type of the change being tracked by a revision.
 type: docs
-weight: 1300
+weight: 1330
 url: /net/groupdocs.metadata.formats.document/wordprocessingrevisiontype/
 ---
 ## WordProcessingRevisionType enumeration

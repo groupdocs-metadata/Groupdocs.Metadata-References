@@ -3,7 +3,7 @@ title: VCardOrganizationalRecordset
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a set of Organizational vCard records. These properties are concerned with information associated with characteristics of the organization or organizational units of the object that the vCard represents.
 type: docs
-weight: 750
+weight: 780
 url: /net/groupdocs.metadata.formats.businesscard/vcardorganizationalrecordset/
 ---
 ## VCardOrganizationalRecordset class

@@ -3,7 +3,7 @@ title: XmpDate
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents Date in XMP packet.
 type: docs
-weight: 4300
+weight: 4330
 url: /net/groupdocs.metadata.standards.xmp/xmpdate/
 ---
 ## XmpDate class

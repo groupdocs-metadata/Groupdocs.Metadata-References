@@ -3,7 +3,7 @@ title: Cr2CameraSettingsIndex
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ids of Cr2CameraSettings tags.
 type: docs
-weight: 2450
+weight: 2480
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2camerasettingsindex/
 ---
 ## Cr2CameraSettingsIndex enumeration

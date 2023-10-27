@@ -3,7 +3,7 @@ title: TiffRational
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a rational number.
 type: docs
-weight: 2130
+weight: 2160
 url: /net/groupdocs.metadata.formats.image/tiffrational/
 ---
 ## TiffRational class

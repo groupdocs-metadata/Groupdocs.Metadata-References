@@ -3,7 +3,7 @@ title: TiffLongTag
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a TIFF Long tag.
 type: docs
-weight: 2120
+weight: 2150
 url: /net/groupdocs.metadata.formats.image/tifflongtag/
 ---
 ## TiffLongTag class
