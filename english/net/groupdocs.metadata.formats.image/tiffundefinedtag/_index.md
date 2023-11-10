@@ -3,7 +3,7 @@ title: TiffUndefinedTag
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a TIFF tag with the Undefined type.
 type: docs
-weight: 2280
+weight: 2290
 url: /net/groupdocs.metadata.formats.image/tiffundefinedtag/
 ---
 ## TiffUndefinedTag class

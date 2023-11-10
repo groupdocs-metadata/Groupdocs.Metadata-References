@@ -3,7 +3,7 @@ title: LongSize
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the atom size in bytes.
 type: docs
-weight: 40
+weight: 50
 url: /net/groupdocs.metadata.formats.video/movatom/longsize/
 ---
 ## MovAtom.LongSize property

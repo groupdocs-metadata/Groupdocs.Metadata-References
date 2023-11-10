@@ -3,7 +3,7 @@ title: ExifIfdPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the Exif Image File Directory. Exif IFD is a set of tags for recording Exifspecific attribute information.
 type: docs
-weight: 3740
+weight: 3750
 url: /net/groupdocs.metadata.standards.exif/exififdpackage/
 ---
 ## ExifIfdPackage class

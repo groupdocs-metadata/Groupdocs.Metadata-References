@@ -3,7 +3,7 @@ title: VCardGeographicalRecordset
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a set of Geographical vCard records. These properties are concerned with information associated with geographical positions or regions associated with the object the vCard represents.
 type: docs
-weight: 760
+weight: 770
 url: /net/groupdocs.metadata.formats.businesscard/vcardgeographicalrecordset/
 ---
 ## VCardGeographicalRecordset class

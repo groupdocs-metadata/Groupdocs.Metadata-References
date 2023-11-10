@@ -3,7 +3,7 @@ title: MovAtom
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a QuickTime atom.
 type: docs
-weight: 3580
+weight: 3590
 url: /net/groupdocs.metadata.formats.video/movatom/
 ---
 ## MovAtom class
@@ -18,6 +18,7 @@ public sealed class MovAtom : CustomPackage
 
 | Name | Description |
 | --- | --- |
+| [Atoms](../../groupdocs.metadata.formats.video/movatom/atoms) { get; } | Gets an array of [`MovAtom`](../movatom) atoms. |
 | [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | Gets the number of metadata properties. |
 | [DataOffset](../../groupdocs.metadata.formats.video/movatom/dataoffset) { get; } | Gets the data offset. |
 | [DataSize](../../groupdocs.metadata.formats.video/movatom/datasize) { get; } | Gets the data size in bytes. |

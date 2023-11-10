@@ -3,7 +3,7 @@ title: VCardPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents VCF Virtual Contact File electronic business card format metadata.
 type: docs
-weight: 790
+weight: 800
 url: /net/groupdocs.metadata.formats.businesscard/vcardpackage/
 ---
 ## VCardPackage class

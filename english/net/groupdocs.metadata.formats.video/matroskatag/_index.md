@@ -3,7 +3,7 @@ title: MatroskaTag
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents metadata describing Tracks Editions Chapters Attachments or the Segment as a whole in a Matroska video.
 type: docs
-weight: 3490
+weight: 3500
 url: /net/groupdocs.metadata.formats.video/matroskatag/
 ---
 ## MatroskaTag class

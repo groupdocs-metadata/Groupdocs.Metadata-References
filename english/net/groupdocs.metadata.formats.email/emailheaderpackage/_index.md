@@ -3,7 +3,7 @@ title: EmailHeaderPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a metadata package containing email message headers.
 type: docs
-weight: 1380
+weight: 1390
 url: /net/groupdocs.metadata.formats.email/emailheaderpackage/
 ---
 ## EmailHeaderPackage class

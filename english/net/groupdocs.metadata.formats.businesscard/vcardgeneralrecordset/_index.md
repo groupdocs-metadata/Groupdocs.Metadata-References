@@ -3,7 +3,7 @@ title: VCardGeneralRecordset
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a set of General vCard records.
 type: docs
-weight: 750
+weight: 760
 url: /net/groupdocs.metadata.formats.businesscard/vcardgeneralrecordset/
 ---
 ## VCardGeneralRecordset class

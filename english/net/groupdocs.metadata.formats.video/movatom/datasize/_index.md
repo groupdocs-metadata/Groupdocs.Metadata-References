@@ -3,7 +3,7 @@ title: DataSize
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the data size in bytes.
 type: docs
-weight: 20
+weight: 30
 url: /net/groupdocs.metadata.formats.video/movatom/datasize/
 ---
 ## MovAtom.DataSize property

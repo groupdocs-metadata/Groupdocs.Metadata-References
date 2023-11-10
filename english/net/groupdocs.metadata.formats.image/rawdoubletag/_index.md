@@ -3,7 +3,7 @@ title: RawDoubleTag
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a Raw Double tag.
 type: docs
-weight: 1990
+weight: 2000
 url: /net/groupdocs.metadata.formats.image/rawdoubletag/
 ---
 ## RawDoubleTag class

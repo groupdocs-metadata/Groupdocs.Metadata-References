@@ -3,7 +3,7 @@ title: Software
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets or sets the name and version of the software or firmware of the camera or image input device used to generate the image.
 type: docs
-weight: 120
+weight: 130
 url: /net/groupdocs.metadata.standards.exif/exifpackage/software/
 ---
 ## ExifPackage.Software property

@@ -3,7 +3,7 @@ title: Cr2FilterInfoIndex
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ids of Cr2FilterInfo tags.
 type: docs
-weight: 2580
+weight: 2590
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2filterinfoindex/
 ---
 ## Cr2FilterInfoIndex enumeration

@@ -3,7 +3,7 @@ title: Cr2ColorInfoIndex
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ids of Cr2ColorInfo tags.
 type: docs
-weight: 2520
+weight: 2530
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2colorinfoindex/
 ---
 ## Cr2ColorInfoIndex enumeration

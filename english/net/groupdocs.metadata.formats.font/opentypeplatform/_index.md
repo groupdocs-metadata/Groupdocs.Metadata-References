@@ -3,7 +3,7 @@ title: OpenTypePlatform
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents OpenType platform for Name table.
 type: docs
-weight: 1570
+weight: 1580
 url: /net/groupdocs.metadata.formats.font/opentypeplatform/
 ---
 ## OpenTypePlatform enumeration

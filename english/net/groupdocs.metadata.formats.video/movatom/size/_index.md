@@ -3,7 +3,7 @@ title: Size
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the atom size in bytes.
 type: docs
-weight: 60
+weight: 70
 url: /net/groupdocs.metadata.formats.video/movatom/size/
 ---
 ## MovAtom.Size property

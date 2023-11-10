@@ -3,7 +3,7 @@ title: ExportFormat
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines file formats to which you can export metadata properties.
 type: docs
-weight: 330
+weight: 340
 url: /net/groupdocs.metadata.export/exportformat/
 ---
 ## ExportFormat enumeration
@@ -21,6 +21,7 @@ public enum ExportFormat
 | Xls | `0` | Represents the .XLS Excel format. |
 | Xlsx | `1` | Represents the .XLSX Excel format. |
 | Xml | `2` | Represents the .XML format. |
+| Csv | `3` | Represents the .CSV format. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: TiffByteTag
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a Byte tag.
 type: docs
-weight: 2120
+weight: 2130
 url: /net/groupdocs.metadata.formats.image/tiffbytetag/
 ---
 ## TiffByteTag class

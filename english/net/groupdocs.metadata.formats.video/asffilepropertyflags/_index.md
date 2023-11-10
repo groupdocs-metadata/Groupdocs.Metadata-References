@@ -3,7 +3,7 @@ title: AsfFilePropertyFlags
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ASF file property flags.
 type: docs
-weight: 3270
+weight: 3280
 url: /net/groupdocs.metadata.formats.video/asffilepropertyflags/
 ---
 ## AsfFilePropertyFlags enumeration
