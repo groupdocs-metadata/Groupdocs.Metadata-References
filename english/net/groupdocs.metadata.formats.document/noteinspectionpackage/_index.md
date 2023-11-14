@@ -3,7 +3,7 @@ title: NoteInspectionPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a metadata package exposing the internal structure of a note section.
 type: docs
-weight: 980
+weight: 990
 url: /net/groupdocs.metadata.formats.document/noteinspectionpackage/
 ---
 ## NoteInspectionPackage class

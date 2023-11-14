@@ -3,7 +3,7 @@ title: MatroskaBasePackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Provides a base metadata class for all packages extracted from a Matroska video.
 type: docs
-weight: 3400
+weight: 3410
 url: /net/groupdocs.metadata.formats.video/matroskabasepackage/
 ---
 ## MatroskaBasePackage class

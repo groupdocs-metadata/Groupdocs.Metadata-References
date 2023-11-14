@@ -3,7 +3,7 @@ title: Atoms
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets an array of MovAtomgroupdocs.metadata.formats.video/movatom atoms.
 type: docs
-weight: 10
+weight: 40
 url: /net/groupdocs.metadata.formats.video/movpackage/atoms/
 ---
 ## MovPackage.Atoms property

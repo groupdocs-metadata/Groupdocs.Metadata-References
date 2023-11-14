@@ -3,7 +3,7 @@ title: Thumbnail
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the image thumbnail represented as an array of bytes.
 type: docs
-weight: 130
+weight: 140
 url: /net/groupdocs.metadata.standards.exif/exifpackage/thumbnail/
 ---
 ## ExifPackage.Thumbnail property

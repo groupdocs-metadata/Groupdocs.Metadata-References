@@ -3,7 +3,7 @@ title: ProjectManagementPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a native metadata package in a project management file.
 type: docs
-weight: 1160
+weight: 1170
 url: /net/groupdocs.metadata.formats.document/projectmanagementpackage/
 ---
 ## ProjectManagementPackage class

@@ -3,7 +3,7 @@ title: WordProcessingInspectionPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Contains information about document parts that can be considered as metadata in some cases.
 type: docs
-weight: 1300
+weight: 1310
 url: /net/groupdocs.metadata.formats.document/wordprocessinginspectionpackage/
 ---
 ## WordProcessingInspectionPackage class

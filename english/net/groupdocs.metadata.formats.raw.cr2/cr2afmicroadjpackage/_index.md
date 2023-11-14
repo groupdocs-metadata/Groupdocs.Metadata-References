@@ -3,7 +3,7 @@ title: Cr2AFMicroAdjPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents Canon MakerNotes tags.
 type: docs
-weight: 2450
+weight: 2460
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2afmicroadjpackage/
 ---
 ## Cr2AFMicroAdjPackage class

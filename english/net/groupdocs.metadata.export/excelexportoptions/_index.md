@@ -3,7 +3,7 @@ title: ExcelExportOptions
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Creates an export options of excel file.
 type: docs
-weight: 320
+weight: 330
 url: /net/groupdocs.metadata.export/excelexportoptions/
 ---
 ## ExcelExportOptions class

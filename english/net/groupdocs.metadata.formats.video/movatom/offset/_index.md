@@ -3,7 +3,7 @@ title: Offset
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the atom offset.
 type: docs
-weight: 50
+weight: 60
 url: /net/groupdocs.metadata.formats.video/movatom/offset/
 ---
 ## MovAtom.Offset property

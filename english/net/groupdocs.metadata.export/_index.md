@@ -12,6 +12,7 @@ The namespace contains classes that allow users to export metadata properties to
 
 | Class | Description |
 | --- | --- |
+| [CsvExportOptions](./csvexportoptions) | Creates an export options of xml file. |
 | [ExcelExportOptions](./excelexportoptions) | Creates an export options of excel file. |
 | [ExportManager](./exportmanager) | Provides a row of methods allowing the user to export metadata properties to various formats. |
 | [ExportOptions](./exportoptions) | Abstract class export options. |

@@ -3,7 +3,7 @@ title: PdfRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the root package allowing working with metadata in a PDF document.
 type: docs
-weight: 1070
+weight: 1080
 url: /net/groupdocs.metadata.formats.document/pdfrootpackage/
 ---
 ## PdfRootPackage class

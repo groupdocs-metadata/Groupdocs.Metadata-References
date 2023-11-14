@@ -3,7 +3,7 @@ title: ExportOptions
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Abstract class export options.
 type: docs
-weight: 350
+weight: 360
 url: /net/groupdocs.metadata.export/exportoptions/
 ---
 ## ExportOptions class

@@ -3,7 +3,7 @@ title: HasExtendedSize
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets a value indicating whether the extended size field was used to store the atom data.
 type: docs
-weight: 30
+weight: 40
 url: /net/groupdocs.metadata.formats.video/movatom/hasextendedsize/
 ---
 ## MovAtom.HasExtendedSize property

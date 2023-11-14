@@ -3,7 +3,7 @@ title: ExifPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents an EXIF metadata package Exchangeable Image File Format.
 type: docs
-weight: 3750
+weight: 3770
 url: /net/groupdocs.metadata.standards.exif/exifpackage/
 ---
 ## ExifPackage class
@@ -38,6 +38,7 @@ public class ExifPackage : ExifDictionaryBasePackage
 | [Make](../../groupdocs.metadata.standards.exif/exifpackage/make) { get; set; } | Gets or sets the manufacturer of the recording equipment. This is the manufacturer of the DSC, scanner, video digitizer or other equipment that generated the image. |
 | [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | Gets the metadata type. |
 | [Model](../../groupdocs.metadata.standards.exif/exifpackage/model) { get; set; } | Gets or sets the model name or model number of the equipment. This is the model name or number of the DSC, scanner, video digitizer or other equipment that generated the image. |
+| [Orientation](../../groupdocs.metadata.standards.exif/exifpackage/orientation) { get; set; } | Gets or sets the orientation. |
 | [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | Gets a collection of descriptors that contain information about properties accessible through the GroupDocs.Metadata search engine. |
 | [Software](../../groupdocs.metadata.standards.exif/exifpackage/software) { get; set; } | Gets or sets the name and version of the software or firmware of the camera or image input device used to generate the image. |
 | [Thumbnail](../../groupdocs.metadata.standards.exif/exifpackage/thumbnail) { get; } | Gets the image thumbnail represented as an array of bytes. |

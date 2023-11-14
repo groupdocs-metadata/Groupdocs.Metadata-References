@@ -3,7 +3,7 @@ title: VCardIdentificationRecordset
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a set of Identification vCard records. These types are used to capture information associated with the identification and naming of the entity associated with the vCard.
 type: docs
-weight: 770
+weight: 780
 url: /net/groupdocs.metadata.formats.businesscard/vcardidentificationrecordset/
 ---
 ## VCardIdentificationRecordset class

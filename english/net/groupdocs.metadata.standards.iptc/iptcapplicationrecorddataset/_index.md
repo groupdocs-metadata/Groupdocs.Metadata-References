@@ -3,7 +3,7 @@ title: IptcApplicationRecordDataSet
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines IPTC Application Record dataSet numbers.
 type: docs
-weight: 3850
+weight: 3870
 url: /net/groupdocs.metadata.standards.iptc/iptcapplicationrecorddataset/
 ---
 ## IptcApplicationRecordDataSet enumeration

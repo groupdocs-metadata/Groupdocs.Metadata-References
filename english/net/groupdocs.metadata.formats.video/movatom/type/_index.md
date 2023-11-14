@@ -3,7 +3,7 @@ title: Type
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the 4characters type.
 type: docs
-weight: 70
+weight: 80
 url: /net/groupdocs.metadata.formats.video/movatom/type/
 ---
 ## MovAtom.Type property

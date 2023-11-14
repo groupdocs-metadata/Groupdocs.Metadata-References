@@ -3,7 +3,7 @@ title: Cr2MakerNoteIndex
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ids of Cr2MakerNote tags.
 type: docs
-weight: 2680
+weight: 2690
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernoteindex/
 ---
 ## Cr2MakerNoteIndex enumeration

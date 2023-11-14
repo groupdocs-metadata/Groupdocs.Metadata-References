@@ -3,7 +3,7 @@ title: SpreadsheetPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a native metadata package in a spreadsheet.
 type: docs
-weight: 1230
+weight: 1240
 url: /net/groupdocs.metadata.formats.document/spreadsheetpackage/
 ---
 ## SpreadsheetPackage class

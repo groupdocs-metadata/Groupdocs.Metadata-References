@@ -3,7 +3,7 @@ title: GifImageTypePackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a metadata package containing GIFspecific file format information.
 type: docs
-weight: 1760
+weight: 1770
 url: /net/groupdocs.metadata.formats.image/gifimagetypepackage/
 ---
 ## GifImageTypePackage class
