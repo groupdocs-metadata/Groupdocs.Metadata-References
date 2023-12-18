@@ -3,7 +3,7 @@ title: Cr2PersonalFuncsIndex
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ids of Cr2PersonalFuncs tags.
 type: docs
-weight: 2820
+weight: 2830
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2personalfuncsindex/
 ---
 ## Cr2PersonalFuncsIndex enumeration

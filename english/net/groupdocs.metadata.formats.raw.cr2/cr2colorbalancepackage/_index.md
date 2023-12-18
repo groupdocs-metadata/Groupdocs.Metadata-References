@@ -3,7 +3,7 @@ title: Cr2ColorBalancePackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents Canon MakerNotes tags.
 type: docs
-weight: 2520
+weight: 2530
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2colorbalancepackage/
 ---
 ## Cr2ColorBalancePackage class

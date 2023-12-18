@@ -3,7 +3,7 @@ title: XmpColorantRgb
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the RGB Colorant.
 type: docs
-weight: 4320
+weight: 4330
 url: /net/groupdocs.metadata.standards.xmp/xmpcolorantrgb/
 ---
 ## XmpColorantRgb class

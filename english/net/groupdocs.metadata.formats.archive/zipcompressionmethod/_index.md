@@ -3,7 +3,7 @@ title: ZipCompressionMethod
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ZIP compression methods.
 type: docs
-weight: 380
+weight: 390
 url: /net/groupdocs.metadata.formats.archive/zipcompressionmethod/
 ---
 ## ZipCompressionMethod enumeration

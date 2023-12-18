@@ -3,7 +3,7 @@ title: XmpAudioSampleType
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents Audio sample type in XmpDynamicMediaPackage./xmpdynamicmediapackage.
 type: docs
-weight: 4050
+weight: 4060
 url: /net/groupdocs.metadata.standards.xmp.schemes/xmpaudiosampletype/
 ---
 ## XmpAudioSampleType class

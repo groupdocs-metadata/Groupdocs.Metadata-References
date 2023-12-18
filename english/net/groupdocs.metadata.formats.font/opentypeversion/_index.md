@@ -3,7 +3,7 @@ title: OpenTypeVersion
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the OpenType version.
 type: docs
-weight: 1630
+weight: 1640
 url: /net/groupdocs.metadata.formats.font/opentypeversion/
 ---
 ## OpenTypeVersion enumeration

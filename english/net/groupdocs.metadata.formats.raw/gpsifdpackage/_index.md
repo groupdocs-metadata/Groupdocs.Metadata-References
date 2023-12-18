@@ -3,7 +3,7 @@ title: GpsIfdPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents GPS IFD.
 type: docs
-weight: 3000
+weight: 3010
 url: /net/groupdocs.metadata.formats.raw/gpsifdpackage/
 ---
 ## GpsIfdPackage class

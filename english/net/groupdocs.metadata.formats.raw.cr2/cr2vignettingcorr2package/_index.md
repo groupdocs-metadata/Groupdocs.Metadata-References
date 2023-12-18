@@ -3,7 +3,7 @@ title: Cr2VignettingCorr2Package
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents Canon MakerNotes tags.
 type: docs
-weight: 2940
+weight: 2950
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2vignettingcorr2package/
 ---
 ## Cr2VignettingCorr2Package class

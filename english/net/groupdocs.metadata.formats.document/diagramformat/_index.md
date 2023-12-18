@@ -3,7 +3,7 @@ title: DiagramFormat
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines various diagram subformats.
 type: docs
-weight: 920
+weight: 930
 url: /net/groupdocs.metadata.formats.document/diagramformat/
 ---
 ## DiagramFormat enumeration
