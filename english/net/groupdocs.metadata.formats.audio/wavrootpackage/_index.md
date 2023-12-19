@@ -3,7 +3,7 @@ title: WavRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the root package allowing working with metadata in a WAV audio.
 type: docs
-weight: 640
+weight: 650
 url: /net/groupdocs.metadata.formats.audio/wavrootpackage/
 ---
 ## WavRootPackage class

@@ -3,7 +3,7 @@ title: Cr2SensorInfoIndex
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ids of Cr2SensorInfo tags.
 type: docs
-weight: 2870
+weight: 2880
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2sensorinfoindex/
 ---
 ## Cr2SensorInfoIndex enumeration

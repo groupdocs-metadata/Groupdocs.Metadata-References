@@ -22,6 +22,7 @@ public enum ExportFormat
 | Xlsx | `1` | Represents the .XLSX Excel format. |
 | Xml | `2` | Represents the .XML format. |
 | Csv | `3` | Represents the .CSV format. |
+| Json | `4` | Represents the .JSON format. |
 
 ### See Also
 

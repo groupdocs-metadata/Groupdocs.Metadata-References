@@ -3,7 +3,7 @@ title: ID3V2Tag
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents an ID3v2 tag. Please find more information at https//en.wikipedia.org/wiki/ID3ID3v2https//en.wikipedia.org/wiki/ID3ID3v2.
 type: docs
-weight: 530
+weight: 540
 url: /net/groupdocs.metadata.formats.audio/id3v2tag/
 ---
 ## ID3V2Tag class

@@ -3,7 +3,7 @@ title: CmsEncapsulatedContent
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a signed content container consisting of a content type identifier and the content itself.
 type: docs
-weight: 3970
+weight: 3980
 url: /net/groupdocs.metadata.standards.pkcs/cmsencapsulatedcontent/
 ---
 ## CmsEncapsulatedContent class

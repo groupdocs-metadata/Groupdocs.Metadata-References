@@ -3,7 +3,7 @@ title: ID3V2EncodingType
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines different types of text encoding used in ID3v2.
 type: docs
-weight: 490
+weight: 500
 url: /net/groupdocs.metadata.formats.audio/id3v2encodingtype/
 ---
 ## ID3V2EncodingType enumeration

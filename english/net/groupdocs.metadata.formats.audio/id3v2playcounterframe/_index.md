@@ -3,7 +3,7 @@ title: ID3V2PlayCounterFrame
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a PCNT frame in an ID3V2Tag./id3v2tag. This is simply a counter of the number of times a file has been played.
 type: docs
-weight: 510
+weight: 520
 url: /net/groupdocs.metadata.formats.audio/id3v2playcounterframe/
 ---
 ## ID3V2PlayCounterFrame class

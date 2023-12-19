@@ -3,7 +3,7 @@ title: MP3RootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the root package allowing working with metadata in an MP3 audio.
 type: docs
-weight: 620
+weight: 630
 url: /net/groupdocs.metadata.formats.audio/mp3rootpackage/
 ---
 ## MP3RootPackage class

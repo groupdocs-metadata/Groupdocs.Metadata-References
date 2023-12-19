@@ -3,7 +3,7 @@ title: ID3V2TagFrameFlags
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents flags used in a ID3v2 tag frame.
 type: docs
-weight: 550
+weight: 560
 url: /net/groupdocs.metadata.formats.audio/id3v2tagframeflags/
 ---
 ## ID3V2TagFrameFlags class

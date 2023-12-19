@@ -3,7 +3,7 @@ title: XmpColorantBase
 second_title: GroupDocs.Metadata for .NET API Reference
 description: A structure containing the characteristics of a colorant swatch used in a document.
 type: docs
-weight: 4280
+weight: 4290
 url: /net/groupdocs.metadata.standards.xmp/xmpcolorantbase/
 ---
 ## XmpColorantBase class

@@ -3,7 +3,7 @@ title: SpreadsheetInspectionPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Contains information about spreadsheet parts that can be considered as metadata in some cases.
 type: docs
-weight: 1230
+weight: 1240
 url: /net/groupdocs.metadata.formats.document/spreadsheetinspectionpackage/
 ---
 ## SpreadsheetInspectionPackage class

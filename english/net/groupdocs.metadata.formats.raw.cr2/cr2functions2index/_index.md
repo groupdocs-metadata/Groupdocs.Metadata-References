@@ -3,7 +3,7 @@ title: Cr2Functions2Index
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ids of Cr2Functions2 tags.
 type: docs
-weight: 2640
+weight: 2650
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2functions2index/
 ---
 ## Cr2Functions2Index enumeration
