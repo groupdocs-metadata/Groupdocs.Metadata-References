@@ -1,6 +1,6 @@
 ---
 title: PreviewOptions
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Provides options to sets requirements and stream delegates for preview generation.
 type: docs
 weight: 11

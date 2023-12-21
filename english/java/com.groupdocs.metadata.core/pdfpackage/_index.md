@@ -1,6 +1,6 @@
 ---
 title: PdfPackage
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Represents native metadata in a PDF document.
 type: docs
 weight: 189

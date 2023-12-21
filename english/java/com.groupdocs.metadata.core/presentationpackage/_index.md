@@ -1,6 +1,6 @@
 ---
 title: PresentationPackage
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a native metadata package in a presentation.
 type: docs
 weight: 199

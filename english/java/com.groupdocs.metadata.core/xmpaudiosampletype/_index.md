@@ -1,6 +1,6 @@
 ---
 title: XmpAudioSampleType
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Represents Audio sample type in XmpDynamicMediaPackage.
 type: docs
 weight: 289

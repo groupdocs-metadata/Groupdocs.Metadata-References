@@ -1,6 +1,6 @@
 ---
 title: XmpColorantLab
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the LAB Colorant.
 type: docs
 weight: 297

@@ -1,6 +1,6 @@
 ---
 title: Cms
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a digital sign created with Cryptographic Message Syntax CMS - IETFs standard for cryptographically protected messages.
 type: docs
 weight: 34

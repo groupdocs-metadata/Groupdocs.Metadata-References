@@ -1,6 +1,6 @@
 ---
 title: XmpPacketWrapper
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Contains serialized XMP package including header and trailer.
 type: docs
 weight: 321

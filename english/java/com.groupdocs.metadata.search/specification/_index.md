@@ -1,6 +1,6 @@
 ---
 title: Specification
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Provides a base abstract class for search specifications that can be combined using logical operators.
 type: docs
 weight: 17

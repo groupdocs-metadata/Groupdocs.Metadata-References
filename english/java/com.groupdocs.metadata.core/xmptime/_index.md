@@ -1,6 +1,6 @@
 ---
 title: XmpTime
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Representation of a time value in seconds.
 type: docs
 weight: 334

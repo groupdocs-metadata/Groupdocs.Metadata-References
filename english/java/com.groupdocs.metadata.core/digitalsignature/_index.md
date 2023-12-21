@@ -1,6 +1,6 @@
 ---
 title: DigitalSignature
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a digital signature used to sign a document.
 type: docs
 weight: 75

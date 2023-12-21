@@ -1,6 +1,6 @@
 ---
 title: ID3V2UserDefinedFrame
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a TXXX frame in an ID3V2Tag.
 type: docs
 weight: 123

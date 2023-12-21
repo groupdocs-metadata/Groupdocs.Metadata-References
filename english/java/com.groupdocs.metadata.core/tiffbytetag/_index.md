@@ -1,6 +1,6 @@
 ---
 title: TiffByteTag
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a Byte tag.
 type: docs
 weight: 235

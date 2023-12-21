@@ -1,6 +1,6 @@
 ---
 title: MpegChannelMode
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Defines MPEG audio channel modes.
 type: docs
 weight: 372

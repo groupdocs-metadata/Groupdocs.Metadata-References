@@ -1,6 +1,6 @@
 ---
 title: OpenTypeFont
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a single font extracted from a file.
 type: docs
 weight: 174

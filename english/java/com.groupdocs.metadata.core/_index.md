@@ -1,6 +1,6 @@
 ---
 title: com.groupdocs.metadata.core
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: The com.groupdocs.metadata.core namespace provides main classes allowing working with metadata in all supported formats.
 type: docs
 weight: 11

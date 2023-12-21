@@ -1,6 +1,6 @@
 ---
 title: LyricsTag
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Represents Lyrics3 v2.00 metadata.
 type: docs
 weight: 143

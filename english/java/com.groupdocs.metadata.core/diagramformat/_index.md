@@ -1,6 +1,6 @@
 ---
 title: DiagramFormat
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Defines various diagram subformats.
 type: docs
 weight: 357

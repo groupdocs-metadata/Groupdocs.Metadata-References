@@ -1,6 +1,6 @@
 ---
 title: PresentationInspectionPackage
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Contains information about presentation parts that can be considered as metadata in some cases.
 type: docs
 weight: 198

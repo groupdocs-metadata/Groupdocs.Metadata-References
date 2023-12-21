@@ -1,6 +1,6 @@
 ---
 title: MatroskaSimpleTag
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Represents general information about the target in a Matroska video.
 type: docs
 weight: 152

@@ -1,6 +1,6 @@
 ---
 title: Jpeg2000RootPackage
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the root package intended to work with metadata in a JPEG2000 image.
 type: docs
 weight: 140

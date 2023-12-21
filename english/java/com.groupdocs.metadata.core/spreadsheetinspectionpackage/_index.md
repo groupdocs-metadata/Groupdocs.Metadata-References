@@ -1,6 +1,6 @@
 ---
 title: SpreadsheetInspectionPackage
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Contains information about spreadsheet parts that can be considered as metadata in some cases.
 type: docs
 weight: 228

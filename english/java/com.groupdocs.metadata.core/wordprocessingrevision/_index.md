@@ -1,6 +1,6 @@
 ---
 title: WordProcessingRevision
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a revision tracked change in a document.
 type: docs
 weight: 284

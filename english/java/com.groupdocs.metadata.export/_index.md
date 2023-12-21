@@ -1,6 +1,6 @@
 ---
 title: com.groupdocs.metadata.export
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: The com.groupdocs.metadata.export namespace contains classes that allow users to export metadata properties to different representations.
 type: docs
 weight: 12

@@ -1,6 +1,6 @@
 ---
 title: Metadata
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Provides the main class to access metadata in all supported formats.
 type: docs
 weight: 10

@@ -1,6 +1,6 @@
 ---
 title: OrSpecification
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a composite specification that uses the logical OR operator to combine two given search specifications.
 type: docs
 weight: 16

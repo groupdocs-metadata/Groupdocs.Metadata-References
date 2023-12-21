@@ -1,6 +1,6 @@
 ---
 title: PngTextChunk
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Represents textual data extracted from a PNG image.
 type: docs
 weight: 196

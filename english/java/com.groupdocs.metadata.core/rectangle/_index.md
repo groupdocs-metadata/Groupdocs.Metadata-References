@@ -1,6 +1,6 @@
 ---
 title: Rectangle
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: A set of four integers that represent the location and size of a rectangle.
 type: docs
 weight: 221

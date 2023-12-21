@@ -1,6 +1,6 @@
 ---
 title: RootMetadataPackage
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Represents an entry point to all metadata packages presented in a particular file.
 type: docs
 weight: 223

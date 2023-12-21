@@ -1,6 +1,6 @@
 ---
 title: IReadOnlyList
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a read-only collection of elements that can be accessed by index.
 type: docs
 weight: 350

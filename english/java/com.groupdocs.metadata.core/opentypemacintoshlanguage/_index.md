@@ -1,6 +1,6 @@
 ---
 title: OpenTypeMacintoshLanguage
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Represents language enum for the OpenTypePlatform.Macintosh platform.
 type: docs
 weight: 378

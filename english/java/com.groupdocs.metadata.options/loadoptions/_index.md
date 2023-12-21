@@ -1,6 +1,6 @@
 ---
 title: LoadOptions
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Allows a developer to specify additional options such as a password when loading a file.
 type: docs
 weight: 10

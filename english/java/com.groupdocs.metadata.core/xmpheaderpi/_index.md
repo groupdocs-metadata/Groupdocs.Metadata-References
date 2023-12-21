@@ -1,6 +1,6 @@
 ---
 title: XmpHeaderPI
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Represents XMP header processing instruction.
 type: docs
 weight: 309

@@ -1,6 +1,6 @@
 ---
 title: XmpException
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: The exception that is thrown when XMP has invalid structure.
 type: docs
 weight: 306

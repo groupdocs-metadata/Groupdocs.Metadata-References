@@ -1,6 +1,6 @@
 ---
 title: CmsEncapsulatedContent
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a signed content container consisting of a content type identifier and the content itself.
 type: docs
 weight: 37

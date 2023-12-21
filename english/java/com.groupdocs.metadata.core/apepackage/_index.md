@@ -1,6 +1,6 @@
 ---
 title: ApePackage
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Represents an APE v2 metadata package.
 type: docs
 weight: 10

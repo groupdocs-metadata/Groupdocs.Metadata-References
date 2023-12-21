@@ -1,6 +1,6 @@
 ---
 title: XmpArray
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Represents base abstraction for XMP array.
 type: docs
 weight: 287

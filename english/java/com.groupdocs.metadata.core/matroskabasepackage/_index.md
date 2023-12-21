@@ -1,6 +1,6 @@
 ---
 title: MatroskaBasePackage
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Provides a base metadata class for all packages extracted from a Matroska video.
 type: docs
 weight: 147

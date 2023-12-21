@@ -1,6 +1,6 @@
 ---
 title: IExif
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Defines base operations intended to work with EXIF metadata.
 type: docs
 weight: 348

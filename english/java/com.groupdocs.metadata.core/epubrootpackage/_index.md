@@ -1,6 +1,6 @@
 ---
 title: EpubRootPackage
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the root package allowing working with metadata in an EPUB e-book.
 type: docs
 weight: 95

@@ -1,6 +1,6 @@
 ---
 title: ExportFormat
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Defines file formats to which you can export metadata properties.
 type: docs
 weight: 14

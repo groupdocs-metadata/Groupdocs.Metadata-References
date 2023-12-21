@@ -1,6 +1,6 @@
 ---
 title: DocumentTagCategory
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Provides tags that are applied to document-specific properties only.
 type: docs
 weight: 12

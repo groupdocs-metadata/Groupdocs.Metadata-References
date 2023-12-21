@@ -1,6 +1,6 @@
 ---
 title: ExportManager
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Provides a row of methods allowing the user to export metadata properties to various formats.
 type: docs
 weight: 11

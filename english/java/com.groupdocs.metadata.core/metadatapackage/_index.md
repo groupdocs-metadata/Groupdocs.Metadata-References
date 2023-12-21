@@ -1,6 +1,6 @@
 ---
 title: MetadataPackage
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Represents base abstraction for a metadata package.
 type: docs
 weight: 158

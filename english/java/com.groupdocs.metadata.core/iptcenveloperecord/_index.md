@@ -1,6 +1,6 @@
 ---
 title: IptcEnvelopeRecord
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Represents an IPTC Envelope Record.
 type: docs
 weight: 134

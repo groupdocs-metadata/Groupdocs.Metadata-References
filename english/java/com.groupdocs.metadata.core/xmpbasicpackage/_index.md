@@ -1,6 +1,6 @@
 ---
 title: XmpBasicPackage
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the XMP basic namespace.
 type: docs
 weight: 291

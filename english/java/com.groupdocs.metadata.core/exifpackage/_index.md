@@ -1,6 +1,6 @@
 ---
 title: ExifPackage
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Represents an EXIF metadata package Exchangeable Image File Format.
 type: docs
 weight: 99

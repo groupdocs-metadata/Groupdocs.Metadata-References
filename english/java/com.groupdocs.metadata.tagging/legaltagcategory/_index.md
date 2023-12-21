@@ -1,6 +1,6 @@
 ---
 title: LegalTagCategory
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Provides tags that are attached to metadata properties holding information about the owners of the file content and the rules under which the content can be used.
 type: docs
 weight: 13

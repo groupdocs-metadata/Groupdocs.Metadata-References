@@ -1,6 +1,6 @@
 ---
 title: PdfBookmark
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a bookmark in a PDF document.
 type: docs
 weight: 186

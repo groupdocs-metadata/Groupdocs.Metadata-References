@@ -1,6 +1,6 @@
 ---
 title: Metered
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Provides methods to set metered key.
 type: docs
 weight: 11

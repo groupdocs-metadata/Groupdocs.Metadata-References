@@ -1,6 +1,6 @@
 ---
 title: com.groupdocs.metadata.search
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: The com.groupdocs.metadata.search namespace contains base classes utility classes and interfaces used across all formats and metadata standards.
 type: docs
 weight: 15

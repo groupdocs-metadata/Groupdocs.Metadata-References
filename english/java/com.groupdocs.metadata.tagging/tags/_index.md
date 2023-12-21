@@ -1,6 +1,6 @@
 ---
 title: Tags
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Contains various sets of tags with which most important metadata properties are marked.
 type: docs
 weight: 19

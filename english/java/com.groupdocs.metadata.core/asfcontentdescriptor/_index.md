@@ -1,6 +1,6 @@
 ---
 title: AsfContentDescriptor
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Represents an ASF content descriptor object.
 type: docs
 weight: 15

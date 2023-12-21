@@ -1,6 +1,6 @@
 ---
 title: ID3Tag
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a base abstract class for the ID3v1 and ID3v2 audio tags.
 type: docs
 weight: 109

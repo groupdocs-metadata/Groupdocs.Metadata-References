@@ -1,6 +1,6 @@
 ---
 title: com.groupdocs.metadata.licensing
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: The com.groupdocs.metadata.licensing namespace provides classes for licensing the Metadata library.
 type: docs
 weight: 13

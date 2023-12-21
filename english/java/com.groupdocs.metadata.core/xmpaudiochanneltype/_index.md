@@ -1,6 +1,6 @@
 ---
 title: XmpAudioChannelType
-second_title: GroupDocs.Signature for Java API Reference
+second_title: GroupDocs.Metadata for Java API Reference
 description: Represents audio channel type.
 type: docs
 weight: 288
