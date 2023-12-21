@@ -1,9 +1,9 @@
 ---
 title: WmfRootPackage
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents the root package intended to work with metadata in a WMF image.
 type: docs
-weight: 281
+weight: 279
 url: /java/com.groupdocs.metadata.core/wmfrootpackage/
 ---
 **Inheritance:**

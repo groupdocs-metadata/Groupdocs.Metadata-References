@@ -1,9 +1,9 @@
 ---
 title: XmpPackage
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents base abstraction for XMP package.
 type: docs
-weight: 322
+weight: 320
 url: /java/com.groupdocs.metadata.core/xmppackage/
 ---
 **Inheritance:**

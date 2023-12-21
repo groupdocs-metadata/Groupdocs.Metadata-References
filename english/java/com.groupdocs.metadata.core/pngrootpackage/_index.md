@@ -1,9 +1,9 @@
 ---
 title: PngRootPackage
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents the root package intended to work with metadata in a PNG image.
 type: docs
-weight: 197
+weight: 195
 url: /java/com.groupdocs.metadata.core/pngrootpackage/
 ---
 **Inheritance:**

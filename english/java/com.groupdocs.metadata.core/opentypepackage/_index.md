@@ -1,9 +1,9 @@
 ---
 title: OpenTypePackage
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents an OpenType font metadata package.
 type: docs
-weight: 178
+weight: 177
 url: /java/com.groupdocs.metadata.core/opentypepackage/
 ---
 **Inheritance:**

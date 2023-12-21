@@ -1,9 +1,9 @@
 ---
 title: IEnumValueInterpreter
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents an interpreter intended to convert various numeric values to descriptive string values.
 type: docs
-weight: 349
+weight: 347
 url: /java/com.groupdocs.metadata.core/ienumvalueinterpreter/
 ---```
 public interface IEnumValueInterpreter

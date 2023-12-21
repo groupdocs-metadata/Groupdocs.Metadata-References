@@ -1,6 +1,6 @@
 ---
 title: FallsIntoCategorySpecification
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents a specification that verifies whether the passed property falls into a particular category i.e.
 type: docs
 weight: 13

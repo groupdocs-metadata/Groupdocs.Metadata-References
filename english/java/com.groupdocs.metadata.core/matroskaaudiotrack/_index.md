@@ -1,9 +1,9 @@
 ---
 title: MatroskaAudioTrack
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents audio metadata in a Matroska video.
 type: docs
-weight: 147
+weight: 146
 url: /java/com.groupdocs.metadata.core/matroskaaudiotrack/
 ---
 **Inheritance:**

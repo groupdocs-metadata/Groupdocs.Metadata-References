@@ -1,9 +1,9 @@
 ---
 title: XmpValueBase
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents base XMP value.
 type: docs
-weight: 340
+weight: 338
 url: /java/com.groupdocs.metadata.core/xmpvaluebase/
 ---
 **Inheritance:**

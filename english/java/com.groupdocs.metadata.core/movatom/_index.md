@@ -1,9 +1,9 @@
 ---
 title: MovAtom
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents a QuickTime atom.
 type: docs
-weight: 162
+weight: 161
 url: /java/com.groupdocs.metadata.core/movatom/
 ---
 **Inheritance:**
@@ -34,6 +34,7 @@ Represents a QuickTime atom.
 | [getDataOffset()](#getDataOffset--) | Gets the data offset. |
 | [getDataSize()](#getDataSize--) | Gets the data size in bytes. |
 | [hasExtendedSize()](#hasExtendedSize--) | Gets a value indicating whether the extended size field was used to store the atom data. |
+| [getAtoms()](#getAtoms--) | Gets an array of [MovAtom](../../com.groupdocs.metadata.core/movatom) atoms. |
 ### getOffset() {#getOffset--}
 ```
 public final long getOffset()
@@ -104,3 +105,15 @@ Gets a value indicating whether the extended size field was used to store the at
 
 **Returns:**
 boolean - True, if the extended size field was used to store the atom data; otherwise, false.
+### getAtoms() {#getAtoms--}
+```
+public final MovAtom[] getAtoms()
+```
+
+
+Gets an array of [MovAtom](../../com.groupdocs.metadata.core/movatom) atoms.
+
+Value: The QuickTime atoms.
+
+**Returns:**
+com.groupdocs.metadata.core.MovAtom[]

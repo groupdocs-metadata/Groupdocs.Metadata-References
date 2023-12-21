@@ -1,6 +1,6 @@
 ---
 title: ToolTagCategory
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Provides tags intended to mark metadata properties related to the tools software and hardware that were used to create a file.
 type: docs
 weight: 21

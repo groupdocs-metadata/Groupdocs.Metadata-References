@@ -1,9 +1,9 @@
 ---
 title: MpegEmphasis
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Defines MPEG emphasis types.
 type: docs
-weight: 375
+weight: 373
 url: /java/com.groupdocs.metadata.core/mpegemphasis/
 ---
 **Inheritance:**

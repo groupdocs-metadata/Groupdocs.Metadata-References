@@ -1,9 +1,9 @@
 ---
 title: SpreadsheetPackage
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents a native metadata package in a spreadsheet.
 type: docs
-weight: 231
+weight: 229
 url: /java/com.groupdocs.metadata.core/spreadsheetpackage/
 ---
 **Inheritance:**
@@ -30,7 +30,7 @@ This example shows how to update built-in metadata properties in a spreadsheet.
 >      root.getDocumentProperties().setCompany("GroupDocs");
 >      root.getDocumentProperties().setCategory("test category");
 >      root.getDocumentProperties().setKeywords("metadata, built-in, update");
->      // ... 
+>      // ...
 >      metadata.save(Constants.OutputXlsx);
 >  }
 >  

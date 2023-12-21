@@ -1,6 +1,6 @@
 ---
 title: PropertyTag
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents a tag used to mark metadata properties.
 type: docs
 weight: 16

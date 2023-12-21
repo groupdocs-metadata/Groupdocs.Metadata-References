@@ -1,9 +1,9 @@
 ---
 title: XmpDimensions
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Containing dimensions for a drawn object.
 type: docs
-weight: 304
+weight: 302
 url: /java/com.groupdocs.metadata.core/xmpdimensions/
 ---
 **Inheritance:**

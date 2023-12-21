@@ -1,9 +1,9 @@
 ---
 title: IptcDataSet
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents an IPTC DataSet metadata property.
 type: docs
-weight: 134
+weight: 133
 url: /java/com.groupdocs.metadata.core/iptcdataset/
 ---
 **Inheritance:**

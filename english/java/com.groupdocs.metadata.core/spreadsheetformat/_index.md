@@ -1,9 +1,9 @@
 ---
 title: SpreadsheetFormat
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Defines various spreadsheet subformats.
 type: docs
-weight: 394
+weight: 392
 url: /java/com.groupdocs.metadata.core/spreadsheetformat/
 ---
 **Inheritance:**

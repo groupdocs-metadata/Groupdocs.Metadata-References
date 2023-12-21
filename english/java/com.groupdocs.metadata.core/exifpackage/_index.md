@@ -1,6 +1,6 @@
 ---
 title: ExifPackage
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents an EXIF metadata package Exchangeable Image File Format.
 type: docs
 weight: 99
@@ -69,6 +69,8 @@ This code sample demonstrates how to update common EXIF properties.
 | [setImageLength(int value)](#setImageLength-int-) | Sets the number of rows of image data. |
 | [getImageWidth()](#getImageWidth--) | Gets the number of columns of image data, equal to the number of pixels per row. |
 | [setImageWidth(int value)](#setImageWidth-int-) | Sets the number of columns of image data, equal to the number of pixels per row. |
+| [getOrientation()](#getOrientation--) | Gets or sets the orientation. |
+| [setOrientation(int value)](#setOrientation-int-) | Gets or sets the orientation. |
 | [getMake()](#getMake--) | Gets the manufacturer of the recording equipment. |
 | [setMake(String value)](#setMake-java.lang.String-) | Sets the manufacturer of the recording equipment. |
 | [getModel()](#getModel--) | Gets the model name or model number of the equipment. |
@@ -254,6 +256,33 @@ Sets the number of columns of image data, equal to the number of pixels per row.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | int | The number of columns of image data, equal to the number of pixels per row. |
+
+### getOrientation() {#getOrientation--}
+```
+public final int getOrientation()
+```
+
+
+Gets or sets the orientation.
+
+Value: The orientation.
+
+**Returns:**
+int
+### setOrientation(int value) {#setOrientation-int-}
+```
+public final void setOrientation(int value)
+```
+
+
+Gets or sets the orientation.
+
+Value: The orientation.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int |  |
 
 ### getMake() {#getMake--}
 ```

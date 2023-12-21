@@ -1,9 +1,9 @@
 ---
 title: OpenTypeWeight
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents the OpenType font weight.
 type: docs
-weight: 385
+weight: 383
 url: /java/com.groupdocs.metadata.core/opentypeweight/
 ---
 **Inheritance:**

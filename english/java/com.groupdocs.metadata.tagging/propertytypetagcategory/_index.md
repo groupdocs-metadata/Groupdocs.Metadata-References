@@ -1,6 +1,6 @@
 ---
 title: PropertyTypeTagCategory
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Provides tags that bear additional information about the type of a property rather than about its purpose.
 type: docs
 weight: 17

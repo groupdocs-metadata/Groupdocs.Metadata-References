@@ -1,9 +1,9 @@
 ---
 title: LyricsField
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents a LyricsTag field.
 type: docs
-weight: 143
+weight: 142
 url: /java/com.groupdocs.metadata.core/lyricsfield/
 ---
 **Inheritance:**

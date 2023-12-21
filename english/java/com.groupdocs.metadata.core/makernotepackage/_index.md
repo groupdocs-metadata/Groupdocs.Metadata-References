@@ -1,9 +1,9 @@
 ---
 title: MakerNotePackage
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Provides an abstract base class for MakerNote metadata packages.
 type: docs
-weight: 146
+weight: 145
 url: /java/com.groupdocs.metadata.core/makernotepackage/
 ---
 **Inheritance:**

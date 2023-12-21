@@ -1,6 +1,6 @@
 ---
 title: OriginTagCategory
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Provides tags that help a user to determine the origin of a file e.g.
 type: docs
 weight: 14

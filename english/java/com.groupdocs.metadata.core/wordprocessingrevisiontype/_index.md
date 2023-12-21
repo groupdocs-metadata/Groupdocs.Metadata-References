@@ -1,9 +1,9 @@
 ---
 title: WordProcessingRevisionType
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Specifies the type of the change being tracked by a revision.
 type: docs
-weight: 398
+weight: 396
 url: /java/com.groupdocs.metadata.core/wordprocessingrevisiontype/
 ---
 **Inheritance:**

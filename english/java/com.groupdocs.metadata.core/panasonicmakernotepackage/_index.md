@@ -1,9 +1,9 @@
 ---
 title: PanasonicMakerNotePackage
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents PANASONIC MakerNote metadata.
 type: docs
-weight: 184
+weight: 183
 url: /java/com.groupdocs.metadata.core/panasonicmakernotepackage/
 ---
 **Inheritance:**

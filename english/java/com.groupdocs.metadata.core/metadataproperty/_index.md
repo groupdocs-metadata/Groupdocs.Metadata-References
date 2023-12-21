@@ -1,9 +1,9 @@
 ---
 title: MetadataProperty
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents a metadata property.
 type: docs
-weight: 160
+weight: 159
 url: /java/com.groupdocs.metadata.core/metadataproperty/
 ---
 **Inheritance:**

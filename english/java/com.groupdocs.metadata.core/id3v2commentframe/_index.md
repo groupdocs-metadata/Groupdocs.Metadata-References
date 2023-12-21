@@ -1,9 +1,9 @@
 ---
 title: ID3V2CommentFrame
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents a COMM frame in an ID3V2Tag.
 type: docs
-weight: 115
+weight: 114
 url: /java/com.groupdocs.metadata.core/id3v2commentframe/
 ---
 **Inheritance:**

@@ -1,11 +1,14 @@
 ---
 title: com.groupdocs.metadata.core
-second_title: GroupDocs.Metadata for Java API Reference
-description: 
+second_title: GroupDocs.Signature for Java API Reference
+description: The com.groupdocs.metadata.core namespace provides main classes allowing working with metadata in all supported formats.
 type: docs
 weight: 11
 url: /java/com.groupdocs.metadata.core/
 ---
+
+The **com.groupdocs.metadata.core** namespace provides main classes allowing working with metadata in all supported formats.
+
 
 ## Classes
 
@@ -108,7 +111,6 @@ url: /java/com.groupdocs.metadata.core/
 | [GifImageTypePackage](../com.groupdocs.metadata.core/gifimagetypepackage) | Represents a metadata package containing GIF-specific file format information. |
 | [GifRootPackage](../com.groupdocs.metadata.core/gifrootpackage) | Represents the root package intended to work with metadata in a GIF image. |
 | [GpsIfdPackage](../com.groupdocs.metadata.core/gpsifdpackage) | Represents GPS IFD. |
-| [GroupDocsException](../com.groupdocs.metadata.core/groupdocsexception) | Represents base exception in GroupDocs products. |
 | [GroupDocsMetadataException](../com.groupdocs.metadata.core/groupdocsmetadataexception) | Represents a product-specific exception that is thrown during file processing. |
 | [HeifRootPackage](../com.groupdocs.metadata.core/heifrootpackage) | Represents the root package intended to work with metadata in a HEIF image. |
 | [ID3Tag](../com.groupdocs.metadata.core/id3tag) | Represents a base abstract class for the ID3(v1) and ID3(v2) audio tags. |
@@ -194,7 +196,6 @@ url: /java/com.groupdocs.metadata.core/
 | [PdfPackage](../com.groupdocs.metadata.core/pdfpackage) | Represents native metadata in a PDF document. |
 | [PdfRootPackage](../com.groupdocs.metadata.core/pdfrootpackage) | Represents the root package allowing working with metadata in a PDF document. |
 | [PdfTypePackage](../com.groupdocs.metadata.core/pdftypepackage) | Represents a metadata package containing PDF-specific file format information. |
-| [PleaseReportException](../com.groupdocs.metadata.core/pleasereportexception) |  |
 | [PngCompressedTextChunk](../com.groupdocs.metadata.core/pngcompressedtextchunk) | Represents compressed textual data extracted from a PNG image. |
 | [PngInternationalTextChunk](../com.groupdocs.metadata.core/pnginternationaltextchunk) | Represents international textual data extracted from a PNG image. |
 | [PngPackage](../com.groupdocs.metadata.core/pngpackage) | Represents native PNG metadata. |

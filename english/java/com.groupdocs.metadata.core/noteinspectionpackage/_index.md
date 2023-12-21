@@ -1,9 +1,9 @@
 ---
 title: NoteInspectionPackage
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents a metadata package exposing the internal structure of a note section.
 type: docs
-weight: 169
+weight: 168
 url: /java/com.groupdocs.metadata.core/noteinspectionpackage/
 ---
 **Inheritance:**

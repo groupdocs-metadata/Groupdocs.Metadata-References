@@ -1,9 +1,9 @@
 ---
 title: PropertyDescriptor
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents a descriptor of a property that can be accessed through the GroupDocs.Metadata search engine.
 type: docs
-weight: 208
+weight: 206
 url: /java/com.groupdocs.metadata.core/propertydescriptor/
 ---
 **Inheritance:**

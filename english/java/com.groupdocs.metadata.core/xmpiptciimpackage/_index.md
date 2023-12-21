@@ -1,9 +1,9 @@
 ---
 title: XmpIptcIimPackage
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents the IPTC-IIM XMP package.
 type: docs
-weight: 315
+weight: 313
 url: /java/com.groupdocs.metadata.core/xmpiptciimpackage/
 ---
 **Inheritance:**

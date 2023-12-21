@@ -1,9 +1,9 @@
 ---
 title: PresentationSlide
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents a slide in a presentation.
 type: docs
-weight: 203
+weight: 201
 url: /java/com.groupdocs.metadata.core/presentationslide/
 ---
 **Inheritance:**

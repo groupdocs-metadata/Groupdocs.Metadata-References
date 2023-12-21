@@ -1,9 +1,9 @@
 ---
 title: OpenTypePlatform
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents OpenType platform for Name table.
 type: docs
-weight: 382
+weight: 380
 url: /java/com.groupdocs.metadata.core/opentypeplatform/
 ---
 **Inheritance:**

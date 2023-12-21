@@ -1,9 +1,9 @@
 ---
 title: TiffSRationalTag
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents a TIFF SRational tag.
 type: docs
-weight: 247
+weight: 245
 url: /java/com.groupdocs.metadata.core/tiffsrationaltag/
 ---
 **Inheritance:**

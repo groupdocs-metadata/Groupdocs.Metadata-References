@@ -1,9 +1,9 @@
 ---
 title: XmpDate
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents Date in XMP packet.
 type: docs
-weight: 303
+weight: 301
 url: /java/com.groupdocs.metadata.core/xmpdate/
 ---
 **Inheritance:**

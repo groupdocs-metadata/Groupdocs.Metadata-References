@@ -1,9 +1,9 @@
 ---
 title: PropertyAccessLevels
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Defines access levels for metadata properties.
 type: docs
-weight: 207
+weight: 205
 url: /java/com.groupdocs.metadata.core/propertyaccesslevels/
 ---
 **Inheritance:**

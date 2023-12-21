@@ -1,9 +1,9 @@
 ---
 title: MatroskaVideoTrack
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents video metadata in a Matroska video.
 type: docs
-weight: 158
+weight: 157
 url: /java/com.groupdocs.metadata.core/matroskavideotrack/
 ---
 **Inheritance:**

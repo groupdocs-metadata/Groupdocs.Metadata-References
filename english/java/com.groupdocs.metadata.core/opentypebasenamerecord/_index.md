@@ -1,9 +1,9 @@
 ---
 title: OpenTypeBaseNameRecord
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents the base OpenType Name table record class.
 type: docs
-weight: 173
+weight: 172
 url: /java/com.groupdocs.metadata.core/opentypebasenamerecord/
 ---
 **Inheritance:**

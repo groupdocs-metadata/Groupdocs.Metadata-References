@@ -1,9 +1,9 @@
 ---
 title: WordProcessingFormat
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Defines various word processing document subformats.
 type: docs
-weight: 397
+weight: 395
 url: /java/com.groupdocs.metadata.core/wordprocessingformat/
 ---
 **Inheritance:**

@@ -1,9 +1,9 @@
 ---
 title: ID3V2EncodingType
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Defines different types of text encoding used in ID3v2.
 type: docs
-weight: 362
+weight: 360
 url: /java/com.groupdocs.metadata.core/id3v2encodingtype/
 ---
 **Inheritance:**

@@ -1,6 +1,6 @@
 ---
 title: EmailHeaderPackage
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents a metadata package containing email message headers.
 type: docs
 weight: 88

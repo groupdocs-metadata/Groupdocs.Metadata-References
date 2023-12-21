@@ -1,9 +1,9 @@
 ---
 title: Oid
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents an object identifier OID.
 type: docs
-weight: 172
+weight: 171
 url: /java/com.groupdocs.metadata.core/oid/
 ---
 **Inheritance:**

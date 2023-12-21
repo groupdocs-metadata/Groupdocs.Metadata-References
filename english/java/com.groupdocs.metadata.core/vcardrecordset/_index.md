@@ -1,9 +1,9 @@
 ---
 title: VCardRecordset
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Provides a base vCard record union class.
 type: docs
-weight: 272
+weight: 270
 url: /java/com.groupdocs.metadata.core/vcardrecordset/
 ---
 **Inheritance:**

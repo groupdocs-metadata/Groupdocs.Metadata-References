@@ -1,6 +1,6 @@
 ---
 title: PersonTagCategory
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Provides tags that mark metadata properties holding information about the people contributed to file or intellectual content creation.
 type: docs
 weight: 15

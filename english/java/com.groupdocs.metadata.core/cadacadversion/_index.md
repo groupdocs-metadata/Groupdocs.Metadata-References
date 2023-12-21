@@ -1,9 +1,9 @@
 ---
 title: CadAcadVersion
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Defines AutoCAD drawing database version numbers.
 type: docs
-weight: 358
+weight: 356
 url: /java/com.groupdocs.metadata.core/cadacadversion/
 ---
 **Inheritance:**

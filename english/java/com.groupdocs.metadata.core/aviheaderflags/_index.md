@@ -1,6 +1,6 @@
 ---
 title: AviHeaderFlags
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents AVI Header flags.
 type: docs
 weight: 25

@@ -1,9 +1,9 @@
 ---
 title: MetadataPackage
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents base abstraction for a metadata package.
 type: docs
-weight: 159
+weight: 158
 url: /java/com.groupdocs.metadata.core/metadatapackage/
 ---
 **Inheritance:**
@@ -205,17 +205,17 @@ This example demonstrates how to update existing metadata properties by various 
 >          public DateBeforeSpecification(Date date) {
 >              setValue(date);
 >          }
->      
+> 
 >          public final Date getValue() {
 >              return auto_Value;
 >          }
->          
+> 
 >          private void setValue(Date value) {
 >              auto_Value = value;
 >          }
->          
+> 
 >          private Date auto_Value;
->          
+> 
 >          public boolean isSatisfiedBy(MetadataProperty candidate) {
 >              Date date = candidate.getValue().toClass(Date.class);
 >              if (date != null) {
@@ -260,7 +260,7 @@ This example demonstrates how to remove specific metadata properties using vario
 >      public static void run() {
 >          // Constants.InputDocx is an absolute or relative path to your document. Ex: @"C:\Docs\source.docx"
 >          try (Metadata metadata = new Metadata(Constants.InputDocx)) {
->          
+> 
 >              // Remove all the properties satisfying the predicate:
 >              // property contains the name of the document author OR
 >              // it refers to the last editor OR
@@ -269,29 +269,29 @@ This example demonstrates how to remove specific metadata properties using vario
 >                      new ContainsTagSpecification(Tags.getPerson().getCreator()).or(
 >                              new ContainsTagSpecification(Tags.getPerson().getEditor())).or(
 >                              new OfTypeSpecification(MetadataPropertyType.String).and(new RemoveMetadataProperties().new WithValueSpecification("John"))));
->          
+> 
 >              System.out.println(String.format("Properties removed: %s", affected));
->          
+> 
 >              metadata.save(Constants.OutputDocx);
 >          }
 >      }
->          
+> 
 >      // Define your own specifications to filter metadata properties
 >      public class WithValueSpecification extends Specification {
 >          public WithValueSpecification(Object value) {
 >              setValue(value);
 >          }
->          
+> 
 >          public final Object getValue() {
 >              return auto_Value;
 >          }
->          
+> 
 >          private void setValue(Object value) {
 >              auto_Value = value;
 >          }
->          
+> 
 >          private Object auto_Value;
->          
+> 
 >          public boolean isSatisfiedBy(MetadataProperty candidate) {
 >              return candidate.getValue().getRawValue().equals(getValue());
 >          }

@@ -1,6 +1,6 @@
 ---
 title: ContentTagCategory
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Provides tags that are attached to metadata properties describing the content of a file.
 type: docs
 weight: 10

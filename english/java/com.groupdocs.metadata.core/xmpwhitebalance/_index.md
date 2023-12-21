@@ -1,9 +1,9 @@
 ---
 title: XmpWhiteBalance
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents the White Balance setting in XmpCameraRawPackage.
 type: docs
-weight: 342
+weight: 340
 url: /java/com.groupdocs.metadata.core/xmpwhitebalance/
 ---
 **Inheritance:**

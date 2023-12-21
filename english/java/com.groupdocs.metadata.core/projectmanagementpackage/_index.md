@@ -1,9 +1,9 @@
 ---
 title: ProjectManagementPackage
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents a native metadata package in a project management file.
 type: docs
-weight: 205
+weight: 203
 url: /java/com.groupdocs.metadata.core/projectmanagementpackage/
 ---
 **Inheritance:**

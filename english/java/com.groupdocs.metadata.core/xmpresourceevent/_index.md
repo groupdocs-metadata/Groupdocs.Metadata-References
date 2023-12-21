@@ -1,9 +1,9 @@
 ---
 title: XmpResourceEvent
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents a high-level event that occurred in the processing of a resource.
 type: docs
-weight: 330
+weight: 328
 url: /java/com.groupdocs.metadata.core/xmpresourceevent/
 ---
 **Inheritance:**

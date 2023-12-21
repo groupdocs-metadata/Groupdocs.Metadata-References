@@ -1,9 +1,9 @@
 ---
 title: WebPRootPackage
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents the root package allowing working with metadata in a WEBP image.
 type: docs
-weight: 280
+weight: 278
 url: /java/com.groupdocs.metadata.core/webprootpackage/
 ---
 **Inheritance:**

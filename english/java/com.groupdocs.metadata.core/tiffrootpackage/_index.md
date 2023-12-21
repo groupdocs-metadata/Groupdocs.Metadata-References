@@ -1,9 +1,9 @@
 ---
 title: TiffRootPackage
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents the root package allowing working with metadata in a TIFF image.
 type: docs
-weight: 243
+weight: 241
 url: /java/com.groupdocs.metadata.core/tiffrootpackage/
 ---
 **Inheritance:**

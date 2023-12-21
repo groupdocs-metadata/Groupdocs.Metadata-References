@@ -1,9 +1,9 @@
 ---
 title: WordProcessingRootPackage
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents the root package allowing working with metadata in a word processing document.
 type: docs
-weight: 287
+weight: 285
 url: /java/com.groupdocs.metadata.core/wordprocessingrootpackage/
 ---
 **Inheritance:**

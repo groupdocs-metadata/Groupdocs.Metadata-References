@@ -1,6 +1,6 @@
 ---
 title: PreviewOptions
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Provides options to sets requirements and stream delegates for preview generation.
 type: docs
 weight: 11
@@ -36,7 +36,7 @@ Provides options to sets requirements and stream delegates for preview generatio
 | [getPageNumbers()](#getPageNumbers--) | Gets an array of page numbers to generate previews. |
 | [setPageNumbers(int[] value)](#setPageNumbers-int---) | Sets an array of page numbers to generate previews. |
 | [getPreviewFormat()](#getPreviewFormat--) | Gets the preview image format. |
-| [setPreviewFormat(PreviewOptions.PreviewFormats value)](#setPreviewFormat-com.groupdocs.metadata.options.PreviewOptions.PreviewFormats-) | Sets the preview image format. |
+| [setPreviewFormat(PreviewFormats value)](#setPreviewFormat-com.groupdocs.metadata.options.PreviewFormats-) | Sets the preview image format. |
 | [getCreatePageStream()](#getCreatePageStream--) | Gets an instance of the page stream creation delegate. |
 | [setCreatePageStream(ICreatePageStream value)](#setCreatePageStream-com.groupdocs.metadata.options.ICreatePageStream-) | Sets an instance of the page stream creation delegate. |
 | [getReleasePageStream()](#getReleasePageStream--) | Gets an instance of the page preview completion delegate. |
@@ -208,7 +208,7 @@ Sets an array of page numbers to generate previews.
 
 ### getPreviewFormat() {#getPreviewFormat--}
 ```
-public final PreviewOptions.PreviewFormats getPreviewFormat()
+public final PreviewFormats getPreviewFormat()
 ```
 
 
@@ -216,9 +216,9 @@ Gets the preview image format.
 
 **Returns:**
 [PreviewFormats](../../com.groupdocs.metadata.options/previewformats) - The preview image format.
-### setPreviewFormat(PreviewOptions.PreviewFormats value) {#setPreviewFormat-com.groupdocs.metadata.options.PreviewOptions.PreviewFormats-}
+### setPreviewFormat(PreviewFormats value) {#setPreviewFormat-com.groupdocs.metadata.options.PreviewFormats-}
 ```
-public final void setPreviewFormat(PreviewOptions.PreviewFormats value)
+public final void setPreviewFormat(PreviewFormats value)
 ```
 
 

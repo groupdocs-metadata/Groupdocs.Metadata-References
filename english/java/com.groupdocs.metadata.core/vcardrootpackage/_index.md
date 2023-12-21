@@ -1,9 +1,9 @@
 ---
 title: VCardRootPackage
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents the root package allowing working with metadata in a VCard file.
 type: docs
-weight: 273
+weight: 271
 url: /java/com.groupdocs.metadata.core/vcardrootpackage/
 ---
 **Inheritance:**

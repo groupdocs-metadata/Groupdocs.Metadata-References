@@ -1,9 +1,9 @@
 ---
 title: SpreadsheetComment
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents a user comment in a spreadsheet.
 type: docs
-weight: 227
+weight: 225
 url: /java/com.groupdocs.metadata.core/spreadsheetcomment/
 ---
 **Inheritance:**

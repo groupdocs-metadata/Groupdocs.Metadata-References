@@ -1,9 +1,9 @@
 ---
 title: InteroperabilityIFDPointerPackage
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents Interoperability IFD.
 type: docs
-weight: 131
+weight: 130
 url: /java/com.groupdocs.metadata.core/interoperabilityifdpointerpackage/
 ---
 **Inheritance:**

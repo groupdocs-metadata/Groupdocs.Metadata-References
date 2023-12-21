@@ -1,9 +1,9 @@
 ---
 title: XmpThumbnail
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents a thumbnail image for a file.
 type: docs
-weight: 335
+weight: 333
 url: /java/com.groupdocs.metadata.core/xmpthumbnail/
 ---
 **Inheritance:**

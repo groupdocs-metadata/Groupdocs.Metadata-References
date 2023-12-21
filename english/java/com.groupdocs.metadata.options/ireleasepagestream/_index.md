@@ -1,6 +1,6 @@
 ---
 title: IReleasePageStream
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Defines a method which releases the stream created by the passed ICreatePageStream implementation.
 type: docs
 weight: 13

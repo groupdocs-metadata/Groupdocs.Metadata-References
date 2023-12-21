@@ -1,6 +1,6 @@
 ---
 title: DocumentInfo
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Provides common information about a loaded document.
 type: docs
 weight: 80

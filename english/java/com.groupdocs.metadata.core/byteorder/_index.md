@@ -1,9 +1,9 @@
 ---
 title: ByteOrder
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Defines various byte orders.
 type: docs
-weight: 357
+weight: 355
 url: /java/com.groupdocs.metadata.core/byteorder/
 ---
 **Inheritance:**

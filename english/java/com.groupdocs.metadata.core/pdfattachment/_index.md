@@ -1,9 +1,9 @@
 ---
 title: PdfAttachment
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents an attachment in a PDF document.
 type: docs
-weight: 186
+weight: 185
 url: /java/com.groupdocs.metadata.core/pdfattachment/
 ---
 **Inheritance:**

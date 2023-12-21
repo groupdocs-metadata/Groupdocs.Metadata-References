@@ -1,9 +1,9 @@
 ---
 title: VCardGeneralRecordset
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents a set of General vCard records.
 type: docs
-weight: 266
+weight: 264
 url: /java/com.groupdocs.metadata.core/vcardgeneralrecordset/
 ---
 **Inheritance:**

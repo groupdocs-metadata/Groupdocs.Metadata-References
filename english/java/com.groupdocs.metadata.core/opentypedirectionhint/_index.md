@@ -1,9 +1,9 @@
 ---
 title: OpenTypeDirectionHint
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents the OpenType font direction.
 type: docs
-weight: 377
+weight: 375
 url: /java/com.groupdocs.metadata.core/opentypedirectionhint/
 ---
 **Inheritance:**

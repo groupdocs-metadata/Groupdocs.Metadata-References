@@ -1,9 +1,9 @@
 ---
 title: OpenTypeWindowsNameRecord
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents the Name record table value for OpenTypePlatform.Windows platform.
 type: docs
-weight: 182
+weight: 181
 url: /java/com.groupdocs.metadata.core/opentypewindowsnamerecord/
 ---
 **Inheritance:**

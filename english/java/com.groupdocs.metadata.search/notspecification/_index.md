@@ -1,6 +1,6 @@
 ---
 title: NotSpecification
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents a composite specification that negates any other specification.
 type: docs
 weight: 14

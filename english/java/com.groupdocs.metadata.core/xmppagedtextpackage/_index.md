@@ -1,9 +1,9 @@
 ---
 title: XmpPagedTextPackage
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents the XMP Paged-Text package.
 type: docs
-weight: 324
+weight: 322
 url: /java/com.groupdocs.metadata.core/xmppagedtextpackage/
 ---
 **Inheritance:**

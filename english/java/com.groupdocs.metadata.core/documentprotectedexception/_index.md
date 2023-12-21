@@ -1,6 +1,6 @@
 ---
 title: DocumentProtectedException
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: The exception that is thrown when document is protected by password.
 type: docs
 weight: 82

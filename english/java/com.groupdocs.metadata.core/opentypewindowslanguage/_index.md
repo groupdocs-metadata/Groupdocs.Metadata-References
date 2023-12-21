@@ -1,9 +1,9 @@
 ---
 title: OpenTypeWindowsLanguage
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents language for OpenTypePlatform.Windows platform.
 type: docs
-weight: 388
+weight: 386
 url: /java/com.groupdocs.metadata.core/opentypewindowslanguage/
 ---
 **Inheritance:**

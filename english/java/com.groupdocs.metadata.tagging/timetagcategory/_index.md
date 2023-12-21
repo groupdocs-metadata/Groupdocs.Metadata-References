@@ -1,6 +1,6 @@
 ---
 title: TimeTagCategory
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Provides tags that mark metadata properties used to describe the lifecycle of a file.
 type: docs
 weight: 20

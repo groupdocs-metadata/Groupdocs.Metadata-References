@@ -1,9 +1,9 @@
 ---
 title: VCardDateTimeRecord
-second_title: GroupDocs.Metadata for Java API Reference
+second_title: GroupDocs.Signature for Java API Reference
 description: Represents vCard date time record metadata class.
 type: docs
-weight: 263
+weight: 261
 url: /java/com.groupdocs.metadata.core/vcarddatetimerecord/
 ---
 **Inheritance:**
