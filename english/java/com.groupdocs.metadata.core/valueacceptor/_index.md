@@ -3,7 +3,7 @@ title: ValueAcceptor
 second_title: GroupDocs.Metadata for Java API Reference
 description: Provides a base abstract class that allows extracting all supported types of values from a PropertyValue instance.
 type: docs
-weight: 276
+weight: 274
 url: /java/com.groupdocs.metadata.core/valueacceptor/
 ---
 **Inheritance:**

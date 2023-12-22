@@ -3,7 +3,7 @@ title: ID3V2AttachedPictureFrame
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents an APIC frame in an ID3V2Tag.
 type: docs
-weight: 113
+weight: 112
 url: /java/com.groupdocs.metadata.core/id3v2attachedpictureframe/
 ---
 **Inheritance:**

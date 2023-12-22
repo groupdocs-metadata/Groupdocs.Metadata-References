@@ -3,7 +3,7 @@ title: XmpReal
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents XMP Real.
 type: docs
-weight: 328
+weight: 326
 url: /java/com.groupdocs.metadata.core/xmpreal/
 ---
 **Inheritance:**

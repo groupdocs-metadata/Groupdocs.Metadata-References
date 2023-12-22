@@ -3,7 +3,7 @@ title: OpenTypeMacintoshEncoding
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents encoding for the OpenTypePlatform.Macintosh platform.
 type: docs
-weight: 379
+weight: 377
 url: /java/com.groupdocs.metadata.core/opentypemacintoshencoding/
 ---
 **Inheritance:**

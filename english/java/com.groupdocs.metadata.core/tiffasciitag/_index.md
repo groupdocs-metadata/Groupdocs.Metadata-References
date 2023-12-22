@@ -3,7 +3,7 @@ title: TiffAsciiTag
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a TIFF ASCII tag.
 type: docs
-weight: 236
+weight: 234
 url: /java/com.groupdocs.metadata.core/tiffasciitag/
 ---
 **Inheritance:**

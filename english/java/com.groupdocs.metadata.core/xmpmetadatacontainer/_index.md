@@ -3,7 +3,7 @@ title: XmpMetadataContainer
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a container for XMP metadata properties.
 type: docs
-weight: 320
+weight: 318
 url: /java/com.groupdocs.metadata.core/xmpmetadatacontainer/
 ---
 **Inheritance:**

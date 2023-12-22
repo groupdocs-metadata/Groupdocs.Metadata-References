@@ -3,7 +3,7 @@ title: OpenTypeRootPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the root package allowing working with metadata in an OpenType font file.
 type: docs
-weight: 179
+weight: 178
 url: /java/com.groupdocs.metadata.core/opentyperootpackage/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: OpenTypeFont
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a single font extracted from a file.
 type: docs
-weight: 175
+weight: 174
 url: /java/com.groupdocs.metadata.core/opentypefont/
 ---
 **Inheritance:**

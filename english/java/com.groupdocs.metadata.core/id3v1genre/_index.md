@@ -3,7 +3,7 @@ title: ID3V1Genre
 second_title: GroupDocs.Metadata for Java API Reference
 description: Specifies genres used in an Id3v1 tag.
 type: docs
-weight: 111
+weight: 110
 url: /java/com.groupdocs.metadata.core/id3v1genre/
 ---
 **Inheritance:**

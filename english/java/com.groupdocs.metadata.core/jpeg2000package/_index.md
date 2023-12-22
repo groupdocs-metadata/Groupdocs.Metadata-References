@@ -3,7 +3,7 @@ title: Jpeg2000Package
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents native JPEG2000 metadata.
 type: docs
-weight: 140
+weight: 139
 url: /java/com.groupdocs.metadata.core/jpeg2000package/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: TiffByteTag
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a Byte tag.
 type: docs
-weight: 237
+weight: 235
 url: /java/com.groupdocs.metadata.core/tiffbytetag/
 ---
 **Inheritance:**

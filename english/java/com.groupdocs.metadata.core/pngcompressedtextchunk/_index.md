@@ -3,7 +3,7 @@ title: PngCompressedTextChunk
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents compressed textual data extracted from a PNG image.
 type: docs
-weight: 194
+weight: 192
 url: /java/com.groupdocs.metadata.core/pngcompressedtextchunk/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: XmpRational
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents XMP XmpRational.
 type: docs
-weight: 327
+weight: 325
 url: /java/com.groupdocs.metadata.core/xmprational/
 ---
 **Inheritance:**

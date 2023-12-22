@@ -3,7 +3,7 @@ title: OpenTypeWindowsEncoding
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents encoding for the OpenTypePlatform.Windows platform.
 type: docs
-weight: 387
+weight: 385
 url: /java/com.groupdocs.metadata.core/opentypewindowsencoding/
 ---
 **Inheritance:**

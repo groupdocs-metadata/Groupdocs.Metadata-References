@@ -3,7 +3,7 @@ title: MatroskaTargetTypeValue
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a number to indicate the logical level of the Matroska tag target.
 type: docs
-weight: 365
+weight: 363
 url: /java/com.groupdocs.metadata.core/matroskatargettypevalue/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: IXmp
 second_title: GroupDocs.Metadata for Java API Reference
 description: Defines base operations intended to work with XMP metadata.
 type: docs
-weight: 353
+weight: 351
 url: /java/com.groupdocs.metadata.core/ixmp/
 ---```
 public interface IXmp

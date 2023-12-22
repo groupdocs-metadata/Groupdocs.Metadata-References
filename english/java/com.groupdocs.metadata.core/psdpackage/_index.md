@@ -3,7 +3,7 @@ title: PsdPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents native Photoshop metadata.
 type: docs
-weight: 212
+weight: 210
 url: /java/com.groupdocs.metadata.core/psdpackage/
 ---
 **Inheritance:**

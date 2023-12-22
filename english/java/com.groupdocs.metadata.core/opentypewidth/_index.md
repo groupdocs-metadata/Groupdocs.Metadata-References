@@ -3,7 +3,7 @@ title: OpenTypeWidth
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the OpenType font width.
 type: docs
-weight: 386
+weight: 384
 url: /java/com.groupdocs.metadata.core/opentypewidth/
 ---
 **Inheritance:**

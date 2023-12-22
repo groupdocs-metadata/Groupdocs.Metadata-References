@@ -3,7 +3,7 @@ title: ImageResourceID
 second_title: GroupDocs.Metadata for Java API Reference
 description: Image resources standard ID numbers.
 type: docs
-weight: 127
+weight: 126
 url: /java/com.groupdocs.metadata.core/imageresourceid/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: MetadataType
 second_title: GroupDocs.Metadata for Java API Reference
 description: Specifies the type of a metadata package.
 type: docs
-weight: 372
+weight: 370
 url: /java/com.groupdocs.metadata.core/metadatatype/
 ---
 **Inheritance:**

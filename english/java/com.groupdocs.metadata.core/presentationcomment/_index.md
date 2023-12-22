@@ -3,7 +3,7 @@ title: PresentationComment
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a user comment in a presentation.
 type: docs
-weight: 199
+weight: 197
 url: /java/com.groupdocs.metadata.core/presentationcomment/
 ---
 **Inheritance:**

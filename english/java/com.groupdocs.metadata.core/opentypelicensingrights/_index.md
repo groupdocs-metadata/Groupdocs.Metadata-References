@@ -3,7 +3,7 @@ title: OpenTypeLicensingRights
 second_title: GroupDocs.Metadata for Java API Reference
 description: Indicates font embedding licensing rights for the font.
 type: docs
-weight: 176
+weight: 175
 url: /java/com.groupdocs.metadata.core/opentypelicensingrights/
 ---
 **Inheritance:**

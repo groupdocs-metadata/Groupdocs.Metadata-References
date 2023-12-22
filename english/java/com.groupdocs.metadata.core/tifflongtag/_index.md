@@ -3,7 +3,7 @@ title: TiffLongTag
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a TIFF Long tag.
 type: docs
-weight: 240
+weight: 238
 url: /java/com.groupdocs.metadata.core/tifflongtag/
 ---
 **Inheritance:**

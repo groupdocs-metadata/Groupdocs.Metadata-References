@@ -3,7 +3,7 @@ title: RawIFD2Package
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents IFD1 tags.
 type: docs
-weight: 217
+weight: 215
 url: /java/com.groupdocs.metadata.core/rawifd2package/
 ---
 **Inheritance:**

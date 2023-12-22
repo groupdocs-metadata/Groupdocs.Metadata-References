@@ -17,35 +17,44 @@ Provides methods to set metered key.
 
 | Constructor | Description |
 | --- | --- |
-| [Metered()](#Metered--) | Initializes a new instance of this class. |
+| [Metered()](#Metered--) |  |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [setMeteredKey(String publicKey, String privateKey)](#setMeteredKey-java.lang.String-java.lang.String-) | Sets metered public and private key. |
-| [getConsumptionQuantity()](#getConsumptionQuantity--) | Retrieves the amount of MBs processed. |
-| [getConsumptionCredit()](#getConsumptionCredit--) | Retrieves the count of credits consumed. |
+| [setMeteredKey(String publicKey, String privateKey)](#setMeteredKey-java.lang.String-java.lang.String-) | Activates product with Metered keys. |
+| [getConsumptionQuantity()](#getConsumptionQuantity--) | Retrieves amount of MBs processed. |
+| [getConsumptionCredit()](#getConsumptionCredit--) | Retrieves amount of used credits |
 ### Metered() {#Metered--}
 ```
 public Metered()
 ```
 
 
-Initializes a new instance of this class.
-
 ### setMeteredKey(String publicKey, String privateKey) {#setMeteredKey-java.lang.String-java.lang.String-}
 ```
-public void setMeteredKey(String publicKey, String privateKey)
+public final void setMeteredKey(String publicKey, String privateKey)
 ```
 
 
-Sets metered public and private key.
+Activates product with Metered keys.
+
+--------------------
+
+> ```
+> Following example demonstrates how to activate product with Metered keys.
+>  
+>  string publicKey = "Public Key";
+>  string privateKey = "Private Key";
+>  Metered metered = new Metered();
+>  metered.SetMeteredKey(publicKey, privateKey);
+> ```
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| publicKey | java.lang.String | A public key. |
-| privateKey | java.lang.String | A private key. |
+| publicKey | java.lang.String | The public key. |
+| privateKey | java.lang.String | The private key. |
 
 ### getConsumptionQuantity() {#getConsumptionQuantity--}
 ```
@@ -53,17 +62,43 @@ public static double getConsumptionQuantity()
 ```
 
 
-Retrieves the amount of MBs processed.
+Retrieves amount of MBs processed.
+
+--------------------
+
+> ```
+> Following example demonstrates how to retrieve amount of MBs processed.
+>   
+>   string publicKey = "Public Key";
+>   string privateKey = "Private Key";
+> 
+>   Metered metered = new Metered();
+>   metered.SetMeteredKey(publicKey, privateKey);
+>   decimal mbProcessed = Metered.GetConsumptionQuantity();
+> ```
 
 **Returns:**
-double - A double value that represents the consumption quantity.
+double
 ### getConsumptionCredit() {#getConsumptionCredit--}
 ```
 public static double getConsumptionCredit()
 ```
 
 
-Retrieves the count of credits consumed.
+Retrieves amount of used credits
+
+--------------------
+
+> ```
+> Following example demonstrates how to retrieve amount of MBs processed.
+>   
+>   string publicKey = "Public Key";
+>   string privateKey = "Private Key";
+> 
+>   Metered metered = new Metered();
+>   metered.SetMeteredKey(publicKey, privateKey);
+>   decimal usedCredits = Metered.GetConsumptionCredit();
+> ```
 
 **Returns:**
-double - A double value that represents the consumption credit.
+double

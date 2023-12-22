@@ -3,7 +3,7 @@ title: ID3V2MlltFrame
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents an MLLT frame in an ID3V2Tag.
 type: docs
-weight: 116
+weight: 115
 url: /java/com.groupdocs.metadata.core/id3v2mlltframe/
 ---
 **Inheritance:**

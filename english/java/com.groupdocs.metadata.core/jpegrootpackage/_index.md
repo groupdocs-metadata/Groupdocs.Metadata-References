@@ -3,7 +3,7 @@ title: JpegRootPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the root package allowing working with metadata in a JPEG image.
 type: docs
-weight: 142
+weight: 141
 url: /java/com.groupdocs.metadata.core/jpegrootpackage/
 ---
 **Inheritance:**

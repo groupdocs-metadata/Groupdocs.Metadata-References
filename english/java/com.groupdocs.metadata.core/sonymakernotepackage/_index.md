@@ -3,7 +3,7 @@ title: SonyMakerNotePackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents SONY MakerNote metadata.
 type: docs
-weight: 226
+weight: 224
 url: /java/com.groupdocs.metadata.core/sonymakernotepackage/
 ---
 **Inheritance:**

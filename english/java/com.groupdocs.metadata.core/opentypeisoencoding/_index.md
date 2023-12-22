@@ -3,7 +3,7 @@ title: OpenTypeIsoEncoding
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents encoding for the OpenTypePlatform.Iso platform.
 type: docs
-weight: 378
+weight: 376
 url: /java/com.groupdocs.metadata.core/opentypeisoencoding/
 ---
 **Inheritance:**

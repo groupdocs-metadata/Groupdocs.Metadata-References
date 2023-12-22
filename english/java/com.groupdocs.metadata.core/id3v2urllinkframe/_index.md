@@ -3,7 +3,7 @@ title: ID3V2UrlLinkFrame
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a URL link frame in an ID3V2Tag.
 type: docs
-weight: 123
+weight: 122
 url: /java/com.groupdocs.metadata.core/id3v2urllinkframe/
 ---
 **Inheritance:**

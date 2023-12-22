@@ -3,7 +3,7 @@ title: IReadOnlyList
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a read-only collection of elements that can be accessed by index.
 type: docs
-weight: 352
+weight: 350
 url: /java/com.groupdocs.metadata.core/ireadonlylist/
 ---
 **All Implemented Interfaces:**

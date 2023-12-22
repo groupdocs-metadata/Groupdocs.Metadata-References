@@ -3,7 +3,7 @@ title: ImageResourcePackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a metadata package containing Photoshop Image Resources.
 type: docs
-weight: 128
+weight: 127
 url: /java/com.groupdocs.metadata.core/imageresourcepackage/
 ---
 **Inheritance:**

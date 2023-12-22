@@ -3,7 +3,7 @@ title: XmpCropUnit
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represent a unit for CropWidth and CropHeight in XmpCameraRawPackage.
 type: docs
-weight: 402
+weight: 400
 url: /java/com.groupdocs.metadata.core/xmpcropunit/
 ---
 **Inheritance:**

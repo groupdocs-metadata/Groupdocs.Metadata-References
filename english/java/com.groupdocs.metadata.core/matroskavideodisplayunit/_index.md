@@ -3,7 +3,7 @@ title: MatroskaVideoDisplayUnit
 second_title: GroupDocs.Metadata for Java API Reference
 description: Defines how Matroska DisplayWidth and DisplayHeight are interpreted.
 type: docs
-weight: 367
+weight: 365
 url: /java/com.groupdocs.metadata.core/matroskavideodisplayunit/
 ---
 **Inheritance:**

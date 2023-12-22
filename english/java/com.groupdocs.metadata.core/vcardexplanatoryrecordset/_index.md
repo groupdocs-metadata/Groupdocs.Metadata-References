@@ -3,7 +3,7 @@ title: VCardExplanatoryRecordset
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a set of Explanatory vCard records.
 type: docs
-weight: 265
+weight: 263
 url: /java/com.groupdocs.metadata.core/vcardexplanatoryrecordset/
 ---
 **Inheritance:**

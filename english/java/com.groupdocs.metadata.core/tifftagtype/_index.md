@@ -3,7 +3,7 @@ title: TiffTagType
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the IFD data type.
 type: docs
-weight: 395
+weight: 393
 url: /java/com.groupdocs.metadata.core/tifftagtype/
 ---
 **Inheritance:**
@@ -33,17 +33,21 @@ Represents the IFD data type.
 | [Float](#Float) | A 4-byte IEEE floating point value. |
 | [Double](#Double) | An 8-byte IEEE floating point value. |
 | [SubIfd](#SubIfd) | A 4-byte long offset value |
+| [value](#value) |  |
 ## Methods
 
 | Method | Description |
 | --- | --- |
 | [values()](#values--) |  |
 | [valueOf(String name)](#valueOf-java.lang.String-) |  |
+| [get_Value()](#get-Value--) |  |
+| [set_Value(String value1)](#set-Value-java.lang.String-) |  |
 | [getByRawValue(int rawValue)](#getByRawValue-int-) |  |
 | [getFirst()](#getFirst--) |  |
 | [getAllValues()](#getAllValues--) |  |
 | [getEnumValueByRawValue(int rawValue)](#getEnumValueByRawValue-int-) |  |
 | [getEnumValueByName(String name)](#getEnumValueByName-java.lang.String-) |  |
+| [getTiffTagType()](#getTiffTagType--) |  |
 | [getRawValueType()](#getRawValueType--) |  |
 | [getRawValue()](#getRawValue--) |  |
 ### Byte {#Byte}
@@ -150,6 +154,12 @@ public static final TiffTagType SubIfd
 
 A 4-byte long offset value
 
+### value {#value}
+```
+public String value
+```
+
+
 ### values() {#values--}
 ```
 public static TiffTagType[] values()
@@ -175,6 +185,29 @@ public static TiffTagType valueOf(String name)
 
 **Returns:**
 [TiffTagType](../../com.groupdocs.metadata.core/tifftagtype)
+### get_Value() {#get-Value--}
+```
+public final String get_Value()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### set_Value(String value1) {#set-Value-java.lang.String-}
+```
+public final void set_Value(String value1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value1 | java.lang.String |  |
+
 ### getByRawValue(int rawValue) {#getByRawValue-int-}
 ```
 public static TiffTagType getByRawValue(int rawValue)
@@ -240,6 +273,16 @@ Returns the enumeration value by its name.
 
 **Returns:**
 [IEnumValue](../../com.groupdocs.metadata.core/ienumvalue)
+### getTiffTagType() {#getTiffTagType--}
+```
+public int getTiffTagType()
+```
+
+
+
+
+**Returns:**
+int
 ### getRawValueType() {#getRawValueType--}
 ```
 public RawIntegerType getRawValueType()

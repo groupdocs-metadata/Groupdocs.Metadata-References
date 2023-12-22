@@ -3,7 +3,7 @@ title: XmpPacketWrapper
 second_title: GroupDocs.Metadata for Java API Reference
 description: Contains serialized XMP package including header and trailer.
 type: docs
-weight: 323
+weight: 321
 url: /java/com.groupdocs.metadata.core/xmppacketwrapper/
 ---
 **Inheritance:**

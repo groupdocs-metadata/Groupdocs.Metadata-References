@@ -3,7 +3,7 @@ title: MpegAudioVersion
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a particular MPEG standard.
 type: docs
-weight: 373
+weight: 371
 url: /java/com.groupdocs.metadata.core/mpegaudioversion/
 ---
 **Inheritance:**

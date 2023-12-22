@@ -29,6 +29,8 @@ Represents native DICOM metadata.
 
 | Method | Description |
 | --- | --- |
+| [getHeaderOffset()](#getHeaderOffset--) | Gets the header offset. |
+| [getHeaderBytes()](#getHeaderBytes--) | Gets the header information by bytes. |
 | [getBitsAllocated()](#getBitsAllocated--) | Gets the bits allocated value. |
 | [getDicomInfo()](#getDicomInfo--) | Gets the header information of the DICOM file. |
 | [getBlues()](#getBlues--) | Gets the array colors of the blue. |
@@ -43,6 +45,30 @@ public DicomPackage()
 
 Initializes a new instance of the  Metadata  class.
 
+### getHeaderOffset() {#getHeaderOffset--}
+```
+public final int getHeaderOffset()
+```
+
+
+Gets the header offset.
+
+Value: The header offset.
+
+**Returns:**
+int
+### getHeaderBytes() {#getHeaderBytes--}
+```
+public final Byte[] getHeaderBytes()
+```
+
+
+Gets the header information by bytes.
+
+Value: The header bytes.
+
+**Returns:**
+java.lang.Byte[]
 ### getBitsAllocated() {#getBitsAllocated--}
 ```
 public final int getBitsAllocated()

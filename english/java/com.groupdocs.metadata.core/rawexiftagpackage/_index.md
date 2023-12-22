@@ -3,7 +3,7 @@ title: RawExifTagPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents Exif tags.
 type: docs
-weight: 215
+weight: 213
 url: /java/com.groupdocs.metadata.core/rawexiftagpackage/
 ---
 **Inheritance:**

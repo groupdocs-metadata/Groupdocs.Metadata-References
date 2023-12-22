@@ -3,7 +3,7 @@ title: PdfBookmark
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a bookmark in a PDF document.
 type: docs
-weight: 187
+weight: 186
 url: /java/com.groupdocs.metadata.core/pdfbookmark/
 ---
 **Inheritance:**

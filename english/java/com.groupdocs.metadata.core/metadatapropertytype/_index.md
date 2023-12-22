@@ -3,7 +3,7 @@ title: MetadataPropertyType
 second_title: GroupDocs.Metadata for Java API Reference
 description: Defines metadata property types.
 type: docs
-weight: 371
+weight: 369
 url: /java/com.groupdocs.metadata.core/metadatapropertytype/
 ---
 **Inheritance:**

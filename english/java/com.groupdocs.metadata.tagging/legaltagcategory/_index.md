@@ -1,7 +1,7 @@
 ---
 title: LegalTagCategory
 second_title: GroupDocs.Metadata for Java API Reference
-description: Provides tags that are attached to metadata properties holding information about the owners of the file content  and the rules under which the content can be used.
+description: Provides tags that are attached to metadata properties holding information about the owners of the file content and the rules under which the content can be used.
 type: docs
 weight: 13
 url: /java/com.groupdocs.metadata.tagging/legaltagcategory/

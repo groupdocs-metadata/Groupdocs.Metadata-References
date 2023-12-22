@@ -3,7 +3,7 @@ title: NikonMakerNotePackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents NIKON MakerNote metadata.
 type: docs
-weight: 168
+weight: 167
 url: /java/com.groupdocs.metadata.core/nikonmakernotepackage/
 ---
 **Inheritance:**

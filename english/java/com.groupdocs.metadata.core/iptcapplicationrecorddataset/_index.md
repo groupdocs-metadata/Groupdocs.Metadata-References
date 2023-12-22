@@ -3,7 +3,7 @@ title: IptcApplicationRecordDataSet
 second_title: GroupDocs.Metadata for Java API Reference
 description: Defines IPTC Application Record dataSet numbers.
 type: docs
-weight: 363
+weight: 361
 url: /java/com.groupdocs.metadata.core/iptcapplicationrecorddataset/
 ---
 **Inheritance:**

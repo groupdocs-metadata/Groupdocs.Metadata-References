@@ -3,7 +3,7 @@ title: RootMetadataPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents an entry point to all metadata packages presented in a particular file.
 type: docs
-weight: 225
+weight: 223
 url: /java/com.groupdocs.metadata.core/rootmetadatapackage/
 ---
 **Inheritance:**

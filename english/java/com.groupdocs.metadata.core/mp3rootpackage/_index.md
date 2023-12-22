@@ -3,7 +3,7 @@ title: MP3RootPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the root package allowing working with metadata in an MP3 audio.
 type: docs
-weight: 145
+weight: 144
 url: /java/com.groupdocs.metadata.core/mp3rootpackage/
 ---
 **Inheritance:**

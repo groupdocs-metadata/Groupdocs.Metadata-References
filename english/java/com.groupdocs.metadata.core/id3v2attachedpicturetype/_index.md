@@ -3,7 +3,7 @@ title: ID3V2AttachedPictureType
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the type of an attached picture.
 type: docs
-weight: 114
+weight: 113
 url: /java/com.groupdocs.metadata.core/id3v2attachedpicturetype/
 ---
 **Inheritance:**

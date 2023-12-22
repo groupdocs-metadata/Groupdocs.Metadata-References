@@ -3,7 +3,7 @@ title: ExifGpsAltitudeRef
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a GPS altitude reference.
 type: docs
-weight: 360
+weight: 358
 url: /java/com.groupdocs.metadata.core/exifgpsaltituderef/
 ---
 **Inheritance:**

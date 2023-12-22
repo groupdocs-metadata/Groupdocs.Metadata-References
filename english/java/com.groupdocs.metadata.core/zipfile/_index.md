@@ -3,7 +3,7 @@ title: ZipFile
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents metadata associated with an archived file or directory.
 type: docs
-weight: 343
+weight: 341
 url: /java/com.groupdocs.metadata.core/zipfile/
 ---
 **Inheritance:**

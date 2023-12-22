@@ -3,7 +3,7 @@ title: XmpDynamicMediaPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents XMP Dynamic Media namespace.
 type: docs
-weight: 306
+weight: 304
 url: /java/com.groupdocs.metadata.core/xmpdynamicmediapackage/
 ---
 **Inheritance:**

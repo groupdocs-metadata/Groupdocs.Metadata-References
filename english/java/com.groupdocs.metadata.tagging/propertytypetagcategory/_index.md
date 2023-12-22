@@ -25,6 +25,7 @@ Provides tags that bear additional information about the type of a property rath
 | [getLocation()](#getLocation--) | Gets the tag that indicates a property being a reference to a geographical location. |
 | [getFont()](#getFont--) | Gets the tag that denotes a property describing font characteristics. |
 | [getColor()](#getColor--) | Gets the tag that labels a property describing a color. |
+| [getBitrate()](#getBitrate--) | Gets the tag that labels a property describing a bitrate. |
 ### getLink() {#getLink--}
 ```
 public final PropertyTag getLink()
@@ -105,3 +106,13 @@ Gets the tag that labels a property describing a color.
 
 **Returns:**
 [PropertyTag](../../com.groupdocs.metadata.tagging/propertytag) - The tag that labels a property describing a color.
+### getBitrate() {#getBitrate--}
+```
+public final PropertyTag getBitrate()
+```
+
+
+Gets the tag that labels a property describing a bitrate.
+
+**Returns:**
+[PropertyTag](../../com.groupdocs.metadata.tagging/propertytag) - The tag that labels a property describing a bitrate.

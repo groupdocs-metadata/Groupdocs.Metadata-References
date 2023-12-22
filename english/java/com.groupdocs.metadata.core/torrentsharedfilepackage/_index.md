@@ -3,7 +3,7 @@ title: TorrentSharedFilePackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents shared file information.
 type: docs
-weight: 255
+weight: 253
 url: /java/com.groupdocs.metadata.core/torrentsharedfilepackage/
 ---
 **Inheritance:**

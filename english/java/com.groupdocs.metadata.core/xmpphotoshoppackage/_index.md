@@ -3,7 +3,7 @@ title: XmpPhotoshopPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents Adobe Photoshop namespace.
 type: docs
-weight: 326
+weight: 324
 url: /java/com.groupdocs.metadata.core/xmpphotoshoppackage/
 ---
 **Inheritance:**

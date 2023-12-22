@@ -3,7 +3,7 @@ title: SpreadsheetRootPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the root package allowing working with metadata in a spreadsheet.
 type: docs
-weight: 232
+weight: 230
 url: /java/com.groupdocs.metadata.core/spreadsheetrootpackage/
 ---
 **Inheritance:**
@@ -32,7 +32,7 @@ This code snippet demonstrates how to extract built-in metadata properties from 
 >      System.out.println(root.getDocumentProperties().getKeywords());
 >      System.out.println(root.getDocumentProperties().getLanguage());
 >      System.out.println(root.getDocumentProperties().getContentType());
->      // ... 
+>      // ...
 >  }
 >  
 > ```

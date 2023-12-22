@@ -3,7 +3,7 @@ title: PdfRootPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the root package allowing working with metadata in a PDF document.
 type: docs
-weight: 191
+weight: 190
 url: /java/com.groupdocs.metadata.core/pdfrootpackage/
 ---
 **Inheritance:**

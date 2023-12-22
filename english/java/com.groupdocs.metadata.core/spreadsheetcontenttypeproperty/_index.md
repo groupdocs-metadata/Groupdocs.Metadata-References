@@ -3,7 +3,7 @@ title: SpreadsheetContentTypeProperty
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a content type property in a spreadsheet.
 type: docs
-weight: 229
+weight: 227
 url: /java/com.groupdocs.metadata.core/spreadsheetcontenttypeproperty/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: XmpLangAlt
 second_title: GroupDocs.Metadata for Java API Reference
 description: 
 type: docs
-weight: 317
+weight: 315
 url: /java/com.groupdocs.metadata.core/xmplangalt/
 ---
 **Inheritance:**

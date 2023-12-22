@@ -3,7 +3,7 @@ title: VCardDeliveryAddressingRecordset
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a set of Delivery Addressing vCard records.
 type: docs
-weight: 264
+weight: 262
 url: /java/com.groupdocs.metadata.core/vcarddeliveryaddressingrecordset/
 ---
 **Inheritance:**

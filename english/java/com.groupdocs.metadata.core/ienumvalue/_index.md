@@ -3,7 +3,7 @@ title: IEnumValue
 second_title: GroupDocs.Metadata for Java API Reference
 description: Defines a value of an enumeration.
 type: docs
-weight: 348
+weight: 346
 url: /java/com.groupdocs.metadata.core/ienumvalue/
 ---```
 public interface IEnumValue

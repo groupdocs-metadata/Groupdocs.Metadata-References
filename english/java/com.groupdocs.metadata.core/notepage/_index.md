@@ -3,7 +3,7 @@ title: NotePage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a page in a OneNote section.
 type: docs
-weight: 170
+weight: 169
 url: /java/com.groupdocs.metadata.core/notepage/
 ---
 **Inheritance:**

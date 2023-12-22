@@ -3,7 +3,7 @@ title: ID3V2PlayCounterFrame
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a PCNT frame in an ID3V2Tag.
 type: docs
-weight: 117
+weight: 116
 url: /java/com.groupdocs.metadata.core/id3v2playcounterframe/
 ---
 **Inheritance:**
