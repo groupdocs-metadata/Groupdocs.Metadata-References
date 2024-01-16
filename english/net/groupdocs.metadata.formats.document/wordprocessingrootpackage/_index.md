@@ -3,7 +3,7 @@ title: WordProcessingRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the root package allowing working with metadata in a word processing document.
 type: docs
-weight: 1360
+weight: 1450
 url: /net/groupdocs.metadata.formats.document/wordprocessingrootpackage/
 ---
 ## WordProcessingRootPackage class

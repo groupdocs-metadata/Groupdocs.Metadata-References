@@ -3,7 +3,7 @@ title: VCardRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the root package allowing working with metadata in a VCard file.
 type: docs
-weight: 840
+weight: 930
 url: /net/groupdocs.metadata.formats.businesscard/vcardrootpackage/
 ---
 ## VCardRootPackage class

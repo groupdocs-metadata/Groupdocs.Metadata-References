@@ -3,7 +3,7 @@ title: OpenTypePackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents an OpenType font metadata package.
 type: docs
-weight: 1580
+weight: 1670
 url: /net/groupdocs.metadata.formats.font/opentypepackage/
 ---
 ## OpenTypePackage class

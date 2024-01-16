@@ -3,7 +3,7 @@ title: PdfBookmark
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a bookmark in a PDF document.
 type: docs
-weight: 1050
+weight: 1140
 url: /net/groupdocs.metadata.formats.document/pdfbookmark/
 ---
 ## PdfBookmark class

@@ -3,7 +3,7 @@ title: XmpMediaManagementPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the XMP Media Management namespace.
 type: docs
-weight: 4160
+weight: 4250
 url: /net/groupdocs.metadata.standards.xmp.schemes/xmpmediamanagementpackage/
 ---
 ## XmpMediaManagementPackage class

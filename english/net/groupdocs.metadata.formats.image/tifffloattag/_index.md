@@ -3,7 +3,7 @@ title: TiffFloatTag
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a TIFF float tag.
 type: docs
-weight: 2160
+weight: 2250
 url: /net/groupdocs.metadata.formats.image/tifffloattag/
 ---
 ## TiffFloatTag class

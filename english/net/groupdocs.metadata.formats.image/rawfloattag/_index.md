@@ -3,7 +3,7 @@ title: RawFloatTag
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a Raw float tag.
 type: docs
-weight: 2020
+weight: 2110
 url: /net/groupdocs.metadata.formats.image/rawfloattag/
 ---
 ## RawFloatTag class

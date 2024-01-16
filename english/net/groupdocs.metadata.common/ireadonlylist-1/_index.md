@@ -29,7 +29,8 @@ public interface IReadOnlyList<T> : IEnumerable<T>
 
 | Name | Description |
 | --- | --- |
-| [Contains](../../groupdocs.metadata.common/ireadonlylist-1/contains)(T) | Determines whether the collection contains a specific item. |
+| [Contains](../../groupdocs.metadata.common/ireadonlylist-1/contains#contains_1)(T) | Determines whether the collection contains a specific item. |
+| [Contains](../../groupdocs.metadata.common/ireadonlylist-1/contains#contains)(TagCategory) | Determines whether the collection contains a TagCategory item. |
 | [IndexOf](../../groupdocs.metadata.common/ireadonlylist-1/indexof)(T) | Determines the index of a specific item in the collection. |
 
 ### See Also

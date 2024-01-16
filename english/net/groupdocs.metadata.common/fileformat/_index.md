@@ -46,17 +46,20 @@ public enum FileFormat
 | Mov | `25` | A QuickTime video. Mov or QuickTime File format is multimedia container which is developed by Apple: contains one or more tracks, each track holds a particular type of data i.e. Video, Audio, text etc. Mov format is compatible both in Windows and Macintosh systems. Learn more about this file format [here](https://wiki.fileformat.com/video/mov/). |
 | Matroska | `26` | A video encoded with the Matroska multimedia container. |
 | Zip | `27` | A ZIP archive. ZIP file extension represents archives that can hold one or more files or directories. The archive can have compression applied to the included files in order to reduce the ZIP file size. ZIP file format was made public back in February 1989 by Phil Katz for achieving archiving of files and folders. Learn more about this file format [here](https://wiki.fileformat.com/compression/zip/). |
-| VCard | `28` | A VCard file. VCF (Virtual Card Format) or vCard is a digital file format for storing contact information. The format is widely used for data interchange among popular information exchange applications. Learn more about this file format [here](https://wiki.fileformat.com/email/vcf/). |
-| Epub | `29` | An EPUB electronic book. Files with .EPUB extension are an e-book file format that provide a standard digital publication format for publishers and consumers. The format has been so common by now that it is supported by many e-readers and software applications. Learn more about this file format [here](https://wiki.fileformat.com/ebook/epub/). |
-| OpenType | `30` | An OpenType font. |
-| Dxf | `31` | A DXF (Drawing Exchange Format) drawing. DXF, Drawing Interchange Format, or Drawing Exchange Format, is a tagged data representation of AutoCAD drawing file. Each element in the file has a prefix integer number called a group code. Learn more about this file format [here](https://wiki.fileformat.com/cad/dxf/). |
-| Dwg | `32` | A DWG drawing. Files with DWG extension represent proprietary binary files used for containing 2D and 3D design data. Like DXF, which are ASCII files, DWG represent the binary file format for CAD (Computer Aided Design) drawings. Learn more about this file format [here](https://wiki.fileformat.com/cad/dwg/). |
-| Eml | `33` | An EML email message. EML file format represents email messages saved using Outlook and other relevant applications. Almost all emailing clients support this file format for its compliance with RFC-822 Internet Message Format Standard. Learn more about this file format [here](https://wiki.fileformat.com/email/eml/). |
-| Msg | `34` | An MSG email message. MSG is a file format used by Microsoft Outlook and Exchange to store email messages, contact, appointment, or other tasks. Such messages may contain one or more email fields, with the sender, recipient, subject, date, and message body, or contact information, appointment particulars, and one or more task specifications. Learn more about this file format [here](https://wiki.fileformat.com/email/msg/). |
-| Torrent | `35` | A torrent file that contains metadata about files and folders to be distributed. |
-| Heif | `36` | A HEIF/HEIC image. |
-| Dng | `37` | A dng RAW image. |
-| Cr2 | `38` | A CR2 image. |
+| SevenZip | `28` | 7z is a compressed archive file format that supports several different data compression, encryption and pre-processing algorithms. The 7z format initially appeared as implemented by the 7-Zip archiver. The 7-Zip program is publicly available under the terms of the GNU Lesser General Public License. |
+| VCard | `29` | A VCard file. VCF (Virtual Card Format) or vCard is a digital file format for storing contact information. The format is widely used for data interchange among popular information exchange applications. Learn more about this file format [here](https://wiki.fileformat.com/email/vcf/). |
+| Epub | `30` | An EPUB electronic book. Files with .EPUB extension are an e-book file format that provide a standard digital publication format for publishers and consumers. The format has been so common by now that it is supported by many e-readers and software applications. Learn more about this file format [here](https://wiki.fileformat.com/ebook/epub/). |
+| OpenType | `31` | An OpenType font. |
+| Dxf | `32` | A DXF (Drawing Exchange Format) drawing. DXF, Drawing Interchange Format, or Drawing Exchange Format, is a tagged data representation of AutoCAD drawing file. Each element in the file has a prefix integer number called a group code. Learn more about this file format [here](https://wiki.fileformat.com/cad/dxf/). |
+| Dwg | `33` | A DWG drawing. Files with DWG extension represent proprietary binary files used for containing 2D and 3D design data. Like DXF, which are ASCII files, DWG represent the binary file format for CAD (Computer Aided Design) drawings. Learn more about this file format [here](https://wiki.fileformat.com/cad/dwg/). |
+| Eml | `34` | An EML email message. EML file format represents email messages saved using Outlook and other relevant applications. Almost all emailing clients support this file format for its compliance with RFC-822 Internet Message Format Standard. Learn more about this file format [here](https://wiki.fileformat.com/email/eml/). |
+| Msg | `35` | An MSG email message. MSG is a file format used by Microsoft Outlook and Exchange to store email messages, contact, appointment, or other tasks. Such messages may contain one or more email fields, with the sender, recipient, subject, date, and message body, or contact information, appointment particulars, and one or more task specifications. Learn more about this file format [here](https://wiki.fileformat.com/email/msg/). |
+| Torrent | `36` | A torrent file that contains metadata about files and folders to be distributed. |
+| Heif | `37` | A HEIF/HEIC image. |
+| Dng | `38` | A dng RAW image. |
+| Cr2 | `39` | A CR2 image. |
+| Rar | `40` | RAR is a proprietary archive file format that supports data compression, error correction and file spanning. |
+| Tar | `41` | In computing, tar is a computer software utility for collecting many files into one archive file, often referred to as a tarball, for distribution or backup purposes. |
 
 ### See Also
 

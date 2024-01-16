@@ -30,7 +30,8 @@ public class ReadOnlyList<T> : IList, IList<T>, IReadOnlyList<T>
 
 | Name | Description |
 | --- | --- |
-| [Contains](../../groupdocs.metadata.common/readonlylist-1/contains)(T) | Determines whether the collection contains a specific item. |
+| [Contains](../../groupdocs.metadata.common/readonlylist-1/contains#contains_1)(T) | Determines whether the collection contains a specific item. |
+| [Contains](../../groupdocs.metadata.common/readonlylist-1/contains#contains)(TagCategory) | Determines whether the collection contains a TagCategory item. |
 | [GetEnumerator](../../groupdocs.metadata.common/readonlylist-1/getenumerator)() | Returns an enumerator that iterates through a collection. |
 | [IndexOf](../../groupdocs.metadata.common/readonlylist-1/indexof)(T) | Determines the index of a specific item in the collection. |
 

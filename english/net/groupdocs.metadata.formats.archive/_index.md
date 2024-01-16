@@ -12,6 +12,15 @@ The namespace contains classes for working with archive formats.
 
 | Class | Description |
 | --- | --- |
+| [RarFile](./rarfile) | Represents metadata associated with an archived file or directory. |
+| [RarPackage](./rarpackage) | Represents ZIP archive metadata. |
+| [RarRootPackage](./rarrootpackage) | Represents the root package allowing working with metadata in a ZIP archive. |
+| [SevenZipFile](./sevenzipfile) | Represents metadata associated with an archived file or directory. |
+| [SevenZipPackage](./sevenzippackage) | Represents ZIP archive metadata. |
+| [SevenZipRootPackage](./sevenziprootpackage) | Represents the root package allowing working with metadata in a ZIP archive. |
+| [TarFile](./tarfile) | Represents metadata associated with an archived file or directory. |
+| [TarPackage](./tarpackage) | Represents ZIP archive metadata. |
+| [TarRootPackage](./tarrootpackage) | Represents the root package allowing working with metadata in a ZIP archive. |
 | [ZipFile](./zipfile) | Represents metadata associated with an archived file or directory. |
 | [ZipPackage](./zippackage) | Represents ZIP archive metadata. |
 | [ZipRootPackage](./ziprootpackage) | Represents the root package allowing working with metadata in a ZIP archive. |

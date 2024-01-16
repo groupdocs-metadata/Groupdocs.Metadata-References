@@ -6,7 +6,7 @@ type: docs
 weight: 30
 url: /net/groupdocs.metadata.common/ireadonlylist-1/contains/
 ---
-## IReadOnlyList&lt;T&gt;.Contains method
+## Contains(T) {#contains_1}
 
 Determines whether the collection contains a specific item.
 
@@ -24,6 +24,31 @@ True if the item is found in the collection; otherwise, false.
 
 ### See Also
 
+* interface [IReadOnlyList&lt;T&gt;](../../ireadonlylist-1)
+* namespace [GroupDocs.Metadata.Common](../../ireadonlylist-1)
+* assembly [GroupDocs.Metadata](../../../)
+
+---
+
+## Contains(TagCategory) {#contains}
+
+Determines whether the collection contains a TagCategory item.
+
+```csharp
+public bool Contains(TagCategory item)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| item | TagCategory | The item to locate in the collection. |
+
+### Return Value
+
+True if the item is found in the collection; otherwise, false.
+
+### See Also
+
+* class [TagCategory](../../../groupdocs.metadata.tagging/tagcategory)
 * interface [IReadOnlyList&lt;T&gt;](../../ireadonlylist-1)
 * namespace [GroupDocs.Metadata.Common](../../ireadonlylist-1)
 * assembly [GroupDocs.Metadata](../../../)

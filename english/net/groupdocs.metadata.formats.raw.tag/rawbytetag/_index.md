@@ -3,7 +3,7 @@ title: RawByteTag
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents an bytebased TIFF tag.
 type: docs
-weight: 3160
+weight: 3250
 url: /net/groupdocs.metadata.formats.raw.tag/rawbytetag/
 ---
 ## RawByteTag class
