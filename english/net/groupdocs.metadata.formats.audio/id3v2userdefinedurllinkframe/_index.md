@@ -3,7 +3,7 @@ title: ID3V2UserDefinedUrlLinkFrame
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a WXXX frame in an ID3V2Tag./id3v2tag.
 type: docs
-weight: 600
+weight: 690
 url: /net/groupdocs.metadata.formats.audio/id3v2userdefinedurllinkframe/
 ---
 ## ID3V2UserDefinedUrlLinkFrame class

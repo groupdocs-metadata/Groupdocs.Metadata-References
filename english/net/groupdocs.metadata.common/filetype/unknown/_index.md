@@ -3,7 +3,7 @@ title: Unknown
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents unknown file type.
 type: docs
-weight: 660
+weight: 690
 url: /net/groupdocs.metadata.common/filetype/unknown/
 ---
 ## FileType.Unknown field

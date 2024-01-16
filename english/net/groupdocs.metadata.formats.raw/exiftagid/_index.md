@@ -3,7 +3,7 @@ title: ExifTagID
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ids of Exif tags.
 type: docs
-weight: 2990
+weight: 3080
 url: /net/groupdocs.metadata.formats.raw/exiftagid/
 ---
 ## ExifTagID enumeration

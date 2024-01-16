@@ -3,7 +3,7 @@ title: MatroskaVideoStereoMode
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents Matroska Stereo3D video modes.
 type: docs
-weight: 3580
+weight: 3670
 url: /net/groupdocs.metadata.formats.video/matroskavideostereomode/
 ---
 ## MatroskaVideoStereoMode enumeration

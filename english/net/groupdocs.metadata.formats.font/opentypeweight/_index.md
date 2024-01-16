@@ -3,7 +3,7 @@ title: OpenTypeWeight
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the OpenType font weight. Indicates the visual weight degree of blackness or thickness of strokes of the characters in the font. Values from 1 to 1000 are valid.
 type: docs
-weight: 1650
+weight: 1740
 url: /net/groupdocs.metadata.formats.font/opentypeweight/
 ---
 ## OpenTypeWeight enumeration

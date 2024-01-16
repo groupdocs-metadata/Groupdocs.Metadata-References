@@ -3,7 +3,7 @@ title: PdfTypePackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a metadata package containing PDFspecific file format information.
 type: docs
-weight: 1100
+weight: 1190
 url: /net/groupdocs.metadata.formats.document/pdftypepackage/
 ---
 ## PdfTypePackage class

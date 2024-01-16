@@ -51,16 +51,19 @@ public enum MetadataType
 | Mov | `30` | A QuickTime video. |
 | Matroska | `31` | A native metadata package extracted from a video encoded with the Matroska multimedia container. |
 | Zip | `32` | A native metadata package of a ZIP archive. |
-| VCard | `33` | A native metadata package of a VCard. |
-| Epub | `34` | A native metadata package of a EPUB e-book. |
-| OpenType | `35` | An OpenType font metadata package. |
-| Cad | `36` | A metadata package extracted from a CAD drawing. |
-| Eml | `37` | An EML message metadata package. |
-| Msg | `38` | An MSG message metadata package. |
-| Torrent | `39` | A torrent file metadata package. Please find more information at [https://en.wikipedia.org/wiki/Torrent_file/](https://en.wikipedia.org/wiki/Torrent_file/). |
-| Png | `40` | A PNG image metadata package. |
-| Dng | `41` | A DNG image metadata package. |
-| Cr2 | `42` | A CR2 image metadata package. |
+| SevenZip | `33` | A native metadata package of a SevenZip archive. |
+| VCard | `34` | A native metadata package of a VCard. |
+| Epub | `35` | A native metadata package of a EPUB e-book. |
+| OpenType | `36` | An OpenType font metadata package. |
+| Cad | `37` | A metadata package extracted from a CAD drawing. |
+| Eml | `38` | An EML message metadata package. |
+| Msg | `39` | An MSG message metadata package. |
+| Torrent | `40` | A torrent file metadata package. Please find more information at [https://en.wikipedia.org/wiki/Torrent_file/](https://en.wikipedia.org/wiki/Torrent_file/). |
+| Png | `41` | A PNG image metadata package. |
+| Dng | `42` | A DNG image metadata package. |
+| Cr2 | `43` | A CR2 image metadata package. |
+| Rar | `44` | RAR is a proprietary archive file format that supports data compression, error correction and file spanning. |
+| Tar | `45` | In computing, tar is a computer software utility for collecting many files into one archive file, often referred to as a tarball, for distribution or backup purposes. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: TorrentPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents torrent descriptor file metadata. Please find more information at https//en.wikipedia.org/wiki/Torrent_filehttps//en.wikipedia.org/wiki/Torrent_file.
 type: docs
-weight: 2370
+weight: 2460
 url: /net/groupdocs.metadata.formats.peer2peer/torrentpackage/
 ---
 ## TorrentPackage class

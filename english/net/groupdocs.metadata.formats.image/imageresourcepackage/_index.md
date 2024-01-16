@@ -3,7 +3,7 @@ title: ImageResourcePackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a metadata package containing Photoshop Image Resources.
 type: docs
-weight: 1830
+weight: 1920
 url: /net/groupdocs.metadata.formats.image/imageresourcepackage/
 ---
 ## ImageResourcePackage class

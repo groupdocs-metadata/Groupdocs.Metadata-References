@@ -3,7 +3,7 @@ title: Cr2ColorInfoPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents Canon MakerNotes tags.
 type: docs
-weight: 2550
+weight: 2640
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2colorinfopackage/
 ---
 ## Cr2ColorInfoPackage class

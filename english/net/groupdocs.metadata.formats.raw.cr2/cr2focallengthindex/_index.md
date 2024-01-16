@@ -3,7 +3,7 @@ title: Cr2FocalLengthIndex
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ids of Cr2FocalLength tags.
 type: docs
-weight: 2610
+weight: 2700
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2focallengthindex/
 ---
 ## Cr2FocalLengthIndex enumeration

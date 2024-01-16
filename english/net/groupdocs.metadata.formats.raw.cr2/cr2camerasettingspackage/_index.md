@@ -3,7 +3,7 @@ title: Cr2CameraSettingsPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents Canon MakerNotes tags.
 type: docs
-weight: 2510
+weight: 2600
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2camerasettingspackage/
 ---
 ## Cr2CameraSettingsPackage class

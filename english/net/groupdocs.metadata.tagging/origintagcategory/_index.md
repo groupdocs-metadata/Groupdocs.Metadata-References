@@ -3,7 +3,7 @@ title: OriginTagCategory
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Provides tags that help a user to determine the origin of a file e.g. template or another source.
 type: docs
-weight: 4670
+weight: 4760
 url: /net/groupdocs.metadata.tagging/origintagcategory/
 ---
 ## OriginTagCategory class

@@ -3,7 +3,7 @@ title: XmpResourceRef
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a multiple part reference to a resource.  Used to indicate prior versions originals of renditions originals for derived documents and so on.
 type: docs
-weight: 4540
+weight: 4630
 url: /net/groupdocs.metadata.standards.xmp/xmpresourceref/
 ---
 ## XmpResourceRef class

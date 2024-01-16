@@ -3,7 +3,7 @@ title: OpenTypeMacintoshNameRecord
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the Name record table value for the Macintosh platform.
 type: docs
-weight: 1560
+weight: 1650
 url: /net/groupdocs.metadata.formats.font/opentypemacintoshnamerecord/
 ---
 ## OpenTypeMacintoshNameRecord class

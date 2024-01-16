@@ -3,7 +3,7 @@ title: VCardCustomRecord
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents vCard custom record metadata class.
 type: docs
-weight: 730
+weight: 820
 url: /net/groupdocs.metadata.formats.businesscard/vcardcustomrecord/
 ---
 ## VCardCustomRecord class

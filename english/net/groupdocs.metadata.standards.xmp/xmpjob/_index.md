@@ -3,7 +3,7 @@ title: XmpJob
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents Job.
 type: docs
-weight: 4430
+weight: 4520
 url: /net/groupdocs.metadata.standards.xmp/xmpjob/
 ---
 ## XmpJob class

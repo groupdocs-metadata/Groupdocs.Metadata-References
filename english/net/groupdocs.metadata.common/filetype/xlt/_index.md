@@ -3,7 +3,7 @@ title: XLT
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Files with .XLT extension are template files created with Microsoft Excel which is a spreadsheet application which comes as part of Microsoft Office suite. Learn more about this file format herehttps//wiki.fileformat.com/specification/spreadsheet/xlt/.
 type: docs
-weight: 830
+weight: 860
 url: /net/groupdocs.metadata.common/filetype/xlt/
 ---
 ## FileType.XLT field

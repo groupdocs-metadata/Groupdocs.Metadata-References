@@ -3,7 +3,7 @@ title: VCardRecordset
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Provides a base vCard record union class.
 type: docs
-weight: 830
+weight: 920
 url: /net/groupdocs.metadata.formats.businesscard/vcardrecordset/
 ---
 ## VCardRecordset class

@@ -3,7 +3,7 @@ title: DiagramPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a native metadata package in a diagram format.
 type: docs
-weight: 940
+weight: 1030
 url: /net/groupdocs.metadata.formats.document/diagrampackage/
 ---
 ## DiagramPackage class

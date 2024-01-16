@@ -3,7 +3,7 @@ title: EpubPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents metadata in a EPUB ebook.
 type: docs
-weight: 1380
+weight: 1470
 url: /net/groupdocs.metadata.formats.ebook/epubpackage/
 ---
 ## EpubPackage class
