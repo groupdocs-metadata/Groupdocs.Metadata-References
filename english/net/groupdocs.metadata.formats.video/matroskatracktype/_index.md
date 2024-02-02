@@ -3,7 +3,7 @@ title: MatroskaTrackType
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents Matroska track types coded in 8 bits.
 type: docs
-weight: 3630
+weight: 3750
 url: /net/groupdocs.metadata.formats.video/matroskatracktype/
 ---
 ## MatroskaTrackType enumeration

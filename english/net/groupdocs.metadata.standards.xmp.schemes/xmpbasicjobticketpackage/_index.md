@@ -3,7 +3,7 @@ title: XmpBasicJobTicketPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents Basic JobTicket namespace.
 type: docs
-weight: 4160
+weight: 4280
 url: /net/groupdocs.metadata.standards.xmp.schemes/xmpbasicjobticketpackage/
 ---
 ## XmpBasicJobTicketPackage class

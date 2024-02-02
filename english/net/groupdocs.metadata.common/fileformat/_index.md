@@ -60,6 +60,10 @@ public enum FileFormat
 | Cr2 | `39` | A CR2 image. |
 | Rar | `40` | RAR is a proprietary archive file format that supports data compression, error correction and file spanning. |
 | Tar | `41` | In computing, tar is a computer software utility for collecting many files into one archive file, often referred to as a tarball, for distribution or backup purposes. |
+| ThreeDS | `42` | 3DS is one of the file formats used by the Autodesk 3ds Max 3D modeling, animation and rendering software. |
+| Dae | `43` | A DAE file is a Digital Asset Exchange file format that is used for exchanging data between interactive 3D applications. |
+| Fbx | `44` | FBX (Filmbox) is a proprietary file format (.fbx) developed by Kaydara and owned by Autodesk since 2006. It is used to provide interoperability between digital content creation applications. FBX is also part of Autodesk Gameware, a series of video game middleware. |
+| Stl | `45` | STL is a file format native to the stereolithography CAD software created by 3D Systems.[3][4][5] Chuck Hull, the inventor of stereolithography and 3D Systems’ founder, reports that the file extension is an abbreviation for stereolithography. |
 
 ### See Also
 

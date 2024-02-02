@@ -3,7 +3,7 @@ title: XmpBasicPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the XMP basic namespace.
 type: docs
-weight: 4170
+weight: 4290
 url: /net/groupdocs.metadata.standards.xmp.schemes/xmpbasicpackage/
 ---
 ## XmpBasicPackage class

@@ -3,7 +3,7 @@ title: XLS
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Files with XLS extension represent Excel Binary File Format. Such files can be created by Microsoft Excel as well as other similar spreadsheet programs such as OpenOffice Calc or Apple Numbers. Learn more about this file format herehttps//wiki.fileformat.com/specification/spreadsheet/xls/.
 type: docs
-weight: 820
+weight: 860
 url: /net/groupdocs.metadata.common/filetype/xls/
 ---
 ## FileType.XLS field

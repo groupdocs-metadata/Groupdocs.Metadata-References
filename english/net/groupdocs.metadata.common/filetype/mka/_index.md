@@ -3,7 +3,7 @@ title: MKA
 second_title: GroupDocs.Metadata for .NET API Reference
 description: MKA Matroska Audio is the Matroska multimedia container format used for Audio. The MKA format supports several different kinds of audio compression algorithms such as MP3 AAC and Vobis. Learn more about this file format herehttps//docs.fileformat.com/audio/mka/.
 type: docs
-weight: 360
+weight: 380
 url: /net/groupdocs.metadata.common/filetype/mka/
 ---
 ## FileType.MKA field

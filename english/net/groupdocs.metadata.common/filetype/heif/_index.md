@@ -3,7 +3,7 @@ title: HEIF
 second_title: GroupDocs.Metadata for .NET API Reference
 description: An HEIF file is a HighEfficiency Container Image file format that is capable of storing a single image or a sequence of images in a single file. HEIF file format compresses the images using the High Efficiency Video Coding HEVC standard. Learn more about this file format herehttps//docs.fileformat.com/image/heif/.
 type: docs
-weight: 240
+weight: 260
 url: /net/groupdocs.metadata.common/filetype/heif/
 ---
 ## FileType.HEIF field

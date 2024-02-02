@@ -3,7 +3,7 @@ title: GroupDocs.Metadata.Formats.Video
 second_title: GroupDocs.Metadata for .NET API Reference
 description: The namespace contains classes for working with the most popular video formats.
 type: docs
-weight: 210
+weight: 250
 url: /net/groupdocs.metadata.formats.video/
 ---
 The namespace contains classes for working with the most popular video formats.

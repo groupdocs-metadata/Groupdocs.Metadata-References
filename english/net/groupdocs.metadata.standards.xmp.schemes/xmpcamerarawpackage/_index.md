@@ -3,7 +3,7 @@ title: XmpCameraRawPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents Camera Raw schema.
 type: docs
-weight: 4180
+weight: 4300
 url: /net/groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/
 ---
 ## XmpCameraRawPackage class
