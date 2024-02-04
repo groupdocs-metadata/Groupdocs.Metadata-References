@@ -3,7 +3,7 @@ title: EML
 second_title: GroupDocs.Metadata for .NET API Reference
 description: EML file format represents email messages saved using Outlook and other relevant applications. Learn more about this file format herehttps//wiki.fileformat.com/email/eml/.
 type: docs
-weight: 190
+weight: 200
 url: /net/groupdocs.metadata.common/filetype/eml/
 ---
 ## FileType.EML field

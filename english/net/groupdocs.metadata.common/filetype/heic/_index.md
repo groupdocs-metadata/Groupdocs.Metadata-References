@@ -3,7 +3,7 @@ title: HEIC
 second_title: GroupDocs.Metadata for .NET API Reference
 description: An HEIC file is a HighEfficiency Container Image file format that can store multiple images as a collection in a single file. HEIC like HEIF are compressed using the High Efficiency Video Coding HEVC standard and are smaller in size without compromising the quality. Learn more about this file format herehttps//docs.fileformat.com/image/heic/.
 type: docs
-weight: 230
+weight: 250
 url: /net/groupdocs.metadata.common/filetype/heic/
 ---
 ## FileType.HEIC field

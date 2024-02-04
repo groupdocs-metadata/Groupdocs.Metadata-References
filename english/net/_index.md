@@ -32,6 +32,10 @@ version:
 | [GroupDocs.Metadata.Formats.Raw.Cr2](./groupdocs.metadata.formats.raw.cr2) |  |
 | [GroupDocs.Metadata.Formats.Raw.Tag](./groupdocs.metadata.formats.raw.tag) |  |
 | [GroupDocs.Metadata.Formats.Riff](./groupdocs.metadata.formats.riff) | The namespace provides functionality allowing users to work with metadata of various formats derived from the RIFF container. |
+| [GroupDocs.Metadata.Formats.ThreeD.Dae](./groupdocs.metadata.formats.threed.dae) |  |
+| [GroupDocs.Metadata.Formats.ThreeD.Fbx](./groupdocs.metadata.formats.threed.fbx) |  |
+| [GroupDocs.Metadata.Formats.ThreeD.Stl](./groupdocs.metadata.formats.threed.stl) |  |
+| [GroupDocs.Metadata.Formats.ThreeD.ThreeDS](./groupdocs.metadata.formats.threed.threeds) |  |
 | [GroupDocs.Metadata.Formats.Video](./groupdocs.metadata.formats.video) | The namespace contains classes for working with the most popular video formats. |
 | [GroupDocs.Metadata.Options](./groupdocs.metadata.options) | The namespace contains all classes representing settings that allow users to control file and metadata processing. |
 | [GroupDocs.Metadata.Standards.DublinCore](./groupdocs.metadata.standards.dublincore) | The namespace contains functionality intended to read DublinCore metadata from files of different formats. |

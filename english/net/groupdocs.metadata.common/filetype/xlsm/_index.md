@@ -3,7 +3,7 @@ title: XLSM
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Files with XLSM extension is a type of Spreasheet files that support Macros. Learn more about this file format herehttps//wiki.fileformat.com/specification/spreadsheet/xlsm/.
 type: docs
-weight: 840
+weight: 880
 url: /net/groupdocs.metadata.common/filetype/xlsm/
 ---
 ## FileType.XLSM field

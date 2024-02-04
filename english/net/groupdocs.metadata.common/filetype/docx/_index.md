@@ -3,7 +3,7 @@ title: DOCX
 second_title: GroupDocs.Metadata for .NET API Reference
 description: DOCX is a wellknown format for Microsoft Word documents. Introduced from 2007 with the release of Microsoft Office 2007 the structure of this new Document format was changed from plain binary to a combination of XML and binary files. Learn more about this file format herehttps//wiki.fileformat.com/wordprocessing/docx/.
 type: docs
-weight: 120
+weight: 130
 url: /net/groupdocs.metadata.common/filetype/docx/
 ---
 ## FileType.DOCX field

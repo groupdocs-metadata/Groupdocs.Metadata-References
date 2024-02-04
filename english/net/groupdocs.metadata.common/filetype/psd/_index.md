@@ -3,7 +3,7 @@ title: PSD
 second_title: GroupDocs.Metadata for .NET API Reference
 description: PSD Photoshop Document represents Adobe Photoshops native file format used for graphics designing and development. Learn more about this file format herehttps//wiki.fileformat.com/image/psd/.
 type: docs
-weight: 590
+weight: 610
 url: /net/groupdocs.metadata.common/filetype/psd/
 ---
 ## FileType.PSD field

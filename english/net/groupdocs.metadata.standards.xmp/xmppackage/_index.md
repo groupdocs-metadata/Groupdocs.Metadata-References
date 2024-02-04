@@ -3,7 +3,7 @@ title: XmpPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents base abstraction for XMP package.
 type: docs
-weight: 4570
+weight: 4690
 url: /net/groupdocs.metadata.standards.xmp/xmppackage/
 ---
 ## XmpPackage class
@@ -76,7 +76,7 @@ using (Metadata metadata = new Metadata(Constants.InputJpeg))
         var packet = new XmpPacketWrapper();
 
         var custom = new XmpPackage("gd", "https://groupdocs.com");
-        custom.Set("gd:Copyright", "Copyright (C) 2011-2022 GroupDocs. All Rights Reserved.");
+        custom.Set("gd:Copyright", "Copyright (C) 2011-2024 GroupDocs. All Rights Reserved.");
         custom.Set("gd:CreationDate", DateTime.Today);
         custom.Set("gd:Company", XmpArray.From(new [] { "Aspose", "GroupDocs" }, XmpArrayType.Ordered));
 

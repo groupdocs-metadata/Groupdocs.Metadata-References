@@ -3,7 +3,7 @@ title: GetSupportedFileTypes
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Retrieves supported file types.
 type: docs
-weight: 950
+weight: 990
 url: /net/groupdocs.metadata.common/filetype/getsupportedfiletypes/
 ---
 ## FileType.GetSupportedFileTypes method

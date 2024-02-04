@@ -3,7 +3,7 @@ title: ToString
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Returns a String that represents the current FileTypegroupdocs.metadata.common/filetype.
 type: docs
-weight: 940
+weight: 980
 url: /net/groupdocs.metadata.common/filetype/tostring/
 ---
 ## FileType.ToString method
