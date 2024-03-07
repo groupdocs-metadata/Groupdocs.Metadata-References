@@ -3,7 +3,7 @@ title: XmpArrayType
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents array type in XmpArray./xmparray.
 type: docs
-weight: 4460
+weight: 4500
 url: /net/groupdocs.metadata.standards.xmp/xmparraytype/
 ---
 ## XmpArrayType enumeration

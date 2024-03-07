@@ -3,7 +3,7 @@ title: BmpHeaderPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents BMP header info.
 type: docs
-weight: 1790
+weight: 1830
 url: /net/groupdocs.metadata.formats.image/bmpheaderpackage/
 ---
 ## BmpHeaderPackage class

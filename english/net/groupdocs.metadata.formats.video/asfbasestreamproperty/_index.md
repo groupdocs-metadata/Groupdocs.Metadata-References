@@ -3,7 +3,7 @@ title: AsfBaseStreamProperty
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents base stream property metadata in the ASF media container.
 type: docs
-weight: 3440
+weight: 3480
 url: /net/groupdocs.metadata.formats.video/asfbasestreamproperty/
 ---
 ## AsfBaseStreamProperty class

@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.document/pdfpackage/creator/
 Gets the creator of the document.
 
 ```csharp
-public string Creator { get; }
+public string Creator { get; set; }
 ```
 
 ### Property Value

@@ -3,7 +3,7 @@ title: Cr2VignettingCorr2Index
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ids of Cr2VignettingCorr2 tags.
 type: docs
-weight: 3030
+weight: 3070
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2vignettingcorr2index/
 ---
 ## Cr2VignettingCorr2Index enumeration

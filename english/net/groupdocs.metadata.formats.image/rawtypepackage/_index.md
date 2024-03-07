@@ -3,7 +3,7 @@ title: RawTypePackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a metadata package containing imagespecific file format information.
 type: docs
-weight: 2190
+weight: 2230
 url: /net/groupdocs.metadata.formats.image/rawtypepackage/
 ---
 ## RawTypePackage class

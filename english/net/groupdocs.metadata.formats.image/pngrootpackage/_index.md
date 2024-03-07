@@ -3,7 +3,7 @@ title: PngRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the root package intended to work with metadata in a PNG image.
 type: docs
-weight: 2020
+weight: 2060
 url: /net/groupdocs.metadata.formats.image/pngrootpackage/
 ---
 ## PngRootPackage class

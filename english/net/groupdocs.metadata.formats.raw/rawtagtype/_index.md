@@ -3,7 +3,7 @@ title: RawTagType
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the IFD data type.
 type: docs
-weight: 3210
+weight: 3250
 url: /net/groupdocs.metadata.formats.raw/rawtagtype/
 ---
 ## RawTagType enumeration

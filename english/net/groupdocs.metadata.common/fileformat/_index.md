@@ -64,6 +64,7 @@ public enum FileFormat
 | Dae | `43` | A DAE file is a Digital Asset Exchange file format that is used for exchanging data between interactive 3D applications. |
 | Fbx | `44` | FBX (Filmbox) is a proprietary file format (.fbx) developed by Kaydara and owned by Autodesk since 2006. It is used to provide interoperability between digital content creation applications. FBX is also part of Autodesk Gameware, a series of video game middleware. |
 | Stl | `45` | STL is a file format native to the stereolithography CAD software created by 3D Systems.[3][4][5] Chuck Hull, the inventor of stereolithography and 3D Systems’ founder, reports that the file extension is an abbreviation for stereolithography. |
+| Gis | `46` | Gis file. |
 
 ### See Also
 

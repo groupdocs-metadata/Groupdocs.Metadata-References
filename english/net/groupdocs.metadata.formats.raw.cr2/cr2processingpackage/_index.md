@@ -3,7 +3,7 @@ title: Cr2ProcessingPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents Canon MakerNotes tags.
 type: docs
-weight: 2950
+weight: 2990
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2processingpackage/
 ---
 ## Cr2ProcessingPackage class

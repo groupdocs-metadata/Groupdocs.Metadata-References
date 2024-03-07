@@ -3,7 +3,7 @@ title: AsfDescriptorType
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ASF descriptor types.
 type: docs
-weight: 3480
+weight: 3520
 url: /net/groupdocs.metadata.formats.video/asfdescriptortype/
 ---
 ## AsfDescriptorType enumeration

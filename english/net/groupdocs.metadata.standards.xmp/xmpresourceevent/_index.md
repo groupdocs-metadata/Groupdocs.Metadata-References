@@ -3,7 +3,7 @@ title: XmpResourceEvent
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a highlevel event that occurred in the processing of a resource.
 type: docs
-weight: 4740
+weight: 4780
 url: /net/groupdocs.metadata.standards.xmp/xmpresourceevent/
 ---
 ## XmpResourceEvent class

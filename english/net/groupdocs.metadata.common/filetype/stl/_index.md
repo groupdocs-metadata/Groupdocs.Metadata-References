@@ -1,14 +1,14 @@
 ---
 title: STL
 second_title: GroupDocs.Metadata for .NET API Reference
-description: STL is a file format native to the stereolithography CAD software created by 3D Systems.345 Chuck Hull the inventor of stereolithography and 3D Systems founder reports that the file extension is an abbreviation for stereolithography. herehttps//wiki.fileformat.com/3d/stl/.
+description: STL is a file format native to the stereolithography CAD software created by 3D Systems. Chuck Hull the inventor of stereolithography and 3D Systems founder reports that the file extension is an abbreviation for stereolithography. herehttps//wiki.fileformat.com/3d/stl/.
 type: docs
-weight: 650
+weight: 710
 url: /net/groupdocs.metadata.common/filetype/stl/
 ---
 ## FileType.STL field
 
-STL is a file format native to the stereolithography CAD software created by 3D Systems.[3][4][5] Chuck Hull, the inventor of stereolithography and 3D Systems’ founder, reports that the file extension is an abbreviation for stereolithography. [here](https://wiki.fileformat.com/3d/stl/).
+STL is a file format native to the stereolithography CAD software created by 3D Systems. Chuck Hull, the inventor of stereolithography and 3D Systems’ founder, reports that the file extension is an abbreviation for stereolithography. [here](https://wiki.fileformat.com/3d/stl/).
 
 ```csharp
 public static readonly FileType STL;

@@ -3,7 +3,7 @@ title: AsfAudioStreamProperty
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents Audio stream property metadata in the ASF media container.
 type: docs
-weight: 3420
+weight: 3460
 url: /net/groupdocs.metadata.formats.video/asfaudiostreamproperty/
 ---
 ## AsfAudioStreamProperty class
