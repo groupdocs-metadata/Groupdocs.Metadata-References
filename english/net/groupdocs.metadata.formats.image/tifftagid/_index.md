@@ -3,7 +3,7 @@ title: TiffTagID
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ids of TIFF tags.
 type: docs
-weight: 2370
+weight: 2420
 url: /net/groupdocs.metadata.formats.image/tifftagid/
 ---
 ## TiffTagID enumeration

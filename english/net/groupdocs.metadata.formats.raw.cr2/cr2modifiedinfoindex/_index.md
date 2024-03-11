@@ -3,7 +3,7 @@ title: Cr2ModifiedInfoIndex
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ids of Cr2ModifiedInfo tags.
 type: docs
-weight: 2810
+weight: 2860
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2modifiedinfoindex/
 ---
 ## Cr2ModifiedInfoIndex enumeration

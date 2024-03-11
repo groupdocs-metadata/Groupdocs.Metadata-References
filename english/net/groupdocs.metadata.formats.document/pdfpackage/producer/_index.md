@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.document/pdfpackage/producer/
 Gets the document producer.
 
 ```csharp
-public string Producer { get; }
+public string Producer { get; set; }
 ```
 
 ### Property Value

@@ -3,7 +3,7 @@ title: TTC
 second_title: GroupDocs.Metadata for .NET API Reference
 description: TTC TrueType Collection is a TrueType font collection format. A TTC file can combine the multiple font files into it. Learn more about this file format herehttps//docs.fileformat.com/font/ttc/.
 type: docs
-weight: 710
+weight: 780
 url: /net/groupdocs.metadata.common/filetype/ttc/
 ---
 ## FileType.TTC field

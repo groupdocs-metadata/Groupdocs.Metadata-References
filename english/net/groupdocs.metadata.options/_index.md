@@ -3,7 +3,7 @@ title: GroupDocs.Metadata.Options
 second_title: GroupDocs.Metadata for .NET API Reference
 description: The namespace contains all classes representing settings that allow users to control file and metadata processing.
 type: docs
-weight: 260
+weight: 270
 url: /net/groupdocs.metadata.options/
 ---
 The namespace contains all classes representing settings that allow users to control file and metadata processing.

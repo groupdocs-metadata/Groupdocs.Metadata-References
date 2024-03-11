@@ -3,7 +3,7 @@ title: MJ2
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Video format defined as Motion JPEG 2000 Part 3 contains a motion sequence of JPEG 2000 images does not involve interframe coding but instead encodes each frame independently using JPEG 2000 compression.
 type: docs
-weight: 360
+weight: 400
 url: /net/groupdocs.metadata.common/filetype/mj2/
 ---
 ## FileType.MJ2 field

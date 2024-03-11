@@ -21,13 +21,13 @@ public class PdfPackage : DocumentPackage
 | [Author](../../groupdocs.metadata.formats.document/pdfpackage/author) { get; set; } | Gets or sets the document author. |
 | [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | Gets the number of metadata properties. |
 | [CreatedDate](../../groupdocs.metadata.formats.document/pdfpackage/createddate) { get; set; } | Gets or sets the date of document creation. |
-| [Creator](../../groupdocs.metadata.formats.document/pdfpackage/creator) { get; } | Gets the creator of the document. |
+| [Creator](../../groupdocs.metadata.formats.document/pdfpackage/creator) { get; set; } | Gets the creator of the document. |
 | [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | Gets the [`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty) with the specified name. |
 | [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | Gets a collection of the metadata property names. |
 | [Keywords](../../groupdocs.metadata.formats.document/pdfpackage/keywords) { get; set; } | Gets or sets the keywords. |
 | [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | Gets the metadata type. |
 | [ModifiedDate](../../groupdocs.metadata.formats.document/pdfpackage/modifieddate) { get; set; } | Gets or sets the date of the last modification. |
-| [Producer](../../groupdocs.metadata.formats.document/pdfpackage/producer) { get; } | Gets the document producer. |
+| [Producer](../../groupdocs.metadata.formats.document/pdfpackage/producer) { get; set; } | Gets the document producer. |
 | [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | Gets a collection of descriptors that contain information about properties accessible through the GroupDocs.Metadata search engine. |
 | [Subject](../../groupdocs.metadata.formats.document/pdfpackage/subject) { get; set; } | Gets or sets the subject of the document. |
 | [Title](../../groupdocs.metadata.formats.document/pdfpackage/title) { get; set; } | Gets or sets the title of the document. |

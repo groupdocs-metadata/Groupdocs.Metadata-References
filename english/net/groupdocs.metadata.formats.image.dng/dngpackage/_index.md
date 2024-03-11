@@ -3,7 +3,7 @@ title: DngPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents native DNG metadata.
 type: docs
-weight: 1840
+weight: 1890
 url: /net/groupdocs.metadata.formats.image.dng/dngpackage/
 ---
 ## DngPackage class

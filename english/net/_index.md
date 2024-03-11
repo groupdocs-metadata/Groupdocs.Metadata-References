@@ -24,6 +24,7 @@ version:
 | [GroupDocs.Metadata.Formats.Ebook](./groupdocs.metadata.formats.ebook) | The namespace provides functionality for working with electronic book formats. |
 | [GroupDocs.Metadata.Formats.Email](./groupdocs.metadata.formats.email) | The namespace contains classes representing saved email messages and their parts. |
 | [GroupDocs.Metadata.Formats.Font](./groupdocs.metadata.formats.font) | The namespace contains classes allowing users to work with formats representing scalable computer fonts. |
+| [GroupDocs.Metadata.Formats.Gis](./groupdocs.metadata.formats.gis) |  |
 | [GroupDocs.Metadata.Formats.Image](./groupdocs.metadata.formats.image) | The namespace provides functionality allowing users to read and update metadata stored in different image formats. |
 | [GroupDocs.Metadata.Formats.Image.Dng](./groupdocs.metadata.formats.image.dng) |  |
 | [GroupDocs.Metadata.Formats.Mpeg](./groupdocs.metadata.formats.mpeg) | The namespace provides functionality allowing users to work with metadata of various MPEG standards. |

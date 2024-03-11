@@ -3,7 +3,7 @@ title: DicomPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents native DICOM metadata.
 type: docs
-weight: 1810
+weight: 1860
 url: /net/groupdocs.metadata.formats.image/dicompackage/
 ---
 ## DicomPackage class
