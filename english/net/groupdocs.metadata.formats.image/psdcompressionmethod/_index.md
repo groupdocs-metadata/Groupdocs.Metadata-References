@@ -3,7 +3,7 @@ title: PsdCompressionMethod
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines the compression method used for image data.
 type: docs
-weight: 2090
+weight: 2100
 url: /net/groupdocs.metadata.formats.image/psdcompressionmethod/
 ---
 ## PsdCompressionMethod enumeration

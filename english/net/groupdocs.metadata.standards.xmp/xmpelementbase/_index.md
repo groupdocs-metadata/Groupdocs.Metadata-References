@@ -3,7 +3,7 @@ title: XmpElementBase
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents base XMP element that contains attributes.
 type: docs
-weight: 4630
+weight: 4640
 url: /net/groupdocs.metadata.standards.xmp/xmpelementbase/
 ---
 ## XmpElementBase class

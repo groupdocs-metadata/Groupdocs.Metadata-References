@@ -3,7 +3,7 @@ title: Cr2ProcessingIndex
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ids of Cr2Processing tags.
 type: docs
-weight: 2980
+weight: 2990
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2processingindex/
 ---
 ## Cr2ProcessingIndex enumeration

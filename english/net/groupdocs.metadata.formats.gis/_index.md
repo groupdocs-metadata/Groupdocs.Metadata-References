@@ -15,6 +15,7 @@ url: /net/groupdocs.metadata.formats.gis/
 | [GisAttribute](./gisattribute) | Represents metadata associated with layer. |
 | [GisFeature](./gisfeature) | Represents metadata associated with feature. |
 | [GisPackage](./gispackage) | Represents gis metadata. |
+| [GisRootPackage](./gisrootpackage) | Represents gis metadata. |
 ## Enumeration
 
 | Enumeration | Description |

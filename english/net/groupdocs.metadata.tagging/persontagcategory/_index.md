@@ -3,7 +3,7 @@ title: PersonTagCategory
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Provides tags that mark metadata properties holding information about the people contributed to file or intellectual content creation. These tags can help you to find the document creator editor or even the client for whom the work was performed. Despite the name of the category some metadata properties marked with the tags can contain a company name rather than a persons name.
 type: docs
-weight: 4930
+weight: 4940
 url: /net/groupdocs.metadata.tagging/persontagcategory/
 ---
 ## PersonTagCategory class

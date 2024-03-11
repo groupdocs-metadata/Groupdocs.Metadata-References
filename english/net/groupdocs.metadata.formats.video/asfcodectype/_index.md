@@ -3,7 +3,7 @@ title: AsfCodecType
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ASF codec types.
 type: docs
-weight: 3500
+weight: 3510
 url: /net/groupdocs.metadata.formats.video/asfcodectype/
 ---
 ## AsfCodecType enumeration

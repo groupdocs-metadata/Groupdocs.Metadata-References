@@ -3,7 +3,7 @@ title: XmpDublinCorePackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the Dublin Core scheme.
 type: docs
-weight: 4360
+weight: 4370
 url: /net/groupdocs.metadata.standards.xmp.schemes/xmpdublincorepackage/
 ---
 ## XmpDublinCorePackage class

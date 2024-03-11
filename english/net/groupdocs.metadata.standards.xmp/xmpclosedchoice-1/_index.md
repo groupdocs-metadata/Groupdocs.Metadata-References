@@ -3,7 +3,7 @@ title: XmpClosedChoiceT
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents XMP Closed Choice.
 type: docs
-weight: 4520
+weight: 4530
 url: /net/groupdocs.metadata.standards.xmp/xmpclosedchoice-1/
 ---
 ## XmpClosedChoice&lt;T&gt; class
