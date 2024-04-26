@@ -3,7 +3,7 @@ title: GeneratePreview
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Creates preview images for specified pages.
 type: docs
-weight: 60
+weight: 70
 url: /net/groupdocs.metadata/metadata/generatepreview/
 ---
 ## Metadata.GeneratePreview method

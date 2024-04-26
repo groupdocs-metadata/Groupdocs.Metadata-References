@@ -3,7 +3,7 @@ title: GetDocumentInfo
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets common information about the loaded document.
 type: docs
-weight: 70
+weight: 80
 url: /net/groupdocs.metadata/metadata/getdocumentinfo/
 ---
 ## Metadata.GetDocumentInfo method

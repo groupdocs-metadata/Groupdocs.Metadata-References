@@ -3,7 +3,7 @@ title: SetProperties
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Sets known metadata properties satisfying the specified predicate. The operation is recursive so it affects all nested packages as well. This method is a combination of AddPropertiesgroupdocs.metadata/metadata/addproperties and UpdatePropertiesgroupdocs.metadata/metadata/updateproperties. If an existing property satisfies the predicate its value is updated. If there is a known property missing in a package that satisfies the predicate it is added to the package.
 type: docs
-weight: 120
+weight: 130
 url: /net/groupdocs.metadata/metadata/setproperties/
 ---
 ## Metadata.SetProperties method

@@ -3,7 +3,7 @@ title: SharedDoc
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that denotes which is a common document for several manufacturers.
 type: docs
-weight: 90
+weight: 100
 url: /net/groupdocs.metadata.tagging/contenttagcategory/shareddoc/
 ---
 ## ContentTagCategory.SharedDoc property

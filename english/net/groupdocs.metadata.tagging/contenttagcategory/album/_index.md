@@ -1,22 +1,22 @@
 ---
-title: Thumbnail
+title: Album
 second_title: GroupDocs.Metadata for .NET API Reference
-description: Gets the tag that indicates a thumbnail image attached to a file.
+description: Gets the tag that denotes the album name of a audio file.
 type: docs
-weight: 140
-url: /net/groupdocs.metadata.tagging/contenttagcategory/thumbnail/
+weight: 10
+url: /net/groupdocs.metadata.tagging/contenttagcategory/album/
 ---
-## ContentTagCategory.Thumbnail property
+## ContentTagCategory.Album property
 
-Gets the tag that indicates a thumbnail image attached to a file.
+Gets the tag that denotes the album name of a audio file.
 
 ```csharp
-public PropertyTag Thumbnail { get; }
+public PropertyTag Album { get; }
 ```
 
 ### Property Value
 
-The tag that indicates a thumbnail image attached to a file.
+The tag that denotes the album name of a audio file.
 
 ### See Also
 

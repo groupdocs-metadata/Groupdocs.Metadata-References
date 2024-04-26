@@ -18,6 +18,7 @@ public class ContentTagCategory : TagCategory
 
 | Name | Description |
 | --- | --- |
+| [Album](../../groupdocs.metadata.tagging/contenttagcategory/album) { get; } | Gets the tag that denotes the album name of a audio file. |
 | [Body](../../groupdocs.metadata.tagging/contenttagcategory/body) { get; } | Gets the tag that denotes the body of a email file. |
 | [Comment](../../groupdocs.metadata.tagging/contenttagcategory/comment) { get; } | Gets the tag that denotes a comment left by a person who contributed in file creation. |
 | [Description](../../groupdocs.metadata.tagging/contenttagcategory/description) { get; } | Gets the tag that labels properties containing a description of a file. |

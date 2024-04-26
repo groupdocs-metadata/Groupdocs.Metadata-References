@@ -3,7 +3,7 @@ title: Body
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that denotes the body of a email file.
 type: docs
-weight: 10
+weight: 20
 url: /net/groupdocs.metadata.tagging/contenttagcategory/body/
 ---
 ## ContentTagCategory.Body property

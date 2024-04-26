@@ -3,7 +3,7 @@ title: Version
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag labeling the version or revision of a file.
 type: docs
-weight: 160
+weight: 170
 url: /net/groupdocs.metadata.tagging/contenttagcategory/version/
 ---
 ## ContentTagCategory.Version property

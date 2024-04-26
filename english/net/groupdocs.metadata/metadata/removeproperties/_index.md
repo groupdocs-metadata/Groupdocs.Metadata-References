@@ -3,7 +3,7 @@ title: RemoveProperties
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Removes metadata properties satisfying the specified predicate.
 type: docs
-weight: 90
+weight: 100
 url: /net/groupdocs.metadata/metadata/removeproperties/
 ---
 ## Metadata.RemoveProperties method

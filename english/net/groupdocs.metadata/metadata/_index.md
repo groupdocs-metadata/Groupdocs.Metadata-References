@@ -34,6 +34,7 @@ public sealed class Metadata : IDisposable
 | Name | Description |
 | --- | --- |
 | [AddProperties](../../groupdocs.metadata/metadata/addproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Adds known metadata properties satisfying the specified predicate. The operation is recursive so it affects all nested packages as well. |
+| [CopyTo](../../groupdocs.metadata/metadata/copyto)(MetadataPackage) | Copy known metadata properties from source package to destination package. The operation is recursive so it affects all nested packages as well. If an existing property its value is updated. If there is a known property missing in a destination package it is added to the package. If there is a known property missing in a source package it is not remove from destination package. If that need, use Sanitize method before. |
 | [Dispose](../../groupdocs.metadata/metadata/dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
 | [FindProperties](../../groupdocs.metadata/metadata/findproperties)(Func&lt;MetadataProperty, bool&gt;) | Finds the metadata properties satisfying the specified predicate. The search is recursive so it affects all nested packages as well. |
 | [GeneratePreview](../../groupdocs.metadata/metadata/generatepreview)(PreviewOptions) | Creates preview images for specified pages. |

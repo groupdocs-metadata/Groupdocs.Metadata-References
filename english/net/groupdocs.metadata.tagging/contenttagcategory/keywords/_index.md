@@ -3,7 +3,7 @@ title: Keywords
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that denotes a metadata property containing keywords that describe the content.
 type: docs
-weight: 60
+weight: 70
 url: /net/groupdocs.metadata.tagging/contenttagcategory/keywords/
 ---
 ## ContentTagCategory.Keywords property

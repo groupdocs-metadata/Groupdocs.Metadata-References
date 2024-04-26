@@ -3,7 +3,7 @@ title: Title
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that labels the name given to a file.
 type: docs
-weight: 140
+weight: 150
 url: /net/groupdocs.metadata.tagging/contenttagcategory/title/
 ---
 ## ContentTagCategory.Title property

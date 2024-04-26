@@ -3,7 +3,7 @@ title: Description
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that labels properties containing a description of a file.
 type: docs
-weight: 30
+weight: 40
 url: /net/groupdocs.metadata.tagging/contenttagcategory/description/
 ---
 ## ContentTagCategory.Description property

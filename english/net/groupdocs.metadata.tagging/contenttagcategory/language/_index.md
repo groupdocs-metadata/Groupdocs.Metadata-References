@@ -3,7 +3,7 @@ title: Language
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag indicating the language of the intellectual content of a file.
 type: docs
-weight: 70
+weight: 80
 url: /net/groupdocs.metadata.tagging/contenttagcategory/language/
 ---
 ## ContentTagCategory.Language property

@@ -33,6 +33,7 @@ public class PreviewOptions
 | [PageNumbers](../../groupdocs.metadata.options/previewoptions/pagenumbers) { get; set; } | Gets or sets an array of page numbers to generate previews. |
 | [PreviewFormat](../../groupdocs.metadata.options/previewoptions/previewformat) { get; set; } | Gets or sets the preview image format. |
 | [ReleasePageStream](../../groupdocs.metadata.options/previewoptions/releasepagestream) { get; set; } | Gets or sets an instance of the page preview completion delegate. |
+| [Resolution](../../groupdocs.metadata.options/previewoptions/resolution) { get; set; } | Gets or sets the page preview resolution. |
 | [Width](../../groupdocs.metadata.options/previewoptions/width) { get; set; } | Gets or sets the page preview width. |
 
 ### Remarks

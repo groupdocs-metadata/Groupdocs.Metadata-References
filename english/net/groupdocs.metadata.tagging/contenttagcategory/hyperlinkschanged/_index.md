@@ -3,7 +3,7 @@ title: HyperlinksChanged
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that denotes the indicates that one or more hyperlinks in this part have been updated exclusively in this part by the manufacturer.
 type: docs
-weight: 50
+weight: 60
 url: /net/groupdocs.metadata.tagging/contenttagcategory/hyperlinkschanged/
 ---
 ## ContentTagCategory.HyperlinksChanged property
