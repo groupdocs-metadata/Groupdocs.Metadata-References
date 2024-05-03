@@ -3,7 +3,7 @@ title: Sanitize
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Removes writable metadata properties from all detected packages or whole packages if possible. The operation is recursive so it affects all nested packages as well.
 type: docs
-weight: 100
+weight: 110
 url: /net/groupdocs.metadata/metadata/sanitize/
 ---
 ## Metadata.Sanitize method

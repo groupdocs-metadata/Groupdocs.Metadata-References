@@ -3,7 +3,7 @@ title: Save
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Saves all changes made in the loaded document.
 type: docs
-weight: 110
+weight: 120
 url: /net/groupdocs.metadata/metadata/save/
 ---
 ## Save() {#save}

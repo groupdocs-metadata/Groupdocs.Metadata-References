@@ -3,7 +3,7 @@ title: FindProperties
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Finds the metadata properties satisfying the specified predicate. The search is recursive so it affects all nested packages as well.
 type: docs
-weight: 50
+weight: 60
 url: /net/groupdocs.metadata/metadata/findproperties/
 ---
 ## Metadata.FindProperties method

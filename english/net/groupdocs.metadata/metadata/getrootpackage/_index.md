@@ -3,7 +3,7 @@ title: GetRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the root package providing access to all metadata properties extracted from the file.
 type: docs
-weight: 80
+weight: 90
 url: /net/groupdocs.metadata/metadata/getrootpackage/
 ---
 ## GetRootPackage() {#getrootpackage}

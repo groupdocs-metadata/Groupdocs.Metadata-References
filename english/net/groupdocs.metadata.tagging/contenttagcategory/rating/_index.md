@@ -3,7 +3,7 @@ title: Rating
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag labeling a user assigned rating of a file.
 type: docs
-weight: 80
+weight: 90
 url: /net/groupdocs.metadata.tagging/contenttagcategory/rating/
 ---
 ## ContentTagCategory.Rating property

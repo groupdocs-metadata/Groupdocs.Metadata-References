@@ -3,7 +3,7 @@ title: Dispose
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Performs applicationdefined tasks associated with freeing releasing or resetting unmanaged resources.
 type: docs
-weight: 40
+weight: 50
 url: /net/groupdocs.metadata/metadata/dispose/
 ---
 ## Metadata.Dispose method

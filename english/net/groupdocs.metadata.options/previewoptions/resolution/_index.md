@@ -1,17 +1,17 @@
 ---
-title: Width
+title: Resolution
 second_title: GroupDocs.Metadata for .NET API Reference
-description: Gets or sets the page preview width.
+description: Gets or sets the page preview resolution.
 type: docs
-weight: 110
-url: /net/groupdocs.metadata.options/previewoptions/width/
+weight: 100
+url: /net/groupdocs.metadata.options/previewoptions/resolution/
 ---
-## PreviewOptions.Width property
+## PreviewOptions.Resolution property
 
-Gets or sets the page preview width.
+Gets or sets the page preview resolution.
 
 ```csharp
-public int Width { get; set; }
+public int Resolution { get; set; }
 ```
 
 ### See Also

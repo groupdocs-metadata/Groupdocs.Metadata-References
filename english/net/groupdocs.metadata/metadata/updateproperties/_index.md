@@ -3,7 +3,7 @@ title: UpdateProperties
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Updates known metadata properties satisfying the specified predicate. The operation is recursive so it affects all nested packages as well.
 type: docs
-weight: 130
+weight: 140
 url: /net/groupdocs.metadata/metadata/updateproperties/
 ---
 ## Metadata.UpdateProperties method
