@@ -20,6 +20,7 @@ API .NET native pour lire, écrire, modifier et supprimer dynamiquement les mét
 Voici des liens vers des ressources utiles :
 
 - [Référence de l'API GroupDocs.Metadata pour .NET](/metadata/fr/net/)
+- [GroupDocs.Metadata pour les didacticiels de l'API .NET](/tutorials/metadata/fr/net/)
 
 
 ## GroupDocs.Metadata pour Java

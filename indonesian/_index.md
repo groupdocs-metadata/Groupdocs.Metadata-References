@@ -20,6 +20,7 @@ Native .NET API untuk secara dinamis membaca, menulis, mengedit, dan menghapus i
 Ini adalah tautan ke beberapa sumber daya yang berguna:
 
 - [GroupDocs.Metadata untuk Referensi .NET API](/metadata/id/net/)
+- [GroupDocs.Metadata untuk Tutorial .NET API](/tutorials/metadata/id/net/)
 
 
 ## GroupDocs.Metadata untuk Java

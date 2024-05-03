@@ -20,6 +20,7 @@ Native .NET-API zum dynamischen Lesen, Schreiben, Bearbeiten und Entfernen von M
 Dies sind Links zu einigen nützlichen Ressourcen:
 
 - [GroupDocs.Metadata für .NET-API-Referenz](/metadata/de/net/)
+- [GroupDocs.Metadata für .NET API-Tutorials](/tutorials/metadata/de/net/)
 
 
 ## GroupDocs.Metadaten für Java

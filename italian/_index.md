@@ -20,6 +20,7 @@ API .NET nativa per leggere, scrivere, modificare e rimuovere dinamicamente meta
 Questi sono i link ad alcune risorse utili:
 
 - [Riferimento API GroupDocs.Metadata per .NET](/metadata/it/net/)
+- [GroupDocs.Metadata per esercitazioni sull'API .NET](/tutorials/metadata/it/net/)
 
 
 ## GroupDocs.Metadati per Java

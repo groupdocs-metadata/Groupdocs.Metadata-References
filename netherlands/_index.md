@@ -20,6 +20,7 @@ Native .NET API voor het dynamisch lezen, schrijven, bewerken en verwijderen van
 Dit zijn links naar enkele nuttige bronnen:
 
 - [GroupDocs.Metadata voor .NET API-referentie](/metadata/nl/net/)
+- [GroupDocs.Metadata voor .NET API-zelfstudies](/tutorials/metadata/nl/net/)
 
 
 ## GroupDocs.Metadata voor Java

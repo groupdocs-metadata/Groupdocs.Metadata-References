@@ -20,6 +20,7 @@ url: /ru/
 Это ссылки на некоторые полезные ресурсы:
 
 - [Справочник по API GroupDocs.Metadata для .NET](/metadata/ru/net/)
+- [GroupDocs.Метаданные для учебных пособий по .NET API](/tutorials/metadata/ru/net/)
 
 
 ## GroupDocs.Metadata для Java

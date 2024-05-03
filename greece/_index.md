@@ -20,6 +20,7 @@ url: /el/
 Αυτοί είναι σύνδεσμοι σε μερικούς χρήσιμους πόρους:
 
 - [Groupdocs.metadata για αναφορά .NET API](/metadata/el/net/)
+- [GroupDocs.Metadata για .NET API Tutorials](/tutorials/metadata/el/net/)
 
 
 ## Groupdocs.metadata για java

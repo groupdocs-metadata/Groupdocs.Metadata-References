@@ -20,6 +20,7 @@ url: /zh/
 这些是一些有用资源的链接：
 
 - [GroupDocs.Metadata for .NET API 参考](/metadata/zh/net/)
+- [.NET API 教程的 GroupDocs.Metadata](/tutorials/metadata/zh/net/)
 
 
 ## 用于 Java 的 GroupDocs.Metadata

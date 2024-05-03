@@ -20,6 +20,7 @@ Native .NET API لقراءة وكتابة وتحرير وإزالة المعلو
 هذه روابط لبعض المصادر المفيدة:
 
 - [GroupDocs.Metadata لمرجع .NET API](/metadata/ar/net/)
+- [GroupDocs.Metadata لبرامج .NET API التعليمية](/tutorials/metadata/ar/net/)
 
 
 ## GroupDocs.Metadata لجافا

@@ -20,6 +20,7 @@ Microsoft Office, PDF, Multimedya, resimler ve diğer çeşitli dosya biçimleri
 Bunlar bazı faydalı kaynaklara bağlantılar:
 
 - [.NET API Başvurusu için GroupDocs.Metadata](/metadata/tr/net/)
+- [.NET API Eğitimleri için GroupDocs.Metadata](/tutorials/metadata/tr/net/)
 
 
 ## Java için GroupDocs.Metadata

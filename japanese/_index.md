@@ -20,6 +20,7 @@ Microsoft Office、PDF、マルチメディア、画像、およびその他の�
 これらは、いくつかの有用なリソースへのリンクです。
 
 - [GroupDocs.Metadata for .NET API リファレンス](/metadata/ja/net/)
+- [.NET API 用の GroupDocs.Metadata チュートリアル](/tutorials/metadata/ja/net/)
 
 
 ## GroupDocs.Metadata for Java

@@ -20,6 +20,7 @@ Microsoft Office, PDF, मल्टीमीडिया, छवियों औ
 ये कुछ उपयोगी संसाधनों के लिंक हैं:
 
 - [.NET API संदर्भ के लिए GroupDocs.Metadata](/metadata/hi/net/)
+- [.NET API ट्यूटोरियल के लिए GroupDocs.Metadata](/tutorials/metadata/hi/net/)
 
 
 ## Java के लिए GroupDocs.Metadata

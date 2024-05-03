@@ -20,6 +20,7 @@ API nativa de .NET para leer, escribir, editar y eliminar dinámicamente metainf
 Estos son enlaces a algunos recursos útiles:
 
 - [Referencia de API de GroupDocs.Metadata para .NET](/metadata/es/net/)
+- [Tutoriales de API de GroupDocs.Metadata para .NET](/tutorials/metadata/es/net/)
 
 
 ## GroupDocs. Metadata para Java
