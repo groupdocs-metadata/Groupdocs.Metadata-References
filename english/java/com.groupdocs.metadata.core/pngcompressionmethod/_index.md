@@ -3,7 +3,7 @@ title: PngCompressionMethod
 second_title: GroupDocs.Metadata for Java API Reference
 description: Defines compression methods used in the PNG format.
 type: docs
-weight: 387
+weight: 396
 url: /java/com.groupdocs.metadata.core/pngcompressionmethod/
 ---
 **Inheritance:**

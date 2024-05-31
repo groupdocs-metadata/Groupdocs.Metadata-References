@@ -3,7 +3,7 @@ title: IDocumentInfo
 second_title: GroupDocs.Metadata for Java API Reference
 description: Provides common information about a loaded document.
 type: docs
-weight: 344
+weight: 353
 url: /java/com.groupdocs.metadata.core/idocumentinfo/
 ---```
 public interface IDocumentInfo

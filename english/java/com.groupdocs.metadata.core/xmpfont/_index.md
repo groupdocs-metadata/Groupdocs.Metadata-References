@@ -3,7 +3,7 @@ title: XmpFont
 second_title: GroupDocs.Metadata for Java API Reference
 description: A structure containing the characteristics of a font used in a document.
 type: docs
-weight: 307
+weight: 316
 url: /java/com.groupdocs.metadata.core/xmpfont/
 ---
 **Inheritance:**

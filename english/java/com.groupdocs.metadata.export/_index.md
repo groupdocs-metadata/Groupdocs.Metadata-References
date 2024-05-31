@@ -14,9 +14,11 @@ The **com.groupdocs.metadata.export** namespace contains classes that allow user
 
 | Class | Description |
 | --- | --- |
+| [CsvExportOptions](../com.groupdocs.metadata.export/csvexportoptions) | Creates an export options of xml file. |
 | [ExcelExportOptions](../com.groupdocs.metadata.export/excelexportoptions) | Creates an export options of excel file. |
 | [ExportManager](../com.groupdocs.metadata.export/exportmanager) | Provides a row of methods allowing the user to export metadata properties to various formats. |
 | [ExportOptions](../com.groupdocs.metadata.export/exportoptions) | Abstract class export options. |
+| [JsonExportOptions](../com.groupdocs.metadata.export/jsonexportoptions) | Creates an export options of xml file. |
 | [XmlExportOptions](../com.groupdocs.metadata.export/xmlexportoptions) | Creates an export options of xml file. |
 
 ## Enumerations

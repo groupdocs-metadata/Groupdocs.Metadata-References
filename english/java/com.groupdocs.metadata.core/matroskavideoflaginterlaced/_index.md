@@ -3,7 +3,7 @@ title: MatroskaVideoFlagInterlaced
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a flag to declare if the Matroska video is known to be progressive or interlaced and if applicable to declare details about the interlacement.
 type: docs
-weight: 367
+weight: 376
 url: /java/com.groupdocs.metadata.core/matroskavideoflaginterlaced/
 ---
 **Inheritance:**

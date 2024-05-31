@@ -3,7 +3,7 @@ title: IReadOnlyList
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a read-only collection of elements that can be accessed by index.
 type: docs
-weight: 350
+weight: 359
 url: /java/com.groupdocs.metadata.core/ireadonlylist/
 ---
 **All Implemented Interfaces:**
@@ -23,6 +23,7 @@ Represents a read-only collection of elements that can be accessed by index.
 | [get_Item(int index)](#get-Item-int-) | Gets the element at the specified index in the read-only list. |
 | [indexOf(T item)](#indexOf-T-) | Determines the index of a specific item in the collection. |
 | [contains(T item)](#contains-T-) | Determines whether the collection contains a specific item. |
+| [contains(TagCategory item)](#contains-com.groupdocs.metadata.tagging.TagCategory-) | Determines whether the collection contains a TagCategory item. |
 ### getCount() {#getCount--}
 ```
 public abstract int getCount()
@@ -75,6 +76,21 @@ Determines whether the collection contains a specific item.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | item | T | The item to locate in the collection. |
+
+**Returns:**
+boolean - True if the item is found in the collection; otherwise, false.
+### contains(TagCategory item) {#contains-com.groupdocs.metadata.tagging.TagCategory-}
+```
+public abstract boolean contains(TagCategory item)
+```
+
+
+Determines whether the collection contains a TagCategory item.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| item | [TagCategory](../../com.groupdocs.metadata.tagging/tagcategory) | The item to locate in the collection. |
 
 **Returns:**
 boolean - True if the item is found in the collection; otherwise, false.

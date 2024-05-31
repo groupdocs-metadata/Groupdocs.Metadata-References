@@ -3,7 +3,7 @@ title: XmpComplexTypeValue
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents an XMP value containing a complex type instance.
 type: docs
-weight: 300
+weight: 309
 url: /java/com.groupdocs.metadata.core/xmpcomplextypevalue/
 ---
 **Inheritance:**

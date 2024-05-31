@@ -3,7 +3,7 @@ title: XmpText
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents XMP Text basic type.
 type: docs
-weight: 332
+weight: 341
 url: /java/com.groupdocs.metadata.core/xmptext/
 ---
 **Inheritance:**

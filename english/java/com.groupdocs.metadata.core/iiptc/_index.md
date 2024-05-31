@@ -3,7 +3,7 @@ title: IIptc
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents base operations intended to work with IPTC metadata.
 type: docs
-weight: 349
+weight: 358
 url: /java/com.groupdocs.metadata.core/iiptc/
 ---```
 public interface IIptc

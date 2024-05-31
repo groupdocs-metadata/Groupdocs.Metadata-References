@@ -3,7 +3,7 @@ title: XmpMeta
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents xmpmeta.
 type: docs
-weight: 317
+weight: 326
 url: /java/com.groupdocs.metadata.core/xmpmeta/
 ---
 **Inheritance:**

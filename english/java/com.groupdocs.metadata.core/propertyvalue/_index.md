@@ -28,12 +28,15 @@ Represents a property value.
 | [PropertyValue(double[] values)](#PropertyValue-double---) | Initializes a new instance of the  PropertyValue  class with an array of double values. |
 | [PropertyValue(int[] values)](#PropertyValue-int---) | Initializes a new instance of the  PropertyValue  class with an array of integer values. |
 | [PropertyValue(long[] values)](#PropertyValue-long---) | Initializes a new instance of the  PropertyValue  class with an array of long values. |
+| [PropertyValue(PropertyValue[] values)](#PropertyValue-com.groupdocs.metadata.core.PropertyValue---) | Initializes a new instance of the  PropertyValue  class with an array of metadata property values. |
+| [PropertyValue(UUID value)](#PropertyValue-java.util.UUID-) |  |
 ## Methods
 
 | Method | Description |
 | --- | --- |
 | [getType()](#getType--) | Gets the  MetadataPropertyType . |
 | [getRawValue()](#getRawValue--) | Gets the raw value. |
+| [getEmpty()](#getEmpty--) |  |
 | [<TElement>toArray(Class<TElement> elementType)](#-TElement-toArray-java.lang.Class-TElement--) | Converts the property value to an array of the specified type. |
 | [<T>toClass(Class<T> type)](#-T-toClass-java.lang.Class-T--) | Converts the property value to a reference type. |
 | [toString()](#toString--) | Returns a string that represents the property value. |
@@ -181,6 +184,30 @@ Initializes a new instance of the  PropertyValue  class with an array of long va
 | --- | --- | --- |
 | values | long[] | An array of long values. |
 
+### PropertyValue(PropertyValue[] values) {#PropertyValue-com.groupdocs.metadata.core.PropertyValue---}
+```
+public PropertyValue(PropertyValue[] values)
+```
+
+
+Initializes a new instance of the  PropertyValue  class with an array of metadata property values.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| values | [PropertyValue\[\]](../../com.groupdocs.metadata.core/propertyvalue) | An array of metadata property values. |
+
+### PropertyValue(UUID value) {#PropertyValue-java.util.UUID-}
+```
+public PropertyValue(UUID value)
+```
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.util.UUID |  |
+
 ### getType() {#getType--}
 ```
 public final MetadataPropertyType getType()
@@ -201,6 +228,16 @@ Gets the raw value.
 
 **Returns:**
 java.lang.Object - The raw value.
+### getEmpty() {#getEmpty--}
+```
+public static PropertyValue getEmpty()
+```
+
+
+
+
+**Returns:**
+[PropertyValue](../../com.groupdocs.metadata.core/propertyvalue)
 ### <TElement>toArray(Class<TElement> elementType) {#-TElement-toArray-java.lang.Class-TElement--}
 ```
 public final TElement[] <TElement>toArray(Class<TElement> elementType)

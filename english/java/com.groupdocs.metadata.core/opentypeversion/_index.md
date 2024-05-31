@@ -3,7 +3,7 @@ title: OpenTypeVersion
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the OpenType version.
 type: docs
-weight: 382
+weight: 391
 url: /java/com.groupdocs.metadata.core/opentypeversion/
 ---
 **Inheritance:**

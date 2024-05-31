@@ -3,7 +3,7 @@ title: MetadataType
 second_title: GroupDocs.Metadata for Java API Reference
 description: Specifies the type of a metadata package.
 type: docs
-weight: 370
+weight: 379
 url: /java/com.groupdocs.metadata.core/metadatatype/
 ---
 **Inheritance:**
@@ -53,6 +53,7 @@ Specifies the type of a metadata package.
 | [Mov](#Mov) | A QuickTime video. |
 | [Matroska](#Matroska) | A native metadata package extracted from a video encoded with the Matroska multimedia container. |
 | [Zip](#Zip) | A native metadata package of a ZIP archive. |
+| [SevenZip](#SevenZip) | A native metadata package of a SevenZip archive. |
 | [VCard](#VCard) | A native metadata package of a VCard. |
 | [Epub](#Epub) | A native metadata package of a EPUB e-book. |
 | [OpenType](#OpenType) | An OpenType font metadata package. |
@@ -63,6 +64,13 @@ Specifies the type of a metadata package.
 | [Png](#Png) | A PNG image metadata package. |
 | [Dng](#Dng) | A DNG image metadata package. |
 | [Cr2](#Cr2) | A CR2 image metadata package. |
+| [Rar](#Rar) | RAR is a proprietary archive file format that supports data compression, error correction and file spanning. |
+| [Tar](#Tar) | In computing, tar is a computer software utility for collecting many files into one archive file, often referred to as a tarball, for distribution or backup purposes. |
+| [ThreeDS](#ThreeDS) | 3DS is one of the file formats used by the Autodesk 3ds Max 3D modeling, animation and rendering software. |
+| [Dae](#Dae) | A DAE file is a Digital Asset Exchange file format that is used for exchanging data between interactive 3D applications. |
+| [Fbx](#Fbx) | FBX (Filmbox) is a proprietary file format (.fbx) developed by Kaydara and owned by Autodesk since 2006. |
+| [Stl](#Stl) | STL is a file format native to the stereolithography CAD software created by 3D Systems.[3][4][5] Chuck Hull, the inventor of stereolithography and 3D Systems\\u2019 founder, reports that the file extension is an abbreviation for stereolithography. |
+| [Gis](#Gis) | Gis format |
 ## Methods
 
 | Method | Description |
@@ -340,6 +348,14 @@ public static final MetadataType Zip
 
 A native metadata package of a ZIP archive.
 
+### SevenZip {#SevenZip}
+```
+public static final MetadataType SevenZip
+```
+
+
+A native metadata package of a SevenZip archive.
+
 ### VCard {#VCard}
 ```
 public static final MetadataType VCard
@@ -422,6 +438,62 @@ public static final MetadataType Cr2
 
 
 A CR2 image metadata package.
+
+### Rar {#Rar}
+```
+public static final MetadataType Rar
+```
+
+
+RAR is a proprietary archive file format that supports data compression, error correction and file spanning.
+
+### Tar {#Tar}
+```
+public static final MetadataType Tar
+```
+
+
+In computing, tar is a computer software utility for collecting many files into one archive file, often referred to as a tarball, for distribution or backup purposes.
+
+### ThreeDS {#ThreeDS}
+```
+public static final MetadataType ThreeDS
+```
+
+
+3DS is one of the file formats used by the Autodesk 3ds Max 3D modeling, animation and rendering software.
+
+### Dae {#Dae}
+```
+public static final MetadataType Dae
+```
+
+
+A DAE file is a Digital Asset Exchange file format that is used for exchanging data between interactive 3D applications.
+
+### Fbx {#Fbx}
+```
+public static final MetadataType Fbx
+```
+
+
+FBX (Filmbox) is a proprietary file format (.fbx) developed by Kaydara and owned by Autodesk since 2006. It is used to provide interoperability between digital content creation applications. FBX is also part of Autodesk Gameware, a series of video game middleware.
+
+### Stl {#Stl}
+```
+public static final MetadataType Stl
+```
+
+
+STL is a file format native to the stereolithography CAD software created by 3D Systems.[3][4][5] Chuck Hull, the inventor of stereolithography and 3D Systems\\u2019 founder, reports that the file extension is an abbreviation for stereolithography.
+
+### Gis {#Gis}
+```
+public static final MetadataType Gis
+```
+
+
+Gis format
 
 ### values() {#values--}
 ```

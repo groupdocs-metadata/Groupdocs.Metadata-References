@@ -3,7 +3,7 @@ title: TiffSRational
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents signed rational number.
 type: docs
-weight: 244
+weight: 253
 url: /java/com.groupdocs.metadata.core/tiffsrational/
 ---
 **Inheritance:**

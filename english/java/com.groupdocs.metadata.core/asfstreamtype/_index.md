@@ -3,7 +3,7 @@ title: AsfStreamType
 second_title: GroupDocs.Metadata for Java API Reference
 description: Defines ASF stream types.
 type: docs
-weight: 354
+weight: 363
 url: /java/com.groupdocs.metadata.core/asfstreamtype/
 ---
 **Inheritance:**

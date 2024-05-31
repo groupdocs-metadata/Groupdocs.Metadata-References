@@ -3,7 +3,7 @@ title: RiffInfoPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the metadata package containing properties extracted from the RIFF INFO chunk.
 type: docs
-weight: 222
+weight: 225
 url: /java/com.groupdocs.metadata.core/riffinfopackage/
 ---
 **Inheritance:**

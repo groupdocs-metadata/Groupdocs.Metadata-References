@@ -3,7 +3,7 @@ title: OpenTypeDigitalSignatureFlags
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents OpenType font digital signature flags.
 type: docs
-weight: 374
+weight: 383
 url: /java/com.groupdocs.metadata.core/opentypedigitalsignatureflags/
 ---
 **Inheritance:**

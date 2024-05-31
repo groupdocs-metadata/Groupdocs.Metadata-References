@@ -3,7 +3,7 @@ title: ExportFormat
 second_title: GroupDocs.Metadata for Java API Reference
 description: Defines file formats to which you can export metadata properties.
 type: docs
-weight: 14
+weight: 16
 url: /java/com.groupdocs.metadata.export/exportformat/
 ---
 **Inheritance:**
@@ -24,6 +24,7 @@ Defines file formats to which you can export metadata properties.
 | [Xlsx](#Xlsx) | Represents the .XLSX Excel format. |
 | [Xml](#Xml) | Represents the .XML format. |
 | [Csv](#Csv) | Represents the .CSV format. |
+| [Json](#Json) | Represents the .JSON format. |
 ## Methods
 
 | Method | Description |
@@ -68,6 +69,14 @@ public static final ExportFormat Csv
 
 
 Represents the .CSV format.
+
+### Json {#Json}
+```
+public static final ExportFormat Json
+```
+
+
+Represents the .JSON format.
 
 ### values() {#values--}
 ```

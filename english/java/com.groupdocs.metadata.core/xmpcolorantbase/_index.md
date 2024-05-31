@@ -3,7 +3,7 @@ title: XmpColorantBase
 second_title: GroupDocs.Metadata for Java API Reference
 description: A structure containing the characteristics of a colorant swatch used in a document.
 type: docs
-weight: 295
+weight: 304
 url: /java/com.groupdocs.metadata.core/xmpcolorantbase/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: com.groupdocs.metadata.options
 second_title: GroupDocs.Metadata for Java API Reference
 description: The com.groupdocs.metadata.options namespace contains all classes representing settings that allow users to control file and metadata processing.
 type: docs
-weight: 14
+weight: 15
 url: /java/com.groupdocs.metadata.options/
 ---
 

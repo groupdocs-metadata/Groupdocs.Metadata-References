@@ -3,7 +3,7 @@ title: VCardGeographicalRecordset
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a set of Geographical vCard records.
 type: docs
-weight: 265
+weight: 274
 url: /java/com.groupdocs.metadata.core/vcardgeographicalrecordset/
 ---
 **Inheritance:**

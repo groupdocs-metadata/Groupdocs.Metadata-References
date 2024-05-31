@@ -3,7 +3,7 @@ title: OpenTypeWeight
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the OpenType font weight.
 type: docs
-weight: 383
+weight: 392
 url: /java/com.groupdocs.metadata.core/opentypeweight/
 ---
 **Inheritance:**

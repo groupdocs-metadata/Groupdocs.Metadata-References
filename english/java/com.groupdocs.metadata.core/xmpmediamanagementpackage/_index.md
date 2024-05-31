@@ -3,7 +3,7 @@ title: XmpMediaManagementPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the XMP Media Management namespace.
 type: docs
-weight: 316
+weight: 325
 url: /java/com.groupdocs.metadata.core/xmpmediamanagementpackage/
 ---
 **Inheritance:**

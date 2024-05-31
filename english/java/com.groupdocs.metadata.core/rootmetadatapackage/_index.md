@@ -3,7 +3,7 @@ title: RootMetadataPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents an entry point to all metadata packages presented in a particular file.
 type: docs
-weight: 223
+weight: 226
 url: /java/com.groupdocs.metadata.core/rootmetadatapackage/
 ---
 **Inheritance:**
@@ -18,6 +18,7 @@ Represents an entry point to all metadata packages presented in a particular fil
 | Method | Description |
 | --- | --- |
 | [getFileType()](#getFileType--) | Gets the file type metadata package. |
+| [isLicensed()](#isLicensed--) |  |
 | [sanitize()](#sanitize--) | Removes writable metadata properties from the package. |
 ### getFileType() {#getFileType--}
 ```
@@ -29,6 +30,16 @@ Gets the file type metadata package.
 
 **Returns:**
 [FileTypePackage](../../com.groupdocs.metadata.core/filetypepackage) - The file type metadata package.
+### isLicensed() {#isLicensed--}
+```
+public final boolean isLicensed()
+```
+
+
+
+
+**Returns:**
+boolean
 ### sanitize() {#sanitize--}
 ```
 public int sanitize()

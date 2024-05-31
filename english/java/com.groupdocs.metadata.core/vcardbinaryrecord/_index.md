@@ -3,7 +3,7 @@ title: VCardBinaryRecord
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents vCard binary record metadata class.
 type: docs
-weight: 256
+weight: 265
 url: /java/com.groupdocs.metadata.core/vcardbinaryrecord/
 ---
 **Inheritance:**

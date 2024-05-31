@@ -3,7 +3,7 @@ title: TiffUndefinedTag
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a TIFF tag with the Undefined type.
 type: docs
-weight: 250
+weight: 259
 url: /java/com.groupdocs.metadata.core/tiffundefinedtag/
 ---
 **Inheritance:**

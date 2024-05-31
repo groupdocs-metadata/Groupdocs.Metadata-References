@@ -3,7 +3,7 @@ title: XmpColorantLab
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the LAB Colorant.
 type: docs
-weight: 297
+weight: 306
 url: /java/com.groupdocs.metadata.core/xmpcolorantlab/
 ---
 **Inheritance:**

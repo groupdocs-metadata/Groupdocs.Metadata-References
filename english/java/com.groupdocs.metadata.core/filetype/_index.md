@@ -112,6 +112,9 @@ Represents the file type.
 | [ASF](#ASF) | The Advanced Systems Format (ASF) is a digital multimedia container designed primarily for storing and transmitting media streams. |
 | [DNG](#DNG) | DNG is a digital camera image format used for the storage of raw files. |
 | [CR2](#CR2) | The .CR2 file format (Canon RAW version 2) is a digital photography RAW format created by Canon. |
+| [SEVENZIP](#SEVENZIP) | 7z is a compressed archive file format that supports several different data compression, encryption and pre-processing algorithms. |
+| [RAR](#RAR) | RAR is a proprietary archive file format that supports data compression, error correction and file spanning. |
+| [TAR](#TAR) | In computing, tar is a computer software utility for collecting many files into one archive file, often referred to as a tarball, for distribution or backup purposes. |
 ## Methods
 
 | Method | Description |
@@ -1048,6 +1051,39 @@ The .CR2 file format (Canon RAW version 2) is a digital photography RAW format c
 
 
 [here]: https://wiki.fileformat.com/image/cr2/
+
+### SEVENZIP {#SEVENZIP}
+```
+public static final FileType SEVENZIP
+```
+
+
+7z is a compressed archive file format that supports several different data compression, encryption and pre-processing algorithms. The 7z format initially appeared as implemented by the 7-Zip archiver. The 7-Zip program is publicly available under the terms of the GNU Lesser General Public License.  [here][] .
+
+
+[here]: https://wiki.fileformat.com/compression/zip/
+
+### RAR {#RAR}
+```
+public static final FileType RAR
+```
+
+
+RAR is a proprietary archive file format that supports data compression, error correction and file spanning.  [here][] .
+
+
+[here]: https://wiki.fileformat.com/compression/rar/
+
+### TAR {#TAR}
+```
+public static final FileType TAR
+```
+
+
+In computing, tar is a computer software utility for collecting many files into one archive file, often referred to as a tarball, for distribution or backup purposes.  [here][] .
+
+
+[here]: https://wiki.fileformat.com/compression/tar/
 
 ### getDescription() {#getDescription--}
 ```

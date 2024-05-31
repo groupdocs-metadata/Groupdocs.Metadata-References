@@ -3,7 +3,7 @@ title: XmpColorantRgb
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the RGB Colorant.
 type: docs
-weight: 298
+weight: 307
 url: /java/com.groupdocs.metadata.core/xmpcolorantrgb/
 ---
 **Inheritance:**

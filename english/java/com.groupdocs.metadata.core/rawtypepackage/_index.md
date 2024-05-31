@@ -3,7 +3,7 @@ title: RawTypePackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a metadata package containing image-specific file format information.
 type: docs
-weight: 219
+weight: 222
 url: /java/com.groupdocs.metadata.core/rawtypepackage/
 ---
 **Inheritance:**

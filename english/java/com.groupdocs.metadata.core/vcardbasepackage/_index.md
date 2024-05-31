@@ -3,7 +3,7 @@ title: VCardBasePackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the base VCard metadata class.
 type: docs
-weight: 255
+weight: 264
 url: /java/com.groupdocs.metadata.core/vcardbasepackage/
 ---
 **Inheritance:**

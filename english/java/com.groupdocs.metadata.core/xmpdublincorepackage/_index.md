@@ -3,7 +3,7 @@ title: XmpDublinCorePackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the Dublin Core scheme.
 type: docs
-weight: 303
+weight: 312
 url: /java/com.groupdocs.metadata.core/xmpdublincorepackage/
 ---
 **Inheritance:**
