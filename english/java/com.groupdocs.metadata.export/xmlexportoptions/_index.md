@@ -3,7 +3,7 @@ title: XmlExportOptions
 second_title: GroupDocs.Metadata for Java API Reference
 description: Creates an export options of xml file.
 type: docs
-weight: 13
+weight: 15
 url: /java/com.groupdocs.metadata.export/xmlexportoptions/
 ---
 **Inheritance:**

@@ -216,6 +216,9 @@ The **com.groupdocs.metadata.core** namespace provides main classes allowing wor
 | [PsdLayerFlags](../com.groupdocs.metadata.core/psdlayerflags) | The Photoshop layer flags. |
 | [PsdPackage](../com.groupdocs.metadata.core/psdpackage) | Represents native Photoshop metadata. |
 | [PsdRootPackage](../com.groupdocs.metadata.core/psdrootpackage) | Represents the root package allowing working with metadata in a Photoshop Document. |
+| [RarFile](../com.groupdocs.metadata.core/rarfile) | Represents metadata associated with an archived file or directory. |
+| [RarPackage](../com.groupdocs.metadata.core/rarpackage) | Represents ZIP archive metadata. |
+| [RarRootPackage](../com.groupdocs.metadata.core/rarrootpackage) | Represents the root package allowing working with metadata in a ZIP archive. |
 | [RawDictionaryBasePackage](../com.groupdocs.metadata.core/rawdictionarybasepackage) | Provides an abstract base class for EXIF metadata dictionaries. |
 | [RawExifTagPackage](../com.groupdocs.metadata.core/rawexiftagpackage) | Represents Exif tags. |
 | [RawIFD1Package](../com.groupdocs.metadata.core/rawifd1package) | Represents IFD1 tags. |
@@ -228,6 +231,9 @@ The **com.groupdocs.metadata.core** namespace provides main classes allowing wor
 | [Rectangle](../com.groupdocs.metadata.core/rectangle) | A set of four integers that represent the location and size of a rectangle. |
 | [RiffInfoPackage](../com.groupdocs.metadata.core/riffinfopackage) | Represents the metadata package containing properties extracted from the RIFF INFO chunk. |
 | [RootMetadataPackage](../com.groupdocs.metadata.core/rootmetadatapackage) | Represents an entry point to all metadata packages presented in a particular file. |
+| [SevenZipFile](../com.groupdocs.metadata.core/sevenzipfile) | Represents metadata associated with an archived file or directory. |
+| [SevenZipPackage](../com.groupdocs.metadata.core/sevenzippackage) | Represents ZIP archive metadata. |
+| [SevenZipRootPackage](../com.groupdocs.metadata.core/sevenziprootpackage) | Represents the root package allowing working with metadata in a ZIP archive. |
 | [SonyMakerNotePackage](../com.groupdocs.metadata.core/sonymakernotepackage) | Represents SONY MakerNote metadata. |
 | [SpreadsheetComment](../com.groupdocs.metadata.core/spreadsheetcomment) | Represents a user comment in a spreadsheet. |
 | [SpreadsheetContentTypePackage](../com.groupdocs.metadata.core/spreadsheetcontenttypepackage) | Represents a metadata package containing spreadsheet content type properties. |
@@ -237,6 +243,9 @@ The **com.groupdocs.metadata.core** namespace provides main classes allowing wor
 | [SpreadsheetRootPackage](../com.groupdocs.metadata.core/spreadsheetrootpackage) | Represents the root package allowing working with metadata in a spreadsheet. |
 | [SpreadsheetSheet](../com.groupdocs.metadata.core/spreadsheetsheet) | Represents a sheet in a spreadsheet document. |
 | [SpreadsheetTypePackage](../com.groupdocs.metadata.core/spreadsheettypepackage) | Represents a metadata package containing spreadsheet-specific file format information. |
+| [TarFile](../com.groupdocs.metadata.core/tarfile) | Represents metadata associated with an archived file or directory. |
+| [TarPackage](../com.groupdocs.metadata.core/tarpackage) | Represents ZIP archive metadata. |
+| [TarRootPackage](../com.groupdocs.metadata.core/tarrootpackage) | Represents the root package allowing working with metadata in a ZIP archive. |
 | [TiffArrayTag<T>](../com.groupdocs.metadata.core/tiffarraytag) | Represents an array-based TIFF tag. |
 | [TiffAsciiTag](../com.groupdocs.metadata.core/tiffasciitag) | Represents a TIFF ASCII tag. |
 | [TiffByteTag](../com.groupdocs.metadata.core/tiffbytetag) | Represents a Byte tag. |

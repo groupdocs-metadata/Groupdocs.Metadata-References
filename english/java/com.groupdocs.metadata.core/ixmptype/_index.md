@@ -3,7 +3,7 @@ title: IXmpType
 second_title: GroupDocs.Metadata for Java API Reference
 description: Base interface for XMP type.
 type: docs
-weight: 352
+weight: 361
 url: /java/com.groupdocs.metadata.core/ixmptype/
 ---```
 public interface IXmpType

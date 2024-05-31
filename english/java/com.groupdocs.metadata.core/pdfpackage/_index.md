@@ -47,11 +47,13 @@ This code snippet demonstrates how to update built-in metadata properties in a P
 | [getCreatedDate()](#getCreatedDate--) | Gets the date of document creation. |
 | [setCreatedDate(Date value)](#setCreatedDate-java.util.Date-) | Sets the date of document creation. |
 | [getCreator()](#getCreator--) | Gets the creator of the document. |
+| [setCreator(String value)](#setCreator-java.lang.String-) | Gets the creator of the document. |
 | [getKeywords()](#getKeywords--) | Gets the keywords. |
 | [setKeywords(String value)](#setKeywords-java.lang.String-) | Sets the keywords. |
 | [getModifiedDate()](#getModifiedDate--) | Gets the date of the last modification. |
 | [setModifiedDate(Date value)](#setModifiedDate-java.util.Date-) | Sets the date of the last modification. |
 | [getProducer()](#getProducer--) | Gets the document producer. |
+| [setProducer(String value)](#setProducer-java.lang.String-) | Gets the document producer. |
 | [getSubject()](#getSubject--) | Gets the subject of the document. |
 | [setSubject(String value)](#setSubject-java.lang.String-) | Sets the subject of the document. |
 | [getTitle()](#getTitle--) | Gets the title of the document. |
@@ -115,6 +117,21 @@ Gets the creator of the document.
 
 **Returns:**
 java.lang.String - The creator of the document.
+### setCreator(String value) {#setCreator-java.lang.String-}
+```
+public final void setCreator(String value)
+```
+
+
+Gets the creator of the document.
+
+Value: The creator of the document.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String |  |
+
 ### getKeywords() {#getKeywords--}
 ```
 public final String getKeywords()
@@ -171,6 +188,21 @@ Gets the document producer.
 
 **Returns:**
 java.lang.String - The document producer.
+### setProducer(String value) {#setProducer-java.lang.String-}
+```
+public final void setProducer(String value)
+```
+
+
+Gets the document producer.
+
+Value: The document producer.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.String |  |
+
 ### getSubject() {#getSubject--}
 ```
 public final String getSubject()

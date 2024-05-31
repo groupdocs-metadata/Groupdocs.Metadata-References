@@ -13,6 +13,11 @@ public class MetadataProperty
 ```
 
 Represents a metadata property.
+## Constructors
+
+| Constructor | Description |
+| --- | --- |
+| [MetadataProperty(String name, PropertyValue value)](#MetadataProperty-java.lang.String-com.groupdocs.metadata.core.PropertyValue-) | Initializes a new instance of the  MetadataProperty  class. |
 ## Methods
 
 | Method | Description |
@@ -22,6 +27,20 @@ Represents a metadata property.
 | [getInterpretedValue()](#getInterpretedValue--) | Gets the interpreted property value, if available. |
 | [getDescriptor()](#getDescriptor--) | Gets the descriptor associated with the metadata property. |
 | [getTags()](#getTags--) | Gets a collection of tags associated with the property. |
+### MetadataProperty(String name, PropertyValue value) {#MetadataProperty-java.lang.String-com.groupdocs.metadata.core.PropertyValue-}
+```
+public MetadataProperty(String name, PropertyValue value)
+```
+
+
+Initializes a new instance of the  MetadataProperty  class.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| name | java.lang.String | The name of the metadata property. |
+| value | [PropertyValue](../../com.groupdocs.metadata.core/propertyvalue) | The value of the metadata property. |
+
 ### getName() {#getName--}
 ```
 public final String getName()

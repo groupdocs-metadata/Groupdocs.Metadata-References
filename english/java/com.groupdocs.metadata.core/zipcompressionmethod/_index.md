@@ -3,7 +3,7 @@ title: ZipCompressionMethod
 second_title: GroupDocs.Metadata for Java API Reference
 description: Defines ZIP compression methods.
 type: docs
-weight: 402
+weight: 411
 url: /java/com.groupdocs.metadata.core/zipcompressionmethod/
 ---
 **Inheritance:**

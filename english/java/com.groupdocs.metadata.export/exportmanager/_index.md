@@ -3,7 +3,7 @@ title: ExportManager
 second_title: GroupDocs.Metadata for Java API Reference
 description: Provides a row of methods allowing the user to export metadata properties to various formats.
 type: docs
-weight: 11
+weight: 12
 url: /java/com.groupdocs.metadata.export/exportmanager/
 ---
 **Inheritance:**

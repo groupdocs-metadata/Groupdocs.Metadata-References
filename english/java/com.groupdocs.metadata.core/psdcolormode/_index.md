@@ -3,7 +3,7 @@ title: PsdColorMode
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the psd file format color mode.
 type: docs
-weight: 389
+weight: 398
 url: /java/com.groupdocs.metadata.core/psdcolormode/
 ---
 **Inheritance:**

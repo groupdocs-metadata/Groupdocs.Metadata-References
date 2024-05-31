@@ -3,7 +3,7 @@ title: SpreadsheetContentTypePackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a metadata package containing spreadsheet content type properties.
 type: docs
-weight: 226
+weight: 232
 url: /java/com.groupdocs.metadata.core/spreadsheetcontenttypepackage/
 ---
 **Inheritance:**

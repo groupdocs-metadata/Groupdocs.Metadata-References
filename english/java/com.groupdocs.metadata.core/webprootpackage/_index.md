@@ -3,7 +3,7 @@ title: WebPRootPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the root package allowing working with metadata in a WEBP image.
 type: docs
-weight: 278
+weight: 287
 url: /java/com.groupdocs.metadata.core/webprootpackage/
 ---
 **Inheritance:**

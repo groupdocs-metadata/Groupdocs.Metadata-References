@@ -3,7 +3,7 @@ title: VCardContentType
 second_title: GroupDocs.Metadata for Java API Reference
 description: Defines vCard record content types.
 type: docs
-weight: 394
+weight: 403
 url: /java/com.groupdocs.metadata.core/vcardcontenttype/
 ---
 **Inheritance:**

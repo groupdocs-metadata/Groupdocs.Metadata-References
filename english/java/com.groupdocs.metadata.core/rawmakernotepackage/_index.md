@@ -3,7 +3,7 @@ title: RawMakerNotePackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents Raw MakerNotes tags.
 type: docs
-weight: 217
+weight: 220
 url: /java/com.groupdocs.metadata.core/rawmakernotepackage/
 ---
 **Inheritance:**

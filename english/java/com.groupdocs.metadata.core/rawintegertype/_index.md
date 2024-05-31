@@ -3,7 +3,7 @@ title: RawIntegerType
 second_title: GroupDocs.Metadata for Java API Reference
 description: Defines raw integer types for enumerations.
 type: docs
-weight: 391
+weight: 400
 url: /java/com.groupdocs.metadata.core/rawintegertype/
 ---
 **Inheritance:**

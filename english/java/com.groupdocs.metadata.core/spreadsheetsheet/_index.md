@@ -3,7 +3,7 @@ title: SpreadsheetSheet
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a sheet in a spreadsheet document.
 type: docs
-weight: 231
+weight: 237
 url: /java/com.groupdocs.metadata.core/spreadsheetsheet/
 ---
 **Inheritance:**

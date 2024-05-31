@@ -3,7 +3,7 @@ title: ExcelExportOptions
 second_title: GroupDocs.Metadata for Java API Reference
 description: Creates an export options of excel file.
 type: docs
-weight: 10
+weight: 11
 url: /java/com.groupdocs.metadata.export/excelexportoptions/
 ---
 **Inheritance:**

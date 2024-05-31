@@ -3,7 +3,7 @@ title: VCardCommunicationRecordset
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a set of Communication vCard records.
 type: docs
-weight: 259
+weight: 268
 url: /java/com.groupdocs.metadata.core/vcardcommunicationrecordset/
 ---
 **Inheritance:**

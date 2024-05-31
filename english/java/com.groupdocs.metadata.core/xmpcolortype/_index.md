@@ -3,7 +3,7 @@ title: XmpColorType
 second_title: GroupDocs.Metadata for Java API Reference
 description: Type of color in XmpColorantBase.
 type: docs
-weight: 398
+weight: 407
 url: /java/com.groupdocs.metadata.core/xmpcolortype/
 ---
 **Inheritance:**

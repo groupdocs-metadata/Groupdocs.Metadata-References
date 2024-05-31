@@ -3,7 +3,7 @@ title: RawTiffTagPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents Tiff tags.
 type: docs
-weight: 218
+weight: 221
 url: /java/com.groupdocs.metadata.core/rawtifftagpackage/
 ---
 **Inheritance:**

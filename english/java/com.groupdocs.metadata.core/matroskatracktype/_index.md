@@ -3,7 +3,7 @@ title: MatroskaTrackType
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents Matroska track types coded in 8 bits.
 type: docs
-weight: 364
+weight: 373
 url: /java/com.groupdocs.metadata.core/matroskatracktype/
 ---
 **Inheritance:**

@@ -3,7 +3,7 @@ title: FileFormat
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents the recognized format of a loaded file.
 type: docs
-weight: 359
+weight: 368
 url: /java/com.groupdocs.metadata.core/fileformat/
 ---
 **Inheritance:**
@@ -48,6 +48,7 @@ Represents the recognized format of a loaded file.
 | [Mov](#Mov) | A QuickTime video. |
 | [Matroska](#Matroska) | A video encoded with the Matroska multimedia container. |
 | [Zip](#Zip) | A ZIP archive. |
+| [SevenZip](#SevenZip) | 7z is a compressed archive file format that supports several different data compression, encryption and pre-processing algorithms. |
 | [VCard](#VCard) | A VCard file. |
 | [Epub](#Epub) | An EPUB electronic book. |
 | [OpenType](#OpenType) | An OpenType font. |
@@ -59,6 +60,8 @@ Represents the recognized format of a loaded file.
 | [Heif](#Heif) | A HEIF/HEIC image. |
 | [Dng](#Dng) | A dng RAW image. |
 | [Cr2](#Cr2) | A CR2 image. |
+| [Rar](#Rar) | RAR is a proprietary archive file format that supports data compression, error correction and file spanning. |
+| [Tar](#Tar) | In computing, tar is a computer software utility for collecting many files into one archive file, often referred to as a tarball, for distribution or backup purposes. |
 ## Methods
 
 | Method | Description |
@@ -368,6 +371,14 @@ A ZIP archive. ZIP file extension represents archives that can hold one or more 
 
 [here]: https://wiki.fileformat.com/compression/zip/
 
+### SevenZip {#SevenZip}
+```
+public static final FileFormat SevenZip
+```
+
+
+7z is a compressed archive file format that supports several different data compression, encryption and pre-processing algorithms. The 7z format initially appeared as implemented by the 7-Zip archiver. The 7-Zip program is publicly available under the terms of the GNU Lesser General Public License.
+
 ### VCard {#VCard}
 ```
 public static final FileFormat VCard
@@ -473,6 +484,22 @@ public static final FileFormat Cr2
 
 
 A CR2 image.
+
+### Rar {#Rar}
+```
+public static final FileFormat Rar
+```
+
+
+RAR is a proprietary archive file format that supports data compression, error correction and file spanning.
+
+### Tar {#Tar}
+```
+public static final FileFormat Tar
+```
+
+
+In computing, tar is a computer software utility for collecting many files into one archive file, often referred to as a tarball, for distribution or backup purposes.
 
 ### values() {#values--}
 ```

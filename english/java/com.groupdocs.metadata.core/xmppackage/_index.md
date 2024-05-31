@@ -3,7 +3,7 @@ title: XmpPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents base abstraction for XMP package.
 type: docs
-weight: 320
+weight: 329
 url: /java/com.groupdocs.metadata.core/xmppackage/
 ---
 **Inheritance:**
@@ -27,7 +27,7 @@ This example demonstrates how to add a custom XMP package to a file of any suppo
 >      IXmp root = (IXmp) metadata.getRootPackage();
 >      XmpPacketWrapper packet = new XmpPacketWrapper();
 >      XmpPackage custom = new XmpPackage("gd", "https://groupdocs.com");
->      custom.set("gd:Copyright", "Copyright (C) 2011-2022 GroupDocs. All Rights Reserved.");
+>      custom.set("gd:Copyright", "Copyright (C) 2011-2024 GroupDocs. All Rights Reserved.");
 >      custom.set("gd:CreationDate", new Date());
 >      custom.set("gd:Company", XmpArray.from(new String[]{"Aspose", "GroupDocs"}, XmpArrayType.Ordered));
 >      packet.addPackage(custom);

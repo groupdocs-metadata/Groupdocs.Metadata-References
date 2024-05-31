@@ -3,7 +3,7 @@ title: XmpGuid
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents XMP global unique identifier.
 type: docs
-weight: 308
+weight: 317
 url: /java/com.groupdocs.metadata.core/xmpguid/
 ---
 **Inheritance:**

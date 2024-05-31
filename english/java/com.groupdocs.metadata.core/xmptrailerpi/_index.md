@@ -3,7 +3,7 @@ title: XmpTrailerPI
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents XMP trailer processing instruction.
 type: docs
-weight: 337
+weight: 346
 url: /java/com.groupdocs.metadata.core/xmptrailerpi/
 ---
 **Inheritance:**

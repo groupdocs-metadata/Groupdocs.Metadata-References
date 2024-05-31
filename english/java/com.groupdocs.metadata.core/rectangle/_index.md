@@ -3,7 +3,7 @@ title: Rectangle
 second_title: GroupDocs.Metadata for Java API Reference
 description: A set of four integers that represent the location and size of a rectangle.
 type: docs
-weight: 221
+weight: 224
 url: /java/com.groupdocs.metadata.core/rectangle/
 ---
 **Inheritance:**

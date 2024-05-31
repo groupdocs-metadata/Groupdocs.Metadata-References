@@ -3,7 +3,7 @@ title: XmpTimeFormat
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents time format in XmpTimecode.
 type: docs
-weight: 335
+weight: 344
 url: /java/com.groupdocs.metadata.core/xmptimeformat/
 ---
 **Inheritance:**

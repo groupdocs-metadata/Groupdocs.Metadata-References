@@ -3,7 +3,7 @@ title: XmpRightsManagementPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents XMP Rights Management namespace.
 type: docs
-weight: 330
+weight: 339
 url: /java/com.groupdocs.metadata.core/xmprightsmanagementpackage/
 ---
 **Inheritance:**

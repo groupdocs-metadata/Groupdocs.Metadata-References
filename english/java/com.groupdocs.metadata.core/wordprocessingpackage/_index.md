@@ -3,7 +3,7 @@ title: WordProcessingPackage
 second_title: GroupDocs.Metadata for Java API Reference
 description: Represents a native metadata package in a word processing document.
 type: docs
-weight: 283
+weight: 292
 url: /java/com.groupdocs.metadata.core/wordprocessingpackage/
 ---
 **Inheritance:**
@@ -85,6 +85,7 @@ This code sample shows how to update built-in metadata properties in a WordProce
 | [getLinksUpToDate()](#getLinksUpToDate--) | Gets a value indicating whether the hyperlinks in the document are up-to-date. |
 | [setLinksUpToDate(Boolean value)](#setLinksUpToDate-java.lang.Boolean-) | Sets a value indicating whether the hyperlinks in the document are up-to-date. |
 | [getTitlesOfParts()](#getTitlesOfParts--) | Gets the titles of document parts. |
+| [getWords()](#getWords--) | Gets an estimate of the number of words in the document. |
 | [set(String propertyName, String value)](#set-java.lang.String-java.lang.String-) | Adds or replaces the metadata property with the specified name. |
 | [set(String propertyName, boolean value)](#set-java.lang.String-boolean-) | Adds or replaces the metadata property with the specified name. |
 | [set(String propertyName, Date value)](#set-java.lang.String-java.util.Date-) | Adds or replaces the metadata property with the specified name. |
@@ -571,6 +572,16 @@ Gets the titles of document parts. Read-only.
 
 **Returns:**
 java.lang.String[] - The titles of document parts.
+### getWords() {#getWords--}
+```
+public final Integer getWords()
+```
+
+
+Gets an estimate of the number of words in the document.
+
+**Returns:**
+java.lang.Integer - The number of words in the document.
 ### set(String propertyName, String value) {#set-java.lang.String-java.lang.String-}
 ```
 public final void set(String propertyName, String value)

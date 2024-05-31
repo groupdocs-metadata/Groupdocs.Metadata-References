@@ -29,7 +29,7 @@ This code sample demonstrates how to update common EXIF properties.
 >      if (root.getExifPackage() == null) {
 >          root.setExifPackage(new ExifPackage());
 >      }
->      root.getExifPackage().setCopyright("Copyright (C) 2011-2022 GroupDocs. All Rights Reserved.");
+>      root.getExifPackage().setCopyright("Copyright (C) 2011-2024 GroupDocs. All Rights Reserved.");
 >      root.getExifPackage().setImageDescription("test image");
 >      root.getExifPackage().setSoftware("GroupDocs.Metadata");
 >      // ...

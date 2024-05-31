@@ -3,7 +3,7 @@ title: ExportOptions
 second_title: GroupDocs.Metadata for Java API Reference
 description: Abstract class export options.
 type: docs
-weight: 12
+weight: 13
 url: /java/com.groupdocs.metadata.export/exportoptions/
 ---
 **Inheritance:**

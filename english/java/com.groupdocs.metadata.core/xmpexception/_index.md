@@ -3,7 +3,7 @@ title: XmpException
 second_title: GroupDocs.Metadata for Java API Reference
 description: The exception that is thrown when XMP has invalid structure.
 type: docs
-weight: 306
+weight: 315
 url: /java/com.groupdocs.metadata.core/xmpexception/
 ---
 **Inheritance:**
