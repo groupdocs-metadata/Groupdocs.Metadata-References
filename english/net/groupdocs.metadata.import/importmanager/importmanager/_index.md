@@ -16,7 +16,7 @@ public ImportManager(RootMetadataPackage rootMetadataPackage)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| rootMetadataPackage | RootMetadataPackage | A collection of metadata properties where the import will be performed.. |
+| rootMetadataPackage | RootMetadataPackage | A collection of metadata properties where the import will be performed. |
 
 ### See Also
 

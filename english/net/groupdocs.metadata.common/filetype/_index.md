@@ -26,6 +26,7 @@ public class FileType
 
 | Name | Description |
 | --- | --- |
+| static [FromExtension](../../groupdocs.metadata.common/filetype/fromextension)(string) | Gets FileType for provided fileExtension |
 | override [ToString](../../groupdocs.metadata.common/filetype/tostring)() | Returns a String that represents the current [`FileType`](../filetype). |
 | static [GetSupportedFileTypes](../../groupdocs.metadata.common/filetype/getsupportedfiletypes)() | Retrieves supported file types. |
 

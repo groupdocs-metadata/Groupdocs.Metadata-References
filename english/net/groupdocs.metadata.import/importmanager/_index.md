@@ -1,14 +1,14 @@
 ---
 title: ImportManager
 second_title: GroupDocs.Metadata for .NET API Reference
-description: Provides a row of methods allowing the user to export metadata properties to various formats.
+description: Provides a row of methods allowing the user to import metadata properties to various formats.
 type: docs
 weight: 3900
 url: /net/groupdocs.metadata.import/importmanager/
 ---
 ## ImportManager class
 
-Provides a row of methods allowing the user to export metadata properties to various formats.
+Provides a row of methods allowing the user to import metadata properties to various formats.
 
 ```csharp
 public class ImportManager
@@ -24,8 +24,8 @@ public class ImportManager
 
 | Name | Description |
 | --- | --- |
-| [Import](../../groupdocs.metadata.import/importmanager/import#import)(Stream, ImportFormat, ImportOptions) | Exports the metadata properties to a file. |
-| [Import](../../groupdocs.metadata.import/importmanager/import#import_1)(string, ImportFormat, ImportOptions) | Exports the metadata properties to a file. |
+| [Import](../../groupdocs.metadata.import/importmanager/import#import)(Stream, ImportFormat, ImportOptions) | Imports the metadata properties to a file. |
+| [Import](../../groupdocs.metadata.import/importmanager/import#import_1)(string, ImportFormat, ImportOptions) | Imports the metadata properties to a file. |
 
 ### See Also
 

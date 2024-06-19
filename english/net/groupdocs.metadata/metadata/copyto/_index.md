@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /net/groupdocs.metadata/metadata/copyto/
 ---
-## Metadata.CopyTo method
+## CopyTo(MetadataPackage) {#copyto_1}
 
 Copy known metadata properties from source package to destination package. The operation is recursive so it affects all nested packages as well. If an existing property its value is updated. If there is a known property missing in a destination package it is added to the package. If there is a known property missing in a source package it is not remove from destination package. If that need, use Sanitize method before.
 
@@ -24,7 +24,7 @@ If the package types do not match, an error will be returned.
 
 **Learn more**
 
-* [CopyTo metadata properties](https://docs.groupdocs.com/display/metadatanet/Copy+To)
+* [CopyTo metadata properties](https://docs.groupdocs.com/display/metadatanet/CopyTo)
 
 ### Examples
 
@@ -43,6 +43,57 @@ using (Metadata destination_metadata = new Metadata(Constants.DestinationPdf))
 ### See Also
 
 * class [MetadataPackage](../../../groupdocs.metadata.common/metadatapackage)
+* class [Metadata](../../metadata)
+* namespace [GroupDocs.Metadata](../../../groupdocs.metadata)
+* assembly [GroupDocs.Metadata](../../../)
+
+---
+
+## CopyTo(MetadataPackage, List&lt;PropertyTag&gt;) {#copyto}
+
+Copy known metadata properties from source package to destination package. The operation is recursive so it affects all nested packages as well. If an existing property its value is updated. If there is a known property missing in a destination package it is added to the package. If there is a known property missing in a source package it is not remove from destination package. If that need, use Sanitize method before.
+
+```csharp
+public int CopyTo(MetadataPackage metadata, List<PropertyTag> tags)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| metadata | MetadataPackage | A destination metadata package. |
+| tags | List`1 | A list of the tags. |
+
+### Return Value
+
+The number of affected properties.
+
+### Remarks
+
+If the package types do not match, an error will be returned.
+
+**Learn more**
+
+* [CopyTo metadata properties](https://docs.groupdocs.com/display/metadatanet/CopyTo)
+
+### Examples
+
+This example demonstrates how to copy metadata properties from source package to destination package.
+
+```csharp
+using (Metadata source_metadata = new Metadata(Constants.InputPdf))
+using (Metadata destination_metadata = new Metadata(Constants.DestinationPdf))
+{
+    var tags = new List<PropertyTag>();
+    tags.Add(Tags.Content.Album);
+    source_metadata.CopyTo(destination_metadata, tags);
+
+    source_metadata.Save();
+}
+```
+
+### See Also
+
+* class [MetadataPackage](../../../groupdocs.metadata.common/metadatapackage)
+* class [PropertyTag](../../../groupdocs.metadata.tagging/propertytag)
 * class [Metadata](../../metadata)
 * namespace [GroupDocs.Metadata](../../../groupdocs.metadata)
 * assembly [GroupDocs.Metadata](../../../)
