@@ -12,7 +12,7 @@ url: /net/groupdocs.metadata.import/
 
 | Class | Description |
 | --- | --- |
-| [ImportManager](./importmanager) | Provides a row of methods allowing the user to export metadata properties to various formats. |
+| [ImportManager](./importmanager) | Provides a row of methods allowing the user to import metadata properties to various formats. |
 | [ImportOptions](./importoptions) | Abstract class import options. |
 | [JsonImportOptions](./jsonimportoptions) | Creates an import options from json file. |
 ## Enumeration

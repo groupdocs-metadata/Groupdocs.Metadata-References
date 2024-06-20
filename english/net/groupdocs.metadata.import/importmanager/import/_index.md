@@ -1,14 +1,14 @@
 ---
 title: Import
 second_title: GroupDocs.Metadata for .NET API Reference
-description: Exports the metadata properties to a file.
+description: Imports the metadata properties to a file.
 type: docs
 weight: 20
 url: /net/groupdocs.metadata.import/importmanager/import/
 ---
 ## Import(string, ImportFormat, ImportOptions) {#import_1}
 
-Exports the metadata properties to a file.
+Imports the metadata properties to a file.
 
 ```csharp
 public void Import(string filePath, ImportFormat format, ImportOptions importOptions)
@@ -19,10 +19,6 @@ public void Import(string filePath, ImportFormat format, ImportOptions importOpt
 | filePath | String | The full name of the input file. |
 | format | ImportFormat | The format of the input file. |
 | importOptions | ImportOptions | Additional options to use when importing. |
-
-### Return Value
-
-A updated collection of metadata properties
 
 ### See Also
 
@@ -36,7 +32,7 @@ A updated collection of metadata properties
 
 ## Import(Stream, ImportFormat, ImportOptions) {#import}
 
-Exports the metadata properties to a file.
+Imports the metadata properties to a file.
 
 ```csharp
 public void Import(Stream stream, ImportFormat format, ImportOptions importOptions)
@@ -47,10 +43,6 @@ public void Import(Stream stream, ImportFormat format, ImportOptions importOptio
 | stream | Stream | The filestream of the input file. |
 | format | ImportFormat | The format of the input file. |
 | importOptions | ImportOptions | Additional options to use when importing. |
-
-### Return Value
-
-A updated collection of metadata properties
 
 ### See Also
 
