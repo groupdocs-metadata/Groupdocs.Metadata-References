@@ -3,7 +3,7 @@ title: Revision
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Get the tag labeling a property containing information about a document revision tracked change.
 type: docs
-weight: 60
+weight: 70
 url: /net/groupdocs.metadata.tagging/documenttagcategory/revision/
 ---
 ## DocumentTagCategory.Revision property

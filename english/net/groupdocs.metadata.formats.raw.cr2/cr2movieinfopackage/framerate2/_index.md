@@ -1,14 +1,14 @@
 ---
 title: FrameRate2
 second_title: GroupDocs.Metadata for .NET API Reference
-description: Gets the FrameRate.
+description: Gets the FrameRate2.
 type: docs
 weight: 90
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2movieinfopackage/framerate2/
 ---
 ## Cr2MovieInfoPackage.FrameRate2 property
 
-Gets the FrameRate.
+Gets the FrameRate2.
 
 ```csharp
 public float FrameRate2 { get; }
@@ -16,7 +16,7 @@ public float FrameRate2 { get; }
 
 ### Property Value
 
-The FrameRate.
+The FrameRate2.
 
 ### See Also
 

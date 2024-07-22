@@ -3,7 +3,7 @@ title: ToolTagCategory
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Provides tags intended to mark metadata properties related to the tools software and hardware that were used to create a file.
 type: docs
-weight: 5040
+weight: 5080
 url: /net/groupdocs.metadata.tagging/tooltagcategory/
 ---
 ## ToolTagCategory class

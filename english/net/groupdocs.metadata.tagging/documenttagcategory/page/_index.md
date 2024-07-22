@@ -3,7 +3,7 @@ title: Page
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that denotes a property holding information about a document page.
 type: docs
-weight: 40
+weight: 50
 url: /net/groupdocs.metadata.tagging/documenttagcategory/page/
 ---
 ## DocumentTagCategory.Page property

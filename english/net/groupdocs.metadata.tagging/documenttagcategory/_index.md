@@ -3,7 +3,7 @@ title: DocumentTagCategory
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Provides tags that are applied to documentspecific properties only. The tags can be useful to determine from which part of an office document a property was extracted.
 type: docs
-weight: 4950
+weight: 4990
 url: /net/groupdocs.metadata.tagging/documenttagcategory/
 ---
 ## DocumentTagCategory class
@@ -21,6 +21,7 @@ public class DocumentTagCategory : TagCategory
 | [BuiltIn](../../groupdocs.metadata.tagging/documenttagcategory/builtin) { get; } | Gets the tag that indicates that the property it labels is built-in. |
 | [Field](../../groupdocs.metadata.tagging/documenttagcategory/field) { get; } | Gets the tag that denotes a property holding information about a form field or calculated field extracted from a document. |
 | [HiddenData](../../groupdocs.metadata.tagging/documenttagcategory/hiddendata) { get; } | Gets the tag indicating a document part that is not visible for regular users. |
+| [OnlyUpdate](../../groupdocs.metadata.tagging/documenttagcategory/onlyupdate) { get; } | Gets the tag that indicates that the property it not full removal from document. |
 | [Page](../../groupdocs.metadata.tagging/documenttagcategory/page) { get; } | Gets the tag that denotes a property holding information about a document page. |
 | [ReadOnly](../../groupdocs.metadata.tagging/documenttagcategory/readonly) { get; } | Gets the tag that indicates that the property it labels is read-only and cannot be changed by GroupDocs.Metadata. |
 | [Revision](../../groupdocs.metadata.tagging/documenttagcategory/revision) { get; } | Get the tag labeling a property containing information about a document revision (tracked change). |
