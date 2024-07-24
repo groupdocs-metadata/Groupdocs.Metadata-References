@@ -32,7 +32,7 @@ public sealed class Cr2MakerNotePackage : RawMakerNotePackage
 | [ColorData1](../../groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/colordata1) { get; set; } | Gets the ColorData1. |
 | [ColorSpace](../../groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/colorspace) { get; set; } | Gets the ColorSpace. |
 | [ColorTemperature](../../groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/colortemperature) { get; set; } | Gets the ColorTemperature. |
-| [ContrastInfo](../../groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/contrastinfo) { get; set; } | Gets the Categories. |
+| [ContrastInfo](../../groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/contrastinfo) { get; set; } | Gets the ContrastInfo. |
 | [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | Gets the number of metadata properties. |
 | [Cr2AFConfig](../../groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2afconfig) { get; set; } | Gets the CanonCameraSettings Offset. |
 | [Cr2AFConfigPackage](../../groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr2afconfigpackage) { get; set; } | Gets the AFConfig. |

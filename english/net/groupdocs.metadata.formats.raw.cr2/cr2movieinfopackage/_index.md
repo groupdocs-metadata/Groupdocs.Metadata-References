@@ -32,7 +32,7 @@ public sealed class Cr2MovieInfoPackage : RawDictionaryBasePackage
 | [FrameCount](../../groupdocs.metadata.formats.raw.cr2/cr2movieinfopackage/framecount) { get; } | Gets the FrameCount. |
 | [FrameCount2](../../groupdocs.metadata.formats.raw.cr2/cr2movieinfopackage/framecount2) { get; } | Gets the FrameCount2. |
 | [FrameRate](../../groupdocs.metadata.formats.raw.cr2/cr2movieinfopackage/framerate) { get; } | Gets the FrameRate. |
-| [FrameRate2](../../groupdocs.metadata.formats.raw.cr2/cr2movieinfopackage/framerate2) { get; } | Gets the FrameRate. |
+| [FrameRate2](../../groupdocs.metadata.formats.raw.cr2/cr2movieinfopackage/framerate2) { get; } | Gets the FrameRate2. |
 | [Item](../../groupdocs.metadata.formats.raw/rawdictionarybasepackage/item) { get; } | Gets the Raw tag with the specified id. (2 indexers) |
 | [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | Gets a collection of the metadata property names. |
 | [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | Gets the metadata type. |

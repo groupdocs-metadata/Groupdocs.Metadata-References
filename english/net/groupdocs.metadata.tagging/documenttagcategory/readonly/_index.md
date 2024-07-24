@@ -3,7 +3,7 @@ title: ReadOnly
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that indicates that the property it labels is readonly and cannot be changed by GroupDocs.Metadata.
 type: docs
-weight: 50
+weight: 60
 url: /net/groupdocs.metadata.tagging/documenttagcategory/readonly/
 ---
 ## DocumentTagCategory.ReadOnly property

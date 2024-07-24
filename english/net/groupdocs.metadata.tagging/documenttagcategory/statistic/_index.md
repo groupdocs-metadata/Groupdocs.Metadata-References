@@ -3,7 +3,7 @@ title: Statistic
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag indicating a property containing document statistics word count character count etc.
 type: docs
-weight: 70
+weight: 80
 url: /net/groupdocs.metadata.tagging/documenttagcategory/statistic/
 ---
 ## DocumentTagCategory.Statistic property

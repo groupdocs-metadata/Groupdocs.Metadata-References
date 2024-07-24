@@ -1,14 +1,14 @@
 ---
 title: ContrastInfo
 second_title: GroupDocs.Metadata for .NET API Reference
-description: Gets the Categories.
+description: Gets the ContrastInfo.
 type: docs
 weight: 100
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/contrastinfo/
 ---
 ## Cr2MakerNotePackage.ContrastInfo property
 
-Gets the Categories.
+Gets the ContrastInfo.
 
 ```csharp
 public ushort[] ContrastInfo { get; set; }
@@ -16,7 +16,7 @@ public ushort[] ContrastInfo { get; set; }
 
 ### Property Value
 
-The Categories.
+The ContrastInfo.
 
 ### See Also
 

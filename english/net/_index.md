@@ -39,6 +39,7 @@ version:
 | [GroupDocs.Metadata.Formats.ThreeD.ThreeDS](./groupdocs.metadata.formats.threed.threeds) |  |
 | [GroupDocs.Metadata.Formats.Video](./groupdocs.metadata.formats.video) | The namespace contains classes for working with the most popular video formats. |
 | [GroupDocs.Metadata.Import](./groupdocs.metadata.import) |  |
+| [GroupDocs.Metadata.Logging](./groupdocs.metadata.logging) |  |
 | [GroupDocs.Metadata.Options](./groupdocs.metadata.options) | The namespace contains all classes representing settings that allow users to control file and metadata processing. |
 | [GroupDocs.Metadata.Standards.DublinCore](./groupdocs.metadata.standards.dublincore) | The namespace contains functionality intended to read DublinCore metadata from files of different formats. |
 | [GroupDocs.Metadata.Standards.Exif](./groupdocs.metadata.standards.exif) | The namespace contains functionality intended to read and write EXIF (exchangeable image file format) metadata. |

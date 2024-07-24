@@ -3,7 +3,7 @@ title: UserComment
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that labels user comments shown in the document content.
 type: docs
-weight: 80
+weight: 90
 url: /net/groupdocs.metadata.tagging/documenttagcategory/usercomment/
 ---
 ## DocumentTagCategory.UserComment property
