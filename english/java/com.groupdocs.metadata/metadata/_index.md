@@ -42,6 +42,7 @@ Provides the main class to access metadata in all supported formats.
 | [save(String filePath)](#save-java.lang.String-) | Saves the document content to the specified file. |
 | [generatePreview(PreviewOptions previewOptions)](#generatePreview-com.groupdocs.metadata.options.PreviewOptions-) | Creates preview images for specified pages. |
 | [getDocumentInfo()](#getDocumentInfo--) | Gets common information about the loaded document. |
+| [copyTo(MetadataPackage metadataPackage, List<PropertyTag> tags)](#copyTo-com.groupdocs.metadata.core.MetadataPackage-java.util.List-com.groupdocs.metadata.tagging.PropertyTag--) | Copy known metadata properties from source package to destination package. |
 | [close()](#close--) | Closes the loaded document and releases any system resources associated with it. |
 ### Metadata(String filePath) {#Metadata-java.lang.String-}
 ```
@@ -753,6 +754,47 @@ Gets common information about the loaded document.
 
 
 [Get document info]: https://docs.groupdocs.com/display/metadatajava/Get+document+info
+### copyTo(MetadataPackage metadataPackage, List<PropertyTag> tags) {#copyTo-com.groupdocs.metadata.core.MetadataPackage-java.util.List-com.groupdocs.metadata.tagging.PropertyTag--}
+```
+public int copyTo(MetadataPackage metadataPackage, List<PropertyTag> tags)
+```
+
+
+Copy known metadata properties from source package to destination package. The operation is recursive so it affects all nested packages as well. If an existing property its value is updated. If there is a known property missing in a destination package it is added to the package. If there is a known property missing in a source package it is not remove from destination package. If that need, use Sanitize method before.
+
+--------------------
+
+> ```
+> This example demonstrates how to copy metadata properties from source package to destination package.
+>  
+>  using (Metadata source_metadata = new Metadata(Constants.InputPdf))
+>  using (Metadata destination_metadata = new Metadata(Constants.DestinationPdf))
+>  {
+>      var tags = new List<PropertyTag>();
+>      tags.Add(Tags.Content.Album);
+>      source_metadata.CopyTo(destination_metadata, tags);
+>      source_metadata.Save();
+>  }
+> ```
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| metadataPackage | [MetadataPackage](../../com.groupdocs.metadata.core/metadatapackage) | A destination metadata package. |
+| tags | java.util.List<com.groupdocs.metadata.tagging.PropertyTag> | A list of the tags.
+
+--------------------
+
+If the package types do not match, an error will be returned. 
+
+**Learn more**
+
+ *  
+
+ |
+
+**Returns:**
+int - The number of affected properties.
 ### close() {#close--}
 ```
 public void close()

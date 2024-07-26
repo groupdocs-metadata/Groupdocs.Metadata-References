@@ -20,6 +20,7 @@ Represents an entry point to all metadata packages presented in a particular fil
 | [getFileType()](#getFileType--) | Gets the file type metadata package. |
 | [isLicensed()](#isLicensed--) |  |
 | [sanitize()](#sanitize--) | Removes writable metadata properties from the package. |
+| [copyTo(MetadataPackage metadataPackage)](#copyTo-com.groupdocs.metadata.core.MetadataPackage-) |  |
 ### getFileType() {#getFileType--}
 ```
 public final FileTypePackage getFileType()
@@ -57,3 +58,16 @@ int - The number of affected properties.
 
 
 [Clean metadata]: https://docs.groupdocs.com/display/metadatajava/Clean+metadata
+### copyTo(MetadataPackage metadataPackage) {#copyTo-com.groupdocs.metadata.core.MetadataPackage-}
+```
+public void copyTo(MetadataPackage metadataPackage)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| metadataPackage | [MetadataPackage](../../com.groupdocs.metadata.core/metadatapackage) |  |
+

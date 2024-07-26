@@ -67,6 +67,7 @@ This code sample demonstrates how to read the header of a PSD file and extract s
 | [setIptcPackage(IptcRecordSet value)](#setIptcPackage-com.groupdocs.metadata.core.IptcRecordSet-) | Sets the IPTC metadata package. |
 | [getImageResourcePackage()](#getImageResourcePackage--) | Gets the Photoshop Image Resource metadata package. |
 | [getPsdPackage()](#getPsdPackage--) | Gets the metadata package containing information about the PSD file. |
+| [copyTo(MetadataPackage metadata)](#copyTo-com.groupdocs.metadata.core.MetadataPackage-) |  |
 ### getXmpPackage() {#getXmpPackage--}
 ```
 public final XmpPacketWrapper getXmpPackage()
@@ -198,3 +199,16 @@ Gets the metadata package containing information about the PSD file.
 
 **Returns:**
 [PsdPackage](../../com.groupdocs.metadata.core/psdpackage) - The metadata package containing information about the PSD file.
+### copyTo(MetadataPackage metadata) {#copyTo-com.groupdocs.metadata.core.MetadataPackage-}
+```
+public void copyTo(MetadataPackage metadata)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| metadata | [MetadataPackage](../../com.groupdocs.metadata.core/metadatapackage) |  |
+
