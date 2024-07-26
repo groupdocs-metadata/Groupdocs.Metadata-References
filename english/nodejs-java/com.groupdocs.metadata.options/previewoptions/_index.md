@@ -41,6 +41,8 @@ Provides options to sets requirements and stream delegates for preview generatio
 | [setCreatePageStream(ICreatePageStream value)](#setCreatePageStream-com.groupdocs.metadata.options.ICreatePageStream-) | Sets an instance of the page stream creation delegate. |
 | [getReleasePageStream()](#getReleasePageStream--) | Gets an instance of the page preview completion delegate. |
 | [setReleasePageStream(IReleasePageStream value)](#setReleasePageStream-com.groupdocs.metadata.options.IReleasePageStream-) | Sets an instance of the page preview completion delegate. |
+| [getResolution()](#getResolution--) | Gets or sets the page preview resolution. |
+| [setResolution(int value)](#setResolution-int-) | Gets or sets the page preview resolution. |
 ### PreviewOptions(ICreatePageStream createPageStream) {#PreviewOptions-com.groupdocs.metadata.options.ICreatePageStream-}
 ```
 public PreviewOptions(ICreatePageStream createPageStream)
@@ -274,4 +276,27 @@ Sets an instance of the page preview completion delegate.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | [IReleasePageStream](../../com.groupdocs.metadata.options/ireleasepagestream) | An instance of the page preview completion delegate. |
+
+### getResolution() {#getResolution--}
+```
+public final int getResolution()
+```
+
+
+Gets or sets the page preview resolution.
+
+**Returns:**
+int
+### setResolution(int value) {#setResolution-int-}
+```
+public final void setResolution(int value)
+```
+
+
+Gets or sets the page preview resolution.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | int |  |
 
