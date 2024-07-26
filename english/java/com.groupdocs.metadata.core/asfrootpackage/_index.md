@@ -97,6 +97,7 @@ This code sample demonstrates how to read native ASF metadata.
 | [getAsfPackage()](#getAsfPackage--) | Gets the ASF metadata package. |
 | [getXmpPackage()](#getXmpPackage--) | Gets the XMP metadata package. |
 | [setXmpPackage(XmpPacketWrapper value)](#setXmpPackage-com.groupdocs.metadata.core.XmpPacketWrapper-) | Sets the XMP metadata package. |
+| [copyTo(MetadataPackage metadata)](#copyTo-com.groupdocs.metadata.core.MetadataPackage-) |  |
 ### getAsfPackage() {#getAsfPackage--}
 ```
 public final AsfPackage getAsfPackage()
@@ -143,4 +144,17 @@ Sets the XMP metadata package.
 
 
 [Working with XMP metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+XMP+metadata |
+
+### copyTo(MetadataPackage metadata) {#copyTo-com.groupdocs.metadata.core.MetadataPackage-}
+```
+public void copyTo(MetadataPackage metadata)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| metadata | [MetadataPackage](../../com.groupdocs.metadata.core/metadatapackage) |  |
 

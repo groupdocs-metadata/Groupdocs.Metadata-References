@@ -124,6 +124,7 @@ Represents the file type.
 | [getFileFormat()](#getFileFormat--) | Gets the file format. |
 | [toString()](#toString--) | Returns a String that represents the current  FileType . |
 | [getSupportedFileTypes()](#getSupportedFileTypes--) | Retrieves supported file types. |
+| [fromExtension(String fileExtension)](#fromExtension-java.lang.String-) | Gets FileType for provided fileExtension |
 ### Unknown {#Unknown}
 ```
 public static final FileType Unknown
@@ -1135,3 +1136,18 @@ Retrieves supported file types.
 
 **Returns:**
 java.lang.Iterable<com.groupdocs.metadata.core.FileType> - A collection of supported file types.
+### fromExtension(String fileExtension) {#fromExtension-java.lang.String-}
+```
+public static FileType fromExtension(String fileExtension)
+```
+
+
+Gets FileType for provided fileExtension
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fileExtension | java.lang.String | File extension |
+
+**Returns:**
+[FileType](../../com.groupdocs.metadata.core/filetype) - File type

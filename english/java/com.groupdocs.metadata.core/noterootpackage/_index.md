@@ -46,6 +46,7 @@ This code sample demonstrates how to inspect a note document.
 | --- | --- |
 | [getInspectionPackage()](#getInspectionPackage--) | Gets a metadata package containing inspection results for the document. |
 | [getDocumentStatistics()](#getDocumentStatistics--) | Gets the document statistics package. |
+| [copyTo(MetadataPackage metadataPackage)](#copyTo-com.groupdocs.metadata.core.MetadataPackage-) |  |
 ### getInspectionPackage() {#getInspectionPackage--}
 ```
 public final NoteInspectionPackage getInspectionPackage()
@@ -66,3 +67,16 @@ Gets the document statistics package.
 
 **Returns:**
 [DocumentStatistics](../../com.groupdocs.metadata.core/documentstatistics) - The document statistics package.
+### copyTo(MetadataPackage metadataPackage) {#copyTo-com.groupdocs.metadata.core.MetadataPackage-}
+```
+public void copyTo(MetadataPackage metadataPackage)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| metadataPackage | [MetadataPackage](../../com.groupdocs.metadata.core/metadatapackage) |  |
+
