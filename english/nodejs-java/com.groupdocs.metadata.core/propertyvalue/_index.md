@@ -29,6 +29,7 @@ Represents a property value.
 | [PropertyValue(int[] values)](#PropertyValue-int---) | Initializes a new instance of the  PropertyValue  class with an array of integer values. |
 | [PropertyValue(long[] values)](#PropertyValue-long---) | Initializes a new instance of the  PropertyValue  class with an array of long values. |
 | [PropertyValue(PropertyValue[] values)](#PropertyValue-com.groupdocs.metadata.core.PropertyValue---) | Initializes a new instance of the  PropertyValue  class with an array of metadata property values. |
+| [PropertyValue(PropertyValue value)](#PropertyValue-com.groupdocs.metadata.core.PropertyValue-) |  |
 | [PropertyValue(UUID value)](#PropertyValue-java.util.UUID-) |  |
 ## Methods
 
@@ -196,6 +197,17 @@ Initializes a new instance of the  PropertyValue  class with an array of metadat
 | Parameter | Type | Description |
 | --- | --- | --- |
 | values | [PropertyValue\[\]](../../com.groupdocs.metadata.core/propertyvalue) | An array of metadata property values. |
+
+### PropertyValue(PropertyValue value) {#PropertyValue-com.groupdocs.metadata.core.PropertyValue-}
+```
+public PropertyValue(PropertyValue value)
+```
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [PropertyValue](../../com.groupdocs.metadata.core/propertyvalue) |  |
 
 ### PropertyValue(UUID value) {#PropertyValue-java.util.UUID-}
 ```

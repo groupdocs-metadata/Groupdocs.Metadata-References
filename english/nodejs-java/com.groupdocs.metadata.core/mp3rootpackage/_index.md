@@ -41,6 +41,7 @@ Represents the root package allowing working with metadata in an MP3 audio.
 | [setXmpPackage(XmpPacketWrapper value)](#setXmpPackage-com.groupdocs.metadata.core.XmpPacketWrapper-) | Sets the XMP metadata package. |
 | [removeApeV2()](#removeApeV2--) | Removes the APEv2 audio tag. |
 | [sanitize()](#sanitize--) | Removes writable metadata properties from the package. |
+| [copyTo(MetadataPackage metadata)](#copyTo-com.groupdocs.metadata.core.MetadataPackage-) |  |
 ### getMpegAudioPackage() {#getMpegAudioPackage--}
 ```
 public final MpegAudioPackage getMpegAudioPackage()
@@ -197,3 +198,16 @@ Removes writable metadata properties from the package. The operation is recursiv
 
 **Returns:**
 int - The number of affected properties.
+### copyTo(MetadataPackage metadata) {#copyTo-com.groupdocs.metadata.core.MetadataPackage-}
+```
+public void copyTo(MetadataPackage metadata)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| metadata | [MetadataPackage](../../com.groupdocs.metadata.core/metadatapackage) |  |
+
