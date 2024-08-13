@@ -3,7 +3,7 @@ title: TOPOJSON
 second_title: GroupDocs.Metadata for .NET API Reference
 description: TopoJSON is an extension of GeoJSON that encodes topology. herehttps//docs.fileformat.com/gis/geojson/.
 type: docs
-weight: 760
+weight: 800
 url: /net/groupdocs.metadata.common/filetype/topojson/
 ---
 ## FileType.TOPOJSON field

@@ -3,7 +3,7 @@ title: EMF
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Enhanced metafile format EMF stores graphical images deviceindependently. Learn more about this file format herehttps//wiki.fileformat.com/image/emf/.
 type: docs
-weight: 190
+weight: 230
 url: /net/groupdocs.metadata.common/filetype/emf/
 ---
 ## FileType.EMF field

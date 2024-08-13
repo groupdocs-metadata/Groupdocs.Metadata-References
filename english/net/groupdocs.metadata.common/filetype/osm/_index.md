@@ -3,7 +3,7 @@ title: OSM
 second_title: GroupDocs.Metadata for .NET API Reference
 description: OpenStreetMap OSM is a huge collection of volunteered geographic information stores in different types of files using different encoding schemes to convert this data into bits and bytes. herehttps//docs.fileformat.com/gis/osm/.
 type: docs
-weight: 520
+weight: 560
 url: /net/groupdocs.metadata.common/filetype/osm/
 ---
 ## FileType.OSM field

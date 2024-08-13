@@ -3,7 +3,7 @@ title: DOTM
 second_title: GroupDocs.Metadata for .NET API Reference
 description: A file with DOTM extension represents template file created with Microsoft Word 2007 or higher. Learn more about this file format herehttps//wiki.fileformat.com/wordprocessing/dotm/.
 type: docs
-weight: 150
+weight: 190
 url: /net/groupdocs.metadata.common/filetype/dotm/
 ---
 ## FileType.DOTM field

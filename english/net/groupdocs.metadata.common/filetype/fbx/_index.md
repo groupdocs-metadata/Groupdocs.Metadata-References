@@ -3,7 +3,7 @@ title: FBX
 second_title: GroupDocs.Metadata for .NET API Reference
 description: FBX Filmbox is a proprietary file format .fbx developed by Kaydara and owned by Autodesk since 2006. It is used to provide interoperability between digital content creation applications. FBX is also part of Autodesk Gameware a series of video game middleware. herehttps//wiki.fileformat.com/3d/fbx/.
 type: docs
-weight: 220
+weight: 260
 url: /net/groupdocs.metadata.common/filetype/fbx/
 ---
 ## FileType.FBX field

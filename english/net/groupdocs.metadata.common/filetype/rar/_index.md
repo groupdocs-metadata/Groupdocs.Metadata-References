@@ -3,7 +3,7 @@ title: RAR
 second_title: GroupDocs.Metadata for .NET API Reference
 description: RAR is a proprietary archive file format that supports data compression error correction and file spanning. herehttps//wiki.fileformat.com/compression/rar/.
 type: docs
-weight: 680
+weight: 720
 url: /net/groupdocs.metadata.common/filetype/rar/
 ---
 ## FileType.RAR field

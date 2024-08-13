@@ -3,7 +3,7 @@ title: DJV
 second_title: GroupDocs.Metadata for .NET API Reference
 description: DjVu is a graphics file format intended for scanned documents and books especially those which contain the combination of text drawings images and photographs. Learn more about this file format herehttps//wiki.fileformat.com/image/djvu/.
 type: docs
-weight: 80
+weight: 120
 url: /net/groupdocs.metadata.common/filetype/djv/
 ---
 ## FileType.DJV field

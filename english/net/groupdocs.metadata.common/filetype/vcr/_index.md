@@ -3,7 +3,7 @@ title: VCR
 second_title: GroupDocs.Metadata for .NET API Reference
 description: VCR Virtual Card Format or vCard is a digital file format for storing contact information. The format is widely used for data interchange among popular information exchange applications.
 type: docs
-weight: 820
+weight: 860
 url: /net/groupdocs.metadata.common/filetype/vcr/
 ---
 ## FileType.VCR field

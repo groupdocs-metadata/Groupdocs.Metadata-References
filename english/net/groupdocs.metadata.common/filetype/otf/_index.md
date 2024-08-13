@@ -3,7 +3,7 @@ title: OTF
 second_title: GroupDocs.Metadata for .NET API Reference
 description: A file with .otf extension refers to OpenType font format. OTF font format is more scalable and extends the existing features of TTF formats for digital typography. Learn more about this file format herehttps//docs.fileformat.com/font/otf/.
 type: docs
-weight: 540
+weight: 580
 url: /net/groupdocs.metadata.common/filetype/otf/
 ---
 ## FileType.OTF field
