@@ -3,7 +3,7 @@ title: CR2
 second_title: GroupDocs.Metadata for .NET API Reference
 description: The .CR2 file format Canon RAW version 2 is a digital photography RAW format created by Canon. herehttps//wiki.fileformat.com/image/cr2/.
 type: docs
-weight: 40
+weight: 80
 url: /net/groupdocs.metadata.common/filetype/cr2/
 ---
 ## FileType.CR2 field

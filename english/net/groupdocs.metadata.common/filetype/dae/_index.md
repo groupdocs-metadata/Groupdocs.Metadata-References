@@ -3,7 +3,7 @@ title: DAE
 second_title: GroupDocs.Metadata for .NET API Reference
 description: A DAE file is a Digital Asset Exchange file format that is used for exchanging data between interactive 3D applications. herehttps//wiki.fileformat.com/3d/dae/.
 type: docs
-weight: 60
+weight: 100
 url: /net/groupdocs.metadata.common/filetype/dae/
 ---
 ## FileType.DAE field

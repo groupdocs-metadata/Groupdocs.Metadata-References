@@ -3,7 +3,7 @@ title: DICOM
 second_title: GroupDocs.Metadata for .NET API Reference
 description: DICOM is the acronym for Digital Imaging and Communications in Medicine and pertains to the field of Medical Informatics. DICOM is used for the integration of medical imaging devices like printers servers scanners etc from various vendors and also contains identification data of each patient for uniqueness. Learn more about this file format herehttps//docs.fileformat.com/image/dicom/.
 type: docs
-weight: 70
+weight: 110
 url: /net/groupdocs.metadata.common/filetype/dicom/
 ---
 ## FileType.DICOM field

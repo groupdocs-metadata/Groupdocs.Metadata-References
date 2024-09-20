@@ -3,7 +3,7 @@ title: TTF
 second_title: GroupDocs.Metadata for .NET API Reference
 description: TTF represents font files based on the TrueType specifications font technology. TrueType fonts provide highest quality display on computer screens and printers without any dependency on resolution. Learn more about this file format herehttps//docs.fileformat.com/font/ttf/.
 type: docs
-weight: 790
+weight: 830
 url: /net/groupdocs.metadata.common/filetype/ttf/
 ---
 ## FileType.TTF field

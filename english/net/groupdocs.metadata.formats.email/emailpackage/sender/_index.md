@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.email/emailpackage/sender/
 Gets the email address of the sender.
 
 ```csharp
-public string Sender { get; }
+public string Sender { get; set; }
 ```
 
 ### Property Value

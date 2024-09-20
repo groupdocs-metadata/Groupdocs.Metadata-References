@@ -3,7 +3,7 @@ title: JAR
 second_title: GroupDocs.Metadata for .NET API Reference
 description: JAR is a Java Archive file that contains many different application related files as a single file. This file format was created to reduce the speed of loading a downloaded Java Applet in browser via HTTP transaction Learn more about this file format herehttps//docs.fileformat.com/programming/jar/.
 type: docs
-weight: 310
+weight: 350
 url: /net/groupdocs.metadata.common/filetype/jar/
 ---
 ## FileType.JAR field

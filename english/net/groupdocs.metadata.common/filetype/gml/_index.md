@@ -3,7 +3,7 @@ title: GML
 second_title: GroupDocs.Metadata for .NET API Reference
 description: GML stands for Geography Markup Language that is based on XML specifications developed by the Open Geospatial Consortium OGC. herehttps//docs.fileformat.com/gis/gml/.
 type: docs
-weight: 260
+weight: 300
 url: /net/groupdocs.metadata.common/filetype/gml/
 ---
 ## FileType.GML field

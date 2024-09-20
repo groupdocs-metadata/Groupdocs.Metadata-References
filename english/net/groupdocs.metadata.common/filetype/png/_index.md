@@ -3,7 +3,7 @@ title: PNG
 second_title: GroupDocs.Metadata for .NET API Reference
 description: PNG Portable Network Graphics refers to a type of raster image file format that use loseless compression. Learn more about this file format herehttps//wiki.fileformat.com/image/png/.
 type: docs
-weight: 560
+weight: 600
 url: /net/groupdocs.metadata.common/filetype/png/
 ---
 ## FileType.PNG field

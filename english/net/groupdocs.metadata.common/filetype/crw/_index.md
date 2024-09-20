@@ -3,7 +3,7 @@ title: CRW
 second_title: GroupDocs.Metadata for .NET API Reference
 description: The .CRW file format is a digital photography RAW format created by Canon. herehttps//wiki.fileformat.com/image/crw/.
 type: docs
-weight: 50
+weight: 90
 url: /net/groupdocs.metadata.common/filetype/crw/
 ---
 ## FileType.CRW field

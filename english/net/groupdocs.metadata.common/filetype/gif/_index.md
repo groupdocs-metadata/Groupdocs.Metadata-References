@@ -3,7 +3,7 @@ title: GIF
 second_title: GroupDocs.Metadata for .NET API Reference
 description: A GIF or Graphical Interchange Format is a type of highly compressed image. Learn more about this file format herehttps//wiki.fileformat.com/image/gif/.
 type: docs
-weight: 250
+weight: 290
 url: /net/groupdocs.metadata.common/filetype/gif/
 ---
 ## FileType.GIF field

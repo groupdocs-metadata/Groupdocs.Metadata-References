@@ -3,7 +3,7 @@ title: EPUB
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Files with .EPUB extension are an ebook file format that provide a standard digital publication format for publishers and consumers. Learn more about this file format herehttps//wiki.fileformat.com/ebook/epub/.
 type: docs
-weight: 210
+weight: 250
 url: /net/groupdocs.metadata.common/filetype/epub/
 ---
 ## FileType.EPUB field
