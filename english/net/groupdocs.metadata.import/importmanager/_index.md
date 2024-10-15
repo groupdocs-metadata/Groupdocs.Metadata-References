@@ -3,7 +3,7 @@ title: ImportManager
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Provides a row of methods allowing the user to import metadata properties to various formats.
 type: docs
-weight: 3900
+weight: 3980
 url: /net/groupdocs.metadata.import/importmanager/
 ---
 ## ImportManager class

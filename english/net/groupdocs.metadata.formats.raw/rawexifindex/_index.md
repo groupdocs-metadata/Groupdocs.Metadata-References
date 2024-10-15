@@ -3,7 +3,7 @@ title: RawExifIndex
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ids of RawExif tags.
 type: docs
-weight: 3190
+weight: 3270
 url: /net/groupdocs.metadata.formats.raw/rawexifindex/
 ---
 ## RawExifIndex enumeration

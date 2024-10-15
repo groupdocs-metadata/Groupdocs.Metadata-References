@@ -3,7 +3,7 @@ title: EmlPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents EML message metadata.
 type: docs
-weight: 1520
+weight: 1590
 url: /net/groupdocs.metadata.formats.email/emlpackage/
 ---
 ## EmlPackage class
@@ -22,7 +22,7 @@ public class EmlPackage : EmailPackage
 | [BlindCarbonCopyRecipients](../../groupdocs.metadata.formats.email/emailpackage/blindcarboncopyrecipients) { get; set; } | Gets or sets the array of BCC (blind carbon copy) recipients of the email message. |
 | [CarbonCopyRecipients](../../groupdocs.metadata.formats.email/emailpackage/carboncopyrecipients) { get; set; } | Gets or sets the array of CC (carbon copy) recipients of the email message. |
 | [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | Gets the number of metadata properties. |
-| [Headers](../../groupdocs.metadata.formats.email/emailpackage/headers) { get; } | Gets a metadata package containing the email headers. |
+| [Headers](../../groupdocs.metadata.formats.email/emailpackage/headers) { get; set; } | Gets a metadata package containing the email headers. |
 | [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | Gets the [`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty) with the specified name. |
 | [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | Gets a collection of the metadata property names. |
 | [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | Gets the metadata type. |

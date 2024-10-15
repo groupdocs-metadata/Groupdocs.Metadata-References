@@ -3,7 +3,7 @@ title: ILogger
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines the methods that are used to perform logging.
 type: docs
-weight: 3960
+weight: 4040
 url: /net/groupdocs.metadata.logging/ilogger/
 ---
 ## ILogger interface

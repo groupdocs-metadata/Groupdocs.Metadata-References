@@ -3,7 +3,7 @@ title: GroupDocs.Metadata.Formats.Gis
 second_title: GroupDocs.Metadata for .NET API Reference
 description: 
 type: docs
-weight: 130
+weight: 150
 url: /net/groupdocs.metadata.formats.gis/
 ---
 

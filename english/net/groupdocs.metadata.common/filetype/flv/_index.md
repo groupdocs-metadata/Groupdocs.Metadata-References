@@ -3,7 +3,7 @@ title: FLV
 second_title: GroupDocs.Metadata for .NET API Reference
 description: FLV Flash Video is a container file format which is used to deliver audio/video content over the internet by using the Adobe Flash Player or Adobe Air. Learn more about this file format herehttps//docs.fileformat.com/video/flv/.
 type: docs
-weight: 270
+weight: 280
 url: /net/groupdocs.metadata.common/filetype/flv/
 ---
 ## FileType.FLV field

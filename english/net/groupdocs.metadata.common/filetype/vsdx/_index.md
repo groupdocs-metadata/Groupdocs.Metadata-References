@@ -3,7 +3,7 @@ title: VSDX
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Files with .VSDX extension represent Microsoft Visio file format introduced from Microsoft Office 2013 onwards. Learn more about this file format herehttps//wiki.fileformat.com/visio/vsdx/.
 type: docs
-weight: 890
+weight: 900
 url: /net/groupdocs.metadata.common/filetype/vsdx/
 ---
 ## FileType.VSDX field

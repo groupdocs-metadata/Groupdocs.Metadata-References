@@ -3,7 +3,7 @@ title: GisPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents gis metadata.
 type: docs
-weight: 1820
+weight: 1900
 url: /net/groupdocs.metadata.formats.gis/gispackage/
 ---
 ## GisPackage class

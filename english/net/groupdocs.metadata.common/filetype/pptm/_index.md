@@ -3,7 +3,7 @@ title: PPTM
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Files with PPTM extension are Macroenabled Presentation files that are created with Microsoft PowerPoint 2007 or higher versions. Learn more about this file format herehttps//wiki.fileformat.com/presentation/pptm/.
 type: docs
-weight: 680
+weight: 690
 url: /net/groupdocs.metadata.common/filetype/pptm/
 ---
 ## FileType.PPTM field

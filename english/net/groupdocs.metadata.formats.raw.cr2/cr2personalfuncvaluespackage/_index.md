@@ -3,7 +3,7 @@ title: Cr2PersonalFuncValuesPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents Canon MakerNotes tags.
 type: docs
-weight: 2960
+weight: 3040
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2personalfuncvaluespackage/
 ---
 ## Cr2PersonalFuncValuesPackage class

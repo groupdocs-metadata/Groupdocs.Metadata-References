@@ -3,7 +3,7 @@ title: OpenTypeName
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines predefined IDs they apply to all platforms unless indicated otherwise.
 type: docs
-weight: 1660
+weight: 1740
 url: /net/groupdocs.metadata.formats.font/opentypename/
 ---
 ## OpenTypeName enumeration

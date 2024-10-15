@@ -69,6 +69,7 @@ public enum MetadataType
 | Fbx | `48` | FBX (Filmbox) is a proprietary file format (.fbx) developed by Kaydara and owned by Autodesk since 2006. It is used to provide interoperability between digital content creation applications. FBX is also part of Autodesk Gameware, a series of video game middleware. |
 | Stl | `49` | STL is a file format native to the stereolithography CAD software created by 3D Systems.[3][4][5] Chuck Hull, the inventor of stereolithography and 3D Systems’ founder, reports that the file extension is an abbreviation for stereolithography. |
 | Gis | `50` | Gis format |
+| Fb2 | `51` | Files with .fb2 extension are FictionBook 2.0 eBook files that contains the structure of the eBook. |
 
 ### See Also
 

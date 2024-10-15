@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.email/emailpackage/headers/
 Gets a metadata package containing the email headers.
 
 ```csharp
-public EmailHeaderPackage Headers { get; }
+public EmailHeaderPackage Headers { get; set; }
 ```
 
 ### Property Value

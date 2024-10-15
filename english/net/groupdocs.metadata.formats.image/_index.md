@@ -3,7 +3,7 @@ title: GroupDocs.Metadata.Formats.Image
 second_title: GroupDocs.Metadata for .NET API Reference
 description: The namespace provides functionality allowing users to read and update metadata stored in different image formats.
 type: docs
-weight: 140
+weight: 160
 url: /net/groupdocs.metadata.formats.image/
 ---
 The namespace provides functionality allowing users to read and update metadata stored in different image formats.

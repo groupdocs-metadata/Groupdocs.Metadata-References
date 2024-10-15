@@ -3,7 +3,7 @@ title: FromExtension
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets FileType for provided fileExtension
 type: docs
-weight: 1060
+weight: 1070
 url: /net/groupdocs.metadata.common/filetype/fromextension/
 ---
 ## FileType.FromExtension method

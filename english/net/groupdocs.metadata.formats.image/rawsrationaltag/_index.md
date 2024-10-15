@@ -3,7 +3,7 @@ title: RawSRationalTag
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a Raw SRational tag.
 type: docs
-weight: 2220
+weight: 2300
 url: /net/groupdocs.metadata.formats.image/rawsrationaltag/
 ---
 ## RawSRationalTag class

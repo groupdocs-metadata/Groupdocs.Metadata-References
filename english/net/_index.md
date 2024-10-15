@@ -22,7 +22,9 @@ version:
 | [GroupDocs.Metadata.Formats.Cad](./groupdocs.metadata.formats.cad) | The namespace contains classes for working with CAD (computer-aided design) formats. |
 | [GroupDocs.Metadata.Formats.Document](./groupdocs.metadata.formats.document) | The namespace provides functionality intended to work with a variety of document formats such as spreadsheets, presentations, text processing formats, etc. |
 | [GroupDocs.Metadata.Formats.Ebook](./groupdocs.metadata.formats.ebook) | The namespace provides functionality for working with electronic book formats. |
+| [GroupDocs.Metadata.Formats.Ebook.Fb2](./groupdocs.metadata.formats.ebook.fb2) |  |
 | [GroupDocs.Metadata.Formats.Email](./groupdocs.metadata.formats.email) | The namespace contains classes representing saved email messages and their parts. |
+| [GroupDocs.Metadata.Formats.Fb2](./groupdocs.metadata.formats.fb2) |  |
 | [GroupDocs.Metadata.Formats.Font](./groupdocs.metadata.formats.font) | The namespace contains classes allowing users to work with formats representing scalable computer fonts. |
 | [GroupDocs.Metadata.Formats.Gis](./groupdocs.metadata.formats.gis) |  |
 | [GroupDocs.Metadata.Formats.Image](./groupdocs.metadata.formats.image) | The namespace provides functionality allowing users to read and update metadata stored in different image formats. |
