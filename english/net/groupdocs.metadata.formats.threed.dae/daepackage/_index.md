@@ -3,7 +3,7 @@ title: DaePackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents .dae file metadata.
 type: docs
-weight: 3360
+weight: 3440
 url: /net/groupdocs.metadata.formats.threed.dae/daepackage/
 ---
 ## DaePackage class

@@ -3,7 +3,7 @@ title: Description
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the file type description.
 type: docs
-weight: 1070
+weight: 1080
 url: /net/groupdocs.metadata.common/filetype/description/
 ---
 ## FileType.Description property

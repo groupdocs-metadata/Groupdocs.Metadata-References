@@ -3,7 +3,7 @@ title: JsonImportOptions
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Creates an import options from json file.
 type: docs
-weight: 3920
+weight: 4000
 url: /net/groupdocs.metadata.import/jsonimportoptions/
 ---
 ## JsonImportOptions class

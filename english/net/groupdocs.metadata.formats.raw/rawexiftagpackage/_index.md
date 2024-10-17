@@ -3,7 +3,7 @@ title: RawExifTagPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents Exif tags.
 type: docs
-weight: 3200
+weight: 3280
 url: /net/groupdocs.metadata.formats.raw/rawexiftagpackage/
 ---
 ## RawExifTagPackage class

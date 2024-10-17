@@ -3,7 +3,7 @@ title: MsgPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents MSG message metadata.
 type: docs
-weight: 1540
+weight: 1610
 url: /net/groupdocs.metadata.formats.email/msgpackage/
 ---
 ## MsgPackage class
@@ -23,9 +23,10 @@ public class MsgPackage : EmailPackage
 | [Body](../../groupdocs.metadata.formats.email/msgpackage/body) { get; } | Gets the email message text. |
 | [CarbonCopyRecipients](../../groupdocs.metadata.formats.email/emailpackage/carboncopyrecipients) { get; set; } | Gets or sets the array of CC (carbon copy) recipients of the email message. |
 | [Categories](../../groupdocs.metadata.formats.email/msgpackage/categories) { get; } | Gets the array of categories or keywords. |
+| [ClientSubmitTime](../../groupdocs.metadata.formats.email/msgpackage/clientsubmittime) { get; set; } | Gets the date and time the message was submit. |
 | [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | Gets the number of metadata properties. |
-| [DeliveryTime](../../groupdocs.metadata.formats.email/msgpackage/deliverytime) { get; } | Gets the date and time the message was delivered. |
-| [Headers](../../groupdocs.metadata.formats.email/emailpackage/headers) { get; } | Gets a metadata package containing the email headers. |
+| [DeliveryTime](../../groupdocs.metadata.formats.email/msgpackage/deliverytime) { get; set; } | Gets the date and time the message was delivered. |
+| [Headers](../../groupdocs.metadata.formats.email/emailpackage/headers) { get; set; } | Gets a metadata package containing the email headers. |
 | [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | Gets the [`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty) with the specified name. |
 | [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | Gets a collection of the metadata property names. |
 | [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | Gets the metadata type. |

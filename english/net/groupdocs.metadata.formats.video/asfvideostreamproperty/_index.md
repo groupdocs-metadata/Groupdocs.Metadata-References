@@ -3,7 +3,7 @@ title: AsfVideoStreamProperty
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents Video stream property metadata in the ASF media container.
 type: docs
-weight: 3610
+weight: 3690
 url: /net/groupdocs.metadata.formats.video/asfvideostreamproperty/
 ---
 ## AsfVideoStreamProperty class

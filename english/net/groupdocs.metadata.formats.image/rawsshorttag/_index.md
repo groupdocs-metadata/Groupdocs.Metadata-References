@@ -3,7 +3,7 @@ title: RawSShortTag
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a Raw SShort tag.
 type: docs
-weight: 2230
+weight: 2310
 url: /net/groupdocs.metadata.formats.image/rawsshorttag/
 ---
 ## RawSShortTag class

@@ -3,7 +3,7 @@ title: POTM
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Files with POTM extension are Microsoft PowerPoint template files with support for Macros. POTM files are created with PowerPoint 2007 or above and contains default settings that can be used to create further presentation files. Learn more about this file format herehttps//wiki.fileformat.com/presentation/potm/.
 type: docs
-weight: 620
+weight: 630
 url: /net/groupdocs.metadata.common/filetype/potm/
 ---
 ## FileType.POTM field

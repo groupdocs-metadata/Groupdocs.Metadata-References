@@ -3,7 +3,7 @@ title: GEOJSON
 second_title: GroupDocs.Metadata for .NET API Reference
 description: GeoJSON is a JSON based format designed to represent the geographical features with their nonspatial attributes. herehttps//docs.fileformat.com/gis/geojson/.
 type: docs
-weight: 280
+weight: 290
 url: /net/groupdocs.metadata.common/filetype/geojson/
 ---
 ## FileType.GEOJSON field

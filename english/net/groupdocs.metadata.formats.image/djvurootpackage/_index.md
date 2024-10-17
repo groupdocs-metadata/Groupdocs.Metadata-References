@@ -3,7 +3,7 @@ title: DjVuRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the root package intended to work with metadata in an DjVu image.
 type: docs
-weight: 1880
+weight: 1960
 url: /net/groupdocs.metadata.formats.image/djvurootpackage/
 ---
 ## DjVuRootPackage class

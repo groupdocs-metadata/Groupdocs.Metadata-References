@@ -3,7 +3,7 @@ title: ThreeDSPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents .3ds file metadata.
 type: docs
-weight: 3450
+weight: 3530
 url: /net/groupdocs.metadata.formats.threed.threeds/threedspackage/
 ---
 ## ThreeDSPackage class

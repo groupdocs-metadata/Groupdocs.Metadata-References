@@ -3,7 +3,7 @@ title: ExifDictionaryBasePackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Provides an abstract base class for EXIF metadata dictionaries.
 type: docs
-weight: 4070
+weight: 4150
 url: /net/groupdocs.metadata.standards.exif/exifdictionarybasepackage/
 ---
 ## ExifDictionaryBasePackage class

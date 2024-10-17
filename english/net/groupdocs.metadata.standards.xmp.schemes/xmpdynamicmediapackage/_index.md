@@ -3,7 +3,7 @@ title: XmpDynamicMediaPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents XMP Dynamic Media namespace.
 type: docs
-weight: 4460
+weight: 4540
 url: /net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/
 ---
 ## XmpDynamicMediaPackage class
