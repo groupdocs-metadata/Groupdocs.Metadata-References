@@ -3,7 +3,7 @@ title: MsgRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the root package allowing working with metadata in an MSG email message.
 type: docs
-weight: 1620
+weight: 1640
 url: /net/groupdocs.metadata.formats.email/msgrootpackage/
 ---
 ## MsgRootPackage class

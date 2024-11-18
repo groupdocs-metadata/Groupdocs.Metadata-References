@@ -3,7 +3,7 @@ title: FileFormat
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the file format.
 type: docs
-weight: 1100
+weight: 1110
 url: /net/groupdocs.metadata.common/filetype/fileformat/
 ---
 ## FileType.FileFormat property

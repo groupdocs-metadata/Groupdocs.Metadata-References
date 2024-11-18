@@ -3,7 +3,7 @@ title: PresentationInspectionPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Contains information about presentation parts that can be considered as metadata in some cases.
 type: docs
-weight: 1220
+weight: 1200
 url: /net/groupdocs.metadata.formats.document/presentationinspectionpackage/
 ---
 ## PresentationInspectionPackage class

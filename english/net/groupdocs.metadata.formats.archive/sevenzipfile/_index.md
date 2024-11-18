@@ -3,7 +3,7 @@ title: SevenZipFile
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents metadata associated with an archived file or directory.
 type: docs
-weight: 420
+weight: 400
 url: /net/groupdocs.metadata.formats.archive/sevenzipfile/
 ---
 ## SevenZipFile class

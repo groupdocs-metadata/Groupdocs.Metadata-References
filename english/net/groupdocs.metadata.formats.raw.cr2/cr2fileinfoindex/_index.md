@@ -3,7 +3,7 @@ title: Cr2FileInfoIndex
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ids of Cr2FileInfo tags.
 type: docs
-weight: 2800
+weight: 2820
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2fileinfoindex/
 ---
 ## Cr2FileInfoIndex enumeration

@@ -3,7 +3,7 @@ title: RarFile
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents metadata associated with an archived file or directory.
 type: docs
-weight: 390
+weight: 370
 url: /net/groupdocs.metadata.formats.archive/rarfile/
 ---
 ## RarFile class

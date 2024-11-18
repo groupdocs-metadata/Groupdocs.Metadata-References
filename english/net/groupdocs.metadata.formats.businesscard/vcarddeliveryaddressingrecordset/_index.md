@@ -3,7 +3,7 @@ title: VCardDeliveryAddressingRecordset
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a set of Delivery Addressing vCard records. These types are concerned with information related to the delivery addressing or label for the vCard object.
 type: docs
-weight: 840
+weight: 820
 url: /net/groupdocs.metadata.formats.businesscard/vcarddeliveryaddressingrecordset/
 ---
 ## VCardDeliveryAddressingRecordset class

@@ -3,7 +3,7 @@ title: TarPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents ZIP archive metadata.
 type: docs
-weight: 460
+weight: 440
 url: /net/groupdocs.metadata.formats.archive/tarpackage/
 ---
 ## TarPackage class

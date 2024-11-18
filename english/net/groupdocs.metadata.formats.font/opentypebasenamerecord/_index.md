@@ -3,7 +3,7 @@ title: OpenTypeBaseNameRecord
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the base OpenType Name table record class.
 type: docs
-weight: 1640
+weight: 1660
 url: /net/groupdocs.metadata.formats.font/opentypebasenamerecord/
 ---
 ## OpenTypeBaseNameRecord class

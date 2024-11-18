@@ -3,7 +3,7 @@ title: ConsoleLogger
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Writes log messages to the console.
 type: docs
-weight: 4020
+weight: 4040
 url: /net/groupdocs.metadata.logging/consolelogger/
 ---
 ## ConsoleLogger class

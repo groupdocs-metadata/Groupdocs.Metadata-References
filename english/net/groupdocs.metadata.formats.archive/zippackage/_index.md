@@ -3,7 +3,7 @@ title: ZipPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents ZIP archive metadata.
 type: docs
-weight: 500
+weight: 480
 url: /net/groupdocs.metadata.formats.archive/zippackage/
 ---
 ## ZipPackage class

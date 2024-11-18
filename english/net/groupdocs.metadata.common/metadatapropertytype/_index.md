@@ -3,7 +3,7 @@ title: MetadataPropertyType
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines metadata property types.
 type: docs
-weight: 150
+weight: 140
 url: /net/groupdocs.metadata.common/metadatapropertytype/
 ---
 ## MetadataPropertyType enumeration

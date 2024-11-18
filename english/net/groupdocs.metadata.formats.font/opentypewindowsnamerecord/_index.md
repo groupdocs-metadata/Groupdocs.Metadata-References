@@ -3,7 +3,7 @@ title: OpenTypeWindowsNameRecord
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the Name record table value for Windows platform.
 type: docs
-weight: 1860
+weight: 1880
 url: /net/groupdocs.metadata.formats.font/opentypewindowsnamerecord/
 ---
 ## OpenTypeWindowsNameRecord class

@@ -66,6 +66,7 @@ public enum FileFormat
 | Stl | `45` | STL is a file format native to the stereolithography CAD software created by 3D Systems.[3][4][5] Chuck Hull, the inventor of stereolithography and 3D Systems’ founder, reports that the file extension is an abbreviation for stereolithography. |
 | Gis | `46` | Gis file. |
 | Fb2 | `47` | Files with .fb2 extension are FictionBook 2.0 eBook files that contains the structure of the eBook. It is based on XML format and contains special tags for describing each element of the book. It was developed primarily for fictional writings and literature, but is not limited to these only. The format accommodates all the metadata as well as content in itself and allows flexibility for a number of operations such as automatic processing, indexing, and conversion to other formats. In short, it focuses on describing the structure of the file instead of specifying its appearance. Several applications as well as APIs are available to convert FB2 to several other formats on Windows, MacOS, and Linux. Learn more about this file format [here](https://docs.fileformat.com/ebook/fb2/). |
+| Mobi | `48` | The MOBI file format is one of the most widely used ebook file formats. The format is an enhancement to the old OEB (Open Ebook Format) format and was used as the proprietary format for Mobipocket Reader. |
 
 ### See Also
 

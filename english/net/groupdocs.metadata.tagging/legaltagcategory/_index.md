@@ -3,7 +3,7 @@ title: LegalTagCategory
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Provides tags that are attached to metadata properties holding information about the owners of the file content and the rules under which the content can be used.
 type: docs
-weight: 5080
+weight: 5100
 url: /net/groupdocs.metadata.tagging/legaltagcategory/
 ---
 ## LegalTagCategory class

@@ -3,7 +3,7 @@ title: TiffArrayTagT
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents an arraybased TIFF tag.
 type: docs
-weight: 2340
+weight: 2360
 url: /net/groupdocs.metadata.formats.image/tiffarraytag-1/
 ---
 ## TiffArrayTag&lt;T&gt; class

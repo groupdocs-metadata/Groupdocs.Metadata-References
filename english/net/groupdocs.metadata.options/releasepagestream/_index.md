@@ -3,7 +3,7 @@ title: ReleasePageStream
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a method which releases the stream created by the CreatePageStream./createpagestream delegate.
 type: docs
-weight: 4120
+weight: 4140
 url: /net/groupdocs.metadata.options/releasepagestream/
 ---
 ## ReleasePageStream delegate

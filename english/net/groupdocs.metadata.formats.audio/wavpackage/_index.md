@@ -3,7 +3,7 @@ title: WavPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a native metadata package in a WAV audio file.
 type: docs
-weight: 730
+weight: 710
 url: /net/groupdocs.metadata.formats.audio/wavpackage/
 ---
 ## WavPackage class

@@ -3,7 +3,7 @@ title: ID3Tag
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a base abstract class for the ID3v1 and ID3v2 audio tags.
 type: docs
-weight: 530
+weight: 510
 url: /net/groupdocs.metadata.formats.audio/id3tag/
 ---
 ## ID3Tag class

@@ -3,7 +3,7 @@ title: OpenTypeFlags
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents OpenType font header flags.
 type: docs
-weight: 1670
+weight: 1690
 url: /net/groupdocs.metadata.formats.font/opentypeflags/
 ---
 ## OpenTypeFlags enumeration

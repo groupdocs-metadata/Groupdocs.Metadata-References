@@ -3,7 +3,7 @@ title: ZipRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the root package allowing working with metadata in a ZIP archive.
 type: docs
-weight: 510
+weight: 490
 url: /net/groupdocs.metadata.formats.archive/ziprootpackage/
 ---
 ## ZipRootPackage class

@@ -3,7 +3,7 @@ title: RootMetadataPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents an entry point to all metadata packages presented in a particular file.
 type: docs
-weight: 240
+weight: 220
 url: /net/groupdocs.metadata.common/rootmetadatapackage/
 ---
 ## RootMetadataPackage class

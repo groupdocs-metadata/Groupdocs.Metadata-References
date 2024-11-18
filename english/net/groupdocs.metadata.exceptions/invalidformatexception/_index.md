@@ -3,7 +3,7 @@ title: InvalidFormatException
 second_title: GroupDocs.Metadata for .NET API Reference
 description: The exception that is thrown when a file has an invalid format.
 type: docs
-weight: 290
+weight: 270
 url: /net/groupdocs.metadata.exceptions/invalidformatexception/
 ---
 ## InvalidFormatException class

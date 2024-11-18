@@ -3,7 +3,7 @@ title: Fb2Genre
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines Fb2 genres
 type: docs
-weight: 1510
+weight: 1490
 url: /net/groupdocs.metadata.formats.ebook.fb2/fb2genre/
 ---
 ## Fb2Genre enumeration

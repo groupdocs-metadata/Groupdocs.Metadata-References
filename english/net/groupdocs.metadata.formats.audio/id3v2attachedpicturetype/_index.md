@@ -3,7 +3,7 @@ title: ID3V2AttachedPictureType
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the type of an attached picture.
 type: docs
-weight: 570
+weight: 550
 url: /net/groupdocs.metadata.formats.audio/id3v2attachedpicturetype/
 ---
 ## ID3V2AttachedPictureType enumeration

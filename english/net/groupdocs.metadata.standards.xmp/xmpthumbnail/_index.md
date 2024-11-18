@@ -3,7 +3,7 @@ title: XmpThumbnail
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a thumbnail image for a file.
 type: docs
-weight: 4990
+weight: 5010
 url: /net/groupdocs.metadata.standards.xmp/xmpthumbnail/
 ---
 ## XmpThumbnail class

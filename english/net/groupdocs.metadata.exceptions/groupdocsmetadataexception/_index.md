@@ -3,7 +3,7 @@ title: GroupDocsMetadataException
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a productspecific exception that is thrown during file processing.
 type: docs
-weight: 280
+weight: 260
 url: /net/groupdocs.metadata.exceptions/groupdocsmetadataexception/
 ---
 ## GroupDocsMetadataException class

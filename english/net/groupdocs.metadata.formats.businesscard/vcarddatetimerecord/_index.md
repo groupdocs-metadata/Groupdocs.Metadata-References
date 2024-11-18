@@ -3,7 +3,7 @@ title: VCardDateTimeRecord
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents vCard date time record metadata class.
 type: docs
-weight: 830
+weight: 810
 url: /net/groupdocs.metadata.formats.businesscard/vcarddatetimerecord/
 ---
 ## VCardDateTimeRecord class

@@ -3,7 +3,7 @@ title: GroupDocs.Metadata.Standards.Iptc
 second_title: GroupDocs.Metadata for .NET API Reference
 description: The namespace contains classes allowing users to work with IPTC metadata.
 type: docs
-weight: 350
+weight: 360
 url: /net/groupdocs.metadata.standards.iptc/
 ---
 The namespace contains classes allowing users to work with IPTC metadata.

@@ -3,7 +3,7 @@ title: XmpCropUnit
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represent a unit for CropWidth and CropHeight in XmpCameraRawPackage./xmpcamerarawpackage.
 type: docs
-weight: 4520
+weight: 4540
 url: /net/groupdocs.metadata.standards.xmp.schemes/xmpcropunit/
 ---
 ## XmpCropUnit enumeration

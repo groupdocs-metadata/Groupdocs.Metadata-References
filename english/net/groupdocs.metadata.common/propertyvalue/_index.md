@@ -3,7 +3,7 @@ title: PropertyValue
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a property value.
 type: docs
-weight: 200
+weight: 190
 url: /net/groupdocs.metadata.common/propertyvalue/
 ---
 ## PropertyValue class

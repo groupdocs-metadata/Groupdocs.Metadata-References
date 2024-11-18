@@ -3,7 +3,7 @@ title: CsvExportOptions
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Creates an export options of xml file.
 type: docs
-weight: 320
+weight: 300
 url: /net/groupdocs.metadata.export/csvexportoptions/
 ---
 ## CsvExportOptions class

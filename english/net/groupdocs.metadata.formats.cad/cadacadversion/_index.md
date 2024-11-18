@@ -3,7 +3,7 @@ title: CadAcadVersion
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines AutoCAD drawing database version numbers.
 type: docs
-weight: 960
+weight: 940
 url: /net/groupdocs.metadata.formats.cad/cadacadversion/
 ---
 ## CadAcadVersion enumeration

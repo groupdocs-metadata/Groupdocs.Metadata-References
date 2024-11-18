@@ -3,7 +3,7 @@ title: VCardBasePackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the base VCard metadata class.
 type: docs
-weight: 760
+weight: 740
 url: /net/groupdocs.metadata.formats.businesscard/vcardbasepackage/
 ---
 ## VCardBasePackage class

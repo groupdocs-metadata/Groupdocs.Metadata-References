@@ -3,7 +3,7 @@ title: PropertyAccessLevels
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines access levels for metadata properties.
 type: docs
-weight: 180
+weight: 170
 url: /net/groupdocs.metadata.common/propertyaccesslevels/
 ---
 ## PropertyAccessLevels enumeration

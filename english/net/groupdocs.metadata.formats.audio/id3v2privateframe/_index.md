@@ -3,7 +3,7 @@ title: ID3V2PrivateFrame
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a PRIV frame in an ID3V2Tag./id3v2tag. The frame is used to contain information from a software producer that its program uses and does not fit into the other frames.
 type: docs
-weight: 620
+weight: 600
 url: /net/groupdocs.metadata.formats.audio/id3v2privateframe/
 ---
 ## ID3V2PrivateFrame class

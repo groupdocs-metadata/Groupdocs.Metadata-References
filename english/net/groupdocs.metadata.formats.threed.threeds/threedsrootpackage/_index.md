@@ -3,7 +3,7 @@ title: ThreeDSRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents .3ds file metadata.
 type: docs
-weight: 3540
+weight: 3560
 url: /net/groupdocs.metadata.formats.threed.threeds/threedsrootpackage/
 ---
 ## ThreeDSRootPackage class

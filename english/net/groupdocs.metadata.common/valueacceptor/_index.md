@@ -3,7 +3,7 @@ title: ValueAcceptor
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Provides a base abstract class that allows extracting all supported types of values from a PropertyValue./propertyvalue instance.
 type: docs
-weight: 250
+weight: 230
 url: /net/groupdocs.metadata.common/valueacceptor/
 ---
 ## ValueAcceptor class

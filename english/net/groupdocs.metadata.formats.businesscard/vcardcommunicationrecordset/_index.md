@@ -3,7 +3,7 @@ title: VCardCommunicationRecordset
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a set of Communication vCard records. These properties describe information about how to communicate with the object the vCard represents.
 type: docs
-weight: 800
+weight: 780
 url: /net/groupdocs.metadata.formats.businesscard/vcardcommunicationrecordset/
 ---
 ## VCardCommunicationRecordset class

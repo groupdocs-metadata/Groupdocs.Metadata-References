@@ -3,7 +3,7 @@ title: GroupDocs.Metadata.Standards.Xmp.Schemes
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Contains the implementation of different XMP Schemes.
 type: docs
-weight: 390
+weight: 400
 url: /net/groupdocs.metadata.standards.xmp.schemes/
 ---
 Contains the implementation of different XMP Schemes.

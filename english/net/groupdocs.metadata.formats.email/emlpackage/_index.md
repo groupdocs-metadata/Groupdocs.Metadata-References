@@ -3,7 +3,7 @@ title: EmlPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents EML message metadata.
 type: docs
-weight: 1590
+weight: 1610
 url: /net/groupdocs.metadata.formats.email/emlpackage/
 ---
 ## EmlPackage class

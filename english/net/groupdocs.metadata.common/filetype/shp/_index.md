@@ -3,7 +3,7 @@ title: SHP
 second_title: GroupDocs.Metadata for .NET API Reference
 description: The shapefile format is a geospatial vector data format for geographic information system GIS software. herehttps//docs.fileformat.com/gis/shp/.
 type: docs
-weight: 750
+weight: 760
 url: /net/groupdocs.metadata.common/filetype/shp/
 ---
 ## FileType.SHP field

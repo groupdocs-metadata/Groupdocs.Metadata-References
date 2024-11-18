@@ -3,7 +3,7 @@ title: DwgRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the root package allowing working with metadata in a DWG drawing.
 type: docs
-weight: 1000
+weight: 980
 url: /net/groupdocs.metadata.formats.cad/dwgrootpackage/
 ---
 ## DwgRootPackage class

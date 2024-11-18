@@ -3,7 +3,7 @@ title: MetadataValidationException
 second_title: GroupDocs.Metadata for .NET API Reference
 description: The exception that is thrown when validation errors encountered during metadata saving.
 type: docs
-weight: 300
+weight: 280
 url: /net/groupdocs.metadata.exceptions/metadatavalidationexception/
 ---
 ## MetadataValidationException class

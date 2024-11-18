@@ -3,7 +3,7 @@ title: ApePackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents an APE v2 metadata package. Please find more information at http//wiki.hydrogenaud.io/index.phptitleAPE_keyhttp//wiki.hydrogenaud.io/index.phptitleAPE_key.
 type: docs
-weight: 520
+weight: 500
 url: /net/groupdocs.metadata.formats.audio/apepackage/
 ---
 ## ApePackage class

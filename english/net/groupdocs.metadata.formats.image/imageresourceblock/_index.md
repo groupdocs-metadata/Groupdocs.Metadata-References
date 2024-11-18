@@ -3,7 +3,7 @@ title: ImageResourceBlock
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a Photoshop Image Resource block.  Image resource blocks are the basic building unit of several file formats including Photoshops native file format JPEG and TIFF. Image resources are used to store nonpixel data associated with images such as pen tool paths.
 type: docs
-weight: 2030
+weight: 2050
 url: /net/groupdocs.metadata.formats.image/imageresourceblock/
 ---
 ## ImageResourceBlock class
