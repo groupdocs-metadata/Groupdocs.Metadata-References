@@ -3,7 +3,7 @@ title: MpegAudioVersion
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a particular MPEG standard.
 type: docs
-weight: 2560
+weight: 2600
 url: /net/groupdocs.metadata.formats.mpeg/mpegaudioversion/
 ---
 ## MpegAudioVersion enumeration

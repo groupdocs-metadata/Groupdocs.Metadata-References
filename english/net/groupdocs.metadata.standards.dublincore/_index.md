@@ -3,7 +3,7 @@ title: GroupDocs.Metadata.Standards.DublinCore
 second_title: GroupDocs.Metadata for .NET API Reference
 description: The namespace contains functionality intended to read DublinCore metadata from files of different formats.
 type: docs
-weight: 320
+weight: 330
 url: /net/groupdocs.metadata.standards.dublincore/
 ---
 The namespace contains functionality intended to read DublinCore metadata from files of different formats.

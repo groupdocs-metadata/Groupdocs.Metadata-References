@@ -3,7 +3,7 @@ title: XmpTimeFormat
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents time format in XmpTimecode../groupdocs.metadata.standards.xmp/xmptimecode.
 type: docs
-weight: 4640
+weight: 4680
 url: /net/groupdocs.metadata.standards.xmp.schemes/xmptimeformat/
 ---
 ## XmpTimeFormat class

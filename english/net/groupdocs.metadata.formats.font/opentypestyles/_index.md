@@ -3,7 +3,7 @@ title: OpenTypeStyles
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the OpenType font style.
 type: docs
-weight: 1780
+weight: 1820
 url: /net/groupdocs.metadata.formats.font/opentypestyles/
 ---
 ## OpenTypeStyles enumeration

@@ -3,7 +3,7 @@ title: DublinCorePackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a Dublin Core metadata package.
 type: docs
-weight: 4130
+weight: 4170
 url: /net/groupdocs.metadata.standards.dublincore/dublincorepackage/
 ---
 ## DublinCorePackage class

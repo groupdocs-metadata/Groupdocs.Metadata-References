@@ -3,7 +3,7 @@ title: OpenTypeWidth
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the OpenType font width. Indicates a relative change from the normal aspect ratio width to height ratio as specified by a font designer for the glyphs in a font.
 type: docs
-weight: 1830
+weight: 1870
 url: /net/groupdocs.metadata.formats.font/opentypewidth/
 ---
 ## OpenTypeWidth enumeration

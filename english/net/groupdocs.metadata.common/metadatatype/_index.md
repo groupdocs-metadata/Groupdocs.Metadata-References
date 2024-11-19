@@ -70,6 +70,7 @@ public enum MetadataType
 | Stl | `49` | STL is a file format native to the stereolithography CAD software created by 3D Systems.[3][4][5] Chuck Hull, the inventor of stereolithography and 3D Systems’ founder, reports that the file extension is an abbreviation for stereolithography. |
 | Gis | `50` | Gis format |
 | Fb2 | `51` | Files with .fb2 extension are FictionBook 2.0 eBook files that contains the structure of the eBook. |
+| Mobi | `52` | The MOBI file format is one of the most widely used ebook file formats. The format is an enhancement to the old OEB (Open Ebook Format) format and was used as the proprietary format for Mobipocket Reader. |
 
 ### See Also
 

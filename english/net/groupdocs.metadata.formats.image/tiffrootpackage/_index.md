@@ -3,7 +3,7 @@ title: TiffRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the root package allowing working with metadata in a TIFF image.
 type: docs
-weight: 2420
+weight: 2460
 url: /net/groupdocs.metadata.formats.image/tiffrootpackage/
 ---
 ## TiffRootPackage class

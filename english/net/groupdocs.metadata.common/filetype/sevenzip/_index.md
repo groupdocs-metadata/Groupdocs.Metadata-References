@@ -3,7 +3,7 @@ title: SEVENZIP
 second_title: GroupDocs.Metadata for .NET API Reference
 description: 7z is a compressed archive file format that supports several different data compression encryption and preprocessing algorithms. The 7z format initially appeared as implemented by the 7Zip archiver. The 7Zip program is publicly available under the terms of the GNU Lesser General Public License. herehttps//wiki.fileformat.com/compression/zip/.
 type: docs
-weight: 740
+weight: 750
 url: /net/groupdocs.metadata.common/filetype/sevenzip/
 ---
 ## FileType.SEVENZIP field

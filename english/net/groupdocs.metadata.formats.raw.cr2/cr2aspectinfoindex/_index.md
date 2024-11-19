@@ -3,7 +3,7 @@ title: Cr2AspectInfoIndex
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ids of Cr2AspectInfo tags.
 type: docs
-weight: 2700
+weight: 2740
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2aspectinfoindex/
 ---
 ## Cr2AspectInfoIndex enumeration

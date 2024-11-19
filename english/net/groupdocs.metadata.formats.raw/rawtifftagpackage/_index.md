@@ -3,7 +3,7 @@ title: RawTiffTagPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents Tiff tags.
 type: docs
-weight: 3350
+weight: 3390
 url: /net/groupdocs.metadata.formats.raw/rawtifftagpackage/
 ---
 ## RawTiffTagPackage class

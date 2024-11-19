@@ -3,7 +3,7 @@ title: MatroskaPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a metadata container in a Matroska video.
 type: docs
-weight: 3790
+weight: 3830
 url: /net/groupdocs.metadata.formats.video/matroskapackage/
 ---
 ## MatroskaPackage class

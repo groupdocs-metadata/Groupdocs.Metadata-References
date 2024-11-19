@@ -3,7 +3,7 @@ title: LoadOptions
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Allows a developer to specify additional options such as a password when loading a file.
 type: docs
-weight: 4090
+weight: 4130
 url: /net/groupdocs.metadata.options/loadoptions/
 ---
 ## LoadOptions class

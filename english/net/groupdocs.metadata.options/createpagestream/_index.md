@@ -3,7 +3,7 @@ title: CreatePageStream
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a method that returns a stream to write page preview data.
 type: docs
-weight: 4080
+weight: 4120
 url: /net/groupdocs.metadata.options/createpagestream/
 ---
 ## CreatePageStream delegate

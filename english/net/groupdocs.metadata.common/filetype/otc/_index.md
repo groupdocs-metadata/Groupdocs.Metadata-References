@@ -3,7 +3,7 @@ title: OTC
 second_title: GroupDocs.Metadata for .NET API Reference
 description: OTC OpenType Collection is a OpenType font collection format. An OTC file can combine the multiple font files into it.
 type: docs
-weight: 580
+weight: 590
 url: /net/groupdocs.metadata.common/filetype/otc/
 ---
 ## FileType.OTC field

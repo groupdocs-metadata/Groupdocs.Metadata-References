@@ -3,7 +3,7 @@ title: GroupDocs.Metadata.Formats.Font
 second_title: GroupDocs.Metadata for .NET API Reference
 description: The namespace contains classes allowing users to work with formats representing scalable computer fonts.
 type: docs
-weight: 140
+weight: 150
 url: /net/groupdocs.metadata.formats.font/
 ---
 The namespace contains classes allowing users to work with formats representing scalable computer fonts.

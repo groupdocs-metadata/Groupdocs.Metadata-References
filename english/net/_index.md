@@ -23,6 +23,7 @@ version:
 | [GroupDocs.Metadata.Formats.Document](./groupdocs.metadata.formats.document) | The namespace provides functionality intended to work with a variety of document formats such as spreadsheets, presentations, text processing formats, etc. |
 | [GroupDocs.Metadata.Formats.Ebook](./groupdocs.metadata.formats.ebook) | The namespace provides functionality for working with electronic book formats. |
 | [GroupDocs.Metadata.Formats.Ebook.Fb2](./groupdocs.metadata.formats.ebook.fb2) |  |
+| [GroupDocs.Metadata.Formats.Ebook.Mobi](./groupdocs.metadata.formats.ebook.mobi) |  |
 | [GroupDocs.Metadata.Formats.Email](./groupdocs.metadata.formats.email) | The namespace contains classes representing saved email messages and their parts. |
 | [GroupDocs.Metadata.Formats.Fb2](./groupdocs.metadata.formats.fb2) |  |
 | [GroupDocs.Metadata.Formats.Font](./groupdocs.metadata.formats.font) | The namespace contains classes allowing users to work with formats representing scalable computer fonts. |
