@@ -3,7 +3,7 @@ title: CadRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the root package allowing working with metadata in a CAD drawing.
 type: docs
-weight: 970
+weight: 990
 url: /net/groupdocs.metadata.formats.cad/cadrootpackage/
 ---
 ## CadRootPackage class

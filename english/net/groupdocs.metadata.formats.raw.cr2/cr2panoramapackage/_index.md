@@ -3,7 +3,7 @@ title: Cr2PanoramaPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents Canon MakerNotes tags.
 type: docs
-weight: 3040
+weight: 3060
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2panoramapackage/
 ---
 ## Cr2PanoramaPackage class

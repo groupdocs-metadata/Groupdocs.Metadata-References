@@ -3,7 +3,7 @@ title: XmlExportOptions
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Creates an export options of xml file.
 type: docs
-weight: 360
+weight: 380
 url: /net/groupdocs.metadata.export/xmlexportoptions/
 ---
 ## XmlExportOptions class

@@ -3,7 +3,7 @@ title: RarPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents ZIP archive metadata.
 type: docs
-weight: 380
+weight: 400
 url: /net/groupdocs.metadata.formats.archive/rarpackage/
 ---
 ## RarPackage class

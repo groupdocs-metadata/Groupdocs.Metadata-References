@@ -3,7 +3,7 @@ title: Fb2RootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the root package allowing working with metadata in an Fb2 ebook.
 type: docs
-weight: 1530
+weight: 1550
 url: /net/groupdocs.metadata.formats.ebook/fb2rootpackage/
 ---
 ## Fb2RootPackage class

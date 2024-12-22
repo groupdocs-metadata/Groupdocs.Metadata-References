@@ -1,17 +1,17 @@
 ---
-title: Sender
+title: SenderEmailAddress
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the email address of the sender.
 type: docs
 weight: 60
-url: /net/groupdocs.metadata.formats.email/emailpackage/sender/
+url: /net/groupdocs.metadata.formats.email/emailpackage/senderemailaddress/
 ---
-## EmailPackage.Sender property
+## EmailPackage.SenderEmailAddress property
 
 Gets the email address of the sender.
 
 ```csharp
-public string Sender { get; set; }
+public string SenderEmailAddress { get; set; }
 ```
 
 ### Property Value

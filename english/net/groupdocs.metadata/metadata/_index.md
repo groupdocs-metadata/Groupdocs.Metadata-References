@@ -3,7 +3,7 @@ title: Metadata
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Provides the main class to access metadata in all supported formats.
 type: docs
-weight: 4080
+weight: 4100
 url: /net/groupdocs.metadata/metadata/
 ---
 ## Metadata class

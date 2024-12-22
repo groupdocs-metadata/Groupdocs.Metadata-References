@@ -3,7 +3,7 @@ title: DaeRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents .dae file metadata.
 type: docs
-weight: 3470
+weight: 3490
 url: /net/groupdocs.metadata.formats.threed.dae/daerootpackage/
 ---
 ## DaeRootPackage class

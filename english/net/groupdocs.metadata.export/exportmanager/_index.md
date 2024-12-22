@@ -3,7 +3,7 @@ title: ExportManager
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Provides a row of methods allowing the user to export metadata properties to various formats.
 type: docs
-weight: 330
+weight: 350
 url: /net/groupdocs.metadata.export/exportmanager/
 ---
 ## ExportManager class

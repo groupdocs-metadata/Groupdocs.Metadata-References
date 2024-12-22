@@ -3,7 +3,7 @@ title: Rectangle
 second_title: GroupDocs.Metadata for .NET API Reference
 description: A set of four integers that represent the location and size of a rectangle.
 type: docs
-weight: 210
+weight: 230
 url: /net/groupdocs.metadata.common/rectangle/
 ---
 ## Rectangle structure

@@ -3,7 +3,7 @@ title: WebPRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the root package allowing working with metadata in a WEBP image.
 type: docs
-weight: 2550
+weight: 2570
 url: /net/groupdocs.metadata.formats.image/webprootpackage/
 ---
 ## WebPRootPackage class

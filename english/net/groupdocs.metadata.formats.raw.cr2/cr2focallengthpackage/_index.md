@@ -3,7 +3,7 @@ title: Cr2FocalLengthPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents Canon MakerNotes tags.
 type: docs
-weight: 2860
+weight: 2880
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2focallengthpackage/
 ---
 ## Cr2FocalLengthPackage class

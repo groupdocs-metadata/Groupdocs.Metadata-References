@@ -3,7 +3,7 @@ title: XmpColorantColorMode
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents color mode in XmpColorantBase./xmpcolorantbase.
 type: docs
-weight: 4750
+weight: 4770
 url: /net/groupdocs.metadata.standards.xmp/xmpcolorantcolormode/
 ---
 ## XmpColorantColorMode enumeration

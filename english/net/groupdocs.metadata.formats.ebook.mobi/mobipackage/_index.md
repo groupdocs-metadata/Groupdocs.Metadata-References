@@ -3,7 +3,7 @@ title: MobiPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents metadata in a Mobi ebook.
 type: docs
-weight: 1550
+weight: 1570
 url: /net/groupdocs.metadata.formats.ebook.mobi/mobipackage/
 ---
 ## MobiPackage class

@@ -3,7 +3,7 @@ title: Fb2PublishInfo
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Information about the paper or other publication on the basis of which the FB2.x document was created. It is not recommended to fill in data from an arbitrary publication if the source is unknown except for the case when verification was carried out on it and the document was brought to the form of this publication. If the source is unknown it is better to omit this element altogether.
 type: docs
-weight: 1500
+weight: 1520
 url: /net/groupdocs.metadata.formats.ebook.fb2/fb2publishinfo/
 ---
 ## Fb2PublishInfo class

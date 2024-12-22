@@ -3,7 +3,7 @@ title: TorrentSharedFilePackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents shared file information. Contains detailed info about each file in a torrent distribution.
 type: docs
-weight: 2630
+weight: 2650
 url: /net/groupdocs.metadata.formats.peer2peer/torrentsharedfilepackage/
 ---
 ## TorrentSharedFilePackage class

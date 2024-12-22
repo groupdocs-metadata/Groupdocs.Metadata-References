@@ -3,7 +3,7 @@ title: XmpArray
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents base abstraction for XMP array.
 type: docs
-weight: 4680
+weight: 4700
 url: /net/groupdocs.metadata.standards.xmp/xmparray/
 ---
 ## XmpArray class

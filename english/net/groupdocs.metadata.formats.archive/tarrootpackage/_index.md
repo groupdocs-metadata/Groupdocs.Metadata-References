@@ -3,7 +3,7 @@ title: TarRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the root package allowing working with metadata in a ZIP archive.
 type: docs
-weight: 450
+weight: 470
 url: /net/groupdocs.metadata.formats.archive/tarrootpackage/
 ---
 ## TarRootPackage class

@@ -3,7 +3,7 @@ title: WordProcessingComment
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a comment in a word processing document.
 type: docs
-weight: 1360
+weight: 1380
 url: /net/groupdocs.metadata.formats.document/wordprocessingcomment/
 ---
 ## WordProcessingComment class

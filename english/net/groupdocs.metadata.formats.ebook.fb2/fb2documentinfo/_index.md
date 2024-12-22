@@ -3,7 +3,7 @@ title: Fb2DocumentInfo
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Description of information about the work including translation but excluding publication.
 type: docs
-weight: 1480
+weight: 1500
 url: /net/groupdocs.metadata.formats.ebook.fb2/fb2documentinfo/
 ---
 ## Fb2DocumentInfo class

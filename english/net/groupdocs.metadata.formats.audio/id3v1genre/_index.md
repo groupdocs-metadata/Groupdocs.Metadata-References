@@ -3,7 +3,7 @@ title: ID3V1Genre
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Specifies genres used in an Id3v1 tag.
 type: docs
-weight: 520
+weight: 540
 url: /net/groupdocs.metadata.formats.audio/id3v1genre/
 ---
 ## ID3V1Genre enumeration

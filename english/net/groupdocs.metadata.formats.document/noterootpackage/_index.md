@@ -3,7 +3,7 @@ title: NoteRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the root package intended to work with metadata in an electronic note file.
 type: docs
-weight: 1090
+weight: 1110
 url: /net/groupdocs.metadata.formats.document/noterootpackage/
 ---
 ## NoteRootPackage class

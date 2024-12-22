@@ -3,7 +3,7 @@ title: Fb2Sequence
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents an information about the sequence of the book.
 type: docs
-weight: 1510
+weight: 1530
 url: /net/groupdocs.metadata.formats.ebook.fb2/fb2sequence/
 ---
 ## Fb2Sequence class

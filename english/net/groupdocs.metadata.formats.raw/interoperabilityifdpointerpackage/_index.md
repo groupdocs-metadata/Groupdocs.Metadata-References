@@ -3,7 +3,7 @@ title: InteroperabilityIFDPointerPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents Interoperability IFD.
 type: docs
-weight: 3270
+weight: 3290
 url: /net/groupdocs.metadata.formats.raw/interoperabilityifdpointerpackage/
 ---
 ## InteroperabilityIFDPointerPackage class

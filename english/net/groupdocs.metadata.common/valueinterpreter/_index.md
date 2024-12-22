@@ -3,7 +3,7 @@ title: ValueInterpreter
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines operations required to interpret metadata property values.
 type: docs
-weight: 240
+weight: 260
 url: /net/groupdocs.metadata.common/valueinterpreter/
 ---
 ## ValueInterpreter class

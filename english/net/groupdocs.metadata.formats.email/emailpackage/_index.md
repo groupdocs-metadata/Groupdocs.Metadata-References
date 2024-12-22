@@ -3,7 +3,7 @@ title: EmailPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents email message metadata.
 type: docs
-weight: 1590
+weight: 1610
 url: /net/groupdocs.metadata.formats.email/emailpackage/
 ---
 ## EmailPackage class
@@ -28,7 +28,7 @@ public abstract class EmailPackage : CustomPackage
 | [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | Gets the metadata type. |
 | [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | Gets a collection of descriptors that contain information about properties accessible through the GroupDocs.Metadata search engine. |
 | [Recipients](../../groupdocs.metadata.formats.email/emailpackage/recipients) { get; set; } | Gets or sets the array of the email recipients. |
-| [Sender](../../groupdocs.metadata.formats.email/emailpackage/sender) { get; set; } | Gets the email address of the sender. |
+| [SenderEmailAddress](../../groupdocs.metadata.formats.email/emailpackage/senderemailaddress) { get; set; } | Gets the email address of the sender. |
 | [Subject](../../groupdocs.metadata.formats.email/emailpackage/subject) { get; set; } | Gets or sets the email subject. |
 
 ## Methods

@@ -3,7 +3,7 @@ title: ImageRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Provides a base abstract class for all image root packages.
 type: docs
-weight: 2080
+weight: 2100
 url: /net/groupdocs.metadata.formats.image/imagerootpackage/
 ---
 ## ImageRootPackage class

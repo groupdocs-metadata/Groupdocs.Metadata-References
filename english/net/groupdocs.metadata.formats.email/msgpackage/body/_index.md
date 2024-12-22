@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.email/msgpackage/body/
 Gets the email message text.
 
 ```csharp
-public string Body { get; }
+public string Body { get; set; }
 ```
 
 ### Property Value

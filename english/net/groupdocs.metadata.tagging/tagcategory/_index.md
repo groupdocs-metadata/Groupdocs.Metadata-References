@@ -3,7 +3,7 @@ title: TagCategory
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a set of tags having some shared characteristics.
 type: docs
-weight: 5150
+weight: 5170
 url: /net/groupdocs.metadata.tagging/tagcategory/
 ---
 ## TagCategory class

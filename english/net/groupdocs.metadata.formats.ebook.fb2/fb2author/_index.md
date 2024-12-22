@@ -3,7 +3,7 @@ title: Fb2Author
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents an information about the author of the book.
 type: docs
-weight: 1470
+weight: 1490
 url: /net/groupdocs.metadata.formats.ebook.fb2/fb2author/
 ---
 ## Fb2Author class

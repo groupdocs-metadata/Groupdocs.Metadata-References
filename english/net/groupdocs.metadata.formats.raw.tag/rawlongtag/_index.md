@@ -3,7 +3,7 @@ title: RawLongTag
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a Raw Long tag.
 type: docs
-weight: 3410
+weight: 3430
 url: /net/groupdocs.metadata.formats.raw.tag/rawlongtag/
 ---
 ## RawLongTag class

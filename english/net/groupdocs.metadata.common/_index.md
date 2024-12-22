@@ -20,9 +20,11 @@ The namespace contains base classes, utility classes and interfaces used across 
 | [Func&lt;T,TResult&gt;](./func-2) | Encapsulates a method that has one parameter and returns a value of the type specified by the *TResult* parameter. |
 | [MetadataPackage](./metadatapackage) | Represents base abstraction for a metadata package. |
 | [MetadataProperty](./metadataproperty) | Represents a metadata property. |
+| [MetadataPropertyEqualityComparer](./metadatapropertyequalitycomparer) | Defines methods to support the comparison of metadata properties for equality. |
 | [PageInfo](./pageinfo) | Provides common information about a document page (slide, worksheet, etc). |
 | [PropertyDescriptor](./propertydescriptor) | Represents a descriptor of a property that can be accessed through the GroupDocs.Metadata search engine. |
 | [PropertyValue](./propertyvalue) | Represents a property value. |
+| [PropertyValueEqualityComparer](./propertyvalueequalitycomparer) | Defines methods to support the comparison of property values for equality. |
 | [ReadOnlyList&lt;T&gt;](./readonlylist-1) | Provides an abstract base class for a strongly typed read-only list. |
 | [RootMetadataPackage](./rootmetadatapackage) | Represents an entry point to all metadata packages presented in a particular file. |
 | [ValueAcceptor](./valueacceptor) | Provides a base abstract class that allows extracting all supported types of values from a [`PropertyValue`](../groupdocs.metadata.common/propertyvalue) instance. |

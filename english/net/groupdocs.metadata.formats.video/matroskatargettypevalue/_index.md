@@ -3,7 +3,7 @@ title: MatroskaTargetTypeValue
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a number to indicate the logical level of the Matroska tag target.
 type: docs
-weight: 3880
+weight: 3900
 url: /net/groupdocs.metadata.formats.video/matroskatargettypevalue/
 ---
 ## MatroskaTargetTypeValue enumeration

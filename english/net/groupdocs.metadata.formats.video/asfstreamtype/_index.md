@@ -3,7 +3,7 @@ title: AsfStreamType
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ASF stream types.
 type: docs
-weight: 3700
+weight: 3720
 url: /net/groupdocs.metadata.formats.video/asfstreamtype/
 ---
 ## AsfStreamType enumeration
