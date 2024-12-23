@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.email/msgpackage/categories/
 Gets the array of categories or keywords.
 
 ```csharp
-public string[] Categories { get; }
+public string[] Categories { get; set; }
 ```
 
 ### Property Value

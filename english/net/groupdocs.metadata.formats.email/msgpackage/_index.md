@@ -20,9 +20,9 @@ public class MsgPackage : EmailPackage
 | --- | --- |
 | [AttachedFileNames](../../groupdocs.metadata.formats.email/emailpackage/attachedfilenames) { get; } | Gets an array of the names of the attached files. |
 | [BlindCarbonCopyRecipients](../../groupdocs.metadata.formats.email/emailpackage/blindcarboncopyrecipients) { get; set; } | Gets or sets the array of BCC (blind carbon copy) recipients of the email message. |
-| [Body](../../groupdocs.metadata.formats.email/msgpackage/body) { get; } | Gets the email message text. |
+| [Body](../../groupdocs.metadata.formats.email/msgpackage/body) { get; set; } | Gets the email message text. |
 | [CarbonCopyRecipients](../../groupdocs.metadata.formats.email/emailpackage/carboncopyrecipients) { get; set; } | Gets or sets the array of CC (carbon copy) recipients of the email message. |
-| [Categories](../../groupdocs.metadata.formats.email/msgpackage/categories) { get; } | Gets the array of categories or keywords. |
+| [Categories](../../groupdocs.metadata.formats.email/msgpackage/categories) { get; set; } | Gets the array of categories or keywords. |
 | [ClientSubmitTime](../../groupdocs.metadata.formats.email/msgpackage/clientsubmittime) { get; set; } | Gets the date and time the message was submit. |
 | [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | Gets the number of metadata properties. |
 | [DeliveryTime](../../groupdocs.metadata.formats.email/msgpackage/deliverytime) { get; set; } | Gets the date and time the message was delivered. |
@@ -32,7 +32,8 @@ public class MsgPackage : EmailPackage
 | [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | Gets the metadata type. |
 | [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | Gets a collection of descriptors that contain information about properties accessible through the GroupDocs.Metadata search engine. |
 | [Recipients](../../groupdocs.metadata.formats.email/emailpackage/recipients) { get; set; } | Gets or sets the array of the email recipients. |
-| [Sender](../../groupdocs.metadata.formats.email/emailpackage/sender) { get; set; } | Gets the email address of the sender. |
+| [SenderEmailAddress](../../groupdocs.metadata.formats.email/emailpackage/senderemailaddress) { get; set; } | Gets the email address of the sender. |
+| [SenderName](../../groupdocs.metadata.formats.email/msgpackage/sendername) { get; set; } | Gets the name of the sender. |
 | [Subject](../../groupdocs.metadata.formats.email/emailpackage/subject) { get; set; } | Gets or sets the email subject. |
 
 ## Methods

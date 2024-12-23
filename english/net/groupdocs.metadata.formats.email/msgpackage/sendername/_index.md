@@ -1,22 +1,22 @@
 ---
-title: Body
+title: SenderName
 second_title: GroupDocs.Metadata for .NET API Reference
-description: Gets the email message text.
+description: Gets the name of the sender.
 type: docs
-weight: 10
-url: /net/groupdocs.metadata.formats.email/msgpackage/body/
+weight: 50
+url: /net/groupdocs.metadata.formats.email/msgpackage/sendername/
 ---
-## MsgPackage.Body property
+## MsgPackage.SenderName property
 
-Gets the email message text.
+Gets the name of the sender.
 
 ```csharp
-public string Body { get; set; }
+public string SenderName { get; set; }
 ```
 
 ### Property Value
 
-The email message text.
+The name of the sender.
 
 ### See Also
 
