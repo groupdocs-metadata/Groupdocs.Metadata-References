@@ -3,7 +3,7 @@ title: TitlesOfParts
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the titles of document parts. Readonly.
 type: docs
-weight: 210
+weight: 240
 url: /net/groupdocs.metadata.formats.document/wordprocessingpackage/titlesofparts/
 ---
 ## WordProcessingPackage.TitlesOfParts property

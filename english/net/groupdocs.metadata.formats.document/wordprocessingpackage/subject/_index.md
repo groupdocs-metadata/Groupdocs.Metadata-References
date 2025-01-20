@@ -3,7 +3,7 @@ title: Subject
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets or sets the subject.
 type: docs
-weight: 180
+weight: 210
 url: /net/groupdocs.metadata.formats.document/wordprocessingpackage/subject/
 ---
 ## WordProcessingPackage.Subject property

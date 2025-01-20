@@ -1,22 +1,22 @@
 ---
-title: TotalEditingTime
+title: SharedDoc
 second_title: GroupDocs.Metadata for .NET API Reference
-description: Gets or sets the total editing time in minutes.
+description: Gets or sets the SharedDoc of the document.
 type: docs
-weight: 250
-url: /net/groupdocs.metadata.formats.document/wordprocessingpackage/totaleditingtime/
+weight: 200
+url: /net/groupdocs.metadata.formats.document/wordprocessingpackage/shareddoc/
 ---
-## WordProcessingPackage.TotalEditingTime property
+## WordProcessingPackage.SharedDoc property
 
-Gets or sets the total editing time in minutes.
+Gets or sets the SharedDoc of the document.
 
 ```csharp
-public int? TotalEditingTime { get; set; }
+public bool? SharedDoc { get; set; }
 ```
 
 ### Property Value
 
-The total editing time in minutes.
+The SharedDoc of the document.
 
 ### See Also
 

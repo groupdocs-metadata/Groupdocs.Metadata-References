@@ -20,7 +20,7 @@ public class GisRootPackage : RootMetadataPackage
 | --- | --- |
 | [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | Gets the number of metadata properties. |
 | [FileType](../../groupdocs.metadata.common/rootmetadatapackage/filetype) { get; } | Gets the file type metadata package. |
-| [GisPackage](../../groupdocs.metadata.formats.gis/gisrootpackage/gispackage) { get; } | Gets the ZIP metadata package. |
+| [GisPackage](../../groupdocs.metadata.formats.gis/gisrootpackage/gispackage) { get; } | Gets the Gis metadata package. |
 | [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | Gets the [`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty) with the specified name. |
 | [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | Gets a collection of the metadata property names. |
 | [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | Gets the metadata type. |

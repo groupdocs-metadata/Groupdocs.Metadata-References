@@ -3,7 +3,7 @@ title: LastSavedBy
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets or sets the name of the last author.
 type: docs
-weight: 120
+weight: 130
 url: /net/groupdocs.metadata.formats.document/wordprocessingpackage/lastsavedby/
 ---
 ## WordProcessingPackage.LastSavedBy property

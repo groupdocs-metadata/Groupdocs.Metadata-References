@@ -3,7 +3,7 @@ title: LastSavedTime
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets or sets the time of the last save.
 type: docs
-weight: 130
+weight: 140
 url: /net/groupdocs.metadata.formats.document/wordprocessingpackage/lastsavedtime/
 ---
 ## WordProcessingPackage.LastSavedTime property

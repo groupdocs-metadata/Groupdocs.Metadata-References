@@ -3,7 +3,7 @@ title: NameOfApplication
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the name of the application.
 type: docs
-weight: 160
+weight: 170
 url: /net/groupdocs.metadata.formats.document/wordprocessingpackage/nameofapplication/
 ---
 ## WordProcessingPackage.NameOfApplication property

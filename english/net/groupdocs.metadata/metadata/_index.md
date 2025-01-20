@@ -20,8 +20,10 @@ public sealed class Metadata : IDisposable
 | --- | --- |
 | [Metadata](metadata#constructor)(Stream) | Initializes a new instance of the [`Metadata`](../metadata) class. |
 | [Metadata](metadata#constructor_2)(string) | Initializes a new instance of the [`Metadata`](../metadata) class. |
+| [Metadata](metadata#constructor_4)(Uri) | Initializes a new instance of the [`Metadata`](../metadata) class. |
 | [Metadata](metadata#constructor_1)(Stream, LoadOptions) | Initializes a new instance of the [`Metadata`](../metadata) class. |
 | [Metadata](metadata#constructor_3)(string, LoadOptions) | Initializes a new instance of the [`Metadata`](../metadata) class. |
+| [Metadata](metadata#constructor_5)(Uri, LoadOptions) | Initializes a new instance of the [`Metadata`](../metadata) class. |
 
 ## Properties
 

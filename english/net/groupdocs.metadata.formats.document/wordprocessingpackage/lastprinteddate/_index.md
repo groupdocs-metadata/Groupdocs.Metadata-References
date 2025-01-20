@@ -3,7 +3,7 @@ title: LastPrintedDate
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets or sets the last printed date.
 type: docs
-weight: 110
+weight: 120
 url: /net/groupdocs.metadata.formats.document/wordprocessingpackage/lastprinteddate/
 ---
 ## WordProcessingPackage.LastPrintedDate property
