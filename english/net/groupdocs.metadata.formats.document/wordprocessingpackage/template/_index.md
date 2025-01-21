@@ -3,7 +3,7 @@ title: Template
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets or sets the template.
 type: docs
-weight: 190
+weight: 220
 url: /net/groupdocs.metadata.formats.document/wordprocessingpackage/template/
 ---
 ## WordProcessingPackage.Template property

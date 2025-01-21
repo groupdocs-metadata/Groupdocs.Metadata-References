@@ -3,7 +3,7 @@ title: Title
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets or sets the title of the document.
 type: docs
-weight: 200
+weight: 230
 url: /net/groupdocs.metadata.formats.document/wordprocessingpackage/title/
 ---
 ## WordProcessingPackage.Title property

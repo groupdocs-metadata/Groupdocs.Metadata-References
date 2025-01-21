@@ -28,6 +28,7 @@ public class WordProcessingPackage : DocumentPackage
 | [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | Gets the number of metadata properties. |
 | [CreatedTime](../../groupdocs.metadata.formats.document/wordprocessingpackage/createdtime) { get; set; } | Gets or sets the document created date. |
 | [HyperlinkBase](../../groupdocs.metadata.formats.document/wordprocessingpackage/hyperlinkbase) { get; set; } | Gets or sets the hyperlink base. |
+| [HyperlinksChanged](../../groupdocs.metadata.formats.document/wordprocessingpackage/hyperlinkschanged) { get; set; } | Gets or sets the Hyperlinks Changed of the document. |
 | [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | Gets the [`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty) with the specified name. |
 | [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | Gets a collection of the metadata property names. |
 | [Keywords](../../groupdocs.metadata.formats.document/wordprocessingpackage/keywords) { get; set; } | Gets or sets the keywords. |
@@ -40,6 +41,8 @@ public class WordProcessingPackage : DocumentPackage
 | [NameOfApplication](../../groupdocs.metadata.formats.document/wordprocessingpackage/nameofapplication) { get; } | Gets the name of the application. |
 | [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | Gets a collection of descriptors that contain information about properties accessible through the GroupDocs.Metadata search engine. |
 | [RevisionNumber](../../groupdocs.metadata.formats.document/wordprocessingpackage/revisionnumber) { get; set; } | Gets or sets the revision number. |
+| [ScaleCrop](../../groupdocs.metadata.formats.document/wordprocessingpackage/scalecrop) { get; set; } | Gets or sets the ScaleCrop of the document. |
+| [SharedDoc](../../groupdocs.metadata.formats.document/wordprocessingpackage/shareddoc) { get; set; } | Gets or sets the SharedDoc of the document. |
 | [Subject](../../groupdocs.metadata.formats.document/wordprocessingpackage/subject) { get; set; } | Gets or sets the subject. |
 | [Template](../../groupdocs.metadata.formats.document/wordprocessingpackage/template) { get; set; } | Gets or sets the template. |
 | [Title](../../groupdocs.metadata.formats.document/wordprocessingpackage/title) { get; set; } | Gets or sets the title of the document. |

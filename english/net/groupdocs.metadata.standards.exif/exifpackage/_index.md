@@ -82,7 +82,7 @@ using (Metadata metadata = new Metadata(Constants.InputJpeg))
             root.ExifPackage = new ExifPackage();
         }
 
-        root.ExifPackage.Copyright = "Copyright (C) 2011-2024 GroupDocs. All Rights Reserved.";
+        root.ExifPackage.Copyright = "Copyright (C) 2011-2025 GroupDocs. All Rights Reserved.";
         root.ExifPackage.ImageDescription = "test image";
         root.ExifPackage.Software = "GroupDocs.Metadata";
 

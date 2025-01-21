@@ -3,7 +3,7 @@ title: RevisionNumber
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets or sets the revision number.
 type: docs
-weight: 170
+weight: 180
 url: /net/groupdocs.metadata.formats.document/wordprocessingpackage/revisionnumber/
 ---
 ## WordProcessingPackage.RevisionNumber property

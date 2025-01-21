@@ -1,14 +1,14 @@
 ---
 title: GisPackage
 second_title: GroupDocs.Metadata for .NET API Reference
-description: Gets the ZIP metadata package.
+description: Gets the Gis metadata package.
 type: docs
 weight: 10
 url: /net/groupdocs.metadata.formats.gis/gisrootpackage/gispackage/
 ---
 ## GisRootPackage.GisPackage property
 
-Gets the ZIP metadata package.
+Gets the Gis metadata package.
 
 ```csharp
 public GisPackage GisPackage { get; }
@@ -16,13 +16,7 @@ public GisPackage GisPackage { get; }
 
 ### Property Value
 
-The ZIP metadata package.
-
-### Remarks
-
-**Learn more**
-
-* [Working with ZIP archives](https://docs.groupdocs.com/display/metadatanet/Working+with+ZIP+archives)
+The Gis metadata package.
 
 ### See Also
 

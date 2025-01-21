@@ -1,22 +1,22 @@
 ---
-title: TotalEditingTime
+title: HyperlinksChanged
 second_title: GroupDocs.Metadata for .NET API Reference
-description: Gets or sets the total editing time in minutes.
+description: Gets or sets the Hyperlinks Changed of the document.
 type: docs
-weight: 250
-url: /net/groupdocs.metadata.formats.document/wordprocessingpackage/totaleditingtime/
+weight: 100
+url: /net/groupdocs.metadata.formats.document/wordprocessingpackage/hyperlinkschanged/
 ---
-## WordProcessingPackage.TotalEditingTime property
+## WordProcessingPackage.HyperlinksChanged property
 
-Gets or sets the total editing time in minutes.
+Gets or sets the Hyperlinks Changed of the document.
 
 ```csharp
-public int? TotalEditingTime { get; set; }
+public bool? HyperlinksChanged { get; set; }
 ```
 
 ### Property Value
 
-The total editing time in minutes.
+The Hyperlinks Changed of the document.
 
 ### See Also
 

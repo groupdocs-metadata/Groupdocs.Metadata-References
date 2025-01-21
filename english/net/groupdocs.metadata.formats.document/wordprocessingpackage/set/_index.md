@@ -3,7 +3,7 @@ title: Set
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Adds or replaces the metadata property with the specified name.
 type: docs
-weight: 240
+weight: 270
 url: /net/groupdocs.metadata.formats.document/wordprocessingpackage/set/
 ---
 ## Set(string, string) {#set_4}

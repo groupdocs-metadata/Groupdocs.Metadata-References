@@ -3,7 +3,7 @@ title: LinksUpToDate
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets or sets a value indicating whether the hyperlinks in the document are uptodate.
 type: docs
-weight: 140
+weight: 150
 url: /net/groupdocs.metadata.formats.document/wordprocessingpackage/linksuptodate/
 ---
 ## WordProcessingPackage.LinksUpToDate property

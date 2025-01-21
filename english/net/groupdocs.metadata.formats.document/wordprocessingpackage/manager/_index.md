@@ -3,7 +3,7 @@ title: Manager
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets or sets the manager.
 type: docs
-weight: 150
+weight: 160
 url: /net/groupdocs.metadata.formats.document/wordprocessingpackage/manager/
 ---
 ## WordProcessingPackage.Manager property

@@ -3,7 +3,7 @@ title: Keywords
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets or sets the keywords.
 type: docs
-weight: 100
+weight: 110
 url: /net/groupdocs.metadata.formats.document/wordprocessingpackage/keywords/
 ---
 ## WordProcessingPackage.Keywords property

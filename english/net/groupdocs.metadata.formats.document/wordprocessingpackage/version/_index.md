@@ -3,7 +3,7 @@ title: Version
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the version number of the application that created the document.
 type: docs
-weight: 230
+weight: 260
 url: /net/groupdocs.metadata.formats.document/wordprocessingpackage/version/
 ---
 ## WordProcessingPackage.Version property
