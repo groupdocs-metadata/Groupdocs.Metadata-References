@@ -3,7 +3,7 @@ title: CarbonCopyRecipients
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets or sets the array of CC carbon copy recipients of the email message.
 type: docs
-weight: 30
+weight: 20
 url: /net/groupdocs.metadata.formats.email/emailpackage/carboncopyrecipients/
 ---
 ## EmailPackage.CarbonCopyRecipients property

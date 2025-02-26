@@ -3,7 +3,7 @@ title: FileLogger
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Writes log messages to the file.
 type: docs
-weight: 4070
+weight: 4090
 url: /net/groupdocs.metadata.logging/filelogger/
 ---
 ## FileLogger class

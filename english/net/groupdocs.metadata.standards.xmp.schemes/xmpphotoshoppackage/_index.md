@@ -3,7 +3,7 @@ title: XmpPhotoshopPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents Adobe Photoshop namespace.
 type: docs
-weight: 4660
+weight: 4680
 url: /net/groupdocs.metadata.standards.xmp.schemes/xmpphotoshoppackage/
 ---
 ## XmpPhotoshopPackage class

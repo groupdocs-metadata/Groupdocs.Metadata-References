@@ -3,7 +3,7 @@ title: MsgPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents MSG message metadata.
 type: docs
-weight: 1650
+weight: 1670
 url: /net/groupdocs.metadata.formats.email/msgpackage/
 ---
 ## MsgPackage class
@@ -18,15 +18,19 @@ public class MsgPackage : EmailPackage
 
 | Name | Description |
 | --- | --- |
-| [AttachedFileNames](../../groupdocs.metadata.formats.email/emailpackage/attachedfilenames) { get; } | Gets an array of the names of the attached files. |
+| [Attachments](../../groupdocs.metadata.formats.email/msgpackage/attachments) { get; set; } | Gets an array of the attached files. |
+| [Billing](../../groupdocs.metadata.formats.email/msgpackage/billing) { get; set; } | Contains the billing information associated with an item. |
 | [BlindCarbonCopyRecipients](../../groupdocs.metadata.formats.email/emailpackage/blindcarboncopyrecipients) { get; set; } | Gets or sets the array of BCC (blind carbon copy) recipients of the email message. |
 | [Body](../../groupdocs.metadata.formats.email/msgpackage/body) { get; set; } | Gets the email message text. |
+| [BodyHtml](../../groupdocs.metadata.formats.email/msgpackage/bodyhtml) { get; set; } | Gets the BodyRtf of the message converted to HTML, if present, otherwise an empty string. |
+| [BodyRtf](../../groupdocs.metadata.formats.email/msgpackage/bodyrtf) { get; set; } | Gets the BodyRtf of the message. |
 | [CarbonCopyRecipients](../../groupdocs.metadata.formats.email/emailpackage/carboncopyrecipients) { get; set; } | Gets or sets the array of CC (carbon copy) recipients of the email message. |
 | [Categories](../../groupdocs.metadata.formats.email/msgpackage/categories) { get; set; } | Gets the array of categories or keywords. |
 | [ClientSubmitTime](../../groupdocs.metadata.formats.email/msgpackage/clientsubmittime) { get; set; } | Gets the date and time the message was submit. |
 | [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | Gets the number of metadata properties. |
 | [DeliveryTime](../../groupdocs.metadata.formats.email/msgpackage/deliverytime) { get; set; } | Gets the date and time the message was delivered. |
 | [Headers](../../groupdocs.metadata.formats.email/emailpackage/headers) { get; set; } | Gets a metadata package containing the email headers. |
+| [InternetMessageId](../../groupdocs.metadata.formats.email/msgpackage/internetmessageid) { get; } | Gets the message id of the message. |
 | [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | Gets the [`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty) with the specified name. |
 | [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | Gets a collection of the metadata property names. |
 | [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | Gets the metadata type. |

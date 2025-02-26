@@ -3,7 +3,7 @@ title: Subject
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets or sets the email subject.
 type: docs
-weight: 70
+weight: 60
 url: /net/groupdocs.metadata.formats.email/emailpackage/subject/
 ---
 ## EmailPackage.Subject property

@@ -3,7 +3,7 @@ title: Cr2CropInfoIndex
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ids of Cr2CropInfo tags.
 type: docs
-weight: 2820
+weight: 2840
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2cropinfoindex/
 ---
 ## Cr2CropInfoIndex enumeration

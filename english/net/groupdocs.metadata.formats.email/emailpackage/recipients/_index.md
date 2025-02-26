@@ -3,7 +3,7 @@ title: Recipients
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets or sets the array of the email recipients.
 type: docs
-weight: 50
+weight: 40
 url: /net/groupdocs.metadata.formats.email/emailpackage/recipients/
 ---
 ## EmailPackage.Recipients property
