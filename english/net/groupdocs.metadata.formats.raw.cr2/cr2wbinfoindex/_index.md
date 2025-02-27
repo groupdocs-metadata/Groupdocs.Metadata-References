@@ -3,7 +3,7 @@ title: Cr2WBInfoIndex
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ids of Cr2WBInfo tags.
 type: docs
-weight: 3220
+weight: 3240
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2wbinfoindex/
 ---
 ## Cr2WBInfoIndex enumeration

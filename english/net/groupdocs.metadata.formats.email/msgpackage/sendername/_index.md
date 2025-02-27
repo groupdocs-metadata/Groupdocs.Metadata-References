@@ -3,7 +3,7 @@ title: SenderName
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the name of the sender.
 type: docs
-weight: 50
+weight: 100
 url: /net/groupdocs.metadata.formats.email/msgpackage/sendername/
 ---
 ## MsgPackage.SenderName property

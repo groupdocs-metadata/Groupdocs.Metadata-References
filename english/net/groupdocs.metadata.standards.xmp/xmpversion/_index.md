@@ -3,7 +3,7 @@ title: XmpVersion
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a version of a document.
 type: docs
-weight: 5080
+weight: 5100
 url: /net/groupdocs.metadata.standards.xmp/xmpversion/
 ---
 ## XmpVersion class

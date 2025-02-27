@@ -3,7 +3,7 @@ title: Body
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the email message text.
 type: docs
-weight: 10
+weight: 30
 url: /net/groupdocs.metadata.formats.email/msgpackage/body/
 ---
 ## MsgPackage.Body property

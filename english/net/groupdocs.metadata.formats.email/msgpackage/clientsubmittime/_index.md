@@ -3,7 +3,7 @@ title: ClientSubmitTime
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the date and time the message was submit.
 type: docs
-weight: 30
+weight: 70
 url: /net/groupdocs.metadata.formats.email/msgpackage/clientsubmittime/
 ---
 ## MsgPackage.ClientSubmitTime property

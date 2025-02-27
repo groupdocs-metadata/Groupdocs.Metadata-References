@@ -3,7 +3,7 @@ title: AsfExtendedStreamPropertyFlags
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ASF extended stream property flags.
 type: docs
-weight: 3660
+weight: 3680
 url: /net/groupdocs.metadata.formats.video/asfextendedstreampropertyflags/
 ---
 ## AsfExtendedStreamPropertyFlags enumeration

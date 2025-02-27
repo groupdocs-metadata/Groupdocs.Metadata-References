@@ -3,7 +3,7 @@ title: BlindCarbonCopyRecipients
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets or sets the array of BCC blind carbon copy recipients of the email message.
 type: docs
-weight: 20
+weight: 10
 url: /net/groupdocs.metadata.formats.email/emailpackage/blindcarboncopyrecipients/
 ---
 ## EmailPackage.BlindCarbonCopyRecipients property

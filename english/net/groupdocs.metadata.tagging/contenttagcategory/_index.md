@@ -3,7 +3,7 @@ title: ContentTagCategory
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Provides tags that are attached to metadata properties describing the content of a file. The tags are useful to find out the content language type genre subject rating etc.
 type: docs
-weight: 5090
+weight: 5110
 url: /net/groupdocs.metadata.tagging/contenttagcategory/
 ---
 ## ContentTagCategory class

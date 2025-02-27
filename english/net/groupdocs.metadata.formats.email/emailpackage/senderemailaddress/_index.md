@@ -3,7 +3,7 @@ title: SenderEmailAddress
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the email address of the sender.
 type: docs
-weight: 60
+weight: 50
 url: /net/groupdocs.metadata.formats.email/emailpackage/senderemailaddress/
 ---
 ## EmailPackage.SenderEmailAddress property

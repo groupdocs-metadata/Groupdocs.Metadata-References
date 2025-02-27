@@ -3,7 +3,7 @@ title: DeliveryTime
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the date and time the message was delivered.
 type: docs
-weight: 40
+weight: 80
 url: /net/groupdocs.metadata.formats.email/msgpackage/deliverytime/
 ---
 ## MsgPackage.DeliveryTime property

@@ -3,7 +3,7 @@ title: MpegEmphasis
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines MPEG emphasis types.
 type: docs
-weight: 2620
+weight: 2640
 url: /net/groupdocs.metadata.formats.mpeg/mpegemphasis/
 ---
 ## MpegEmphasis enumeration

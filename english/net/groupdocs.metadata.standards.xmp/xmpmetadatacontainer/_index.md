@@ -3,7 +3,7 @@ title: XmpMetadataContainer
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a container for XMP metadata properties.
 type: docs
-weight: 4920
+weight: 4940
 url: /net/groupdocs.metadata.standards.xmp/xmpmetadatacontainer/
 ---
 ## XmpMetadataContainer class

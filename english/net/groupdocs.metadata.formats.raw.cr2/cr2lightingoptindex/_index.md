@@ -3,7 +3,7 @@ title: Cr2LightingOptIndex
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ids of Cr2LightingOpt tags.
 type: docs
-weight: 2920
+weight: 2940
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2lightingoptindex/
 ---
 ## Cr2LightingOptIndex enumeration

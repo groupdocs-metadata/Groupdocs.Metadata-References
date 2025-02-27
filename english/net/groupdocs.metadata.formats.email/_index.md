@@ -12,11 +12,13 @@ The namespace contains classes representing saved email messages and their parts
 
 | Class | Description |
 | --- | --- |
+| [EmailAttachmentPackage](./emailattachmentpackage) | Represents a metadata package containing email attachment name. |
 | [EmailHeaderPackage](./emailheaderpackage) | Represents a metadata package containing email message headers. |
 | [EmailPackage](./emailpackage) | Represents email message metadata. |
 | [EmailRootPackage](./emailrootpackage) | Represents the root package allowing working with metadata in an email message. |
 | [EmlPackage](./emlpackage) | Represents EML message metadata. |
 | [EmlRootPackage](./emlrootpackage) | Represents the root package allowing working with metadata in an EML email message. |
+| [MsgAttachmentPackage](./msgattachmentpackage) | Represents a metadata package containing email attachment name and data. |
 | [MsgPackage](./msgpackage) | Represents MSG message metadata. |
 | [MsgRootPackage](./msgrootpackage) | Represents the root package allowing working with metadata in an MSG email message. |
 

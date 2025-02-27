@@ -3,7 +3,7 @@ title: AviHeader
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the AVIMAINHEADER structure in an AVI video.
 type: docs
-weight: 3740
+weight: 3760
 url: /net/groupdocs.metadata.formats.video/aviheader/
 ---
 ## AviHeader class

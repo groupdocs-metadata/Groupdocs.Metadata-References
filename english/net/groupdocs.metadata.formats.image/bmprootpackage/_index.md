@@ -3,7 +3,7 @@ title: BmpRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the root package intended to work with metadata in a BMP image.
 type: docs
-weight: 1970
+weight: 1990
 url: /net/groupdocs.metadata.formats.image/bmprootpackage/
 ---
 ## BmpRootPackage class

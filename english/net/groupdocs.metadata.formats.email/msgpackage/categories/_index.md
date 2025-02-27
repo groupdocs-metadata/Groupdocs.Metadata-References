@@ -3,7 +3,7 @@ title: Categories
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the array of categories or keywords.
 type: docs
-weight: 20
+weight: 60
 url: /net/groupdocs.metadata.formats.email/msgpackage/categories/
 ---
 ## MsgPackage.Categories property

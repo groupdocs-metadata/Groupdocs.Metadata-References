@@ -3,7 +3,7 @@ title: EmlPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents EML message metadata.
 type: docs
-weight: 1630
+weight: 1640
 url: /net/groupdocs.metadata.formats.email/emlpackage/
 ---
 ## EmlPackage class
@@ -18,7 +18,7 @@ public class EmlPackage : EmailPackage
 
 | Name | Description |
 | --- | --- |
-| [AttachedFileNames](../../groupdocs.metadata.formats.email/emailpackage/attachedfilenames) { get; } | Gets an array of the names of the attached files. |
+| [Attachments](../../groupdocs.metadata.formats.email/emlpackage/attachments) { get; set; } | Gets an array of the attached files. |
 | [BlindCarbonCopyRecipients](../../groupdocs.metadata.formats.email/emailpackage/blindcarboncopyrecipients) { get; set; } | Gets or sets the array of BCC (blind carbon copy) recipients of the email message. |
 | [CarbonCopyRecipients](../../groupdocs.metadata.formats.email/emailpackage/carboncopyrecipients) { get; set; } | Gets or sets the array of CC (carbon copy) recipients of the email message. |
 | [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | Gets the number of metadata properties. |
