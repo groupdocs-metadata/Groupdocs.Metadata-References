@@ -3,7 +3,7 @@ title: GroupDocs.Metadata.Formats.Ebook
 second_title: GroupDocs.Metadata for .NET API Reference
 description: The namespace provides functionality for working with electronic book formats.
 type: docs
-weight: 100
+weight: 110
 url: /net/groupdocs.metadata.formats.ebook/
 ---
 The namespace provides functionality for working with electronic book formats.

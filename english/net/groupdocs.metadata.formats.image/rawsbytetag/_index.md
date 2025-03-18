@@ -3,7 +3,7 @@ title: RawSByteTag
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a Raw SByte tag.
 type: docs
-weight: 2330
+weight: 2360
 url: /net/groupdocs.metadata.formats.image/rawsbytetag/
 ---
 ## RawSByteTag class
@@ -38,6 +38,7 @@ public sealed class RawSByteTag : RawArrayTag<sbyte>
 | Name | Description |
 | --- | --- |
 | override [Equals](../../groupdocs.metadata.formats.image/rawsbytetag/equals)(object) | Equals method. |
+| override [GetHashCode](../../groupdocs.metadata.formats.image/rawsbytetag/gethashcode)() | GetHashCode method. |
 
 ### See Also
 

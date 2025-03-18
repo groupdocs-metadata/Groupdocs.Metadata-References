@@ -3,7 +3,7 @@ title: PdfInspectionPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Contains information about PDF document parts that can be considered as metadata in some cases.
 type: docs
-weight: 1160
+weight: 1190
 url: /net/groupdocs.metadata.formats.document/pdfinspectionpackage/
 ---
 ## PdfInspectionPackage class

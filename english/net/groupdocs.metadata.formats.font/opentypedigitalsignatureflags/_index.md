@@ -3,7 +3,7 @@ title: OpenTypeDigitalSignatureFlags
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents OpenType font digital signature flags.
 type: docs
-weight: 1710
+weight: 1740
 url: /net/groupdocs.metadata.formats.font/opentypedigitalsignatureflags/
 ---
 ## OpenTypeDigitalSignatureFlags enumeration

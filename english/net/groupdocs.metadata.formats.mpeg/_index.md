@@ -3,7 +3,7 @@ title: GroupDocs.Metadata.Formats.Mpeg
 second_title: GroupDocs.Metadata for .NET API Reference
 description: The namespace provides functionality allowing users to work with metadata of various MPEG standards.
 type: docs
-weight: 190
+weight: 200
 url: /net/groupdocs.metadata.formats.mpeg/
 ---
 The namespace provides functionality allowing users to work with metadata of various MPEG standards.

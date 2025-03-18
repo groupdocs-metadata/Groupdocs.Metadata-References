@@ -3,7 +3,7 @@ title: Jpeg2000Package
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents native JPEG2000 metadata.
 type: docs
-weight: 2140
+weight: 2170
 url: /net/groupdocs.metadata.formats.image/jpeg2000package/
 ---
 ## Jpeg2000Package class

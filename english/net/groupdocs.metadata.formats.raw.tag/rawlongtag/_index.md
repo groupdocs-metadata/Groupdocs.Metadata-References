@@ -3,7 +3,7 @@ title: RawLongTag
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a Raw Long tag.
 type: docs
-weight: 3450
+weight: 3480
 url: /net/groupdocs.metadata.formats.raw.tag/rawlongtag/
 ---
 ## RawLongTag class
@@ -38,6 +38,7 @@ public sealed class RawLongTag : RawArrayTag<uint>
 | Name | Description |
 | --- | --- |
 | override [Equals](../../groupdocs.metadata.formats.raw.tag/rawlongtag/equals)(object) | Equals method. |
+| override [GetHashCode](../../groupdocs.metadata.formats.raw.tag/rawlongtag/gethashcode)() | GetHashCode method. |
 
 ### See Also
 

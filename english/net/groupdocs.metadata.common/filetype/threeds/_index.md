@@ -3,7 +3,7 @@ title: THREEDS
 second_title: GroupDocs.Metadata for .NET API Reference
 description: A file with .3ds extension represents 3D Sudio DOS mesh file format used by Autodesk 3D Studio. Autodesk 3D Studio has been in 3D file format market since 1990s and has now evolved to 3D Studio MAX for working with 3D modeling animation and rendering. herehttps//wiki.fileformat.com/3d/3ds/.
 type: docs
-weight: 790
+weight: 800
 url: /net/groupdocs.metadata.common/filetype/threeds/
 ---
 ## FileType.THREEDS field

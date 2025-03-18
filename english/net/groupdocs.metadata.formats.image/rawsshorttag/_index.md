@@ -3,7 +3,7 @@ title: RawSShortTag
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a Raw SShort tag.
 type: docs
-weight: 2370
+weight: 2400
 url: /net/groupdocs.metadata.formats.image/rawsshorttag/
 ---
 ## RawSShortTag class
@@ -38,6 +38,7 @@ public sealed class RawSShortTag : RawArrayTag<short>
 | Name | Description |
 | --- | --- |
 | override [Equals](../../groupdocs.metadata.formats.image/rawsshorttag/equals)(object) | Equals method |
+| override [GetHashCode](../../groupdocs.metadata.formats.image/rawsshorttag/gethashcode)() | GetHashCode method. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: RawUndefinedTag
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a Raw tag with the Undefined type.
 type: docs
-weight: 2390
+weight: 2420
 url: /net/groupdocs.metadata.formats.image/rawundefinedtag/
 ---
 ## RawUndefinedTag class
@@ -38,6 +38,7 @@ public sealed class RawUndefinedTag : RawArrayTag<byte>
 | Name | Description |
 | --- | --- |
 | override [Equals](../../groupdocs.metadata.formats.raw.tag/rawarraytag-1/equals)(object) |  |
+| override [GetHashCode](../../groupdocs.metadata.formats.raw.tag/rawarraytag-1/gethashcode)() |  |
 
 ### See Also
 

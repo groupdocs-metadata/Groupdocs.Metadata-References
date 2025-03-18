@@ -3,7 +3,7 @@ title: Content
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the last attachment data on byte array.
 type: docs
-weight: 10
+weight: 20
 url: /net/groupdocs.metadata.formats.email/msgattachmentpackage/content/
 ---
 ## MsgAttachmentPackage.Content property

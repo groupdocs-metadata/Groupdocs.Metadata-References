@@ -3,7 +3,7 @@ title: GroupDocs.Metadata.Formats.Email
 second_title: GroupDocs.Metadata for .NET API Reference
 description: The namespace contains classes representing saved email messages and their parts.
 type: docs
-weight: 130
+weight: 140
 url: /net/groupdocs.metadata.formats.email/
 ---
 The namespace contains classes representing saved email messages and their parts.

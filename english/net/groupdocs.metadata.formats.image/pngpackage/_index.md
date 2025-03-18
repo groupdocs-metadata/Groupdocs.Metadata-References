@@ -3,7 +3,7 @@ title: PngPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents native PNG metadata.
 type: docs
-weight: 2200
+weight: 2230
 url: /net/groupdocs.metadata.formats.image/pngpackage/
 ---
 ## PngPackage class

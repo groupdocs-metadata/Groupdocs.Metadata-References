@@ -3,7 +3,7 @@ title: CadPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents CAD Computeraided design metadata.
 type: docs
-weight: 980
+weight: 1010
 url: /net/groupdocs.metadata.formats.cad/cadpackage/
 ---
 ## CadPackage class

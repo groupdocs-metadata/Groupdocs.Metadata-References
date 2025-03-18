@@ -3,7 +3,7 @@ title: XmpRightsManagementPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents XMP Rights Management namespace.
 type: docs
-weight: 4690
+weight: 4720
 url: /net/groupdocs.metadata.standards.xmp.schemes/xmprightsmanagementpackage/
 ---
 ## XmpRightsManagementPackage class

@@ -3,7 +3,7 @@ title: ThreeDSNode
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents metadata associated with an .3ds file.
 type: docs
-weight: 3580
+weight: 3610
 url: /net/groupdocs.metadata.formats.threed.threeds/threedsnode/
 ---
 ## ThreeDSNode class

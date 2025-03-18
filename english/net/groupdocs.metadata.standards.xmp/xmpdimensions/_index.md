@@ -3,7 +3,7 @@ title: XmpDimensions
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Containing dimensions for a drawn object.
 type: docs
-weight: 4850
+weight: 4880
 url: /net/groupdocs.metadata.standards.xmp/xmpdimensions/
 ---
 ## XmpDimensions class

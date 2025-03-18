@@ -3,7 +3,7 @@ title: GroupDocs.Metadata.Formats.Ebook.Mobi
 second_title: GroupDocs.Metadata for .NET API Reference
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /net/groupdocs.metadata.formats.ebook.mobi/
 ---
 

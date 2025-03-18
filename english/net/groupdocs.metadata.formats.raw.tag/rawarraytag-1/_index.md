@@ -3,7 +3,7 @@ title: RawArrayTagT
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents an arraybased TIFF tag.
 type: docs
-weight: 3420
+weight: 3450
 url: /net/groupdocs.metadata.formats.raw.tag/rawarraytag-1/
 ---
 ## RawArrayTag&lt;T&gt; class
@@ -36,6 +36,7 @@ public abstract class RawArrayTag<T> : RawTag
 | Name | Description |
 | --- | --- |
 | override [Equals](../../groupdocs.metadata.formats.raw.tag/rawarraytag-1/equals)(object) | Equals method. |
+| override [GetHashCode](../../groupdocs.metadata.formats.raw.tag/rawarraytag-1/gethashcode)() | GetHashCode method. |
 
 ### See Also
 

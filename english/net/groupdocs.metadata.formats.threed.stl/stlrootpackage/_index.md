@@ -3,7 +3,7 @@ title: StlRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents .stl file metadata.
 type: docs
-weight: 3570
+weight: 3600
 url: /net/groupdocs.metadata.formats.threed.stl/stlrootpackage/
 ---
 ## StlRootPackage class
