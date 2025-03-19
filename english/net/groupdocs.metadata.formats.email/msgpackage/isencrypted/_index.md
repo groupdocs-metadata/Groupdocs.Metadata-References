@@ -1,22 +1,22 @@
 ---
-title: DeliveryTime
+title: IsEncrypted
 second_title: GroupDocs.Metadata for .NET API Reference
-description: Gets the date and time the message was delivered.
+description: Gets the Is Encrypted.
 type: docs
-weight: 90
-url: /net/groupdocs.metadata.formats.email/msgpackage/deliverytime/
+weight: 160
+url: /net/groupdocs.metadata.formats.email/msgpackage/isencrypted/
 ---
-## MsgPackage.DeliveryTime property
+## MsgPackage.IsEncrypted property
 
-Gets the date and time the message was delivered.
+Gets the Is Encrypted.
 
 ```csharp
-public DateTime DeliveryTime { get; set; }
+public bool IsEncrypted { get; }
 ```
 
 ### Property Value
 
-The delivery time.
+The Is Encrypted.
 
 ### See Also
 

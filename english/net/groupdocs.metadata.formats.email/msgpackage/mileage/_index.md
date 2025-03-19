@@ -1,22 +1,22 @@
 ---
-title: DeliveryTime
+title: Mileage
 second_title: GroupDocs.Metadata for .NET API Reference
-description: Gets the date and time the message was delivered.
+description: Gets the Mileage.
 type: docs
-weight: 90
-url: /net/groupdocs.metadata.formats.email/msgpackage/deliverytime/
+weight: 190
+url: /net/groupdocs.metadata.formats.email/msgpackage/mileage/
 ---
-## MsgPackage.DeliveryTime property
+## MsgPackage.Mileage property
 
-Gets the date and time the message was delivered.
+Gets the Mileage.
 
 ```csharp
-public DateTime DeliveryTime { get; set; }
+public string Mileage { get; set; }
 ```
 
 ### Property Value
 
-The delivery time.
+The Mileage.
 
 ### See Also
 

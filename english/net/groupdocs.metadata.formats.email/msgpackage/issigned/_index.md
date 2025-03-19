@@ -1,22 +1,22 @@
 ---
-title: DeliveryTime
+title: IsSigned
 second_title: GroupDocs.Metadata for .NET API Reference
-description: Gets the date and time the message was delivered.
+description: Gets the Is Signed.
 type: docs
-weight: 90
-url: /net/groupdocs.metadata.formats.email/msgpackage/deliverytime/
+weight: 170
+url: /net/groupdocs.metadata.formats.email/msgpackage/issigned/
 ---
-## MsgPackage.DeliveryTime property
+## MsgPackage.IsSigned property
 
-Gets the date and time the message was delivered.
+Gets the Is Signed.
 
 ```csharp
-public DateTime DeliveryTime { get; set; }
+public bool IsSigned { get; }
 ```
 
 ### Property Value
 
-The delivery time.
+The Is Signed.
 
 ### See Also
 

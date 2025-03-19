@@ -1,22 +1,22 @@
 ---
-title: DeliveryTime
+title: IsTemplate
 second_title: GroupDocs.Metadata for .NET API Reference
-description: Gets the date and time the message was delivered.
+description: Gets the Is Template.
 type: docs
-weight: 90
-url: /net/groupdocs.metadata.formats.email/msgpackage/deliverytime/
+weight: 180
+url: /net/groupdocs.metadata.formats.email/msgpackage/istemplate/
 ---
-## MsgPackage.DeliveryTime property
+## MsgPackage.IsTemplate property
 
-Gets the date and time the message was delivered.
+Gets the Is Template.
 
 ```csharp
-public DateTime DeliveryTime { get; set; }
+public bool IsTemplate { get; }
 ```
 
 ### Property Value
 
-The delivery time.
+The Is Template.
 
 ### See Also
 

@@ -1,22 +1,22 @@
 ---
-title: DeliveryTime
+title: ReadReceiptRequested
 second_title: GroupDocs.Metadata for .NET API Reference
-description: Gets the date and time the message was delivered.
+description: Gets the Read Receipt Requested.
 type: docs
-weight: 90
-url: /net/groupdocs.metadata.formats.email/msgpackage/deliverytime/
+weight: 210
+url: /net/groupdocs.metadata.formats.email/msgpackage/readreceiptrequested/
 ---
-## MsgPackage.DeliveryTime property
+## MsgPackage.ReadReceiptRequested property
 
-Gets the date and time the message was delivered.
+Gets the Read Receipt Requested.
 
 ```csharp
-public DateTime DeliveryTime { get; set; }
+public bool ReadReceiptRequested { get; set; }
 ```
 
 ### Property Value
 
-The delivery time.
+The Read Receipt Requested.
 
 ### See Also
 

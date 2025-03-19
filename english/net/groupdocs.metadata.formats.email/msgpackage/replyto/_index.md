@@ -1,22 +1,22 @@
 ---
-title: DeliveryTime
+title: ReplyTo
 second_title: GroupDocs.Metadata for .NET API Reference
-description: Gets the date and time the message was delivered.
+description: Gets the Reply To.
 type: docs
-weight: 90
-url: /net/groupdocs.metadata.formats.email/msgpackage/deliverytime/
+weight: 220
+url: /net/groupdocs.metadata.formats.email/msgpackage/replyto/
 ---
-## MsgPackage.DeliveryTime property
+## MsgPackage.ReplyTo property
 
-Gets the date and time the message was delivered.
+Gets the Reply To.
 
 ```csharp
-public DateTime DeliveryTime { get; set; }
+public string ReplyTo { get; set; }
 ```
 
 ### Property Value
 
-The delivery time.
+The Reply To.
 
 ### See Also
 

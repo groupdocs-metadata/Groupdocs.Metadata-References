@@ -1,22 +1,22 @@
 ---
-title: DeliveryTime
+title: DisplayCc
 second_title: GroupDocs.Metadata for .NET API Reference
-description: Gets the date and time the message was delivered.
+description: Gets the Display Cc.
 type: docs
-weight: 90
-url: /net/groupdocs.metadata.formats.email/msgpackage/deliverytime/
+weight: 110
+url: /net/groupdocs.metadata.formats.email/msgpackage/displaycc/
 ---
-## MsgPackage.DeliveryTime property
+## MsgPackage.DisplayCc property
 
-Gets the date and time the message was delivered.
+Gets the Display Cc.
 
 ```csharp
-public DateTime DeliveryTime { get; set; }
+public string DisplayCc { get; }
 ```
 
 ### Property Value
 
-The delivery time.
+The Display Cc.
 
 ### See Also
 

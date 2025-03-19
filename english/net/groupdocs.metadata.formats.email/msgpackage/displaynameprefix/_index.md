@@ -1,22 +1,22 @@
 ---
-title: DeliveryTime
+title: DisplayNamePrefix
 second_title: GroupDocs.Metadata for .NET API Reference
-description: Gets the date and time the message was delivered.
+description: Gets the Display Name Prefix.
 type: docs
-weight: 90
-url: /net/groupdocs.metadata.formats.email/msgpackage/deliverytime/
+weight: 130
+url: /net/groupdocs.metadata.formats.email/msgpackage/displaynameprefix/
 ---
-## MsgPackage.DeliveryTime property
+## MsgPackage.DisplayNamePrefix property
 
-Gets the date and time the message was delivered.
+Gets the Display Name Prefix.
 
 ```csharp
-public DateTime DeliveryTime { get; set; }
+public string DisplayNamePrefix { get; }
 ```
 
 ### Property Value
 
-The delivery time.
+The Display Name Prefix.
 
 ### See Also
 

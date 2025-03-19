@@ -1,22 +1,22 @@
 ---
-title: DeliveryTime
+title: ConversationTopic
 second_title: GroupDocs.Metadata for .NET API Reference
-description: Gets the date and time the message was delivered.
+description: Gets the Conversation Topic.
 type: docs
-weight: 90
-url: /net/groupdocs.metadata.formats.email/msgpackage/deliverytime/
+weight: 80
+url: /net/groupdocs.metadata.formats.email/msgpackage/conversationtopic/
 ---
-## MsgPackage.DeliveryTime property
+## MsgPackage.ConversationTopic property
 
-Gets the date and time the message was delivered.
+Gets the Conversation Topic.
 
 ```csharp
-public DateTime DeliveryTime { get; set; }
+public string ConversationTopic { get; }
 ```
 
 ### Property Value
 
-The delivery time.
+The Conversation Topic.
 
 ### See Also
 

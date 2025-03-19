@@ -1,22 +1,22 @@
 ---
-title: DeliveryTime
+title: DisplayBcc
 second_title: GroupDocs.Metadata for .NET API Reference
-description: Gets the date and time the message was delivered.
+description: Gets the Display Bcc.
 type: docs
-weight: 90
-url: /net/groupdocs.metadata.formats.email/msgpackage/deliverytime/
+weight: 100
+url: /net/groupdocs.metadata.formats.email/msgpackage/displaybcc/
 ---
-## MsgPackage.DeliveryTime property
+## MsgPackage.DisplayBcc property
 
-Gets the date and time the message was delivered.
+Gets the Display Bcc.
 
 ```csharp
-public DateTime DeliveryTime { get; set; }
+public string DisplayBcc { get; }
 ```
 
 ### Property Value
 
-The delivery time.
+The Display Bcc.
 
 ### See Also
 

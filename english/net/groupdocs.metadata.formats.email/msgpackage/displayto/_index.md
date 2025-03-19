@@ -1,22 +1,22 @@
 ---
-title: DeliveryTime
+title: DisplayTo
 second_title: GroupDocs.Metadata for .NET API Reference
-description: Gets the date and time the message was delivered.
+description: Gets the Display To.
 type: docs
-weight: 90
-url: /net/groupdocs.metadata.formats.email/msgpackage/deliverytime/
+weight: 140
+url: /net/groupdocs.metadata.formats.email/msgpackage/displayto/
 ---
-## MsgPackage.DeliveryTime property
+## MsgPackage.DisplayTo property
 
-Gets the date and time the message was delivered.
+Gets the Display To.
 
 ```csharp
-public DateTime DeliveryTime { get; set; }
+public string DisplayTo { get; }
 ```
 
 ### Property Value
 
-The delivery time.
+The Display To.
 
 ### See Also
 

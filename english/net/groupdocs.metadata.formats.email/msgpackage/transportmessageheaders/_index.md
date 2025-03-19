@@ -1,22 +1,22 @@
 ---
-title: DeliveryTime
+title: TransportMessageHeaders
 second_title: GroupDocs.Metadata for .NET API Reference
-description: Gets the date and time the message was delivered.
+description: Gets the Transport Message Headers.
 type: docs
-weight: 90
-url: /net/groupdocs.metadata.formats.email/msgpackage/deliverytime/
+weight: 310
+url: /net/groupdocs.metadata.formats.email/msgpackage/transportmessageheaders/
 ---
-## MsgPackage.DeliveryTime property
+## MsgPackage.TransportMessageHeaders property
 
-Gets the date and time the message was delivered.
+Gets the Transport Message Headers.
 
 ```csharp
-public DateTime DeliveryTime { get; set; }
+public string TransportMessageHeaders { get; }
 ```
 
 ### Property Value
 
-The delivery time.
+The Transport Message Headers.
 
 ### See Also
 

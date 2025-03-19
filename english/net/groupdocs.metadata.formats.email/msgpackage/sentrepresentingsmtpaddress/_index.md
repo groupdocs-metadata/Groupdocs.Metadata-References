@@ -1,22 +1,22 @@
 ---
-title: DeliveryTime
+title: SentRepresentingSmtpAddress
 second_title: GroupDocs.Metadata for .NET API Reference
-description: Gets the date and time the message was delivered.
+description: Gets the Sent Representing Smtp Address.
 type: docs
-weight: 90
-url: /net/groupdocs.metadata.formats.email/msgpackage/deliverytime/
+weight: 290
+url: /net/groupdocs.metadata.formats.email/msgpackage/sentrepresentingsmtpaddress/
 ---
-## MsgPackage.DeliveryTime property
+## MsgPackage.SentRepresentingSmtpAddress property
 
-Gets the date and time the message was delivered.
+Gets the Sent Representing Smtp Address.
 
 ```csharp
-public DateTime DeliveryTime { get; set; }
+public string SentRepresentingSmtpAddress { get; }
 ```
 
 ### Property Value
 
-The delivery time.
+The Sent Representing Smtp Address.
 
 ### See Also
 

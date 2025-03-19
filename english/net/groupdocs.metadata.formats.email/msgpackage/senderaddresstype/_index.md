@@ -1,22 +1,22 @@
 ---
-title: DeliveryTime
+title: SenderAddressType
 second_title: GroupDocs.Metadata for .NET API Reference
-description: Gets the date and time the message was delivered.
+description: Gets the Sender Address Type.
 type: docs
-weight: 90
-url: /net/groupdocs.metadata.formats.email/msgpackage/deliverytime/
+weight: 230
+url: /net/groupdocs.metadata.formats.email/msgpackage/senderaddresstype/
 ---
-## MsgPackage.DeliveryTime property
+## MsgPackage.SenderAddressType property
 
-Gets the date and time the message was delivered.
+Gets the Sender Address Type.
 
 ```csharp
-public DateTime DeliveryTime { get; set; }
+public string SenderAddressType { get; }
 ```
 
 ### Property Value
 
-The delivery time.
+The Sender Address Type.
 
 ### See Also
 

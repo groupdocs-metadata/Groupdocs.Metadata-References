@@ -1,22 +1,22 @@
 ---
-title: DeliveryTime
+title: NormalizedSubject
 second_title: GroupDocs.Metadata for .NET API Reference
-description: Gets the date and time the message was delivered.
+description: Gets the Normalized Subject.
 type: docs
-weight: 90
-url: /net/groupdocs.metadata.formats.email/msgpackage/deliverytime/
+weight: 200
+url: /net/groupdocs.metadata.formats.email/msgpackage/normalizedsubject/
 ---
-## MsgPackage.DeliveryTime property
+## MsgPackage.NormalizedSubject property
 
-Gets the date and time the message was delivered.
+Gets the Normalized Subject.
 
 ```csharp
-public DateTime DeliveryTime { get; set; }
+public string NormalizedSubject { get; }
 ```
 
 ### Property Value
 
-The delivery time.
+The Normalized Subject.
 
 ### See Also
 
