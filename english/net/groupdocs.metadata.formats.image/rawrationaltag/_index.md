@@ -3,7 +3,7 @@ title: RawRationalTag
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a Raw Rational tag.
 type: docs
-weight: 2320
+weight: 2350
 url: /net/groupdocs.metadata.formats.image/rawrationaltag/
 ---
 ## RawRationalTag class
@@ -38,6 +38,7 @@ public sealed class RawRationalTag : RawArrayTag<RawRational>
 | Name | Description |
 | --- | --- |
 | override [Equals](../../groupdocs.metadata.formats.image/rawrationaltag/equals)(object) | Equals method. |
+| override [GetHashCode](../../groupdocs.metadata.formats.image/rawrationaltag/gethashcode)() | GetHashCode method. |
 
 ### See Also
 

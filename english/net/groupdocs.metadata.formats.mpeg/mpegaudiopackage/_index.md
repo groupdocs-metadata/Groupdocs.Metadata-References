@@ -3,7 +3,7 @@ title: MpegAudioPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents MPEG audio metadata.
 type: docs
-weight: 2610
+weight: 2640
 url: /net/groupdocs.metadata.formats.mpeg/mpegaudiopackage/
 ---
 ## MpegAudioPackage class

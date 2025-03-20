@@ -3,7 +3,7 @@ title: PDF
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Portable Document Format PDF is a type of document created by Adobe back in 1990s. The purpose of this file format was to introduce a standard for representation of documents and other reference material in a format that is independent of application software hardware as well as Operating System. Learn more about this file format herehttps//docs.fileformat.com/pdf/.
 type: docs
-weight: 610
+weight: 620
 url: /net/groupdocs.metadata.common/filetype/pdf/
 ---
 ## FileType.PDF field

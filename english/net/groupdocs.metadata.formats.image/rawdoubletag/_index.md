@@ -3,7 +3,7 @@ title: RawDoubleTag
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a Raw Double tag.
 type: docs
-weight: 2290
+weight: 2320
 url: /net/groupdocs.metadata.formats.image/rawdoubletag/
 ---
 ## RawDoubleTag class
@@ -38,6 +38,7 @@ public sealed class RawDoubleTag : RawArrayTag<double>
 | Name | Description |
 | --- | --- |
 | override [Equals](../../groupdocs.metadata.formats.image/rawdoubletag/equals)(object) | Equals method. |
+| override [GetHashCode](../../groupdocs.metadata.formats.image/rawdoubletag/gethashcode)() | GetHashCode method. |
 
 ### See Also
 

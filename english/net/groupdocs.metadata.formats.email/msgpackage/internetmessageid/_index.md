@@ -3,7 +3,7 @@ title: InternetMessageId
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the message id of the message.
 type: docs
-weight: 90
+weight: 150
 url: /net/groupdocs.metadata.formats.email/msgpackage/internetmessageid/
 ---
 ## MsgPackage.InternetMessageId property

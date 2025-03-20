@@ -3,7 +3,7 @@ title: VCardCard
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a single card extracted from a VCard file.
 type: docs
-weight: 790
+weight: 820
 url: /net/groupdocs.metadata.formats.businesscard/vcardcard/
 ---
 ## VCardCard class

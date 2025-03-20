@@ -3,7 +3,7 @@ title: GroupDocs.Metadata.Formats.Raw
 second_title: GroupDocs.Metadata for .NET API Reference
 description: 
 type: docs
-weight: 210
+weight: 220
 url: /net/groupdocs.metadata.formats.raw/
 ---
 

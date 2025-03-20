@@ -3,7 +3,7 @@ title: GroupDocs.Metadata.Formats.Document
 second_title: GroupDocs.Metadata for .NET API Reference
 description: The namespace provides functionality intended to work with a variety of document formats such as spreadsheets presentations text processing formats etc.
 type: docs
-weight: 90
+weight: 100
 url: /net/groupdocs.metadata.formats.document/
 ---
 The namespace provides functionality intended to work with a variety of document formats such as spreadsheets, presentations, text processing formats, etc.

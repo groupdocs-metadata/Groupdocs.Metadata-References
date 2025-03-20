@@ -3,7 +3,7 @@ title: CmsCertificate
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a CMS certificate.
 type: docs
-weight: 4450
+weight: 4480
 url: /net/groupdocs.metadata.standards.pkcs/cmscertificate/
 ---
 ## CmsCertificate class

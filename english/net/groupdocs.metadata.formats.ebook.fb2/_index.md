@@ -3,7 +3,7 @@ title: GroupDocs.Metadata.Formats.Ebook.Fb2
 second_title: GroupDocs.Metadata for .NET API Reference
 description: 
 type: docs
-weight: 110
+weight: 120
 url: /net/groupdocs.metadata.formats.ebook.fb2/
 ---
 

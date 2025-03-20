@@ -3,7 +3,7 @@ title: RawFloatTag
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a Raw float tag.
 type: docs
-weight: 2300
+weight: 2330
 url: /net/groupdocs.metadata.formats.image/rawfloattag/
 ---
 ## RawFloatTag class
@@ -38,6 +38,7 @@ public sealed class RawFloatTag : RawArrayTag<float>
 | Name | Description |
 | --- | --- |
 | override [Equals](../../groupdocs.metadata.formats.image/rawfloattag/equals)(object) | Equals method |
+| override [GetHashCode](../../groupdocs.metadata.formats.image/rawfloattag/gethashcode)() | GetHashCode method. |
 
 ### See Also
 

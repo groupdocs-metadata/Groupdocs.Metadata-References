@@ -18,6 +18,7 @@ version:
 | [GroupDocs.Metadata.Export](./groupdocs.metadata.export) | The namespace contains classes that allow users to export metadata properties to different representations. |
 | [GroupDocs.Metadata.Formats.Archive](./groupdocs.metadata.formats.archive) | The namespace contains classes for working with archive formats. |
 | [GroupDocs.Metadata.Formats.Audio](./groupdocs.metadata.formats.audio) | The namespace provides classes intended to work with different audio formats. |
+| [GroupDocs.Metadata.Formats.Audio.Ogg](./groupdocs.metadata.formats.audio.ogg) |  |
 | [GroupDocs.Metadata.Formats.BusinessCard](./groupdocs.metadata.formats.businesscard) | The namespace contains classes intended to work with electronic business card formats. |
 | [GroupDocs.Metadata.Formats.Cad](./groupdocs.metadata.formats.cad) | The namespace contains classes for working with CAD (computer-aided design) formats. |
 | [GroupDocs.Metadata.Formats.Document](./groupdocs.metadata.formats.document) | The namespace provides functionality intended to work with a variety of document formats such as spreadsheets, presentations, text processing formats, etc. |

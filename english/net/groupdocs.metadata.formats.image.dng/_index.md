@@ -3,7 +3,7 @@ title: GroupDocs.Metadata.Formats.Image.Dng
 second_title: GroupDocs.Metadata for .NET API Reference
 description: 
 type: docs
-weight: 180
+weight: 190
 url: /net/groupdocs.metadata.formats.image.dng/
 ---
 

@@ -3,7 +3,7 @@ title: SpreadsheetSheet
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a sheet in a spreadsheet document.
 type: docs
-weight: 1360
+weight: 1390
 url: /net/groupdocs.metadata.formats.document/spreadsheetsheet/
 ---
 ## SpreadsheetSheet class

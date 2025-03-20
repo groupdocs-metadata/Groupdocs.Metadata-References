@@ -3,7 +3,7 @@ title: XLSX
 second_title: GroupDocs.Metadata for .NET API Reference
 description: XLSX is wellknown format for Microsoft Excel documents that was introduced by Microsoft with the release of Microsoft Office 2007. Learn more about this file format herehttps//wiki.fileformat.com/specification/spreadsheet/xlsx/.
 type: docs
-weight: 1020
+weight: 1030
 url: /net/groupdocs.metadata.common/filetype/xlsx/
 ---
 ## FileType.XLSX field

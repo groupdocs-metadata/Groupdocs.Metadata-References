@@ -3,7 +3,7 @@ title: Extension
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the file extension.
 type: docs
-weight: 1100
+weight: 1110
 url: /net/groupdocs.metadata.common/filetype/extension/
 ---
 ## FileType.Extension property

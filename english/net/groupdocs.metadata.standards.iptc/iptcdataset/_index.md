@@ -3,7 +3,7 @@ title: IptcDataSet
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents an IPTC DataSet metadata property.
 type: docs
-weight: 4370
+weight: 4400
 url: /net/groupdocs.metadata.standards.iptc/iptcdataset/
 ---
 ## IptcDataSet class

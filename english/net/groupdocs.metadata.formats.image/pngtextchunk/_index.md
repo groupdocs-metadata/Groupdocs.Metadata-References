@@ -3,7 +3,7 @@ title: PngTextChunk
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents textual data extracted from a PNG image.
 type: docs
-weight: 2220
+weight: 2250
 url: /net/groupdocs.metadata.formats.image/pngtextchunk/
 ---
 ## PngTextChunk class

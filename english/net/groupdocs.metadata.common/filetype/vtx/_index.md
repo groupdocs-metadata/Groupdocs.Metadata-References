@@ -3,7 +3,7 @@ title: VTX
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Files with .VTX extension refer to Microsoft Visio drawing template that is saved to disc in XML file format. Learn more about this file format herehttps//docs.fileformat.com/visio/vtx/.
 type: docs
-weight: 940
+weight: 950
 url: /net/groupdocs.metadata.common/filetype/vtx/
 ---
 ## FileType.VTX field

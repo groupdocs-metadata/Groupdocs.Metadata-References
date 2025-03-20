@@ -3,7 +3,7 @@ title: PDBHeader
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents metadata in a Mobi ebook.
 type: docs
-weight: 1590
+weight: 1620
 url: /net/groupdocs.metadata.formats.ebook.mobi/pdbheader/
 ---
 ## PDBHeader class

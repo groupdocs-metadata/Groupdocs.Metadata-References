@@ -3,7 +3,7 @@ title: XmpPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents base abstraction for XMP package.
 type: docs
-weight: 4960
+weight: 4990
 url: /net/groupdocs.metadata.standards.xmp/xmppackage/
 ---
 ## XmpPackage class
