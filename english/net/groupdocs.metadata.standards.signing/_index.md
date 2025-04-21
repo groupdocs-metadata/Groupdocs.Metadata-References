@@ -3,7 +3,7 @@ title: GroupDocs.Metadata.Standards.Signing
 second_title: GroupDocs.Metadata for .NET API Reference
 description: The namespace provides base functionality intended to work with digital signatures.
 type: docs
-weight: 390
+weight: 400
 url: /net/groupdocs.metadata.standards.signing/
 ---
 The namespace provides base functionality intended to work with digital signatures.

@@ -3,7 +3,7 @@ title: ImageResourceID
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Image resources standard ID numbers. Not all file formats use all IDs. Some information may be stored in other sections of the file.
 type: docs
-weight: 2130
+weight: 2140
 url: /net/groupdocs.metadata.formats.image/imageresourceid/
 ---
 ## ImageResourceID enumeration

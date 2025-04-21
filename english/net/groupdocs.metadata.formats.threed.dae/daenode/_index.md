@@ -3,7 +3,7 @@ title: DaeNode
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents metadata associated with an .dae file.
 type: docs
-weight: 3520
+weight: 3530
 url: /net/groupdocs.metadata.formats.threed.dae/daenode/
 ---
 ## DaeNode class

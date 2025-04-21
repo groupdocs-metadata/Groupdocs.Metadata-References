@@ -3,7 +3,7 @@ title: XmpValueBase
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents base XMP value.
 type: docs
-weight: 5120
+weight: 5130
 url: /net/groupdocs.metadata.standards.xmp/xmpvaluebase/
 ---
 ## XmpValueBase class

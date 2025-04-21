@@ -3,7 +3,7 @@ title: JpegRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the root package allowing working with metadata in a JPEG image.
 type: docs
-weight: 2190
+weight: 2200
 url: /net/groupdocs.metadata.formats.image/jpegrootpackage/
 ---
 ## JpegRootPackage class

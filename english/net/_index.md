@@ -26,6 +26,7 @@ version:
 | [GroupDocs.Metadata.Formats.Ebook.Fb2](./groupdocs.metadata.formats.ebook.fb2) |  |
 | [GroupDocs.Metadata.Formats.Ebook.Mobi](./groupdocs.metadata.formats.ebook.mobi) |  |
 | [GroupDocs.Metadata.Formats.Email](./groupdocs.metadata.formats.email) | The namespace contains classes representing saved email messages and their parts. |
+| [GroupDocs.Metadata.Formats.Email.Msg](./groupdocs.metadata.formats.email.msg) |  |
 | [GroupDocs.Metadata.Formats.Fb2](./groupdocs.metadata.formats.fb2) |  |
 | [GroupDocs.Metadata.Formats.Font](./groupdocs.metadata.formats.font) | The namespace contains classes allowing users to work with formats representing scalable computer fonts. |
 | [GroupDocs.Metadata.Formats.Gis](./groupdocs.metadata.formats.gis) |  |

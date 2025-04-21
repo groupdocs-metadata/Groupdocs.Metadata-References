@@ -3,7 +3,7 @@ title: TimeTagCategory
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Provides tags that mark metadata properties used to describe the lifecycle of a file. The tags deal with time points when a file or intellectual content was created edited printed etc.
 type: docs
-weight: 5240
+weight: 5250
 url: /net/groupdocs.metadata.tagging/timetagcategory/
 ---
 ## TimeTagCategory class

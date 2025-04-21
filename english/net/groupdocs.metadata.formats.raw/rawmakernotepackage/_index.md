@@ -3,7 +3,7 @@ title: RawMakerNotePackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents Raw MakerNotes tags.
 type: docs
-weight: 3410
+weight: 3420
 url: /net/groupdocs.metadata.formats.raw/rawmakernotepackage/
 ---
 ## RawMakerNotePackage class

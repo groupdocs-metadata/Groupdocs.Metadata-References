@@ -3,7 +3,7 @@ title: License
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents GroupDocs.Metadata license. License class should be applied once per AppDomain.
 type: docs
-weight: 4100
+weight: 4110
 url: /net/groupdocs.metadata/license/
 ---
 ## License class

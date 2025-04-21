@@ -3,7 +3,7 @@ title: IXmp
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines base operations intended to work with XMP metadata.
 type: docs
-weight: 4540
+weight: 4550
 url: /net/groupdocs.metadata.standards.xmp/ixmp/
 ---
 ## IXmp interface

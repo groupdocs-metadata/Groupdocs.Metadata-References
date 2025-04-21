@@ -3,7 +3,7 @@ title: ExifOrientation
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Exif image orientation.
 type: docs
-weight: 4280
+weight: 4290
 url: /net/groupdocs.metadata.standards.exif/exiforientation/
 ---
 ## ExifOrientation enumeration

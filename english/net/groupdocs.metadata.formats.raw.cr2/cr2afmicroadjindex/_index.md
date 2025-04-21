@@ -3,7 +3,7 @@ title: Cr2AFMicroAdjIndex
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ids of Cr2AFMicroAdj tags.
 type: docs
-weight: 2770
+weight: 2780
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2afmicroadjindex/
 ---
 ## Cr2AFMicroAdjIndex enumeration

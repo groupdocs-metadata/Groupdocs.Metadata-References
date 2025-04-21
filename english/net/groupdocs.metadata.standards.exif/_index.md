@@ -3,7 +3,7 @@ title: GroupDocs.Metadata.Standards.Exif
 second_title: GroupDocs.Metadata for .NET API Reference
 description: The namespace contains functionality intended to read and write EXIF exchangeable image file format metadata.
 type: docs
-weight: 350
+weight: 360
 url: /net/groupdocs.metadata.standards.exif/
 ---
 The namespace contains functionality intended to read and write EXIF (exchangeable image file format) metadata.
