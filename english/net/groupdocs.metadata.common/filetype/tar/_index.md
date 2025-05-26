@@ -3,7 +3,7 @@ title: TAR
 second_title: GroupDocs.Metadata for .NET API Reference
 description: In computing tar is a computer software utility for collecting many files into one archive file often referred to as a tarball for distribution or backup purposes. herehttps//wiki.fileformat.com/compression/tar/.
 type: docs
-weight: 790
+weight: 800
 url: /net/groupdocs.metadata.common/filetype/tar/
 ---
 ## FileType.TAR field

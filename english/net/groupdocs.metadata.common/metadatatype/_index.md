@@ -72,6 +72,7 @@ public enum MetadataType
 | Fb2 | `51` | Files with .fb2 extension are FictionBook 2.0 eBook files that contains the structure of the eBook. |
 | Mobi | `52` | The MOBI file format is one of the most widely used ebook file formats. The format is an enhancement to the old OEB (Open Ebook Format) format and was used as the proprietary format for Mobipocket Reader. |
 | Ogg | `53` | Ogg format |
+| Svg | `54` | Svg format |
 
 ### See Also
 

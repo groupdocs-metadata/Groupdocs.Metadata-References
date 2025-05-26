@@ -3,7 +3,7 @@ title: PsdLayerFlags
 second_title: GroupDocs.Metadata for .NET API Reference
 description: The Photoshop layer flags.
 type: docs
-weight: 2290
+weight: 2300
 url: /net/groupdocs.metadata.formats.image/psdlayerflags/
 ---
 ## PsdLayerFlags enumeration

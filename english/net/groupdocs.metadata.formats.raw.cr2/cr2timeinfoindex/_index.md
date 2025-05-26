@@ -3,7 +3,7 @@ title: Cr2TimeInfoIndex
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ids of Cr2TimeInfo tags.
 type: docs
-weight: 3230
+weight: 3260
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2timeinfoindex/
 ---
 ## Cr2TimeInfoIndex enumeration

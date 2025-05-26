@@ -3,7 +3,7 @@ title: OpenTypeMacintoshEncoding
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents encoding for the Macintosh platform.
 type: docs
-weight: 1800
+weight: 1810
 url: /net/groupdocs.metadata.formats.font/opentypemacintoshencoding/
 ---
 ## OpenTypeMacintoshEncoding enumeration

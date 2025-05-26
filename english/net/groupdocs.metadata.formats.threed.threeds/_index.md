@@ -3,7 +3,7 @@ title: GroupDocs.Metadata.Formats.ThreeD.ThreeDS
 second_title: GroupDocs.Metadata for .NET API Reference
 description: 
 type: docs
-weight: 290
+weight: 310
 url: /net/groupdocs.metadata.formats.threed.threeds/
 ---
 

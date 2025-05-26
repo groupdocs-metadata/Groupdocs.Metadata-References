@@ -3,7 +3,7 @@ title: FbxNode
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents metadata associated with an .fbx file.
 type: docs
-weight: 3550
+weight: 3580
 url: /net/groupdocs.metadata.formats.threed.fbx/fbxnode/
 ---
 ## FbxNode class

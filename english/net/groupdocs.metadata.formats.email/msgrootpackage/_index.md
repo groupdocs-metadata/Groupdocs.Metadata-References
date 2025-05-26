@@ -3,7 +3,7 @@ title: MsgRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the root package allowing working with metadata in an MSG email message.
 type: docs
-weight: 1710
+weight: 1720
 url: /net/groupdocs.metadata.formats.email/msgrootpackage/
 ---
 ## MsgRootPackage class
@@ -35,6 +35,7 @@ public class MsgRootPackage : EmailRootPackage
 | [Contains](../../groupdocs.metadata.common/metadatapackage/contains)(string) | Determines whether the package contains a metadata property with the specified name. |
 | virtual [FindProperties](../../groupdocs.metadata.common/metadatapackage/findproperties)(Func&lt;MetadataProperty, bool&gt;) | Finds the metadata properties satisfying the specified predicate. The search is recursive so it affects all nested packages as well. |
 | [GetEnumerator](../../groupdocs.metadata.common/metadatapackage/getenumerator)() | Returns an enumerator that iterates through the collection. |
+| [GetString](../../groupdocs.metadata.formats.email/msgrootpackage/getstring)(MsgKnownProperties) | Gets the string value of the property specified by tag. |
 | virtual [RemoveProperties](../../groupdocs.metadata.common/metadatapackage/removeproperties)(Func&lt;MetadataProperty, bool&gt;) | Removes metadata properties satisfying the specified predicate. |
 | override [Sanitize](../../groupdocs.metadata.common/rootmetadatapackage/sanitize)() | Removes writable metadata properties from the package. The operation is recursive so it affects all nested packages as well. |
 | virtual [SetProperties](../../groupdocs.metadata.common/metadatapackage/setproperties)(Func&lt;MetadataProperty, bool&gt;, PropertyValue) | Sets known metadata properties satisfying the specified predicate. The operation is recursive so it affects all nested packages as well. This method is a combination of [`AddProperties`](../../groupdocs.metadata.common/metadatapackage/addproperties) and [`UpdateProperties`](../../groupdocs.metadata.common/metadatapackage/updateproperties). If an existing property satisfies the predicate its value is updated. If there is a known property missing in the package that satisfies the predicate it is added to the package. |

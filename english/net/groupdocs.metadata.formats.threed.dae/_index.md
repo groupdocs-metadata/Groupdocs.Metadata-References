@@ -3,7 +3,7 @@ title: GroupDocs.Metadata.Formats.ThreeD.Dae
 second_title: GroupDocs.Metadata for .NET API Reference
 description: 
 type: docs
-weight: 260
+weight: 280
 url: /net/groupdocs.metadata.formats.threed.dae/
 ---
 

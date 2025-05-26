@@ -3,7 +3,7 @@ title: TorrentRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the root package intended to work with metadata of a TORRENT file.
 type: docs
-weight: 2690
+weight: 2720
 url: /net/groupdocs.metadata.formats.peer2peer/torrentrootpackage/
 ---
 ## TorrentRootPackage class

@@ -3,7 +3,7 @@ title: Logging
 second_title: GroupDocs.Metadata for .NET API Reference
 description: The class provides work with logger.
 type: docs
-weight: 4140
+weight: 4170
 url: /net/groupdocs.metadata.logging/logging/
 ---
 ## Logging class

@@ -3,7 +3,7 @@ title: RawSRational
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents signed rational number.
 type: docs
-weight: 2380
+weight: 2390
 url: /net/groupdocs.metadata.formats.image/rawsrational/
 ---
 ## RawSRational class

@@ -3,7 +3,7 @@ title: CmsAttribute
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a CMS signer info attribute.
 type: docs
-weight: 4470
+weight: 4500
 url: /net/groupdocs.metadata.standards.pkcs/cmsattribute/
 ---
 ## CmsAttribute class

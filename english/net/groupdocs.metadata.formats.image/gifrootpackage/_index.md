@@ -3,7 +3,7 @@ title: GifRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the root package intended to work with metadata in a GIF image.
 type: docs
-weight: 2100
+weight: 2110
 url: /net/groupdocs.metadata.formats.image/gifrootpackage/
 ---
 ## GifRootPackage class

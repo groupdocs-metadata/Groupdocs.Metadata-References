@@ -26,11 +26,13 @@ version:
 | [GroupDocs.Metadata.Formats.Ebook.Fb2](./groupdocs.metadata.formats.ebook.fb2) |  |
 | [GroupDocs.Metadata.Formats.Ebook.Mobi](./groupdocs.metadata.formats.ebook.mobi) |  |
 | [GroupDocs.Metadata.Formats.Email](./groupdocs.metadata.formats.email) | The namespace contains classes representing saved email messages and their parts. |
+| [GroupDocs.Metadata.Formats.Email.Msg](./groupdocs.metadata.formats.email.msg) |  |
 | [GroupDocs.Metadata.Formats.Fb2](./groupdocs.metadata.formats.fb2) |  |
 | [GroupDocs.Metadata.Formats.Font](./groupdocs.metadata.formats.font) | The namespace contains classes allowing users to work with formats representing scalable computer fonts. |
 | [GroupDocs.Metadata.Formats.Gis](./groupdocs.metadata.formats.gis) |  |
 | [GroupDocs.Metadata.Formats.Image](./groupdocs.metadata.formats.image) | The namespace provides functionality allowing users to read and update metadata stored in different image formats. |
 | [GroupDocs.Metadata.Formats.Image.Dng](./groupdocs.metadata.formats.image.dng) |  |
+| [GroupDocs.Metadata.Formats.Image.Svg](./groupdocs.metadata.formats.image.svg) |  |
 | [GroupDocs.Metadata.Formats.Mpeg](./groupdocs.metadata.formats.mpeg) | The namespace provides functionality allowing users to work with metadata of various MPEG standards. |
 | [GroupDocs.Metadata.Formats.Peer2Peer](./groupdocs.metadata.formats.peer2peer) | The namespace contains classes intended to work with different formats based on the peer2peer protocol. |
 | [GroupDocs.Metadata.Formats.Raw](./groupdocs.metadata.formats.raw) |  |

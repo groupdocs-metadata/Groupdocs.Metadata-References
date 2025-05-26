@@ -3,7 +3,7 @@ title: OpenTypeWindowsLanguage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents language for Windows platform.
 type: docs
-weight: 1940
+weight: 1950
 url: /net/groupdocs.metadata.formats.font/opentypewindowslanguage/
 ---
 ## OpenTypeWindowsLanguage enumeration

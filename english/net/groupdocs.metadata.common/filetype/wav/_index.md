@@ -3,7 +3,7 @@ title: WAV
 second_title: GroupDocs.Metadata for .NET API Reference
 description: WAV known for WAVE Waveform Audio File Format is a subset of Microsofts Resource Interchange File Format RIFF specification for storing digital audio files. Learn more about this file format herehttps//wiki.fileformat.com/audio/wav/.
 type: docs
-weight: 960
+weight: 970
 url: /net/groupdocs.metadata.common/filetype/wav/
 ---
 ## FileType.WAV field
