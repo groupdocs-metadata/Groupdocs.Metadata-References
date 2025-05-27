@@ -3,7 +3,7 @@ title: XmpText
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents XMP Text basic type.
 type: docs
-weight: 5080
+weight: 5100
 url: /net/groupdocs.metadata.standards.xmp/xmptext/
 ---
 ## XmpText class

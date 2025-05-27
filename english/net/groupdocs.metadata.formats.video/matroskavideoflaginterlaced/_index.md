@@ -3,7 +3,7 @@ title: MatroskaVideoFlagInterlaced
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a flag to declare if the Matroska video is known to be progressive or interlaced and if applicable to declare details about the interlacement.
 type: docs
-weight: 4010
+weight: 4030
 url: /net/groupdocs.metadata.formats.video/matroskavideoflaginterlaced/
 ---
 ## MatroskaVideoFlagInterlaced enumeration

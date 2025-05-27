@@ -3,7 +3,7 @@ title: XmpMeta
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents xmpmeta. Optional. The purpose of this element is to identify XMP metadata within general XML text that might contain other nonXMP uses of RDF.
 type: docs
-weight: 4970
+weight: 4990
 url: /net/groupdocs.metadata.standards.xmp/xmpmeta/
 ---
 ## XmpMeta class

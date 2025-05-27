@@ -3,7 +3,7 @@ title: Cr2LogInfoPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents Canon MakerNotes tags.
 type: docs
-weight: 3010
+weight: 3030
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2loginfopackage/
 ---
 ## Cr2LogInfoPackage class

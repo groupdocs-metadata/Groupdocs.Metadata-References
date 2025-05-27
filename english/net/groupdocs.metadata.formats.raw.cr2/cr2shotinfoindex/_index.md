@@ -3,7 +3,7 @@ title: Cr2ShotInfoIndex
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines ids of Cr2ShotInfo tags.
 type: docs
-weight: 3220
+weight: 3240
 url: /net/groupdocs.metadata.formats.raw.cr2/cr2shotinfoindex/
 ---
 ## Cr2ShotInfoIndex enumeration

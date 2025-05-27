@@ -3,7 +3,7 @@ title: GroupDocs.Metadata.Formats.Raw.Cr2
 second_title: GroupDocs.Metadata for .NET API Reference
 description: 
 type: docs
-weight: 240
+weight: 250
 url: /net/groupdocs.metadata.formats.raw.cr2/
 ---
 

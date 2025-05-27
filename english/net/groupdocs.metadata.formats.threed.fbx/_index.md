@@ -3,7 +3,7 @@ title: GroupDocs.Metadata.Formats.ThreeD.Fbx
 second_title: GroupDocs.Metadata for .NET API Reference
 description: 
 type: docs
-weight: 280
+weight: 290
 url: /net/groupdocs.metadata.formats.threed.fbx/
 ---
 

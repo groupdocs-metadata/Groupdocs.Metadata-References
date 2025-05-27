@@ -3,7 +3,7 @@ title: AsfContentDescriptor
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents an ASF content descriptor object.
 type: docs
-weight: 3700
+weight: 3720
 url: /net/groupdocs.metadata.formats.video/asfcontentdescriptor/
 ---
 ## AsfContentDescriptor class

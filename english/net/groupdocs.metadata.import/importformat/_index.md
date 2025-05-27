@@ -3,7 +3,7 @@ title: ImportFormat
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines file formats to which you can import metadata properties.
 type: docs
-weight: 4070
+weight: 4090
 url: /net/groupdocs.metadata.import/importformat/
 ---
 ## ImportFormat enumeration

@@ -3,7 +3,7 @@ title: XmpTimecode
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a timecode value in a video.
 type: docs
-weight: 5110
+weight: 5130
 url: /net/groupdocs.metadata.standards.xmp/xmptimecode/
 ---
 ## XmpTimecode class
