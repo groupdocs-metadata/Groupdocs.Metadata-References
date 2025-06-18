@@ -3,7 +3,7 @@ title: XmpPagedTextPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the XMP PagedText package.
 type: docs
-weight: 4710
+weight: 4760
 url: /net/groupdocs.metadata.standards.xmp.schemes/xmppagedtextpackage/
 ---
 ## XmpPagedTextPackage class

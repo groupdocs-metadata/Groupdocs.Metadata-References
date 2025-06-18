@@ -3,7 +3,7 @@ title: OGG
 second_title: GroupDocs.Metadata for .NET API Reference
 description: OGG is an Ogg Vorbis Compressed Audio File that is saved with the .ogg extension. OGG files are used for storing audio data and can include artist and track information and metadata as well. OGG is a free and open container format that is maintained by Xiph.Org Foundation. Learn more about this file format herehttps//docs.fileformat.com/audio/ogg/.
 type: docs
-weight: 570
+weight: 580
 url: /net/groupdocs.metadata.common/filetype/ogg/
 ---
 ## FileType.OGG field

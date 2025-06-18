@@ -3,7 +3,7 @@ title: IptcRecord
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents an IPTC record.
 type: docs
-weight: 4460
+weight: 4510
 url: /net/groupdocs.metadata.standards.iptc/iptcrecord/
 ---
 ## IptcRecord class

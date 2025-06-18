@@ -41,6 +41,7 @@ version:
 | [GroupDocs.Metadata.Formats.Riff](./groupdocs.metadata.formats.riff) | The namespace provides functionality allowing users to work with metadata of various formats derived from the RIFF container. |
 | [GroupDocs.Metadata.Formats.ThreeD.Dae](./groupdocs.metadata.formats.threed.dae) |  |
 | [GroupDocs.Metadata.Formats.ThreeD.Fbx](./groupdocs.metadata.formats.threed.fbx) |  |
+| [GroupDocs.Metadata.Formats.ThreeD.Gltf](./groupdocs.metadata.formats.threed.gltf) |  |
 | [GroupDocs.Metadata.Formats.ThreeD.Stl](./groupdocs.metadata.formats.threed.stl) |  |
 | [GroupDocs.Metadata.Formats.ThreeD.ThreeDS](./groupdocs.metadata.formats.threed.threeds) |  |
 | [GroupDocs.Metadata.Formats.Video](./groupdocs.metadata.formats.video) | The namespace contains classes for working with the most popular video formats. |

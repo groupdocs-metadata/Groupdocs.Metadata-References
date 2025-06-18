@@ -3,7 +3,7 @@ title: MovPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents QuickTime metadata.
 type: docs
-weight: 4070
+weight: 4120
 url: /net/groupdocs.metadata.formats.video/movpackage/
 ---
 ## MovPackage class

@@ -3,7 +3,7 @@ title: MakerNotePackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Provides an abstract base class for MakerNote metadata packages.
 type: docs
-weight: 4360
+weight: 4410
 url: /net/groupdocs.metadata.standards.exif.makernote/makernotepackage/
 ---
 ## MakerNotePackage class

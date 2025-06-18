@@ -3,7 +3,7 @@ title: XmpLangAlt
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents XMP Language Alternative.
 type: docs
-weight: 4980
+weight: 5030
 url: /net/groupdocs.metadata.standards.xmp/xmplangalt/
 ---
 ## XmpLangAlt class

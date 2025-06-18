@@ -73,6 +73,7 @@ public enum MetadataType
 | Mobi | `52` | The MOBI file format is one of the most widely used ebook file formats. The format is an enhancement to the old OEB (Open Ebook Format) format and was used as the proprietary format for Mobipocket Reader. |
 | Ogg | `53` | Ogg format |
 | Svg | `54` | Svg format |
+| Gltf | `55` | glTF (Graphics Library Transmission Format or GL Transmission Format and formerly known as WebGL Transmissions Format or WebGL TF) |
 
 ### See Also
 

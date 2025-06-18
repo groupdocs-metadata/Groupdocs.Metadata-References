@@ -3,7 +3,7 @@ title: AsfPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents native metadata of the ASF media container.
 type: docs
-weight: 3780
+weight: 3830
 url: /net/groupdocs.metadata.formats.video/asfpackage/
 ---
 ## AsfPackage class

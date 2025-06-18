@@ -3,7 +3,7 @@ title: MatroskaSegment
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a SEGMENTINFO element containing general information about the SEGMENT in a Matroska video.
 type: docs
-weight: 3930
+weight: 3980
 url: /net/groupdocs.metadata.formats.video/matroskasegment/
 ---
 ## MatroskaSegment class

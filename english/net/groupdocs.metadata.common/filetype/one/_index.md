@@ -3,7 +3,7 @@ title: ONE
 second_title: GroupDocs.Metadata for .NET API Reference
 description: File represented by .ONE extension are created by Microsoft OneNote application. Learn more about this file format herehttps//wiki.fileformat.com/notetaking/one/.
 type: docs
-weight: 580
+weight: 590
 url: /net/groupdocs.metadata.common/filetype/one/
 ---
 ## FileType.ONE field

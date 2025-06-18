@@ -3,7 +3,7 @@ title: IIptc
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents base operations intended to work with IPTC metadata. Please find more information at http//en.wikipedia.org/wiki/International_Press_Telecommunications_Councilhttp//en.wikipedia.org/wiki/International_Press_Telecommunications_Council.
 type: docs
-weight: 4400
+weight: 4450
 url: /net/groupdocs.metadata.standards.iptc/iiptc/
 ---
 ## IIptc interface

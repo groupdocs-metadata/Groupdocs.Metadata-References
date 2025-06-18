@@ -69,6 +69,7 @@ public enum FileFormat
 | Mobi | `48` | The MOBI file format is one of the most widely used ebook file formats. The format is an enhancement to the old OEB (Open Ebook Format) format and was used as the proprietary format for Mobipocket Reader. |
 | Ogg | `49` | OGG is an Ogg Vorbis Compressed Audio File that is saved with the .ogg extension. OGG files are used for storing audio data and can include artist and track information and metadata as well. OGG is a free and open container format that is maintained by Xiph.Org Foundation. |
 | Svg | `50` | Scalable Vector Graphics (SVG) is an XML-based vector graphics format for defining two-dimensional graphics, having support for interactivity and animation. The SVG specification is an open standard developed by the World Wide Web Consortium since 1999. |
+| Gltf | `51` | glTF (Graphics Library Transmission Format or GL Transmission Format and formerly known as WebGL Transmissions Format or WebGL TF) is a standard file format for three-dimensional scenes and models. A glTF file uses one of two possible file extensions: .gltf (JSON/ASCII) or .glb (binary). |
 
 ### See Also
 
