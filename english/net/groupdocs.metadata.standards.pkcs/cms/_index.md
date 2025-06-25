@@ -3,7 +3,7 @@ title: Cms
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a digital sign created with Cryptographic Message Syntax CMS  IETFs standard for cryptographically protected messages. CMS is based on the syntax of PKCS 7 specified in RFC 5652. Please see https//tools.ietf.org/html/rfc5652https//tools.ietf.org/html/rfc5652 for more information.
 type: docs
-weight: 4490
+weight: 4530
 url: /net/groupdocs.metadata.standards.pkcs/cms/
 ---
 ## Cms class

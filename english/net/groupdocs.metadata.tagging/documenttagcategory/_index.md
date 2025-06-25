@@ -3,7 +3,7 @@ title: DocumentTagCategory
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Provides tags that are applied to documentspecific properties only. The tags can be useful to determine from which part of an office document a property was extracted.
 type: docs
-weight: 5190
+weight: 5230
 url: /net/groupdocs.metadata.tagging/documenttagcategory/
 ---
 ## DocumentTagCategory class

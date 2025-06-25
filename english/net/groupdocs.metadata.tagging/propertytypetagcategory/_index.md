@@ -3,7 +3,7 @@ title: PropertyTypeTagCategory
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Provides tags that bear additional information about the type of a property rather than about its purpose. Using these tags you can detect metadata properties that contain URL links to external resources properties describing fonts colors geolocation and so on.
 type: docs
-weight: 5240
+weight: 5280
 url: /net/groupdocs.metadata.tagging/propertytypetagcategory/
 ---
 ## PropertyTypeTagCategory class

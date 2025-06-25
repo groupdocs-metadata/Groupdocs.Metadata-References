@@ -3,7 +3,7 @@ title: GroupDocs.Metadata.Logging
 second_title: GroupDocs.Metadata for .NET API Reference
 description: 
 type: docs
-weight: 340
+weight: 350
 url: /net/groupdocs.metadata.logging/
 ---
 

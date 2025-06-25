@@ -3,7 +3,7 @@ title: XmpColorantLab
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the LAB Colorant.
 type: docs
-weight: 4860
+weight: 4900
 url: /net/groupdocs.metadata.standards.xmp/xmpcolorantlab/
 ---
 ## XmpColorantLab class

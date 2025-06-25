@@ -86,7 +86,7 @@ public PropertyValue(double value)
 
 ---
 
-## PropertyValue(string) {#constructor_9}
+## PropertyValue(string) {#constructor_10}
 
 Initializes a new instance of the [`PropertyValue`](../../propertyvalue) class with a string value.
 
@@ -97,6 +97,26 @@ public PropertyValue(string value)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | String | A String value. |
+
+### See Also
+
+* class [PropertyValue](../../propertyvalue)
+* namespace [GroupDocs.Metadata.Common](../../../groupdocs.metadata.common)
+* assembly [GroupDocs.Metadata](../../../)
+
+---
+
+## PropertyValue(object) {#constructor_9}
+
+Initializes a new instance of the [`PropertyValue`](../../propertyvalue) class with a object value.
+
+```csharp
+public PropertyValue(object value)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | Object | A Object value. |
 
 ### See Also
 
@@ -126,7 +146,7 @@ public PropertyValue(DateTime value)
 
 ---
 
-## PropertyValue(TimeSpan) {#constructor_11}
+## PropertyValue(TimeSpan) {#constructor_12}
 
 Initializes a new instance of the [`PropertyValue`](../../propertyvalue) class with a TimeSpan value.
 
@@ -146,7 +166,7 @@ public PropertyValue(TimeSpan value)
 
 ---
 
-## PropertyValue(string[]) {#constructor_10}
+## PropertyValue(string[]) {#constructor_11}
 
 Initializes a new instance of the [`PropertyValue`](../../propertyvalue) class with a string array.
 
@@ -246,7 +266,7 @@ public PropertyValue(long[] values)
 
 ---
 
-## PropertyValue(ushort[]) {#constructor_12}
+## PropertyValue(ushort[]) {#constructor_13}
 
 Initializes a new instance of the [`PropertyValue`](../../propertyvalue) class with an array of ushort values.
 

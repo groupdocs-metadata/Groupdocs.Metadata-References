@@ -27,10 +27,11 @@ public class PropertyValue
 | [PropertyValue](propertyvalue#constructor_5)(int[]) | Initializes a new instance of the [`PropertyValue`](../propertyvalue) class with an array of integer values. |
 | [PropertyValue](propertyvalue#constructor_6)(long) | Initializes a new instance of the [`PropertyValue`](../propertyvalue) class with a long value. |
 | [PropertyValue](propertyvalue#constructor_7)(long[]) | Initializes a new instance of the [`PropertyValue`](../propertyvalue) class with an array of long values. |
-| [PropertyValue](propertyvalue#constructor_9)(string) | Initializes a new instance of the [`PropertyValue`](../propertyvalue) class with a string value. |
-| [PropertyValue](propertyvalue#constructor_10)(string[]) | Initializes a new instance of the [`PropertyValue`](../propertyvalue) class with a string array. |
-| [PropertyValue](propertyvalue#constructor_11)(TimeSpan) | Initializes a new instance of the [`PropertyValue`](../propertyvalue) class with a TimeSpan value. |
-| [PropertyValue](propertyvalue#constructor_12)(ushort[]) | Initializes a new instance of the [`PropertyValue`](../propertyvalue) class with an array of ushort values. |
+| [PropertyValue](propertyvalue#constructor_9)(object) | Initializes a new instance of the [`PropertyValue`](../propertyvalue) class with a object value. |
+| [PropertyValue](propertyvalue#constructor_10)(string) | Initializes a new instance of the [`PropertyValue`](../propertyvalue) class with a string value. |
+| [PropertyValue](propertyvalue#constructor_11)(string[]) | Initializes a new instance of the [`PropertyValue`](../propertyvalue) class with a string array. |
+| [PropertyValue](propertyvalue#constructor_12)(TimeSpan) | Initializes a new instance of the [`PropertyValue`](../propertyvalue) class with a TimeSpan value. |
+| [PropertyValue](propertyvalue#constructor_13)(ushort[]) | Initializes a new instance of the [`PropertyValue`](../propertyvalue) class with an array of ushort values. |
 
 ## Properties
 

@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.image/psdlayer/length/
 Gets the overall layer length in bytes.
 
 ```csharp
-public int Length { get; }
+public long Length { get; }
 ```
 
 ### Property Value

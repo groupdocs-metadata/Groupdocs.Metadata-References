@@ -3,7 +3,7 @@ title: XmpNamespaces
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Contains namespaces used in XmpPackage./xmppackage and XmpComplexType./xmpcomplextype.
 type: docs
-weight: 5010
+weight: 5050
 url: /net/groupdocs.metadata.standards.xmp/xmpnamespaces/
 ---
 ## XmpNamespaces class

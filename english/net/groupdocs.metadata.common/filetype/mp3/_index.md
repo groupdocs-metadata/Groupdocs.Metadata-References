@@ -3,7 +3,7 @@ title: MP3
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Files with MP3 extension are digitally encoded file formats for audio files that are formally based on the MPEG1 Audio Layer III or MPEG2 Audio Layer III. Learn more about this file format herehttps//wiki.fileformat.com/audio/mp3/.
 type: docs
-weight: 510
+weight: 520
 url: /net/groupdocs.metadata.common/filetype/mp3/
 ---
 ## FileType.MP3 field
