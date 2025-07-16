@@ -3,7 +3,7 @@ title: XmpFont
 second_title: GroupDocs.Metadata for .NET API Reference
 description: A structure containing the characteristics of a font used in a document.
 type: docs
-weight: 4980
+weight: 4970
 url: /net/groupdocs.metadata.standards.xmp/xmpfont/
 ---
 ## XmpFont class

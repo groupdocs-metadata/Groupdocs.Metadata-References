@@ -1,22 +1,22 @@
 ---
-title: Duration
+title: Delivery
 second_title: GroupDocs.Metadata for .NET API Reference
-description: Gets the tag that denotes the duration of a media file.
+description: Gets the tag that indicates the date a file was delivered.
 type: docs
-weight: 30
-url: /net/groupdocs.metadata.tagging/timetagcategory/duration/
+weight: 20
+url: /net/groupdocs.metadata.tagging/timetagcategory/delivery/
 ---
-## TimeTagCategory.Duration property
+## TimeTagCategory.Delivery property
 
-Gets the tag that denotes the duration of a media file.
+Gets the tag that indicates the date a file was delivered.
 
 ```csharp
-public PropertyTag Duration { get; }
+public PropertyTag Delivery { get; }
 ```
 
 ### Property Value
 
-The tag that denotes the duration of a media file.
+The tag that indicates the date a file was delivered.
 
 ### See Also
 

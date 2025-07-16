@@ -3,7 +3,7 @@ title: ImportOptions
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Abstract class import options.
 type: docs
-weight: 4160
+weight: 4150
 url: /net/groupdocs.metadata.import/importoptions/
 ---
 ## ImportOptions class

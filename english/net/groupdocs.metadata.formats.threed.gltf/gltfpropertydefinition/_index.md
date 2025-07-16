@@ -3,7 +3,7 @@ title: GltfPropertyDefinition
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents metadata associated with an .glTF file.
 type: docs
-weight: 3630
+weight: 3620
 url: /net/groupdocs.metadata.formats.threed.gltf/gltfpropertydefinition/
 ---
 ## GltfPropertyDefinition class

@@ -3,7 +3,7 @@ title: PreviewOptions.PreviewFormats
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents supported preview formats.
 type: docs
-weight: 4280
+weight: 4270
 url: /net/groupdocs.metadata.options/previewoptions.previewformats/
 ---
 ## PreviewOptions.PreviewFormats enumeration

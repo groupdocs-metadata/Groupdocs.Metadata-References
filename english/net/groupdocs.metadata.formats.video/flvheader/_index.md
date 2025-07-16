@@ -3,7 +3,7 @@ title: FlvHeader
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a FLV video header.
 type: docs
-weight: 3900
+weight: 3890
 url: /net/groupdocs.metadata.formats.video/flvheader/
 ---
 ## FlvHeader class

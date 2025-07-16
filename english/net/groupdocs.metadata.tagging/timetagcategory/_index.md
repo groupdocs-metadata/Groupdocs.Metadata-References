@@ -3,7 +3,7 @@ title: TimeTagCategory
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Provides tags that mark metadata properties used to describe the lifecycle of a file. The tags deal with time points when a file or intellectual content was created edited printed etc.
 type: docs
-weight: 5320
+weight: 5310
 url: /net/groupdocs.metadata.tagging/timetagcategory/
 ---
 ## TimeTagCategory class
@@ -19,6 +19,7 @@ public class TimeTagCategory : TagCategory
 | Name | Description |
 | --- | --- |
 | [Created](../../groupdocs.metadata.tagging/timetagcategory/created) { get; } | Gets the tag that indicates the date a file was created. |
+| [Delivery](../../groupdocs.metadata.tagging/timetagcategory/delivery) { get; } | Gets the tag that indicates the date a file was delivered. |
 | [Duration](../../groupdocs.metadata.tagging/timetagcategory/duration) { get; } | Gets the tag that denotes the duration of a media file. |
 | [Expired](../../groupdocs.metadata.tagging/timetagcategory/expired) { get; } | Gets the tag that labels the latest date the owner intends the file data to be used. |
 | [IntellectualContentCreated](../../groupdocs.metadata.tagging/timetagcategory/intellectualcontentcreated) { get; } | Gets the tag that denotes the date the intellectual content of a file was created. |

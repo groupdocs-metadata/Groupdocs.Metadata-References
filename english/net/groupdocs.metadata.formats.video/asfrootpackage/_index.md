@@ -3,7 +3,7 @@ title: AsfRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the root package allowing working with metadata in an ASF video.
 type: docs
-weight: 3840
+weight: 3830
 url: /net/groupdocs.metadata.formats.video/asfrootpackage/
 ---
 ## AsfRootPackage class

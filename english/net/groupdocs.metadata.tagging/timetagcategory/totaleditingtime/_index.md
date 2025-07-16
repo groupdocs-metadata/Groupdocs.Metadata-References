@@ -3,7 +3,7 @@ title: TotalEditingTime
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that denotes the total editing time of a file.
 type: docs
-weight: 80
+weight: 90
 url: /net/groupdocs.metadata.tagging/timetagcategory/totaleditingtime/
 ---
 ## TimeTagCategory.TotalEditingTime property

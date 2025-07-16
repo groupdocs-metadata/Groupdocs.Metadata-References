@@ -3,7 +3,7 @@ title: Published
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that indicates the date a file became available.
 type: docs
-weight: 70
+weight: 80
 url: /net/groupdocs.metadata.tagging/timetagcategory/published/
 ---
 ## TimeTagCategory.Published property

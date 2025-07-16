@@ -11,7 +11,7 @@ url: /net/groupdocs.metadata.formats.threed.gltf/gltfpropertydefinition/property
 Gets the property type.
 
 ```csharp
-public Type PropertyType { get; }
+public string PropertyType { get; }
 ```
 
 ### Property Value

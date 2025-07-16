@@ -3,7 +3,7 @@ title: SoftwareVersion
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that labels properties containing the version of the software used to create a file.
 type: docs
-weight: 70
+weight: 80
 url: /net/groupdocs.metadata.tagging/tooltagcategory/softwareversion/
 ---
 ## ToolTagCategory.SoftwareVersion property

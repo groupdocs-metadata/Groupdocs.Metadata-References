@@ -3,7 +3,7 @@ title: GltfRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents .glTF file metadata.
 type: docs
-weight: 3650
+weight: 3640
 url: /net/groupdocs.metadata.formats.threed.gltf/gltfrootpackage/
 ---
 ## GltfRootPackage class

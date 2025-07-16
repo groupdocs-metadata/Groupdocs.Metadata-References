@@ -12,7 +12,6 @@ url: /net/groupdocs.metadata.formats.threed.gltf/
 
 | Class | Description |
 | --- | --- |
-| [GltfNode](./gltfnode) | Represents metadata associated with an .glTF file. |
 | [GltfPackage](./gltfpackage) | Represents .glTF file metadata. |
 | [GltfPropertyDefinition](./gltfpropertydefinition) | Represents metadata associated with an .glTF file. |
 | [GltfPropertyTable](./gltfpropertytable) | Represents metadata associated with an .glTF file. |

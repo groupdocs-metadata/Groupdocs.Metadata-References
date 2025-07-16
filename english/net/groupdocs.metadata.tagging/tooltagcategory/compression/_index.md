@@ -1,22 +1,22 @@
 ---
-title: Software
+title: Compression
 second_title: GroupDocs.Metadata for .NET API Reference
-description: Gets the tag that labels any kind of software used to create a file.
+description: Gets the tag that marks a compression.
 type: docs
-weight: 60
-url: /net/groupdocs.metadata.tagging/tooltagcategory/software/
+weight: 10
+url: /net/groupdocs.metadata.tagging/tooltagcategory/compression/
 ---
-## ToolTagCategory.Software property
+## ToolTagCategory.Compression property
 
-Gets the tag that labels any kind of software used to create a file.
+Gets the tag that marks a compression.
 
 ```csharp
-public PropertyTag Software { get; }
+public PropertyTag Compression { get; }
 ```
 
 ### Property Value
 
-The tag that labels any kind of software used to create a file.
+The tag that marks a compression.
 
 ### See Also
 

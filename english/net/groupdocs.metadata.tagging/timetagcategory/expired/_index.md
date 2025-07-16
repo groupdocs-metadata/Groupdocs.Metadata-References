@@ -3,7 +3,7 @@ title: Expired
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that labels the latest date the owner intends the file data to be used.
 type: docs
-weight: 30
+weight: 40
 url: /net/groupdocs.metadata.tagging/timetagcategory/expired/
 ---
 ## TimeTagCategory.Expired property

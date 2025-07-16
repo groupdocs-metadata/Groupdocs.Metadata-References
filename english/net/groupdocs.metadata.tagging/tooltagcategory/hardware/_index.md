@@ -3,7 +3,7 @@ title: Hardware
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that denotes any kind of hardware used to create a file.
 type: docs
-weight: 10
+weight: 20
 url: /net/groupdocs.metadata.tagging/tooltagcategory/hardware/
 ---
 ## ToolTagCategory.Hardware property

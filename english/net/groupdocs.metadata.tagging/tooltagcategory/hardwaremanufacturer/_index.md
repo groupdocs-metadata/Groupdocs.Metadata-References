@@ -3,7 +3,7 @@ title: HardwareManufacturer
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that marks a hardware manufacturer.
 type: docs
-weight: 20
+weight: 30
 url: /net/groupdocs.metadata.tagging/tooltagcategory/hardwaremanufacturer/
 ---
 ## ToolTagCategory.HardwareManufacturer property

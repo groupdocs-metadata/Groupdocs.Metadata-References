@@ -3,7 +3,7 @@ title: DigitalSignature
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a digital signature used to sign a document.
 type: docs
-weight: 4610
+weight: 4600
 url: /net/groupdocs.metadata.standards.signing/digitalsignature/
 ---
 ## DigitalSignature class

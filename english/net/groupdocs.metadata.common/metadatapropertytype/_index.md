@@ -35,6 +35,7 @@ public enum MetadataPropertyType
 | MetadataArray | `14` | Represents an array of nested metadata blocks. |
 | Guid | `15` | Represents a global unique identifier value. |
 | PropertyValueArray | `16` | Represents a metadata property value array. |
+| Object | `17` | Represents a metadata property value object. |
 
 ### See Also
 
