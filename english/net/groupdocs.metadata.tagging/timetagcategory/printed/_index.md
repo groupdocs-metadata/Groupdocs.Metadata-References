@@ -3,7 +3,7 @@ title: Printed
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that denotes the date a file was printed.
 type: docs
-weight: 60
+weight: 70
 url: /net/groupdocs.metadata.tagging/timetagcategory/printed/
 ---
 ## TimeTagCategory.Printed property

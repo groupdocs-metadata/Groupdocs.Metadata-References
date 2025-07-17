@@ -19,6 +19,7 @@ public class TimeTagCategory : TagCategory
 | Name | Description |
 | --- | --- |
 | [Created](../../groupdocs.metadata.tagging/timetagcategory/created) { get; } | Gets the tag that indicates the date a file was created. |
+| [Delivery](../../groupdocs.metadata.tagging/timetagcategory/delivery) { get; } | Gets the tag that indicates the date a file was delivered. |
 | [Duration](../../groupdocs.metadata.tagging/timetagcategory/duration) { get; } | Gets the tag that denotes the duration of a media file. |
 | [Expired](../../groupdocs.metadata.tagging/timetagcategory/expired) { get; } | Gets the tag that labels the latest date the owner intends the file data to be used. |
 | [IntellectualContentCreated](../../groupdocs.metadata.tagging/timetagcategory/intellectualcontentcreated) { get; } | Gets the tag that denotes the date the intellectual content of a file was created. |

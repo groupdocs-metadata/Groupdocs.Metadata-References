@@ -3,7 +3,7 @@ title: ZoneCity
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that denotes the time zone.
 type: docs
-weight: 90
+weight: 100
 url: /net/groupdocs.metadata.tagging/timetagcategory/zonecity/
 ---
 ## TimeTagCategory.ZoneCity property

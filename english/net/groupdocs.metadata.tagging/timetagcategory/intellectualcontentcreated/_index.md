@@ -3,7 +3,7 @@ title: IntellectualContentCreated
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that denotes the date the intellectual content of a file was created.
 type: docs
-weight: 40
+weight: 50
 url: /net/groupdocs.metadata.tagging/timetagcategory/intellectualcontentcreated/
 ---
 ## TimeTagCategory.IntellectualContentCreated property

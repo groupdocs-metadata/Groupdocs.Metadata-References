@@ -18,6 +18,7 @@ public class ToolTagCategory : TagCategory
 
 | Name | Description |
 | --- | --- |
+| [Compression](../../groupdocs.metadata.tagging/tooltagcategory/compression) { get; } | Gets the tag that marks a compression. |
 | [Hardware](../../groupdocs.metadata.tagging/tooltagcategory/hardware) { get; } | Gets the tag that denotes any kind of hardware used to create a file. |
 | [HardwareManufacturer](../../groupdocs.metadata.tagging/tooltagcategory/hardwaremanufacturer) { get; } | Gets the tag that marks a hardware manufacturer. |
 | [HardwareVersion](../../groupdocs.metadata.tagging/tooltagcategory/hardwareversion) { get; } | Gets the tag that labels properties containing the version of the hardware used to create a file. |

@@ -3,7 +3,7 @@ title: Modified
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the tag that indicates the date a file was edited.
 type: docs
-weight: 50
+weight: 60
 url: /net/groupdocs.metadata.tagging/timetagcategory/modified/
 ---
 ## TimeTagCategory.Modified property
