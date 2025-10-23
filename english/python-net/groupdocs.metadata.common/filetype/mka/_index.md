@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/mka/
 is_root: false
-weight: 510
+weight: 520
 ---
 
 ## MKA property

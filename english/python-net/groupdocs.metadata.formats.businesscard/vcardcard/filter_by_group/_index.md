@@ -8,7 +8,7 @@ is_root: false
 weight: 40
 ---
 
-## filter_by_group {#str}
+## filter_by_group {#System.String}
 
 Filters all vCard records by the group name passed as a parameter.
 For more information please see the [`VCardCard.get_available_groups`](/metadata/python-net/groupdocs.metadata.formats.businesscard/vcardcard/get_available_groups) method.
@@ -28,7 +28,7 @@ def filter_by_group(self, group_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| group_name | str | The name of the group. |
+| group_name | System.String | The name of the group. |
 
 
 

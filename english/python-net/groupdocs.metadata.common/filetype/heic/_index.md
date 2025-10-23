@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/heic/
 is_root: false
-weight: 370
+weight: 380
 ---
 
 ## HEIC property

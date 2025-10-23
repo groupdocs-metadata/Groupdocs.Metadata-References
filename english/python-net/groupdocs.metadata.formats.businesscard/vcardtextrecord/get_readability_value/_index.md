@@ -8,7 +8,7 @@ is_root: false
 weight: 50
 ---
 
-## get_readability_value {#str}
+## get_readability_value {#System.String}
 
 Gets the readability value.
 
@@ -27,7 +27,7 @@ def get_readability_value(self, code_page_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| code_page_name | str | The using encoding code page name or null for ASCII encoding. |
+| code_page_name | System.String | The using encoding code page name or null for ASCII encoding. |
 
 
 

@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.tagging/timetagcategory/intellectual_content_created/
 is_root: false
-weight: 60
+weight: 70
 ---
 
 ## intellectual_content_created property

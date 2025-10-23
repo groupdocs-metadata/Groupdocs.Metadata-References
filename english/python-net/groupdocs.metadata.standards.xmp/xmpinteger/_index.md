@@ -27,7 +27,7 @@ The XmpInteger type exposes the following members:
 | :- | :- |
 | [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpinteger/__init__/#int) | Initializes a new instance of the [`XmpInteger`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpinteger) class. |
 | [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpinteger/__init__/#int) | Initializes a new instance of the [`XmpInteger`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpinteger) class. |
-| [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpinteger/__init__/#str) | Initializes a new instance of the [`XmpInteger`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpinteger) class. |
+| [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpinteger/__init__/#System.String) | Initializes a new instance of the [`XmpInteger`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpinteger) class. |
 
 
 ### Properties

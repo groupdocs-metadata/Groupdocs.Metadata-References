@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/potm/
 is_root: false
-weight: 690
+weight: 700
 ---
 
 ## POTM property

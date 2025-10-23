@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/threeds/
 is_root: false
-weight: 840
+weight: 860
 ---
 
 ## THREEDS property

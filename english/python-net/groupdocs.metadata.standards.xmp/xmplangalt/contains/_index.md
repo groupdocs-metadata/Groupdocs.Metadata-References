@@ -8,7 +8,7 @@ is_root: false
 weight: 30
 ---
 
-## contains {#str}
+## contains {#System.String}
 
 Determines whether the [`XmpLangAlt`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmplangalt) contains the specified language.
 
@@ -27,7 +27,7 @@ def contains(self, language):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| language | str | The language to locate in the [`XmpLangAlt`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmplangalt). |
+| language | System.String | The language to locate in the [`XmpLangAlt`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmplangalt). |
 
 
 

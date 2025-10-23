@@ -24,7 +24,7 @@ The WithValueSpecification type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.search/withvaluespecification/__init__/#any) | Initializes a new instance of the [`WithNameSpecification`](/metadata/python-net/groupdocs.metadata.search/withnamespecification) class. |
+| [__init__](/metadata/python-net/groupdocs.metadata.search/withvaluespecification/__init__/#System.Object) | Initializes a new instance of the [`WithNameSpecification`](/metadata/python-net/groupdocs.metadata.search/withnamespecification) class. |
 
 
 ### Properties

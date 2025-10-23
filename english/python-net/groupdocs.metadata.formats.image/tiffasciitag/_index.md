@@ -25,7 +25,7 @@ The TiffAsciiTag type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.formats.image/tiffasciitag/__init__/#groupdocs.metadata.formats.image.TiffTagID-str) | Initializes a new instance of the [`TiffAsciiTag`](/metadata/python-net/groupdocs.metadata.formats.image/tiffasciitag) class. |
+| [__init__](/metadata/python-net/groupdocs.metadata.formats.image/tiffasciitag/__init__/#groupdocs.metadata.formats.image.TiffTagID-System.String) | Initializes a new instance of the [`TiffAsciiTag`](/metadata/python-net/groupdocs.metadata.formats.image/tiffasciitag) class. |
 
 
 ### Properties

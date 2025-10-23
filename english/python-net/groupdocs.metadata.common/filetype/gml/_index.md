@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/gml/
 is_root: false
-weight: 350
+weight: 360
 ---
 
 ## GML property

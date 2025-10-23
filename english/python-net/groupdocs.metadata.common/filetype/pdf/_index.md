@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/pdf/
 is_root: false
-weight: 660
+weight: 670
 ---
 
 ## PDF property

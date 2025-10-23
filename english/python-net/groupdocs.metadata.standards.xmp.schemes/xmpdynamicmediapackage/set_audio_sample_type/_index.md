@@ -22,7 +22,7 @@ def set_audio_sample_type(self, audio_sample_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| audio_sample_type | [`XmpAudioSampleType`](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmpaudiosampletype) | The audio sample type. |
+| audio_sample_type | groupdocs.metadata.standards.xmp.schemes.XmpAudioSampleType | The audio sample type. |
 
 
 

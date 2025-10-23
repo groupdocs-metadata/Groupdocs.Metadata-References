@@ -25,7 +25,7 @@ The InvalidFormatException type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [__init__](/metadata/python-net/groupdocs.metadata.exceptions/invalidformatexception/__init__/#) | Initializes a new instance of the [`InvalidFormatException`](/metadata/python-net/groupdocs.metadata.exceptions/invalidformatexception) class. |
-| [__init__](/metadata/python-net/groupdocs.metadata.exceptions/invalidformatexception/__init__/#str) | Initializes a new instance of the [`InvalidFormatException`](/metadata/python-net/groupdocs.metadata.exceptions/invalidformatexception) class. |
+| [__init__](/metadata/python-net/groupdocs.metadata.exceptions/invalidformatexception/__init__/#System.String) | Initializes a new instance of the [`InvalidFormatException`](/metadata/python-net/groupdocs.metadata.exceptions/invalidformatexception) class. |
 
 
 

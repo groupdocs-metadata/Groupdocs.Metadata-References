@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/jpeg/
 is_root: false
-weight: 430
+weight: 440
 ---
 
 ## JPEG property

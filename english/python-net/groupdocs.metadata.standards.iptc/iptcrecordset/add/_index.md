@@ -23,7 +23,7 @@ def add(self, data_set):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| data_set | [`IptcDataSet`](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset) | The IPTC dataSet to add. |
+| data_set | groupdocs.metadata.standards.iptc.IptcDataSet | The IPTC dataSet to add. |
 
 
 

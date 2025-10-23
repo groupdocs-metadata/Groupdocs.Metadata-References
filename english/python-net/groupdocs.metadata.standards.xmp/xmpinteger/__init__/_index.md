@@ -42,7 +42,7 @@ def __init__(self, value):
 | value | int | The value. |
 
 
-## __init__ {#str}
+## __init__ {#System.String}
 
 Initializes a new instance of the [`XmpInteger`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpinteger) class.
 
@@ -56,7 +56,7 @@ def __init__(self, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| value | str | String value contained integer. |
+| value | System.String | String value contained integer. |
 ### Exceptions
 | Exception | Description |
 | :- | :- |

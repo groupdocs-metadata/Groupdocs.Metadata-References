@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/potx/
 is_root: false
-weight: 700
+weight: 710
 ---
 
 ## POTX property

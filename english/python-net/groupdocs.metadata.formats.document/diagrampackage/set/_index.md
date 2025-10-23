@@ -8,7 +8,7 @@ is_root: false
 weight: 110
 ---
 
-## set {#str-str}
+## set {#System.String-System.String}
 
 Adds or replaces the metadata property with the specified name.
 
@@ -22,11 +22,11 @@ def set(self, property_name, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| property_name | str | The property name. |
-| value | str | The property value. |
+| property_name | System.String | The property name. |
+| value | System.String | The property value. |
 
 
-## set {#str-bool}
+## set {#System.String-bool}
 
 Adds or replaces the metadata property with the specified name.
 
@@ -40,11 +40,11 @@ def set(self, property_name, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| property_name | str | The property name. |
+| property_name | System.String | The property name. |
 | value | bool | The property value. |
 
 
-## set {#str-float}
+## set {#System.String-float}
 
 Adds or replaces the metadata property with the specified name.
 
@@ -58,11 +58,11 @@ def set(self, property_name, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| property_name | str | The property name. |
+| property_name | System.String | The property name. |
 | value | float | The property value. |
 
 
-## set {#str-DateTime}
+## set {#System.String-System.DateTime}
 
 Adds or replaces the metadata property with the specified name.
 
@@ -76,8 +76,8 @@ def set(self, property_name, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| property_name | str | The property name. |
-| value | DateTime | The property value. |
+| property_name | System.String | The property name. |
+| value | System.DateTime | The property value. |
 
 
 

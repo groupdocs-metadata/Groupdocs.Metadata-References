@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/jpf/
 is_root: false
-weight: 440
+weight: 450
 ---
 
 ## JPF property

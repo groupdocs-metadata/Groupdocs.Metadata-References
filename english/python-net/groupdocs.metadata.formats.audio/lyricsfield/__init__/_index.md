@@ -8,7 +8,7 @@ is_root: false
 weight: 10
 ---
 
-## __init__ {#str-str}
+## __init__ {#System.String-System.String}
 
 Initializes a new instance of the [`LyricsField`](/metadata/python-net/groupdocs.metadata.formats.audio/lyricsfield) class.
 
@@ -22,8 +22,8 @@ def __init__(self, id, data):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| id | str | The three character field id. |
-| data | str | The field data. |
+| id | System.String | The three character field id. |
+| data | System.String | The field data. |
 
 
 

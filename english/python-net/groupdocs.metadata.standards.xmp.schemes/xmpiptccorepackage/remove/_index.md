@@ -8,7 +8,7 @@ is_root: false
 weight: 70
 ---
 
-## remove {#str}
+## remove {#System.String}
 
 Removes the property with the specified name.
 
@@ -27,7 +27,7 @@ def remove(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | XMP metadata property name. |
+| name | System.String | XMP metadata property name. |
 
 
 

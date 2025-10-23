@@ -29,7 +29,7 @@ def add_properties(self, specification, value):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | specification | groupdocs.metadata.search.Specification | A specification to test each metadata property for a condition. |
-| value | [`PropertyValue`](/metadata/python-net/groupdocs.metadata.common/propertyvalue) | A value for the picked properties. |
+| value | groupdocs.metadata.common.PropertyValue | A value for the picked properties. |
 
 
 

@@ -24,7 +24,7 @@ The LyricsField type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.formats.audio/lyricsfield/__init__/#str-str) | Initializes a new instance of the [`LyricsField`](/metadata/python-net/groupdocs.metadata.formats.audio/lyricsfield) class. |
+| [__init__](/metadata/python-net/groupdocs.metadata.formats.audio/lyricsfield/__init__/#System.String-System.String) | Initializes a new instance of the [`LyricsField`](/metadata/python-net/groupdocs.metadata.formats.audio/lyricsfield) class. |
 
 
 ### Properties

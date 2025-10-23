@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/rar/
 is_root: false
-weight: 790
+weight: 800
 ---
 
 ## RAR property

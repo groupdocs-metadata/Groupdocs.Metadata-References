@@ -26,7 +26,7 @@ The ID3V2CommentFrame type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2commentframe/__init__/#groupdocs.metadata.formats.audio.ID3V2EncodingType-str-str-str) | Initializes a new instance of the [`ID3V2CommentFrame`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2commentframe) class. |
+| [__init__](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2commentframe/__init__/#groupdocs.metadata.formats.audio.ID3V2EncodingType-System.String-System.String-System.String) | Initializes a new instance of the [`ID3V2CommentFrame`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2commentframe) class. |
 
 
 ### Properties
@@ -48,7 +48,7 @@ The ID3V2CommentFrame type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [contains](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2commentframe/contains/#str) | Determines whether the package contains a metadata property with the specified name. |
+| [contains](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2commentframe/contains/#System.String) | Determines whether the package contains a metadata property with the specified name. |
 | [find_properties](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2commentframe/find_properties/#groupdocs.metadata.search.Specification) | Finds the metadata properties satisfying a specification. <br/>The search is recursive so it affects all nested packages as well. |
 | [update_properties](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2commentframe/update_properties/#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue) | Updates known metadata properties satisfying a specification.<br/>The operation is recursive so it affects all nested packages as well. |
 | [remove_properties](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2commentframe/remove_properties/#groupdocs.metadata.search.Specification) | Removes metadata properties satisfying a specification. |

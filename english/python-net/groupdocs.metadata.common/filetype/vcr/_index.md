@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/vcr/
 is_root: false
-weight: 930
+weight: 950
 ---
 
 ## VCR property

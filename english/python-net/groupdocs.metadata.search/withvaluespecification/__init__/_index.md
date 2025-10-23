@@ -8,7 +8,7 @@ is_root: false
 weight: 10
 ---
 
-## __init__ {#any}
+## __init__ {#System.Object}
 
 Initializes a new instance of the [`WithNameSpecification`](/metadata/python-net/groupdocs.metadata.search/withnamespecification) class.
 
@@ -22,7 +22,7 @@ def __init__(self, property_value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| property_value | any | The type of properties that satisfy the specification. |
+| property_value | System.Object | The type of properties that satisfy the specification. |
 
 
 

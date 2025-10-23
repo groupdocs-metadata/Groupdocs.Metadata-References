@@ -8,7 +8,7 @@ is_root: false
 weight: 210
 ---
 
-## set_title {#str}
+## set_title {#System.String}
 
 Sets the resource title, given in a single laguage.
 
@@ -22,7 +22,7 @@ def set_title(self, title):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| title | str | The title to set. |
+| title | System.String | The title to set. |
 
 
 

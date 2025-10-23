@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## __init__ {#groupdocs.metadata.standards.xmp.schemes.XmpTimeFormat-str}
+## __init__ {#groupdocs.metadata.standards.xmp.schemes.XmpTimeFormat-System.String}
 
 Initializes a new instance of the [`XmpTimecode`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmptimecode) class.
 
@@ -37,7 +37,7 @@ def __init__(self, format, time_value):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | format | groupdocs.metadata.standards.xmp.schemes.XmpTimeFormat | Time format. |
-| time_value | str | Time value. |
+| time_value | System.String | Time value. |
 
 
 

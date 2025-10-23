@@ -8,7 +8,7 @@ is_root: false
 weight: 10
 ---
 
-## __init__ {#str}
+## __init__ {#System.String}
 
 Initializes a new instance of the [`XmpGuid`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpguid) class.
 
@@ -22,7 +22,7 @@ def __init__(self, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| value | str | The value. |
+| value | System.String | The value. |
 ### Exceptions
 | Exception | Description |
 | :- | :- |
@@ -32,9 +32,9 @@ def __init__(self, value):
 
 
 
-## __init__ {#Guid}
+## __init__ {#System.Guid}
 
-Constructs a new instance of XmpGuid
+Initializes a new instance of the [`XmpGuid`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpguid) class.
 
 
 
@@ -46,7 +46,7 @@ def __init__(self, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| value | Guid |  |
+| value | System.Guid | The unique identifier. |
 
 
 

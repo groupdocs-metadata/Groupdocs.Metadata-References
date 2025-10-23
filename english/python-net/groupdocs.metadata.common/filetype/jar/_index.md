@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/jar/
 is_root: false
-weight: 400
+weight: 410
 ---
 
 ## JAR property

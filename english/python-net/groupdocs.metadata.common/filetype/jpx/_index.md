@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/jpx/
 is_root: false
-weight: 470
+weight: 480
 ---
 
 ## JPX property

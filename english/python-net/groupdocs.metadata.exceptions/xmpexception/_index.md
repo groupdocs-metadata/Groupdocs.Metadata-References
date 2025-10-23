@@ -25,7 +25,7 @@ The XmpException type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [__init__](/metadata/python-net/groupdocs.metadata.exceptions/xmpexception/__init__/#) | Initializes a new instance of the [`XmpException`](/metadata/python-net/groupdocs.metadata.exceptions/xmpexception) class. |
-| [__init__](/metadata/python-net/groupdocs.metadata.exceptions/xmpexception/__init__/#str) | Initializes a new instance of the [`XmpException`](/metadata/python-net/groupdocs.metadata.exceptions/xmpexception) class. |
+| [__init__](/metadata/python-net/groupdocs.metadata.exceptions/xmpexception/__init__/#System.String) | Initializes a new instance of the [`XmpException`](/metadata/python-net/groupdocs.metadata.exceptions/xmpexception) class. |
 
 
 

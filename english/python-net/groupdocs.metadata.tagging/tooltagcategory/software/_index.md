@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.tagging/tooltagcategory/software/
 is_root: false
-weight: 70
+weight: 80
 ---
 
 ## software property

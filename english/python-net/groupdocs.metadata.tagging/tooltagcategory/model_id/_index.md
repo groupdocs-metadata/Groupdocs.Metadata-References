@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.tagging/tooltagcategory/model_id/
 is_root: false
-weight: 60
+weight: 70
 ---
 
 ## model_id property

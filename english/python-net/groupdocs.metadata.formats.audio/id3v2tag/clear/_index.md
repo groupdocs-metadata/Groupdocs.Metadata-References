@@ -8,7 +8,7 @@ is_root: false
 weight: 40
 ---
 
-## clear {#str}
+## clear {#System.String}
 
 Removes all frames with the specified id.
 
@@ -22,7 +22,7 @@ def clear(self, frame_id):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| frame_id | str | The id of the frames to remove. |
+| frame_id | System.String | The id of the frames to remove. |
 
 
 

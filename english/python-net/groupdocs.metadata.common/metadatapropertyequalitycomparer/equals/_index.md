@@ -27,8 +27,8 @@ def equals(self, x, y):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| x | [`MetadataProperty`](/metadata/python-net/groupdocs.metadata.common/metadataproperty) | The first object of type [`MetadataProperty`](/metadata/python-net/groupdocs.metadata.common/metadataproperty) to compare. |
-| y | [`MetadataProperty`](/metadata/python-net/groupdocs.metadata.common/metadataproperty) | The second object of type [`MetadataProperty`](/metadata/python-net/groupdocs.metadata.common/metadataproperty) to compare. |
+| x | groupdocs.metadata.common.MetadataProperty | The first object of type [`MetadataProperty`](/metadata/python-net/groupdocs.metadata.common/metadataproperty) to compare. |
+| y | groupdocs.metadata.common.MetadataProperty | The second object of type [`MetadataProperty`](/metadata/python-net/groupdocs.metadata.common/metadataproperty) to compare. |
 
 
 

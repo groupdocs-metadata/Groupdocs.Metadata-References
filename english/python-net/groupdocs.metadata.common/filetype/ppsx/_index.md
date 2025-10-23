@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/ppsx/
 is_root: false
-weight: 730
+weight: 740
 ---
 
 ## PPSX property

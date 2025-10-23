@@ -27,7 +27,7 @@ def equals(self, other):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| other | [`PropertyTag`](/metadata/python-net/groupdocs.metadata.tagging/propertytag) | An object to compare with this object. |
+| other | groupdocs.metadata.tagging.PropertyTag | An object to compare with this object. |
 
 
 

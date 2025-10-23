@@ -26,7 +26,7 @@ The XmpRational type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmprational/__init__/#int-int) | Initializes a new instance of the [`XmpRational`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmprational) class. |
-| [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmprational/__init__/#str) | Initializes a new instance of the [`XmpBoolean`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpboolean) class. |
+| [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmprational/__init__/#System.String) | Initializes a new instance of the [`XmpBoolean`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpboolean) class. |
 
 
 ### Properties

@@ -8,7 +8,7 @@ is_root: false
 weight: 10
 ---
 
-## __init__ {#str}
+## __init__ {#System.String}
 
 Initializes a new instance of the [`XmpBoolean`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpboolean) class.
 
@@ -22,7 +22,7 @@ def __init__(self, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| value | str | The value. |
+| value | System.String | The value. |
 ### Exceptions
 | Exception | Description |
 | :- | :- |

@@ -28,7 +28,7 @@ The ID3V2PrivateFrame type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2privateframe/__init__/#str-bytes) | Initializes a new instance of the [`ID3V2PrivateFrame`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2privateframe) class. |
+| [__init__](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2privateframe/__init__/#System.String-bytes) | Initializes a new instance of the [`ID3V2PrivateFrame`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2privateframe) class. |
 
 
 ### Properties
@@ -48,7 +48,7 @@ The ID3V2PrivateFrame type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [contains](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2privateframe/contains/#str) | Determines whether the package contains a metadata property with the specified name. |
+| [contains](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2privateframe/contains/#System.String) | Determines whether the package contains a metadata property with the specified name. |
 | [find_properties](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2privateframe/find_properties/#groupdocs.metadata.search.Specification) | Finds the metadata properties satisfying a specification. <br/>The search is recursive so it affects all nested packages as well. |
 | [update_properties](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2privateframe/update_properties/#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue) | Updates known metadata properties satisfying a specification.<br/>The operation is recursive so it affects all nested packages as well. |
 | [remove_properties](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2privateframe/remove_properties/#groupdocs.metadata.search.Specification) | Removes metadata properties satisfying a specification. |

@@ -29,7 +29,7 @@ The XmpColorantRgb type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpcolorantrgb/__init__/#) | Initializes a new instance of the [`XmpColorantRgb`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpcolorantrgb) class. |
-| [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpcolorantrgb/__init__/#byte-byte-byte) | Initializes a new instance of the [`XmpColorantRgb`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpcolorantrgb) class. |
+| [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpcolorantrgb/__init__/#int-int-int) | Initializes a new instance of the [`XmpColorantRgb`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpcolorantrgb) class. |
 
 
 ### Properties
@@ -52,7 +52,7 @@ The XmpColorantRgb type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [contains](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpcolorantrgb/contains/#str) | Determines whether the package contains a metadata property with the specified name. |
+| [contains](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpcolorantrgb/contains/#System.String) | Determines whether the package contains a metadata property with the specified name. |
 | [find_properties](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpcolorantrgb/find_properties/#groupdocs.metadata.search.Specification) | Finds the metadata properties satisfying a specification. <br/>The search is recursive so it affects all nested packages as well. |
 | [update_properties](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpcolorantrgb/update_properties/#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue) | Updates known metadata properties satisfying a specification.<br/>The operation is recursive so it affects all nested packages as well. |
 | [remove_properties](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpcolorantrgb/remove_properties/#groupdocs.metadata.search.Specification) | Removes metadata properties satisfying a specification. |
@@ -60,7 +60,7 @@ The XmpColorantRgb type exposes the following members:
 | [set_properties](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpcolorantrgb/set_properties/#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue) | Sets known metadata properties satisfying the specification.<br/>The operation is recursive so it affects all nested packages as well.<br/>This method is a combination of [`MetadataPackage.add_properties`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/add_properties) and [`MetadataPackage.update_properties`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/update_properties). <br/>If an existing property satisfies the specification its value is updated. <br/>If there is a known property missing in the package that satisfies the specification it is added to the package. |
 | [sanitize](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpcolorantrgb/sanitize/#) | Removes writable metadata properties from the package.<br/>The operation is recursive so it affects all nested packages as well. |
 | [get_xmp_representation](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpcolorantrgb/get_xmp_representation/#) | Returns string contained value in XMP format. |
-| [get_namespace_uri](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpcolorantrgb/get_namespace_uri/#str) | Gets the namespace URI associated with the specified prefix. |
+| [get_namespace_uri](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpcolorantrgb/get_namespace_uri/#System.String) | Gets the namespace URI associated with the specified prefix. |
 
 
 

@@ -25,7 +25,7 @@ def __init__(self, value):
 | value | float | Double value. |
 
 
-## __init__ {#str}
+## __init__ {#System.String}
 
 Initializes a new instance of the [`XmpReal`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpreal) class.
 
@@ -39,7 +39,7 @@ def __init__(self, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| value | str | The value. |
+| value | System.String | The value. |
 ### Exceptions
 | Exception | Description |
 | :- | :- |

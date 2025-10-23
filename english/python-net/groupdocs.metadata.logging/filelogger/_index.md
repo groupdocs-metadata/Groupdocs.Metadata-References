@@ -19,14 +19,14 @@ The FileLogger type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.logging/filelogger/__init__/#str) | Create logger to file. |
+| [__init__](/metadata/python-net/groupdocs.metadata.logging/filelogger/__init__/#System.String) | Create logger to file. |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [trace](/metadata/python-net/groupdocs.metadata.logging/filelogger/trace/#str) | Writes trace log message; Trace log messages provides generally useful information about application flow. |
-| [warning](/metadata/python-net/groupdocs.metadata.logging/filelogger/warning/#str) | Writes warning log message; Warning log messages provides information about unexpected and recoverable event in application flow. |
+| [trace](/metadata/python-net/groupdocs.metadata.logging/filelogger/trace/#System.String) | Writes trace log message; Trace log messages provides generally useful information about application flow. |
+| [warning](/metadata/python-net/groupdocs.metadata.logging/filelogger/warning/#System.String) | Writes warning log message; Warning log messages provides information about unexpected and recoverable event in application flow. |
 
 
 

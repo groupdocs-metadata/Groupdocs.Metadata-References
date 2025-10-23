@@ -8,7 +8,7 @@ is_root: false
 weight: 180
 ---
 
-## set_relation {#str}
+## set_relation {#System.String}
 
 Sets a single related resource.
 
@@ -22,7 +22,7 @@ def set_relation(self, relation):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| relation | str | The relation to set. |
+| relation | System.String | The relation to set. |
 
 
 

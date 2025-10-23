@@ -27,7 +27,7 @@ The XmpBoolean type exposes the following members:
 | :- | :- |
 | [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpboolean/__init__/#bool) | Initializes a new instance of the [`XmpBoolean`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpboolean) class based on boolean value. |
 | [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpboolean/__init__/#) | Initializes a new instance of the [`XmpBoolean`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpboolean) class with default value. |
-| [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpboolean/__init__/#str) | Initializes a new instance of the [`XmpBoolean`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpboolean) class. |
+| [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpboolean/__init__/#System.String) | Initializes a new instance of the [`XmpBoolean`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpboolean) class. |
 
 
 ### Properties

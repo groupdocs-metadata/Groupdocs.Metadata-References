@@ -8,7 +8,7 @@ is_root: false
 weight: 10
 ---
 
-## __init__ {#groupdocs.metadata.formats.image.TiffTagID-str}
+## __init__ {#groupdocs.metadata.formats.image.TiffTagID-System.String}
 
 Initializes a new instance of the [`TiffAsciiTag`](/metadata/python-net/groupdocs.metadata.formats.image/tiffasciitag) class.
 
@@ -22,8 +22,8 @@ def __init__(self, tag_id, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| tag_id | [`TiffTagID`](/metadata/python-net/groupdocs.metadata.formats.image/tifftagid) | The tag identifier. |
-| value | str | The value. |
+| tag_id | groupdocs.metadata.formats.image.TiffTagID | The tag identifier. |
+| value | System.String | The value. |
 
 
 

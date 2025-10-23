@@ -8,7 +8,7 @@ is_root: false
 weight: 80
 ---
 
-## contains {#str}
+## contains {#System.String}
 
 Determines whether the package contains a metadata property with the specified name.
 
@@ -27,7 +27,7 @@ def contains(self, property_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| property_name | str | The name of the property to locate in the package. |
+| property_name | System.String | The name of the property to locate in the package. |
 
 
 

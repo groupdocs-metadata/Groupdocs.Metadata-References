@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/tif/
 is_root: false
-weight: 850
+weight: 870
 ---
 
 ## TIF property

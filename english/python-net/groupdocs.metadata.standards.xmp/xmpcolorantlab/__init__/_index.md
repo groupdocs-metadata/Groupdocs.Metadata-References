@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## __init__ {#sbyte-sbyte-float}
+## __init__ {#int-int-float}
 
 Initializes a new instance of the [`XmpColorantLab`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpcolorantlab) class.
 
@@ -36,8 +36,8 @@ def __init__(self, a, b, l):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| a | sbyte | A component. |
-| b | sbyte | B component. |
+| a | int | A component. |
+| b | int | B component. |
 | l | float | L component. |
 
 

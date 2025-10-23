@@ -25,7 +25,7 @@ The ImportManager type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [import_metadata](/metadata/python-net/groupdocs.metadata.importing/importmanager/import_metadata/#str-groupdocs.metadata.importing.ImportFormat-groupdocs.metadata.importing.ImportOptions) | Imports the metadata properties to a file. |
+| [import_metadata](/metadata/python-net/groupdocs.metadata.importing/importmanager/import_metadata/#System.String-groupdocs.metadata.importing.ImportFormat-groupdocs.metadata.importing.ImportOptions) | Imports the metadata properties to a file. |
 | [import_metadata](/metadata/python-net/groupdocs.metadata.importing/importmanager/import_metadata/#io.RawIOBase-groupdocs.metadata.importing.ImportFormat-groupdocs.metadata.importing.ImportOptions) | Imports the metadata properties to a file. |
 
 

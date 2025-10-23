@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/png/
 is_root: false
-weight: 670
+weight: 680
 ---
 
 ## PNG property

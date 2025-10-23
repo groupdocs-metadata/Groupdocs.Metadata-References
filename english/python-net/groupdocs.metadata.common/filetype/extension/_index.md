@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/extension/
 is_root: false
-weight: 1140
+weight: 1160
 ---
 
 ## extension property

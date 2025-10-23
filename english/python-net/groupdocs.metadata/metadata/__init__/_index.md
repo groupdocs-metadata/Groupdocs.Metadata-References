@@ -8,7 +8,7 @@ is_root: false
 weight: 10
 ---
 
-## __init__ {#str}
+## __init__ {#System.String}
 
 Initializes a new instance of the [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata) class.
 
@@ -22,7 +22,7 @@ def __init__(self, file_path):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_path | str | A string that contains the full name of the file from which to create a [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata) instance. |
+| file_path | System.String | A string that contains the full name of the file from which to create a [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata) instance. |
 
 ### Example 
 
@@ -52,9 +52,9 @@ def __init__(self, document):
 This example demonstrates how to load a file from a stream.
 
 
-## __init__ {#Uri}
+## __init__ {#System.Uri}
 
-Constructs a new instance of Metadata
+Initializes a new instance of the [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata) class.
 
 
 
@@ -66,10 +66,15 @@ def __init__(self, uri):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| uri | Uri |  |
+| uri | System.Uri | A uri that contains the document to load. |
+
+### Example 
 
 
-## __init__ {#str-groupdocs.metadata.options.LoadOptions}
+This example demonstrates how to load a file from a uri.
+
+
+## __init__ {#System.String-groupdocs.metadata.options.LoadOptions}
 
 Initializes a new instance of the [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata) class.
 
@@ -83,7 +88,7 @@ def __init__(self, file_path, load_options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_path | str | A string that contains the full name of the file from which to create a [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata) instance. |
+| file_path | System.String | A string that contains the full name of the file from which to create a [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata) instance. |
 | load_options | groupdocs.metadata.options.LoadOptions | Additional options to use when loading a document. |
 
 ### Example 
@@ -110,9 +115,9 @@ def __init__(self, document, load_options):
 | load_options | groupdocs.metadata.options.LoadOptions | Additional options to use when loading a document. |
 
 
-## __init__ {#Uri-groupdocs.metadata.options.LoadOptions}
+## __init__ {#System.Uri-groupdocs.metadata.options.LoadOptions}
 
-Constructs a new instance of Metadata
+Initializes a new instance of the [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata) class.
 
 
 
@@ -124,8 +129,8 @@ def __init__(self, uri, load_options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| uri | Uri |  |
-| load_options | groupdocs.metadata.options.LoadOptions |  |
+| uri | System.Uri | A uri that contains the document to load. |
+| load_options | groupdocs.metadata.options.LoadOptions | Additional options to use when loading a document. |
 
 
 

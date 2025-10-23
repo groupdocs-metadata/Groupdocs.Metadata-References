@@ -8,7 +8,7 @@ is_root: false
 weight: 220
 ---
 
-## set_type {#str}
+## set_type {#System.String}
 
 Sets a single type of the resource.
 
@@ -22,7 +22,7 @@ def set_type(self, type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | str | The type to set. |
+| type | System.String | The type to set. |
 
 
 

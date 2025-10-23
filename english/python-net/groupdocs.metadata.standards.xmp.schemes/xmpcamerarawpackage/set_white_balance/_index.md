@@ -22,7 +22,7 @@ def set_white_balance(self, white_balance):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| white_balance | [`XmpWhiteBalance`](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmpwhitebalance) | The white balance. |
+| white_balance | groupdocs.metadata.standards.xmp.schemes.XmpWhiteBalance | The white balance. |
 ### Exceptions
 | Exception | Description |
 | :- | :- |

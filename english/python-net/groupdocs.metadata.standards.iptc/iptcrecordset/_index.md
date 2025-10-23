@@ -49,9 +49,9 @@ The IptcRecordSet type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [remove](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcrecordset/remove/#byte-byte) | Removes the dataSet with the specified record and dataSet number. |
-| [remove](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcrecordset/remove/#byte) | Removes the record with the specified record number. |
-| [contains](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcrecordset/contains/#str) | Determines whether the package contains a metadata property with the specified name. |
+| [remove](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcrecordset/remove/#int-int) | Removes the dataSet with the specified record and dataSet number. |
+| [remove](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcrecordset/remove/#int) | Removes the record with the specified record number. |
+| [contains](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcrecordset/contains/#System.String) | Determines whether the package contains a metadata property with the specified name. |
 | [find_properties](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcrecordset/find_properties/#groupdocs.metadata.search.Specification) | Finds the metadata properties satisfying a specification. <br/>The search is recursive so it affects all nested packages as well. |
 | [update_properties](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcrecordset/update_properties/#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue) | Updates known metadata properties satisfying a specification.<br/>The operation is recursive so it affects all nested packages as well. |
 | [remove_properties](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcrecordset/remove_properties/#groupdocs.metadata.search.Specification) | Removes metadata properties satisfying a specification. |

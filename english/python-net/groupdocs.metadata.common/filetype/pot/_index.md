@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/pot/
 is_root: false
-weight: 680
+weight: 690
 ---
 
 ## POT property

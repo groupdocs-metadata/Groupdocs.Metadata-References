@@ -8,7 +8,7 @@ is_root: false
 weight: 10
 ---
 
-## __init__ {#str-str}
+## __init__ {#System.String-System.String}
 
 Initializes a new instance of the [`ID3V2UserDefinedUrlLinkFrame`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2userdefinedurllinkframe) class.
 
@@ -22,11 +22,11 @@ def __init__(self, description, url):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| description | str | The description. |
-| url | str | The actual value of the frame. |
+| description | System.String | The description. |
+| url | System.String | The actual value of the frame. |
 
 
-## __init__ {#groupdocs.metadata.formats.audio.ID3V2EncodingType-str-str}
+## __init__ {#groupdocs.metadata.formats.audio.ID3V2EncodingType-System.String-System.String}
 
 Initializes a new instance of the [`ID3V2UserDefinedUrlLinkFrame`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2userdefinedurllinkframe) class.
 
@@ -40,9 +40,9 @@ def __init__(self, encoding, description, url):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| encoding | [`ID3V2EncodingType`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2encodingtype) | The encoding of the frame. |
-| description | str | The description. |
-| url | str | The actual value of the frame. |
+| encoding | groupdocs.metadata.formats.audio.ID3V2EncodingType | The encoding of the frame. |
+| description | System.String | The description. |
+| url | System.String | The actual value of the frame. |
 
 
 

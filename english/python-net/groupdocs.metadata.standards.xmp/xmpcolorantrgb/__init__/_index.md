@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## __init__ {#byte-byte-byte}
+## __init__ {#int-int-int}
 
 Initializes a new instance of the [`XmpColorantRgb`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpcolorantrgb) class.
 
@@ -36,9 +36,9 @@ def __init__(self, red, green, blue):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| red | byte | Red component. |
-| green | byte | Green component. |
-| blue | byte | Blue component. |
+| red | int | Red component. |
+| green | int | Green component. |
+| blue | int | Blue component. |
 
 
 

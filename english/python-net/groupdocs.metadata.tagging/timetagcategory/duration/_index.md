@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.tagging/timetagcategory/duration/
 is_root: false
-weight: 40
+weight: 50
 ---
 
 ## duration property

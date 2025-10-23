@@ -47,7 +47,7 @@ The XmpPacketWrapper type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [contains](/metadata/python-net/groupdocs.metadata.standards.xmp/xmppacketwrapper/contains/#str) | Determines whether the package contains a metadata property with the specified name. |
+| [contains](/metadata/python-net/groupdocs.metadata.standards.xmp/xmppacketwrapper/contains/#System.String) | Determines whether the package contains a metadata property with the specified name. |
 | [find_properties](/metadata/python-net/groupdocs.metadata.standards.xmp/xmppacketwrapper/find_properties/#groupdocs.metadata.search.Specification) | Finds the metadata properties satisfying a specification. <br/>The search is recursive so it affects all nested packages as well. |
 | [update_properties](/metadata/python-net/groupdocs.metadata.standards.xmp/xmppacketwrapper/update_properties/#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue) | Updates known metadata properties satisfying a specification.<br/>The operation is recursive so it affects all nested packages as well. |
 | [remove_properties](/metadata/python-net/groupdocs.metadata.standards.xmp/xmppacketwrapper/remove_properties/#groupdocs.metadata.search.Specification) | Removes metadata properties satisfying a specification. |
@@ -55,8 +55,8 @@ The XmpPacketWrapper type exposes the following members:
 | [set_properties](/metadata/python-net/groupdocs.metadata.standards.xmp/xmppacketwrapper/set_properties/#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue) | Sets known metadata properties satisfying the specification.<br/>The operation is recursive so it affects all nested packages as well.<br/>This method is a combination of [`MetadataPackage.add_properties`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/add_properties) and [`MetadataPackage.update_properties`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/update_properties). <br/>If an existing property satisfies the specification its value is updated. <br/>If there is a known property missing in the package that satisfies the specification it is added to the package. |
 | [sanitize](/metadata/python-net/groupdocs.metadata.standards.xmp/xmppacketwrapper/sanitize/#) | Removes writable metadata properties from the package.<br/>The operation is recursive so it affects all nested packages as well. |
 | [add_package](/metadata/python-net/groupdocs.metadata.standards.xmp/xmppacketwrapper/add_package/#groupdocs.metadata.standards.xmp.XmpPackage) | Adds the package. |
-| [get_package](/metadata/python-net/groupdocs.metadata.standards.xmp/xmppacketwrapper/get_package/#str) | Gets package by namespace uri. |
-| [contains_package](/metadata/python-net/groupdocs.metadata.standards.xmp/xmppacketwrapper/contains_package/#str) | Determines whether package is exist in XMP wrapper. |
+| [get_package](/metadata/python-net/groupdocs.metadata.standards.xmp/xmppacketwrapper/get_package/#System.String) | Gets package by namespace uri. |
+| [contains_package](/metadata/python-net/groupdocs.metadata.standards.xmp/xmppacketwrapper/contains_package/#System.String) | Determines whether package is exist in XMP wrapper. |
 | [remove_package](/metadata/python-net/groupdocs.metadata.standards.xmp/xmppacketwrapper/remove_package/#groupdocs.metadata.standards.xmp.XmpPackage) | Removes the specified package. |
 | [clear_packages](/metadata/python-net/groupdocs.metadata.standards.xmp/xmppacketwrapper/clear_packages/#) | Removes all [`XmpPackage`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmppackage) inside XMP. |
 | [get_xmp_representation](/metadata/python-net/groupdocs.metadata.standards.xmp/xmppacketwrapper/get_xmp_representation/#) | Returns string contained value in XMP format. |

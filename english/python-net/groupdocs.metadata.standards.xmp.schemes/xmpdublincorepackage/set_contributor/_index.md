@@ -8,7 +8,7 @@ is_root: false
 weight: 110
 ---
 
-## set_contributor {#str}
+## set_contributor {#System.String}
 
 Sets a single contributor of the resource.
 
@@ -22,7 +22,7 @@ def set_contributor(self, contributor):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| contributor | str | The contributor to set. |
+| contributor | System.String | The contributor to set. |
 
 
 

@@ -8,7 +8,7 @@ is_root: false
 weight: 50
 ---
 
-## get_namespace_uri {#str}
+## get_namespace_uri {#System.String}
 
 Gets the namespace URI associated with the specified prefix.
 
@@ -27,7 +27,7 @@ def get_namespace_uri(self, prefix):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| prefix | str | The prefix of the namespace to get. |
+| prefix | System.String | The prefix of the namespace to get. |
 
 
 

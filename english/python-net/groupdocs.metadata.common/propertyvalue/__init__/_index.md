@@ -76,7 +76,7 @@ def __init__(self, value):
 | value | float | A Double value. |
 
 
-## __init__ {#str}
+## __init__ {#System.String}
 
 Initializes a new instance of the [`PropertyValue`](/metadata/python-net/groupdocs.metadata.common/propertyvalue) class with a string value.
 
@@ -90,10 +90,27 @@ def __init__(self, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| value | str | A String value. |
+| value | System.String | A String value. |
 
 
-## __init__ {#DateTime}
+## __init__ {#System.Object}
+
+Initializes a new instance of the [`PropertyValue`](/metadata/python-net/groupdocs.metadata.common/propertyvalue) class with a object value.
+
+
+
+```python
+def __init__(self, value):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| value | System.Object | A Object value. |
+
+
+## __init__ {#System.DateTime}
 
 Initializes a new instance of the [`PropertyValue`](/metadata/python-net/groupdocs.metadata.common/propertyvalue) class with a DateTime value.
 
@@ -107,12 +124,12 @@ def __init__(self, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| value | DateTime | A DateTime value. |
+| value | System.DateTime | A DateTime value. |
 
 
-## __init__ {#TimeSpan}
+## __init__ {#System.TimeSpan}
 
-Constructs a new instance of PropertyValue
+Initializes a new instance of the [`PropertyValue`](/metadata/python-net/groupdocs.metadata.common/propertyvalue) class with a TimeSpan value.
 
 
 
@@ -124,7 +141,7 @@ def __init__(self, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| value | TimeSpan |  |
+| value | System.TimeSpan | A TimeSpan value. |
 
 
 ## __init__ {#list}

@@ -8,7 +8,7 @@ is_root: false
 weight: 70
 ---
 
-## remove {#byte}
+## remove {#int}
 
 Removes the record with the specified record number.
 
@@ -27,10 +27,10 @@ def remove(self, record_number):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| record_number | byte | The record number. |
+| record_number | int | The record number. |
 
 
-## remove {#byte-byte}
+## remove {#int-int}
 
 Removes the dataSet with the specified record and dataSet number.
 
@@ -49,8 +49,8 @@ def remove(self, record_number, data_set_number):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| record_number | byte | The record number. |
-| data_set_number | byte | The dataSet number. |
+| record_number | int | The record number. |
+| data_set_number | int | The dataSet number. |
 
 
 

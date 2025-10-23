@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/ttc/
 is_root: false
-weight: 890
+weight: 910
 ---
 
 ## TTC property

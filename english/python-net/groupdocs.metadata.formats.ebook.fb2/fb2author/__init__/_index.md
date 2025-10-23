@@ -8,7 +8,7 @@ is_root: false
 weight: 10
 ---
 
-## __init__ {#str-str-str-str-str-str-str}
+## __init__ {#System.String-System.String-System.String-System.String-System.String-System.String-System.String}
 
 Constructs a new instance of Fb2Author
 
@@ -22,13 +22,13 @@ def __init__(self, first_name, middle_name, last_name, nick_name, home_page, ema
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| first_name | str |  |
-| middle_name | str |  |
-| last_name | str |  |
-| nick_name | str |  |
-| home_page | str |  |
-| email | str |  |
-| id | str |  |
+| first_name | System.String |  |
+| middle_name | System.String |  |
+| last_name | System.String |  |
+| nick_name | System.String |  |
+| home_page | System.String |  |
+| email | System.String |  |
+| id | System.String |  |
 
 
 

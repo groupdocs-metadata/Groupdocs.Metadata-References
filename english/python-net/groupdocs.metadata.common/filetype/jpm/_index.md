@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/jpm/
 is_root: false
-weight: 460
+weight: 470
 ---
 
 ## JPM property

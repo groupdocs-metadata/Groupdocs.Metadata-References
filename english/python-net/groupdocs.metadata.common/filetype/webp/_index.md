@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/webp/
 is_root: false
-weight: 1020
+weight: 1040
 ---
 
 ## WEBP property

@@ -25,8 +25,8 @@ The ConsoleLogger type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [trace](/metadata/python-net/groupdocs.metadata.logging/consolelogger/trace/#str) | Writes trace log message; Trace log messages provides generally useful information about application flow. |
-| [warning](/metadata/python-net/groupdocs.metadata.logging/consolelogger/warning/#str) | Writes warning log message; Warning log messages provides information about unexpected and recoverable event in application flow. |
+| [trace](/metadata/python-net/groupdocs.metadata.logging/consolelogger/trace/#System.String) | Writes trace log message; Trace log messages provides generally useful information about application flow. |
+| [warning](/metadata/python-net/groupdocs.metadata.logging/consolelogger/warning/#System.String) | Writes warning log message; Warning log messages provides information about unexpected and recoverable event in application flow. |
 
 
 

@@ -47,7 +47,7 @@ The LyricsTag type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [contains](/metadata/python-net/groupdocs.metadata.formats.audio/lyricstag/contains/#str) | Determines whether the package contains a metadata property with the specified name. |
+| [contains](/metadata/python-net/groupdocs.metadata.formats.audio/lyricstag/contains/#System.String) | Determines whether the package contains a metadata property with the specified name. |
 | [find_properties](/metadata/python-net/groupdocs.metadata.formats.audio/lyricstag/find_properties/#groupdocs.metadata.search.Specification) | Finds the metadata properties satisfying a specification. <br/>The search is recursive so it affects all nested packages as well. |
 | [update_properties](/metadata/python-net/groupdocs.metadata.formats.audio/lyricstag/update_properties/#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue) | Updates known metadata properties satisfying a specification.<br/>The operation is recursive so it affects all nested packages as well. |
 | [remove_properties](/metadata/python-net/groupdocs.metadata.formats.audio/lyricstag/remove_properties/#groupdocs.metadata.search.Specification) | Removes metadata properties satisfying a specification. |
@@ -55,8 +55,8 @@ The LyricsTag type exposes the following members:
 | [set_properties](/metadata/python-net/groupdocs.metadata.formats.audio/lyricstag/set_properties/#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue) | Sets known metadata properties satisfying the specification.<br/>The operation is recursive so it affects all nested packages as well.<br/>This method is a combination of [`MetadataPackage.add_properties`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/add_properties) and [`MetadataPackage.update_properties`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/update_properties). <br/>If an existing property satisfies the specification its value is updated. <br/>If there is a known property missing in the package that satisfies the specification it is added to the package. |
 | [sanitize](/metadata/python-net/groupdocs.metadata.formats.audio/lyricstag/sanitize/#) | Removes writable metadata properties from the package.<br/>The operation is recursive so it affects all nested packages as well. |
 | [set](/metadata/python-net/groupdocs.metadata.formats.audio/lyricstag/set/#groupdocs.metadata.formats.audio.LyricsField) | Adds or replaces the specified Lyrics3 field. |
-| [remove](/metadata/python-net/groupdocs.metadata.formats.audio/lyricstag/remove/#str) | Removes the field with the specified id. |
-| [get](/metadata/python-net/groupdocs.metadata.formats.audio/lyricstag/get/#str) | Gets the value of the field with the specified id. |
+| [remove](/metadata/python-net/groupdocs.metadata.formats.audio/lyricstag/remove/#System.String) | Removes the field with the specified id. |
+| [get](/metadata/python-net/groupdocs.metadata.formats.audio/lyricstag/get/#System.String) | Gets the value of the field with the specified id. |
 | [to_list](/metadata/python-net/groupdocs.metadata.formats.audio/lyricstag/to_list/#) | Creates a list from the package. |
 
 

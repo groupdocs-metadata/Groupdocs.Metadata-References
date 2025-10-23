@@ -27,7 +27,7 @@ def equals(self, other):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| other | [`TiffSRational`](/metadata/python-net/groupdocs.metadata.formats.image/tiffsrational) | An object to compare with this object. |
+| other | groupdocs.metadata.formats.image.TiffSRational | An object to compare with this object. |
 
 
 ## equals {#groupdocs.metadata.formats.image.TiffSRational-groupdocs.metadata.formats.image.TiffSRational}
@@ -49,8 +49,8 @@ def equals(self, rational, other):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| rational | [`TiffSRational`](/metadata/python-net/groupdocs.metadata.formats.image/tiffsrational) | Comparing item. |
-| other | [`TiffSRational`](/metadata/python-net/groupdocs.metadata.formats.image/tiffsrational) | Other item. |
+| rational | groupdocs.metadata.formats.image.TiffSRational | Comparing item. |
+| other | groupdocs.metadata.formats.image.TiffSRational | Other item. |
 
 
 

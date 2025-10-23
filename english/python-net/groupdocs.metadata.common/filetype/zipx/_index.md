@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/zipx/
 is_root: false
-weight: 1120
+weight: 1140
 ---
 
 ## ZIPX property

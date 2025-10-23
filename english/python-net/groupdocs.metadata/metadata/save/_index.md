@@ -49,7 +49,7 @@ def save(self, document):
 This example shows how to save a document to the specified stream.
 
 
-## save {#str}
+## save {#System.String}
 
 Saves the document content to the specified file.
 
@@ -63,7 +63,7 @@ def save(self, file_path):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_path | str | The full name of the output file. |
+| file_path | System.String | The full name of the output file. |
 
 ### Example 
 

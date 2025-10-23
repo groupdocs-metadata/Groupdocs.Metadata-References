@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.formats.email/msgrootpackage/property_descriptors/
 is_root: false
-weight: 160
+weight: 170
 ---
 
 ## property_descriptors property

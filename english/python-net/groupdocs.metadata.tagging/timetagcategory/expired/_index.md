@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.tagging/timetagcategory/expired/
 is_root: false
-weight: 50
+weight: 60
 ---
 
 ## expired property

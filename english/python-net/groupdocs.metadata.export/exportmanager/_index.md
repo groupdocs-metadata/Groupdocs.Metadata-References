@@ -25,9 +25,9 @@ The ExportManager type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [export](/metadata/python-net/groupdocs.metadata.export/exportmanager/export/#str-groupdocs.metadata.export.ExportFormat-groupdocs.metadata.export.ExportOptions) | Exports the metadata properties to a file. |
+| [export](/metadata/python-net/groupdocs.metadata.export/exportmanager/export/#System.String-groupdocs.metadata.export.ExportFormat-groupdocs.metadata.export.ExportOptions) | Exports the metadata properties to a file. |
 | [export](/metadata/python-net/groupdocs.metadata.export/exportmanager/export/#io.RawIOBase-groupdocs.metadata.export.ExportFormat-groupdocs.metadata.export.ExportOptions) | Exports the metadata properties to a stream. |
-| [export](/metadata/python-net/groupdocs.metadata.export/exportmanager/export/#str-groupdocs.metadata.export.ExportFormat) | Exports the metadata properties to a file. |
+| [export](/metadata/python-net/groupdocs.metadata.export/exportmanager/export/#System.String-groupdocs.metadata.export.ExportFormat) | Exports the metadata properties to a file. |
 | [export](/metadata/python-net/groupdocs.metadata.export/exportmanager/export/#io.RawIOBase-groupdocs.metadata.export.ExportFormat) | Exports the metadata properties to a stream. |
 
 

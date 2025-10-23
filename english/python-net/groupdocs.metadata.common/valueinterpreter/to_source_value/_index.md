@@ -27,10 +27,11 @@ def to_source_value(self, interpreted_value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| interpreted_value | [`PropertyValue`](/metadata/python-net/groupdocs.metadata.common/propertyvalue) | The interpreted value to convert. |
+| interpreted_value | groupdocs.metadata.common.PropertyValue | The interpreted value to convert. |
 
 
 
 ### See Also
 * module [`groupdocs.metadata.common`](../../)
+* class [`PropertyValue`](/metadata/python-net/groupdocs.metadata.common/propertyvalue)
 * class [`ValueInterpreter`](/metadata/python-net/groupdocs.metadata.common/valueinterpreter)

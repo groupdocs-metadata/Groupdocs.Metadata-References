@@ -8,7 +8,7 @@ is_root: false
 weight: 10
 ---
 
-## __init__ {#int-str}
+## __init__ {#int-System.String}
 
 Initializes a new instance of the [`RawAsciiTag`](/metadata/python-net/groupdocs.metadata.formats.raw.tag/rawasciitag) class.
 
@@ -23,7 +23,7 @@ def __init__(self, tag_id, value):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | tag_id | int | The tag identifier. |
-| value | str | The value. |
+| value | System.String | The value. |
 
 
 

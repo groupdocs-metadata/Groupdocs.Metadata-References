@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/mpt/
 is_root: false
-weight: 570
+weight: 580
 ---
 
 ## MPT property

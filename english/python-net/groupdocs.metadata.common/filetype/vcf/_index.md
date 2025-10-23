@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/vcf/
 is_root: false
-weight: 920
+weight: 940
 ---
 
 ## VCF property

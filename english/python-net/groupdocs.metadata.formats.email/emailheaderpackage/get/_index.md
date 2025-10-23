@@ -8,7 +8,7 @@ is_root: false
 weight: 50
 ---
 
-## get {#str}
+## get {#System.String}
 
 Gets the value of the specified header.
 
@@ -27,7 +27,7 @@ def get(self, header):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| header | str | An email header. |
+| header | System.String | An email header. |
 
 
 

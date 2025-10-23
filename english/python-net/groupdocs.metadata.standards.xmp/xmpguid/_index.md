@@ -25,8 +25,8 @@ The XmpGuid type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpguid/__init__/#str) | Initializes a new instance of the [`XmpGuid`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpguid) class. |
-| [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpguid/__init__/#Guid) | Constructs a new instance of XmpGuid |
+| [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpguid/__init__/#System.String) | Initializes a new instance of the [`XmpGuid`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpguid) class. |
+| [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpguid/__init__/#System.Guid) | Initializes a new instance of the [`XmpGuid`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpguid) class. |
 
 
 ### Properties

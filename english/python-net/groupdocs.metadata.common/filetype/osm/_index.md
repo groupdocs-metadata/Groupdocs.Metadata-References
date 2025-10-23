@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/osm/
 is_root: false
-weight: 630
+weight: 640
 ---
 
 ## OSM property

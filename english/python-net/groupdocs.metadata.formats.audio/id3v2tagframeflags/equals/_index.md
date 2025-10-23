@@ -27,7 +27,7 @@ def equals(self, other):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| other | [`ID3V2TagFrameFlags`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2tagframeflags) | An object to compare with this object. |
+| other | groupdocs.metadata.formats.audio.ID3V2TagFrameFlags | An object to compare with this object. |
 
 
 

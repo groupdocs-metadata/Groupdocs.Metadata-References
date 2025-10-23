@@ -8,7 +8,7 @@ is_root: false
 weight: 130
 ---
 
-## set_date {#DateTime}
+## set_date {#System.DateTime}
 
 Sets a single date associated with the resource.
 
@@ -22,7 +22,7 @@ def set_date(self, date):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| date | DateTime | The date to set. |
+| date | System.DateTime | The date to set. |
 
 
 

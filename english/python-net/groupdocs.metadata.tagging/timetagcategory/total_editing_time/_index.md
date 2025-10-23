@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.tagging/timetagcategory/total_editing_time/
 is_root: false
-weight: 100
+weight: 110
 ---
 
 ## total_editing_time property

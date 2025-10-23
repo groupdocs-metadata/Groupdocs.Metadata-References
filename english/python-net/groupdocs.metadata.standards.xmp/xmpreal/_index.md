@@ -26,7 +26,7 @@ The XmpReal type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpreal/__init__/#float) | Initializes a new instance of the [`XmpReal`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpreal) class. |
-| [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpreal/__init__/#str) | Initializes a new instance of the [`XmpReal`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpreal) class. |
+| [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpreal/__init__/#System.String) | Initializes a new instance of the [`XmpReal`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpreal) class. |
 
 
 ### Properties

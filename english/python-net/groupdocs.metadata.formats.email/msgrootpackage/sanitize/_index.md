@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.formats.email/msgrootpackage/sanitize/
 is_root: false
-weight: 70
+weight: 80
 ---
 
 ## sanitize {#}

@@ -22,7 +22,7 @@ def __init__(self, array_type, items):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| array_type | [`XmpArrayType`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmparraytype) | Array type. |
+| array_type | groupdocs.metadata.standards.xmp.XmpArrayType | Array type. |
 | items | list | Array items. |
 
 
@@ -40,7 +40,7 @@ def __init__(self, array_type, items):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| array_type | [`XmpArrayType`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmparraytype) | Array type. |
+| array_type | groupdocs.metadata.standards.xmp.XmpArrayType | Array type. |
 | items | list | Array items. |
 
 

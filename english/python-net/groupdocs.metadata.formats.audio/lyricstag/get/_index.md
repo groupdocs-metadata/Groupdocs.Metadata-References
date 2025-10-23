@@ -8,7 +8,7 @@ is_root: false
 weight: 50
 ---
 
-## get {#str}
+## get {#System.String}
 
 Gets the value of the field with the specified id.
 
@@ -27,7 +27,7 @@ def get(self, id):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| id | str | The id of the field. |
+| id | System.String | The id of the field. |
 
 
 

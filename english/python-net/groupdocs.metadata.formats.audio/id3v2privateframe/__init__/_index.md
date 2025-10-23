@@ -8,7 +8,7 @@ is_root: false
 weight: 10
 ---
 
-## __init__ {#str-bytes}
+## __init__ {#System.String-bytes}
 
 Initializes a new instance of the [`ID3V2PrivateFrame`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2privateframe) class.
 
@@ -22,7 +22,7 @@ def __init__(self, owner_identifier, data):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| owner_identifier | str | The owner identifier. |
+| owner_identifier | System.String | The owner identifier. |
 | data | bytes | Frame binary data. |
 
 

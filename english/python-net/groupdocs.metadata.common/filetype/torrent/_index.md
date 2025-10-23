@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/torrent/
 is_root: false
-weight: 880
+weight: 900
 ---
 
 ## TORRENT property

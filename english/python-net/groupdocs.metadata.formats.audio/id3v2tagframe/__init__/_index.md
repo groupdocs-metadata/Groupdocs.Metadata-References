@@ -8,7 +8,7 @@ is_root: false
 weight: 10
 ---
 
-## __init__ {#str-bytes}
+## __init__ {#System.String-bytes}
 
 Initializes a new instance of the [`ID3V2TagFrame`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2tagframe) class.
 
@@ -22,7 +22,7 @@ def __init__(self, frame_id, data):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| frame_id | str | The id of the frame (four characters matching the pattern [A-Z0-9]). |
+| frame_id | System.String | The id of the frame (four characters matching the pattern [A-Z0-9]). |
 | data | bytes | The content of the frame. |
 
 

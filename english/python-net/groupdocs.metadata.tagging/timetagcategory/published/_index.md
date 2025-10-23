@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.tagging/timetagcategory/published/
 is_root: false
-weight: 90
+weight: 100
 ---
 
 ## published property

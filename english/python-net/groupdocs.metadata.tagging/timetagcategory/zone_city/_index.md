@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.tagging/timetagcategory/zone_city/
 is_root: false
-weight: 110
+weight: 120
 ---
 
 ## zone_city property

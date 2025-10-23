@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/vtx/
 is_root: false
-weight: 990
+weight: 1010
 ---
 
 ## VTX property

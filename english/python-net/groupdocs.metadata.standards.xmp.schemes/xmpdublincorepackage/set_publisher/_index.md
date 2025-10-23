@@ -8,7 +8,7 @@ is_root: false
 weight: 170
 ---
 
-## set_publisher {#str}
+## set_publisher {#System.String}
 
 Sets a single publisher of the resource.
 
@@ -22,7 +22,7 @@ def set_publisher(self, publisher):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| publisher | str | The publisher to set. |
+| publisher | System.String | The publisher to set. |
 
 
 

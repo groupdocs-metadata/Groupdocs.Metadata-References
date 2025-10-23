@@ -8,7 +8,7 @@ is_root: false
 weight: 150
 ---
 
-## set_language {#str}
+## set_language {#System.String}
 
 Sets a single language associated with the resource.
 
@@ -22,7 +22,7 @@ def set_language(self, language):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| language | str | The language to set. |
+| language | System.String | The language to set. |
 
 
 

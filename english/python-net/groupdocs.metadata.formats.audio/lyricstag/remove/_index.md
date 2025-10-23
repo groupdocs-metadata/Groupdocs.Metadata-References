@@ -8,7 +8,7 @@ is_root: false
 weight: 60
 ---
 
-## remove {#str}
+## remove {#System.String}
 
 Removes the field with the specified id.
 
@@ -22,7 +22,7 @@ def remove(self, id):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| id | str | The field identifier. |
+| id | System.String | The field identifier. |
 
 
 

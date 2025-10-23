@@ -68,7 +68,7 @@ The ID3V2Tag type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [contains](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2tag/contains/#str) | Determines whether the package contains a metadata property with the specified name. |
+| [contains](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2tag/contains/#System.String) | Determines whether the package contains a metadata property with the specified name. |
 | [find_properties](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2tag/find_properties/#groupdocs.metadata.search.Specification) | Finds the metadata properties satisfying a specification. <br/>The search is recursive so it affects all nested packages as well. |
 | [update_properties](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2tag/update_properties/#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue) | Updates known metadata properties satisfying a specification.<br/>The operation is recursive so it affects all nested packages as well. |
 | [remove_properties](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2tag/remove_properties/#groupdocs.metadata.search.Specification) | Removes metadata properties satisfying a specification. |
@@ -77,9 +77,9 @@ The ID3V2Tag type exposes the following members:
 | [sanitize](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2tag/sanitize/#) | Removes writable metadata properties from the package.<br/>The operation is recursive so it affects all nested packages as well. |
 | [to_list](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2tag/to_list/#) | Creates a list from the package. |
 | [remove_attached_pictures](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2tag/remove_attached_pictures/#) | Removes all attached pictures stored in APIC frames. |
-| [get](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2tag/get/#str) | Gets an array of frames with the specified id. |
+| [get](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2tag/get/#System.String) | Gets an array of frames with the specified id. |
 | [set](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2tag/set/#groupdocs.metadata.formats.audio.ID3V2TagFrame) | Removes all frames having the same id as the specified one and adds the new frame to the tag. |
-| [clear](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2tag/clear/#str) | Removes all frames with the specified id. |
+| [clear](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2tag/clear/#System.String) | Removes all frames with the specified id. |
 | [add](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2tag/add/#groupdocs.metadata.formats.audio.ID3V2TagFrame) | Adds a frame to the tag. |
 | [remove](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2tag/remove/#groupdocs.metadata.formats.audio.ID3V2TagFrame) | Removes the specified frame from the tag. |
 

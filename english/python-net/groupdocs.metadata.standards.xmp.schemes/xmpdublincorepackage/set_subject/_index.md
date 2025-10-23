@@ -8,7 +8,7 @@ is_root: false
 weight: 200
 ---
 
-## set_subject {#str}
+## set_subject {#System.String}
 
 Sets a single subject of the resource.
 
@@ -22,7 +22,7 @@ def set_subject(self, subject):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| subject | str | The subject to set. |
+| subject | System.String | The subject to set. |
 
 
 

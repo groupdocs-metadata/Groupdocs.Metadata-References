@@ -8,7 +8,7 @@ is_root: false
 weight: 10
 ---
 
-## __init__ {#DateTime}
+## __init__ {#System.DateTime}
 
 Initializes a new instance of the [`XmpDate`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpdate) class.
 
@@ -22,10 +22,10 @@ def __init__(self, date_time):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| date_time | DateTime | DateTime value. |
+| date_time | System.DateTime | DateTime value. |
 
 
-## __init__ {#str}
+## __init__ {#System.String}
 
 Initializes a new instance of the [`XmpDate`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpdate) class.
 
@@ -39,7 +39,7 @@ def __init__(self, date_string):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| date_string | str | Date in string representation. |
+| date_string | System.String | Date in string representation. |
 ### Exceptions
 | Exception | Description |
 | :- | :- |

@@ -8,7 +8,7 @@ is_root: false
 weight: 60
 ---
 
-## remove {#str}
+## remove {#System.String}
 
 Removes the content type property with the specified name.
 
@@ -27,7 +27,7 @@ def remove(self, property_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| property_name | str | The name of the content type property to be removed. |
+| property_name | System.String | The name of the content type property to be removed. |
 
 
 

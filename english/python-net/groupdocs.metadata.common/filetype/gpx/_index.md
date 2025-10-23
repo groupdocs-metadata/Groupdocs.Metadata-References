@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/gpx/
 is_root: false
-weight: 360
+weight: 370
 ---
 
 ## GPX property

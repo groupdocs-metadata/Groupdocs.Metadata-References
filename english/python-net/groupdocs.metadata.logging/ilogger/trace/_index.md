@@ -8,7 +8,7 @@ is_root: false
 weight: 20
 ---
 
-## trace {#str}
+## trace {#System.String}
 
 Writes trace log message; Trace log messages provides generally useful information about application flow.
 
@@ -22,7 +22,7 @@ def trace(self, message):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| message | str | The error message. |
+| message | System.String | The error message. |
 
 
 

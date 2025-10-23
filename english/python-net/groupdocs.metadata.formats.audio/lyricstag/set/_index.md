@@ -22,7 +22,7 @@ def set(self, field):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| field | [`LyricsField`](/metadata/python-net/groupdocs.metadata.formats.audio/lyricsfield) | The field to be set. |
+| field | groupdocs.metadata.formats.audio.LyricsField | The field to be set. |
 
 
 

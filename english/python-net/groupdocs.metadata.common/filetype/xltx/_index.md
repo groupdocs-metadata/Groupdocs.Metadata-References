@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/xltx/
 is_root: false
-weight: 1100
+weight: 1120
 ---
 
 ## XLTX property

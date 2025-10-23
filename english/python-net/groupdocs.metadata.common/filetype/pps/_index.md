@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/pps/
 is_root: false
-weight: 710
+weight: 720
 ---
 
 ## PPS property

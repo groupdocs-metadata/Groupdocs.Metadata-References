@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.formats.email/msgrootpackage/count/
 is_root: false
-weight: 110
+weight: 120
 ---
 
 ## count property

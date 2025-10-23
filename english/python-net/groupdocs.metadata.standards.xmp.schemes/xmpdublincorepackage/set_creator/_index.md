@@ -8,7 +8,7 @@ is_root: false
 weight: 120
 ---
 
-## set_creator {#str}
+## set_creator {#System.String}
 
 Sets a single creator of the resource.
 
@@ -22,7 +22,7 @@ def set_creator(self, creator):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| creator | str | The creator to set. |
+| creator | System.String | The creator to set. |
 
 
 

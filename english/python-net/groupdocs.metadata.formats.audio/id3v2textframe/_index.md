@@ -27,7 +27,7 @@ The ID3V2TextFrame type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2textframe/__init__/#str-groupdocs.metadata.formats.audio.ID3V2EncodingType-str) | Initializes a new instance of the [`ID3V2TextFrame`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2textframe) class. |
+| [__init__](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2textframe/__init__/#System.String-groupdocs.metadata.formats.audio.ID3V2EncodingType-System.String) | Initializes a new instance of the [`ID3V2TextFrame`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2textframe) class. |
 
 
 ### Properties
@@ -47,7 +47,7 @@ The ID3V2TextFrame type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [contains](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2textframe/contains/#str) | Determines whether the package contains a metadata property with the specified name. |
+| [contains](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2textframe/contains/#System.String) | Determines whether the package contains a metadata property with the specified name. |
 | [find_properties](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2textframe/find_properties/#groupdocs.metadata.search.Specification) | Finds the metadata properties satisfying a specification. <br/>The search is recursive so it affects all nested packages as well. |
 | [update_properties](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2textframe/update_properties/#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue) | Updates known metadata properties satisfying a specification.<br/>The operation is recursive so it affects all nested packages as well. |
 | [remove_properties](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2textframe/remove_properties/#groupdocs.metadata.search.Specification) | Removes metadata properties satisfying a specification. |

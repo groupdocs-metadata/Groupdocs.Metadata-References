@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/vss/
 is_root: false
-weight: 970
+weight: 990
 ---
 
 ## VSS property

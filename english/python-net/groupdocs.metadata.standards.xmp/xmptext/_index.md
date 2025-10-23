@@ -25,7 +25,7 @@ The XmpText type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmptext/__init__/#str) | Initializes a new instance of the [`XmpText`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmptext) class. |
+| [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmptext/__init__/#System.String) | Initializes a new instance of the [`XmpText`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmptext) class. |
 
 
 ### Properties

@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/mk3d/
 is_root: false
-weight: 500
+weight: 510
 ---
 
 ## MK3D property

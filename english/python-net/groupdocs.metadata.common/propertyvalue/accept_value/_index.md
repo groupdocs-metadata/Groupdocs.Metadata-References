@@ -22,7 +22,7 @@ def accept_value(self, value_acceptor):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| value_acceptor | [`ValueAcceptor`](/metadata/python-net/groupdocs.metadata.common/valueacceptor) | An acceptor that extracts the value. |
+| value_acceptor | groupdocs.metadata.common.ValueAcceptor | An acceptor that extracts the value. |
 
 
 

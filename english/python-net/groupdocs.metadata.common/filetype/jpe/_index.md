@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/jpe/
 is_root: false
-weight: 420
+weight: 430
 ---
 
 ## JPE property

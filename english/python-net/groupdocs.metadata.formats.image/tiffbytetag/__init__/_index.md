@@ -22,7 +22,7 @@ def __init__(self, tag_id, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| tag_id | [`TiffTagID`](/metadata/python-net/groupdocs.metadata.formats.image/tifftagid) | The tag identifier. |
+| tag_id | groupdocs.metadata.formats.image.TiffTagID | The tag identifier. |
 | value | bytes | The value. |
 
 

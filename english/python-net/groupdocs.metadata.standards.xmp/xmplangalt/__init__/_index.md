@@ -8,7 +8,7 @@ is_root: false
 weight: 10
 ---
 
-## __init__ {#str}
+## __init__ {#System.String}
 
 Initializes a new instance of the [`XmpLangAlt`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmplangalt) class.
 
@@ -22,7 +22,7 @@ def __init__(self, default_value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| default_value | str | The default value. |
+| default_value | System.String | The default value. |
 
 
 

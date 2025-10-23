@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## __init__ {#str}
+## __init__ {#System.String}
 
 Initializes a new instance of the [`XmpFont`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpfont) class.
 
@@ -36,7 +36,7 @@ def __init__(self, font_family):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| font_family | str | Font family. |
+| font_family | System.String | Font family. |
 
 
 

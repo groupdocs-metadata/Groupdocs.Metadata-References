@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/tar/
 is_root: false
-weight: 830
+weight: 850
 ---
 
 ## TAR property

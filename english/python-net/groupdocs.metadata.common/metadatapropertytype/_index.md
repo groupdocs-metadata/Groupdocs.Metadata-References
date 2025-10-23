@@ -36,6 +36,7 @@ The MetadataPropertyType type exposes the following members:
 | METADATA_ARRAY | Represents an array of nested metadata blocks. |
 | GUID | Represents a global unique identifier value. |
 | PROPERTY_VALUE_ARRAY | Represents a metadata property value array. |
+| OBJECT | Represents a metadata property value object. |
 
 
 

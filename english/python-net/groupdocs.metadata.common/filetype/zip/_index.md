@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/zip/
 is_root: false
-weight: 1110
+weight: 1130
 ---
 
 ## ZIP property

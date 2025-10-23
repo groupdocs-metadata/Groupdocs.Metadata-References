@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/jp2/
 is_root: false
-weight: 410
+weight: 420
 ---
 
 ## JP2 property

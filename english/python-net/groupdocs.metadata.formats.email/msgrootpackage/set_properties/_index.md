@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.formats.email/msgrootpackage/set_properties/
 is_root: false
-weight: 80
+weight: 90
 ---
 
 ## set_properties {#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue}

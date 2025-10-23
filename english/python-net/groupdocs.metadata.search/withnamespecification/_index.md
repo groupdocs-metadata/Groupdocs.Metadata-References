@@ -24,8 +24,8 @@ The WithNameSpecification type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.search/withnamespecification/__init__/#str) | Initializes a new instance of the [`WithNameSpecification`](/metadata/python-net/groupdocs.metadata.search/withnamespecification) class. |
-| [__init__](/metadata/python-net/groupdocs.metadata.search/withnamespecification/__init__/#str-bool) | Initializes a new instance of the [`WithNameSpecification`](/metadata/python-net/groupdocs.metadata.search/withnamespecification) class. |
+| [__init__](/metadata/python-net/groupdocs.metadata.search/withnamespecification/__init__/#System.String) | Initializes a new instance of the [`WithNameSpecification`](/metadata/python-net/groupdocs.metadata.search/withnamespecification) class. |
+| [__init__](/metadata/python-net/groupdocs.metadata.search/withnamespecification/__init__/#System.String-bool) | Initializes a new instance of the [`WithNameSpecification`](/metadata/python-net/groupdocs.metadata.search/withnamespecification) class. |
 
 
 ### Properties

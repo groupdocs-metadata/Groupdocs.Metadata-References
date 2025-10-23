@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/ttf/
 is_root: false
-weight: 900
+weight: 920
 ---
 
 ## TTF property

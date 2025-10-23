@@ -22,7 +22,7 @@ def remove_package(self, package):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| package | [`XmpPackage`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmppackage) | The package. |
+| package | groupdocs.metadata.standards.xmp.XmpPackage | The package. |
 
 
 

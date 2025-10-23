@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/odt/
 is_root: false
-weight: 600
+weight: 610
 ---
 
 ## ODT property

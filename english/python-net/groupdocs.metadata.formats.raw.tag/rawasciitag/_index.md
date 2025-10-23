@@ -25,7 +25,7 @@ The RawAsciiTag type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.formats.raw.tag/rawasciitag/__init__/#int-str) | Initializes a new instance of the [`RawAsciiTag`](/metadata/python-net/groupdocs.metadata.formats.raw.tag/rawasciitag) class. |
+| [__init__](/metadata/python-net/groupdocs.metadata.formats.raw.tag/rawasciitag/__init__/#int-System.String) | Initializes a new instance of the [`RawAsciiTag`](/metadata/python-net/groupdocs.metadata.formats.raw.tag/rawasciitag) class. |
 
 
 ### Properties

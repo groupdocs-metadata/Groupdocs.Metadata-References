@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.tagging/tooltagcategory/software_manufacturer/
 is_root: false
-weight: 80
+weight: 90
 ---
 
 ## software_manufacturer property

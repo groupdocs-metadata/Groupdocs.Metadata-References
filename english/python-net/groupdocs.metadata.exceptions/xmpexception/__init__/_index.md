@@ -22,7 +22,7 @@ def __init__(self):
 
 
 
-## __init__ {#str}
+## __init__ {#System.String}
 
 Initializes a new instance of the [`XmpException`](/metadata/python-net/groupdocs.metadata.exceptions/xmpexception) class.
 
@@ -36,7 +36,7 @@ def __init__(self, message):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| message | str | The message. |
+| message | System.String | The message. |
 
 
 

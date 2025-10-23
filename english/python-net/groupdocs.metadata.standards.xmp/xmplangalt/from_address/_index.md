@@ -28,7 +28,7 @@ def from_address(self, array, type):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | array | list | The array to create an [`XmpArray`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmparray) from. |
-| type | [`XmpArrayType`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmparraytype) | The type of the [`XmpArray`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmparray). |
+| type | groupdocs.metadata.standards.xmp.XmpArrayType | The type of the [`XmpArray`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmparray). |
 
 
 ## from_address {#list-groupdocs.metadata.standards.xmp.XmpArrayType}
@@ -51,7 +51,7 @@ def from_address(self, array, type):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | array | list | The array to create an [`XmpArray`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmparray) from. |
-| type | [`XmpArrayType`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmparraytype) | The type of the [`XmpArray`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmparray). |
+| type | groupdocs.metadata.standards.xmp.XmpArrayType | The type of the [`XmpArray`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmparray). |
 
 
 ## from_address {#list-groupdocs.metadata.standards.xmp.XmpArrayType}
@@ -74,7 +74,7 @@ def from_address(self, array, type):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | array | list | The array to create an [`XmpArray`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmparray) from. |
-| type | [`XmpArrayType`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmparraytype) | The type of the [`XmpArray`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmparray). |
+| type | groupdocs.metadata.standards.xmp.XmpArrayType | The type of the [`XmpArray`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmparray). |
 
 
 ## from_address {#list-groupdocs.metadata.standards.xmp.XmpArrayType}
@@ -97,7 +97,7 @@ def from_address(self, array, type):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | array | list | The array to create an [`XmpArray`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmparray) from. |
-| type | [`XmpArrayType`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmparraytype) | The type of the [`XmpArray`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmparray). |
+| type | groupdocs.metadata.standards.xmp.XmpArrayType | The type of the [`XmpArray`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmparray). |
 
 
 

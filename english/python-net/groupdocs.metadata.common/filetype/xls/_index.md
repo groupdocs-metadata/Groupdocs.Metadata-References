@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/xls/
 is_root: false
-weight: 1040
+weight: 1060
 ---
 
 ## XLS property

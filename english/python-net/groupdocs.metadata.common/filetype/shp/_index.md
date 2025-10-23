@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/shp/
 is_root: false
-weight: 810
+weight: 820
 ---
 
 ## SHP property

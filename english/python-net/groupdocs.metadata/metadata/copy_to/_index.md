@@ -34,7 +34,7 @@ def copy_to(self, metadata):
 This example demonstrates how to copy metadata properties from source package to destination package.
 
 
-## copy_to {#groupdocs.metadata.common.MetadataPackage-System.Collections.Generic.List<GroupDocs.Metadata.Tagging.PropertyTag>}
+## copy_to {#groupdocs.metadata.common.MetadataPackage-System.Collections.Generic.List`1[[GroupDocs.Metadata.Tagging.PropertyTag]]}
 
 
 
@@ -49,7 +49,7 @@ def copy_to(self, metadata, tags):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | metadata | groupdocs.metadata.common.MetadataPackage |  |
-| tags | System.Collections.Generic.List<GroupDocs.Metadata.Tagging.PropertyTag> |  |
+| tags | System.Collections.Generic.List`1[[GroupDocs.Metadata.Tagging.PropertyTag]] |  |
 
 
 

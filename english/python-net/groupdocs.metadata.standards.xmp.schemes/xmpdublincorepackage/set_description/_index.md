@@ -8,7 +8,7 @@ is_root: false
 weight: 140
 ---
 
-## set_description {#str}
+## set_description {#System.String}
 
 Sets the resource description, given in a single laguage.
 
@@ -22,7 +22,7 @@ def set_description(self, description):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| description | str | The description to set. |
+| description | System.String | The description to set. |
 
 
 

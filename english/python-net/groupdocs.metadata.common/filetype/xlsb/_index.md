@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/xlsb/
 is_root: false
-weight: 1050
+weight: 1070
 ---
 
 ## XLSB property

@@ -22,7 +22,7 @@ def set_audio_channel_type(self, audio_channel_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| audio_channel_type | [`XmpAudioChannelType`](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmpaudiochanneltype) | The audio channel type. |
+| audio_channel_type | groupdocs.metadata.standards.xmp.schemes.XmpAudioChannelType | The audio channel type. |
 
 
 

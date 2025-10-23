@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.formats.email/msgrootpackage/keys/
 is_root: false
-weight: 140
+weight: 150
 ---
 
 ## keys property

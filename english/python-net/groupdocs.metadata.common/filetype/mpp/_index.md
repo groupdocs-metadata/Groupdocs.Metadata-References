@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/mpp/
 is_root: false
-weight: 560
+weight: 570
 ---
 
 ## MPP property

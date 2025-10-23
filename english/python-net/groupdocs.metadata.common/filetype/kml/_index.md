@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/kml/
 is_root: false
-weight: 480
+weight: 490
 ---
 
 ## KML property

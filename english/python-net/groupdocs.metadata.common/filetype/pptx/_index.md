@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/pptx/
 is_root: false
-weight: 760
+weight: 770
 ---
 
 ## PPTX property

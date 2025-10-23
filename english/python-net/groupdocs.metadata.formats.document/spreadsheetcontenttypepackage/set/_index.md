@@ -8,7 +8,7 @@ is_root: false
 weight: 90
 ---
 
-## set {#str-str}
+## set {#System.String-System.String}
 
 Adds or replaces the content type property with the specified name.
 
@@ -22,11 +22,11 @@ def set(self, property_name, property_value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| property_name | str | The property name. |
-| property_value | str | The property value. |
+| property_name | System.String | The property name. |
+| property_value | System.String | The property value. |
 
 
-## set {#str-str-str}
+## set {#System.String-System.String-System.String}
 
 Adds or replaces the content type property with the specified name.
 
@@ -40,9 +40,9 @@ def set(self, property_name, property_value, property_type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| property_name | str | The property name. |
-| property_value | str | The property value. |
-| property_type | str | The property type. |
+| property_name | System.String | The property name. |
+| property_value | System.String | The property value. |
+| property_type | System.String | The property type. |
 
 
 

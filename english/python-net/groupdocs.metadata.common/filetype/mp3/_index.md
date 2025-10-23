@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/mp3/
 is_root: false
-weight: 550
+weight: 560
 ---
 
 ## MP3 property

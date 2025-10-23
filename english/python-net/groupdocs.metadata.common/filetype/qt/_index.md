@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/qt/
 is_root: false
-weight: 780
+weight: 790
 ---
 
 ## QT property

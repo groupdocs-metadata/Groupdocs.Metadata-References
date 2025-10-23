@@ -25,7 +25,7 @@ The License type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_license](/metadata/python-net/groupdocs.metadata/license/set_license/#str) | Licenses the component. |
+| [set_license](/metadata/python-net/groupdocs.metadata/license/set_license/#System.String) | Licenses the component. |
 | [set_license](/metadata/python-net/groupdocs.metadata/license/set_license/#io.RawIOBase) | Licenses the component. |
 
 

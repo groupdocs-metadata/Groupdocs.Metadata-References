@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.tagging/timetagcategory/printed/
 is_root: false
-weight: 80
+weight: 90
 ---
 
 ## printed property

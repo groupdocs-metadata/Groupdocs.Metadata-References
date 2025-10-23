@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/psd/
 is_root: false
-weight: 770
+weight: 780
 ---
 
 ## PSD property

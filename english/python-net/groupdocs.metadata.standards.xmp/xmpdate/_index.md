@@ -25,8 +25,8 @@ The XmpDate type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpdate/__init__/#DateTime) | Initializes a new instance of the [`XmpDate`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpdate) class. |
-| [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpdate/__init__/#str) | Initializes a new instance of the [`XmpDate`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpdate) class. |
+| [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpdate/__init__/#System.DateTime) | Initializes a new instance of the [`XmpDate`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpdate) class. |
+| [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpdate/__init__/#System.String) | Initializes a new instance of the [`XmpDate`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpdate) class. |
 
 
 ### Properties

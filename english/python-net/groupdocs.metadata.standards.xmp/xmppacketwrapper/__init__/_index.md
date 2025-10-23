@@ -36,9 +36,9 @@ def __init__(self, header, trailer, xmp_meta):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| header | [`XmpHeaderPI`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpheaderpi) | XMP header processing instruction. |
-| trailer | [`XmpTrailerPI`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmptrailerpi) | XMP trailer processing instruction. |
-| xmp_meta | [`XmpMeta`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpmeta) | Instance of [`XmpMeta`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpmeta). |
+| header | groupdocs.metadata.standards.xmp.XmpHeaderPI | XMP header processing instruction. |
+| trailer | groupdocs.metadata.standards.xmp.XmpTrailerPI | XMP trailer processing instruction. |
+| xmp_meta | groupdocs.metadata.standards.xmp.XmpMeta | Instance of [`XmpMeta`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpmeta). |
 
 
 

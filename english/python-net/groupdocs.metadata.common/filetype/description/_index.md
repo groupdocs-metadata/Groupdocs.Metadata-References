@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/description/
 is_root: false
-weight: 1130
+weight: 1150
 ---
 
 ## description property

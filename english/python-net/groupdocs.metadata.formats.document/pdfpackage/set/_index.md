@@ -8,7 +8,7 @@ is_root: false
 weight: 110
 ---
 
-## set {#str-str}
+## set {#System.String-System.String}
 
 Adds or replaces the metadata property with the specified name.
 
@@ -22,8 +22,8 @@ def set(self, property_name, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| property_name | str | The property name. |
-| value | str | The property value. |
+| property_name | System.String | The property name. |
+| value | System.String | The property value. |
 
 
 

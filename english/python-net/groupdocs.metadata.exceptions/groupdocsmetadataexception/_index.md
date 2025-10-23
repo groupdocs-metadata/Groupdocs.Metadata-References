@@ -20,7 +20,7 @@ The GroupDocsMetadataException type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [__init__](/metadata/python-net/groupdocs.metadata.exceptions/groupdocsmetadataexception/__init__/#) | Initializes a new instance of the [`GroupDocsMetadataException`](/metadata/python-net/groupdocs.metadata.exceptions/groupdocsmetadataexception) class. |
-| [__init__](/metadata/python-net/groupdocs.metadata.exceptions/groupdocsmetadataexception/__init__/#str) | Initializes a new instance of the [`GroupDocsMetadataException`](/metadata/python-net/groupdocs.metadata.exceptions/groupdocsmetadataexception) class. |
+| [__init__](/metadata/python-net/groupdocs.metadata.exceptions/groupdocsmetadataexception/__init__/#System.String) | Initializes a new instance of the [`GroupDocsMetadataException`](/metadata/python-net/groupdocs.metadata.exceptions/groupdocsmetadataexception) class. |
 
 
 

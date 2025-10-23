@@ -8,7 +8,7 @@ is_root: false
 weight: 50
 ---
 
-## contains_attribute {#str}
+## contains_attribute {#System.String}
 
 Determines whether the element contains a specific attribute.
 
@@ -27,7 +27,7 @@ def contains_attribute(self, attribute):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| attribute | str | Attribute name. |
+| attribute | System.String | Attribute name. |
 
 
 

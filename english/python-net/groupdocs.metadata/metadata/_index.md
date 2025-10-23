@@ -19,12 +19,12 @@ The Metadata type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata/metadata/__init__/#str) | Initializes a new instance of the [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata) class. |
+| [__init__](/metadata/python-net/groupdocs.metadata/metadata/__init__/#System.String) | Initializes a new instance of the [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata) class. |
 | [__init__](/metadata/python-net/groupdocs.metadata/metadata/__init__/#io.RawIOBase) | Initializes a new instance of the [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata) class. |
-| [__init__](/metadata/python-net/groupdocs.metadata/metadata/__init__/#str-groupdocs.metadata.options.LoadOptions) | Initializes a new instance of the [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata) class. |
+| [__init__](/metadata/python-net/groupdocs.metadata/metadata/__init__/#System.String-groupdocs.metadata.options.LoadOptions) | Initializes a new instance of the [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata) class. |
 | [__init__](/metadata/python-net/groupdocs.metadata/metadata/__init__/#io.RawIOBase-groupdocs.metadata.options.LoadOptions) | Initializes a new instance of the [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata) class. |
-| [__init__](/metadata/python-net/groupdocs.metadata/metadata/__init__/#Uri) | Constructs a new instance of Metadata |
-| [__init__](/metadata/python-net/groupdocs.metadata/metadata/__init__/#Uri-groupdocs.metadata.options.LoadOptions) | Constructs a new instance of Metadata |
+| [__init__](/metadata/python-net/groupdocs.metadata/metadata/__init__/#System.Uri) | Initializes a new instance of the [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata) class. |
+| [__init__](/metadata/python-net/groupdocs.metadata/metadata/__init__/#System.Uri-groupdocs.metadata.options.LoadOptions) | Initializes a new instance of the [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata) class. |
 
 
 ### Properties
@@ -38,9 +38,9 @@ The Metadata type exposes the following members:
 | :- | :- |
 | [save](/metadata/python-net/groupdocs.metadata/metadata/save/#) | Saves all changes made in the loaded document. |
 | [save](/metadata/python-net/groupdocs.metadata/metadata/save/#io.RawIOBase) | Saves the document content into a stream. |
-| [save](/metadata/python-net/groupdocs.metadata/metadata/save/#str) | Saves the document content to the specified file. |
+| [save](/metadata/python-net/groupdocs.metadata/metadata/save/#System.String) | Saves the document content to the specified file. |
 | [copy_to](/metadata/python-net/groupdocs.metadata/metadata/copy_to/#groupdocs.metadata.common.MetadataPackage) | Copy known metadata properties from source package to destination package.<br/>The operation is recursive so it affects all nested packages as well.<br/>If an existing property its value is updated. <br/>If there is a known property missing in a destination package it is added to the package.<br/>If there is a known property missing in a source package it is not remove from destination package. If that need, use Sanitize method before. |
-| [copy_to](/metadata/python-net/groupdocs.metadata/metadata/copy_to/#groupdocs.metadata.common.MetadataPackage-System.Collections.Generic.List<GroupDocs.Metadata.Tagging.PropertyTag>) |  |
+| [copy_to](/metadata/python-net/groupdocs.metadata/metadata/copy_to/#groupdocs.metadata.common.MetadataPackage-System.Collections.Generic.List`1[[GroupDocs.Metadata.Tagging.PropertyTag]]) |  |
 | [get_root_package](/metadata/python-net/groupdocs.metadata/metadata/get_root_package/#) | Gets the root package providing access to all metadata properties extracted from the file. |
 | [find_properties](/metadata/python-net/groupdocs.metadata/metadata/find_properties/#groupdocs.metadata.search.Specification) | Finds the metadata properties satisfying a specification. <br/>The search is recursive so it affects all nested packages as well. |
 | [update_properties](/metadata/python-net/groupdocs.metadata/metadata/update_properties/#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue) | Updates known metadata properties satisfying a specification.<br/>The operation is recursive so it affects all nested packages as well. |

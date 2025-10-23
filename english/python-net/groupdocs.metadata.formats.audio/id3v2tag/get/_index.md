@@ -8,7 +8,7 @@ is_root: false
 weight: 70
 ---
 
-## get {#str}
+## get {#System.String}
 
 Gets an array of frames with the specified id.
 
@@ -27,7 +27,7 @@ def get(self, frame_id):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| frame_id | str | The id of the frames to get. |
+| frame_id | System.String | The id of the frames to get. |
 
 
 

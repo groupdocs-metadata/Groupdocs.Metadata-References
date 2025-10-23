@@ -27,10 +27,11 @@ def to_interpreted_value(self, original_value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| original_value | [`PropertyValue`](/metadata/python-net/groupdocs.metadata.common/propertyvalue) | The value to interpret. |
+| original_value | groupdocs.metadata.common.PropertyValue | The value to interpret. |
 
 
 
 ### See Also
 * module [`groupdocs.metadata.common`](../../)
+* class [`PropertyValue`](/metadata/python-net/groupdocs.metadata.common/propertyvalue)
 * class [`ValueInterpreter`](/metadata/python-net/groupdocs.metadata.common/valueinterpreter)

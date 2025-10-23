@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/stl/
 is_root: false
-weight: 820
+weight: 830
 ---
 
 ## STL property

@@ -43,17 +43,17 @@ The XmpMeta type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [contains](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpmeta/contains/#str) | Determines whether the package contains a metadata property with the specified name. |
+| [contains](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpmeta/contains/#System.String) | Determines whether the package contains a metadata property with the specified name. |
 | [find_properties](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpmeta/find_properties/#groupdocs.metadata.search.Specification) | Finds the metadata properties satisfying a specification. <br/>The search is recursive so it affects all nested packages as well. |
 | [update_properties](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpmeta/update_properties/#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue) | Updates known metadata properties satisfying a specification.<br/>The operation is recursive so it affects all nested packages as well. |
 | [remove_properties](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpmeta/remove_properties/#groupdocs.metadata.search.Specification) | Removes metadata properties satisfying a specification. |
 | [add_properties](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpmeta/add_properties/#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue) | Adds known metadata properties satisfying the specification.<br/>The operation is recursive so it affects all nested packages as well. |
 | [set_properties](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpmeta/set_properties/#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue) | Sets known metadata properties satisfying the specification.<br/>The operation is recursive so it affects all nested packages as well.<br/>This method is a combination of [`MetadataPackage.add_properties`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/add_properties) and [`MetadataPackage.update_properties`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/update_properties). <br/>If an existing property satisfies the specification its value is updated. <br/>If there is a known property missing in the package that satisfies the specification it is added to the package. |
 | [sanitize](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpmeta/sanitize/#) | Removes writable metadata properties from the package.<br/>The operation is recursive so it affects all nested packages as well. |
-| [set_attribute](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpmeta/set_attribute/#str-str) | Adds an attribute. |
+| [set_attribute](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpmeta/set_attribute/#System.String-System.String) | Adds an attribute. |
 | [clear_attributes](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpmeta/clear_attributes/#) | Removes all attributes. |
-| [contains_attribute](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpmeta/contains_attribute/#str) | Determines whether the element contains a specific attribute. |
-| [get_attribute](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpmeta/get_attribute/#str) | Gets the attribute. |
+| [contains_attribute](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpmeta/contains_attribute/#System.String) | Determines whether the element contains a specific attribute. |
+| [get_attribute](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpmeta/get_attribute/#System.String) | Gets the attribute. |
 | [get_xmp_representation](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpmeta/get_xmp_representation/#) | Converts XMP value to the xml representation. |
 
 

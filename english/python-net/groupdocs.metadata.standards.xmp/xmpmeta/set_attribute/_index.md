@@ -8,7 +8,7 @@ is_root: false
 weight: 110
 ---
 
-## set_attribute {#str-str}
+## set_attribute {#System.String-System.String}
 
 Adds an attribute.
 
@@ -22,8 +22,8 @@ def set_attribute(self, attribute, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| attribute | str | The attribute. |
-| value | str | The value. |
+| attribute | System.String | The attribute. |
+| value | System.String | The value. |
 
 
 

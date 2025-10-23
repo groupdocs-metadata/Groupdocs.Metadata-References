@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/msg/
 is_root: false
-weight: 580
+weight: 590
 ---
 
 ## MSG property

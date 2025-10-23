@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/otc/
 is_root: false
-weight: 640
+weight: 650
 ---
 
 ## OTC property

@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/ods/
 is_root: false
-weight: 590
+weight: 600
 ---
 
 ## ODS property

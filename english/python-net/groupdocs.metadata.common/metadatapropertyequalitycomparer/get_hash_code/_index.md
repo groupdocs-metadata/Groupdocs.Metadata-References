@@ -27,7 +27,7 @@ def get_hash_code(self, obj):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| obj | [`MetadataProperty`](/metadata/python-net/groupdocs.metadata.common/metadataproperty) | The [`MetadataProperty`](/metadata/python-net/groupdocs.metadata.common/metadataproperty) for which a hash code is to be returned. |
+| obj | groupdocs.metadata.common.MetadataProperty | The [`MetadataProperty`](/metadata/python-net/groupdocs.metadata.common/metadataproperty) for which a hash code is to be returned. |
 ### Exceptions
 | Exception | Description |
 | :- | :- |

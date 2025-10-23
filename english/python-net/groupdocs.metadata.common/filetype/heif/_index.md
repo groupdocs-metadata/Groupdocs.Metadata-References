@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/heif/
 is_root: false
-weight: 380
+weight: 390
 ---
 
 ## HEIF property

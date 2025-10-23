@@ -26,8 +26,8 @@ The ID3V2AttachedPictureFrame type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe/__init__/#groupdocs.metadata.formats.audio.ID3V2EncodingType-str-groupdocs.metadata.formats.audio.ID3V2AttachedPictureType-str-bytes) | Initializes a new instance of the [`ID3V2AttachedPictureFrame`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe) class. |
-| [__init__](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe/__init__/#groupdocs.metadata.formats.audio.ID3V2AttachedPictureType-str-bytes) | Initializes a new instance of the [`ID3V2AttachedPictureFrame`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe) class. |
+| [__init__](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe/__init__/#groupdocs.metadata.formats.audio.ID3V2EncodingType-System.String-groupdocs.metadata.formats.audio.ID3V2AttachedPictureType-System.String-bytes) | Initializes a new instance of the [`ID3V2AttachedPictureFrame`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe) class. |
+| [__init__](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe/__init__/#groupdocs.metadata.formats.audio.ID3V2AttachedPictureType-System.String-bytes) | Initializes a new instance of the [`ID3V2AttachedPictureFrame`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe) class. |
 | [__init__](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe/__init__/#bytes) | Initializes a new instance of the [`ID3V2AttachedPictureFrame`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe) class. |
 
 
@@ -51,7 +51,7 @@ The ID3V2AttachedPictureFrame type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [contains](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe/contains/#str) | Determines whether the package contains a metadata property with the specified name. |
+| [contains](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe/contains/#System.String) | Determines whether the package contains a metadata property with the specified name. |
 | [find_properties](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe/find_properties/#groupdocs.metadata.search.Specification) | Finds the metadata properties satisfying a specification. <br/>The search is recursive so it affects all nested packages as well. |
 | [update_properties](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe/update_properties/#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue) | Updates known metadata properties satisfying a specification.<br/>The operation is recursive so it affects all nested packages as well. |
 | [remove_properties](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe/remove_properties/#groupdocs.metadata.search.Specification) | Removes metadata properties satisfying a specification. |

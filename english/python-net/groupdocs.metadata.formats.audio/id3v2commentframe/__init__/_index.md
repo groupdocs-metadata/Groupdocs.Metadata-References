@@ -8,7 +8,7 @@ is_root: false
 weight: 10
 ---
 
-## __init__ {#groupdocs.metadata.formats.audio.ID3V2EncodingType-str-str-str}
+## __init__ {#groupdocs.metadata.formats.audio.ID3V2EncodingType-System.String-System.String-System.String}
 
 Initializes a new instance of the [`ID3V2CommentFrame`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2commentframe) class.
 
@@ -22,10 +22,10 @@ def __init__(self, encoding, language, description, text):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| encoding | [`ID3V2EncodingType`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2encodingtype) | The encoding of the comment. |
-| language | str | The language of the comment. |
-| description | str | A short content description. |
-| text | str | The text of the comment. |
+| encoding | groupdocs.metadata.formats.audio.ID3V2EncodingType | The encoding of the comment. |
+| language | System.String | The language of the comment. |
+| description | System.String | A short content description. |
+| text | System.String | The text of the comment. |
 
 
 

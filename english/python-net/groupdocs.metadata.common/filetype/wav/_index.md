@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/wav/
 is_root: false
-weight: 1000
+weight: 1020
 ---
 
 ## WAV property

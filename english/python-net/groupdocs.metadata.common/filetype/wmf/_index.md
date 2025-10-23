@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/wmf/
 is_root: false
-weight: 1030
+weight: 1050
 ---
 
 ## WMF property

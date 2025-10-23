@@ -27,10 +27,11 @@ def either(self, other):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| other | [`Specification`](/metadata/python-net/groupdocs.metadata.search/specification) | A specification to combine with. |
+| other | groupdocs.metadata.search.Specification | A specification to combine with. |
 
 
 
 ### See Also
 * module [`groupdocs.metadata.search`](../../)
 * class [`AndSpecification`](/metadata/python-net/groupdocs.metadata.search/andspecification)
+* class [`Specification`](/metadata/python-net/groupdocs.metadata.search/specification)

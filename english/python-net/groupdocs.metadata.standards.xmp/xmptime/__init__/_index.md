@@ -36,7 +36,7 @@ def __init__(self, scale, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| scale | [`XmpRational`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmprational) | The scale. |
+| scale | groupdocs.metadata.standards.xmp.XmpRational | The scale. |
 | value | int | The value. |
 
 

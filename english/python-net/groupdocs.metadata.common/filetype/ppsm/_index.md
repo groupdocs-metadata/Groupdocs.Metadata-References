@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/ppsm/
 is_root: false
-weight: 720
+weight: 730
 ---
 
 ## PPSM property

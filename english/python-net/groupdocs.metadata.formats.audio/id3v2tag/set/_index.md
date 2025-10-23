@@ -22,7 +22,7 @@ def set(self, frame):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| frame | [`ID3V2TagFrame`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2tagframe) | The frame to replace all frames of its kind with. |
+| frame | groupdocs.metadata.formats.audio.ID3V2TagFrame | The frame to replace all frames of its kind with. |
 
 
 

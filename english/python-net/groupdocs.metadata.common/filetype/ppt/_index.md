@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/ppt/
 is_root: false
-weight: 740
+weight: 750
 ---
 
 ## PPT property

@@ -25,7 +25,7 @@ The Fb2Sequence type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.formats.ebook.fb2/fb2sequence/__init__/#str-int-str) | Constructs a new instance of Fb2Sequence |
+| [__init__](/metadata/python-net/groupdocs.metadata.formats.ebook.fb2/fb2sequence/__init__/#System.String-int-System.String) | Constructs a new instance of Fb2Sequence |
 
 
 ### Properties
@@ -43,7 +43,7 @@ The Fb2Sequence type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [contains](/metadata/python-net/groupdocs.metadata.formats.ebook.fb2/fb2sequence/contains/#str) | Determines whether the package contains a metadata property with the specified name. |
+| [contains](/metadata/python-net/groupdocs.metadata.formats.ebook.fb2/fb2sequence/contains/#System.String) | Determines whether the package contains a metadata property with the specified name. |
 | [find_properties](/metadata/python-net/groupdocs.metadata.formats.ebook.fb2/fb2sequence/find_properties/#groupdocs.metadata.search.Specification) | Finds the metadata properties satisfying a specification. <br/>The search is recursive so it affects all nested packages as well. |
 | [update_properties](/metadata/python-net/groupdocs.metadata.formats.ebook.fb2/fb2sequence/update_properties/#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue) | Updates known metadata properties satisfying a specification.<br/>The operation is recursive so it affects all nested packages as well. |
 | [remove_properties](/metadata/python-net/groupdocs.metadata.formats.ebook.fb2/fb2sequence/remove_properties/#groupdocs.metadata.search.Specification) | Removes metadata properties satisfying a specification. |

@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.formats.email/msgrootpackage/remove_properties/
 is_root: false
-weight: 60
+weight: 70
 ---
 
 ## remove_properties {#groupdocs.metadata.search.Specification}

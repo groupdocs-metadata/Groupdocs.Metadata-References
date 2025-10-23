@@ -22,7 +22,7 @@ def start(self, logger):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| logger | [`ILogger`](/metadata/python-net/groupdocs.metadata.logging/ilogger) | The error message. |
+| logger | groupdocs.metadata.logging.ILogger | The error message. |
 
 
 

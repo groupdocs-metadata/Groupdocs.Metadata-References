@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/otf/
 is_root: false
-weight: 650
+weight: 660
 ---
 
 ## OTF property

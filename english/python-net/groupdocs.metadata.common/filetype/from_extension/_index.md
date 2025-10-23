@@ -8,7 +8,7 @@ is_root: false
 weight: 20
 ---
 
-## from_extension {#str}
+## from_extension {#System.String}
 
 Gets FileType for provided fileExtension
 
@@ -27,7 +27,7 @@ def from_extension(self, file_extension):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_extension | str | File extension |
+| file_extension | System.String | File extension |
 
 
 

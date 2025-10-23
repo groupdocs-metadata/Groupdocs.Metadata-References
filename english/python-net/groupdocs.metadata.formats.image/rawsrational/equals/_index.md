@@ -27,7 +27,7 @@ def equals(self, other):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| other | [`RawSRational`](/metadata/python-net/groupdocs.metadata.formats.image/rawsrational) | An object to compare with this object. |
+| other | groupdocs.metadata.formats.image.RawSRational | An object to compare with this object. |
 
 
 ## equals {#groupdocs.metadata.formats.image.RawSRational-groupdocs.metadata.formats.image.RawSRational}
@@ -49,8 +49,8 @@ def equals(self, rational, other):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| rational | [`RawSRational`](/metadata/python-net/groupdocs.metadata.formats.image/rawsrational) | Comparing item. |
-| other | [`RawSRational`](/metadata/python-net/groupdocs.metadata.formats.image/rawsrational) | Other item. |
+| rational | groupdocs.metadata.formats.image.RawSRational | Comparing item. |
+| other | groupdocs.metadata.formats.image.RawSRational | Other item. |
 
 
 

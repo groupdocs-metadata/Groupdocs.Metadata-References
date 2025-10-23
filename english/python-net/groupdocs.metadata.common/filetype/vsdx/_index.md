@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/vsdx/
 is_root: false
-weight: 960
+weight: 980
 ---
 
 ## VSDX property

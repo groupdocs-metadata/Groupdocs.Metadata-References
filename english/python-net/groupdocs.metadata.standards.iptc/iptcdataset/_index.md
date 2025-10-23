@@ -24,10 +24,10 @@ The IptcDataSet type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset/__init__/#byte-byte-bytes) | Initializes a new instance of the [`IptcDataSet`](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset) class. |
-| [__init__](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset/__init__/#byte-byte-str) | Initializes a new instance of the [`IptcDataSet`](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset) class. |
-| [__init__](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset/__init__/#byte-byte-int) | Initializes a new instance of the [`IptcDataSet`](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset) class. |
-| [__init__](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset/__init__/#byte-byte-DateTime) | Initializes a new instance of the [`IptcDataSet`](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset) class. |
+| [__init__](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset/__init__/#int-int-bytes) | Initializes a new instance of the [`IptcDataSet`](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset) class. |
+| [__init__](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset/__init__/#int-int-System.String) | Initializes a new instance of the [`IptcDataSet`](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset) class. |
+| [__init__](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset/__init__/#int-int-int) | Initializes a new instance of the [`IptcDataSet`](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset) class. |
+| [__init__](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset/__init__/#int-int-System.DateTime) | Initializes a new instance of the [`IptcDataSet`](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset) class. |
 
 
 ### Properties

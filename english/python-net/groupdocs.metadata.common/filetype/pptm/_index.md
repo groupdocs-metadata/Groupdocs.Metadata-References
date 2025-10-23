@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/pptm/
 is_root: false
-weight: 750
+weight: 760
 ---
 
 ## PPTM property

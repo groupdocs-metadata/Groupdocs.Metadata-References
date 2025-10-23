@@ -8,7 +8,7 @@ is_root: false
 weight: 70
 ---
 
-## get_attribute {#str}
+## get_attribute {#System.String}
 
 Gets the attribute.
 
@@ -27,7 +27,7 @@ def get_attribute(self, attribute):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| attribute | str | The attribute. |
+| attribute | System.String | The attribute. |
 
 
 

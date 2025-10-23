@@ -8,7 +8,7 @@ is_root: false
 weight: 10
 ---
 
-## __init__ {#str-bytes}
+## __init__ {#System.String-bytes}
 
 MsgAttachmentPackage constructor
 
@@ -22,7 +22,7 @@ def __init__(self, name, content):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | Attachment name |
+| name | System.String | Attachment name |
 | content | bytes | Attachment file which byte[] |
 
 

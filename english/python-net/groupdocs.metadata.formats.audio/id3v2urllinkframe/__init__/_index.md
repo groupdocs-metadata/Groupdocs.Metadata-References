@@ -8,7 +8,7 @@ is_root: false
 weight: 10
 ---
 
-## __init__ {#str-str}
+## __init__ {#System.String-System.String}
 
 Initializes a new instance of the [`ID3V2UrlLinkFrame`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2urllinkframe) class.
 
@@ -22,8 +22,8 @@ def __init__(self, id, url):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| id | str | The frame id. |
-| url | str | The URL which is the value of the frame. |
+| id | System.String | The frame id. |
+| url | System.String | The URL which is the value of the frame. |
 
 
 

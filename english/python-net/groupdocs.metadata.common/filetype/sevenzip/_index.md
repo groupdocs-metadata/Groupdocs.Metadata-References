@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/sevenzip/
 is_root: false
-weight: 800
+weight: 810
 ---
 
 ## SEVENZIP property

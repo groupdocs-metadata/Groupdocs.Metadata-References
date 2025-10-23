@@ -8,7 +8,7 @@ is_root: false
 weight: 80
 ---
 
-## get_package {#str}
+## get_package {#System.String}
 
 Gets package by namespace uri.
 
@@ -27,7 +27,7 @@ def get_package(self, namespace_uri):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| namespace_uri | str | Package schema uri. |
+| namespace_uri | System.String | Package schema uri. |
 ### Exceptions
 | Exception | Description |
 | :- | :- |

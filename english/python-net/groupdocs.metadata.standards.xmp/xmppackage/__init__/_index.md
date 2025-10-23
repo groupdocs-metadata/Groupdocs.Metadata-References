@@ -8,7 +8,7 @@ is_root: false
 weight: 10
 ---
 
-## __init__ {#str-str}
+## __init__ {#System.String-System.String}
 
 Initializes a new instance of the [`XmpPackage`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmppackage) class.
 
@@ -22,8 +22,8 @@ def __init__(self, prefix, namespace_uri):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| prefix | str | XMP prefix, for example dc:title. |
-| namespace_uri | str | Namespace uri. |
+| prefix | System.String | XMP prefix, for example dc:title. |
+| namespace_uri | System.String | Namespace uri. |
 
 
 

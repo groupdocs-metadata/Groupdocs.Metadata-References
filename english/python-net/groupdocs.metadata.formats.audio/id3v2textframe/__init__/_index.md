@@ -8,7 +8,7 @@ is_root: false
 weight: 10
 ---
 
-## __init__ {#str-groupdocs.metadata.formats.audio.ID3V2EncodingType-str}
+## __init__ {#System.String-groupdocs.metadata.formats.audio.ID3V2EncodingType-System.String}
 
 Initializes a new instance of the [`ID3V2TextFrame`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2textframe) class.
 
@@ -22,9 +22,9 @@ def __init__(self, id, encoding, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| id | str | The frame id. |
-| encoding | [`ID3V2EncodingType`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2encodingtype) | The encoding of the frame. |
-| value | str | The frame value. |
+| id | System.String | The frame id. |
+| encoding | groupdocs.metadata.formats.audio.ID3V2EncodingType | The encoding of the frame. |
+| value | System.String | The frame value. |
 
 
 

@@ -8,7 +8,7 @@ is_root: false
 weight: 60
 ---
 
-## contains_package {#str}
+## contains_package {#System.String}
 
 Determines whether package is exist in XMP wrapper.
 
@@ -27,7 +27,7 @@ def contains_package(self, namespace_uri):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| namespace_uri | str | Package namespace URI. |
+| namespace_uri | System.String | Package namespace URI. |
 ### Exceptions
 | Exception | Description |
 | :- | :- |

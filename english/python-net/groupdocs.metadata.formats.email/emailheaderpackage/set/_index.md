@@ -8,7 +8,7 @@ is_root: false
 weight: 80
 ---
 
-## set {#str-groupdocs.metadata.common.PropertyValue}
+## set {#System.String-groupdocs.metadata.common.PropertyValue}
 
 Set the value of the specified header.
 
@@ -22,7 +22,7 @@ def set(self, header, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| header | str | An email header. |
+| header | System.String | An email header. |
 | value | groupdocs.metadata.common.PropertyValue | An email header value. |
 
 

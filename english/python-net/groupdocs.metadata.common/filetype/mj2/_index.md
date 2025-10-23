@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/mj2/
 is_root: false
-weight: 490
+weight: 500
 ---
 
 ## MJ2 property

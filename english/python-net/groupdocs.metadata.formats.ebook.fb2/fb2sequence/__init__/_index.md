@@ -8,7 +8,7 @@ is_root: false
 weight: 10
 ---
 
-## __init__ {#str-int-str}
+## __init__ {#System.String-int-System.String}
 
 Constructs a new instance of Fb2Sequence
 
@@ -22,9 +22,9 @@ def __init__(self, name, number, lang):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str |  |
+| name | System.String |  |
 | number | int |  |
-| lang | str |  |
+| lang | System.String |  |
 
 
 

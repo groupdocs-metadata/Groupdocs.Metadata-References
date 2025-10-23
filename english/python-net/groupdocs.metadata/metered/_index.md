@@ -25,7 +25,7 @@ The Metered type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_metered_key](/metadata/python-net/groupdocs.metadata/metered/set_metered_key/#str-str) | Sets metered public and private key |
+| [set_metered_key](/metadata/python-net/groupdocs.metadata/metered/set_metered_key/#System.String-System.String) | Sets metered public and private key |
 | [get_consumption_quantity](/metadata/python-net/groupdocs.metadata/metered/get_consumption_quantity/#) | Gets the consumption file size. |
 | [get_consumption_credit](/metadata/python-net/groupdocs.metadata/metered/get_consumption_credit/#) | Gets the consumption credit. |
 

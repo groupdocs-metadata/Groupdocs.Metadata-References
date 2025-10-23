@@ -8,7 +8,7 @@ is_root: false
 weight: 190
 ---
 
-## set_rights {#str}
+## set_rights {#System.String}
 
 Sets the resource rights, given in a single laguage.
 
@@ -22,7 +22,7 @@ def set_rights(self, rights):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| rights | str | The rights statements to set. |
+| rights | System.String | The rights statements to set. |
 
 
 

@@ -31,3 +31,4 @@ def is_not(self):
 ### See Also
 * module [`groupdocs.metadata.search`](../../)
 * class [`AnySpecification`](/metadata/python-net/groupdocs.metadata.search/anyspecification)
+* class [`Specification`](/metadata/python-net/groupdocs.metadata.search/specification)

@@ -5,7 +5,7 @@ description:
 type: docs
 url: /python-net/groupdocs.metadata.formats.email/msgrootpackage/email_package/
 is_root: false
-weight: 120
+weight: 130
 ---
 
 ## email_package property
