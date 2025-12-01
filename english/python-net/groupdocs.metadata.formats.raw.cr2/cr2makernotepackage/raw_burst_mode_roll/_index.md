@@ -3,9 +3,9 @@ title: raw_burst_mode_roll property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 990
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/raw_burst_mode_roll/
 is_root: false
-weight: 990
 ---
 
 ## raw_burst_mode_roll property

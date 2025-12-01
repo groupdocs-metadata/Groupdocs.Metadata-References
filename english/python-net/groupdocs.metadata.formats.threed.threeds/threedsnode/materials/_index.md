@@ -3,9 +3,9 @@ title: materials property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 120
 url: /python-net/groupdocs.metadata.formats.threed.threeds/threedsnode/materials/
 is_root: false
-weight: 120
 ---
 
 ## materials property

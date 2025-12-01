@@ -3,9 +3,9 @@ title: titles_of_parts property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 420
 url: /python-net/groupdocs.metadata.formats.document/wordprocessingpackage/titles_of_parts/
 is_root: false
-weight: 420
 ---
 
 ## titles_of_parts property

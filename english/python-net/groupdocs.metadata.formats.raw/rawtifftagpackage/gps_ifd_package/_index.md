@@ -3,9 +3,9 @@ title: gps_ifd_package property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 220
 url: /python-net/groupdocs.metadata.formats.raw/rawtifftagpackage/gps_ifd_package/
 is_root: false
-weight: 220
 ---
 
 ## gps_ifd_package property

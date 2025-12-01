@@ -3,12 +3,12 @@ title: remove method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 60
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2panoramapackage/remove/
 is_root: false
-weight: 60
 ---
 
-## remove {#int}
+## remove(self, tag_id) {#int}
 
 Removes the property with the specified id.
 
@@ -20,6 +20,7 @@ True if the specified Raw tag is found and removed; otherwise, false.
 
 
 ```python
+
 def remove(self, tag_id):
     ...
 ```

@@ -3,9 +3,9 @@ title: ExportFormat enumeration
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 70
 url: /python-net/groupdocs.metadata.export/exportformat/
 is_root: false
-weight: 70
 ---
 
 ## ExportFormat enumeration

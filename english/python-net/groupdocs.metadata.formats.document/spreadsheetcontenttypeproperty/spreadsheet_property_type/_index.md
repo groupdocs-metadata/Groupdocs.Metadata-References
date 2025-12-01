@@ -3,9 +3,9 @@ title: spreadsheet_property_type property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 60
 url: /python-net/groupdocs.metadata.formats.document/spreadsheetcontenttypeproperty/spreadsheet_property_type/
 is_root: false
-weight: 60
 ---
 
 ## spreadsheet_property_type property

@@ -3,9 +3,9 @@ title: scale property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 180
 url: /python-net/groupdocs.metadata.standards.xmp/xmptime/scale/
 is_root: false
-weight: 180
 ---
 
 ## scale property

@@ -3,9 +3,9 @@ title: modification_date_time property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 140
 url: /python-net/groupdocs.metadata.formats.archive/rarfile/modification_date_time/
 is_root: false
-weight: 140
 ---
 
 ## modification_date_time property

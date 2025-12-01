@@ -3,9 +3,9 @@ title: spatial property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 630
 url: /python-net/groupdocs.metadata.formats.ebook/epubpackage/spatial/
 is_root: false
-weight: 630
 ---
 
 ## spatial property

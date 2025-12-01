@@ -3,9 +3,9 @@ title: iptc_package property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 130
 url: /python-net/groupdocs.metadata.formats.image/tiffrootpackage/iptc_package/
 is_root: false
-weight: 130
 ---
 
 ## iptc_package property

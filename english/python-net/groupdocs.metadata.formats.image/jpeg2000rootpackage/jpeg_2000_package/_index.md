@@ -3,9 +3,9 @@ title: jpeg_2000_package property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 130
 url: /python-net/groupdocs.metadata.formats.image/jpeg2000rootpackage/jpeg_2000_package/
 is_root: false
-weight: 130
 ---
 
 ## jpeg_2000_package property

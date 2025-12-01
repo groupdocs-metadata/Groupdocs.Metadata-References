@@ -3,9 +3,9 @@ title: PPTX property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 770
 url: /python-net/groupdocs.metadata.common/filetype/pptx/
 is_root: false
-weight: 760
 ---
 
 ## PPTX property
@@ -15,6 +15,10 @@ Files with PPTX extension are presentation files created with popular Microsoft 
 Unlike the previous version of presentation file format PPT which was binary, the PPTX format is based
 on the Microsoft PowerPoint open XML presentation file format. Learn more about this file format
 [here](https://wiki.fileformat.com/presentation/pptx/).
+### Definition:
+```python
+f PPTX 
+```
 
 ### See Also
 * module [`groupdocs.metadata.common`](../../)

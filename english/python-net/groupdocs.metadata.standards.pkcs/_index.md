@@ -3,9 +3,9 @@ title: groupdocs.metadata.standards.pkcs
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.standards.pkcs/
 is_root: false
-weight: 10
 ---
 
 The namespace provides functionality intended to work with digital signatures based on the syntax of PKCS #7, specified in RFC 5652.

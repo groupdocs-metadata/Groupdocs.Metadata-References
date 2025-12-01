@@ -3,9 +3,9 @@ title: slow_shutter property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 420
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2shotinfopackage/slow_shutter/
 is_root: false
-weight: 420
 ---
 
 ## slow_shutter property

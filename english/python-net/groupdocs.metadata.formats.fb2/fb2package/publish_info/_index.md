@@ -3,9 +3,9 @@ title: publish_info property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 160
 url: /python-net/groupdocs.metadata.formats.fb2/fb2package/publish_info/
 is_root: false
-weight: 160
 ---
 
 ## publish_info property

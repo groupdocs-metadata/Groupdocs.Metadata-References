@@ -3,9 +3,9 @@ title: TIF property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 870
 url: /python-net/groupdocs.metadata.common/filetype/tif/
 is_root: false
-weight: 850
 ---
 
 ## TIF property
@@ -14,6 +14,10 @@ weight: 850
 TIFF or TIF, Tagged Image File Format, represents raster images that are meant for usage on a variety
 of devices that comply with this file format standard. Learn more about this file format
 [here](https://wiki.fileformat.com/image/tiff/).
+### Definition:
+```python
+f TIF 
+```
 
 ### See Also
 * module [`groupdocs.metadata.common`](../../)

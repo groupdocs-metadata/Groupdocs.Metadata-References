@@ -3,9 +3,9 @@ title: source property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 30
 url: /python-net/groupdocs.metadata.tagging/origintagcategory/source/
 is_root: false
-weight: 30
 ---
 
 ## source property

@@ -3,9 +3,9 @@ title: XmpLangAlt class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 190
 url: /python-net/groupdocs.metadata.standards.xmp/xmplangalt/
 is_root: false
-weight: 190
 ---
 
 ## XmpLangAlt class
@@ -32,7 +32,7 @@ The XmpLangAlt type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmplangalt/__init__/#str) | Initializes a new instance of the [`XmpLangAlt`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmplangalt) class. |
+| [`__init__(self, default_value)`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmplangalt/__init__/#system.string) | Initializes a new instance of the [`XmpLangAlt`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmplangalt) class. |
 
 
 ### Properties
@@ -47,13 +47,13 @@ The XmpLangAlt type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [from_address](/metadata/python-net/groupdocs.metadata.standards.xmp/xmplangalt/from_address/#list-groupdocs.metadata.standards.xmp.XmpArrayType) | Creates an [`XmpArray`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmparray) instance form a string array. |
-| [from_address](/metadata/python-net/groupdocs.metadata.standards.xmp/xmplangalt/from_address/#list-groupdocs.metadata.standards.xmp.XmpArrayType) | Creates an [`XmpArray`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmparray) instance form an integer array. |
-| [from_address](/metadata/python-net/groupdocs.metadata.standards.xmp/xmplangalt/from_address/#list-groupdocs.metadata.standards.xmp.XmpArrayType) | Creates an [`XmpArray`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmparray) instance form a date array. |
-| [from_address](/metadata/python-net/groupdocs.metadata.standards.xmp/xmplangalt/from_address/#list-groupdocs.metadata.standards.xmp.XmpArrayType) | Creates an [`XmpArray`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmparray) instance form a double array. |
-| [accept_value](/metadata/python-net/groupdocs.metadata.standards.xmp/xmplangalt/accept_value/#groupdocs.metadata.common.ValueAcceptor) | Extracts the property value using a custom [`ValueAcceptor`](/metadata/python-net/groupdocs.metadata.common/valueacceptor). |
-| [get_xmp_representation](/metadata/python-net/groupdocs.metadata.standards.xmp/xmplangalt/get_xmp_representation/#) | Converts XMP value to the xml representation. |
-| [contains](/metadata/python-net/groupdocs.metadata.standards.xmp/xmplangalt/contains/#str) | Determines whether the [`XmpLangAlt`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmplangalt) contains the specified language. |
+| [`from_address(, array, type)`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmplangalt/from_address/#list-groupdocs.metadata.standards.xmp.xmparraytype) | Creates an [`XmpArray`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmparray) instance form a string array. |
+| [`from_address(, array, type)`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmplangalt/from_address/#list-groupdocs.metadata.standards.xmp.xmparraytype) | Creates an [`XmpArray`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmparray) instance form an integer array. |
+| [`from_address(, array, type)`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmplangalt/from_address/#list-groupdocs.metadata.standards.xmp.xmparraytype) | Creates an [`XmpArray`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmparray) instance form a date array. |
+| [`from_address(, array, type)`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmplangalt/from_address/#list-groupdocs.metadata.standards.xmp.xmparraytype) | Creates an [`XmpArray`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmparray) instance form a double array. |
+| [`accept_value(self, value_acceptor)`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmplangalt/accept_value/#groupdocs.metadata.common.valueacceptor) | Extracts the property value using a custom [`ValueAcceptor`](/metadata/python-net/groupdocs.metadata.common/valueacceptor). |
+| [`get_xmp_representation(self)`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmplangalt/get_xmp_representation/#) | Converts XMP value to the xml representation. |
+| [`contains(self, language)`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmplangalt/contains/#system.string) | Determines whether the [`XmpLangAlt`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmplangalt) contains the specified language. |
 
 
 

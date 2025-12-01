@@ -3,9 +3,9 @@ title: macro_magnification property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 260
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2fileinfopackage/macro_magnification/
 is_root: false
-weight: 260
 ---
 
 ## macro_magnification property

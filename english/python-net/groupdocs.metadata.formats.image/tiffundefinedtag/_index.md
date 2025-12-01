@@ -3,9 +3,9 @@ title: TiffUndefinedTag class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 510
 url: /python-net/groupdocs.metadata.formats.image/tiffundefinedtag/
 is_root: false
-weight: 510
 ---
 
 ## TiffUndefinedTag class
@@ -25,7 +25,7 @@ The TiffUndefinedTag type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.formats.image/tiffundefinedtag/__init__/#groupdocs.metadata.formats.image.TiffTagID-bytes) | Initializes a new instance of the [`TiffUndefinedTag`](/metadata/python-net/groupdocs.metadata.formats.image/tiffundefinedtag) class. |
+| [`__init__(self, tag_id, value)`](/metadata/python-net/groupdocs.metadata.formats.image/tiffundefinedtag/__init__/#groupdocs.metadata.formats.image.tifftagid-bytes) | Initializes a new instance of the [`TiffUndefinedTag`](/metadata/python-net/groupdocs.metadata.formats.image/tiffundefinedtag) class. |
 
 
 ### Properties

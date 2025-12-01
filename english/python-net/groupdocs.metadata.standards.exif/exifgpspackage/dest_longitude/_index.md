@@ -3,9 +3,9 @@ title: dest_longitude property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 260
 url: /python-net/groupdocs.metadata.standards.exif/exifgpspackage/dest_longitude/
 is_root: false
-weight: 260
 ---
 
 ## dest_longitude property

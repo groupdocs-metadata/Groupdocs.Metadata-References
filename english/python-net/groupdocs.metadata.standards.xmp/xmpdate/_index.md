@@ -3,9 +3,9 @@ title: XmpDate class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 110
 url: /python-net/groupdocs.metadata.standards.xmp/xmpdate/
 is_root: false
-weight: 110
 ---
 
 ## XmpDate class
@@ -25,8 +25,8 @@ The XmpDate type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpdate/__init__/#DateTime) | Initializes a new instance of the [`XmpDate`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpdate) class. |
-| [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpdate/__init__/#str) | Initializes a new instance of the [`XmpDate`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpdate) class. |
+| [`__init__(self, date_time)`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpdate/__init__/#system.datetime) | Initializes a new instance of the [`XmpDate`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpdate) class. |
+| [`__init__(self, date_string)`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpdate/__init__/#system.string) | Initializes a new instance of the [`XmpDate`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpdate) class. |
 
 
 ### Properties
@@ -42,8 +42,8 @@ The XmpDate type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [accept_value](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpdate/accept_value/#groupdocs.metadata.common.ValueAcceptor) | Extracts the property value using a custom [`ValueAcceptor`](/metadata/python-net/groupdocs.metadata.common/valueacceptor). |
-| [get_xmp_representation](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpdate/get_xmp_representation/#) | Returns string contained value in XMP format. |
+| [`accept_value(self, value_acceptor)`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpdate/accept_value/#groupdocs.metadata.common.valueacceptor) | Extracts the property value using a custom [`ValueAcceptor`](/metadata/python-net/groupdocs.metadata.common/valueacceptor). |
+| [`get_xmp_representation(self)`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpdate/get_xmp_representation/#) | Returns string contained value in XMP format. |
 
 
 

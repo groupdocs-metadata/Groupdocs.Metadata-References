@@ -3,9 +3,9 @@ title: language_identifier property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 320
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpiptciimpackage/language_identifier/
 is_root: false
-weight: 320
 ---
 
 ## language_identifier property

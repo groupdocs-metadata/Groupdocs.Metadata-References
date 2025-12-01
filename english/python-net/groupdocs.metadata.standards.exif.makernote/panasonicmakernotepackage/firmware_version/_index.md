@@ -3,9 +3,9 @@ title: firmware_version property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 190
 url: /python-net/groupdocs.metadata.standards.exif.makernote/panasonicmakernotepackage/firmware_version/
 is_root: false
-weight: 190
 ---
 
 ## firmware_version property

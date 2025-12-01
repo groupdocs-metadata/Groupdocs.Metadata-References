@@ -3,9 +3,9 @@ title: src_title_info property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 170
 url: /python-net/groupdocs.metadata.formats.fb2/fb2package/src_title_info/
 is_root: false
-weight: 170
 ---
 
 ## src_title_info property

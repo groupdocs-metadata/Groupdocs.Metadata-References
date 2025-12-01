@@ -3,9 +3,9 @@ title: TiffSLongTag class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 450
 url: /python-net/groupdocs.metadata.formats.image/tiffslongtag/
 is_root: false
-weight: 450
 ---
 
 ## TiffSLongTag class
@@ -25,7 +25,7 @@ The TiffSLongTag type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.formats.image/tiffslongtag/__init__/#groupdocs.metadata.formats.image.TiffTagID-list) | Initializes a new instance of the [`TiffSLongTag`](/metadata/python-net/groupdocs.metadata.formats.image/tiffslongtag) class. |
+| [`__init__(self, tag_id, value)`](/metadata/python-net/groupdocs.metadata.formats.image/tiffslongtag/__init__/#groupdocs.metadata.formats.image.tifftagid-list) | Initializes a new instance of the [`TiffSLongTag`](/metadata/python-net/groupdocs.metadata.formats.image/tiffslongtag) class. |
 
 
 ### Properties

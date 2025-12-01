@@ -3,9 +3,9 @@ title: abs_peak_audio_file_path property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 160
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/abs_peak_audio_file_path/
 is_root: false
-weight: 160
 ---
 
 ## abs_peak_audio_file_path property

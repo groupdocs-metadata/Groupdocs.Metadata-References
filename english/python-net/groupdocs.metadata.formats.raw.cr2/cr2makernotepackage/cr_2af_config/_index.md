@@ -3,9 +3,9 @@ title: cr_2af_config property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 630
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr_2af_config/
 is_root: false
-weight: 630
 ---
 
 ## cr_2af_config property

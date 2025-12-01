@@ -3,9 +3,9 @@ title: top property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 90
 url: /python-net/groupdocs.metadata.common/rectangle/top/
 is_root: false
-weight: 90
 ---
 
 ## top property

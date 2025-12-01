@@ -3,9 +3,9 @@ title: TiffRational class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 410
 url: /python-net/groupdocs.metadata.formats.image/tiffrational/
 is_root: false
-weight: 410
 ---
 
 ## TiffRational class
@@ -19,7 +19,7 @@ The TiffRational type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.formats.image/tiffrational/__init__/#int-int) | Initializes a new instance of the [`TiffRational`](/metadata/python-net/groupdocs.metadata.formats.image/tiffrational) class. |
+| [`__init__(self, numerator, denominator)`](/metadata/python-net/groupdocs.metadata.formats.image/tiffrational/__init__/#int-int) | Initializes a new instance of the [`TiffRational`](/metadata/python-net/groupdocs.metadata.formats.image/tiffrational) class. |
 
 
 ### Properties
@@ -33,8 +33,8 @@ The TiffRational type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [equals](/metadata/python-net/groupdocs.metadata.formats.image/tiffrational/equals/#groupdocs.metadata.formats.image.TiffRational-groupdocs.metadata.formats.image.TiffRational) | Compares a pair of [`TiffRational`](/metadata/python-net/groupdocs.metadata.formats.image/tiffrational) numbers. |
-| [equals](/metadata/python-net/groupdocs.metadata.formats.image/tiffrational/equals/#groupdocs.metadata.formats.image.TiffRational) | Indicates whether the current object is equal to another object of the same type. |
+| [`equals(, rational, other)`](/metadata/python-net/groupdocs.metadata.formats.image/tiffrational/equals/#groupdocs.metadata.formats.image.tiffrational-groupdocs.metadata.formats.image.tiffrational) | Compares a pair of [`TiffRational`](/metadata/python-net/groupdocs.metadata.formats.image/tiffrational) numbers. |
+| [`equals(self, other)`](/metadata/python-net/groupdocs.metadata.formats.image/tiffrational/equals/#groupdocs.metadata.formats.image.tiffrational) | Indicates whether the current object is equal to another object of the same type. |
 
 
 

@@ -3,12 +3,12 @@ title: get_root_package method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 70
 url: /python-net/groupdocs.metadata/metadata/get_root_package/
 is_root: false
-weight: 70
 ---
 
-## get_root_package {#}
+## get_root_package(self) {#}
 
 Gets the root package providing access to all metadata properties extracted from the file.
 
@@ -20,12 +20,17 @@ The root package providing access to all metadata properties extracted from the 
 
 
 ```python
+
 def get_root_package(self):
     ...
 ```
 
 
+### Remarks
 
+**Learn more** |
+|
+ |
 ### Example 
 
 

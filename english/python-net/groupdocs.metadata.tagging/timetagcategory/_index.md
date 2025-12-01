@@ -3,9 +3,9 @@ title: TimeTagCategory class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 110
 url: /python-net/groupdocs.metadata.tagging/timetagcategory/
 is_root: false
-weight: 110
 ---
 
 ## TimeTagCategory class
@@ -34,6 +34,7 @@ The TimeTagCategory type exposes the following members:
 | [total_editing_time](/metadata/python-net/groupdocs.metadata.tagging/timetagcategory/total_editing_time) | Gets the tag that denotes the total editing time of a file. |
 | [duration](/metadata/python-net/groupdocs.metadata.tagging/timetagcategory/duration) | Gets the tag that denotes the duration of a media file. |
 | [zone_city](/metadata/python-net/groupdocs.metadata.tagging/timetagcategory/zone_city) | Gets the tag that denotes the time zone. |
+| [delivery](/metadata/python-net/groupdocs.metadata.tagging/timetagcategory/delivery) | Gets the tag that indicates the date a file was delivered. |
 
 
 

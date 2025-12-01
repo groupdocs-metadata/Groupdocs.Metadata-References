@@ -3,9 +3,9 @@ title: gps_latitude property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 300
 url: /python-net/groupdocs.metadata.formats.raw/gpsifdpackage/gps_latitude/
 is_root: false
-weight: 300
 ---
 
 ## gps_latitude property

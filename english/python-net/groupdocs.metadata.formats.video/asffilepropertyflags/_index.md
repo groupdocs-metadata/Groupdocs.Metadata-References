@@ -3,9 +3,9 @@ title: AsfFilePropertyFlags enumeration
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 330
 url: /python-net/groupdocs.metadata.formats.video/asffilepropertyflags/
 is_root: false
-weight: 330
 ---
 
 ## AsfFilePropertyFlags enumeration

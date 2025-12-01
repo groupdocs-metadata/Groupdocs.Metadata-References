@@ -3,9 +3,9 @@ title: location_facing property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 270
 url: /python-net/groupdocs.metadata.formats.video/movpackage/location_facing/
 is_root: false
-weight: 270
 ---
 
 ## location_facing property

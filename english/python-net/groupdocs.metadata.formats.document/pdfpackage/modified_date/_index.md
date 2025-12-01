@@ -3,9 +3,9 @@ title: modified_date property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 220
 url: /python-net/groupdocs.metadata.formats.document/pdfpackage/modified_date/
 is_root: false
-weight: 220
 ---
 
 ## modified_date property

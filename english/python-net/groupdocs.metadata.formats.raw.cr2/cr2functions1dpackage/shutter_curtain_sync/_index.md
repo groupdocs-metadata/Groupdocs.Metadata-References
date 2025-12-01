@@ -3,9 +3,9 @@ title: shutter_curtain_sync property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 360
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2functions1dpackage/shutter_curtain_sync/
 is_root: false
-weight: 360
 ---
 
 ## shutter_curtain_sync property

@@ -3,9 +3,9 @@ title: spectral_sensitivity property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 880
 url: /python-net/groupdocs.metadata.formats.raw/rawexiftagpackage/spectral_sensitivity/
 is_root: false
-weight: 880
 ---
 
 ## spectral_sensitivity property

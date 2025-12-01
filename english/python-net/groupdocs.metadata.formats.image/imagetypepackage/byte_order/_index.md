@@ -3,9 +3,9 @@ title: byte_order property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 100
 url: /python-net/groupdocs.metadata.formats.image/imagetypepackage/byte_order/
 is_root: false
-weight: 100
 ---
 
 ## byte_order property

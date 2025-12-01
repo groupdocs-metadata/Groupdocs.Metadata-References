@@ -3,9 +3,9 @@ title: pf25af_mode property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 300
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2personalfuncvaluespackage/pf25af_mode/
 is_root: false
-weight: 300
 ---
 
 ## pf25af_mode property

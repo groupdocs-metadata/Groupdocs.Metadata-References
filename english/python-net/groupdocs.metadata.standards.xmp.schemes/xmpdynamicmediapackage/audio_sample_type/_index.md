@@ -3,9 +3,9 @@ title: audio_sample_type property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 240
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/audio_sample_type/
 is_root: false
-weight: 240
 ---
 
 ## audio_sample_type property

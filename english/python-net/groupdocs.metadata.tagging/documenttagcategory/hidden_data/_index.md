@@ -3,9 +3,9 @@ title: hidden_data property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 50
 url: /python-net/groupdocs.metadata.tagging/documenttagcategory/hidden_data/
 is_root: false
-weight: 50
 ---
 
 ## hidden_data property

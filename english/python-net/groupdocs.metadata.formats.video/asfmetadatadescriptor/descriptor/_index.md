@@ -3,16 +3,26 @@ title: descriptor property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 40
 url: /python-net/groupdocs.metadata.formats.video/asfmetadatadescriptor/descriptor/
 is_root: false
-weight: 40
 ---
 
 ## descriptor property
 
 
 Gets the descriptor associated with the metadata property.
+### Definition:
+```python
+@property
+def descriptor(self):
+    ...
+@descriptor.setter
+def descriptor(self, value):
+    ...
+```
 
 ### See Also
 * module [`groupdocs.metadata.formats.video`](../../)
 * class [`AsfMetadataDescriptor`](/metadata/python-net/groupdocs.metadata.formats.video/asfmetadatadescriptor)
+* class [`PropertyDescriptor`](/metadata/python-net/groupdocs.metadata.common/propertydescriptor)

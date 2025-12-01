@@ -3,9 +3,9 @@ title: MatroskaVideoFlagInterlaced enumeration
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 410
 url: /python-net/groupdocs.metadata.formats.video/matroskavideoflaginterlaced/
 is_root: false
-weight: 410
 ---
 
 ## MatroskaVideoFlagInterlaced enumeration

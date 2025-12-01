@@ -3,9 +3,9 @@ title: part_of_compilation property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 500
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/part_of_compilation/
 is_root: false
-weight: 500
 ---
 
 ## part_of_compilation property

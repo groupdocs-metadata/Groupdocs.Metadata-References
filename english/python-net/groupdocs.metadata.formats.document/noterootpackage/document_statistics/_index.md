@@ -3,9 +3,9 @@ title: document_statistics property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 110
 url: /python-net/groupdocs.metadata.formats.document/noterootpackage/document_statistics/
 is_root: false
-weight: 110
 ---
 
 ## document_statistics property

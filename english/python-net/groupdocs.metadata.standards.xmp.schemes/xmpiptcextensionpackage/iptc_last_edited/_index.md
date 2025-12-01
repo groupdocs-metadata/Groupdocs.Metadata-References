@@ -3,9 +3,9 @@ title: iptc_last_edited property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 200
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpiptcextensionpackage/iptc_last_edited/
 is_root: false
-weight: 200
 ---
 
 ## iptc_last_edited property

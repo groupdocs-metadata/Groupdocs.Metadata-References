@@ -3,12 +3,12 @@ title: remove method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 80
 url: /python-net/groupdocs.metadata.formats.document/presentationpackage/remove/
 is_root: false
-weight: 80
 ---
 
-## remove {#str}
+## remove(self, property_name) {#System.String}
 
 Removes a writable metadata property by the specified name.
 
@@ -20,6 +20,7 @@ Removes a writable metadata property by the specified name.
 
 
 ```python
+
 def remove(self, property_name):
     ...
 ```
@@ -27,7 +28,7 @@ def remove(self, property_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| property_name | str | A metadata property name. |
+| property_name | System.String | A metadata property name. |
 
 
 

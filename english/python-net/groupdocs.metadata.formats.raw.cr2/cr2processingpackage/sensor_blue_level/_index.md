@@ -3,9 +3,9 @@ title: sensor_blue_level property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 210
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2processingpackage/sensor_blue_level/
 is_root: false
-weight: 210
 ---
 
 ## sensor_blue_level property

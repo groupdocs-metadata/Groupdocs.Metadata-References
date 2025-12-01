@@ -3,9 +3,9 @@ title: producer property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 360
 url: /python-net/groupdocs.metadata.formats.video/movpackage/producer/
 is_root: false
-weight: 360
 ---
 
 ## producer property

@@ -3,9 +3,9 @@ title: last_printed_date property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 270
 url: /python-net/groupdocs.metadata.formats.document/presentationpackage/last_printed_date/
 is_root: false
-weight: 270
 ---
 
 ## last_printed_date property

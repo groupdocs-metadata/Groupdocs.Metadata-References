@@ -3,9 +3,9 @@ title: subject property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 250
 url: /python-net/groupdocs.metadata.formats.cad/cadpackage/subject/
 is_root: false
-weight: 250
 ---
 
 ## subject property

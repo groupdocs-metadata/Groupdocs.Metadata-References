@@ -3,9 +3,9 @@ title: altitude_ref property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 150
 url: /python-net/groupdocs.metadata.standards.exif/exifgpspackage/altitude_ref/
 is_root: false
-weight: 150
 ---
 
 ## altitude_ref property

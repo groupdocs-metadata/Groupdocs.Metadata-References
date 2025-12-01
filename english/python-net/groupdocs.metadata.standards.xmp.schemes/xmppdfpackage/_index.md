@@ -3,9 +3,9 @@ title: XmpPdfPackage class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 130
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/
 is_root: false
-weight: 130
 ---
 
 ## XmpPdfPackage class
@@ -27,7 +27,7 @@ The XmpPdfPackage type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/__init__/#) | Initializes a new instance of the [`XmpPdfPackage`](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage) class. |
+| [`__init__(self)`](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/__init__/#) | Initializes a new instance of the [`XmpPdfPackage`](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage) class. |
 
 
 ### Properties
@@ -49,24 +49,24 @@ The XmpPdfPackage type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/set/#str-str) | Sets string property. |
-| [set](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/set/#str-int) | Sets integer property. |
-| [set](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/set/#str-bool) | Sets boolean property. |
-| [set](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/set/#str-DateTime) | Sets DateTime property. |
-| [set](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/set/#str-float) | Sets double property. |
-| [set](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/set/#str-groupdocs.metadata.standards.xmp.XmpValueBase) | Sets the value inherited from [`XmpValueBase`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpvaluebase) . |
-| [set](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/set/#str-groupdocs.metadata.standards.xmp.XmpComplexType) | Sets the value inherited from [`XmpComplexType`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpcomplextype) . |
-| [set](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/set/#str-groupdocs.metadata.standards.xmp.XmpArray) | Sets the value inherited from [`XmpArray`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmparray) . |
-| [contains](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/contains/#str) | Determines whether the package contains a metadata property with the specified name. |
-| [find_properties](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/find_properties/#groupdocs.metadata.search.Specification) | Finds the metadata properties satisfying a specification. <br/>The search is recursive so it affects all nested packages as well. |
-| [update_properties](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/update_properties/#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue) | Updates known metadata properties satisfying a specification.<br/>The operation is recursive so it affects all nested packages as well. |
-| [remove_properties](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/remove_properties/#groupdocs.metadata.search.Specification) | Removes metadata properties satisfying a specification. |
-| [add_properties](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/add_properties/#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue) | Adds known metadata properties satisfying the specification.<br/>The operation is recursive so it affects all nested packages as well. |
-| [set_properties](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/set_properties/#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue) | Sets known metadata properties satisfying the specification.<br/>The operation is recursive so it affects all nested packages as well.<br/>This method is a combination of [`MetadataPackage.add_properties`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/add_properties) and [`MetadataPackage.update_properties`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/update_properties). <br/>If an existing property satisfies the specification its value is updated. <br/>If there is a known property missing in the package that satisfies the specification it is added to the package. |
-| [sanitize](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/sanitize/#) | Removes writable metadata properties from the package.<br/>The operation is recursive so it affects all nested packages as well. |
-| [get_xmp_representation](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/get_xmp_representation/#) | Converts the XMP value to the XML representation. |
-| [remove](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/remove/#str) | Removes the property with the specified name. |
-| [clear](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/clear/#) | Removes all XMP properties. |
+| [`set(self, name, value)`](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/set/#system.string-system.string) | Sets string property. |
+| [`set(self, name, value)`](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/set/#system.string-int) | Sets integer property. |
+| [`set(self, name, value)`](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/set/#system.string-bool) | Sets boolean property. |
+| [`set(self, name, value)`](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/set/#system.string-system.datetime) | Sets DateTime property. |
+| [`set(self, name, value)`](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/set/#system.string-float) | Sets double property. |
+| [`set(self, name, value)`](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/set/#system.string-groupdocs.metadata.standards.xmp.xmpvaluebase) | Sets the value inherited from [`XmpValueBase`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpvaluebase) . |
+| [`set(self, name, value)`](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/set/#system.string-groupdocs.metadata.standards.xmp.xmpcomplextype) | Sets the value inherited from [`XmpComplexType`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpcomplextype) . |
+| [`set(self, name, value)`](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/set/#system.string-groupdocs.metadata.standards.xmp.xmparray) | Sets the value inherited from [`XmpArray`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmparray) . |
+| [`contains(self, property_name)`](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/contains/#system.string) | Determines whether the package contains a metadata property with the specified name. |
+| [`find_properties(self, specification)`](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/find_properties/#groupdocs.metadata.search.specification) | Finds the metadata properties satisfying a specification. <br/>The search is recursive so it affects all nested packages as well. |
+| [`update_properties(self, specification, value)`](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/update_properties/#groupdocs.metadata.search.specification-groupdocs.metadata.common.propertyvalue) | Updates known metadata properties satisfying a specification.<br/>The operation is recursive so it affects all nested packages as well. |
+| [`remove_properties(self, specification)`](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/remove_properties/#groupdocs.metadata.search.specification) | Removes metadata properties satisfying a specification. |
+| [`add_properties(self, specification, value)`](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/add_properties/#groupdocs.metadata.search.specification-groupdocs.metadata.common.propertyvalue) | Adds known metadata properties satisfying the specification.<br/>The operation is recursive so it affects all nested packages as well. |
+| [`set_properties(self, specification, value)`](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/set_properties/#groupdocs.metadata.search.specification-groupdocs.metadata.common.propertyvalue) | Sets known metadata properties satisfying the specification.<br/>The operation is recursive so it affects all nested packages as well.<br/>This method is a combination of [`MetadataPackage.add_properties`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/add_properties) and [`MetadataPackage.update_properties`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/update_properties). <br/>If an existing property satisfies the specification its value is updated. <br/>If there is a known property missing in the package that satisfies the specification it is added to the package. |
+| [`sanitize(self)`](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/sanitize/#) | Removes writable metadata properties from the package.<br/>The operation is recursive so it affects all nested packages as well. |
+| [`get_xmp_representation(self)`](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/get_xmp_representation/#) | Converts the XMP value to the XML representation. |
+| [`remove(self, name)`](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/remove/#system.string) | Removes the property with the specified name. |
+| [`clear(self)`](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/clear/#) | Removes all XMP properties. |
 
 
 

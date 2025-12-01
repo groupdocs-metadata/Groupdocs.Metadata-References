@@ -3,9 +3,9 @@ title: easy_mode property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 260
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2camerasettingspackage/easy_mode/
 is_root: false
-weight: 260
 ---
 
 ## easy_mode property

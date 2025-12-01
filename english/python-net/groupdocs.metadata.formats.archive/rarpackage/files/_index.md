@@ -3,9 +3,9 @@ title: files property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 110
 url: /python-net/groupdocs.metadata.formats.archive/rarpackage/files/
 is_root: false
-weight: 110
 ---
 
 ## files property

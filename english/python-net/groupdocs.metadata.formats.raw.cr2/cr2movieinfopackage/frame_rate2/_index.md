@@ -3,9 +3,9 @@ title: frame_rate2 property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 220
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2movieinfopackage/frame_rate2/
 is_root: false
-weight: 220
 ---
 
 ## frame_rate2 property

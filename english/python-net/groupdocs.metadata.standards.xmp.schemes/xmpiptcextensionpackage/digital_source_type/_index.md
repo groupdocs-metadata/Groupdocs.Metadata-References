@@ -3,9 +3,9 @@ title: digital_source_type property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 180
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpiptcextensionpackage/digital_source_type/
 is_root: false
-weight: 180
 ---
 
 ## digital_source_type property

@@ -3,9 +3,9 @@ title: groupdocs.metadata.formats.image
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.formats.image/
 is_root: false
-weight: 10
 ---
 
 The namespace provides functionality allowing users to read and update metadata stored in different image formats.

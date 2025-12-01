@@ -3,9 +3,9 @@ title: has_audio_tags property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 110
 url: /python-net/groupdocs.metadata.formats.video/flvheader/has_audio_tags/
 is_root: false
-weight: 110
 ---
 
 ## has_audio_tags property

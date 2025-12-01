@@ -3,9 +3,9 @@ title: total_editing_time property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 110
 url: /python-net/groupdocs.metadata.tagging/timetagcategory/total_editing_time/
 is_root: false
-weight: 100
 ---
 
 ## total_editing_time property

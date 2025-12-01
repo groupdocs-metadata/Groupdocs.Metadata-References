@@ -3,9 +3,9 @@ title: formatted_names property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 210
 url: /python-net/groupdocs.metadata.formats.businesscard/vcardidentificationrecordset/formatted_names/
 is_root: false
-weight: 210
 ---
 
 ## formatted_names property

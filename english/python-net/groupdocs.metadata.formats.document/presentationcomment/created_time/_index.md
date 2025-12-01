@@ -3,9 +3,9 @@ title: created_time property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 120
 url: /python-net/groupdocs.metadata.formats.document/presentationcomment/created_time/
 is_root: false
-weight: 120
 ---
 
 ## created_time property

@@ -3,9 +3,9 @@ title: TiffTagID enumeration
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 590
 url: /python-net/groupdocs.metadata.formats.image/tifftagid/
 is_root: false
-weight: 590
 ---
 
 ## TiffTagID enumeration

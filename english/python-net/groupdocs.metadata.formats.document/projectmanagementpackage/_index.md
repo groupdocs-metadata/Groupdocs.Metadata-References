@@ -3,9 +3,9 @@ title: ProjectManagementPackage class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 230
 url: /python-net/groupdocs.metadata.formats.document/projectmanagementpackage/
 is_root: false
-weight: 230
 ---
 
 ## ProjectManagementPackage class
@@ -52,22 +52,22 @@ The ProjectManagementPackage type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set](/metadata/python-net/groupdocs.metadata.formats.document/projectmanagementpackage/set/#str-str) | Adds or replaces the metadata property with the specified name. |
-| [set](/metadata/python-net/groupdocs.metadata.formats.document/projectmanagementpackage/set/#str-float) | Adds or replaces the metadata property with the specified name. |
-| [set](/metadata/python-net/groupdocs.metadata.formats.document/projectmanagementpackage/set/#str-bool) | Adds or replaces the metadata property with the specified name. |
-| [set](/metadata/python-net/groupdocs.metadata.formats.document/projectmanagementpackage/set/#str-DateTime) | Adds or replaces the metadata property with the specified name. |
-| [set](/metadata/python-net/groupdocs.metadata.formats.document/projectmanagementpackage/set/#str-int) | Adds or replaces the metadata property with the specified name. |
-| [contains](/metadata/python-net/groupdocs.metadata.formats.document/projectmanagementpackage/contains/#str) | Determines whether the package contains a metadata property with the specified name. |
-| [find_properties](/metadata/python-net/groupdocs.metadata.formats.document/projectmanagementpackage/find_properties/#groupdocs.metadata.search.Specification) | Finds the metadata properties satisfying a specification. <br/>The search is recursive so it affects all nested packages as well. |
-| [update_properties](/metadata/python-net/groupdocs.metadata.formats.document/projectmanagementpackage/update_properties/#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue) | Updates known metadata properties satisfying a specification.<br/>The operation is recursive so it affects all nested packages as well. |
-| [remove_properties](/metadata/python-net/groupdocs.metadata.formats.document/projectmanagementpackage/remove_properties/#groupdocs.metadata.search.Specification) | Removes metadata properties satisfying a specification. |
-| [add_properties](/metadata/python-net/groupdocs.metadata.formats.document/projectmanagementpackage/add_properties/#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue) | Adds known metadata properties satisfying the specification.<br/>The operation is recursive so it affects all nested packages as well. |
-| [set_properties](/metadata/python-net/groupdocs.metadata.formats.document/projectmanagementpackage/set_properties/#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue) | Sets known metadata properties satisfying the specification.<br/>The operation is recursive so it affects all nested packages as well.<br/>This method is a combination of [`MetadataPackage.add_properties`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/add_properties) and [`MetadataPackage.update_properties`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/update_properties). <br/>If an existing property satisfies the specification its value is updated. <br/>If there is a known property missing in the package that satisfies the specification it is added to the package. |
-| [sanitize](/metadata/python-net/groupdocs.metadata.formats.document/projectmanagementpackage/sanitize/#) | Removes writable metadata properties from the package.<br/>The operation is recursive so it affects all nested packages as well. |
-| [remove](/metadata/python-net/groupdocs.metadata.formats.document/projectmanagementpackage/remove/#str) | Removes a writable metadata property by the specified name. |
-| [clear](/metadata/python-net/groupdocs.metadata.formats.document/projectmanagementpackage/clear/#) | Removes all writable metadata properties from the package. |
-| [clear_built_in_properties](/metadata/python-net/groupdocs.metadata.formats.document/projectmanagementpackage/clear_built_in_properties/#) | Removes all built-in metadata properties. |
-| [clear_custom_properties](/metadata/python-net/groupdocs.metadata.formats.document/projectmanagementpackage/clear_custom_properties/#) | Removes all custom metadata properties. |
+| [`set(self, property_name, value)`](/metadata/python-net/groupdocs.metadata.formats.document/projectmanagementpackage/set/#system.string-system.string) | Adds or replaces the metadata property with the specified name. |
+| [`set(self, property_name, value)`](/metadata/python-net/groupdocs.metadata.formats.document/projectmanagementpackage/set/#system.string-float) | Adds or replaces the metadata property with the specified name. |
+| [`set(self, property_name, value)`](/metadata/python-net/groupdocs.metadata.formats.document/projectmanagementpackage/set/#system.string-bool) | Adds or replaces the metadata property with the specified name. |
+| [`set(self, property_name, value)`](/metadata/python-net/groupdocs.metadata.formats.document/projectmanagementpackage/set/#system.string-system.datetime) | Adds or replaces the metadata property with the specified name. |
+| [`set(self, property_name, value)`](/metadata/python-net/groupdocs.metadata.formats.document/projectmanagementpackage/set/#system.string-int) | Adds or replaces the metadata property with the specified name. |
+| [`contains(self, property_name)`](/metadata/python-net/groupdocs.metadata.formats.document/projectmanagementpackage/contains/#system.string) | Determines whether the package contains a metadata property with the specified name. |
+| [`find_properties(self, specification)`](/metadata/python-net/groupdocs.metadata.formats.document/projectmanagementpackage/find_properties/#groupdocs.metadata.search.specification) | Finds the metadata properties satisfying a specification. <br/>The search is recursive so it affects all nested packages as well. |
+| [`update_properties(self, specification, value)`](/metadata/python-net/groupdocs.metadata.formats.document/projectmanagementpackage/update_properties/#groupdocs.metadata.search.specification-groupdocs.metadata.common.propertyvalue) | Updates known metadata properties satisfying a specification.<br/>The operation is recursive so it affects all nested packages as well. |
+| [`remove_properties(self, specification)`](/metadata/python-net/groupdocs.metadata.formats.document/projectmanagementpackage/remove_properties/#groupdocs.metadata.search.specification) | Removes metadata properties satisfying a specification. |
+| [`add_properties(self, specification, value)`](/metadata/python-net/groupdocs.metadata.formats.document/projectmanagementpackage/add_properties/#groupdocs.metadata.search.specification-groupdocs.metadata.common.propertyvalue) | Adds known metadata properties satisfying the specification.<br/>The operation is recursive so it affects all nested packages as well. |
+| [`set_properties(self, specification, value)`](/metadata/python-net/groupdocs.metadata.formats.document/projectmanagementpackage/set_properties/#groupdocs.metadata.search.specification-groupdocs.metadata.common.propertyvalue) | Sets known metadata properties satisfying the specification.<br/>The operation is recursive so it affects all nested packages as well.<br/>This method is a combination of [`MetadataPackage.add_properties`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/add_properties) and [`MetadataPackage.update_properties`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/update_properties). <br/>If an existing property satisfies the specification its value is updated. <br/>If there is a known property missing in the package that satisfies the specification it is added to the package. |
+| [`sanitize(self)`](/metadata/python-net/groupdocs.metadata.formats.document/projectmanagementpackage/sanitize/#) | Removes writable metadata properties from the package.<br/>The operation is recursive so it affects all nested packages as well. |
+| [`remove(self, property_name)`](/metadata/python-net/groupdocs.metadata.formats.document/projectmanagementpackage/remove/#system.string) | Removes a writable metadata property by the specified name. |
+| [`clear(self)`](/metadata/python-net/groupdocs.metadata.formats.document/projectmanagementpackage/clear/#) | Removes all writable metadata properties from the package. |
+| [`clear_built_in_properties(self)`](/metadata/python-net/groupdocs.metadata.formats.document/projectmanagementpackage/clear_built_in_properties/#) | Removes all built-in metadata properties. |
+| [`clear_custom_properties(self)`](/metadata/python-net/groupdocs.metadata.formats.document/projectmanagementpackage/clear_custom_properties/#) | Removes all custom metadata properties. |
 
 
 

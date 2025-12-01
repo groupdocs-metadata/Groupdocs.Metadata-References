@@ -3,9 +3,9 @@ title: built_in property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 30
 url: /python-net/groupdocs.metadata.tagging/documenttagcategory/built_in/
 is_root: false
-weight: 30
 ---
 
 ## built_in property

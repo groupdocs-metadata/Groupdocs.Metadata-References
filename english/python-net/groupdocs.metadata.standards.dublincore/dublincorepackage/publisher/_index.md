@@ -3,9 +3,9 @@ title: publisher property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 220
 url: /python-net/groupdocs.metadata.standards.dublincore/dublincorepackage/publisher/
 is_root: false
-weight: 220
 ---
 
 ## publisher property

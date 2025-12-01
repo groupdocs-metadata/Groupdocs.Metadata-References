@@ -3,9 +3,9 @@ title: flash_energy property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 400
 url: /python-net/groupdocs.metadata.formats.raw/rawexiftagpackage/flash_energy/
 is_root: false
-weight: 400
 ---
 
 ## flash_energy property

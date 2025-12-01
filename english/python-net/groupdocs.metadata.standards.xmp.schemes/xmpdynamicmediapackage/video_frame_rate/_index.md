@@ -3,9 +3,9 @@ title: video_frame_rate property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 630
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/video_frame_rate/
 is_root: false
-weight: 630
 ---
 
 ## video_frame_rate property

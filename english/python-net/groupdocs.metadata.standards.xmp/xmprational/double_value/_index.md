@@ -3,9 +3,9 @@ title: double_value property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 60
 url: /python-net/groupdocs.metadata.standards.xmp/xmprational/double_value/
 is_root: false
-weight: 60
 ---
 
 ## double_value property

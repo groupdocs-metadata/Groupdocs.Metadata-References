@@ -3,10 +3,9 @@ title: GroupDocs.Metadata for Python via .NET
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/
 is_root: true
-version: 25.4
-weight: 40
 ---
 
 ### Modules
@@ -27,11 +26,13 @@ weight: 40
 | [`groupdocs.metadata.formats.ebook.fb2`](/metadata/python-net/groupdocs.metadata.formats.ebook.fb2) |  |
 | [`groupdocs.metadata.formats.ebook.mobi`](/metadata/python-net/groupdocs.metadata.formats.ebook.mobi) |  |
 | [`groupdocs.metadata.formats.email`](/metadata/python-net/groupdocs.metadata.formats.email) | The namespace contains classes representing saved email messages and their parts. |
+| [`groupdocs.metadata.formats.email.msg`](/metadata/python-net/groupdocs.metadata.formats.email.msg) |  |
 | [`groupdocs.metadata.formats.fb2`](/metadata/python-net/groupdocs.metadata.formats.fb2) |  |
 | [`groupdocs.metadata.formats.font`](/metadata/python-net/groupdocs.metadata.formats.font) | The namespace contains classes allowing users to work with formats representing scalable computer fonts. |
 | [`groupdocs.metadata.formats.gis`](/metadata/python-net/groupdocs.metadata.formats.gis) |  |
 | [`groupdocs.metadata.formats.image`](/metadata/python-net/groupdocs.metadata.formats.image) | The namespace provides functionality allowing users to read and update metadata stored in different image formats. |
 | [`groupdocs.metadata.formats.image.dng`](/metadata/python-net/groupdocs.metadata.formats.image.dng) |  |
+| [`groupdocs.metadata.formats.image.svg`](/metadata/python-net/groupdocs.metadata.formats.image.svg) |  |
 | [`groupdocs.metadata.formats.mpeg`](/metadata/python-net/groupdocs.metadata.formats.mpeg) | The namespace provides functionality allowing users to work with metadata of various MPEG standards. |
 | [`groupdocs.metadata.formats.peer2peer`](/metadata/python-net/groupdocs.metadata.formats.peer2peer) | The namespace contains classes intended to work with different formats based on the peer2peer protocol. |
 | [`groupdocs.metadata.formats.raw`](/metadata/python-net/groupdocs.metadata.formats.raw) |  |
@@ -41,6 +42,7 @@ weight: 40
 | [`groupdocs.metadata.formats.threed`](/metadata/python-net/groupdocs.metadata.formats.threed) |  |
 | [`groupdocs.metadata.formats.threed.dae`](/metadata/python-net/groupdocs.metadata.formats.threed.dae) |  |
 | [`groupdocs.metadata.formats.threed.fbx`](/metadata/python-net/groupdocs.metadata.formats.threed.fbx) |  |
+| [`groupdocs.metadata.formats.threed.gltf`](/metadata/python-net/groupdocs.metadata.formats.threed.gltf) |  |
 | [`groupdocs.metadata.formats.threed.stl`](/metadata/python-net/groupdocs.metadata.formats.threed.stl) |  |
 | [`groupdocs.metadata.formats.threed.threeds`](/metadata/python-net/groupdocs.metadata.formats.threed.threeds) |  |
 | [`groupdocs.metadata.formats.video`](/metadata/python-net/groupdocs.metadata.formats.video) | The namespace contains classes for working with the most popular video formats. |

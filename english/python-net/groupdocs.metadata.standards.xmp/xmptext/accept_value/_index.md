@@ -3,18 +3,19 @@ title: accept_value method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 20
 url: /python-net/groupdocs.metadata.standards.xmp/xmptext/accept_value/
 is_root: false
-weight: 20
 ---
 
-## accept_value {#groupdocs.metadata.common.ValueAcceptor}
+## accept_value(self, value_acceptor) {#groupdocs.metadata.common.ValueAcceptor}
 
 Extracts the property value using a custom [`ValueAcceptor`](/metadata/python-net/groupdocs.metadata.common/valueacceptor).
 
 
 
 ```python
+
 def accept_value(self, value_acceptor):
     ...
 ```

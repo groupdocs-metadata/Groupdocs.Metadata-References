@@ -3,9 +3,9 @@ title: image_base64 property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 150
 url: /python-net/groupdocs.metadata.standards.xmp/xmpthumbnail/image_base64/
 is_root: false
-weight: 150
 ---
 
 ## image_base64 property

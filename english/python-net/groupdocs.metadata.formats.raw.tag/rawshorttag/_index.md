@@ -3,9 +3,9 @@ title: RawShortTag class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 40
 url: /python-net/groupdocs.metadata.formats.raw.tag/rawshorttag/
 is_root: false
-weight: 40
 ---
 
 ## RawShortTag class
@@ -25,7 +25,7 @@ The RawShortTag type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.formats.raw.tag/rawshorttag/__init__/#int-list) | Initializes a new instance of the [`RawShortTag`](/metadata/python-net/groupdocs.metadata.formats.raw.tag/rawshorttag) class. |
+| [`__init__(self, tag_id, value)`](/metadata/python-net/groupdocs.metadata.formats.raw.tag/rawshorttag/__init__/#int-list) | Initializes a new instance of the [`RawShortTag`](/metadata/python-net/groupdocs.metadata.formats.raw.tag/rawshorttag) class. |
 
 
 ### Properties

@@ -3,9 +3,9 @@ title: auto_brightness property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 150
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/auto_brightness/
 is_root: false
-weight: 150
 ---
 
 ## auto_brightness property

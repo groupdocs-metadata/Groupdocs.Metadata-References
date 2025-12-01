@@ -3,12 +3,12 @@ title: contains method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 30
 url: /python-net/groupdocs.metadata.formats.audio.ogg/oggrootpackage/contains/
 is_root: false
-weight: 30
 ---
 
-## contains {#str}
+## contains(self, property_name) {#System.String}
 
 Determines whether the package contains a metadata property with the specified name.
 
@@ -20,6 +20,7 @@ True if the package contains a property with the specified name; otherwise, fals
 
 
 ```python
+
 def contains(self, property_name):
     ...
 ```
@@ -27,7 +28,7 @@ def contains(self, property_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| property_name | str | The name of the property to locate in the package. |
+| property_name | System.String | The name of the property to locate in the package. |
 
 
 

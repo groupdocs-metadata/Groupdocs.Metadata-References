@@ -3,9 +3,9 @@ title: pf24_light_lcd_during_bulb property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 300
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2personalfuncspackage/pf24_light_lcd_during_bulb/
 is_root: false
-weight: 300
 ---
 
 ## pf24_light_lcd_during_bulb property

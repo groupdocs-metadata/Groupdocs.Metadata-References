@@ -3,9 +3,9 @@ title: shared_doc property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 380
 url: /python-net/groupdocs.metadata.formats.document/wordprocessingpackage/shared_doc/
 is_root: false
-weight: 380
 ---
 
 ## shared_doc property

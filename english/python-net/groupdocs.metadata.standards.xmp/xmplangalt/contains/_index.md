@@ -3,12 +3,12 @@ title: contains method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 30
 url: /python-net/groupdocs.metadata.standards.xmp/xmplangalt/contains/
 is_root: false
-weight: 30
 ---
 
-## contains {#str}
+## contains(self, language) {#System.String}
 
 Determines whether the [`XmpLangAlt`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmplangalt) contains the specified language.
 
@@ -20,6 +20,7 @@ True if the [`XmpLangAlt`](/metadata/python-net/groupdocs.metadata.standards.xmp
 
 
 ```python
+
 def contains(self, language):
     ...
 ```
@@ -27,7 +28,7 @@ def contains(self, language):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| language | str | The language to locate in the [`XmpLangAlt`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmplangalt). |
+| language | System.String | The language to locate in the [`XmpLangAlt`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmplangalt). |
 
 
 

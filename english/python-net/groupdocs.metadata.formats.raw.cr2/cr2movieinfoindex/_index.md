@@ -3,9 +3,9 @@ title: Cr2MovieInfoIndex enumeration
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 480
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2movieinfoindex/
 is_root: false
-weight: 480
 ---
 
 ## Cr2MovieInfoIndex enumeration

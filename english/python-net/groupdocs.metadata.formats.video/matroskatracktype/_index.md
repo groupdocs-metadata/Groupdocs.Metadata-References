@@ -3,9 +3,9 @@ title: MatroskaTrackType enumeration
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 380
 url: /python-net/groupdocs.metadata.formats.video/matroskatracktype/
 is_root: false
-weight: 380
 ---
 
 ## MatroskaTrackType enumeration

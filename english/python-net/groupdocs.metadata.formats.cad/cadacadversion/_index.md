@@ -3,9 +3,9 @@ title: CadAcadVersion enumeration
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 60
 url: /python-net/groupdocs.metadata.formats.cad/cadacadversion/
 is_root: false
-weight: 60
 ---
 
 ## CadAcadVersion enumeration

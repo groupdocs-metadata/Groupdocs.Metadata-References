@@ -3,9 +3,9 @@ title: segment_filename property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 180
 url: /python-net/groupdocs.metadata.formats.video/matroskasegment/segment_filename/
 is_root: false
-weight: 180
 ---
 
 ## segment_filename property

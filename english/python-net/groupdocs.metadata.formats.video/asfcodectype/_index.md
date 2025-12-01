@@ -3,9 +3,9 @@ title: AsfCodecType enumeration
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 300
 url: /python-net/groupdocs.metadata.formats.video/asfcodectype/
 is_root: false
-weight: 300
 ---
 
 ## AsfCodecType enumeration

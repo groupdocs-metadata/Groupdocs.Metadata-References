@@ -3,9 +3,9 @@ title: take_number property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 580
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/take_number/
 is_root: false
-weight: 580
 ---
 
 ## take_number property

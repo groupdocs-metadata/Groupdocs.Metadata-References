@@ -3,9 +3,9 @@ title: ogg_package property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 140
 url: /python-net/groupdocs.metadata.formats.audio.ogg/oggrootpackage/ogg_package/
 is_root: false
-weight: 140
 ---
 
 ## ogg_package property

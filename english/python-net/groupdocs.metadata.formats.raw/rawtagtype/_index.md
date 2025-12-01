@@ -3,9 +3,9 @@ title: RawTagType enumeration
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 160
 url: /python-net/groupdocs.metadata.formats.raw/rawtagtype/
 is_root: false
-weight: 160
 ---
 
 ## RawTagType enumeration

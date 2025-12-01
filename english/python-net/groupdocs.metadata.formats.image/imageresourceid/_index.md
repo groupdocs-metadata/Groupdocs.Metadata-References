@@ -3,9 +3,9 @@ title: ImageResourceID enumeration
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 540
 url: /python-net/groupdocs.metadata.formats.image/imageresourceid/
 is_root: false
-weight: 540
 ---
 
 ## ImageResourceID enumeration

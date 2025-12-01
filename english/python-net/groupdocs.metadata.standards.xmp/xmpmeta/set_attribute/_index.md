@@ -3,18 +3,19 @@ title: set_attribute method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 110
 url: /python-net/groupdocs.metadata.standards.xmp/xmpmeta/set_attribute/
 is_root: false
-weight: 110
 ---
 
-## set_attribute {#str-str}
+## set_attribute(self, attribute, value) {#System.String-System.String}
 
 Adds an attribute.
 
 
 
 ```python
+
 def set_attribute(self, attribute, value):
     ...
 ```
@@ -22,8 +23,8 @@ def set_attribute(self, attribute, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| attribute | str | The attribute. |
-| value | str | The value. |
+| attribute | System.String | The attribute. |
+| value | System.String | The value. |
 
 
 

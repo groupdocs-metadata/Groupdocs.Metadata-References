@@ -3,18 +3,19 @@ title: XmpBoolean constructor
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.standards.xmp/xmpboolean/__init__/
 is_root: false
-weight: 10
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Initializes a new instance of the [`XmpBoolean`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpboolean) class with default value.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,13 +23,14 @@ def __init__(self):
 
 
 
-## __init__ {#bool}
+## \_\_init\_\_(self, value) {#bool}
 
 Initializes a new instance of the [`XmpBoolean`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpboolean) class based on boolean value.
 
 
 
 ```python
+
 def __init__(self, value):
     ...
 ```
@@ -39,13 +41,14 @@ def __init__(self, value):
 | value | bool | Boolean value. |
 
 
-## __init__ {#str}
+## \_\_init\_\_(self, value) {#System.String}
 
 Initializes a new instance of the [`XmpBoolean`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpboolean) class.
 
 
 
 ```python
+
 def __init__(self, value):
     ...
 ```
@@ -53,7 +56,7 @@ def __init__(self, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| value | str | The value. |
+| value | System.String | The value. |
 ### Exceptions
 | Exception | Description |
 | :- | :- |

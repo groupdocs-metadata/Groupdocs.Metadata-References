@@ -3,9 +3,9 @@ title: home_page property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 130
 url: /python-net/groupdocs.metadata.formats.ebook.fb2/fb2author/home_page/
 is_root: false
-weight: 130
 ---
 
 ## home_page property

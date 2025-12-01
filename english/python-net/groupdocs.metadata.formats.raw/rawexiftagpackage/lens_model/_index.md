@@ -3,9 +3,9 @@ title: lens_model property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 580
 url: /python-net/groupdocs.metadata.formats.raw/rawexiftagpackage/lens_model/
 is_root: false
-weight: 580
 ---
 
 ## lens_model property

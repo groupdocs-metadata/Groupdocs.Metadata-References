@@ -3,9 +3,9 @@ title: sensor_width property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 270
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2sensorinfopackage/sensor_width/
 is_root: false
-weight: 270
 ---
 
 ## sensor_width property

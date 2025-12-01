@@ -3,9 +3,9 @@ title: groupdocs.metadata.formats.audio
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.formats.audio/
 is_root: false
-weight: 10
 ---
 
 The namespace provides classes intended to work with different audio formats.

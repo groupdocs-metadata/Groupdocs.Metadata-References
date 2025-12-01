@@ -3,9 +3,9 @@ title: Cr2ModifiedInfoIndex enumeration
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 470
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2modifiedinfoindex/
 is_root: false
-weight: 470
 ---
 
 ## Cr2ModifiedInfoIndex enumeration

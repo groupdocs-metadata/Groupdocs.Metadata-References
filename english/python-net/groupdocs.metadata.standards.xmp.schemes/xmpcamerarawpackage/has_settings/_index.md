@@ -3,9 +3,9 @@ title: has_settings property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 400
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/has_settings/
 is_root: false
-weight: 400
 ---
 
 ## has_settings property

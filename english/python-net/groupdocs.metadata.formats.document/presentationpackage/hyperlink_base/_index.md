@@ -3,9 +3,9 @@ title: hyperlink_base property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 240
 url: /python-net/groupdocs.metadata.formats.document/presentationpackage/hyperlink_base/
 is_root: false
-weight: 240
 ---
 
 ## hyperlink_base property

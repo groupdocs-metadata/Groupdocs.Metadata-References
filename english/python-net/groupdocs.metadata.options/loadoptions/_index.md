@@ -3,9 +3,9 @@ title: LoadOptions class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.options/loadoptions/
 is_root: false
-weight: 10
 ---
 
 ## LoadOptions class
@@ -19,8 +19,8 @@ The LoadOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.options/loadoptions/__init__/#) | Initializes a new instance of the [`LoadOptions`](/metadata/python-net/groupdocs.metadata.options/loadoptions) class. |
-| [__init__](/metadata/python-net/groupdocs.metadata.options/loadoptions/__init__/#groupdocs.metadata.common.FileFormat) | Initializes a new instance of the [`LoadOptions`](/metadata/python-net/groupdocs.metadata.options/loadoptions) class. |
+| [`__init__(self)`](/metadata/python-net/groupdocs.metadata.options/loadoptions/__init__/#) | Initializes a new instance of the [`LoadOptions`](/metadata/python-net/groupdocs.metadata.options/loadoptions) class. |
+| [`__init__(self, file_format)`](/metadata/python-net/groupdocs.metadata.options/loadoptions/__init__/#groupdocs.metadata.common.fileformat) | Initializes a new instance of the [`LoadOptions`](/metadata/python-net/groupdocs.metadata.options/loadoptions) class. |
 
 
 ### Properties

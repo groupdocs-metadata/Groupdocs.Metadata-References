@@ -3,9 +3,9 @@ title: movie_creation_time property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 330
 url: /python-net/groupdocs.metadata.formats.video/movpackage/movie_creation_time/
 is_root: false
-weight: 330
 ---
 
 ## movie_creation_time property

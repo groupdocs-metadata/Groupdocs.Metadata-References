@@ -3,9 +3,9 @@ title: TiffTag class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 500
 url: /python-net/groupdocs.metadata.formats.image/tifftag/
 is_root: false
-weight: 500
 ---
 
 ## TiffTag class

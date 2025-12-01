@@ -3,9 +3,9 @@ title: read_receipt_requested property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 370
 url: /python-net/groupdocs.metadata.formats.email/msgpackage/read_receipt_requested/
 is_root: false
-weight: 370
 ---
 
 ## read_receipt_requested property

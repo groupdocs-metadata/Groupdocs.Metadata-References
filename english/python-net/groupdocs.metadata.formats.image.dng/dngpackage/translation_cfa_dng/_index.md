@@ -3,9 +3,9 @@ title: translation_cfa_dng property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 310
 url: /python-net/groupdocs.metadata.formats.image.dng/dngpackage/translation_cfa_dng/
 is_root: false
-weight: 310
 ---
 
 ## translation_cfa_dng property

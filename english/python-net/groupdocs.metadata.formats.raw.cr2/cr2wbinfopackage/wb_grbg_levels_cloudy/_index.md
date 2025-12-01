@@ -3,9 +3,9 @@ title: wb_grbg_levels_cloudy property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 190
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2wbinfopackage/wb_grbg_levels_cloudy/
 is_root: false
-weight: 190
 ---
 
 ## wb_grbg_levels_cloudy property

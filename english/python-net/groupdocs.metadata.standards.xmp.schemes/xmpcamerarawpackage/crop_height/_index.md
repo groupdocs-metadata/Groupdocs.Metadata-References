@@ -3,9 +3,9 @@ title: crop_height property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 300
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/crop_height/
 is_root: false
-weight: 300
 ---
 
 ## crop_height property

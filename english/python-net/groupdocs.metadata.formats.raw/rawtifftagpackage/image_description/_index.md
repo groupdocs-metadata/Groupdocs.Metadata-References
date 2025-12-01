@@ -3,9 +3,9 @@ title: image_description property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 230
 url: /python-net/groupdocs.metadata.formats.raw/rawtifftagpackage/image_description/
 is_root: false
-weight: 230
 ---
 
 ## image_description property

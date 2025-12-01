@@ -3,9 +3,9 @@ title: is_version_of property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 440
 url: /python-net/groupdocs.metadata.formats.ebook/epubpackage/is_version_of/
 is_root: false
-weight: 440
 ---
 
 ## is_version_of property

@@ -3,18 +3,19 @@ title: set method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 100
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpbasicpackage/set/
 is_root: false
-weight: 100
 ---
 
-## set {#str-str}
+## set(self, name, value) {#System.String-System.String}
 
 Adds string property.
 
 
 
 ```python
+
 def set(self, name, value):
     ...
 ```
@@ -22,8 +23,8 @@ def set(self, name, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | XmpBasic key. |
-| value | str | String value. |
+| name | System.String | XmpBasic key. |
+| value | System.String | String value. |
 ### Exceptions
 | Exception | Description |
 | :- | :- |
@@ -32,13 +33,14 @@ def set(self, name, value):
 
 
 
-## set {#str-int}
+## set(self, name, value) {#System.String-int}
 
 Sets integer property.
 
 
 
 ```python
+
 def set(self, name, value):
     ...
 ```
@@ -46,17 +48,18 @@ def set(self, name, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | XMP metadata property name. |
+| name | System.String | XMP metadata property name. |
 | value | int | XMP metadata property value. |
 
 
-## set {#str-bool}
+## set(self, name, value) {#System.String-bool}
 
 Sets boolean property.
 
 
 
 ```python
+
 def set(self, name, value):
     ...
 ```
@@ -64,17 +67,18 @@ def set(self, name, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | XMP metadata property name. |
+| name | System.String | XMP metadata property name. |
 | value | bool | XMP metadata property value. |
 
 
-## set {#str-DateTime}
+## set(self, name, value) {#System.String-System.DateTime}
 
 Sets DateTime property.
 
 
 
 ```python
+
 def set(self, name, value):
     ...
 ```
@@ -82,17 +86,18 @@ def set(self, name, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | XMP metadata property name. |
-| value | DateTime | XMP metadata property value. |
+| name | System.String | XMP metadata property name. |
+| value | System.DateTime | XMP metadata property value. |
 
 
-## set {#str-float}
+## set(self, name, value) {#System.String-float}
 
 Sets double property.
 
 
 
 ```python
+
 def set(self, name, value):
     ...
 ```
@@ -100,17 +105,18 @@ def set(self, name, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | XMP metadata property name. |
+| name | System.String | XMP metadata property name. |
 | value | float | XMP metadata property value. |
 
 
-## set {#str-groupdocs.metadata.standards.xmp.XmpValueBase}
+## set(self, name, value) {#System.String-groupdocs.metadata.standards.xmp.XmpValueBase}
 
 Sets the value inherited from [`XmpValueBase`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpvaluebase) .
 
 
 
 ```python
+
 def set(self, name, value):
     ...
 ```
@@ -118,17 +124,18 @@ def set(self, name, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | XMP metadata property name. |
-| value | [`XmpValueBase`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpvaluebase) | XMP metadata property value. |
+| name | System.String | XMP metadata property name. |
+| value | groupdocs.metadata.standards.xmp.XmpValueBase | XMP metadata property value. |
 
 
-## set {#str-groupdocs.metadata.standards.xmp.XmpComplexType}
+## set(self, name, value) {#System.String-groupdocs.metadata.standards.xmp.XmpComplexType}
 
 Sets the value inherited from [`XmpComplexType`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpcomplextype) .
 
 
 
 ```python
+
 def set(self, name, value):
     ...
 ```
@@ -136,17 +143,18 @@ def set(self, name, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | XMP metadata property name. |
-| value | [`XmpComplexType`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpcomplextype) | XMP metadata property value. |
+| name | System.String | XMP metadata property name. |
+| value | groupdocs.metadata.standards.xmp.XmpComplexType | XMP metadata property value. |
 
 
-## set {#str-groupdocs.metadata.standards.xmp.XmpArray}
+## set(self, name, value) {#System.String-groupdocs.metadata.standards.xmp.XmpArray}
 
 Sets the value inherited from [`XmpArray`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmparray) .
 
 
 
 ```python
+
 def set(self, name, value):
     ...
 ```
@@ -154,8 +162,8 @@ def set(self, name, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | XMP metadata property name. |
-| value | [`XmpArray`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmparray) | XMP metadata property value. |
+| name | System.String | XMP metadata property name. |
+| value | groupdocs.metadata.standards.xmp.XmpArray | XMP metadata property value. |
 
 
 

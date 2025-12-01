@@ -3,9 +3,9 @@ title: dest_distance_ref property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 230
 url: /python-net/groupdocs.metadata.standards.exif/exifgpspackage/dest_distance_ref/
 is_root: false
-weight: 230
 ---
 
 ## dest_distance_ref property

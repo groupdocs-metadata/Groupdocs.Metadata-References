@@ -3,9 +3,9 @@ title: canon_exposure_mode property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 120
 url: /python-net/groupdocs.metadata.standards.exif.makernote/canoncamerasettingspackage/canon_exposure_mode/
 is_root: false
-weight: 120
 ---
 
 ## canon_exposure_mode property

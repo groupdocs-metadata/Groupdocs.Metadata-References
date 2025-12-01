@@ -3,9 +3,9 @@ title: ZipCompressionMethod enumeration
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 130
 url: /python-net/groupdocs.metadata.formats.archive/zipcompressionmethod/
 is_root: false
-weight: 130
 ---
 
 ## ZipCompressionMethod enumeration

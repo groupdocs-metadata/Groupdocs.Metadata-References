@@ -3,9 +3,9 @@ title: dest_bearing_ref property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 210
 url: /python-net/groupdocs.metadata.standards.exif/exifgpspackage/dest_bearing_ref/
 is_root: false
-weight: 210
 ---
 
 ## dest_bearing_ref property

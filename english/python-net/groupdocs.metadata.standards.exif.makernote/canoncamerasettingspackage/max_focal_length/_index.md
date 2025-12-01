@@ -3,9 +3,9 @@ title: max_focal_length property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 260
 url: /python-net/groupdocs.metadata.standards.exif.makernote/canoncamerasettingspackage/max_focal_length/
 is_root: false
-weight: 260
 ---
 
 ## max_focal_length property

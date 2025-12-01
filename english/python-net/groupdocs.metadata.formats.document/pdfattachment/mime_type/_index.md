@@ -3,9 +3,9 @@ title: mime_type property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 140
 url: /python-net/groupdocs.metadata.formats.document/pdfattachment/mime_type/
 is_root: false
-weight: 140
 ---
 
 ## mime_type property

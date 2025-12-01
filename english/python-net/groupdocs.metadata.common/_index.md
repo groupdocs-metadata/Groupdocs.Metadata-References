@@ -3,9 +3,9 @@ title: groupdocs.metadata.common
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.common/
 is_root: false
-weight: 10
 ---
 
 The namespace contains base classes, utility classes and interfaces used across all formats and metadata standards.

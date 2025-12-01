@@ -3,9 +3,9 @@ title: atoms property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 100
 url: /python-net/groupdocs.metadata.formats.video/movatom/atoms/
 is_root: false
-weight: 100
 ---
 
 ## atoms property

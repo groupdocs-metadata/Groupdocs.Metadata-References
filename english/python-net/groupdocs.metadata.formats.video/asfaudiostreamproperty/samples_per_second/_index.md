@@ -3,9 +3,9 @@ title: samples_per_second property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 240
 url: /python-net/groupdocs.metadata.formats.video/asfaudiostreamproperty/samples_per_second/
 is_root: false
-weight: 240
 ---
 
 ## samples_per_second property

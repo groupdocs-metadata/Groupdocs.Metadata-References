@@ -3,9 +3,9 @@ title: TiffSRationalTag class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 470
 url: /python-net/groupdocs.metadata.formats.image/tiffsrationaltag/
 is_root: false
-weight: 470
 ---
 
 ## TiffSRationalTag class
@@ -25,7 +25,7 @@ The TiffSRationalTag type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.formats.image/tiffsrationaltag/__init__/#groupdocs.metadata.formats.image.TiffTagID-list) | Initializes a new instance of the [`TiffSRationalTag`](/metadata/python-net/groupdocs.metadata.formats.image/tiffsrationaltag) class. |
+| [`__init__(self, tag_id, value)`](/metadata/python-net/groupdocs.metadata.formats.image/tiffsrationaltag/__init__/#groupdocs.metadata.formats.image.tifftagid-list) | Initializes a new instance of the [`TiffSRationalTag`](/metadata/python-net/groupdocs.metadata.formats.image/tiffsrationaltag) class. |
 
 
 ### Properties

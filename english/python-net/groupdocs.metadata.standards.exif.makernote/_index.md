@@ -3,9 +3,9 @@ title: groupdocs.metadata.standards.exif.makernote
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.standards.exif.makernote/
 is_root: false
-weight: 10
 ---
 
 The namespace contains classes intended to work with MakerNote metadata written by various camera manufacturers.

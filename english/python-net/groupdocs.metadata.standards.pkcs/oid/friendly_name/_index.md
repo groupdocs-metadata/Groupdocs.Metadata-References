@@ -3,9 +3,9 @@ title: friendly_name property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 110
 url: /python-net/groupdocs.metadata.standards.pkcs/oid/friendly_name/
 is_root: false
-weight: 110
 ---
 
 ## friendly_name property

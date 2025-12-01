@@ -3,9 +3,9 @@ title: general_recordset property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 210
 url: /python-net/groupdocs.metadata.formats.businesscard/vcardcard/general_recordset/
 is_root: false
-weight: 210
 ---
 
 ## general_recordset property

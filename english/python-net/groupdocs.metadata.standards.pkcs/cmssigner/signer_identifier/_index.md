@@ -3,9 +3,9 @@ title: signer_identifier property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 180
 url: /python-net/groupdocs.metadata.standards.pkcs/cmssigner/signer_identifier/
 is_root: false
-weight: 180
 ---
 
 ## signer_identifier property

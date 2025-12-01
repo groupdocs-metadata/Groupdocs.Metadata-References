@@ -3,9 +3,9 @@ title: anniversary_text_record property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 120
 url: /python-net/groupdocs.metadata.formats.businesscard/vcardidentificationrecordset/anniversary_text_record/
 is_root: false
-weight: 120
 ---
 
 ## anniversary_text_record property

@@ -3,18 +3,19 @@ title: XmpGuid constructor
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.standards.xmp/xmpguid/__init__/
 is_root: false
-weight: 10
 ---
 
-## __init__ {#str}
+## \_\_init\_\_(self, value) {#System.String}
 
 Initializes a new instance of the [`XmpGuid`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpguid) class.
 
 
 
 ```python
+
 def __init__(self, value):
     ...
 ```
@@ -22,7 +23,7 @@ def __init__(self, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| value | str | The value. |
+| value | System.String | The value. |
 ### Exceptions
 | Exception | Description |
 | :- | :- |
@@ -32,13 +33,14 @@ def __init__(self, value):
 
 
 
-## __init__ {#Guid}
+## \_\_init\_\_(self, value) {#System.Guid}
 
-Constructs a new instance of XmpGuid
+Initializes a new instance of the [`XmpGuid`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpguid) class.
 
 
 
 ```python
+
 def __init__(self, value):
     ...
 ```
@@ -46,7 +48,7 @@ def __init__(self, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| value | Guid |  |
+| value | System.Guid | The unique identifier. |
 
 
 

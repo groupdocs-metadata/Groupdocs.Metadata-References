@@ -3,9 +3,9 @@ title: canon_image_type property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 170
 url: /python-net/groupdocs.metadata.standards.exif.makernote/canonmakernotepackage/canon_image_type/
 is_root: false
-weight: 170
 ---
 
 ## canon_image_type property

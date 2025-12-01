@@ -3,18 +3,19 @@ title: set method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 110
 url: /python-net/groupdocs.metadata.formats.document/projectmanagementpackage/set/
 is_root: false
-weight: 110
 ---
 
-## set {#str-str}
+## set(self, property_name, value) {#System.String-System.String}
 
 Adds or replaces the metadata property with the specified name.
 
 
 
 ```python
+
 def set(self, property_name, value):
     ...
 ```
@@ -22,17 +23,18 @@ def set(self, property_name, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| property_name | str | The property name. |
-| value | str | The property value. |
+| property_name | System.String | The property name. |
+| value | System.String | The property value. |
 
 
-## set {#str-float}
+## set(self, property_name, value) {#System.String-float}
 
 Adds or replaces the metadata property with the specified name.
 
 
 
 ```python
+
 def set(self, property_name, value):
     ...
 ```
@@ -40,17 +42,18 @@ def set(self, property_name, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| property_name | str | The property name. |
+| property_name | System.String | The property name. |
 | value | float | The property value. |
 
 
-## set {#str-bool}
+## set(self, property_name, value) {#System.String-bool}
 
 Adds or replaces the metadata property with the specified name.
 
 
 
 ```python
+
 def set(self, property_name, value):
     ...
 ```
@@ -58,17 +61,18 @@ def set(self, property_name, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| property_name | str | The property name. |
+| property_name | System.String | The property name. |
 | value | bool | The property value. |
 
 
-## set {#str-DateTime}
+## set(self, property_name, value) {#System.String-System.DateTime}
 
 Adds or replaces the metadata property with the specified name.
 
 
 
 ```python
+
 def set(self, property_name, value):
     ...
 ```
@@ -76,17 +80,18 @@ def set(self, property_name, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| property_name | str | The property name. |
-| value | DateTime | The property value. |
+| property_name | System.String | The property name. |
+| value | System.DateTime | The property value. |
 
 
-## set {#str-int}
+## set(self, property_name, value) {#System.String-int}
 
 Adds or replaces the metadata property with the specified name.
 
 
 
 ```python
+
 def set(self, property_name, value):
     ...
 ```
@@ -94,7 +99,7 @@ def set(self, property_name, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| property_name | str | The property name. |
+| property_name | System.String | The property name. |
 | value | int | The property value. |
 
 

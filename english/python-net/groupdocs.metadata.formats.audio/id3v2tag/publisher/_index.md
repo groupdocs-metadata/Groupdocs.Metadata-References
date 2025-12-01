@@ -3,9 +3,9 @@ title: publisher property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 360
 url: /python-net/groupdocs.metadata.formats.audio/id3v2tag/publisher/
 is_root: false
-weight: 360
 ---
 
 ## publisher property

@@ -3,9 +3,9 @@ title: ID3V2TagFrameFlags class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 110
 url: /python-net/groupdocs.metadata.formats.audio/id3v2tagframeflags/
 is_root: false
-weight: 110
 ---
 
 ## ID3V2TagFrameFlags class
@@ -32,7 +32,7 @@ The ID3V2TagFrameFlags type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [equals](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2tagframeflags/equals/#groupdocs.metadata.formats.audio.ID3V2TagFrameFlags) | Indicates whether the current object is equal to another object of the same type. |
+| [`equals(self, other)`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2tagframeflags/equals/#groupdocs.metadata.formats.audio.id3v2tagframeflags) | Indicates whether the current object is equal to another object of the same type. |
 
 
 

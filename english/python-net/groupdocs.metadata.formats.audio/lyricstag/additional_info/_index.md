@@ -3,9 +3,9 @@ title: additional_info property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 140
 url: /python-net/groupdocs.metadata.formats.audio/lyricstag/additional_info/
 is_root: false
-weight: 140
 ---
 
 ## additional_info property

@@ -3,9 +3,9 @@ title: stereo_mode property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 330
 url: /python-net/groupdocs.metadata.formats.video/matroskavideotrack/stereo_mode/
 is_root: false
-weight: 330
 ---
 
 ## stereo_mode property

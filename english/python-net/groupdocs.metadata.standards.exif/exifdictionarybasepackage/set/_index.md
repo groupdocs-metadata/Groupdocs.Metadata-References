@@ -3,18 +3,19 @@ title: set method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 90
 url: /python-net/groupdocs.metadata.standards.exif/exifdictionarybasepackage/set/
 is_root: false
-weight: 90
 ---
 
-## set {#groupdocs.metadata.formats.image.TiffTag}
+## set(self, tag) {#groupdocs.metadata.formats.image.TiffTag}
 
 Adds or replaces the specified tag.
 
 
 
 ```python
+
 def set(self, tag):
     ...
 ```

@@ -3,9 +3,9 @@ title: date_time property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 190
 url: /python-net/groupdocs.metadata.formats.raw/rawtifftagpackage/date_time/
 is_root: false
-weight: 190
 ---
 
 ## date_time property

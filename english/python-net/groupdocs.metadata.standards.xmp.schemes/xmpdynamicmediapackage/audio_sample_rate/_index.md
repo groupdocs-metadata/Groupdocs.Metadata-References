@@ -3,9 +3,9 @@ title: audio_sample_rate property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 230
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/audio_sample_rate/
 is_root: false
-weight: 230
 ---
 
 ## audio_sample_rate property

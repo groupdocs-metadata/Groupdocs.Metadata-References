@@ -3,9 +3,9 @@ title: photographic_sensitivity property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 700
 url: /python-net/groupdocs.metadata.formats.raw/rawexiftagpackage/photographic_sensitivity/
 is_root: false
-weight: 700
 ---
 
 ## photographic_sensitivity property

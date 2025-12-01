@@ -3,9 +3,9 @@ title: groupdocs.metadata.formats.riff
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.formats.riff/
 is_root: false
-weight: 10
 ---
 
 The namespace provides functionality allowing users to work with metadata of various formats derived from the RIFF container.

@@ -3,9 +3,9 @@ title: ai_servo_continuous_shooting property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 190
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2functions1dpackage/ai_servo_continuous_shooting/
 is_root: false
-weight: 190
 ---
 
 ## ai_servo_continuous_shooting property

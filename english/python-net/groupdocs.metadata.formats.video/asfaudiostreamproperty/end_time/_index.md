@@ -3,9 +3,9 @@ title: end_time property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 170
 url: /python-net/groupdocs.metadata.formats.video/asfaudiostreamproperty/end_time/
 is_root: false
-weight: 170
 ---
 
 ## end_time property
@@ -13,6 +13,12 @@ weight: 170
 
 Gets the presentation time of the last object plus the duration of play, indicating where 
 this digital media stream ends within the context of the timeline of the ASF file as a whole.
+### Definition:
+```python
+@property
+def end_time(self):
+    ...
+```
 
 ### See Also
 * module [`groupdocs.metadata.formats.video`](../../)

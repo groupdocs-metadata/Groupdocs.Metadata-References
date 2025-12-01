@@ -3,9 +3,9 @@ title: latitude property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 330
 url: /python-net/groupdocs.metadata.standards.exif/exifgpspackage/latitude/
 is_root: false
-weight: 330
 ---
 
 ## latitude property

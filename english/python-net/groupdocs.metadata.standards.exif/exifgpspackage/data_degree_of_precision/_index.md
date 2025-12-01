@@ -3,9 +3,9 @@ title: data_degree_of_precision property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 180
 url: /python-net/groupdocs.metadata.standards.exif/exifgpspackage/data_degree_of_precision/
 is_root: false
-weight: 180
 ---
 
 ## data_degree_of_precision property

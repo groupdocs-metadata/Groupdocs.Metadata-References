@@ -3,9 +3,9 @@ title: pf7_bracket_continuous_shoot property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 430
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2personalfuncspackage/pf7_bracket_continuous_shoot/
 is_root: false
-weight: 430
 ---
 
 ## pf7_bracket_continuous_shoot property

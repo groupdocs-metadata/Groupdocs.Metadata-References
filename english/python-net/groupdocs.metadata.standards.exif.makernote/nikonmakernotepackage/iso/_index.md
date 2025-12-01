@@ -3,9 +3,9 @@ title: iso property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 190
 url: /python-net/groupdocs.metadata.standards.exif.makernote/nikonmakernotepackage/iso/
 is_root: false
-weight: 190
 ---
 
 ## iso property

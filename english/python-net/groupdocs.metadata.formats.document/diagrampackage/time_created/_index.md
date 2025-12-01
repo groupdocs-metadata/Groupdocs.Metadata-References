@@ -3,9 +3,9 @@ title: time_created property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 330
 url: /python-net/groupdocs.metadata.formats.document/diagrampackage/time_created/
 is_root: false
-weight: 330
 ---
 
 ## time_created property

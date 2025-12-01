@@ -3,9 +3,9 @@ title: copyright_notice property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 240
 url: /python-net/groupdocs.metadata.standards.iptc/iptcapplicationrecord/copyright_notice/
 is_root: false
-weight: 240
 ---
 
 ## copyright_notice property

@@ -3,9 +3,9 @@ title: product_i_ds property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 390
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpiptciimpackage/product_i_ds/
 is_root: false
-weight: 390
 ---
 
 ## product_i_ds property

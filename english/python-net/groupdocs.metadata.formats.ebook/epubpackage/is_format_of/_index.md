@@ -3,9 +3,9 @@ title: is_format_of property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 390
 url: /python-net/groupdocs.metadata.formats.ebook/epubpackage/is_format_of/
 is_root: false
-weight: 390
 ---
 
 ## is_format_of property

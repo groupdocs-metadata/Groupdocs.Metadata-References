@@ -3,9 +3,9 @@ title: type_parameters property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 220
 url: /python-net/groupdocs.metadata.formats.businesscard/vcardrecord/type_parameters/
 is_root: false
-weight: 220
 ---
 
 ## type_parameters property

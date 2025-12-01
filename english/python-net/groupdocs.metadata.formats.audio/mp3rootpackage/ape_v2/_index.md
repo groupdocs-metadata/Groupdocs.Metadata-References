@@ -3,9 +3,9 @@ title: ape_v2 property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 110
 url: /python-net/groupdocs.metadata.formats.audio/mp3rootpackage/ape_v2/
 is_root: false
-weight: 110
 ---
 
 ## ape_v2 property

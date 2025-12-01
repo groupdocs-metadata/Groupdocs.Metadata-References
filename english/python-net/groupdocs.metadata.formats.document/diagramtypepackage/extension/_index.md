@@ -3,15 +3,21 @@ title: extension property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 120
 url: /python-net/groupdocs.metadata.formats.document/diagramtypepackage/extension/
 is_root: false
-weight: 120
 ---
 
 ## extension property
 
 
 Gets the file extension.
+### Definition:
+```python
+@property
+def extension(self):
+    ...
+```
 
 ### See Also
 * module [`groupdocs.metadata.formats.document`](../../)

@@ -3,9 +3,9 @@ title: state property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 350
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpphotoshoppackage/state/
 is_root: false
-weight: 350
 ---
 
 ## state property

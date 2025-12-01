@@ -3,9 +3,9 @@ title: glyph_bounds property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 190
 url: /python-net/groupdocs.metadata.formats.font/opentypefont/glyph_bounds/
 is_root: false
-weight: 190
 ---
 
 ## glyph_bounds property

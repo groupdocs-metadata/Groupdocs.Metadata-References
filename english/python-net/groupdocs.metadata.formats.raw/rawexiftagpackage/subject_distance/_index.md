@@ -3,9 +3,9 @@ title: subject_distance property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 940
 url: /python-net/groupdocs.metadata.formats.raw/rawexiftagpackage/subject_distance/
 is_root: false
-weight: 940
 ---
 
 ## subject_distance property

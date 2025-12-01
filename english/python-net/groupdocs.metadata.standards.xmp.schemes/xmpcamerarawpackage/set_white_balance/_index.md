@@ -3,18 +3,19 @@ title: set_white_balance method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 120
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/set_white_balance/
 is_root: false
-weight: 120
 ---
 
-## set_white_balance {#groupdocs.metadata.standards.xmp.schemes.XmpWhiteBalance}
+## set_white_balance(self, white_balance) {#groupdocs.metadata.standards.xmp.schemes.XmpWhiteBalance}
 
 Sets the white balance.
 
 
 
 ```python
+
 def set_white_balance(self, white_balance):
     ...
 ```
@@ -22,7 +23,7 @@ def set_white_balance(self, white_balance):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| white_balance | [`XmpWhiteBalance`](/metadata/python-net/groupdocs.metadata.standards.xmp.schemes/xmpwhitebalance) | The white balance. |
+| white_balance | groupdocs.metadata.standards.xmp.schemes.XmpWhiteBalance | The white balance. |
 ### Exceptions
 | Exception | Description |
 | :- | :- |

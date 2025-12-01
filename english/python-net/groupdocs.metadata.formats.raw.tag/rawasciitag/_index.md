@@ -3,9 +3,9 @@ title: RawAsciiTag class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.formats.raw.tag/rawasciitag/
 is_root: false
-weight: 10
 ---
 
 ## RawAsciiTag class
@@ -25,7 +25,7 @@ The RawAsciiTag type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.formats.raw.tag/rawasciitag/__init__/#int-str) | Initializes a new instance of the [`RawAsciiTag`](/metadata/python-net/groupdocs.metadata.formats.raw.tag/rawasciitag) class. |
+| [`__init__(self, tag_id, value)`](/metadata/python-net/groupdocs.metadata.formats.raw.tag/rawasciitag/__init__/#int-system.string) | Initializes a new instance of the [`RawAsciiTag`](/metadata/python-net/groupdocs.metadata.formats.raw.tag/rawasciitag) class. |
 
 
 ### Properties

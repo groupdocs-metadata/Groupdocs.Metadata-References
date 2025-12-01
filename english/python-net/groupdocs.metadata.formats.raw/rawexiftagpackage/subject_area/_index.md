@@ -3,9 +3,9 @@ title: subject_area property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 930
 url: /python-net/groupdocs.metadata.formats.raw/rawexiftagpackage/subject_area/
 is_root: false
-weight: 930
 ---
 
 ## subject_area property

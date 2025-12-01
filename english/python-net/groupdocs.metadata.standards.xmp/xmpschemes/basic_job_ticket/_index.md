@@ -3,9 +3,9 @@ title: basic_job_ticket property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 30
 url: /python-net/groupdocs.metadata.standards.xmp/xmpschemes/basic_job_ticket/
 is_root: false
-weight: 30
 ---
 
 ## basic_job_ticket property

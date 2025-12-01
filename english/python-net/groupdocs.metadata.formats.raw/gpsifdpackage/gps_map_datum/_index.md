@@ -3,9 +3,9 @@ title: gps_map_datum property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 340
 url: /python-net/groupdocs.metadata.formats.raw/gpsifdpackage/gps_map_datum/
 is_root: false
-weight: 340
 ---
 
 ## gps_map_datum property

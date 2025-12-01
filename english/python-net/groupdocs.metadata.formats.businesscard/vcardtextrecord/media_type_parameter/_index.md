@@ -3,9 +3,9 @@ title: media_type_parameter property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 210
 url: /python-net/groupdocs.metadata.formats.businesscard/vcardtextrecord/media_type_parameter/
 is_root: false
-weight: 210
 ---
 
 ## media_type_parameter property

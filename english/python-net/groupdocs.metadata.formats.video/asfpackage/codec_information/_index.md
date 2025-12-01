@@ -3,9 +3,9 @@ title: codec_information property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 100
 url: /python-net/groupdocs.metadata.formats.video/asfpackage/codec_information/
 is_root: false
-weight: 100
 ---
 
 ## codec_information property

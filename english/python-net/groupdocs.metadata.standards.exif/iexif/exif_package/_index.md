@@ -3,9 +3,9 @@ title: exif_package property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 30
 url: /python-net/groupdocs.metadata.standards.exif/iexif/exif_package/
 is_root: false
-weight: 30
 ---
 
 ## exif_package property

@@ -3,9 +3,9 @@ title: af_tracking_sensitivity property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 210
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2afconfigpackage/af_tracking_sensitivity/
 is_root: false
-weight: 210
 ---
 
 ## af_tracking_sensitivity property

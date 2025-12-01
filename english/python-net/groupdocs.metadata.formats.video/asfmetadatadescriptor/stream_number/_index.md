@@ -3,9 +3,9 @@ title: stream_number property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 90
 url: /python-net/groupdocs.metadata.formats.video/asfmetadatadescriptor/stream_number/
 is_root: false
-weight: 90
 ---
 
 ## stream_number property

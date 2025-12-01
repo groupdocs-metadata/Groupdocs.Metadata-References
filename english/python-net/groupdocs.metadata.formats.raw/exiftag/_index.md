@@ -3,9 +3,9 @@ title: ExifTag class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.formats.raw/exiftag/
 is_root: false
-weight: 10
 ---
 
 ## ExifTag class

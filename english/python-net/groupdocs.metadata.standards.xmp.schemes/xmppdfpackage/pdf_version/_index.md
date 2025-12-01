@@ -3,9 +3,9 @@ title: pdf_version property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 200
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/pdf_version/
 is_root: false
-weight: 200
 ---
 
 ## pdf_version property

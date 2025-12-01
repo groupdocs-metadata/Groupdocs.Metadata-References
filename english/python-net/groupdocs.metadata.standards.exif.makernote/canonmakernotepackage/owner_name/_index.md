@@ -3,9 +3,9 @@ title: owner_name property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 230
 url: /python-net/groupdocs.metadata.standards.exif.makernote/canonmakernotepackage/owner_name/
 is_root: false
-weight: 230
 ---
 
 ## owner_name property

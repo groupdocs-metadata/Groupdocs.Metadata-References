@@ -3,9 +3,9 @@ title: creation_date property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 130
 url: /python-net/groupdocs.metadata.formats.ebook.mobi/pdbheader/creation_date/
 is_root: false
-weight: 130
 ---
 
 ## creation_date property

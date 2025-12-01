@@ -3,9 +3,9 @@ title: modified property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 80
 url: /python-net/groupdocs.metadata.tagging/timetagcategory/modified/
 is_root: false
-weight: 70
 ---
 
 ## modified property

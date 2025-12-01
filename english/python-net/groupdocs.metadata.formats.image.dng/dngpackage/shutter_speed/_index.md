@@ -3,9 +3,9 @@ title: shutter_speed property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 280
 url: /python-net/groupdocs.metadata.formats.image.dng/dngpackage/shutter_speed/
 is_root: false
-weight: 280
 ---
 
 ## shutter_speed property

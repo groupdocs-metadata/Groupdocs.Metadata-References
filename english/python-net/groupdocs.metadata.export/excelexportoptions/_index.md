@@ -3,9 +3,9 @@ title: ExcelExportOptions class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 20
 url: /python-net/groupdocs.metadata.export/excelexportoptions/
 is_root: false
-weight: 20
 ---
 
 ## ExcelExportOptions class
@@ -24,8 +24,8 @@ The ExcelExportOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.export/excelexportoptions/__init__/#) | Initializes a new instance of the [`ExcelExportOptions`](/metadata/python-net/groupdocs.metadata.export/excelexportoptions) class. |
-| [__init__](/metadata/python-net/groupdocs.metadata.export/excelexportoptions/__init__/#bool) | Initializes a new instance of the [`ExcelExportOptions`](/metadata/python-net/groupdocs.metadata.export/excelexportoptions) class. |
+| [`__init__(self)`](/metadata/python-net/groupdocs.metadata.export/excelexportoptions/__init__/#) | Initializes a new instance of the [`ExcelExportOptions`](/metadata/python-net/groupdocs.metadata.export/excelexportoptions) class. |
+| [`__init__(self, group_cells)`](/metadata/python-net/groupdocs.metadata.export/excelexportoptions/__init__/#bool) | Initializes a new instance of the [`ExcelExportOptions`](/metadata/python-net/groupdocs.metadata.export/excelexportoptions) class. |
 
 
 ### Properties

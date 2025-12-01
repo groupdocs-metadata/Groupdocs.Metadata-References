@@ -3,9 +3,9 @@ title: location_name property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 290
 url: /python-net/groupdocs.metadata.formats.video/movpackage/location_name/
 is_root: false
-weight: 290
 ---
 
 ## location_name property

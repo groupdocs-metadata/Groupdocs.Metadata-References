@@ -3,9 +3,9 @@ title: FileType class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 30
 url: /python-net/groupdocs.metadata.common/filetype/
 is_root: false
-weight: 30
 ---
 
 ## FileType class
@@ -114,6 +114,7 @@ The FileType type exposes the following members:
 | [TAR](/metadata/python-net/groupdocs.metadata.common/filetype/tar) | In computing, tar is a computer software utility for collecting many files into one archive file, often referred to as a tarball, for distribution or backup purposes.<br/>[here](https://wiki.fileformat.com/compression/tar/). |
 | [THREEDS](/metadata/python-net/groupdocs.metadata.common/filetype/threeds) | A file with .3ds extension represents 3D Sudio (DOS) mesh file format used by Autodesk 3D Studio. Autodesk 3D Studio has been in 3D file format market since 1990s and has now evolved to 3D Studio MAX for working with 3D modeling, animation and rendering.<br/>[here](https://wiki.fileformat.com/3d/3ds/). |
 | [DAE](/metadata/python-net/groupdocs.metadata.common/filetype/dae) | A DAE file is a Digital Asset Exchange file format that is used for exchanging data between interactive 3D applications.<br/>[here](https://wiki.fileformat.com/3d/dae/). |
+| [GLTF](/metadata/python-net/groupdocs.metadata.common/filetype/gltf) | glTF (GL Transmission Format) is a 3D file format that stores 3D model information in JSON format. The use of JSON minimizes both the size of 3D assets and the runtime processing needed to unpack and use those assets. It was adopted for the efficient transmission and loading of 3D scenes and models by applications. glTF was developed by the Khronos Group 3D Formats Working Group and is also described as JPEG of 3D by its creators.<br/>[here](https://wiki.fileformat.com/3d/gltf/). |
 | [FBX](/metadata/python-net/groupdocs.metadata.common/filetype/fbx) | FBX (Filmbox) is a proprietary file format (.fbx) developed by Kaydara and owned by Autodesk since 2006. It is used to provide interoperability between digital content creation applications. FBX is also part of Autodesk Gameware, a series of video game middleware.<br/>[here](https://wiki.fileformat.com/3d/fbx/). |
 | [STL](/metadata/python-net/groupdocs.metadata.common/filetype/stl) | STL is a file format native to the stereolithography CAD software created by 3D Systems. Chuck Hull, the inventor of stereolithography and 3D Systems’ founder, reports that the file extension is an abbreviation for stereolithography.<br/>[here](https://wiki.fileformat.com/3d/stl/). |
 | [SHP](/metadata/python-net/groupdocs.metadata.common/filetype/shp) | The shapefile format is a geospatial vector data format for geographic information system (GIS) software.<br/>[here](https://docs.fileformat.com/gis/shp/). |
@@ -130,13 +131,14 @@ The FileType type exposes the following members:
 | [FB2](/metadata/python-net/groupdocs.metadata.common/filetype/fb2) | Files with .fb2 extension are FictionBook 2.0 eBook files that contains the structure of the eBook.<br/>It is based on XML format and contains special tags for describing each element of the book.<br/>It was developed primarily for fictional writings and literature, but is not limited to these only.<br/>The format accommodates all the metadata as well as content in itself and allows flexibility for a number of operations such as automatic processing, indexing, and conversion to other formats.<br/>In short, it focuses on describing the structure of the file instead of specifying its appearance.<br/>Several applications as well as APIs are available to convert FB2 to several other formats on Windows, MacOS, and Linux.<br/>Learn more about this file format [here](https://docs.fileformat.com/ebook/fb2/). |
 | [MOBI](/metadata/python-net/groupdocs.metadata.common/filetype/mobi) | The MOBI file format is one of the most widely used ebook file formats. The format is an enhancement to the old OEB (Open Ebook Format) format and was used as the proprietary format for Mobipocket Reader. Like EPUB, it is supported by almost all modern e-readers specifically by mobile devices with low bandwidth. The format can be converted to several other formats such as PDF, EPUB, and several other formats using publicly available software applications such as the Kindle app. There are several companies that offer free MOBI books such as Project Gutenberg, Feedbooks, and Open Library.<br/>Learn more about this file format [here](https://docs.fileformat.com/ebook/mobi/). |
 | [OGG](/metadata/python-net/groupdocs.metadata.common/filetype/ogg) | OGG is an Ogg Vorbis Compressed Audio File that is saved with the .ogg extension. OGG files are used for storing audio data and can include artist and track information and metadata as well. OGG is a free and open container format that is maintained by Xiph.Org Foundation.<br/>Learn more about this file format [here](https://docs.fileformat.com/audio/ogg/). |
+| [SVG](/metadata/python-net/groupdocs.metadata.common/filetype/svg) | An SVG file is a Scalar Vector Graphics file that uses XML based text format for describing the appearance of an image. The word Scalable refers to the fact that the SVG can be scaled to different sizes without losing any quality. Text-based description of such files makes them independent of resolution. It is one of the most used formats for building a website and print graphics in order to achieve scalability. The format can only be used for two-dimensional graphics though. SVG files can be viewed/opened in almost all modern browsers including Chrome, Internet Explorer, Firefox, and Safari.<br/>Learn more about this file format [here](https://docs.fileformat.com/image/svg/). |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_supported_file_types](/metadata/python-net/groupdocs.metadata.common/filetype/get_supported_file_types/#) | Retrieves supported file types. |
-| [from_extension](/metadata/python-net/groupdocs.metadata.common/filetype/from_extension/#str) | Gets FileType for provided fileExtension |
+| [`get_supported_file_types()`](/metadata/python-net/groupdocs.metadata.common/filetype/get_supported_file_types/#) | Retrieves supported file types. |
+| [`from_extension(, file_extension)`](/metadata/python-net/groupdocs.metadata.common/filetype/from_extension/#system.string) | Gets FileType for provided fileExtension |
 
 
 

@@ -3,9 +3,9 @@ title: multi_burst_image_height property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 290
 url: /python-net/groupdocs.metadata.standards.exif.makernote/sonymakernotepackage/multi_burst_image_height/
 is_root: false
-weight: 290
 ---
 
 ## multi_burst_image_height property

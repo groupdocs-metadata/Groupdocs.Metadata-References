@@ -3,9 +3,9 @@ title: thumbnail_image_valid_area property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 1030
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/thumbnail_image_valid_area/
 is_root: false
-weight: 1030
 ---
 
 ## thumbnail_image_valid_area property

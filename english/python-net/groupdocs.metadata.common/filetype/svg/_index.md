@@ -1,0 +1,23 @@
+﻿---
+title: SVG property
+second_title: GroupDocs.Metadata for Python via .NET API References
+description: 
+type: docs
+weight: 840
+url: /python-net/groupdocs.metadata.common/filetype/svg/
+is_root: false
+---
+
+## SVG property
+
+
+An SVG file is a Scalar Vector Graphics file that uses XML based text format for describing the appearance of an image. The word Scalable refers to the fact that the SVG can be scaled to different sizes without losing any quality. Text-based description of such files makes them independent of resolution. It is one of the most used formats for building a website and print graphics in order to achieve scalability. The format can only be used for two-dimensional graphics though. SVG files can be viewed/opened in almost all modern browsers including Chrome, Internet Explorer, Firefox, and Safari.
+Learn more about this file format [here](https://docs.fileformat.com/image/svg/).
+### Definition:
+```python
+f SVG 
+```
+
+### See Also
+* module [`groupdocs.metadata.common`](../../)
+* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype)

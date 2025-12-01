@@ -3,9 +3,9 @@ title: conforms_to property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 190
 url: /python-net/groupdocs.metadata.formats.ebook/epubpackage/conforms_to/
 is_root: false
-weight: 190
 ---
 
 ## conforms_to property

@@ -3,9 +3,9 @@ title: text_birthdates property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 350
 url: /python-net/groupdocs.metadata.formats.businesscard/vcardidentificationrecordset/text_birthdates/
 is_root: false
-weight: 350
 ---
 
 ## text_birthdates property

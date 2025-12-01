@@ -3,9 +3,9 @@ title: audio_compressor property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 220
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/audio_compressor/
 is_root: false
-weight: 220
 ---
 
 ## audio_compressor property

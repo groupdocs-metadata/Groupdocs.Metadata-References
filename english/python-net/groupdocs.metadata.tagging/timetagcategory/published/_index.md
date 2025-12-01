@@ -3,9 +3,9 @@ title: published property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 100
 url: /python-net/groupdocs.metadata.tagging/timetagcategory/published/
 is_root: false
-weight: 90
 ---
 
 ## published property

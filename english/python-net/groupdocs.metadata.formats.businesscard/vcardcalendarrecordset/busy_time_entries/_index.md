@@ -3,9 +3,9 @@ title: busy_time_entries property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 100
 url: /python-net/groupdocs.metadata.formats.businesscard/vcardcalendarrecordset/busy_time_entries/
 is_root: false
-weight: 100
 ---
 
 ## busy_time_entries property

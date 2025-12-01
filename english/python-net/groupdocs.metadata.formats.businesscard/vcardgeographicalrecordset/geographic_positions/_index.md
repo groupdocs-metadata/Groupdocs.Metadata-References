@@ -3,9 +3,9 @@ title: geographic_positions property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 120
 url: /python-net/groupdocs.metadata.formats.businesscard/vcardgeographicalrecordset/geographic_positions/
 is_root: false
-weight: 120
 ---
 
 ## geographic_positions property

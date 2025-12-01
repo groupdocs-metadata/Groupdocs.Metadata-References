@@ -3,9 +3,9 @@ title: originating_program property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 370
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpiptciimpackage/originating_program/
 is_root: false
-weight: 370
 ---
 
 ## originating_program property

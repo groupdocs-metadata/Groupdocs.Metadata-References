@@ -3,18 +3,19 @@ title: set_type method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 220
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpdublincorepackage/set_type/
 is_root: false
-weight: 220
 ---
 
-## set_type {#str}
+## set_type(self, type) {#System.String}
 
 Sets a single type of the resource.
 
 
 
 ```python
+
 def set_type(self, type):
     ...
 ```
@@ -22,7 +23,7 @@ def set_type(self, type):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| type | str | The type to set. |
+| type | System.String | The type to set. |
 
 
 

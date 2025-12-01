@@ -3,9 +3,9 @@ title: content_type property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 240
 url: /python-net/groupdocs.metadata.formats.audio/id3v2tag/content_type/
 is_root: false
-weight: 240
 ---
 
 ## content_type property

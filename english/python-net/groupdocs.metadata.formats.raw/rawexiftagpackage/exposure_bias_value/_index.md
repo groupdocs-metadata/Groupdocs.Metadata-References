@@ -3,9 +3,9 @@ title: exposure_bias_value property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 320
 url: /python-net/groupdocs.metadata.formats.raw/rawexiftagpackage/exposure_bias_value/
 is_root: false
-weight: 320
 ---
 
 ## exposure_bias_value property

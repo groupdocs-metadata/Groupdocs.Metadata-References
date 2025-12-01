@@ -3,9 +3,9 @@ title: groupdocs.metadata.formats.video
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.formats.video/
 is_root: false
-weight: 10
 ---
 
 The namespace contains classes for working with the most popular video formats.

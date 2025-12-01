@@ -3,9 +3,9 @@ title: is_required_by property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 430
 url: /python-net/groupdocs.metadata.formats.ebook/epubpackage/is_required_by/
 is_root: false
-weight: 430
 ---
 
 ## is_required_by property

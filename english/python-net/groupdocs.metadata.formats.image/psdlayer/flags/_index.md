@@ -3,9 +3,9 @@ title: flags property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 140
 url: /python-net/groupdocs.metadata.formats.image/psdlayer/flags/
 is_root: false
-weight: 140
 ---
 
 ## flags property

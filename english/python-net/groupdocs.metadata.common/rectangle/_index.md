@@ -3,9 +3,9 @@ title: Rectangle class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 140
 url: /python-net/groupdocs.metadata.common/rectangle/
 is_root: false
-weight: 140
 ---
 
 ## Rectangle class
@@ -19,7 +19,7 @@ The Rectangle type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.common/rectangle/__init__/#) | Constructs a new instance of Rectangle |
+| [`__init__(self)`](/metadata/python-net/groupdocs.metadata.common/rectangle/__init__/#) | Constructs a new instance of Rectangle |
 
 
 ### Properties

@@ -3,9 +3,9 @@ title: digital_zoom_ratio property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 300
 url: /python-net/groupdocs.metadata.formats.raw/rawexiftagpackage/digital_zoom_ratio/
 is_root: false
-weight: 300
 ---
 
 ## digital_zoom_ratio property

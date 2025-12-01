@@ -3,9 +3,9 @@ title: sender_email_address property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 180
 url: /python-net/groupdocs.metadata.formats.email/emailpackage/sender_email_address/
 is_root: false
-weight: 180
 ---
 
 ## sender_email_address property

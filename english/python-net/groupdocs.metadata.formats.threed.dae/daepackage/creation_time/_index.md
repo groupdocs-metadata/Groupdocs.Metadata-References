@@ -3,9 +3,9 @@ title: creation_time property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 130
 url: /python-net/groupdocs.metadata.formats.threed.dae/daepackage/creation_time/
 is_root: false
-weight: 130
 ---
 
 ## creation_time property

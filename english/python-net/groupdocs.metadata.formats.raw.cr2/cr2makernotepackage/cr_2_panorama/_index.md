@@ -3,9 +3,9 @@ title: cr_2_panorama property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 490
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr_2_panorama/
 is_root: false
-weight: 490
 ---
 
 ## cr_2_panorama property

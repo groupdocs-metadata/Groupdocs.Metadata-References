@@ -3,9 +3,9 @@ title: raw_jpg_quality property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 290
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2fileinfopackage/raw_jpg_quality/
 is_root: false
-weight: 290
 ---
 
 ## raw_jpg_quality property

@@ -3,9 +3,9 @@ title: nick_name property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 190
 url: /python-net/groupdocs.metadata.formats.ebook.fb2/fb2author/nick_name/
 is_root: false
-weight: 190
 ---
 
 ## nick_name property

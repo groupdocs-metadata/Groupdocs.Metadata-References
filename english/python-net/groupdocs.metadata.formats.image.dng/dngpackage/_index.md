@@ -3,9 +3,9 @@ title: DngPackage class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.formats.image.dng/dngpackage/
 is_root: false
-weight: 10
 ---
 
 ## DngPackage class
@@ -25,7 +25,7 @@ The DngPackage type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.formats.image.dng/dngpackage/__init__/#) | Initializes a new instance of the [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata) class. |
+| [`__init__(self)`](/metadata/python-net/groupdocs.metadata.formats.image.dng/dngpackage/__init__/#) | Initializes a new instance of the [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata) class. |
 
 
 ### Properties
@@ -58,13 +58,13 @@ The DngPackage type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [contains](/metadata/python-net/groupdocs.metadata.formats.image.dng/dngpackage/contains/#str) | Determines whether the package contains a metadata property with the specified name. |
-| [find_properties](/metadata/python-net/groupdocs.metadata.formats.image.dng/dngpackage/find_properties/#groupdocs.metadata.search.Specification) | Finds the metadata properties satisfying a specification. <br/>The search is recursive so it affects all nested packages as well. |
-| [update_properties](/metadata/python-net/groupdocs.metadata.formats.image.dng/dngpackage/update_properties/#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue) | Updates known metadata properties satisfying a specification.<br/>The operation is recursive so it affects all nested packages as well. |
-| [remove_properties](/metadata/python-net/groupdocs.metadata.formats.image.dng/dngpackage/remove_properties/#groupdocs.metadata.search.Specification) | Removes metadata properties satisfying a specification. |
-| [add_properties](/metadata/python-net/groupdocs.metadata.formats.image.dng/dngpackage/add_properties/#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue) | Adds known metadata properties satisfying the specification.<br/>The operation is recursive so it affects all nested packages as well. |
-| [set_properties](/metadata/python-net/groupdocs.metadata.formats.image.dng/dngpackage/set_properties/#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue) | Sets known metadata properties satisfying the specification.<br/>The operation is recursive so it affects all nested packages as well.<br/>This method is a combination of [`MetadataPackage.add_properties`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/add_properties) and [`MetadataPackage.update_properties`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/update_properties). <br/>If an existing property satisfies the specification its value is updated. <br/>If there is a known property missing in the package that satisfies the specification it is added to the package. |
-| [sanitize](/metadata/python-net/groupdocs.metadata.formats.image.dng/dngpackage/sanitize/#) | Removes writable metadata properties from the package.<br/>The operation is recursive so it affects all nested packages as well. |
+| [`contains(self, property_name)`](/metadata/python-net/groupdocs.metadata.formats.image.dng/dngpackage/contains/#system.string) | Determines whether the package contains a metadata property with the specified name. |
+| [`find_properties(self, specification)`](/metadata/python-net/groupdocs.metadata.formats.image.dng/dngpackage/find_properties/#groupdocs.metadata.search.specification) | Finds the metadata properties satisfying a specification. <br/>The search is recursive so it affects all nested packages as well. |
+| [`update_properties(self, specification, value)`](/metadata/python-net/groupdocs.metadata.formats.image.dng/dngpackage/update_properties/#groupdocs.metadata.search.specification-groupdocs.metadata.common.propertyvalue) | Updates known metadata properties satisfying a specification.<br/>The operation is recursive so it affects all nested packages as well. |
+| [`remove_properties(self, specification)`](/metadata/python-net/groupdocs.metadata.formats.image.dng/dngpackage/remove_properties/#groupdocs.metadata.search.specification) | Removes metadata properties satisfying a specification. |
+| [`add_properties(self, specification, value)`](/metadata/python-net/groupdocs.metadata.formats.image.dng/dngpackage/add_properties/#groupdocs.metadata.search.specification-groupdocs.metadata.common.propertyvalue) | Adds known metadata properties satisfying the specification.<br/>The operation is recursive so it affects all nested packages as well. |
+| [`set_properties(self, specification, value)`](/metadata/python-net/groupdocs.metadata.formats.image.dng/dngpackage/set_properties/#groupdocs.metadata.search.specification-groupdocs.metadata.common.propertyvalue) | Sets known metadata properties satisfying the specification.<br/>The operation is recursive so it affects all nested packages as well.<br/>This method is a combination of [`MetadataPackage.add_properties`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/add_properties) and [`MetadataPackage.update_properties`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/update_properties). <br/>If an existing property satisfies the specification its value is updated. <br/>If there is a known property missing in the package that satisfies the specification it is added to the package. |
+| [`sanitize(self)`](/metadata/python-net/groupdocs.metadata.formats.image.dng/dngpackage/sanitize/#) | Removes writable metadata properties from the package.<br/>The operation is recursive so it affects all nested packages as well. |
 
 
 

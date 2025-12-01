@@ -3,9 +3,9 @@ title: Cr2LightingOptIndex enumeration
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 440
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2lightingoptindex/
 is_root: false
-weight: 440
 ---
 
 ## Cr2LightingOptIndex enumeration

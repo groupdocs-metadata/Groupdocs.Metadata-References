@@ -3,9 +3,9 @@ title: has_extended_size property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 140
 url: /python-net/groupdocs.metadata.formats.video/movatom/has_extended_size/
 is_root: false
-weight: 140
 ---
 
 ## has_extended_size property

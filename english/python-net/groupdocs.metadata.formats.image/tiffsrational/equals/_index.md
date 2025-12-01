@@ -3,12 +3,12 @@ title: equals method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 20
 url: /python-net/groupdocs.metadata.formats.image/tiffsrational/equals/
 is_root: false
-weight: 20
 ---
 
-## equals {#groupdocs.metadata.formats.image.TiffSRational}
+## equals(self, other) {#groupdocs.metadata.formats.image.TiffSRational}
 
 Indicates whether the current object is equal to another object of the same type.
 
@@ -20,6 +20,7 @@ Indicates whether the current object is equal to another object of the same type
 
 
 ```python
+
 def equals(self, other):
     ...
 ```
@@ -27,10 +28,10 @@ def equals(self, other):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| other | [`TiffSRational`](/metadata/python-net/groupdocs.metadata.formats.image/tiffsrational) | An object to compare with this object. |
+| other | groupdocs.metadata.formats.image.TiffSRational | An object to compare with this object. |
 
 
-## equals {#groupdocs.metadata.formats.image.TiffSRational-groupdocs.metadata.formats.image.TiffSRational}
+## equals(, rational, other) {#groupdocs.metadata.formats.image.TiffSRational-groupdocs.metadata.formats.image.TiffSRational}
 
 Compares pair of [`TiffSRational`](/metadata/python-net/groupdocs.metadata.formats.image/tiffsrational).
 
@@ -42,15 +43,17 @@ Compares pair of [`TiffSRational`](/metadata/python-net/groupdocs.metadata.forma
 
 
 ```python
-def equals(self, rational, other):
+
+@staticmethod
+def equals(rational, other):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| rational | [`TiffSRational`](/metadata/python-net/groupdocs.metadata.formats.image/tiffsrational) | Comparing item. |
-| other | [`TiffSRational`](/metadata/python-net/groupdocs.metadata.formats.image/tiffsrational) | Other item. |
+| rational | groupdocs.metadata.formats.image.TiffSRational | Comparing item. |
+| other | groupdocs.metadata.formats.image.TiffSRational | Other item. |
 
 
 

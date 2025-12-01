@@ -3,18 +3,19 @@ title: reject_all_revisions method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 90
 url: /python-net/groupdocs.metadata.formats.document/wordprocessinginspectionpackage/reject_all_revisions/
 is_root: false
-weight: 90
 ---
 
-## reject_all_revisions {#}
+## reject_all_revisions(self) {#}
 
 Rejects all detected revisions in the document.
 
 
 
 ```python
+
 def reject_all_revisions(self):
     ...
 ```

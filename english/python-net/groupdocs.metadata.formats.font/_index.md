@@ -3,9 +3,9 @@ title: groupdocs.metadata.formats.font
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.formats.font/
 is_root: false
-weight: 10
 ---
 
 The namespace contains classes allowing users to work with formats representing scalable computer fonts.

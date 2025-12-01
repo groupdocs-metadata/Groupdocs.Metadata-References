@@ -3,9 +3,9 @@ title: af_area_selection_method property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 150
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2afconfigpackage/af_area_selection_method/
 is_root: false
-weight: 150
 ---
 
 ## af_area_selection_method property

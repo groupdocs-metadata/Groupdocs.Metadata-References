@@ -3,9 +3,9 @@ title: unique_identifier property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 690
 url: /python-net/groupdocs.metadata.formats.ebook/epubpackage/unique_identifier/
 is_root: false
-weight: 690
 ---
 
 ## unique_identifier property

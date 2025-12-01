@@ -3,9 +3,9 @@ title: pixel_x_dimension property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 710
 url: /python-net/groupdocs.metadata.formats.raw/rawexiftagpackage/pixel_x_dimension/
 is_root: false
-weight: 710
 ---
 
 ## pixel_x_dimension property

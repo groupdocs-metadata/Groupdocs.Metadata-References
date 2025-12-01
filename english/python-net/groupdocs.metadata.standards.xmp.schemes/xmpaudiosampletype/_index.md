@@ -3,9 +3,9 @@ title: XmpAudioSampleType class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 20
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpaudiosampletype/
 is_root: false
-weight: 20
 ---
 
 ## XmpAudioSampleType class

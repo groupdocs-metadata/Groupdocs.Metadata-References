@@ -3,18 +3,19 @@ title: ExcelExportOptions constructor
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.export/excelexportoptions/__init__/
 is_root: false
-weight: 10
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Initializes a new instance of the [`ExcelExportOptions`](/metadata/python-net/groupdocs.metadata.export/excelexportoptions) class.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,13 +23,14 @@ def __init__(self):
 
 
 
-## __init__ {#bool}
+## \_\_init\_\_(self, group_cells) {#bool}
 
 Initializes a new instance of the [`ExcelExportOptions`](/metadata/python-net/groupdocs.metadata.export/excelexportoptions) class.
 
 
 
 ```python
+
 def __init__(self, group_cells):
     ...
 ```

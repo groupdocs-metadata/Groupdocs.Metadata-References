@@ -3,9 +3,9 @@ title: movie_duration property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 340
 url: /python-net/groupdocs.metadata.formats.video/movpackage/movie_duration/
 is_root: false
-weight: 340
 ---
 
 ## movie_duration property

@@ -3,9 +3,9 @@ title: by_line property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 120
 url: /python-net/groupdocs.metadata.standards.iptc/iptcapplicationrecord/by_line/
 is_root: false
-weight: 120
 ---
 
 ## by_line property

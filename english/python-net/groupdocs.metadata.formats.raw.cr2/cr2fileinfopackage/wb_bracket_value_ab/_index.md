@@ -3,9 +3,9 @@ title: wb_bracket_value_ab property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 360
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2fileinfopackage/wb_bracket_value_ab/
 is_root: false
-weight: 360
 ---
 
 ## wb_bracket_value_ab property

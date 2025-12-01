@@ -3,9 +3,9 @@ title: manage_to property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 210
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpmediamanagementpackage/manage_to/
 is_root: false
-weight: 210
 ---
 
 ## manage_to property

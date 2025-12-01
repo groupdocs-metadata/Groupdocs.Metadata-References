@@ -3,9 +3,9 @@ title: coverpage property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 130
 url: /python-net/groupdocs.metadata.formats.ebook.fb2/fb2titleinfo/coverpage/
 is_root: false
-weight: 130
 ---
 
 ## coverpage property

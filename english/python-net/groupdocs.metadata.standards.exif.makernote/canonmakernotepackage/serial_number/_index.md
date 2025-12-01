@@ -3,9 +3,9 @@ title: serial_number property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 250
 url: /python-net/groupdocs.metadata.standards.exif.makernote/canonmakernotepackage/serial_number/
 is_root: false
-weight: 250
 ---
 
 ## serial_number property

@@ -3,9 +3,9 @@ title: PropertyValueEqualityComparer class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 130
 url: /python-net/groupdocs.metadata.common/propertyvalueequalitycomparer/
 is_root: false
-weight: 130
 ---
 
 ## PropertyValueEqualityComparer class
@@ -19,14 +19,14 @@ The PropertyValueEqualityComparer type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.common/propertyvalueequalitycomparer/__init__/#) | Constructs a new instance of PropertyValueEqualityComparer |
+| [`__init__(self)`](/metadata/python-net/groupdocs.metadata.common/propertyvalueequalitycomparer/__init__/#) | Constructs a new instance of PropertyValueEqualityComparer |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [equals](/metadata/python-net/groupdocs.metadata.common/propertyvalueequalitycomparer/equals/#groupdocs.metadata.common.PropertyValue-groupdocs.metadata.common.PropertyValue) | Determines whether the specified objects are equal. |
-| [get_hash_code](/metadata/python-net/groupdocs.metadata.common/propertyvalueequalitycomparer/get_hash_code/#groupdocs.metadata.common.PropertyValue) | Returns a hash code for the specified object. |
+| [`equals(self, x, y)`](/metadata/python-net/groupdocs.metadata.common/propertyvalueequalitycomparer/equals/#groupdocs.metadata.common.propertyvalue-groupdocs.metadata.common.propertyvalue) | Determines whether the specified objects are equal. |
+| [`get_hash_code(self, obj)`](/metadata/python-net/groupdocs.metadata.common/propertyvalueequalitycomparer/get_hash_code/#groupdocs.metadata.common.propertyvalue) | Returns a hash code for the specified object. |
 
 
 

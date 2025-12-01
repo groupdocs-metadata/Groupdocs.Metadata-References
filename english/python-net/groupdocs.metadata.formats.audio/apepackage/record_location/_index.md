@@ -3,9 +3,9 @@ title: record_location property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 300
 url: /python-net/groupdocs.metadata.formats.audio/apepackage/record_location/
 is_root: false
-weight: 300
 ---
 
 ## record_location property

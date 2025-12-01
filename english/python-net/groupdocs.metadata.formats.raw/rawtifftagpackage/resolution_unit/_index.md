@@ -3,9 +3,9 @@ title: resolution_unit property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 420
 url: /python-net/groupdocs.metadata.formats.raw/rawtifftagpackage/resolution_unit/
 is_root: false
-weight: 420
 ---
 
 ## resolution_unit property

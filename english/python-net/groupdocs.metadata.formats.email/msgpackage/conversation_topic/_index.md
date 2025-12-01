@@ -3,9 +3,9 @@ title: conversation_topic property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 190
 url: /python-net/groupdocs.metadata.formats.email/msgpackage/conversation_topic/
 is_root: false
-weight: 190
 ---
 
 ## conversation_topic property

@@ -3,9 +3,9 @@ title: document_id property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 140
 url: /python-net/groupdocs.metadata.standards.xmp/xmpresourceref/document_id/
 is_root: false
-weight: 140
 ---
 
 ## document_id property

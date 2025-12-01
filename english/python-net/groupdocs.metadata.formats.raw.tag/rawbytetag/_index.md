@@ -3,9 +3,9 @@ title: RawByteTag class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 20
 url: /python-net/groupdocs.metadata.formats.raw.tag/rawbytetag/
 is_root: false
-weight: 20
 ---
 
 ## RawByteTag class
@@ -25,7 +25,7 @@ The RawByteTag type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.formats.raw.tag/rawbytetag/__init__/#int-bytes) | Initializes a new instance of the [`TiffByteTag`](/metadata/python-net/groupdocs.metadata.formats.image/tiffbytetag) class. |
+| [`__init__(self, tag_id, value)`](/metadata/python-net/groupdocs.metadata.formats.raw.tag/rawbytetag/__init__/#int-bytes) | Initializes a new instance of the [`TiffByteTag`](/metadata/python-net/groupdocs.metadata.formats.image/tiffbytetag) class. |
 
 
 ### Properties

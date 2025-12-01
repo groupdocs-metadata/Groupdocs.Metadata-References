@@ -3,12 +3,12 @@ title: get_xmp_representation method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 60
 url: /python-net/groupdocs.metadata.standards.xmp/xmpresourceevent/get_xmp_representation/
 is_root: false
-weight: 60
 ---
 
-## get_xmp_representation {#}
+## get_xmp_representation(self) {#}
 
 Returns string contained value in XMP format.
 
@@ -20,6 +20,7 @@ String contained XMP representation.
 
 
 ```python
+
 def get_xmp_representation(self):
     ...
 ```

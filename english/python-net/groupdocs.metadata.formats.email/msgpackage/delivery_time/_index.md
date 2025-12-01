@@ -3,9 +3,9 @@ title: delivery_time property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 210
 url: /python-net/groupdocs.metadata.formats.email/msgpackage/delivery_time/
 is_root: false
-weight: 210
 ---
 
 ## delivery_time property

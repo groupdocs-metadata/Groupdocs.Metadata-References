@@ -3,9 +3,9 @@ title: pf19_shooting_speed_low property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 180
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2personalfuncvaluespackage/pf19_shooting_speed_low/
 is_root: false
-weight: 180
 ---
 
 ## pf19_shooting_speed_low property

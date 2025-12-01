@@ -3,9 +3,9 @@ title: manager property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 240
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpmediamanagementpackage/manager/
 is_root: false
-weight: 240
 ---
 
 ## manager property

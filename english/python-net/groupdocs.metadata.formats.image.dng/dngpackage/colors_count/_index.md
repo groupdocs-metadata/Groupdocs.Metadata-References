@@ -3,9 +3,9 @@ title: colors_count property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 130
 url: /python-net/groupdocs.metadata.formats.image.dng/dngpackage/colors_count/
 is_root: false
-weight: 130
 ---
 
 ## colors_count property

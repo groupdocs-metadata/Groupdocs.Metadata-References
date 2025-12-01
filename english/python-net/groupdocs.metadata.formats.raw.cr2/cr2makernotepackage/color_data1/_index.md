@@ -3,9 +3,9 @@ title: color_data1 property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 190
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/color_data1/
 is_root: false
-weight: 190
 ---
 
 ## color_data1 property

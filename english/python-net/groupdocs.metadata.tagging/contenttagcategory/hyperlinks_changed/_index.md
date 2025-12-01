@@ -3,9 +3,9 @@ title: hyperlinks_changed property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 80
 url: /python-net/groupdocs.metadata.tagging/contenttagcategory/hyperlinks_changed/
 is_root: false
-weight: 80
 ---
 
 ## hyperlinks_changed property

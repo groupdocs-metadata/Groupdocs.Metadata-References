@@ -3,9 +3,9 @@ title: MpegAudioVersion enumeration
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 20
 url: /python-net/groupdocs.metadata.formats.mpeg/mpegaudioversion/
 is_root: false
-weight: 20
 ---
 
 ## MpegAudioVersion enumeration

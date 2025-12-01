@@ -3,9 +3,9 @@ title: data_length_indicator property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 50
 url: /python-net/groupdocs.metadata.formats.audio/id3v2tagframeflags/data_length_indicator/
 is_root: false
-weight: 50
 ---
 
 ## data_length_indicator property

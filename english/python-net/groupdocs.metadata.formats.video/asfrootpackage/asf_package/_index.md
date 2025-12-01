@@ -3,9 +3,9 @@ title: asf_package property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 100
 url: /python-net/groupdocs.metadata.formats.video/asfrootpackage/asf_package/
 is_root: false
-weight: 100
 ---
 
 ## asf_package property

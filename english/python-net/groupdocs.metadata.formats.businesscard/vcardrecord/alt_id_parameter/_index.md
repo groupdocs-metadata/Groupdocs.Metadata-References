@@ -3,9 +3,9 @@ title: alt_id_parameter property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 100
 url: /python-net/groupdocs.metadata.formats.businesscard/vcardrecord/alt_id_parameter/
 is_root: false
-weight: 100
 ---
 
 ## alt_id_parameter property

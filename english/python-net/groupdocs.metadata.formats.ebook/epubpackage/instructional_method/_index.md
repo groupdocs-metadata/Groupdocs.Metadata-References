@@ -3,9 +3,9 @@ title: instructional_method property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 380
 url: /python-net/groupdocs.metadata.formats.ebook/epubpackage/instructional_method/
 is_root: false
-weight: 380
 ---
 
 ## instructional_method property

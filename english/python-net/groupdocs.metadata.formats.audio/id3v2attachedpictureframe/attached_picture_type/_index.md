@@ -3,9 +3,9 @@ title: attached_picture_type property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 100
 url: /python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe/attached_picture_type/
 is_root: false
-weight: 100
 ---
 
 ## attached_picture_type property

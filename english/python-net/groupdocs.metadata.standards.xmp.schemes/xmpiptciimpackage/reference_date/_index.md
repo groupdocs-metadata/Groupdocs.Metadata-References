@@ -3,9 +3,9 @@ title: reference_date property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 420
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpiptciimpackage/reference_date/
 is_root: false
-weight: 420
 ---
 
 ## reference_date property

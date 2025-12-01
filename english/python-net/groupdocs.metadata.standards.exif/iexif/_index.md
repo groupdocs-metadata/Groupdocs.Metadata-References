@@ -3,9 +3,9 @@ title: IExif class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 50
 url: /python-net/groupdocs.metadata.standards.exif/iexif/
 is_root: false
-weight: 50
 ---
 
 ## IExif class

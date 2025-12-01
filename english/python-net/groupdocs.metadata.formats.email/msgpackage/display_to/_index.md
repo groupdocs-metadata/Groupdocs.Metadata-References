@@ -3,9 +3,9 @@ title: display_to property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 260
 url: /python-net/groupdocs.metadata.formats.email/msgpackage/display_to/
 is_root: false
-weight: 260
 ---
 
 ## display_to property

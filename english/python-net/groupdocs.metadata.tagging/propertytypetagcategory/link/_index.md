@@ -3,9 +3,9 @@ title: link property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 90
 url: /python-net/groupdocs.metadata.tagging/propertytypetagcategory/link/
 is_root: false
-weight: 90
 ---
 
 ## link property

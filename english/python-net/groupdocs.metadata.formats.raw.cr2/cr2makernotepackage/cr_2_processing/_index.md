@@ -3,9 +3,9 @@ title: cr_2_processing property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 550
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr_2_processing/
 is_root: false
-weight: 550
 ---
 
 ## cr_2_processing property

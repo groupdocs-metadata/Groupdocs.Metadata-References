@@ -3,12 +3,12 @@ title: get_attribute method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 70
 url: /python-net/groupdocs.metadata.standards.xmp/xmpelementbase/get_attribute/
 is_root: false
-weight: 70
 ---
 
-## get_attribute {#str}
+## get_attribute(self, attribute) {#System.String}
 
 Gets the attribute.
 
@@ -20,6 +20,7 @@ The attribute value.
 
 
 ```python
+
 def get_attribute(self, attribute):
     ...
 ```
@@ -27,7 +28,7 @@ def get_attribute(self, attribute):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| attribute | str | The attribute. |
+| attribute | System.String | The attribute. |
 
 
 

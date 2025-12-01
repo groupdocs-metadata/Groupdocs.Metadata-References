@@ -3,18 +3,19 @@ title: XmpRational constructor
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.standards.xmp/xmprational/__init__/
 is_root: false
-weight: 10
 ---
 
-## __init__ {#str}
+## \_\_init\_\_(self, value) {#System.String}
 
 Initializes a new instance of the [`XmpBoolean`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpboolean) class.
 
 
 
 ```python
+
 def __init__(self, value):
     ...
 ```
@@ -22,7 +23,7 @@ def __init__(self, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| value | str | The value. |
+| value | System.String | The value. |
 ### Exceptions
 | Exception | Description |
 | :- | :- |
@@ -32,13 +33,14 @@ def __init__(self, value):
 
 
 
-## __init__ {#int-int}
+## \_\_init\_\_(self, numerator, denominator) {#int-int}
 
 Initializes a new instance of the [`XmpRational`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmprational) class.
 
 
 
 ```python
+
 def __init__(self, numerator, denominator):
     ...
 ```

@@ -3,9 +3,9 @@ title: hidden_sheets property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 160
 url: /python-net/groupdocs.metadata.formats.document/spreadsheetinspectionpackage/hidden_sheets/
 is_root: false
-weight: 160
 ---
 
 ## hidden_sheets property

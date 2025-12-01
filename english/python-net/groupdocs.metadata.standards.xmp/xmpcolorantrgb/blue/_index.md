@@ -3,9 +3,9 @@ title: blue property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 120
 url: /python-net/groupdocs.metadata.standards.xmp/xmpcolorantrgb/blue/
 is_root: false
-weight: 120
 ---
 
 ## blue property

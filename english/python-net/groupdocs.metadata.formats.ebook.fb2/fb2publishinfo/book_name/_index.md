@@ -3,9 +3,9 @@ title: book_name property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 100
 url: /python-net/groupdocs.metadata.formats.ebook.fb2/fb2publishinfo/book_name/
 is_root: false
-weight: 100
 ---
 
 ## book_name property

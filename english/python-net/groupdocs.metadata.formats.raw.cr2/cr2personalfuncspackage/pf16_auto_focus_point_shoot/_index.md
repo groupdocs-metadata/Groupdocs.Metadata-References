@@ -3,9 +3,9 @@ title: pf16_auto_focus_point_shoot property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 220
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2personalfuncspackage/pf16_auto_focus_point_shoot/
 is_root: false
-weight: 220
 ---
 
 ## pf16_auto_focus_point_shoot property

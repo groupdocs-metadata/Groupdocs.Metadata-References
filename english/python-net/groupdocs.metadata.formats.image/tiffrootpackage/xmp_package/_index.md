@@ -3,9 +3,9 @@ title: xmp_package property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 170
 url: /python-net/groupdocs.metadata.formats.image/tiffrootpackage/xmp_package/
 is_root: false
-weight: 170
 ---
 
 ## xmp_package property

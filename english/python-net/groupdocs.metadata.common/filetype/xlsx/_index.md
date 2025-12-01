@@ -3,9 +3,9 @@ title: XLSX property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 1090
 url: /python-net/groupdocs.metadata.common/filetype/xlsx/
 is_root: false
-weight: 1070
 ---
 
 ## XLSX property
@@ -14,6 +14,10 @@ weight: 1070
 XLSX is well-known format for Microsoft Excel documents that was introduced by Microsoft with the release
 of Microsoft Office 2007. Learn more about this file format
 [here](https://wiki.fileformat.com/specification/spreadsheet/xlsx/).
+### Definition:
+```python
+f XLSX 
+```
 
 ### See Also
 * module [`groupdocs.metadata.common`](../../)

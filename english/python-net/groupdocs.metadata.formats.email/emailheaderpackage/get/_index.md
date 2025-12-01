@@ -3,12 +3,12 @@ title: get method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 50
 url: /python-net/groupdocs.metadata.formats.email/emailheaderpackage/get/
 is_root: false
-weight: 50
 ---
 
-## get {#str}
+## get(self, header) {#System.String}
 
 Gets the value of the specified header.
 
@@ -20,6 +20,7 @@ The value if the package contains the specified header; otherwise, null.
 
 
 ```python
+
 def get(self, header):
     ...
 ```
@@ -27,7 +28,7 @@ def get(self, header):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| header | str | An email header. |
+| header | System.String | An email header. |
 
 
 

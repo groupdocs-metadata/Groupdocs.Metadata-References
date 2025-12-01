@@ -3,9 +3,9 @@ title: software_hardware property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 380
 url: /python-net/groupdocs.metadata.formats.audio/id3v2tag/software_hardware/
 is_root: false
-weight: 380
 ---
 
 ## software_hardware property

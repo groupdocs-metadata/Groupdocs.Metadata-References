@@ -3,15 +3,19 @@ title: TORRENT property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 900
 url: /python-net/groupdocs.metadata.common/filetype/torrent/
 is_root: false
-weight: 880
 ---
 
 ## TORRENT property
 
 
 Represents TORRENT file type.
+### Definition:
+```python
+f TORRENT 
+```
 
 ### See Also
 * module [`groupdocs.metadata.common`](../../)

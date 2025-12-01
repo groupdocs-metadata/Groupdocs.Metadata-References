@@ -3,9 +3,9 @@ title: cr_2_multi_exp_package property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 480
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr_2_multi_exp_package/
 is_root: false
-weight: 480
 ---
 
 ## cr_2_multi_exp_package property

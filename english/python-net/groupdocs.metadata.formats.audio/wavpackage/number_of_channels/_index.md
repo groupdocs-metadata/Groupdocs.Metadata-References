@@ -3,9 +3,9 @@ title: number_of_channels property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 170
 url: /python-net/groupdocs.metadata.formats.audio/wavpackage/number_of_channels/
 is_root: false
-weight: 170
 ---
 
 ## number_of_channels property

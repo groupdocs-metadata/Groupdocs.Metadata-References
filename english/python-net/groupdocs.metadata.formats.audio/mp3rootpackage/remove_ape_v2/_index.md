@@ -3,24 +3,27 @@ title: remove_ape_v2 method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 50
 url: /python-net/groupdocs.metadata.formats.audio/mp3rootpackage/remove_ape_v2/
 is_root: false
-weight: 50
 ---
 
-## remove_ape_v2 {#}
+## remove_ape_v2(self) {#}
 
 Removes the APEv2 audio tag.
 
 
 
 ```python
+
 def remove_ape_v2(self):
     ...
 ```
 
 
+### Remarks
 
+This feature is not available in trial mode.
 ### Example 
 
 

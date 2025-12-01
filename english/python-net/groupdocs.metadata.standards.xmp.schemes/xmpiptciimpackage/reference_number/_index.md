@@ -3,9 +3,9 @@ title: reference_number property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 430
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpiptciimpackage/reference_number/
 is_root: false
-weight: 430
 ---
 
 ## reference_number property

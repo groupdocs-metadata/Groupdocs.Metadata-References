@@ -3,9 +3,9 @@ title: water_depth property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 990
 url: /python-net/groupdocs.metadata.formats.raw/rawexiftagpackage/water_depth/
 is_root: false
-weight: 990
 ---
 
 ## water_depth property

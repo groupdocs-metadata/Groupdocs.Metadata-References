@@ -3,9 +3,9 @@ title: presentation_format property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 330
 url: /python-net/groupdocs.metadata.formats.document/presentationpackage/presentation_format/
 is_root: false
-weight: 330
 ---
 
 ## presentation_format property

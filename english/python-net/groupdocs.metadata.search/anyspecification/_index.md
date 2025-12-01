@@ -3,9 +3,9 @@ title: AnySpecification class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 20
 url: /python-net/groupdocs.metadata.search/anyspecification/
 is_root: false
-weight: 20
 ---
 
 ## AnySpecification class
@@ -24,16 +24,16 @@ The AnySpecification type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.search/anyspecification/__init__/#) | Constructs a new instance of AnySpecification |
+| [`__init__(self)`](/metadata/python-net/groupdocs.metadata.search/anyspecification/__init__/#) | Constructs a new instance of AnySpecification |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [is_satisfied_by](/metadata/python-net/groupdocs.metadata.search/anyspecification/is_satisfied_by/#groupdocs.metadata.common.MetadataProperty) | Verifies whether a [`MetadataProperty`](/metadata/python-net/groupdocs.metadata.common/metadataproperty) satisfies the specification. |
-| [both](/metadata/python-net/groupdocs.metadata.search/anyspecification/both/#groupdocs.metadata.search.Specification) | Combines two search specifications using the logical AND operator. |
-| [either](/metadata/python-net/groupdocs.metadata.search/anyspecification/either/#groupdocs.metadata.search.Specification) | Combines two search specifications using the logical OR operator. |
-| [is_not](/metadata/python-net/groupdocs.metadata.search/anyspecification/is_not/#) | Negates the specification. |
+| [`is_satisfied_by(self, candidate)`](/metadata/python-net/groupdocs.metadata.search/anyspecification/is_satisfied_by/#groupdocs.metadata.common.metadataproperty) | Verifies whether a [`MetadataProperty`](/metadata/python-net/groupdocs.metadata.common/metadataproperty) satisfies the specification. |
+| [`both(self, other)`](/metadata/python-net/groupdocs.metadata.search/anyspecification/both/#groupdocs.metadata.search.specification) | Combines two search specifications using the logical AND operator. |
+| [`either(self, other)`](/metadata/python-net/groupdocs.metadata.search/anyspecification/either/#groupdocs.metadata.search.specification) | Combines two search specifications using the logical OR operator. |
+| [`is_not(self)`](/metadata/python-net/groupdocs.metadata.search/anyspecification/is_not/#) | Negates the specification. |
 
 
 

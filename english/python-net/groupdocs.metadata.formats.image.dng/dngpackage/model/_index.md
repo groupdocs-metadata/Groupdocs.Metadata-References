@@ -3,9 +3,9 @@ title: model property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 240
 url: /python-net/groupdocs.metadata.formats.image.dng/dngpackage/model/
 is_root: false
-weight: 240
 ---
 
 ## model property

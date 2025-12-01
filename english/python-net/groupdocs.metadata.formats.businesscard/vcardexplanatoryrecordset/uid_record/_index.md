@@ -3,9 +3,9 @@ title: uid_record property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 290
 url: /python-net/groupdocs.metadata.formats.businesscard/vcardexplanatoryrecordset/uid_record/
 is_root: false
-weight: 290
 ---
 
 ## uid_record property

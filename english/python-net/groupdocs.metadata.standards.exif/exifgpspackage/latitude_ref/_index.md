@@ -3,9 +3,9 @@ title: latitude_ref property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 340
 url: /python-net/groupdocs.metadata.standards.exif/exifgpspackage/latitude_ref/
 is_root: false
-weight: 340
 ---
 
 ## latitude_ref property

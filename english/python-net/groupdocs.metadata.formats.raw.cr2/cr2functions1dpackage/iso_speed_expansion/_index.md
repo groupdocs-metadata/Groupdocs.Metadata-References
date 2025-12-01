@@ -3,9 +3,9 @@ title: iso_speed_expansion property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 260
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2functions1dpackage/iso_speed_expansion/
 is_root: false
-weight: 260
 ---
 
 ## iso_speed_expansion property

@@ -3,9 +3,9 @@ title: cr_2_functions_1d property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 370
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr_2_functions_1d/
 is_root: false
-weight: 370
 ---
 
 ## cr_2_functions_1d property

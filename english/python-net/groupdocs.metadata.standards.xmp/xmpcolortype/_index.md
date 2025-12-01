@@ -3,9 +3,9 @@ title: XmpColorType enumeration
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 390
 url: /python-net/groupdocs.metadata.standards.xmp/xmpcolortype/
 is_root: false
-weight: 390
 ---
 
 ## XmpColorType enumeration

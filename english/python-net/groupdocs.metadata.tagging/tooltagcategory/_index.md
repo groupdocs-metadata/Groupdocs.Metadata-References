@@ -3,9 +3,9 @@ title: ToolTagCategory class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 120
 url: /python-net/groupdocs.metadata.tagging/tooltagcategory/
 is_root: false
-weight: 120
 ---
 
 ## ToolTagCategory class
@@ -31,6 +31,7 @@ The ToolTagCategory type exposes the following members:
 | [software_manufacturer](/metadata/python-net/groupdocs.metadata.tagging/tooltagcategory/software_manufacturer) | Gets the tag that marks a software manufacturer. |
 | [hardware_manufacturer](/metadata/python-net/groupdocs.metadata.tagging/tooltagcategory/hardware_manufacturer) | Gets the tag that marks a hardware manufacturer. |
 | [model_id](/metadata/python-net/groupdocs.metadata.tagging/tooltagcategory/model_id) | Gets the tag that marks a model id. |
+| [compression](/metadata/python-net/groupdocs.metadata.tagging/tooltagcategory/compression) | Gets the tag that marks a compression. |
 
 
 

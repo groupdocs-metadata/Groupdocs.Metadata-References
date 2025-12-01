@@ -3,9 +3,9 @@ title: data_set_number property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 40
 url: /python-net/groupdocs.metadata.standards.iptc/iptcdataset/data_set_number/
 is_root: false
-weight: 40
 ---
 
 ## data_set_number property

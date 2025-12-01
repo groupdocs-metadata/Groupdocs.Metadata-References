@@ -3,9 +3,9 @@ title: multi_exposure_shots property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 190
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2multiexppackage/multi_exposure_shots/
 is_root: false
-weight: 190
 ---
 
 ## multi_exposure_shots property

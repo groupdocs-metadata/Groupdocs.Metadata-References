@@ -3,18 +3,19 @@ title: generate_preview method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 50
 url: /python-net/groupdocs.metadata/metadata/generate_preview/
 is_root: false
-weight: 50
 ---
 
-## generate_preview {#groupdocs.metadata.options.PreviewOptions}
+## generate_preview(self, preview_options) {#groupdocs.metadata.options.PreviewOptions}
 
 Creates preview images for specified pages.
 
 
 
 ```python
+
 def generate_preview(self, preview_options):
     ...
 ```
@@ -23,7 +24,11 @@ def generate_preview(self, preview_options):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | preview_options | groupdocs.metadata.options.PreviewOptions | A set of options for preview generation. |
+### Remarks
 
+**Learn more** |
+|
+ |
 ### Example 
 
 

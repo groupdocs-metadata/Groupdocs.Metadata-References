@@ -3,9 +3,9 @@ title: body_serial_number property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 140
 url: /python-net/groupdocs.metadata.standards.exif/exififdpackage/body_serial_number/
 is_root: false
-weight: 140
 ---
 
 ## body_serial_number property

@@ -3,18 +3,19 @@ title: remove_package method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 100
 url: /python-net/groupdocs.metadata.standards.xmp/xmppacketwrapper/remove_package/
 is_root: false
-weight: 100
 ---
 
-## remove_package {#groupdocs.metadata.standards.xmp.XmpPackage}
+## remove_package(self, package) {#groupdocs.metadata.standards.xmp.XmpPackage}
 
 Removes the specified package.
 
 
 
 ```python
+
 def remove_package(self, package):
     ...
 ```
@@ -22,7 +23,7 @@ def remove_package(self, package):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| package | [`XmpPackage`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmppackage) | The package. |
+| package | groupdocs.metadata.standards.xmp.XmpPackage | The package. |
 
 
 

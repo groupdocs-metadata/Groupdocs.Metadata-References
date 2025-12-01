@@ -3,9 +3,9 @@ title: RawDoubleTag class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 250
 url: /python-net/groupdocs.metadata.formats.image/rawdoubletag/
 is_root: false
-weight: 250
 ---
 
 ## RawDoubleTag class
@@ -25,7 +25,7 @@ The RawDoubleTag type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.formats.image/rawdoubletag/__init__/#int-list) | Initializes a new instance of the [`RawDoubleTag`](/metadata/python-net/groupdocs.metadata.formats.image/rawdoubletag) class. |
+| [`__init__(self, tag_id, value)`](/metadata/python-net/groupdocs.metadata.formats.image/rawdoubletag/__init__/#int-list) | Initializes a new instance of the [`RawDoubleTag`](/metadata/python-net/groupdocs.metadata.formats.image/rawdoubletag) class. |
 
 
 ### Properties

@@ -3,9 +3,9 @@ title: video_pixel_aspect_ratio property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 650
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/video_pixel_aspect_ratio/
 is_root: false
-weight: 650
 ---
 
 ## video_pixel_aspect_ratio property

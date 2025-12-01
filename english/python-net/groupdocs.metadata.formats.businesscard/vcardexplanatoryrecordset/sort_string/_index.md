@@ -3,9 +3,9 @@ title: sort_string property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 240
 url: /python-net/groupdocs.metadata.formats.businesscard/vcardexplanatoryrecordset/sort_string/
 is_root: false
-weight: 240
 ---
 
 ## sort_string property

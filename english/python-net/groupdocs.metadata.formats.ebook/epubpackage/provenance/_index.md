@@ -3,9 +3,9 @@ title: provenance property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 540
 url: /python-net/groupdocs.metadata.formats.ebook/epubpackage/provenance/
 is_root: false
-weight: 540
 ---
 
 ## provenance property

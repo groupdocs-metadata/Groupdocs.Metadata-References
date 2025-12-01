@@ -3,18 +3,19 @@ title: InvalidFormatException constructor
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.exceptions/invalidformatexception/__init__/
 is_root: false
-weight: 10
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Initializes a new instance of the [`InvalidFormatException`](/metadata/python-net/groupdocs.metadata.exceptions/invalidformatexception) class.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,13 +23,14 @@ def __init__(self):
 
 
 
-## __init__ {#str}
+## \_\_init\_\_(self, message) {#System.String}
 
 Initializes a new instance of the [`InvalidFormatException`](/metadata/python-net/groupdocs.metadata.exceptions/invalidformatexception) class.
 
 
 
 ```python
+
 def __init__(self, message):
     ...
 ```
@@ -36,7 +38,7 @@ def __init__(self, message):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| message | str | The message that describes the error. |
+| message | System.String | The message that describes the error. |
 
 
 

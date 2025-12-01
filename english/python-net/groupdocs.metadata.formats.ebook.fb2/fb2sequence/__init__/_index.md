@@ -3,18 +3,19 @@ title: Fb2Sequence constructor
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.formats.ebook.fb2/fb2sequence/__init__/
 is_root: false
-weight: 10
 ---
 
-## __init__ {#str-int-str}
+## \_\_init\_\_(self, name, number, lang) {#System.String-int-System.String}
 
 Constructs a new instance of Fb2Sequence
 
 
 
 ```python
+
 def __init__(self, name, number, lang):
     ...
 ```
@@ -22,9 +23,9 @@ def __init__(self, name, number, lang):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str |  |
+| name | System.String |  |
 | number | int |  |
-| lang | str |  |
+| lang | System.String |  |
 
 
 

@@ -3,9 +3,9 @@ title: sent_representing_address_type property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 440
 url: /python-net/groupdocs.metadata.formats.email/msgpackage/sent_representing_address_type/
 is_root: false
-weight: 440
 ---
 
 ## sent_representing_address_type property

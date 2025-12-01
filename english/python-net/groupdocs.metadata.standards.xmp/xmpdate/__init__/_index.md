@@ -3,18 +3,19 @@ title: XmpDate constructor
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.standards.xmp/xmpdate/__init__/
 is_root: false
-weight: 10
 ---
 
-## __init__ {#DateTime}
+## \_\_init\_\_(self, date_time) {#System.DateTime}
 
 Initializes a new instance of the [`XmpDate`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpdate) class.
 
 
 
 ```python
+
 def __init__(self, date_time):
     ...
 ```
@@ -22,16 +23,17 @@ def __init__(self, date_time):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| date_time | DateTime | DateTime value. |
+| date_time | System.DateTime | DateTime value. |
 
 
-## __init__ {#str}
+## \_\_init\_\_(self, date_string) {#System.String}
 
 Initializes a new instance of the [`XmpDate`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpdate) class.
 
 
 
 ```python
+
 def __init__(self, date_string):
     ...
 ```
@@ -39,7 +41,7 @@ def __init__(self, date_string):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| date_string | str | Date in string representation. |
+| date_string | System.String | Date in string representation. |
 ### Exceptions
 | Exception | Description |
 | :- | :- |

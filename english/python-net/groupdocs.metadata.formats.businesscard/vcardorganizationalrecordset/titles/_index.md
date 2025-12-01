@@ -3,9 +3,9 @@ title: titles property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 310
 url: /python-net/groupdocs.metadata.formats.businesscard/vcardorganizationalrecordset/titles/
 is_root: false
-weight: 310
 ---
 
 ## titles property

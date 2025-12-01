@@ -3,9 +3,9 @@ title: WordProcessingInspectionPackage class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 350
 url: /python-net/groupdocs.metadata.formats.document/wordprocessinginspectionpackage/
 is_root: false
-weight: 350
 ---
 
 ## WordProcessingInspectionPackage class
@@ -39,18 +39,18 @@ The WordProcessingInspectionPackage type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [contains](/metadata/python-net/groupdocs.metadata.formats.document/wordprocessinginspectionpackage/contains/#str) | Determines whether the package contains a metadata property with the specified name. |
-| [find_properties](/metadata/python-net/groupdocs.metadata.formats.document/wordprocessinginspectionpackage/find_properties/#groupdocs.metadata.search.Specification) | Finds the metadata properties satisfying a specification. <br/>The search is recursive so it affects all nested packages as well. |
-| [update_properties](/metadata/python-net/groupdocs.metadata.formats.document/wordprocessinginspectionpackage/update_properties/#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue) | Updates known metadata properties satisfying a specification.<br/>The operation is recursive so it affects all nested packages as well. |
-| [remove_properties](/metadata/python-net/groupdocs.metadata.formats.document/wordprocessinginspectionpackage/remove_properties/#groupdocs.metadata.search.Specification) | Removes metadata properties satisfying a specification. |
-| [add_properties](/metadata/python-net/groupdocs.metadata.formats.document/wordprocessinginspectionpackage/add_properties/#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue) | Adds known metadata properties satisfying the specification.<br/>The operation is recursive so it affects all nested packages as well. |
-| [set_properties](/metadata/python-net/groupdocs.metadata.formats.document/wordprocessinginspectionpackage/set_properties/#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue) | Sets known metadata properties satisfying the specification.<br/>The operation is recursive so it affects all nested packages as well.<br/>This method is a combination of [`MetadataPackage.add_properties`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/add_properties) and [`MetadataPackage.update_properties`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/update_properties). <br/>If an existing property satisfies the specification its value is updated. <br/>If there is a known property missing in the package that satisfies the specification it is added to the package. |
-| [sanitize](/metadata/python-net/groupdocs.metadata.formats.document/wordprocessinginspectionpackage/sanitize/#) | Removes writable metadata properties from the package.<br/>The operation is recursive so it affects all nested packages as well. |
-| [clear_comments](/metadata/python-net/groupdocs.metadata.formats.document/wordprocessinginspectionpackage/clear_comments/#) | Removes all detected user comments from the document. |
-| [clear_fields](/metadata/python-net/groupdocs.metadata.formats.document/wordprocessinginspectionpackage/clear_fields/#) | Removes all detected fields from the document. |
-| [clear_hidden_text](/metadata/python-net/groupdocs.metadata.formats.document/wordprocessinginspectionpackage/clear_hidden_text/#) | Removes all hidden text fragments from the document. |
-| [accept_all_revisions](/metadata/python-net/groupdocs.metadata.formats.document/wordprocessinginspectionpackage/accept_all_revisions/#) | Accepts all detected revisions in the document. |
-| [reject_all_revisions](/metadata/python-net/groupdocs.metadata.formats.document/wordprocessinginspectionpackage/reject_all_revisions/#) | Rejects all detected revisions in the document. |
+| [`contains(self, property_name)`](/metadata/python-net/groupdocs.metadata.formats.document/wordprocessinginspectionpackage/contains/#system.string) | Determines whether the package contains a metadata property with the specified name. |
+| [`find_properties(self, specification)`](/metadata/python-net/groupdocs.metadata.formats.document/wordprocessinginspectionpackage/find_properties/#groupdocs.metadata.search.specification) | Finds the metadata properties satisfying a specification. <br/>The search is recursive so it affects all nested packages as well. |
+| [`update_properties(self, specification, value)`](/metadata/python-net/groupdocs.metadata.formats.document/wordprocessinginspectionpackage/update_properties/#groupdocs.metadata.search.specification-groupdocs.metadata.common.propertyvalue) | Updates known metadata properties satisfying a specification.<br/>The operation is recursive so it affects all nested packages as well. |
+| [`remove_properties(self, specification)`](/metadata/python-net/groupdocs.metadata.formats.document/wordprocessinginspectionpackage/remove_properties/#groupdocs.metadata.search.specification) | Removes metadata properties satisfying a specification. |
+| [`add_properties(self, specification, value)`](/metadata/python-net/groupdocs.metadata.formats.document/wordprocessinginspectionpackage/add_properties/#groupdocs.metadata.search.specification-groupdocs.metadata.common.propertyvalue) | Adds known metadata properties satisfying the specification.<br/>The operation is recursive so it affects all nested packages as well. |
+| [`set_properties(self, specification, value)`](/metadata/python-net/groupdocs.metadata.formats.document/wordprocessinginspectionpackage/set_properties/#groupdocs.metadata.search.specification-groupdocs.metadata.common.propertyvalue) | Sets known metadata properties satisfying the specification.<br/>The operation is recursive so it affects all nested packages as well.<br/>This method is a combination of [`MetadataPackage.add_properties`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/add_properties) and [`MetadataPackage.update_properties`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/update_properties). <br/>If an existing property satisfies the specification its value is updated. <br/>If there is a known property missing in the package that satisfies the specification it is added to the package. |
+| [`sanitize(self)`](/metadata/python-net/groupdocs.metadata.formats.document/wordprocessinginspectionpackage/sanitize/#) | Removes writable metadata properties from the package.<br/>The operation is recursive so it affects all nested packages as well. |
+| [`clear_comments(self)`](/metadata/python-net/groupdocs.metadata.formats.document/wordprocessinginspectionpackage/clear_comments/#) | Removes all detected user comments from the document. |
+| [`clear_fields(self)`](/metadata/python-net/groupdocs.metadata.formats.document/wordprocessinginspectionpackage/clear_fields/#) | Removes all detected fields from the document. |
+| [`clear_hidden_text(self)`](/metadata/python-net/groupdocs.metadata.formats.document/wordprocessinginspectionpackage/clear_hidden_text/#) | Removes all hidden text fragments from the document. |
+| [`accept_all_revisions(self)`](/metadata/python-net/groupdocs.metadata.formats.document/wordprocessinginspectionpackage/accept_all_revisions/#) | Accepts all detected revisions in the document. |
+| [`reject_all_revisions(self)`](/metadata/python-net/groupdocs.metadata.formats.document/wordprocessinginspectionpackage/reject_all_revisions/#) | Rejects all detected revisions in the document. |
 
 
 

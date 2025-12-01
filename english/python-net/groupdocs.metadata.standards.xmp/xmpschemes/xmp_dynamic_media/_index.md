@@ -3,9 +3,9 @@ title: xmp_dynamic_media property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 100
 url: /python-net/groupdocs.metadata.standards.xmp/xmpschemes/xmp_dynamic_media/
 is_root: false
-weight: 100
 ---
 
 ## xmp_dynamic_media property

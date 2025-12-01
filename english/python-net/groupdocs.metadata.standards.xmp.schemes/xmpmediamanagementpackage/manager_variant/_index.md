@@ -3,9 +3,9 @@ title: manager_variant property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 250
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpmediamanagementpackage/manager_variant/
 is_root: false
-weight: 250
 ---
 
 ## manager_variant property

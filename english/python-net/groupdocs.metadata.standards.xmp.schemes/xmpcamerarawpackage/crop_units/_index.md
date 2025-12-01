@@ -3,9 +3,9 @@ title: crop_units property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 340
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/crop_units/
 is_root: false
-weight: 340
 ---
 
 ## crop_units property

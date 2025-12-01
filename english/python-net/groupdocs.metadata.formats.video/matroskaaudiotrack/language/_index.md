@@ -3,9 +3,9 @@ title: language property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 180
 url: /python-net/groupdocs.metadata.formats.video/matroskaaudiotrack/language/
 is_root: false
-weight: 180
 ---
 
 ## language property
@@ -20,6 +20,12 @@ This Element MUST be ignored if the [`MatroskaTrack.language_ietf`](/metadata/py
 Language codes can be either the 3 letters bibliographic ISO-639-2 form (like "fre" for french),
 or such a language code followed by a dash and a country code for specialities in languages(like "fre-ca" for Canadian French). 
 Country codes are the same as used for internet domains.
+### Definition:
+```python
+@property
+def language(self):
+    ...
+```
 
 ### See Also
 * module [`groupdocs.metadata.formats.video`](../../)

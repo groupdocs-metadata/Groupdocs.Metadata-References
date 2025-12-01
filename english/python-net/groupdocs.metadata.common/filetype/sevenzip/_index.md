@@ -3,9 +3,9 @@ title: SEVENZIP property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 810
 url: /python-net/groupdocs.metadata.common/filetype/sevenzip/
 is_root: false
-weight: 800
 ---
 
 ## SEVENZIP property
@@ -16,6 +16,10 @@ encryption and pre-processing algorithms.
 The 7z format initially appeared as implemented by the 7-Zip archiver.
 The 7-Zip program is publicly available under the terms of the GNU Lesser General Public License.
 [here](https://wiki.fileformat.com/compression/zip/).
+### Definition:
+```python
+f SEVENZIP 
+```
 
 ### See Also
 * module [`groupdocs.metadata.common`](../../)

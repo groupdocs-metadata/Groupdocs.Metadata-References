@@ -3,9 +3,9 @@ title: content_location_codes property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 210
 url: /python-net/groupdocs.metadata.standards.iptc/iptcapplicationrecord/content_location_codes/
 is_root: false
-weight: 210
 ---
 
 ## content_location_codes property

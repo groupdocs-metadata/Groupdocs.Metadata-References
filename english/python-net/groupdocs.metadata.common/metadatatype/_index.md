@@ -3,9 +3,9 @@ title: MetadataType enumeration
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 210
 url: /python-net/groupdocs.metadata.common/metadatatype/
 is_root: false
-weight: 210
 ---
 
 ## MetadataType enumeration
@@ -73,6 +73,8 @@ The MetadataType type exposes the following members:
 | FB2 | Files with .fb2 extension are FictionBook 2.0 eBook files that contains the structure of the eBook. |
 | MOBI | The MOBI file format is one of the most widely used ebook file formats. The format is an enhancement to the old OEB (Open Ebook Format) format and was used as the proprietary format for Mobipocket Reader. |
 | OGG | Ogg format |
+| SVG | Svg format |
+| GLTF | glTF (Graphics Library Transmission Format or GL Transmission Format and formerly known as WebGL Transmissions Format or WebGL TF) |
 
 
 

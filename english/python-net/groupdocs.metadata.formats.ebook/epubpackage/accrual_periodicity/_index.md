@@ -3,9 +3,9 @@ title: accrual_periodicity property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 130
 url: /python-net/groupdocs.metadata.formats.ebook/epubpackage/accrual_periodicity/
 is_root: false
-weight: 130
 ---
 
 ## accrual_periodicity property

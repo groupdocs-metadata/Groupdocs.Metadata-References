@@ -3,9 +3,9 @@ title: total_entries property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 160
 url: /python-net/groupdocs.metadata.formats.archive/zippackage/total_entries/
 is_root: false
-weight: 160
 ---
 
 ## total_entries property

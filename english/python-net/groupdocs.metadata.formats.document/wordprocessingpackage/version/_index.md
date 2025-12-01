@@ -3,9 +3,9 @@ title: version property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 440
 url: /python-net/groupdocs.metadata.formats.document/wordprocessingpackage/version/
 is_root: false
-weight: 440
 ---
 
 ## version property
