@@ -3,9 +3,9 @@ title: pf3_manual_exposure_metering property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 390
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2personalfuncspackage/pf3_manual_exposure_metering/
 is_root: false
-weight: 390
 ---
 
 ## pf3_manual_exposure_metering property

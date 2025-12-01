@@ -3,18 +3,19 @@ title: Fb2Author constructor
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.formats.ebook.fb2/fb2author/__init__/
 is_root: false
-weight: 10
 ---
 
-## __init__ {#System.String-System.String-System.String-System.String-System.String-System.String-System.String}
+## \_\_init\_\_(self, first_name, middle_name, last_name, nick_name, home_page, email, id) {#System.String-System.String-System.String-System.String-System.String-System.String-System.String}
 
 Constructs a new instance of Fb2Author
 
 
 
 ```python
+
 def __init__(self, first_name, middle_name, last_name, nick_name, home_page, email, id):
     ...
 ```

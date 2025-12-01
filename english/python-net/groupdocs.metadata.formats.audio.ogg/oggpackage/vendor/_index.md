@@ -3,9 +3,9 @@ title: vendor property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 290
 url: /python-net/groupdocs.metadata.formats.audio.ogg/oggpackage/vendor/
 is_root: false
-weight: 290
 ---
 
 ## vendor property

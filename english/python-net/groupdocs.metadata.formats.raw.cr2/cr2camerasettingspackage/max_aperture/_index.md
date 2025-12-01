@@ -3,9 +3,9 @@ title: max_aperture property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 380
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2camerasettingspackage/max_aperture/
 is_root: false
-weight: 380
 ---
 
 ## max_aperture property

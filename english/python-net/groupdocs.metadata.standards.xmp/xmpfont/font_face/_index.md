@@ -3,9 +3,9 @@ title: font_face property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 140
 url: /python-net/groupdocs.metadata.standards.xmp/xmpfont/font_face/
 is_root: false
-weight: 140
 ---
 
 ## font_face property

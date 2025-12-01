@@ -3,9 +3,9 @@ title: name property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 140
 url: /python-net/groupdocs.metadata.formats.threed.threeds/threedspackage/name/
 is_root: false
-weight: 140
 ---
 
 ## name property

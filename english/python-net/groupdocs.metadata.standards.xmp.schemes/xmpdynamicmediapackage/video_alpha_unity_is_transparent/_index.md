@@ -3,9 +3,9 @@ title: video_alpha_unity_is_transparent property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 620
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/video_alpha_unity_is_transparent/
 is_root: false
-weight: 620
 ---
 
 ## video_alpha_unity_is_transparent property

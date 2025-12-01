@@ -3,9 +3,9 @@ title: lens_info property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 870
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/lens_info/
 is_root: false
-weight: 870
 ---
 
 ## lens_info property

@@ -3,9 +3,9 @@ title: License class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata/license/
 is_root: false
-weight: 10
 ---
 
 ## License class
@@ -19,14 +19,14 @@ The License type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata/license/__init__/#) | Initializes a new instance of the [`License`](/metadata/python-net/groupdocs.metadata/license) class. |
+| [`__init__(self)`](/metadata/python-net/groupdocs.metadata/license/__init__/#) | Initializes a new instance of the [`License`](/metadata/python-net/groupdocs.metadata/license) class. |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [set_license](/metadata/python-net/groupdocs.metadata/license/set_license/#System.String) | Licenses the component. |
-| [set_license](/metadata/python-net/groupdocs.metadata/license/set_license/#io.RawIOBase) | Licenses the component. |
+| [`set_license(self, file_path)`](/metadata/python-net/groupdocs.metadata/license/set_license/#system.string) | Licenses the component. |
+| [`set_license(self, stream)`](/metadata/python-net/groupdocs.metadata/license/set_license/#io.rawiobase) | Licenses the component. |
 
 
 

@@ -3,9 +3,9 @@ title: sequence_number property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 410
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2shotinfopackage/sequence_number/
 is_root: false
-weight: 410
 ---
 
 ## sequence_number property

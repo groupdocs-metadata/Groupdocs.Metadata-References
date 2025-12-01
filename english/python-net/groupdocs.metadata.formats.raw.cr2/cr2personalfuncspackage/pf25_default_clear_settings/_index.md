@@ -3,9 +3,9 @@ title: pf25_default_clear_settings property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 310
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2personalfuncspackage/pf25_default_clear_settings/
 is_root: false
-weight: 310
 ---
 
 ## pf25_default_clear_settings property

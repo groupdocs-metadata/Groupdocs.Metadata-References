@@ -3,18 +3,19 @@ title: add method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 20
 url: /python-net/groupdocs.metadata.formats.audio/id3v2tag/add/
 is_root: false
-weight: 20
 ---
 
-## add {#groupdocs.metadata.formats.audio.ID3V2TagFrame}
+## add(self, frame) {#groupdocs.metadata.formats.audio.ID3V2TagFrame}
 
 Adds a frame to the tag.
 
 
 
 ```python
+
 def add(self, frame):
     ...
 ```

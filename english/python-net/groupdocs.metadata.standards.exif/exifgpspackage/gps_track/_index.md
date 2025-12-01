@@ -3,9 +3,9 @@ title: gps_track property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 290
 url: /python-net/groupdocs.metadata.standards.exif/exifgpspackage/gps_track/
 is_root: false
-weight: 290
 ---
 
 ## gps_track property

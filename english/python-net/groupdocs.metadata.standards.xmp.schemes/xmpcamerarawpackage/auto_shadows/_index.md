@@ -3,9 +3,9 @@ title: auto_shadows property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 180
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/auto_shadows/
 is_root: false
-weight: 180
 ---
 
 ## auto_shadows property

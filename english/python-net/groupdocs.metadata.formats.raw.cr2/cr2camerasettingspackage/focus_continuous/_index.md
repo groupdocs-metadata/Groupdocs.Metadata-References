@@ -3,9 +3,9 @@ title: focus_continuous property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 300
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2camerasettingspackage/focus_continuous/
 is_root: false
-weight: 300
 ---
 
 ## focus_continuous property

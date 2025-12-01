@@ -3,10 +3,9 @@ title: GroupDocs.Metadata for Python via .NET
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/
 is_root: true
-version: 25.4
-weight: 40
 ---
 
 ### Modules

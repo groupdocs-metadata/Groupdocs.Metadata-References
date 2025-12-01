@@ -3,9 +3,9 @@ title: body_rtf property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 150
 url: /python-net/groupdocs.metadata.formats.email/msgpackage/body_rtf/
 is_root: false
-weight: 150
 ---
 
 ## body_rtf property

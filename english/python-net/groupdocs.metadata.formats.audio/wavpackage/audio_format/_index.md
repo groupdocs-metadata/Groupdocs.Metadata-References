@@ -3,9 +3,9 @@ title: audio_format property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 100
 url: /python-net/groupdocs.metadata.formats.audio/wavpackage/audio_format/
 is_root: false
-weight: 100
 ---
 
 ## audio_format property

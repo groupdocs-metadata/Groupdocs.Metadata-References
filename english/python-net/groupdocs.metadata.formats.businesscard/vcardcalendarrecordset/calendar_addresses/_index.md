@@ -3,9 +3,9 @@ title: calendar_addresses property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 130
 url: /python-net/groupdocs.metadata.formats.businesscard/vcardcalendarrecordset/calendar_addresses/
 is_root: false
-weight: 130
 ---
 
 ## calendar_addresses property

@@ -3,9 +3,9 @@ title: relative_timestamp property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 540
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/relative_timestamp/
 is_root: false
-weight: 540
 ---
 
 ## relative_timestamp property

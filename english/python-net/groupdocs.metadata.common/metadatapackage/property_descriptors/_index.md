@@ -3,9 +3,9 @@ title: property_descriptors property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 130
 url: /python-net/groupdocs.metadata.common/metadatapackage/property_descriptors/
 is_root: false
-weight: 130
 ---
 
 ## property_descriptors property

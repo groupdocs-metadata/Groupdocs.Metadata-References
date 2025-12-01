@@ -3,9 +3,9 @@ title: face_detect2 property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 770
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/face_detect2/
 is_root: false
-weight: 770
 ---
 
 ## face_detect2 property

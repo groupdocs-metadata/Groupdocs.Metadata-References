@@ -3,12 +3,12 @@ title: get method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 50
 url: /python-net/groupdocs.metadata.formats.audio/lyricstag/get/
 is_root: false
-weight: 50
 ---
 
-## get {#System.String}
+## get(self, id) {#System.String}
 
 Gets the value of the field with the specified id.
 
@@ -20,6 +20,7 @@ The value if the tag contains a field with the specified id; otherwise, null.
 
 
 ```python
+
 def get(self, id):
     ...
 ```

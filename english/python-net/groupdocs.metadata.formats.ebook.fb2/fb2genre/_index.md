@@ -3,9 +3,9 @@ title: Fb2Genre enumeration
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 60
 url: /python-net/groupdocs.metadata.formats.ebook.fb2/fb2genre/
 is_root: false
-weight: 60
 ---
 
 ## Fb2Genre enumeration

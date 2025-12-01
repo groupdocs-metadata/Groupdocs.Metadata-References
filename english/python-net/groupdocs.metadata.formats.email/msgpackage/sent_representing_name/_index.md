@@ -3,9 +3,9 @@ title: sent_representing_name property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 460
 url: /python-net/groupdocs.metadata.formats.email/msgpackage/sent_representing_name/
 is_root: false
-weight: 460
 ---
 
 ## sent_representing_name property

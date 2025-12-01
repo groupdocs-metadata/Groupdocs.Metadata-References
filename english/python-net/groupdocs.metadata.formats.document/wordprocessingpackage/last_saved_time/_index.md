@@ -3,9 +3,9 @@ title: last_saved_time property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 300
 url: /python-net/groupdocs.metadata.formats.document/wordprocessingpackage/last_saved_time/
 is_root: false
-weight: 300
 ---
 
 ## last_saved_time property

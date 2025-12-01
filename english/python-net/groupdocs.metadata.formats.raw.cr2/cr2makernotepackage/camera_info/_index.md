@@ -3,9 +3,9 @@ title: camera_info property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 150
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/camera_info/
 is_root: false
-weight: 150
 ---
 
 ## camera_info property

@@ -3,9 +3,9 @@ title: content_raw_data property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 100
 url: /python-net/groupdocs.metadata.standards.pkcs/cmsencapsulatedcontent/content_raw_data/
 is_root: false
-weight: 100
 ---
 
 ## content_raw_data property

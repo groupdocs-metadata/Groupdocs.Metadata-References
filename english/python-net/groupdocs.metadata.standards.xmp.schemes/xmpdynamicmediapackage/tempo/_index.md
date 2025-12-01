@@ -3,9 +3,9 @@ title: tempo property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 590
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/tempo/
 is_root: false
-weight: 590
 ---
 
 ## tempo property

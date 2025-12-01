@@ -3,9 +3,9 @@ title: model_version property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 190
 url: /python-net/groupdocs.metadata.standards.iptc/iptcenveloperecord/model_version/
 is_root: false
-weight: 190
 ---
 
 ## model_version property

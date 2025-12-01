@@ -3,18 +3,19 @@ title: WithNameSpecification constructor
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.search/withnamespecification/__init__/
 is_root: false
-weight: 10
 ---
 
-## __init__ {#System.String}
+## \_\_init\_\_(self, property_name) {#System.String}
 
 Initializes a new instance of the [`WithNameSpecification`](/metadata/python-net/groupdocs.metadata.search/withnamespecification) class.
 
 
 
 ```python
+
 def __init__(self, property_name):
     ...
 ```
@@ -25,13 +26,14 @@ def __init__(self, property_name):
 | property_name | System.String | The type of properties that satisfy the specification. |
 
 
-## __init__ {#System.String-bool}
+## \_\_init\_\_(self, property_name, ignore_case) {#System.String-bool}
 
 Initializes a new instance of the [`WithNameSpecification`](/metadata/python-net/groupdocs.metadata.search/withnamespecification) class.
 
 
 
 ```python
+
 def __init__(self, property_name, ignore_case):
     ...
 ```

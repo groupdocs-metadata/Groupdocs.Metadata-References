@@ -3,9 +3,9 @@ title: DNG property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 180
 url: /python-net/groupdocs.metadata.common/filetype/dng/
 is_root: false
-weight: 180
 ---
 
 ## DNG property
@@ -16,6 +16,10 @@ It was basically developed for digital photography. DNG is an extension of TIFF/
 In order to manipulate raw data from digital cameras with the ease of flexibility and artistic control, photographers opt camera raw files.
 JPEG and TIFF formats store images that are processed by the camera, therefore, not much room for alteration is available in such formats.
 [here](https://wiki.fileformat.com/image/dng/).
+### Definition:
+```python
+f DNG 
+```
 
 ### See Also
 * module [`groupdocs.metadata.common`](../../)

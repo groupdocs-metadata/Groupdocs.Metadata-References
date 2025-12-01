@@ -3,12 +3,12 @@ title: both method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 20
 url: /python-net/groupdocs.metadata.search/withvaluespecification/both/
 is_root: false
-weight: 20
 ---
 
-## both {#groupdocs.metadata.search.Specification}
+## both(self, other) {#groupdocs.metadata.search.Specification}
 
 Combines two search specifications using the logical AND operator.
 
@@ -20,6 +20,7 @@ A composite specification.
 
 
 ```python
+
 def both(self, other):
     ...
 ```

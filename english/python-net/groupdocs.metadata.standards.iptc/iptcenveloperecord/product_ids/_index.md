@@ -3,9 +3,9 @@ title: product_ids property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 210
 url: /python-net/groupdocs.metadata.standards.iptc/iptcenveloperecord/product_ids/
 is_root: false
-weight: 210
 ---
 
 ## product_ids property

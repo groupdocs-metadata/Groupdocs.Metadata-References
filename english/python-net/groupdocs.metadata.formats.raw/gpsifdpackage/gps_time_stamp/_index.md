@@ -3,9 +3,9 @@ title: gps_time_stamp property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 410
 url: /python-net/groupdocs.metadata.formats.raw/gpsifdpackage/gps_time_stamp/
 is_root: false
-weight: 410
 ---
 
 ## gps_time_stamp property

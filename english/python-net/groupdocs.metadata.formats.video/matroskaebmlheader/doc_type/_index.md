@@ -3,9 +3,9 @@ title: doc_type property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 110
 url: /python-net/groupdocs.metadata.formats.video/matroskaebmlheader/doc_type/
 is_root: false
-weight: 110
 ---
 
 ## doc_type property

@@ -3,9 +3,9 @@ title: logo_binary_records property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 160
 url: /python-net/groupdocs.metadata.formats.businesscard/vcardorganizationalrecordset/logo_binary_records/
 is_root: false
-weight: 160
 ---
 
 ## logo_binary_records property

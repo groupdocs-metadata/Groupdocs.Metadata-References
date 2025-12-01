@@ -3,9 +3,9 @@ title: shutter_release_no_cf_card property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 370
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2functions1dpackage/shutter_release_no_cf_card/
 is_root: false
-weight: 370
 ---
 
 ## shutter_release_no_cf_card property

@@ -3,9 +3,9 @@ title: original_name property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 80
 url: /python-net/groupdocs.metadata.formats.video/asfmetadatadescriptor/original_name/
 is_root: false
-weight: 80
 ---
 
 ## original_name property

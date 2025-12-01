@@ -3,9 +3,9 @@ title: lang property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 180
 url: /python-net/groupdocs.metadata.formats.ebook.fb2/fb2titleinfo/lang/
 is_root: false
-weight: 180
 ---
 
 ## lang property

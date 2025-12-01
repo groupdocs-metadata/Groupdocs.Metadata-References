@@ -3,9 +3,9 @@ title: status property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 450
 url: /python-net/groupdocs.metadata.standards.exif/exifgpspackage/status/
 is_root: false
-weight: 450
 ---
 
 ## status property

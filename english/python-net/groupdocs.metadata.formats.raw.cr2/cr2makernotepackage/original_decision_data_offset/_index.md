@@ -3,9 +3,9 @@ title: original_decision_data_offset property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 930
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/original_decision_data_offset/
 is_root: false
-weight: 930
 ---
 
 ## original_decision_data_offset property

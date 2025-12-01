@@ -3,9 +3,9 @@ title: muxing_app property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 150
 url: /python-net/groupdocs.metadata.formats.video/matroskasegment/muxing_app/
 is_root: false
-weight: 150
 ---
 
 ## muxing_app property

@@ -3,9 +3,9 @@ title: time_printed property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 350
 url: /python-net/groupdocs.metadata.formats.document/diagrampackage/time_printed/
 is_root: false
-weight: 350
 ---
 
 ## time_printed property

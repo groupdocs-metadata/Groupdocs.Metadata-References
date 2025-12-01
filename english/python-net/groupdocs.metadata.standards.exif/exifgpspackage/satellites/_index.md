@@ -3,9 +3,9 @@ title: satellites property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 420
 url: /python-net/groupdocs.metadata.standards.exif/exifgpspackage/satellites/
 is_root: false
-weight: 420
 ---
 
 ## satellites property

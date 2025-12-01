@@ -3,9 +3,9 @@ title: birthdate_date_time_record property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 140
 url: /python-net/groupdocs.metadata.formats.businesscard/vcardidentificationrecordset/birthdate_date_time_record/
 is_root: false
-weight: 140
 ---
 
 ## birthdate_date_time_record property

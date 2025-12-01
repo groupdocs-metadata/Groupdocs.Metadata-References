@@ -3,9 +3,9 @@ title: language_ietf property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 170
 url: /python-net/groupdocs.metadata.formats.video/matroskasubtitletrack/language_ietf/
 is_root: false
-weight: 170
 ---
 
 ## language_ietf property
@@ -13,6 +13,12 @@ weight: 170
 
 Gets the language of the track according to BCP 47 and using the IANA Language Subtag Registry. 
 If this Element is used, then any [`MatroskaTrack.language`](/metadata/python-net/groupdocs.metadata.formats.video/matroskatrack#language) Elements used in the same TrackEntry MUST be ignored.
+### Definition:
+```python
+@property
+def language_ietf(self):
+    ...
+```
 
 ### See Also
 * module [`groupdocs.metadata.formats.video`](../../)

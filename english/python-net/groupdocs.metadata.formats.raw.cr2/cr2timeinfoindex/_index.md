@@ -3,9 +3,9 @@ title: Cr2TimeInfoIndex enumeration
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 560
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2timeinfoindex/
 is_root: false
-weight: 560
 ---
 
 ## Cr2TimeInfoIndex enumeration

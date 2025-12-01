@@ -3,9 +3,9 @@ title: impp_entries property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 130
 url: /python-net/groupdocs.metadata.formats.businesscard/vcardcommunicationrecordset/impp_entries/
 is_root: false
-weight: 130
 ---
 
 ## impp_entries property

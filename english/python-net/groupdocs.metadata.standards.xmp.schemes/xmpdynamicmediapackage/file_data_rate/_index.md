@@ -3,9 +3,9 @@ title: file_data_rate property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 370
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/file_data_rate/
 is_root: false
-weight: 370
 ---
 
 ## file_data_rate property

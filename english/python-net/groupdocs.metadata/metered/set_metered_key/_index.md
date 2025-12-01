@@ -3,18 +3,19 @@ title: set_metered_key method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 40
 url: /python-net/groupdocs.metadata/metered/set_metered_key/
 is_root: false
-weight: 40
 ---
 
-## set_metered_key {#System.String-System.String}
+## set_metered_key(self, public_key, private_key) {#System.String-System.String}
 
 Sets metered public and private key
 
 
 
 ```python
+
 def set_metered_key(self, public_key, private_key):
     ...
 ```

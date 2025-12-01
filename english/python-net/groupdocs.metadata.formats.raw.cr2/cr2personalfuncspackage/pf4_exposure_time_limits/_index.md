@@ -3,9 +3,9 @@ title: pf4_exposure_time_limits property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 400
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2personalfuncspackage/pf4_exposure_time_limits/
 is_root: false
-weight: 400
 ---
 
 ## pf4_exposure_time_limits property

@@ -3,9 +3,9 @@ title: length_in_milliseconds property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 310
 url: /python-net/groupdocs.metadata.formats.audio/id3v2tag/length_in_milliseconds/
 is_root: false
-weight: 310
 ---
 
 ## length_in_milliseconds property

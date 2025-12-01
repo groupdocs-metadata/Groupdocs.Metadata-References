@@ -3,9 +3,9 @@ title: shadow_tint property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 510
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/shadow_tint/
 is_root: false
-weight: 510
 ---
 
 ## shadow_tint property

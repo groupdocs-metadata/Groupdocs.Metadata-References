@@ -3,9 +3,9 @@ title: camera_settings property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 140
 url: /python-net/groupdocs.metadata.standards.exif.makernote/canonmakernotepackage/camera_settings/
 is_root: false
-weight: 140
 ---
 
 ## camera_settings property

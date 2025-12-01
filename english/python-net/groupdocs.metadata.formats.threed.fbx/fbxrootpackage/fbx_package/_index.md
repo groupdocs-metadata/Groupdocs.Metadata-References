@@ -3,9 +3,9 @@ title: fbx_package property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 110
 url: /python-net/groupdocs.metadata.formats.threed.fbx/fbxrootpackage/fbx_package/
 is_root: false
-weight: 110
 ---
 
 ## fbx_package property

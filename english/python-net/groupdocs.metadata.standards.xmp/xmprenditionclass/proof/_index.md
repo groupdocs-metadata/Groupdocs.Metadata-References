@@ -3,15 +3,19 @@ title: PROOF property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 80
 url: /python-net/groupdocs.metadata.standards.xmp/xmprenditionclass/proof/
 is_root: false
-weight: 80
 ---
 
 ## PROOF property
 
 
 A review proof.
+### Definition:
+```python
+f PROOF 
+```
 
 ### See Also
 * module [`groupdocs.metadata.standards.xmp`](../../)

@@ -3,9 +3,9 @@ title: location_role property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 310
 url: /python-net/groupdocs.metadata.formats.video/movpackage/location_role/
 is_root: false
-weight: 310
 ---
 
 ## location_role property

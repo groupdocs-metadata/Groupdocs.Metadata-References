@@ -3,12 +3,12 @@ title: get_package method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 80
 url: /python-net/groupdocs.metadata.standards.xmp/xmppacketwrapper/get_package/
 is_root: false
-weight: 80
 ---
 
-## get_package {#System.String}
+## get_package(self, namespace_uri) {#System.String}
 
 Gets package by namespace uri.
 
@@ -20,6 +20,7 @@ Appropriate [`XmpPackage`](/metadata/python-net/groupdocs.metadata.standards.xmp
 
 
 ```python
+
 def get_package(self, namespace_uri):
     ...
 ```

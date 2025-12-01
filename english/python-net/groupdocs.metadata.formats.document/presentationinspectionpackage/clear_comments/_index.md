@@ -3,18 +3,19 @@ title: clear_comments method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 30
 url: /python-net/groupdocs.metadata.formats.document/presentationinspectionpackage/clear_comments/
 is_root: false
-weight: 30
 ---
 
-## clear_comments {#}
+## clear_comments(self) {#}
 
 Removes all detected user comments from the presentation.
 
 
 
 ```python
+
 def clear_comments(self):
     ...
 ```

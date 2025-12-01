@@ -3,9 +3,9 @@ title: reply_to property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 390
 url: /python-net/groupdocs.metadata.formats.email/msgpackage/reply_to/
 is_root: false
-weight: 390
 ---
 
 ## reply_to property

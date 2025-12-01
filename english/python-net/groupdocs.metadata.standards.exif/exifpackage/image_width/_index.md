@@ -3,9 +3,9 @@ title: image_width property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 220
 url: /python-net/groupdocs.metadata.standards.exif/exifpackage/image_width/
 is_root: false
-weight: 220
 ---
 
 ## image_width property

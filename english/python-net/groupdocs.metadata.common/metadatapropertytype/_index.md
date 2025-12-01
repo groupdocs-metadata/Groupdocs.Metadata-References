@@ -3,9 +3,9 @@ title: MetadataPropertyType enumeration
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 200
 url: /python-net/groupdocs.metadata.common/metadatapropertytype/
 is_root: false
-weight: 200
 ---
 
 ## MetadataPropertyType enumeration

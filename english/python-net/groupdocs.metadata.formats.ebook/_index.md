@@ -3,9 +3,9 @@ title: groupdocs.metadata.formats.ebook
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.formats.ebook/
 is_root: false
-weight: 10
 ---
 
 The namespace provides functionality for working with electronic book formats.

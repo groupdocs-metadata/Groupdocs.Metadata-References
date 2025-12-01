@@ -3,9 +3,9 @@ title: doc_type_read_version property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 120
 url: /python-net/groupdocs.metadata.formats.video/matroskaebmlheader/doc_type_read_version/
 is_root: false
-weight: 120
 ---
 
 ## doc_type_read_version property

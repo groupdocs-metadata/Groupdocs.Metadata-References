@@ -3,9 +3,9 @@ title: group_cells property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 30
 url: /python-net/groupdocs.metadata.export/excelexportoptions/group_cells/
 is_root: false
-weight: 30
 ---
 
 ## group_cells property

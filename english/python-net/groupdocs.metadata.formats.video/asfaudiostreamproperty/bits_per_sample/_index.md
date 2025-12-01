@@ -3,9 +3,9 @@ title: bits_per_sample property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 140
 url: /python-net/groupdocs.metadata.formats.video/asfaudiostreamproperty/bits_per_sample/
 is_root: false
-weight: 140
 ---
 
 ## bits_per_sample property

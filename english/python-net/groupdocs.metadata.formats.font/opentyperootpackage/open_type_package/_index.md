@@ -3,9 +3,9 @@ title: open_type_package property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 150
 url: /python-net/groupdocs.metadata.formats.font/opentyperootpackage/open_type_package/
 is_root: false
-weight: 150
 ---
 
 ## open_type_package property

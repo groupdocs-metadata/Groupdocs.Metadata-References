@@ -3,9 +3,9 @@ title: TiffShortTag class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 490
 url: /python-net/groupdocs.metadata.formats.image/tiffshorttag/
 is_root: false
-weight: 490
 ---
 
 ## TiffShortTag class
@@ -25,7 +25,7 @@ The TiffShortTag type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.formats.image/tiffshorttag/__init__/#groupdocs.metadata.formats.image.TiffTagID-list) | Initializes a new instance of the [`TiffShortTag`](/metadata/python-net/groupdocs.metadata.formats.image/tiffshorttag) class. |
+| [`__init__(self, tag_id, value)`](/metadata/python-net/groupdocs.metadata.formats.image/tiffshorttag/__init__/#groupdocs.metadata.formats.image.tifftagid-list) | Initializes a new instance of the [`TiffShortTag`](/metadata/python-net/groupdocs.metadata.formats.image/tiffshorttag) class. |
 
 
 ### Properties

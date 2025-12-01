@@ -3,9 +3,9 @@ title: FileType class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 30
 url: /python-net/groupdocs.metadata.common/filetype/
 is_root: false
-weight: 30
 ---
 
 ## FileType class
@@ -137,8 +137,8 @@ The FileType type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_supported_file_types](/metadata/python-net/groupdocs.metadata.common/filetype/get_supported_file_types/#) | Retrieves supported file types. |
-| [from_extension](/metadata/python-net/groupdocs.metadata.common/filetype/from_extension/#System.String) | Gets FileType for provided fileExtension |
+| [`get_supported_file_types()`](/metadata/python-net/groupdocs.metadata.common/filetype/get_supported_file_types/#) | Retrieves supported file types. |
+| [`from_extension(, file_extension)`](/metadata/python-net/groupdocs.metadata.common/filetype/from_extension/#system.string) | Gets FileType for provided fileExtension |
 
 
 

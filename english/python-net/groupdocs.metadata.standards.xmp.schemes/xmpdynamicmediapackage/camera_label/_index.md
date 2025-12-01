@@ -3,9 +3,9 @@ title: camera_label property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 260
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/camera_label/
 is_root: false
-weight: 260
 ---
 
 ## camera_label property

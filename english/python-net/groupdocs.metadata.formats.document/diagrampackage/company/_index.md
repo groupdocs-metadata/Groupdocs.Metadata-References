@@ -3,9 +3,9 @@ title: company property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 190
 url: /python-net/groupdocs.metadata.formats.document/diagrampackage/company/
 is_root: false
-weight: 190
 ---
 
 ## company property

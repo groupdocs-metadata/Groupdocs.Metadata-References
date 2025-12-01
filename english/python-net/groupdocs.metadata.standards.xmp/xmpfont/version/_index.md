@@ -3,9 +3,9 @@ title: version property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 250
 url: /python-net/groupdocs.metadata.standards.xmp/xmpfont/version/
 is_root: false
-weight: 250
 ---
 
 ## version property

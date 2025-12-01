@@ -3,9 +3,9 @@ title: rf_lens_type property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 310
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2fileinfopackage/rf_lens_type/
 is_root: false
-weight: 310
 ---
 
 ## rf_lens_type property

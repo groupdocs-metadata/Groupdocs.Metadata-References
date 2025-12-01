@@ -3,9 +3,9 @@ title: rendition_class property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 280
 url: /python-net/groupdocs.metadata.standards.xmp/xmpresourceref/rendition_class/
 is_root: false
-weight: 280
 ---
 
 ## rendition_class property

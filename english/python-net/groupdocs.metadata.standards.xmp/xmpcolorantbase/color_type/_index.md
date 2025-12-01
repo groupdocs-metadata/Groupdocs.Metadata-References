@@ -3,9 +3,9 @@ title: color_type property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 120
 url: /python-net/groupdocs.metadata.standards.xmp/xmpcolorantbase/color_type/
 is_root: false
-weight: 120
 ---
 
 ## color_type property

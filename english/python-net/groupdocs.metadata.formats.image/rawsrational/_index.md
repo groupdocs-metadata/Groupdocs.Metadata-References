@@ -3,9 +3,9 @@ title: RawSRational class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 310
 url: /python-net/groupdocs.metadata.formats.image/rawsrational/
 is_root: false
-weight: 310
 ---
 
 ## RawSRational class
@@ -19,7 +19,7 @@ The RawSRational type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.formats.image/rawsrational/__init__/#int-int) | Initializes a new instance of the [`RawSRational`](/metadata/python-net/groupdocs.metadata.formats.image/rawsrational) class. |
+| [`__init__(self, numerator, denominator)`](/metadata/python-net/groupdocs.metadata.formats.image/rawsrational/__init__/#int-int) | Initializes a new instance of the [`RawSRational`](/metadata/python-net/groupdocs.metadata.formats.image/rawsrational) class. |
 
 
 ### Properties
@@ -33,8 +33,8 @@ The RawSRational type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [equals](/metadata/python-net/groupdocs.metadata.formats.image/rawsrational/equals/#groupdocs.metadata.formats.image.RawSRational-groupdocs.metadata.formats.image.RawSRational) | Compares pair of [`RawSRational`](/metadata/python-net/groupdocs.metadata.formats.image/rawsrational). |
-| [equals](/metadata/python-net/groupdocs.metadata.formats.image/rawsrational/equals/#groupdocs.metadata.formats.image.RawSRational) | Indicates whether the current object is equal to another object of the same type. |
+| [`equals(, rational, other)`](/metadata/python-net/groupdocs.metadata.formats.image/rawsrational/equals/#groupdocs.metadata.formats.image.rawsrational-groupdocs.metadata.formats.image.rawsrational) | Compares pair of [`RawSRational`](/metadata/python-net/groupdocs.metadata.formats.image/rawsrational). |
+| [`equals(self, other)`](/metadata/python-net/groupdocs.metadata.formats.image/rawsrational/equals/#groupdocs.metadata.formats.image.rawsrational) | Indicates whether the current object is equal to another object of the same type. |
 
 
 

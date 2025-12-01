@@ -3,9 +3,9 @@ title: last_modification_time property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 140
 url: /python-net/groupdocs.metadata.formats.document/notepage/last_modification_time/
 is_root: false
-weight: 140
 ---
 
 ## last_modification_time property

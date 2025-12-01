@@ -3,9 +3,9 @@ title: canon_image_size property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 190
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2camerasettingspackage/canon_image_size/
 is_root: false
-weight: 190
 ---
 
 ## canon_image_size property

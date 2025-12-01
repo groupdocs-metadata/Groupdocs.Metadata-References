@@ -3,9 +3,9 @@ title: maker_note_package property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 180
 url: /python-net/groupdocs.metadata.formats.image/jpegrootpackage/maker_note_package/
 is_root: false
-weight: 180
 ---
 
 ## maker_note_package property

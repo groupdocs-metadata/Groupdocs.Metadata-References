@@ -3,9 +3,9 @@ title: groupdocs.metadata.formats.peer2peer
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.formats.peer2peer/
 is_root: false
-weight: 10
 ---
 
 The namespace contains classes intended to work with different formats based on the peer2peer protocol.

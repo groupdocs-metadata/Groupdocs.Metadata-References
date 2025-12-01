@@ -3,9 +3,9 @@ title: language property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 260
 url: /python-net/groupdocs.metadata.formats.document/diagrampackage/language/
 is_root: false
-weight: 260
 ---
 
 ## language property

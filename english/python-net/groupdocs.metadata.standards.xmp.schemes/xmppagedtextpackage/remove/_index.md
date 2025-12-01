@@ -3,12 +3,12 @@ title: remove method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 70
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmppagedtextpackage/remove/
 is_root: false
-weight: 70
 ---
 
-## remove {#System.String}
+## remove(self, name) {#System.String}
 
 Removes the property with the specified name.
 
@@ -20,6 +20,7 @@ True if the specified metadata property is found and removed; otherwise, false.
 
 
 ```python
+
 def remove(self, name):
     ...
 ```

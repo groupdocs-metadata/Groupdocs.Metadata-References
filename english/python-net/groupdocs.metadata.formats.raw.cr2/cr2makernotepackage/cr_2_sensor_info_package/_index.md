@@ -3,9 +3,9 @@ title: cr_2_sensor_info_package property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 580
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr_2_sensor_info_package/
 is_root: false
-weight: 580
 ---
 
 ## cr_2_sensor_info_package property

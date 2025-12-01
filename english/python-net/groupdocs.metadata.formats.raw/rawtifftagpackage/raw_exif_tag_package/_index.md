@@ -3,9 +3,9 @@ title: raw_exif_tag_package property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 370
 url: /python-net/groupdocs.metadata.formats.raw/rawtifftagpackage/raw_exif_tag_package/
 is_root: false
-weight: 370
 ---
 
 ## raw_exif_tag_package property

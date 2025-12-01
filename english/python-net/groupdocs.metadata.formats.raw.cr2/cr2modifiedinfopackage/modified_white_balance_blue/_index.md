@@ -3,9 +3,9 @@ title: modified_white_balance_blue property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 260
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2modifiedinfopackage/modified_white_balance_blue/
 is_root: false
-weight: 260
 ---
 
 ## modified_white_balance_blue property

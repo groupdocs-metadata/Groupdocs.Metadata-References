@@ -3,9 +3,9 @@ title: DICOM property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 150
 url: /python-net/groupdocs.metadata.common/filetype/dicom/
 is_root: false
-weight: 150
 ---
 
 ## DICOM property
@@ -16,6 +16,10 @@ DICOM is used for the integration of medical imaging devices like printers, serv
 scanners etc from various vendors and also contains identification data of each patient for uniqueness.
 Learn more about this file format
 [here](https://docs.fileformat.com/image/dicom/).
+### Definition:
+```python
+f DICOM 
+```
 
 ### See Also
 * module [`groupdocs.metadata.common`](../../)

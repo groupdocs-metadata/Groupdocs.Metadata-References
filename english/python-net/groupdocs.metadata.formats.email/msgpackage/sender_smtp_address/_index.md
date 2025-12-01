@@ -3,9 +3,9 @@ title: sender_smtp_address property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 430
 url: /python-net/groupdocs.metadata.formats.email/msgpackage/sender_smtp_address/
 is_root: false
-weight: 430
 ---
 
 ## sender_smtp_address property

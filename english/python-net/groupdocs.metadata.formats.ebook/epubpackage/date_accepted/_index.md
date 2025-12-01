@@ -3,9 +3,9 @@ title: date_accepted property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 260
 url: /python-net/groupdocs.metadata.formats.ebook/epubpackage/date_accepted/
 is_root: false
-weight: 260
 ---
 
 ## date_accepted property

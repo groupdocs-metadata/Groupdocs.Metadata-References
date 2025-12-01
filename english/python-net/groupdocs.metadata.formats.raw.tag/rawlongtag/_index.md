@@ -3,9 +3,9 @@ title: RawLongTag class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 30
 url: /python-net/groupdocs.metadata.formats.raw.tag/rawlongtag/
 is_root: false
-weight: 30
 ---
 
 ## RawLongTag class
@@ -25,7 +25,7 @@ The RawLongTag type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.formats.raw.tag/rawlongtag/__init__/#int-list) | Initializes a new instance of the [`RawLongTag`](/metadata/python-net/groupdocs.metadata.formats.raw.tag/rawlongtag) class. |
+| [`__init__(self, tag_id, value)`](/metadata/python-net/groupdocs.metadata.formats.raw.tag/rawlongtag/__init__/#int-list) | Initializes a new instance of the [`RawLongTag`](/metadata/python-net/groupdocs.metadata.formats.raw.tag/rawlongtag) class. |
 
 
 ### Properties

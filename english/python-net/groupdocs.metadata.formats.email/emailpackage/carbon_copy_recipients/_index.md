@@ -3,9 +3,9 @@ title: carbon_copy_recipients property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 110
 url: /python-net/groupdocs.metadata.formats.email/emailpackage/carbon_copy_recipients/
 is_root: false
-weight: 110
 ---
 
 ## carbon_copy_recipients property

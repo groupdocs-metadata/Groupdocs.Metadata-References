@@ -3,9 +3,9 @@ title: inspection_package property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 130
 url: /python-net/groupdocs.metadata.formats.document/noterootpackage/inspection_package/
 is_root: false
-weight: 130
 ---
 
 ## inspection_package property

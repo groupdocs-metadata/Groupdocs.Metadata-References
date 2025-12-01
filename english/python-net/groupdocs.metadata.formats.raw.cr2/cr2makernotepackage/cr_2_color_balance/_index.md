@@ -3,9 +3,9 @@ title: cr_2_color_balance property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 270
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr_2_color_balance/
 is_root: false
-weight: 270
 ---
 
 ## cr_2_color_balance property

@@ -3,9 +3,9 @@ title: intro_time property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 410
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/intro_time/
 is_root: false
-weight: 410
 ---
 
 ## intro_time property

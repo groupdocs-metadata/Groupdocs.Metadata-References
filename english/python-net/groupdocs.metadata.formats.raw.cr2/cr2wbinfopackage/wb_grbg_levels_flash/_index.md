@@ -3,9 +3,9 @@ title: wb_grbg_levels_flash property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 230
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2wbinfopackage/wb_grbg_levels_flash/
 is_root: false
-weight: 230
 ---
 
 ## wb_grbg_levels_flash property

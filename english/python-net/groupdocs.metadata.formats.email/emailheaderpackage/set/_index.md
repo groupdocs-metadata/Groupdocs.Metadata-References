@@ -3,18 +3,19 @@ title: set method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 80
 url: /python-net/groupdocs.metadata.formats.email/emailheaderpackage/set/
 is_root: false
-weight: 80
 ---
 
-## set {#System.String-groupdocs.metadata.common.PropertyValue}
+## set(self, header, value) {#System.String-groupdocs.metadata.common.PropertyValue}
 
 Set the value of the specified header.
 
 
 
 ```python
+
 def set(self, header, value):
     ...
 ```

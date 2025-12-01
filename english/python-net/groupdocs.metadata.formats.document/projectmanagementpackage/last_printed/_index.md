@@ -3,9 +3,9 @@ title: last_printed property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 260
 url: /python-net/groupdocs.metadata.formats.document/projectmanagementpackage/last_printed/
 is_root: false
-weight: 260
 ---
 
 ## last_printed property

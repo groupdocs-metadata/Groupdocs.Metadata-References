@@ -3,9 +3,9 @@ title: y_cb_cr_coefficients property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 510
 url: /python-net/groupdocs.metadata.formats.raw/rawtifftagpackage/y_cb_cr_coefficients/
 is_root: false
-weight: 510
 ---
 
 ## y_cb_cr_coefficients property

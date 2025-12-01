@@ -3,9 +3,9 @@ title: groupdocs.metadata.formats.document
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.formats.document/
 is_root: false
-weight: 10
 ---
 
 The namespace provides functionality intended to work with a variety of document formats such as spreadsheets, presentations, text processing formats, etc.

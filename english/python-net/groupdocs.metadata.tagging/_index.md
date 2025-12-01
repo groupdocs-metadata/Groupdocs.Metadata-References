@@ -3,9 +3,9 @@ title: groupdocs.metadata.tagging
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.tagging/
 is_root: false
-weight: 10
 ---
 
 The namespace contains various sets of tags with which most important metadata properties are marked.

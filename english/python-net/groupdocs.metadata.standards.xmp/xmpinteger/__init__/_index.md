@@ -3,18 +3,19 @@ title: XmpInteger constructor
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.standards.xmp/xmpinteger/__init__/
 is_root: false
-weight: 10
 ---
 
-## __init__ {#int}
+## \_\_init\_\_(self, value) {#int}
 
 Initializes a new instance of the [`XmpInteger`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpinteger) class.
 
 
 
 ```python
+
 def __init__(self, value):
     ...
 ```
@@ -25,13 +26,14 @@ def __init__(self, value):
 | value | int | The value. |
 
 
-## __init__ {#int}
+## \_\_init\_\_(self, value) {#int}
 
 Initializes a new instance of the [`XmpInteger`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpinteger) class.
 
 
 
 ```python
+
 def __init__(self, value):
     ...
 ```
@@ -42,13 +44,14 @@ def __init__(self, value):
 | value | int | The value. |
 
 
-## __init__ {#System.String}
+## \_\_init\_\_(self, value) {#System.String}
 
 Initializes a new instance of the [`XmpInteger`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpinteger) class.
 
 
 
 ```python
+
 def __init__(self, value):
     ...
 ```

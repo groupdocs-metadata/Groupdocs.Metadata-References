@@ -3,19 +3,21 @@ title: start method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 20
 url: /python-net/groupdocs.metadata.logging/logging/start/
 is_root: false
-weight: 20
 ---
 
-## start {#groupdocs.metadata.logging.ILogger}
+## start(, logger) {#groupdocs.metadata.logging.ILogger}
 
 Start logging.
 
 
 
 ```python
-def start(self, logger):
+
+@staticmethod
+def start(logger):
     ...
 ```
 

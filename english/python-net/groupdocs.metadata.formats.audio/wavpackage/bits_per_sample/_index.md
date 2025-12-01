@@ -3,9 +3,9 @@ title: bits_per_sample property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 110
 url: /python-net/groupdocs.metadata.formats.audio/wavpackage/bits_per_sample/
 is_root: false
-weight: 110
 ---
 
 ## bits_per_sample property

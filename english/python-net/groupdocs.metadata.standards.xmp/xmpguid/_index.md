@@ -3,9 +3,9 @@ title: XmpGuid class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 150
 url: /python-net/groupdocs.metadata.standards.xmp/xmpguid/
 is_root: false
-weight: 150
 ---
 
 ## XmpGuid class
@@ -25,8 +25,8 @@ The XmpGuid type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpguid/__init__/#System.String) | Initializes a new instance of the [`XmpGuid`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpguid) class. |
-| [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpguid/__init__/#System.Guid) | Initializes a new instance of the [`XmpGuid`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpguid) class. |
+| [`__init__(self, value)`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpguid/__init__/#system.string) | Initializes a new instance of the [`XmpGuid`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpguid) class. |
+| [`__init__(self, value)`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpguid/__init__/#system.guid) | Initializes a new instance of the [`XmpGuid`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpguid) class. |
 
 
 ### Properties
@@ -40,8 +40,8 @@ The XmpGuid type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [accept_value](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpguid/accept_value/#groupdocs.metadata.common.ValueAcceptor) | Extracts the property value using a custom [`ValueAcceptor`](/metadata/python-net/groupdocs.metadata.common/valueacceptor). |
-| [get_xmp_representation](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpguid/get_xmp_representation/#) | Returns string contained value in XMP format. |
+| [`accept_value(self, value_acceptor)`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpguid/accept_value/#groupdocs.metadata.common.valueacceptor) | Extracts the property value using a custom [`ValueAcceptor`](/metadata/python-net/groupdocs.metadata.common/valueacceptor). |
+| [`get_xmp_representation(self)`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpguid/get_xmp_representation/#) | Returns string contained value in XMP format. |
 
 
 

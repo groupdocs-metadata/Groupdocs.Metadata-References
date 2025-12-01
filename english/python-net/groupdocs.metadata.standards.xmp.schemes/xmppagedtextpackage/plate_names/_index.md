@@ -3,9 +3,9 @@ title: plate_names property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 220
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmppagedtextpackage/plate_names/
 is_root: false
-weight: 220
 ---
 
 ## plate_names property

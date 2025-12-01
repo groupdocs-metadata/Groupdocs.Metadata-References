@@ -3,9 +3,9 @@ title: sensor_top_border property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 260
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2sensorinfopackage/sensor_top_border/
 is_root: false
-weight: 260
 ---
 
 ## sensor_top_border property

@@ -3,18 +3,19 @@ title: set_license method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 20
 url: /python-net/groupdocs.metadata/license/set_license/
 is_root: false
-weight: 20
 ---
 
-## set_license {#System.String}
+## set_license(self, file_path) {#System.String}
 
 Licenses the component.
 
 
 
 ```python
+
 def set_license(self, file_path):
     ...
 ```
@@ -30,13 +31,14 @@ def set_license(self, file_path):
 This example demonstrates how to setup license.
 
 
-## set_license {#io.RawIOBase}
+## set_license(self, stream) {#io.RawIOBase}
 
 Licenses the component.
 
 
 
 ```python
+
 def set_license(self, stream):
     ...
 ```

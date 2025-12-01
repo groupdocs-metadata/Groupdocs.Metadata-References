@@ -3,9 +3,9 @@ title: managed_from property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 230
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpmediamanagementpackage/managed_from/
 is_root: false
-weight: 230
 ---
 
 ## managed_from property

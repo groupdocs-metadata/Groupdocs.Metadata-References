@@ -3,9 +3,9 @@ title: movie_modification_time property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 350
 url: /python-net/groupdocs.metadata.formats.video/movpackage/movie_modification_time/
 is_root: false
-weight: 350
 ---
 
 ## movie_modification_time property

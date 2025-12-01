@@ -3,9 +3,9 @@ title: dae_package property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 110
 url: /python-net/groupdocs.metadata.formats.threed.dae/daerootpackage/dae_package/
 is_root: false
-weight: 110
 ---
 
 ## dae_package property

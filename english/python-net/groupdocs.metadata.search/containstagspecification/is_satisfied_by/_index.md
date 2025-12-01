@@ -3,12 +3,12 @@ title: is_satisfied_by method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 50
 url: /python-net/groupdocs.metadata.search/containstagspecification/is_satisfied_by/
 is_root: false
-weight: 50
 ---
 
-## is_satisfied_by {#groupdocs.metadata.common.MetadataProperty}
+## is_satisfied_by(self, candidate) {#groupdocs.metadata.common.MetadataProperty}
 
 Verifies whether a [`MetadataProperty`](/metadata/python-net/groupdocs.metadata.common/metadataproperty) satisfies the specification.
 
@@ -20,6 +20,7 @@ True, if the passed property satisfies the specification; otherwise, false.
 
 
 ```python
+
 def is_satisfied_by(self, candidate):
     ...
 ```

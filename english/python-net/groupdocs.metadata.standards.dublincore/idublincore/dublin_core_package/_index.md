@@ -3,9 +3,9 @@ title: dublin_core_package property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 30
 url: /python-net/groupdocs.metadata.standards.dublincore/idublincore/dublin_core_package/
 is_root: false
-weight: 30
 ---
 
 ## dublin_core_package property

@@ -3,9 +3,9 @@ title: time_value property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 200
 url: /python-net/groupdocs.metadata.standards.xmp/xmptimecode/time_value/
 is_root: false
-weight: 200
 ---
 
 ## time_value property

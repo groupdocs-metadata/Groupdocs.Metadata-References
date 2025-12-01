@@ -3,9 +3,9 @@ title: crop_top_margin property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 180
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2cropinfopackage/crop_top_margin/
 is_root: false
-weight: 180
 ---
 
 ## crop_top_margin property

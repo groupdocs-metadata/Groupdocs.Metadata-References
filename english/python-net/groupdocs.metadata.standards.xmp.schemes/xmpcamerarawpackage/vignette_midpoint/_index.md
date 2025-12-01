@@ -3,9 +3,9 @@ title: vignette_midpoint property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 580
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/vignette_midpoint/
 is_root: false
-weight: 580
 ---
 
 ## vignette_midpoint property

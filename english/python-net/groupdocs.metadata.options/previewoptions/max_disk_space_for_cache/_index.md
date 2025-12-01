@@ -3,9 +3,9 @@ title: max_disk_space_for_cache property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 50
 url: /python-net/groupdocs.metadata.options/previewoptions/max_disk_space_for_cache/
 is_root: false
-weight: 50
 ---
 
 ## max_disk_space_for_cache property

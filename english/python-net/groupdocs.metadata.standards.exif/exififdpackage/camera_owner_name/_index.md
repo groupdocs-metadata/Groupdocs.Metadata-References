@@ -3,9 +3,9 @@ title: camera_owner_name property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 150
 url: /python-net/groupdocs.metadata.standards.exif/exififdpackage/camera_owner_name/
 is_root: false
-weight: 150
 ---
 
 ## camera_owner_name property

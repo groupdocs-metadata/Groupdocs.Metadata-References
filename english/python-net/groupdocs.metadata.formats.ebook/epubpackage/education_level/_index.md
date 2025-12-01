@@ -3,9 +3,9 @@ title: education_level property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 300
 url: /python-net/groupdocs.metadata.formats.ebook/epubpackage/education_level/
 is_root: false
-weight: 300
 ---
 
 ## education_level property

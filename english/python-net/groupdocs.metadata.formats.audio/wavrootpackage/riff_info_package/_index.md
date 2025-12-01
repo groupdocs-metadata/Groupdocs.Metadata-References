@@ -3,9 +3,9 @@ title: riff_info_package property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 150
 url: /python-net/groupdocs.metadata.formats.audio/wavrootpackage/riff_info_package/
 is_root: false
-weight: 150
 ---
 
 ## riff_info_package property

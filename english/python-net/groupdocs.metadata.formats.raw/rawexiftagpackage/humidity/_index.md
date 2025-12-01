@@ -3,9 +3,9 @@ title: humidity property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 490
 url: /python-net/groupdocs.metadata.formats.raw/rawexiftagpackage/humidity/
 is_root: false
-weight: 490
 ---
 
 ## humidity property

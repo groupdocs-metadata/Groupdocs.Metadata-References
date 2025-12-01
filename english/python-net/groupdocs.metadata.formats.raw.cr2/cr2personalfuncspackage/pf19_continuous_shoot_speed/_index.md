@@ -3,9 +3,9 @@ title: pf19_continuous_shoot_speed property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 250
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2personalfuncspackage/pf19_continuous_shoot_speed/
 is_root: false
-weight: 250
 ---
 
 ## pf19_continuous_shoot_speed property

@@ -3,9 +3,9 @@ title: PageInfo class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 100
 url: /python-net/groupdocs.metadata.common/pageinfo/
 is_root: false
-weight: 100
 ---
 
 ## PageInfo class

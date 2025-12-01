@@ -3,9 +3,9 @@ title: meta_class_name property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 120
 url: /python-net/groupdocs.metadata.formats.threed.gltf/gltfpropertytable/meta_class_name/
 is_root: false
-weight: 120
 ---
 
 ## meta_class_name property

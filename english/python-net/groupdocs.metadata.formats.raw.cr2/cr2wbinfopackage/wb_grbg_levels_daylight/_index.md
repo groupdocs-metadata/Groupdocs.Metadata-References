@@ -3,9 +3,9 @@ title: wb_grbg_levels_daylight property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 220
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2wbinfopackage/wb_grbg_levels_daylight/
 is_root: false
-weight: 220
 ---
 
 ## wb_grbg_levels_daylight property

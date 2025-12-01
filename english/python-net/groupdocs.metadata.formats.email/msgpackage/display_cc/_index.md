@@ -3,9 +3,9 @@ title: display_cc property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 230
 url: /python-net/groupdocs.metadata.formats.email/msgpackage/display_cc/
 is_root: false
-weight: 230
 ---
 
 ## display_cc property

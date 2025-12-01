@@ -3,9 +3,9 @@ title: musical_key property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 330
 url: /python-net/groupdocs.metadata.formats.audio/id3v2tag/musical_key/
 is_root: false
-weight: 330
 ---
 
 ## musical_key property

@@ -3,9 +3,9 @@ title: reference_date property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 350
 url: /python-net/groupdocs.metadata.standards.iptc/iptcapplicationrecord/reference_date/
 is_root: false
-weight: 350
 ---
 
 ## reference_date property

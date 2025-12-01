@@ -3,9 +3,9 @@ title: preview_image_info property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 970
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/preview_image_info/
 is_root: false
-weight: 970
 ---
 
 ## preview_image_info property

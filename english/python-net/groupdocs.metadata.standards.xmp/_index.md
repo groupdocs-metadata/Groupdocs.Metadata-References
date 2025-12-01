@@ -3,9 +3,9 @@ title: groupdocs.metadata.standards.xmp
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.standards.xmp/
 is_root: false
-weight: 10
 ---
 
 The namespace provides functionality for XMP (Extensible Metadata Platform) metadata reading and writing.

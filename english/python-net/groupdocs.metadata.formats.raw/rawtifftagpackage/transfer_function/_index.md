@@ -3,9 +3,9 @@ title: transfer_function property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 480
 url: /python-net/groupdocs.metadata.formats.raw/rawtifftagpackage/transfer_function/
 is_root: false
-weight: 480
 ---
 
 ## transfer_function property

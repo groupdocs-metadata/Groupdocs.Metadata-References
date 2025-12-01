@@ -3,9 +3,9 @@ title: location property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 100
 url: /python-net/groupdocs.metadata.tagging/propertytypetagcategory/location/
 is_root: false
-weight: 100
 ---
 
 ## location property

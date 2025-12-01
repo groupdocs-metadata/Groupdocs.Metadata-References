@@ -3,9 +3,9 @@ title: flash_exposure_comp property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 280
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2shotinfopackage/flash_exposure_comp/
 is_root: false
-weight: 280
 ---
 
 ## flash_exposure_comp property

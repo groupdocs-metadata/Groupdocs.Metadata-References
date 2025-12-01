@@ -3,9 +3,9 @@ title: envelope_record property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 180
 url: /python-net/groupdocs.metadata.standards.iptc/iptcrecordset/envelope_record/
 is_root: false
-weight: 180
 ---
 
 ## envelope_record property

@@ -3,9 +3,9 @@ title: ValueInterpreter class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 170
 url: /python-net/groupdocs.metadata.common/valueinterpreter/
 is_root: false
-weight: 170
 ---
 
 ## ValueInterpreter class
@@ -25,8 +25,8 @@ The ValueInterpreter type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [to_interpreted_value](/metadata/python-net/groupdocs.metadata.common/valueinterpreter/to_interpreted_value/#groupdocs.metadata.common.PropertyValue) | Interprets the provided property value. |
-| [to_source_value](/metadata/python-net/groupdocs.metadata.common/valueinterpreter/to_source_value/#groupdocs.metadata.common.PropertyValue) | Converts an interpreted value back to its original form. |
+| [`to_interpreted_value(self, original_value)`](/metadata/python-net/groupdocs.metadata.common/valueinterpreter/to_interpreted_value/#groupdocs.metadata.common.propertyvalue) | Interprets the provided property value. |
+| [`to_source_value(self, interpreted_value)`](/metadata/python-net/groupdocs.metadata.common/valueinterpreter/to_source_value/#groupdocs.metadata.common.propertyvalue) | Converts an interpreted value back to its original form. |
 
 
 

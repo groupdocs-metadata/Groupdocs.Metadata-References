@@ -3,9 +3,9 @@ title: temperature property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 970
 url: /python-net/groupdocs.metadata.formats.raw/rawexiftagpackage/temperature/
 is_root: false
-weight: 970
 ---
 
 ## temperature property

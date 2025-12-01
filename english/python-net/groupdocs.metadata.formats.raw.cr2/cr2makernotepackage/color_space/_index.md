@@ -3,9 +3,9 @@ title: color_space property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 200
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/color_space/
 is_root: false
-weight: 200
 ---
 
 ## color_space property

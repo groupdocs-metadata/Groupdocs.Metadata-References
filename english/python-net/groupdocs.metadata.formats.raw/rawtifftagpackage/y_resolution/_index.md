@@ -3,9 +3,9 @@ title: y_resolution property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 540
 url: /python-net/groupdocs.metadata.formats.raw/rawtifftagpackage/y_resolution/
 is_root: false
-weight: 540
 ---
 
 ## y_resolution property

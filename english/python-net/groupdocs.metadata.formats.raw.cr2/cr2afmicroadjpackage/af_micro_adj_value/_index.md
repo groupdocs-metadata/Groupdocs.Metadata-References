@@ -3,9 +3,9 @@ title: af_micro_adj_value property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 150
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2afmicroadjpackage/af_micro_adj_value/
 is_root: false
-weight: 150
 ---
 
 ## af_micro_adj_value property

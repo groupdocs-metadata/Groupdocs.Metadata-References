@@ -3,9 +3,9 @@ title: RawFloatTag class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 260
 url: /python-net/groupdocs.metadata.formats.image/rawfloattag/
 is_root: false
-weight: 260
 ---
 
 ## RawFloatTag class
@@ -25,7 +25,7 @@ The RawFloatTag type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.formats.image/rawfloattag/__init__/#int-list) | Initializes a new instance of the [`RawFloatTag`](/metadata/python-net/groupdocs.metadata.formats.image/rawfloattag) class. |
+| [`__init__(self, tag_id, value)`](/metadata/python-net/groupdocs.metadata.formats.image/rawfloattag/__init__/#int-list) | Initializes a new instance of the [`RawFloatTag`](/metadata/python-net/groupdocs.metadata.formats.image/rawfloattag) class. |
 
 
 ### Properties

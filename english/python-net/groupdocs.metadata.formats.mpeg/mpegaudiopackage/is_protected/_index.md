@@ -3,9 +3,9 @@ title: is_protected property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 180
 url: /python-net/groupdocs.metadata.formats.mpeg/mpegaudiopackage/is_protected/
 is_root: false
-weight: 180
 ---
 
 ## is_protected property

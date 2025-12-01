@@ -3,9 +3,9 @@ title: img_direction property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 300
 url: /python-net/groupdocs.metadata.standards.exif/exifgpspackage/img_direction/
 is_root: false
-weight: 300
 ---
 
 ## img_direction property

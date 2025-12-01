@@ -3,9 +3,9 @@ title: white_balance property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 300
 url: /python-net/groupdocs.metadata.standards.exif.makernote/panasonicmakernotepackage/white_balance/
 is_root: false
-weight: 300
 ---
 
 ## white_balance property

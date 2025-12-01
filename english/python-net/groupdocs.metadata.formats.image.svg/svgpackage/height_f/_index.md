@@ -3,9 +3,9 @@ title: height_f property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 120
 url: /python-net/groupdocs.metadata.formats.image.svg/svgpackage/height_f/
 is_root: false
-weight: 120
 ---
 
 ## height_f property

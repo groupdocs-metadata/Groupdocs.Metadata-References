@@ -3,9 +3,9 @@ title: ages_of_models property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 150
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpiptcextensionpackage/ages_of_models/
 is_root: false
-weight: 150
 ---
 
 ## ages_of_models property

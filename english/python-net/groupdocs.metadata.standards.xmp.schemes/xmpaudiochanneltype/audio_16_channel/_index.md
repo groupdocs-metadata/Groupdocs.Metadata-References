@@ -3,15 +3,21 @@ title: audio_16_channel property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 50
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpaudiochanneltype/audio_16_channel/
 is_root: false
-weight: 50
 ---
 
 ## audio_16_channel property
 
 
 Gets 16 audio channel.
+### Definition:
+```python
+@property
+def audio_16_channel(self):
+    ...
+```
 
 ### See Also
 * module [`groupdocs.metadata.standards.xmp.schemes`](../../)

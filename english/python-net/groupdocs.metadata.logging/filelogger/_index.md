@@ -3,9 +3,9 @@ title: FileLogger class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 20
 url: /python-net/groupdocs.metadata.logging/filelogger/
 is_root: false
-weight: 20
 ---
 
 ## FileLogger class
@@ -19,14 +19,14 @@ The FileLogger type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.logging/filelogger/__init__/#System.String) | Create logger to file. |
+| [`__init__(self, file_name)`](/metadata/python-net/groupdocs.metadata.logging/filelogger/__init__/#system.string) | Create logger to file. |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [trace](/metadata/python-net/groupdocs.metadata.logging/filelogger/trace/#System.String) | Writes trace log message; Trace log messages provides generally useful information about application flow. |
-| [warning](/metadata/python-net/groupdocs.metadata.logging/filelogger/warning/#System.String) | Writes warning log message; Warning log messages provides information about unexpected and recoverable event in application flow. |
+| [`trace(self, message)`](/metadata/python-net/groupdocs.metadata.logging/filelogger/trace/#system.string) | Writes trace log message; Trace log messages provides generally useful information about application flow. |
+| [`warning(self, message)`](/metadata/python-net/groupdocs.metadata.logging/filelogger/warning/#system.string) | Writes warning log message; Warning log messages provides information about unexpected and recoverable event in application flow. |
 
 
 

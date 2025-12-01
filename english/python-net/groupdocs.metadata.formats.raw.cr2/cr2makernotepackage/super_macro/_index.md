@@ -3,9 +3,9 @@ title: super_macro property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 1020
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/super_macro/
 is_root: false
-weight: 1020
 ---
 
 ## super_macro property

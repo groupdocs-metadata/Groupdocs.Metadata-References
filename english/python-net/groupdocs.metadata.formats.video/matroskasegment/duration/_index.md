@@ -3,9 +3,9 @@ title: duration property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 120
 url: /python-net/groupdocs.metadata.formats.video/matroskasegment/duration/
 is_root: false
-weight: 120
 ---
 
 ## duration property

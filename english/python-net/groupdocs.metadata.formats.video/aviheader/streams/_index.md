@@ -3,9 +3,9 @@ title: streams property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 200
 url: /python-net/groupdocs.metadata.formats.video/aviheader/streams/
 is_root: false
-weight: 200
 ---
 
 ## streams property

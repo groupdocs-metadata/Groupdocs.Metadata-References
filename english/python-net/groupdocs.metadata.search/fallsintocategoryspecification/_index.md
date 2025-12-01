@@ -3,9 +3,9 @@ title: FallsIntoCategorySpecification class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 40
 url: /python-net/groupdocs.metadata.search/fallsintocategoryspecification/
 is_root: false
-weight: 40
 ---
 
 ## FallsIntoCategorySpecification class
@@ -25,7 +25,7 @@ The FallsIntoCategorySpecification type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.search/fallsintocategoryspecification/__init__/#groupdocs.metadata.tagging.TagCategory) | Initializes a new instance of the [`FallsIntoCategorySpecification`](/metadata/python-net/groupdocs.metadata.search/fallsintocategoryspecification) class. |
+| [`__init__(self, category)`](/metadata/python-net/groupdocs.metadata.search/fallsintocategoryspecification/__init__/#groupdocs.metadata.tagging.tagcategory) | Initializes a new instance of the [`FallsIntoCategorySpecification`](/metadata/python-net/groupdocs.metadata.search/fallsintocategoryspecification) class. |
 
 
 ### Properties
@@ -37,10 +37,10 @@ The FallsIntoCategorySpecification type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [is_satisfied_by](/metadata/python-net/groupdocs.metadata.search/fallsintocategoryspecification/is_satisfied_by/#groupdocs.metadata.common.MetadataProperty) | Verifies whether a [`MetadataProperty`](/metadata/python-net/groupdocs.metadata.common/metadataproperty) satisfies the specification. |
-| [both](/metadata/python-net/groupdocs.metadata.search/fallsintocategoryspecification/both/#groupdocs.metadata.search.Specification) | Combines two search specifications using the logical AND operator. |
-| [either](/metadata/python-net/groupdocs.metadata.search/fallsintocategoryspecification/either/#groupdocs.metadata.search.Specification) | Combines two search specifications using the logical OR operator. |
-| [is_not](/metadata/python-net/groupdocs.metadata.search/fallsintocategoryspecification/is_not/#) | Negates the specification. |
+| [`is_satisfied_by(self, candidate)`](/metadata/python-net/groupdocs.metadata.search/fallsintocategoryspecification/is_satisfied_by/#groupdocs.metadata.common.metadataproperty) | Verifies whether a [`MetadataProperty`](/metadata/python-net/groupdocs.metadata.common/metadataproperty) satisfies the specification. |
+| [`both(self, other)`](/metadata/python-net/groupdocs.metadata.search/fallsintocategoryspecification/both/#groupdocs.metadata.search.specification) | Combines two search specifications using the logical AND operator. |
+| [`either(self, other)`](/metadata/python-net/groupdocs.metadata.search/fallsintocategoryspecification/either/#groupdocs.metadata.search.specification) | Combines two search specifications using the logical OR operator. |
+| [`is_not(self)`](/metadata/python-net/groupdocs.metadata.search/fallsintocategoryspecification/is_not/#) | Negates the specification. |
 
 
 

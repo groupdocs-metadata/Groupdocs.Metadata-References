@@ -3,9 +3,9 @@ title: serial_number property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 1000
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/serial_number/
 is_root: false
-weight: 1000
 ---
 
 ## serial_number property

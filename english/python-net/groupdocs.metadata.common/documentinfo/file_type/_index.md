@@ -3,9 +3,9 @@ title: file_type property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 30
 url: /python-net/groupdocs.metadata.common/documentinfo/file_type/
 is_root: false
-weight: 30
 ---
 
 ## file_type property

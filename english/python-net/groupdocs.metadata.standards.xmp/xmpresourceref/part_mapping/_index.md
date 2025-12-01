@@ -3,9 +3,9 @@ title: part_mapping property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 250
 url: /python-net/groupdocs.metadata.standards.xmp/xmpresourceref/part_mapping/
 is_root: false
-weight: 250
 ---
 
 ## part_mapping property

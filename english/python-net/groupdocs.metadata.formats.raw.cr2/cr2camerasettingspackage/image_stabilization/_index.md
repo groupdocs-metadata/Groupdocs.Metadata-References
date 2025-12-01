@@ -3,9 +3,9 @@ title: image_stabilization property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 330
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2camerasettingspackage/image_stabilization/
 is_root: false
-weight: 330
 ---
 
 ## image_stabilization property

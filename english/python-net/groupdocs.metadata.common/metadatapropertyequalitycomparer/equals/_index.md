@@ -3,12 +3,12 @@ title: equals method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 20
 url: /python-net/groupdocs.metadata.common/metadatapropertyequalitycomparer/equals/
 is_root: false
-weight: 20
 ---
 
-## equals {#groupdocs.metadata.common.MetadataProperty-groupdocs.metadata.common.MetadataProperty}
+## equals(self, x, y) {#groupdocs.metadata.common.MetadataProperty-groupdocs.metadata.common.MetadataProperty}
 
 Determines whether the specified objects are equal.
 
@@ -20,6 +20,7 @@ Determines whether the specified objects are equal.
 
 
 ```python
+
 def equals(self, x, y):
     ...
 ```

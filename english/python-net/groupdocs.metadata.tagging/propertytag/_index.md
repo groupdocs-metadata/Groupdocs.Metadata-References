@@ -3,9 +3,9 @@ title: PropertyTag class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 70
 url: /python-net/groupdocs.metadata.tagging/propertytag/
 is_root: false
-weight: 70
 ---
 
 ## PropertyTag class
@@ -25,7 +25,7 @@ The PropertyTag type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [equals](/metadata/python-net/groupdocs.metadata.tagging/propertytag/equals/#groupdocs.metadata.tagging.PropertyTag) | Indicates whether the current object is equal to another object of the same type. |
+| [`equals(self, other)`](/metadata/python-net/groupdocs.metadata.tagging/propertytag/equals/#groupdocs.metadata.tagging.propertytag) | Indicates whether the current object is equal to another object of the same type. |
 
 
 

@@ -3,9 +3,9 @@ title: title property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 670
 url: /python-net/groupdocs.metadata.formats.ebook/epubpackage/title/
 is_root: false
-weight: 670
 ---
 
 ## title property

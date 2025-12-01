@@ -3,9 +3,9 @@ title: video_alpha_premultiple_color property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 610
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/video_alpha_premultiple_color/
 is_root: false
-weight: 610
 ---
 
 ## video_alpha_premultiple_color property

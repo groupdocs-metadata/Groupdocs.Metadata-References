@@ -3,9 +3,9 @@ title: instrument property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 400
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/instrument/
 is_root: false
-weight: 400
 ---
 
 ## instrument property

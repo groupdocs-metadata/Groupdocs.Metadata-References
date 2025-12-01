@@ -3,9 +3,9 @@ title: last_modify_date property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 180
 url: /python-net/groupdocs.metadata.standards.xmp/xmpresourceref/last_modify_date/
 is_root: false
-weight: 180
 ---
 
 ## last_modify_date property

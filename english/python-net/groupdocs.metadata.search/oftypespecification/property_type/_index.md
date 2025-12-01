@@ -3,9 +3,9 @@ title: property_type property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 70
 url: /python-net/groupdocs.metadata.search/oftypespecification/property_type/
 is_root: false
-weight: 70
 ---
 
 ## property_type property

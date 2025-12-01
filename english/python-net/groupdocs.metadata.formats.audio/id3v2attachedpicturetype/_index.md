@@ -3,9 +3,9 @@ title: ID3V2AttachedPictureType enumeration
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 220
 url: /python-net/groupdocs.metadata.formats.audio/id3v2attachedpicturetype/
 is_root: false
-weight: 220
 ---
 
 ## ID3V2AttachedPictureType enumeration

@@ -3,9 +3,9 @@ title: interoperability_ifd_pointer property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 510
 url: /python-net/groupdocs.metadata.formats.raw/rawexiftagpackage/interoperability_ifd_pointer/
 is_root: false
-weight: 510
 ---
 
 ## interoperability_ifd_pointer property

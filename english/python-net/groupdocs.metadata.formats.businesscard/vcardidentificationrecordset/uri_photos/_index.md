@@ -3,9 +3,9 @@ title: uri_photos property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 360
 url: /python-net/groupdocs.metadata.formats.businesscard/vcardidentificationrecordset/uri_photos/
 is_root: false
-weight: 360
 ---
 
 ## uri_photos property

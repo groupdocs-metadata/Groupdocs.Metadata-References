@@ -3,9 +3,9 @@ title: pf29_quick_dial_switch_off property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 350
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2personalfuncspackage/pf29_quick_dial_switch_off/
 is_root: false
-weight: 350
 ---
 
 ## pf29_quick_dial_switch_off property

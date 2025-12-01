@@ -3,9 +3,9 @@ title: user_comment property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 980
 url: /python-net/groupdocs.metadata.formats.raw/rawexiftagpackage/user_comment/
 is_root: false
-weight: 980
 ---
 
 ## user_comment property

@@ -3,18 +3,19 @@ title: trace method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 20
 url: /python-net/groupdocs.metadata.logging/ilogger/trace/
 is_root: false
-weight: 20
 ---
 
-## trace {#System.String}
+## trace(self, message) {#System.String}
 
 Writes trace log message; Trace log messages provides generally useful information about application flow.
 
 
 
 ```python
+
 def trace(self, message):
     ...
 ```

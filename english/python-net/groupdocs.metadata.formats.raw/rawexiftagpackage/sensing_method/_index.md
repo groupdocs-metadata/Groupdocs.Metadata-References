@@ -3,9 +3,9 @@ title: sensing_method property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 810
 url: /python-net/groupdocs.metadata.formats.raw/rawexiftagpackage/sensing_method/
 is_root: false
-weight: 810
 ---
 
 ## sensing_method property

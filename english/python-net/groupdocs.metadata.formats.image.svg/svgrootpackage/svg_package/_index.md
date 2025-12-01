@@ -3,9 +3,9 @@ title: svg_package property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 150
 url: /python-net/groupdocs.metadata.formats.image.svg/svgrootpackage/svg_package/
 is_root: false
-weight: 150
 ---
 
 ## svg_package property

@@ -3,9 +3,9 @@ title: groupdocs.metadata.export
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.export/
 is_root: false
-weight: 10
 ---
 
 The namespace contains classes that allow users to export metadata properties to different representations.

@@ -3,9 +3,9 @@ title: photo_binary_records property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 300
 url: /python-net/groupdocs.metadata.formats.businesscard/vcardidentificationrecordset/photo_binary_records/
 is_root: false
-weight: 300
 ---
 
 ## photo_binary_records property

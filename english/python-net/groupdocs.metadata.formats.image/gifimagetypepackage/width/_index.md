@@ -3,15 +3,21 @@ title: width property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 200
 url: /python-net/groupdocs.metadata.formats.image/gifimagetypepackage/width/
 is_root: false
-weight: 200
 ---
 
 ## width property
 
 
 Gets the image width.
+### Definition:
+```python
+@property
+def width(self):
+    ...
+```
 
 ### See Also
 * module [`groupdocs.metadata.formats.image`](../../)

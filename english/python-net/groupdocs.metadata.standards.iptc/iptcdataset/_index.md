@@ -3,9 +3,9 @@ title: IptcDataSet class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 30
 url: /python-net/groupdocs.metadata.standards.iptc/iptcdataset/
 is_root: false
-weight: 30
 ---
 
 ## IptcDataSet class
@@ -24,10 +24,10 @@ The IptcDataSet type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset/__init__/#int-int-bytes) | Initializes a new instance of the [`IptcDataSet`](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset) class. |
-| [__init__](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset/__init__/#int-int-System.String) | Initializes a new instance of the [`IptcDataSet`](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset) class. |
-| [__init__](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset/__init__/#int-int-int) | Initializes a new instance of the [`IptcDataSet`](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset) class. |
-| [__init__](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset/__init__/#int-int-System.DateTime) | Initializes a new instance of the [`IptcDataSet`](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset) class. |
+| [`__init__(self, record_number, data_set_number, value)`](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset/__init__/#int-int-bytes) | Initializes a new instance of the [`IptcDataSet`](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset) class. |
+| [`__init__(self, record_number, data_set_number, value)`](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset/__init__/#int-int-system.string) | Initializes a new instance of the [`IptcDataSet`](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset) class. |
+| [`__init__(self, record_number, data_set_number, value)`](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset/__init__/#int-int-int) | Initializes a new instance of the [`IptcDataSet`](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset) class. |
+| [`__init__(self, record_number, data_set_number, value)`](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset/__init__/#int-int-system.datetime) | Initializes a new instance of the [`IptcDataSet`](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset) class. |
 
 
 ### Properties

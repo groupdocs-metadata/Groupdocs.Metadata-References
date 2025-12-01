@@ -3,9 +3,9 @@ title: array_type property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 60
 url: /python-net/groupdocs.metadata.standards.xmp/xmparray/array_type/
 is_root: false
-weight: 60
 ---
 
 ## array_type property

@@ -3,9 +3,9 @@ title: offset_time_original property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 690
 url: /python-net/groupdocs.metadata.formats.raw/rawexiftagpackage/offset_time_original/
 is_root: false
-weight: 690
 ---
 
 ## offset_time_original property

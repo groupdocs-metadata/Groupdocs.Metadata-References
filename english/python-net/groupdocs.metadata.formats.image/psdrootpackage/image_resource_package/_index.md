@@ -3,9 +3,9 @@ title: image_resource_package property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 130
 url: /python-net/groupdocs.metadata.formats.image/psdrootpackage/image_resource_package/
 is_root: false
-weight: 130
 ---
 
 ## image_resource_package property

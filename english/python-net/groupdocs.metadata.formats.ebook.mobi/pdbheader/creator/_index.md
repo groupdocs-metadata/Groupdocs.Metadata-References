@@ -3,9 +3,9 @@ title: creator property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 140
 url: /python-net/groupdocs.metadata.formats.ebook.mobi/pdbheader/creator/
 is_root: false
-weight: 140
 ---
 
 ## creator property

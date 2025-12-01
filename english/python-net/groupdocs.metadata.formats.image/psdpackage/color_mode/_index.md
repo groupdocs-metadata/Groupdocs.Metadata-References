@@ -3,9 +3,9 @@ title: color_mode property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 110
 url: /python-net/groupdocs.metadata.formats.image/psdpackage/color_mode/
 is_root: false
-weight: 110
 ---
 
 ## color_mode property

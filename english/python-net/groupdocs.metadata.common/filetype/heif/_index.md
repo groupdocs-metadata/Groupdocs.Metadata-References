@@ -3,9 +3,9 @@ title: HEIF property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 390
 url: /python-net/groupdocs.metadata.common/filetype/heif/
 is_root: false
-weight: 390
 ---
 
 ## HEIF property
@@ -15,6 +15,10 @@ An HEIF file is a High-Efficiency Container Image file format that is capable of
 HEIF file format compresses the images using the High Efficiency Video Coding (HEVC) standard.
 Learn more about this file format
 [here](https://docs.fileformat.com/image/heif/).
+### Definition:
+```python
+f HEIF 
+```
 
 ### See Also
 * module [`groupdocs.metadata.common`](../../)

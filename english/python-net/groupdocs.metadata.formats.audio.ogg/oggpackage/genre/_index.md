@@ -3,9 +3,9 @@ title: genre property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 170
 url: /python-net/groupdocs.metadata.formats.audio.ogg/oggpackage/genre/
 is_root: false
-weight: 170
 ---
 
 ## genre property

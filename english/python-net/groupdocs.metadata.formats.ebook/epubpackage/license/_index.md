@@ -3,9 +3,9 @@ title: license property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 480
 url: /python-net/groupdocs.metadata.formats.ebook/epubpackage/license/
 is_root: false
-weight: 480
 ---
 
 ## license property

@@ -3,12 +3,12 @@ title: get_document_info method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 60
 url: /python-net/groupdocs.metadata/metadata/get_document_info/
 is_root: false
-weight: 60
 ---
 
-## get_document_info {#}
+## get_document_info(self) {#}
 
 Gets common information about the loaded document.
 
@@ -20,12 +20,17 @@ An object representing common document information.
 
 
 ```python
+
 def get_document_info(self):
     ...
 ```
 
 
+### Remarks
 
+**Learn more** |
+|
+ |
 ### Example 
 
 

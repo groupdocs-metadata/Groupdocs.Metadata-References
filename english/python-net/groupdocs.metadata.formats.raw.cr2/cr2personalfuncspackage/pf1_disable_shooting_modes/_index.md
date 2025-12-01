@@ -3,9 +3,9 @@ title: pf1_disable_shooting_modes property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 260
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2personalfuncspackage/pf1_disable_shooting_modes/
 is_root: false
-weight: 260
 ---
 
 ## pf1_disable_shooting_modes property

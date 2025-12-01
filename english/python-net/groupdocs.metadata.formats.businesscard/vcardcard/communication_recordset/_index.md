@@ -3,9 +3,9 @@ title: communication_recordset property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 160
 url: /python-net/groupdocs.metadata.formats.businesscard/vcardcard/communication_recordset/
 is_root: false
-weight: 160
 ---
 
 ## communication_recordset property

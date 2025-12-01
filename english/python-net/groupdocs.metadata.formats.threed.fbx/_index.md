@@ -3,9 +3,9 @@ title: groupdocs.metadata.formats.threed.fbx
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.formats.threed.fbx/
 is_root: false
-weight: 10
 ---
 
 

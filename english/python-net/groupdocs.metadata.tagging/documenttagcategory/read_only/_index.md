@@ -3,9 +3,9 @@ title: read_only property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 80
 url: /python-net/groupdocs.metadata.tagging/documenttagcategory/read_only/
 is_root: false
-weight: 80
 ---
 
 ## read_only property

@@ -3,9 +3,9 @@ title: mpeg_audio_version property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 230
 url: /python-net/groupdocs.metadata.formats.mpeg/mpegaudiopackage/mpeg_audio_version/
 is_root: false
-weight: 230
 ---
 
 ## mpeg_audio_version property

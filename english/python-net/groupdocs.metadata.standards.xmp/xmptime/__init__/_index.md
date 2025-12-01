@@ -3,18 +3,19 @@ title: XmpTime constructor
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.standards.xmp/xmptime/__init__/
 is_root: false
-weight: 10
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Initializes a new instance of the [`XmpTime`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmptime) class.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,13 +23,14 @@ def __init__(self):
 
 
 
-## __init__ {#groupdocs.metadata.standards.xmp.XmpRational-int}
+## \_\_init\_\_(self, scale, value) {#groupdocs.metadata.standards.xmp.XmpRational-int}
 
 Initializes a new instance of the [`XmpTime`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmptime) class.
 
 
 
 ```python
+
 def __init__(self, scale, value):
     ...
 ```

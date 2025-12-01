@@ -3,9 +3,9 @@ title: XmpInteger class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 170
 url: /python-net/groupdocs.metadata.standards.xmp/xmpinteger/
 is_root: false
-weight: 170
 ---
 
 ## XmpInteger class
@@ -25,9 +25,9 @@ The XmpInteger type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpinteger/__init__/#int) | Initializes a new instance of the [`XmpInteger`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpinteger) class. |
-| [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpinteger/__init__/#int) | Initializes a new instance of the [`XmpInteger`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpinteger) class. |
-| [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpinteger/__init__/#System.String) | Initializes a new instance of the [`XmpInteger`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpinteger) class. |
+| [`__init__(self, value)`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpinteger/__init__/#int) | Initializes a new instance of the [`XmpInteger`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpinteger) class. |
+| [`__init__(self, value)`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpinteger/__init__/#int) | Initializes a new instance of the [`XmpInteger`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpinteger) class. |
+| [`__init__(self, value)`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpinteger/__init__/#system.string) | Initializes a new instance of the [`XmpInteger`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpinteger) class. |
 
 
 ### Properties
@@ -41,8 +41,8 @@ The XmpInteger type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [accept_value](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpinteger/accept_value/#groupdocs.metadata.common.ValueAcceptor) | Extracts the property value using a custom [`ValueAcceptor`](/metadata/python-net/groupdocs.metadata.common/valueacceptor). |
-| [get_xmp_representation](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpinteger/get_xmp_representation/#) | Returns string contained value in XMP format. |
+| [`accept_value(self, value_acceptor)`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpinteger/accept_value/#groupdocs.metadata.common.valueacceptor) | Extracts the property value using a custom [`ValueAcceptor`](/metadata/python-net/groupdocs.metadata.common/valueacceptor). |
+| [`get_xmp_representation(self)`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpinteger/get_xmp_representation/#) | Returns string contained value in XMP format. |
 
 
 

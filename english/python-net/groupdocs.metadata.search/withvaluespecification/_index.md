@@ -3,9 +3,9 @@ title: WithValueSpecification class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 100
 url: /python-net/groupdocs.metadata.search/withvaluespecification/
 is_root: false
-weight: 100
 ---
 
 ## WithValueSpecification class
@@ -24,7 +24,7 @@ The WithValueSpecification type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.search/withvaluespecification/__init__/#System.Object) | Initializes a new instance of the [`WithNameSpecification`](/metadata/python-net/groupdocs.metadata.search/withnamespecification) class. |
+| [`__init__(self, property_value)`](/metadata/python-net/groupdocs.metadata.search/withvaluespecification/__init__/#system.object) | Initializes a new instance of the [`WithNameSpecification`](/metadata/python-net/groupdocs.metadata.search/withnamespecification) class. |
 
 
 ### Properties
@@ -36,10 +36,10 @@ The WithValueSpecification type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [is_satisfied_by](/metadata/python-net/groupdocs.metadata.search/withvaluespecification/is_satisfied_by/#groupdocs.metadata.common.MetadataProperty) | Verifies whether a [`MetadataProperty`](/metadata/python-net/groupdocs.metadata.common/metadataproperty) satisfies the specification. |
-| [both](/metadata/python-net/groupdocs.metadata.search/withvaluespecification/both/#groupdocs.metadata.search.Specification) | Combines two search specifications using the logical AND operator. |
-| [either](/metadata/python-net/groupdocs.metadata.search/withvaluespecification/either/#groupdocs.metadata.search.Specification) | Combines two search specifications using the logical OR operator. |
-| [is_not](/metadata/python-net/groupdocs.metadata.search/withvaluespecification/is_not/#) | Negates the specification. |
+| [`is_satisfied_by(self, candidate)`](/metadata/python-net/groupdocs.metadata.search/withvaluespecification/is_satisfied_by/#groupdocs.metadata.common.metadataproperty) | Verifies whether a [`MetadataProperty`](/metadata/python-net/groupdocs.metadata.common/metadataproperty) satisfies the specification. |
+| [`both(self, other)`](/metadata/python-net/groupdocs.metadata.search/withvaluespecification/both/#groupdocs.metadata.search.specification) | Combines two search specifications using the logical AND operator. |
+| [`either(self, other)`](/metadata/python-net/groupdocs.metadata.search/withvaluespecification/either/#groupdocs.metadata.search.specification) | Combines two search specifications using the logical OR operator. |
+| [`is_not(self)`](/metadata/python-net/groupdocs.metadata.search/withvaluespecification/is_not/#) | Negates the specification. |
 
 
 

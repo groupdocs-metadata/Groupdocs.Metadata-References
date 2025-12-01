@@ -3,18 +3,19 @@ title: TiffSRationalTag constructor
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.formats.image/tiffsrationaltag/__init__/
 is_root: false
-weight: 10
 ---
 
-## __init__ {#groupdocs.metadata.formats.image.TiffTagID-list}
+## \_\_init\_\_(self, tag_id, value) {#groupdocs.metadata.formats.image.TiffTagID-list}
 
 Initializes a new instance of the [`TiffSRationalTag`](/metadata/python-net/groupdocs.metadata.formats.image/tiffsrationaltag) class.
 
 
 
 ```python
+
 def __init__(self, tag_id, value):
     ...
 ```

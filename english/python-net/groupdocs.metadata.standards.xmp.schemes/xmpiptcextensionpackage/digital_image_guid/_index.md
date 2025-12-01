@@ -3,9 +3,9 @@ title: digital_image_guid property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 170
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpiptcextensionpackage/digital_image_guid/
 is_root: false
-weight: 170
 ---
 
 ## digital_image_guid property

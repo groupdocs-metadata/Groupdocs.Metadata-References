@@ -3,9 +3,9 @@ title: Cr2ShotInfoIndex enumeration
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 550
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2shotinfoindex/
 is_root: false
-weight: 550
 ---
 
 ## Cr2ShotInfoIndex enumeration

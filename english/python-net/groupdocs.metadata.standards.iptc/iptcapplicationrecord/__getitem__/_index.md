@@ -3,9 +3,9 @@ title: IptcApplicationRecord indexer
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 100
 url: /python-net/groupdocs.metadata.standards.iptc/iptcapplicationrecord/__getitem__/
 is_root: false
-weight: 100
 ---
 
 ## IptcApplicationRecord indexer

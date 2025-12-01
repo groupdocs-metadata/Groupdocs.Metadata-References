@@ -3,18 +3,19 @@ title: set method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 110
 url: /python-net/groupdocs.metadata.formats.document/diagrampackage/set/
 is_root: false
-weight: 110
 ---
 
-## set {#System.String-System.String}
+## set(self, property_name, value) {#System.String-System.String}
 
 Adds or replaces the metadata property with the specified name.
 
 
 
 ```python
+
 def set(self, property_name, value):
     ...
 ```
@@ -26,13 +27,14 @@ def set(self, property_name, value):
 | value | System.String | The property value. |
 
 
-## set {#System.String-bool}
+## set(self, property_name, value) {#System.String-bool}
 
 Adds or replaces the metadata property with the specified name.
 
 
 
 ```python
+
 def set(self, property_name, value):
     ...
 ```
@@ -44,13 +46,14 @@ def set(self, property_name, value):
 | value | bool | The property value. |
 
 
-## set {#System.String-float}
+## set(self, property_name, value) {#System.String-float}
 
 Adds or replaces the metadata property with the specified name.
 
 
 
 ```python
+
 def set(self, property_name, value):
     ...
 ```
@@ -62,13 +65,14 @@ def set(self, property_name, value):
 | value | float | The property value. |
 
 
-## set {#System.String-System.DateTime}
+## set(self, property_name, value) {#System.String-System.DateTime}
 
 Adds or replaces the metadata property with the specified name.
 
 
 
 ```python
+
 def set(self, property_name, value):
     ...
 ```

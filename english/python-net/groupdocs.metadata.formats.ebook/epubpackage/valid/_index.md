@@ -3,9 +3,9 @@ title: valid property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 700
 url: /python-net/groupdocs.metadata.formats.ebook/epubpackage/valid/
 is_root: false
-weight: 700
 ---
 
 ## valid property

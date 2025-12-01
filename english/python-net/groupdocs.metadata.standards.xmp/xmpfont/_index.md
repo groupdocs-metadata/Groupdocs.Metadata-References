@@ -3,9 +3,9 @@ title: XmpFont class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 140
 url: /python-net/groupdocs.metadata.standards.xmp/xmpfont/
 is_root: false
-weight: 140
 ---
 
 ## XmpFont class
@@ -27,8 +27,8 @@ The XmpFont type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpfont/__init__/#) | Initializes a new instance of the [`XmpFont`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpfont) class. |
-| [__init__](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpfont/__init__/#System.String) | Initializes a new instance of the [`XmpFont`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpfont) class. |
+| [`__init__(self)`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpfont/__init__/#) | Initializes a new instance of the [`XmpFont`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpfont) class. |
+| [`__init__(self, font_family)`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpfont/__init__/#system.string) | Initializes a new instance of the [`XmpFont`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpfont) class. |
 
 
 ### Properties
@@ -53,15 +53,15 @@ The XmpFont type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [contains](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpfont/contains/#System.String) | Determines whether the package contains a metadata property with the specified name. |
-| [find_properties](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpfont/find_properties/#groupdocs.metadata.search.Specification) | Finds the metadata properties satisfying a specification. <br/>The search is recursive so it affects all nested packages as well. |
-| [update_properties](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpfont/update_properties/#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue) | Updates known metadata properties satisfying a specification.<br/>The operation is recursive so it affects all nested packages as well. |
-| [remove_properties](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpfont/remove_properties/#groupdocs.metadata.search.Specification) | Removes metadata properties satisfying a specification. |
-| [add_properties](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpfont/add_properties/#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue) | Adds known metadata properties satisfying the specification.<br/>The operation is recursive so it affects all nested packages as well. |
-| [set_properties](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpfont/set_properties/#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue) | Sets known metadata properties satisfying the specification.<br/>The operation is recursive so it affects all nested packages as well.<br/>This method is a combination of [`MetadataPackage.add_properties`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/add_properties) and [`MetadataPackage.update_properties`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/update_properties). <br/>If an existing property satisfies the specification its value is updated. <br/>If there is a known property missing in the package that satisfies the specification it is added to the package. |
-| [sanitize](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpfont/sanitize/#) | Removes writable metadata properties from the package.<br/>The operation is recursive so it affects all nested packages as well. |
-| [get_xmp_representation](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpfont/get_xmp_representation/#) | Returns string contained value in XMP format. |
-| [get_namespace_uri](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpfont/get_namespace_uri/#System.String) | Gets the namespace URI associated with the specified prefix. |
+| [`contains(self, property_name)`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpfont/contains/#system.string) | Determines whether the package contains a metadata property with the specified name. |
+| [`find_properties(self, specification)`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpfont/find_properties/#groupdocs.metadata.search.specification) | Finds the metadata properties satisfying a specification. <br/>The search is recursive so it affects all nested packages as well. |
+| [`update_properties(self, specification, value)`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpfont/update_properties/#groupdocs.metadata.search.specification-groupdocs.metadata.common.propertyvalue) | Updates known metadata properties satisfying a specification.<br/>The operation is recursive so it affects all nested packages as well. |
+| [`remove_properties(self, specification)`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpfont/remove_properties/#groupdocs.metadata.search.specification) | Removes metadata properties satisfying a specification. |
+| [`add_properties(self, specification, value)`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpfont/add_properties/#groupdocs.metadata.search.specification-groupdocs.metadata.common.propertyvalue) | Adds known metadata properties satisfying the specification.<br/>The operation is recursive so it affects all nested packages as well. |
+| [`set_properties(self, specification, value)`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpfont/set_properties/#groupdocs.metadata.search.specification-groupdocs.metadata.common.propertyvalue) | Sets known metadata properties satisfying the specification.<br/>The operation is recursive so it affects all nested packages as well.<br/>This method is a combination of [`MetadataPackage.add_properties`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/add_properties) and [`MetadataPackage.update_properties`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/update_properties). <br/>If an existing property satisfies the specification its value is updated. <br/>If there is a known property missing in the package that satisfies the specification it is added to the package. |
+| [`sanitize(self)`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpfont/sanitize/#) | Removes writable metadata properties from the package.<br/>The operation is recursive so it affects all nested packages as well. |
+| [`get_xmp_representation(self)`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpfont/get_xmp_representation/#) | Returns string contained value in XMP format. |
+| [`get_namespace_uri(self, prefix)`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpfont/get_namespace_uri/#system.string) | Gets the namespace URI associated with the specified prefix. |
 
 
 

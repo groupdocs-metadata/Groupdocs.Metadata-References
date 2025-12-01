@@ -3,12 +3,12 @@ title: remove method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 60
 url: /python-net/groupdocs.metadata.standards.exif/exifgpspackage/remove/
 is_root: false
-weight: 60
 ---
 
-## remove {#groupdocs.metadata.formats.image.TiffTagID}
+## remove(self, tag_id) {#groupdocs.metadata.formats.image.TiffTagID}
 
 Removes the property with the specified id.
 
@@ -20,6 +20,7 @@ True if the specified TIFF tag is found and removed; otherwise, false.
 
 
 ```python
+
 def remove(self, tag_id):
     ...
 ```

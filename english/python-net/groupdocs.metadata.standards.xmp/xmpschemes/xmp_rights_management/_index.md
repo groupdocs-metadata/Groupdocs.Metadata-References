@@ -3,9 +3,9 @@ title: xmp_rights_management property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 120
 url: /python-net/groupdocs.metadata.standards.xmp/xmpschemes/xmp_rights_management/
 is_root: false
-weight: 120
 ---
 
 ## xmp_rights_management property

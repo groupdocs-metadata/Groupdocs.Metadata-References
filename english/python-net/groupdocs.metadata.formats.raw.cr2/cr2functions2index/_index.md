@@ -3,9 +3,9 @@ title: Cr2Functions2Index enumeration
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 430
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2functions2index/
 is_root: false
-weight: 430
 ---
 
 ## Cr2Functions2Index enumeration

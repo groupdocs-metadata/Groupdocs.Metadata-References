@@ -3,9 +3,9 @@ title: text_encoding property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 180
 url: /python-net/groupdocs.metadata.formats.audio/id3v2textframe/text_encoding/
 is_root: false
-weight: 180
 ---
 
 ## text_encoding property

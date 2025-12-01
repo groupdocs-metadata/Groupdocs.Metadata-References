@@ -3,9 +3,9 @@ title: pixel_crop_left property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 270
 url: /python-net/groupdocs.metadata.formats.video/matroskavideotrack/pixel_crop_left/
 is_root: false
-weight: 270
 ---
 
 ## pixel_crop_left property

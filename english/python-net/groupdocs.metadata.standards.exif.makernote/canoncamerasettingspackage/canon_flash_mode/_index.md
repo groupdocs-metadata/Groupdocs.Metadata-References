@@ -3,9 +3,9 @@ title: canon_flash_mode property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 130
 url: /python-net/groupdocs.metadata.standards.exif.makernote/canoncamerasettingspackage/canon_flash_mode/
 is_root: false
-weight: 130
 ---
 
 ## canon_flash_mode property

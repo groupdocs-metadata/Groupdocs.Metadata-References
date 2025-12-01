@@ -3,9 +3,9 @@ title: FB2 property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 300
 url: /python-net/groupdocs.metadata.common/filetype/fb2/
 is_root: false
-weight: 300
 ---
 
 ## FB2 property
@@ -18,6 +18,10 @@ The format accommodates all the metadata as well as content in itself and allows
 In short, it focuses on describing the structure of the file instead of specifying its appearance.
 Several applications as well as APIs are available to convert FB2 to several other formats on Windows, MacOS, and Linux.
 Learn more about this file format [here](https://docs.fileformat.com/ebook/fb2/).
+### Definition:
+```python
+f FB2 
+```
 
 ### See Also
 * module [`groupdocs.metadata.common`](../../)

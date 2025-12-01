@@ -3,18 +3,19 @@ title: set method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 90
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2personalfuncvaluespackage/set/
 is_root: false
-weight: 90
 ---
 
-## set {#groupdocs.metadata.formats.raw.tag.RawTag}
+## set(self, tag) {#groupdocs.metadata.formats.raw.tag.RawTag}
 
 Adds or replaces the specified tag.
 
 
 
 ```python
+
 def set(self, tag):
     ...
 ```

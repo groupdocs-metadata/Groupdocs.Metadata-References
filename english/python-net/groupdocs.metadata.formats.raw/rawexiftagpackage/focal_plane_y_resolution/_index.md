@@ -3,9 +3,9 @@ title: focal_plane_y_resolution property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 460
 url: /python-net/groupdocs.metadata.formats.raw/rawexiftagpackage/focal_plane_y_resolution/
 is_root: false
-weight: 460
 ---
 
 ## focal_plane_y_resolution property

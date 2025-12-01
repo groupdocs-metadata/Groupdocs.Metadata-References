@@ -3,12 +3,12 @@ title: find_properties method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 70
 url: /python-net/groupdocs.metadata.formats.document/documentpackage/find_properties/
 is_root: false
-weight: 70
 ---
 
-## find_properties {#groupdocs.metadata.search.Specification}
+## find_properties(self, specification) {#groupdocs.metadata.search.Specification}
 
 Finds the metadata properties satisfying a specification. 
 The search is recursive so it affects all nested packages as well.
@@ -21,6 +21,7 @@ A collection that contains properties from the package that satisfy the conditio
 
 
 ```python
+
 def find_properties(self, specification):
     ...
 ```

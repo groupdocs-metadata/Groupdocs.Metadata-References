@@ -3,9 +3,9 @@ title: cr_2_personal_func_values property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 510
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/cr_2_personal_func_values/
 is_root: false
-weight: 510
 ---
 
 ## cr_2_personal_func_values property

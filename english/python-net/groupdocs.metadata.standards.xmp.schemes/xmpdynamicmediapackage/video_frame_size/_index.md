@@ -3,9 +3,9 @@ title: video_frame_size property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 640
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/video_frame_size/
 is_root: false
-weight: 640
 ---
 
 ## video_frame_size property

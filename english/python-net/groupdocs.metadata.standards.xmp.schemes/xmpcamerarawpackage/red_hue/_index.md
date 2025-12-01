@@ -3,9 +3,9 @@ title: red_hue property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 480
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/red_hue/
 is_root: false
-weight: 480
 ---
 
 ## red_hue property

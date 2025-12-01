@@ -3,9 +3,9 @@ title: owner_name property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 940
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/owner_name/
 is_root: false
-weight: 940
 ---
 
 ## owner_name property

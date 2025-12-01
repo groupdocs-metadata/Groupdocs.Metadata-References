@@ -3,9 +3,9 @@ title: members property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 200
 url: /python-net/groupdocs.metadata.formats.businesscard/vcardorganizationalrecordset/members/
 is_root: false
-weight: 200
 ---
 
 ## members property

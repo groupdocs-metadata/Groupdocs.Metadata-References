@@ -3,9 +3,9 @@ title: RawUndefinedTag class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 350
 url: /python-net/groupdocs.metadata.formats.image/rawundefinedtag/
 is_root: false
-weight: 350
 ---
 
 ## RawUndefinedTag class
@@ -25,7 +25,7 @@ The RawUndefinedTag type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.formats.image/rawundefinedtag/__init__/#int-bytes) | Initializes a new instance of the [`RawUndefinedTag`](/metadata/python-net/groupdocs.metadata.formats.image/rawundefinedtag) class. |
+| [`__init__(self, tag_id, value)`](/metadata/python-net/groupdocs.metadata.formats.image/rawundefinedtag/__init__/#int-bytes) | Initializes a new instance of the [`RawUndefinedTag`](/metadata/python-net/groupdocs.metadata.formats.image/rawundefinedtag) class. |
 
 
 ### Properties

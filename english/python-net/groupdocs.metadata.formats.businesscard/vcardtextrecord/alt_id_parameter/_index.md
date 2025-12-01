@@ -3,9 +3,9 @@ title: alt_id_parameter property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 110
 url: /python-net/groupdocs.metadata.formats.businesscard/vcardtextrecord/alt_id_parameter/
 is_root: false
-weight: 110
 ---
 
 ## alt_id_parameter property
@@ -17,6 +17,12 @@ Gets the alternative representations parameter value.
 
 
 Used to "tag" property instances as being alternative representations of the same logical property.
+### Definition:
+```python
+@property
+def alt_id_parameter(self):
+    ...
+```
 
 ### See Also
 * module [`groupdocs.metadata.formats.businesscard`](../../)

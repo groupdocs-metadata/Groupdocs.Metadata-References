@@ -3,12 +3,12 @@ title: remove method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 70
 url: /python-net/groupdocs.metadata.standards.iptc/iptcrecordset/remove/
 is_root: false
-weight: 70
 ---
 
-## remove {#int}
+## remove(self, record_number) {#int}
 
 Removes the record with the specified record number.
 
@@ -20,6 +20,7 @@ True if the specified IPTC record is found and removed; otherwise, false.
 
 
 ```python
+
 def remove(self, record_number):
     ...
 ```
@@ -30,7 +31,7 @@ def remove(self, record_number):
 | record_number | int | The record number. |
 
 
-## remove {#int-int}
+## remove(self, record_number, data_set_number) {#int-int}
 
 Removes the dataSet with the specified record and dataSet number.
 
@@ -42,6 +43,7 @@ True if the specified IPTC dataSet is found and removed; otherwise, false.
 
 
 ```python
+
 def remove(self, record_number, data_set_number):
     ...
 ```

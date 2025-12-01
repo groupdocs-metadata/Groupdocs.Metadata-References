@@ -3,9 +3,9 @@ title: Cr2ProcessingIndex enumeration
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 530
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2processingindex/
 is_root: false
-weight: 530
 ---
 
 ## Cr2ProcessingIndex enumeration

@@ -3,9 +3,9 @@ title: af_area_heights property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 140
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2afinfo2package/af_area_heights/
 is_root: false
-weight: 140
 ---
 
 ## af_area_heights property

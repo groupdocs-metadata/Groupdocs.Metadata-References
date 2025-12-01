@@ -3,9 +3,9 @@ title: gps_speed_ref property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 390
 url: /python-net/groupdocs.metadata.formats.raw/gpsifdpackage/gps_speed_ref/
 is_root: false
-weight: 390
 ---
 
 ## gps_speed_ref property

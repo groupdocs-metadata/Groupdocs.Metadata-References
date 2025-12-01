@@ -3,9 +3,9 @@ title: delivery_addressing_recordset property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 180
 url: /python-net/groupdocs.metadata.formats.businesscard/vcardcard/delivery_addressing_recordset/
 is_root: false
-weight: 180
 ---
 
 ## delivery_addressing_recordset property

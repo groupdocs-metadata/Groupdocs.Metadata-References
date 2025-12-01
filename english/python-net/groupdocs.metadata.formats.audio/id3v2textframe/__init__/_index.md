@@ -3,18 +3,19 @@ title: ID3V2TextFrame constructor
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.formats.audio/id3v2textframe/__init__/
 is_root: false
-weight: 10
 ---
 
-## __init__ {#System.String-groupdocs.metadata.formats.audio.ID3V2EncodingType-System.String}
+## \_\_init\_\_(self, id, encoding, value) {#System.String-groupdocs.metadata.formats.audio.ID3V2EncodingType-System.String}
 
 Initializes a new instance of the [`ID3V2TextFrame`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2textframe) class.
 
 
 
 ```python
+
 def __init__(self, id, encoding, value):
     ...
 ```

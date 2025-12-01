@@ -3,9 +3,9 @@ title: af_status_viewfinder property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 200
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2afconfigpackage/af_status_viewfinder/
 is_root: false
-weight: 200
 ---
 
 ## af_status_viewfinder property

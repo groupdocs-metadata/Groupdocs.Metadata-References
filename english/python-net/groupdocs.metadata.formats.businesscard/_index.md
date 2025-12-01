@@ -3,9 +3,9 @@ title: groupdocs.metadata.formats.businesscard
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.formats.businesscard/
 is_root: false
-weight: 10
 ---
 
 The namespace contains classes intended to work with electronic business card formats.

@@ -3,9 +3,9 @@ title: director property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 330
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/director/
 is_root: false
-weight: 330
 ---
 
 ## director property

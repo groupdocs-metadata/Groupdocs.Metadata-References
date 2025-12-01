@@ -3,15 +3,21 @@ title: data property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 120
 url: /python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe/data/
 is_root: false
-weight: 120
 ---
 
 ## data property
 
 
 Gets the frame data.
+### Definition:
+```python
+@property
+def data(self):
+    ...
+```
 
 ### See Also
 * module [`groupdocs.metadata.formats.audio`](../../)

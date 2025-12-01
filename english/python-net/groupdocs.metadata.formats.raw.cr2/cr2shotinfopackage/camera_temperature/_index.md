@@ -3,9 +3,9 @@ title: camera_temperature property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 210
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2shotinfopackage/camera_temperature/
 is_root: false
-weight: 210
 ---
 
 ## camera_temperature property

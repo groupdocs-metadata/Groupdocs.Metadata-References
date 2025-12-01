@@ -3,16 +3,23 @@ title: file_type property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 120
 url: /python-net/groupdocs.metadata.formats.threed.dae/daerootpackage/file_type/
 is_root: false
-weight: 120
 ---
 
 ## file_type property
 
 
 Gets the file type metadata package.
+### Definition:
+```python
+@property
+def file_type(self):
+    ...
+```
 
 ### See Also
 * module [`groupdocs.metadata.formats.threed.dae`](../../)
 * class [`DaeRootPackage`](/metadata/python-net/groupdocs.metadata.formats.threed.dae/daerootpackage)
+* class [`FileTypePackage`](/metadata/python-net/groupdocs.metadata.common/filetypepackage)

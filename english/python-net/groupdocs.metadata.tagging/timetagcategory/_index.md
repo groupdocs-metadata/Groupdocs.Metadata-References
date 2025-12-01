@@ -3,9 +3,9 @@ title: TimeTagCategory class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 110
 url: /python-net/groupdocs.metadata.tagging/timetagcategory/
 is_root: false
-weight: 110
 ---
 
 ## TimeTagCategory class

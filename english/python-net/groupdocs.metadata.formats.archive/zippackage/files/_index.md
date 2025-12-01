@@ -3,9 +3,9 @@ title: files property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 120
 url: /python-net/groupdocs.metadata.formats.archive/zippackage/files/
 is_root: false
-weight: 120
 ---
 
 ## files property

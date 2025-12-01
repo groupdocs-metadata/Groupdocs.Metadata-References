@@ -3,9 +3,9 @@ title: tag_alter_preservation property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 100
 url: /python-net/groupdocs.metadata.formats.audio/id3v2tagframeflags/tag_alter_preservation/
 is_root: false
-weight: 100
 ---
 
 ## tag_alter_preservation property

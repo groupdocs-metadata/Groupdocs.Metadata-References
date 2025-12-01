@@ -3,9 +3,9 @@ title: rights property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 600
 url: /python-net/groupdocs.metadata.formats.ebook/epubpackage/rights/
 is_root: false
-weight: 600
 ---
 
 ## rights property

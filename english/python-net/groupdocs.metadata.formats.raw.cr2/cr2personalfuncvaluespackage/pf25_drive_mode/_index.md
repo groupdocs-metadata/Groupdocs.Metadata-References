@@ -3,9 +3,9 @@ title: pf25_drive_mode property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 250
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2personalfuncvaluespackage/pf25_drive_mode/
 is_root: false
-weight: 250
 ---
 
 ## pf25_drive_mode property

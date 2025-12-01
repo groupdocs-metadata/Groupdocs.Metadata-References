@@ -3,9 +3,9 @@ title: MetadataProperty class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 80
 url: /python-net/groupdocs.metadata.common/metadataproperty/
 is_root: false
-weight: 80
 ---
 
 ## MetadataProperty class

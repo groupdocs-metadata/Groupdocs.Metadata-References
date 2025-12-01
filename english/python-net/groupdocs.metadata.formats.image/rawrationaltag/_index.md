@@ -3,9 +3,9 @@ title: RawRationalTag class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 280
 url: /python-net/groupdocs.metadata.formats.image/rawrationaltag/
 is_root: false
-weight: 280
 ---
 
 ## RawRationalTag class
@@ -25,7 +25,7 @@ The RawRationalTag type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.formats.image/rawrationaltag/__init__/#int-list) | Initializes a new instance of the [`RawRationalTag`](/metadata/python-net/groupdocs.metadata.formats.image/rawrationaltag) class. |
+| [`__init__(self, tag_id, value)`](/metadata/python-net/groupdocs.metadata.formats.image/rawrationaltag/__init__/#int-list) | Initializes a new instance of the [`RawRationalTag`](/metadata/python-net/groupdocs.metadata.formats.image/rawrationaltag) class. |
 
 
 ### Properties

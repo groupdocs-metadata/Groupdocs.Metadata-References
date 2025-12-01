@@ -3,9 +3,9 @@ title: picture_style_user_def property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 960
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2makernotepackage/picture_style_user_def/
 is_root: false
-weight: 960
 ---
 
 ## picture_style_user_def property

@@ -3,9 +3,9 @@ title: nickname_records property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 280
 url: /python-net/groupdocs.metadata.formats.businesscard/vcardidentificationrecordset/nickname_records/
 is_root: false
-weight: 280
 ---
 
 ## nickname_records property

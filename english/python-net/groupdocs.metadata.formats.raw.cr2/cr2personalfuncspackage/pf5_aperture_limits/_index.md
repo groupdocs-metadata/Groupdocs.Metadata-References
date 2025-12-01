@@ -3,9 +3,9 @@ title: pf5_aperture_limits property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 410
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2personalfuncspackage/pf5_aperture_limits/
 is_root: false
-weight: 410
 ---
 
 ## pf5_aperture_limits property

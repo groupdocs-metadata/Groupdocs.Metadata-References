@@ -3,9 +3,9 @@ title: uncompressed_size property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 170
 url: /python-net/groupdocs.metadata.formats.archive/sevenzipfile/uncompressed_size/
 is_root: false
-weight: 170
 ---
 
 ## uncompressed_size property

@@ -3,9 +3,9 @@ title: date_submitted property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 280
 url: /python-net/groupdocs.metadata.formats.ebook/epubpackage/date_submitted/
 is_root: false
-weight: 280
 ---
 
 ## date_submitted property

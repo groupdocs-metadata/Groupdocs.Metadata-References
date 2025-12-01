@@ -3,9 +3,9 @@ title: raw_ifd2_package property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 390
 url: /python-net/groupdocs.metadata.formats.raw/rawtifftagpackage/raw_ifd2_package/
 is_root: false
-weight: 390
 ---
 
 ## raw_ifd2_package property

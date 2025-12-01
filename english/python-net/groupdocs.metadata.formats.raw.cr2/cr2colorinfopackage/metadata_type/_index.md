@@ -3,16 +3,26 @@ title: metadata_type property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 180
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2colorinfopackage/metadata_type/
 is_root: false
-weight: 180
 ---
 
 ## metadata_type property
 
 
 Gets the metadata type.
+### Definition:
+```python
+@property
+def metadata_type(self):
+    ...
+@metadata_type.setter
+def metadata_type(self, value):
+    ...
+```
 
 ### See Also
 * module [`groupdocs.metadata.formats.raw.cr2`](../../)
 * class [`Cr2ColorInfoPackage`](/metadata/python-net/groupdocs.metadata.formats.raw.cr2/cr2colorinfopackage)
+* class [`MetadataType`](/metadata/python-net/groupdocs.metadata.common/metadatatype)

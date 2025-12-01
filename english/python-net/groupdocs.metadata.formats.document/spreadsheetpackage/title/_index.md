@@ -3,9 +3,9 @@ title: title property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 380
 url: /python-net/groupdocs.metadata.formats.document/spreadsheetpackage/title/
 is_root: false
-weight: 380
 ---
 
 ## title property

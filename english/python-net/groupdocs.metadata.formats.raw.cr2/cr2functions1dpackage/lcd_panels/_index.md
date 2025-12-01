@@ -3,9 +3,9 @@ title: lcd_panels property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 280
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2functions1dpackage/lcd_panels/
 is_root: false
-weight: 280
 ---
 
 ## lcd_panels property

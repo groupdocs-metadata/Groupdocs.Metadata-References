@@ -3,18 +3,19 @@ title: IptcDataSet constructor
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.standards.iptc/iptcdataset/__init__/
 is_root: false
-weight: 10
 ---
 
-## __init__ {#int-int-bytes}
+## \_\_init\_\_(self, record_number, data_set_number, value) {#int-int-bytes}
 
 Initializes a new instance of the [`IptcDataSet`](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset) class.
 
 
 
 ```python
+
 def __init__(self, record_number, data_set_number, value):
     ...
 ```
@@ -27,13 +28,14 @@ def __init__(self, record_number, data_set_number, value):
 | value | bytes | A byte array value. |
 
 
-## __init__ {#int-int-System.String}
+## \_\_init\_\_(self, record_number, data_set_number, value) {#int-int-System.String}
 
 Initializes a new instance of the [`IptcDataSet`](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset) class.
 
 
 
 ```python
+
 def __init__(self, record_number, data_set_number, value):
     ...
 ```
@@ -46,13 +48,14 @@ def __init__(self, record_number, data_set_number, value):
 | value | System.String | A string value. |
 
 
-## __init__ {#int-int-int}
+## \_\_init\_\_(self, record_number, data_set_number, value) {#int-int-int}
 
 Initializes a new instance of the [`IptcDataSet`](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset) class.
 
 
 
 ```python
+
 def __init__(self, record_number, data_set_number, value):
     ...
 ```
@@ -65,13 +68,14 @@ def __init__(self, record_number, data_set_number, value):
 | value | int | An integer value. |
 
 
-## __init__ {#int-int-System.DateTime}
+## \_\_init\_\_(self, record_number, data_set_number, value) {#int-int-System.DateTime}
 
 Initializes a new instance of the [`IptcDataSet`](/metadata/python-net/groupdocs.metadata.standards.iptc/iptcdataset) class.
 
 
 
 ```python
+
 def __init__(self, record_number, data_set_number, value):
     ...
 ```

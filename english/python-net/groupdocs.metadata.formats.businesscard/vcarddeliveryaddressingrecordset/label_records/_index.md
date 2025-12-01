@@ -3,9 +3,9 @@ title: label_records property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 140
 url: /python-net/groupdocs.metadata.formats.businesscard/vcarddeliveryaddressingrecordset/label_records/
 is_root: false
-weight: 140
 ---
 
 ## label_records property

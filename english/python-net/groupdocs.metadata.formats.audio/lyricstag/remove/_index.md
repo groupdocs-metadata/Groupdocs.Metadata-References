@@ -3,18 +3,19 @@ title: remove method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 60
 url: /python-net/groupdocs.metadata.formats.audio/lyricstag/remove/
 is_root: false
-weight: 60
 ---
 
-## remove {#System.String}
+## remove(self, id) {#System.String}
 
 Removes the field with the specified id.
 
 
 
 ```python
+
 def remove(self, id):
     ...
 ```

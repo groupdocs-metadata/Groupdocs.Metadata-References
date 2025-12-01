@@ -3,9 +3,9 @@ title: language property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 190
 url: /python-net/groupdocs.metadata.standards.dublincore/dublincorepackage/language/
 is_root: false
-weight: 190
 ---
 
 ## language property

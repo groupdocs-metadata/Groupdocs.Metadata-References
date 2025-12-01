@@ -3,9 +3,9 @@ title: digital_creation_date property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 210
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpiptciimpackage/digital_creation_date/
 is_root: false
-weight: 210
 ---
 
 ## digital_creation_date property

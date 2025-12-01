@@ -3,9 +3,9 @@ title: max_memory_for_cache property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 60
 url: /python-net/groupdocs.metadata.options/previewoptions/max_memory_for_cache/
 is_root: false
-weight: 60
 ---
 
 ## max_memory_for_cache property

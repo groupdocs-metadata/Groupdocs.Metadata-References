@@ -3,9 +3,9 @@ title: last_saved property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 270
 url: /python-net/groupdocs.metadata.formats.document/projectmanagementpackage/last_saved/
 is_root: false
-weight: 270
 ---
 
 ## last_saved property

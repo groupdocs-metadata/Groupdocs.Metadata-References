@@ -3,9 +3,9 @@ title: private_bit property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 250
 url: /python-net/groupdocs.metadata.formats.mpeg/mpegaudiopackage/private_bit/
 is_root: false
-weight: 250
 ---
 
 ## private_bit property

@@ -3,9 +3,9 @@ title: PsdLayerFlags enumeration
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 580
 url: /python-net/groupdocs.metadata.formats.image/psdlayerflags/
 is_root: false
-weight: 580
 ---
 
 ## PsdLayerFlags enumeration

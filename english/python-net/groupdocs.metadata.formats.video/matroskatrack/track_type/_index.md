@@ -3,9 +3,9 @@ title: track_type property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 220
 url: /python-net/groupdocs.metadata.formats.video/matroskatrack/track_type/
 is_root: false
-weight: 220
 ---
 
 ## track_type property

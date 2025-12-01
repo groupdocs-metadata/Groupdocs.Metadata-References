@@ -3,9 +3,9 @@ title: GroupDocsMetadataException class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 20
 url: /python-net/groupdocs.metadata.exceptions/groupdocsmetadataexception/
 is_root: false
-weight: 20
 ---
 
 ## GroupDocsMetadataException class
@@ -19,8 +19,8 @@ The GroupDocsMetadataException type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.exceptions/groupdocsmetadataexception/__init__/#) | Initializes a new instance of the [`GroupDocsMetadataException`](/metadata/python-net/groupdocs.metadata.exceptions/groupdocsmetadataexception) class. |
-| [__init__](/metadata/python-net/groupdocs.metadata.exceptions/groupdocsmetadataexception/__init__/#System.String) | Initializes a new instance of the [`GroupDocsMetadataException`](/metadata/python-net/groupdocs.metadata.exceptions/groupdocsmetadataexception) class. |
+| [`__init__(self)`](/metadata/python-net/groupdocs.metadata.exceptions/groupdocsmetadataexception/__init__/#) | Initializes a new instance of the [`GroupDocsMetadataException`](/metadata/python-net/groupdocs.metadata.exceptions/groupdocsmetadataexception) class. |
+| [`__init__(self, message)`](/metadata/python-net/groupdocs.metadata.exceptions/groupdocsmetadataexception/__init__/#system.string) | Initializes a new instance of the [`GroupDocsMetadataException`](/metadata/python-net/groupdocs.metadata.exceptions/groupdocsmetadataexception) class. |
 
 
 

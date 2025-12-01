@@ -3,9 +3,9 @@ title: pf9_change_bracket_sequence property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 450
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2personalfuncspackage/pf9_change_bracket_sequence/
 is_root: false
-weight: 450
 ---
 
 ## pf9_change_bracket_sequence property

@@ -3,12 +3,12 @@ title: equals method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 20
 url: /python-net/groupdocs.metadata.formats.audio/id3v2tagframeflags/equals/
 is_root: false
-weight: 20
 ---
 
-## equals {#groupdocs.metadata.formats.audio.ID3V2TagFrameFlags}
+## equals(self, other) {#groupdocs.metadata.formats.audio.ID3V2TagFrameFlags}
 
 Indicates whether the current object is equal to another object of the same type.
 
@@ -20,6 +20,7 @@ true if the current object is equal to the `other` parameter; otherwise, false.
 
 
 ```python
+
 def equals(self, other):
     ...
 ```

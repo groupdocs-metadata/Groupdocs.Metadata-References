@@ -3,9 +3,9 @@ title: agent_object_record property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 100
 url: /python-net/groupdocs.metadata.formats.businesscard/vcardorganizationalrecordset/agent_object_record/
 is_root: false
-weight: 100
 ---
 
 ## agent_object_record property

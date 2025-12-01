@@ -3,9 +3,9 @@ title: sfnt_version property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 270
 url: /python-net/groupdocs.metadata.formats.font/opentypefont/sfnt_version/
 is_root: false
-weight: 270
 ---
 
 ## sfnt_version property

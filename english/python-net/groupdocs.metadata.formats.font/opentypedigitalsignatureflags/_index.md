@@ -3,9 +3,9 @@ title: OpenTypeDigitalSignatureFlags enumeration
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 80
 url: /python-net/groupdocs.metadata.formats.font/opentypedigitalsignatureflags/
 is_root: false
-weight: 80
 ---
 
 ## OpenTypeDigitalSignatureFlags enumeration

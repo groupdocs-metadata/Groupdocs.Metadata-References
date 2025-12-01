@@ -3,9 +3,9 @@ title: is_part_of property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 400
 url: /python-net/groupdocs.metadata.formats.ebook/epubpackage/is_part_of/
 is_root: false
-weight: 400
 ---
 
 ## is_part_of property

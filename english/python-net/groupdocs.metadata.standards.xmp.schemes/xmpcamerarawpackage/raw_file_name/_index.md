@@ -3,9 +3,9 @@ title: raw_file_name property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 470
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/raw_file_name/
 is_root: false
-weight: 470
 ---
 
 ## raw_file_name property

@@ -3,9 +3,9 @@ title: af_illuminator property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 140
 url: /python-net/groupdocs.metadata.standards.exif.makernote/sonymakernotepackage/af_illuminator/
 is_root: false
-weight: 140
 ---
 
 ## af_illuminator property

@@ -3,18 +3,19 @@ title: export method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 20
 url: /python-net/groupdocs.metadata.export/exportmanager/export/
 is_root: false
-weight: 20
 ---
 
-## export {#System.String-groupdocs.metadata.export.ExportFormat}
+## export(self, file_path, format) {#System.String-groupdocs.metadata.export.ExportFormat}
 
 Exports the metadata properties to a file.
 
 
 
 ```python
+
 def export(self, file_path, format):
     ...
 ```
@@ -26,13 +27,14 @@ def export(self, file_path, format):
 | format | groupdocs.metadata.export.ExportFormat | The format of the output file. |
 
 
-## export {#io.RawIOBase-groupdocs.metadata.export.ExportFormat}
+## export(self, document, format) {#io.RawIOBase-groupdocs.metadata.export.ExportFormat}
 
 Exports the metadata properties to a stream.
 
 
 
 ```python
+
 def export(self, document, format):
     ...
 ```
@@ -44,13 +46,14 @@ def export(self, document, format):
 | format | groupdocs.metadata.export.ExportFormat | The format of the output file. |
 
 
-## export {#System.String-groupdocs.metadata.export.ExportFormat-groupdocs.metadata.export.ExportOptions}
+## export(self, file_path, format, export_options) {#System.String-groupdocs.metadata.export.ExportFormat-groupdocs.metadata.export.ExportOptions}
 
 Exports the metadata properties to a file.
 
 
 
 ```python
+
 def export(self, file_path, format, export_options):
     ...
 ```
@@ -63,13 +66,14 @@ def export(self, file_path, format, export_options):
 | export_options | groupdocs.metadata.export.ExportOptions | Additional options to use when exporting a document. |
 
 
-## export {#io.RawIOBase-groupdocs.metadata.export.ExportFormat-groupdocs.metadata.export.ExportOptions}
+## export(self, document, format, export_options) {#io.RawIOBase-groupdocs.metadata.export.ExportFormat-groupdocs.metadata.export.ExportOptions}
 
 Exports the metadata properties to a stream.
 
 
 
 ```python
+
 def export(self, document, format, export_options):
     ...
 ```

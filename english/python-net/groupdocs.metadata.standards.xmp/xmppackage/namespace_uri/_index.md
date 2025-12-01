@@ -3,9 +3,9 @@ title: namespace_uri property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 170
 url: /python-net/groupdocs.metadata.standards.xmp/xmppackage/namespace_uri/
 is_root: false
-weight: 170
 ---
 
 ## namespace_uri property

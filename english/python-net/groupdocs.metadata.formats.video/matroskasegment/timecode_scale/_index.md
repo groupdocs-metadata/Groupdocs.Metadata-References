@@ -3,9 +3,9 @@ title: timecode_scale property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 200
 url: /python-net/groupdocs.metadata.formats.video/matroskasegment/timecode_scale/
 is_root: false
-weight: 200
 ---
 
 ## timecode_scale property

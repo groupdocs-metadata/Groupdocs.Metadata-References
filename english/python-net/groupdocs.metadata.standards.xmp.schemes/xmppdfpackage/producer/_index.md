@@ -3,9 +3,9 @@ title: producer property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 220
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmppdfpackage/producer/
 is_root: false
-weight: 220
 ---
 
 ## producer property

@@ -3,18 +3,19 @@ title: XmpColorantCmyk constructor
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.standards.xmp/xmpcolorantcmyk/__init__/
 is_root: false
-weight: 10
 ---
 
-## __init__ {#}
+## \_\_init\_\_(self) {#}
 
 Initializes a new instance of the [`XmpColorantCmyk`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpcolorantcmyk) class.
 
 
 
 ```python
+
 def __init__(self):
     ...
 ```
@@ -22,13 +23,14 @@ def __init__(self):
 
 
 
-## __init__ {#float-float-float-float}
+## \_\_init\_\_(self, cyan, magenta, yellow, black) {#float-float-float-float}
 
 Initializes a new instance of the [`XmpColorantCmyk`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpcolorantcmyk) class.
 
 
 
 ```python
+
 def __init__(self, cyan, magenta, yellow, black):
     ...
 ```

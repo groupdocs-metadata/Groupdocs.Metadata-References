@@ -3,9 +3,9 @@ title: ContainsTagSpecification class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 30
 url: /python-net/groupdocs.metadata.search/containstagspecification/
 is_root: false
-weight: 30
 ---
 
 ## ContainsTagSpecification class
@@ -24,7 +24,7 @@ The ContainsTagSpecification type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.search/containstagspecification/__init__/#groupdocs.metadata.tagging.PropertyTag) | Initializes a new instance of the [`ContainsTagSpecification`](/metadata/python-net/groupdocs.metadata.search/containstagspecification) class. |
+| [`__init__(self, tag)`](/metadata/python-net/groupdocs.metadata.search/containstagspecification/__init__/#groupdocs.metadata.tagging.propertytag) | Initializes a new instance of the [`ContainsTagSpecification`](/metadata/python-net/groupdocs.metadata.search/containstagspecification) class. |
 
 
 ### Properties
@@ -36,10 +36,10 @@ The ContainsTagSpecification type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [is_satisfied_by](/metadata/python-net/groupdocs.metadata.search/containstagspecification/is_satisfied_by/#groupdocs.metadata.common.MetadataProperty) | Verifies whether a [`MetadataProperty`](/metadata/python-net/groupdocs.metadata.common/metadataproperty) satisfies the specification. |
-| [both](/metadata/python-net/groupdocs.metadata.search/containstagspecification/both/#groupdocs.metadata.search.Specification) | Combines two search specifications using the logical AND operator. |
-| [either](/metadata/python-net/groupdocs.metadata.search/containstagspecification/either/#groupdocs.metadata.search.Specification) | Combines two search specifications using the logical OR operator. |
-| [is_not](/metadata/python-net/groupdocs.metadata.search/containstagspecification/is_not/#) | Negates the specification. |
+| [`is_satisfied_by(self, candidate)`](/metadata/python-net/groupdocs.metadata.search/containstagspecification/is_satisfied_by/#groupdocs.metadata.common.metadataproperty) | Verifies whether a [`MetadataProperty`](/metadata/python-net/groupdocs.metadata.common/metadataproperty) satisfies the specification. |
+| [`both(self, other)`](/metadata/python-net/groupdocs.metadata.search/containstagspecification/both/#groupdocs.metadata.search.specification) | Combines two search specifications using the logical AND operator. |
+| [`either(self, other)`](/metadata/python-net/groupdocs.metadata.search/containstagspecification/either/#groupdocs.metadata.search.specification) | Combines two search specifications using the logical OR operator. |
+| [`is_not(self)`](/metadata/python-net/groupdocs.metadata.search/containstagspecification/is_not/#) | Negates the specification. |
 
 
 

@@ -3,9 +3,9 @@ title: location_date property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 260
 url: /python-net/groupdocs.metadata.formats.video/movpackage/location_date/
 is_root: false
-weight: 260
 ---
 
 ## location_date property

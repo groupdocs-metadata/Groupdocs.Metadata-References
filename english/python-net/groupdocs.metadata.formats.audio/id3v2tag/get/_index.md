@@ -3,12 +3,12 @@ title: get method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 70
 url: /python-net/groupdocs.metadata.formats.audio/id3v2tag/get/
 is_root: false
-weight: 70
 ---
 
-## get {#System.String}
+## get(self, frame_id) {#System.String}
 
 Gets an array of frames with the specified id.
 
@@ -20,6 +20,7 @@ An array of frames with the specified id.
 
 
 ```python
+
 def get(self, frame_id):
     ...
 ```

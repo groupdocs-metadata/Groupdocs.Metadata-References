@@ -3,9 +3,9 @@ title: ID3V2AttachedPictureFrame class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 40
 url: /python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe/
 is_root: false
-weight: 40
 ---
 
 ## ID3V2AttachedPictureFrame class
@@ -26,9 +26,9 @@ The ID3V2AttachedPictureFrame type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe/__init__/#groupdocs.metadata.formats.audio.ID3V2EncodingType-System.String-groupdocs.metadata.formats.audio.ID3V2AttachedPictureType-System.String-bytes) | Initializes a new instance of the [`ID3V2AttachedPictureFrame`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe) class. |
-| [__init__](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe/__init__/#groupdocs.metadata.formats.audio.ID3V2AttachedPictureType-System.String-bytes) | Initializes a new instance of the [`ID3V2AttachedPictureFrame`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe) class. |
-| [__init__](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe/__init__/#bytes) | Initializes a new instance of the [`ID3V2AttachedPictureFrame`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe) class. |
+| [`__init__(self, encoding, mime_type, picture_type, description, picture_data)`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe/__init__/#groupdocs.metadata.formats.audio.id3v2encodingtype-system.string-groupdocs.metadata.formats.audio.id3v2attachedpicturetype-system.string-bytes) | Initializes a new instance of the [`ID3V2AttachedPictureFrame`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe) class. |
+| [`__init__(self, picture_type, description, picture_data)`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe/__init__/#groupdocs.metadata.formats.audio.id3v2attachedpicturetype-system.string-bytes) | Initializes a new instance of the [`ID3V2AttachedPictureFrame`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe) class. |
+| [`__init__(self, picture_data)`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe/__init__/#bytes) | Initializes a new instance of the [`ID3V2AttachedPictureFrame`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe) class. |
 
 
 ### Properties
@@ -51,13 +51,13 @@ The ID3V2AttachedPictureFrame type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [contains](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe/contains/#System.String) | Determines whether the package contains a metadata property with the specified name. |
-| [find_properties](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe/find_properties/#groupdocs.metadata.search.Specification) | Finds the metadata properties satisfying a specification. <br/>The search is recursive so it affects all nested packages as well. |
-| [update_properties](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe/update_properties/#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue) | Updates known metadata properties satisfying a specification.<br/>The operation is recursive so it affects all nested packages as well. |
-| [remove_properties](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe/remove_properties/#groupdocs.metadata.search.Specification) | Removes metadata properties satisfying a specification. |
-| [add_properties](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe/add_properties/#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue) | Adds known metadata properties satisfying the specification.<br/>The operation is recursive so it affects all nested packages as well. |
-| [set_properties](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe/set_properties/#groupdocs.metadata.search.Specification-groupdocs.metadata.common.PropertyValue) | Sets known metadata properties satisfying the specification.<br/>The operation is recursive so it affects all nested packages as well.<br/>This method is a combination of [`MetadataPackage.add_properties`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/add_properties) and [`MetadataPackage.update_properties`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/update_properties). <br/>If an existing property satisfies the specification its value is updated. <br/>If there is a known property missing in the package that satisfies the specification it is added to the package. |
-| [sanitize](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe/sanitize/#) | Removes writable metadata properties from the package.<br/>The operation is recursive so it affects all nested packages as well. |
+| [`contains(self, property_name)`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe/contains/#system.string) | Determines whether the package contains a metadata property with the specified name. |
+| [`find_properties(self, specification)`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe/find_properties/#groupdocs.metadata.search.specification) | Finds the metadata properties satisfying a specification. <br/>The search is recursive so it affects all nested packages as well. |
+| [`update_properties(self, specification, value)`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe/update_properties/#groupdocs.metadata.search.specification-groupdocs.metadata.common.propertyvalue) | Updates known metadata properties satisfying a specification.<br/>The operation is recursive so it affects all nested packages as well. |
+| [`remove_properties(self, specification)`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe/remove_properties/#groupdocs.metadata.search.specification) | Removes metadata properties satisfying a specification. |
+| [`add_properties(self, specification, value)`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe/add_properties/#groupdocs.metadata.search.specification-groupdocs.metadata.common.propertyvalue) | Adds known metadata properties satisfying the specification.<br/>The operation is recursive so it affects all nested packages as well. |
+| [`set_properties(self, specification, value)`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe/set_properties/#groupdocs.metadata.search.specification-groupdocs.metadata.common.propertyvalue) | Sets known metadata properties satisfying the specification.<br/>The operation is recursive so it affects all nested packages as well.<br/>This method is a combination of [`MetadataPackage.add_properties`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/add_properties) and [`MetadataPackage.update_properties`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/update_properties). <br/>If an existing property satisfies the specification its value is updated. <br/>If there is a known property missing in the package that satisfies the specification it is added to the package. |
+| [`sanitize(self)`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2attachedpictureframe/sanitize/#) | Removes writable metadata properties from the package.<br/>The operation is recursive so it affects all nested packages as well. |
 
 
 

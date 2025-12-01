@@ -3,9 +3,9 @@ title: MatroskaContentType enumeration
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 360
 url: /python-net/groupdocs.metadata.formats.video/matroskacontenttype/
 is_root: false
-weight: 360
 ---
 
 ## MatroskaContentType enumeration

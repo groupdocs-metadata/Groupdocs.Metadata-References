@@ -3,12 +3,12 @@ title: is_not method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 40
 url: /python-net/groupdocs.metadata.search/notspecification/is_not/
 is_root: false
-weight: 40
 ---
 
-## is_not {#}
+## is_not(self) {#}
 
 Negates the specification.
 
@@ -20,6 +20,7 @@ A composite specification.
 
 
 ```python
+
 def is_not(self):
     ...
 ```

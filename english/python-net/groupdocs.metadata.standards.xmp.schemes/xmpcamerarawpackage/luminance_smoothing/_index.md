@@ -3,9 +3,9 @@ title: luminance_smoothing property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 420
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpcamerarawpackage/luminance_smoothing/
 is_root: false
-weight: 420
 ---
 
 ## luminance_smoothing property

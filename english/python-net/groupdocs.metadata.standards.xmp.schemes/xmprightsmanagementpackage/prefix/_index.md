@@ -3,15 +3,24 @@ title: prefix property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 210
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmprightsmanagementpackage/prefix/
 is_root: false
-weight: 210
 ---
 
 ## prefix property
 
 
 Gets the xmlns prefix.
+### Definition:
+```python
+@property
+def prefix(self):
+    ...
+@prefix.setter
+def prefix(self, value):
+    ...
+```
 
 ### See Also
 * module [`groupdocs.metadata.standards.xmp.schemes`](../../)

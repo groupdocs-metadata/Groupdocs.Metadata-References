@@ -3,9 +3,9 @@ title: agent_uri_records property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 120
 url: /python-net/groupdocs.metadata.formats.businesscard/vcardorganizationalrecordset/agent_uri_records/
 is_root: false
-weight: 120
 ---
 
 ## agent_uri_records property

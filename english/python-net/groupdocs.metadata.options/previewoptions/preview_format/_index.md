@@ -3,9 +3,9 @@ title: preview_format property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 80
 url: /python-net/groupdocs.metadata.options/previewoptions/preview_format/
 is_root: false
-weight: 80
 ---
 
 ## preview_format property

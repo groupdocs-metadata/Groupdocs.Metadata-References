@@ -3,9 +3,9 @@ title: groupdocs.metadata.formats.email
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.formats.email/
 is_root: false
-weight: 10
 ---
 
 The namespace contains classes representing saved email messages and their parts.

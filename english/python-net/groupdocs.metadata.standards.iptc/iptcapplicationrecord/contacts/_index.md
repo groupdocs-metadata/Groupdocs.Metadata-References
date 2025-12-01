@@ -3,9 +3,9 @@ title: contacts property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 190
 url: /python-net/groupdocs.metadata.standards.iptc/iptcapplicationrecord/contacts/
 is_root: false
-weight: 190
 ---
 
 ## contacts property

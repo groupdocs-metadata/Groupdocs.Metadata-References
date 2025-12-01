@@ -3,9 +3,9 @@ title: pf8_set_bracket_shots property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 440
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2personalfuncspackage/pf8_set_bracket_shots/
 is_root: false
-weight: 440
 ---
 
 ## pf8_set_bracket_shots property

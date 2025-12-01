@@ -3,9 +3,9 @@ title: DocumentProtectedException class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.exceptions/documentprotectedexception/
 is_root: false
-weight: 10
 ---
 
 ## DocumentProtectedException class
@@ -24,7 +24,7 @@ The DocumentProtectedException type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.exceptions/documentprotectedexception/__init__/#) | Initializes a new instance of the [`DocumentProtectedException`](/metadata/python-net/groupdocs.metadata.exceptions/documentprotectedexception) class. |
+| [`__init__(self)`](/metadata/python-net/groupdocs.metadata.exceptions/documentprotectedexception/__init__/#) | Initializes a new instance of the [`DocumentProtectedException`](/metadata/python-net/groupdocs.metadata.exceptions/documentprotectedexception) class. |
 
 
 

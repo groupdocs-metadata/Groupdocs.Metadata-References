@@ -3,9 +3,9 @@ title: LyricsField class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 160
 url: /python-net/groupdocs.metadata.formats.audio/lyricsfield/
 is_root: false
-weight: 160
 ---
 
 ## LyricsField class
@@ -24,7 +24,7 @@ The LyricsField type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.formats.audio/lyricsfield/__init__/#System.String-System.String) | Initializes a new instance of the [`LyricsField`](/metadata/python-net/groupdocs.metadata.formats.audio/lyricsfield) class. |
+| [`__init__(self, id, data)`](/metadata/python-net/groupdocs.metadata.formats.audio/lyricsfield/__init__/#system.string-system.string) | Initializes a new instance of the [`LyricsField`](/metadata/python-net/groupdocs.metadata.formats.audio/lyricsfield) class. |
 
 
 ### Properties

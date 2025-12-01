@@ -3,12 +3,12 @@ title: contains_attribute method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 50
 url: /python-net/groupdocs.metadata.standards.xmp/xmpelementbase/contains_attribute/
 is_root: false
-weight: 50
 ---
 
-## contains_attribute {#System.String}
+## contains_attribute(self, attribute) {#System.String}
 
 Determines whether the element contains a specific attribute.
 
@@ -20,6 +20,7 @@ true if attribute is exist; otherwise false.
 
 
 ```python
+
 def contains_attribute(self, attribute):
     ...
 ```

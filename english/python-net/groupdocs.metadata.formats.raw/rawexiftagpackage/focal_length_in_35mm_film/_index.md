@@ -3,9 +3,9 @@ title: focal_length_in_35mm_film property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 430
 url: /python-net/groupdocs.metadata.formats.raw/rawexiftagpackage/focal_length_in_35mm_film/
 is_root: false
-weight: 430
 ---
 
 ## focal_length_in_35mm_film property

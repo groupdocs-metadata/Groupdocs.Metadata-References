@@ -3,12 +3,12 @@ title: contains_package method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 60
 url: /python-net/groupdocs.metadata.standards.xmp/xmppacketwrapper/contains_package/
 is_root: false
-weight: 60
 ---
 
-## contains_package {#System.String}
+## contains_package(self, namespace_uri) {#System.String}
 
 Determines whether package is exist in XMP wrapper.
 
@@ -20,6 +20,7 @@ Determines whether package is exist in XMP wrapper.
 
 
 ```python
+
 def contains_package(self, namespace_uri):
     ...
 ```

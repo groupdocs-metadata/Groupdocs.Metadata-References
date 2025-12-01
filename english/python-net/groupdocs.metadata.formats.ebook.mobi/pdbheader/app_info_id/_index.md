@@ -3,9 +3,9 @@ title: app_info_id property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 100
 url: /python-net/groupdocs.metadata.formats.ebook.mobi/pdbheader/app_info_id/
 is_root: false
-weight: 100
 ---
 
 ## app_info_id property

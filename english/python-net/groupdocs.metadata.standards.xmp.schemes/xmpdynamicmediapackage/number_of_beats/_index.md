@@ -3,9 +3,9 @@ title: number_of_beats property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 480
 url: /python-net/groupdocs.metadata.standards.xmp.schemes/xmpdynamicmediapackage/number_of_beats/
 is_root: false
-weight: 480
 ---
 
 ## number_of_beats property

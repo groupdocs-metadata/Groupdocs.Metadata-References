@@ -3,9 +3,9 @@ title: y_cb_cr_positioning property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 520
 url: /python-net/groupdocs.metadata.formats.raw/rawtifftagpackage/y_cb_cr_positioning/
 is_root: false
-weight: 520
 ---
 
 ## y_cb_cr_positioning property

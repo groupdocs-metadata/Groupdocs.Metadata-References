@@ -3,9 +3,9 @@ title: time_zone property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 190
 url: /python-net/groupdocs.metadata.formats.raw.cr2/cr2timeinfopackage/time_zone/
 is_root: false
-weight: 190
 ---
 
 ## time_zone property

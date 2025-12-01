@@ -3,9 +3,9 @@ title: file_id property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 130
 url: /python-net/groupdocs.metadata.formats.video/asfpackage/file_id/
 is_root: false
-weight: 130
 ---
 
 ## file_id property

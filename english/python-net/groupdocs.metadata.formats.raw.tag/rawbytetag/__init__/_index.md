@@ -3,18 +3,19 @@ title: RawByteTag constructor
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 10
 url: /python-net/groupdocs.metadata.formats.raw.tag/rawbytetag/__init__/
 is_root: false
-weight: 10
 ---
 
-## __init__ {#int-bytes}
+## \_\_init\_\_(self, tag_id, value) {#int-bytes}
 
 Initializes a new instance of the [`TiffByteTag`](/metadata/python-net/groupdocs.metadata.formats.image/tiffbytetag) class.
 
 
 
 ```python
+
 def __init__(self, tag_id, value):
     ...
 ```

@@ -3,18 +3,19 @@ title: import_metadata method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 20
 url: /python-net/groupdocs.metadata.importing/importmanager/import_metadata/
 is_root: false
-weight: 20
 ---
 
-## import_metadata {#System.String-groupdocs.metadata.importing.ImportFormat-groupdocs.metadata.importing.ImportOptions}
+## import_metadata(self, file_path, format, import_options) {#System.String-groupdocs.metadata.importing.ImportFormat-groupdocs.metadata.importing.ImportOptions}
 
 Imports the metadata properties to a file.
 
 
 
 ```python
+
 def import_metadata(self, file_path, format, import_options):
     ...
 ```
@@ -27,13 +28,14 @@ def import_metadata(self, file_path, format, import_options):
 | import_options | groupdocs.metadata.importing.ImportOptions | Additional options to use when importing. |
 
 
-## import_metadata {#io.RawIOBase-groupdocs.metadata.importing.ImportFormat-groupdocs.metadata.importing.ImportOptions}
+## import_metadata(self, stream, format, import_options) {#io.RawIOBase-groupdocs.metadata.importing.ImportFormat-groupdocs.metadata.importing.ImportOptions}
 
 Imports the metadata properties to a file.
 
 
 
 ```python
+
 def import_metadata(self, stream, format, import_options):
     ...
 ```

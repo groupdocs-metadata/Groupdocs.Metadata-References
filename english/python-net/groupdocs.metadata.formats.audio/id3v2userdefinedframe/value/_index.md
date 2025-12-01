@@ -3,9 +3,9 @@ title: value property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 190
 url: /python-net/groupdocs.metadata.formats.audio/id3v2userdefinedframe/value/
 is_root: false
-weight: 190
 ---
 
 ## value property

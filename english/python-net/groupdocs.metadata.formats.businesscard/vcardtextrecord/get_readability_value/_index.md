@@ -3,12 +3,12 @@ title: get_readability_value method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
+weight: 50
 url: /python-net/groupdocs.metadata.formats.businesscard/vcardtextrecord/get_readability_value/
 is_root: false
-weight: 50
 ---
 
-## get_readability_value {#System.String}
+## get_readability_value(self, code_page_name) {#System.String}
 
 Gets the readability value.
 
@@ -20,6 +20,7 @@ The readability value.
 
 
 ```python
+
 def get_readability_value(self, code_page_name):
     ...
 ```
