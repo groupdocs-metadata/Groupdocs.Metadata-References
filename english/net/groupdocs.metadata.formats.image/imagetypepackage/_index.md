@@ -3,7 +3,7 @@ title: ImageTypePackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a metadata package containing imagespecific file format information.
 type: docs
-weight: 2170
+weight: 2180
 url: /net/groupdocs.metadata.formats.image/imagetypepackage/
 ---
 ## ImageTypePackage class

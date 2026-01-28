@@ -74,6 +74,7 @@ public enum MetadataType
 | Ogg | `53` | Ogg format |
 | Svg | `54` | Svg format |
 | Gltf | `55` | glTF (Graphics Library Transmission Format or GL Transmission Format and formerly known as WebGL Transmissions Format or WebGL TF) |
+| Avif | `56` | Avif format |
 
 ### See Also
 

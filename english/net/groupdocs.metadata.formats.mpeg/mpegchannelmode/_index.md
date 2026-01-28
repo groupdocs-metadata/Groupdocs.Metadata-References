@@ -3,7 +3,7 @@ title: MpegChannelMode
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines MPEG audio channel modes.
 type: docs
-weight: 2690
+weight: 2700
 url: /net/groupdocs.metadata.formats.mpeg/mpegchannelmode/
 ---
 ## MpegChannelMode enumeration

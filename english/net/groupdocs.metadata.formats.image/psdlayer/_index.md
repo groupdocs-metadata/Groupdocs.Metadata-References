@@ -3,7 +3,7 @@ title: PsdLayer
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a layer in a PSD file.
 type: docs
-weight: 2290
+weight: 2300
 url: /net/groupdocs.metadata.formats.image/psdlayer/
 ---
 ## PsdLayer class
