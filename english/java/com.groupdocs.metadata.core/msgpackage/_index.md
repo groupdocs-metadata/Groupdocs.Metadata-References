@@ -26,6 +26,7 @@ Represents MSG message metadata.
 | --- | --- |
 | [getBody()](#getBody--) | Gets the email message text. |
 | [getCategories()](#getCategories--) | Gets the array of categories or keywords. |
+| [getAttachments()](#getAttachments--) | Gets an array of the attached files. |
 | [getDeliveryTime()](#getDeliveryTime--) | Gets the date and time the message was delivered. |
 ### getBody() {#getBody--}
 ```
@@ -47,6 +48,16 @@ Gets the array of categories or keywords.
 
 **Returns:**
 java.lang.String[] - The array of categories or keywords.
+### getAttachments() {#getAttachments--}
+```
+public final MsgAttachmentPackage[] getAttachments()
+```
+
+
+Gets an array of the attached files.
+
+**Returns:**
+com.groupdocs.metadata.core.MsgAttachmentPackage[] - An array of the attached files.
 ### getDeliveryTime() {#getDeliveryTime--}
 ```
 public final Date getDeliveryTime()

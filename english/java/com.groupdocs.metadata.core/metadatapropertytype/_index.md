@@ -37,6 +37,7 @@ Defines metadata property types.
 | [MetadataArray](#MetadataArray) | Represents an array of nested metadata blocks. |
 | [Guid](#Guid) | Represents a global unique identifier value. |
 | [PropertyValueArray](#PropertyValueArray) | Represents a metadata property value array. |
+| [Object](#Object) | Represents a generic object property. |
 ## Methods
 
 | Method | Description |
@@ -185,6 +186,14 @@ public static final MetadataPropertyType PropertyValueArray
 
 
 Represents a metadata property value array.
+
+### Object {#Object}
+```
+public static final MetadataPropertyType Object
+```
+
+
+Represents a generic object property.
 
 ### values() {#values--}
 ```

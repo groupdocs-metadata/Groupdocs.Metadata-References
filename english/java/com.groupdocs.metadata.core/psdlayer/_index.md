@@ -68,14 +68,14 @@ Gets the layer flags.
 [PsdLayerFlags](../../com.groupdocs.metadata.core/psdlayerflags) - The flags.
 ### getLength() {#getLength--}
 ```
-public final int getLength()
+public final long getLength()
 ```
 
 
 Gets the overall layer length in bytes.
 
 **Returns:**
-int - The overall layer length in bytes.
+long - The overall layer length in bytes.
 ### getOpacity() {#getOpacity--}
 ```
 public final byte getOpacity()

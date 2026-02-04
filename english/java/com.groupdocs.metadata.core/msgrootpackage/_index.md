@@ -51,6 +51,7 @@ This code sample shows how to extract metadata from an MSG message.
 | Method | Description |
 | --- | --- |
 | [getMsgPackage()](#getMsgPackage--) | Gets the MSG metadata package. |
+| [getString(MsgKnownProperties tag)](#getString-com.groupdocs.metadata.core.MsgKnownProperties-) | Gets the string value of the property specified by tag. |
 ### getMsgPackage() {#getMsgPackage--}
 ```
 public final MsgPackage getMsgPackage()
@@ -61,3 +62,18 @@ Gets the MSG metadata package.
 
 **Returns:**
 [MsgPackage](../../com.groupdocs.metadata.core/msgpackage) - The MSG metadata package.
+### getString(MsgKnownProperties tag) {#getString-com.groupdocs.metadata.core.MsgKnownProperties-}
+```
+public final String getString(MsgKnownProperties tag)
+```
+
+
+Gets the string value of the property specified by tag.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| tag | [MsgKnownProperties](../../com.groupdocs.metadata.core/msgknownproperties) | The value from MsgKnownProperties enum. |
+
+**Returns:**
+java.lang.String - The value of the property. If the property does not exist, returns null; otherwise, returns the value.
