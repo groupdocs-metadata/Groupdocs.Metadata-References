@@ -60,6 +60,9 @@ Represents the recognized format of a loaded file.
 | [Heif](#Heif) | A HEIF/HEIC image. |
 | [Dng](#Dng) | A dng RAW image. |
 | [Cr2](#Cr2) | A CR2 image. |
+| [Gltf](#Gltf) | A glTF (GL Transmission Format) 3D file. |
+| [Svg](#Svg) | An SVG (Scalable Vector Graphics) image. |
+| [Avif](#Avif) | An AVIF (AV1 Image File Format) image. |
 | [Rar](#Rar) | RAR is a proprietary archive file format that supports data compression, error correction and file spanning. |
 | [Tar](#Tar) | In computing, tar is a computer software utility for collecting many files into one archive file, often referred to as a tarball, for distribution or backup purposes. |
 ## Methods
@@ -484,6 +487,30 @@ public static final FileFormat Cr2
 
 
 A CR2 image.
+
+### Gltf {#Gltf}
+```
+public static final FileFormat Gltf
+```
+
+
+A glTF (GL Transmission Format) 3D file.
+
+### Svg {#Svg}
+```
+public static final FileFormat Svg
+```
+
+
+An SVG (Scalable Vector Graphics) image.
+
+### Avif {#Avif}
+```
+public static final FileFormat Avif
+```
+
+
+An AVIF (AV1 Image File Format) image.
 
 ### Rar {#Rar}
 ```

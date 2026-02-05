@@ -70,6 +70,8 @@ Specifies the type of a metadata package.
 | [Dae](#Dae) | A DAE file is a Digital Asset Exchange file format that is used for exchanging data between interactive 3D applications. |
 | [Fbx](#Fbx) | FBX (Filmbox) is a proprietary file format (.fbx) developed by Kaydara and owned by Autodesk since 2006. |
 | [Stl](#Stl) | STL is a file format native to the stereolithography CAD software created by 3D Systems.[3][4][5] Chuck Hull, the inventor of stereolithography and 3D Systems\\u2019 founder, reports that the file extension is an abbreviation for stereolithography. |
+| [Gltf](#Gltf) | A glTF (GL Transmission Format) metadata package. |
+| [Svg](#Svg) | An SVG image metadata package. |
 | [Gis](#Gis) | Gis format |
 ## Methods
 
@@ -486,6 +488,22 @@ public static final MetadataType Stl
 
 
 STL is a file format native to the stereolithography CAD software created by 3D Systems.[3][4][5] Chuck Hull, the inventor of stereolithography and 3D Systems\\u2019 founder, reports that the file extension is an abbreviation for stereolithography.
+
+### Gltf {#Gltf}
+```
+public static final MetadataType Gltf
+```
+
+
+A glTF (GL Transmission Format) metadata package.
+
+### Svg {#Svg}
+```
+public static final MetadataType Svg
+```
+
+
+An SVG image metadata package.
 
 ### Gis {#Gis}
 ```

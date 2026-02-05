@@ -115,6 +115,9 @@ Represents the file type.
 | [SEVENZIP](#SEVENZIP) | 7z is a compressed archive file format that supports several different data compression, encryption and pre-processing algorithms. |
 | [RAR](#RAR) | RAR is a proprietary archive file format that supports data compression, error correction and file spanning. |
 | [TAR](#TAR) | In computing, tar is a computer software utility for collecting many files into one archive file, often referred to as a tarball, for distribution or backup purposes. |
+| [GLTF](#GLTF) | glTF (GL Transmission Format) is a 3D file format used for 3D scenes and models. |
+| [SVG](#SVG) | SVG (Scalable Vector Graphics) is an XML-based vector image format. |
+| [AVIF](#AVIF) | AVIF (AV1 Image File Format) is an image format based on the AV1 video codec. |
 ## Methods
 
 | Method | Description |
@@ -1085,6 +1088,30 @@ In computing, tar is a computer software utility for collecting many files into 
 
 
 [here]: https://wiki.fileformat.com/compression/tar/
+
+### GLTF {#GLTF}
+```
+public static final FileType GLTF
+```
+
+
+glTF (GL Transmission Format) is a 3D file format used for 3D scenes and models.
+
+### SVG {#SVG}
+```
+public static final FileType SVG
+```
+
+
+SVG (Scalable Vector Graphics) is an XML-based vector image format.
+
+### AVIF {#AVIF}
+```
+public static final FileType AVIF
+```
+
+
+AVIF (AV1 Image File Format) is an image format based on the AV1 video codec.
 
 ### getDescription() {#getDescription--}
 ```
