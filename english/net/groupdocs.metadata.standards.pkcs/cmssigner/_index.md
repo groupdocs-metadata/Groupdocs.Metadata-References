@@ -3,7 +3,7 @@ title: CmsSigner
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents CMS persigner information.
 type: docs
-weight: 4590
+weight: 4600
 url: /net/groupdocs.metadata.standards.pkcs/cmssigner/
 ---
 ## CmsSigner class

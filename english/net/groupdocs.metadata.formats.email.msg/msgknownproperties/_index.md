@@ -3,7 +3,7 @@ title: MsgKnownProperties
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines known msg properties.
 type: docs
-weight: 1690
+weight: 1700
 url: /net/groupdocs.metadata.formats.email.msg/msgknownproperties/
 ---
 ## MsgKnownProperties enumeration

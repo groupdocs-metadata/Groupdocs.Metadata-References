@@ -3,7 +3,7 @@ title: MobiRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the root package allowing working with metadata in an Mobi ebook.
 type: docs
-weight: 1610
+weight: 1620
 url: /net/groupdocs.metadata.formats.ebook.mobi/mobirootpackage/
 ---
 ## MobiRootPackage class

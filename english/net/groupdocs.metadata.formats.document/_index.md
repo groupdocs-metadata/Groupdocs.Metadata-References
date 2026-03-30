@@ -57,6 +57,7 @@ The namespace provides functionality intended to work with a variety of document
 | Enumeration | Description |
 | --- | --- |
 | [DiagramFormat](./diagramformat) | Defines various diagram subformats. |
+| [PdfFormat](./pdfformat) | Represents supported PDF format standards and versions. |
 | [PresentationFormat](./presentationformat) | Defines various presentation subformats. |
 | [SpreadsheetFormat](./spreadsheetformat) | Defines various spreadsheet subformats. |
 | [WordProcessingFormat](./wordprocessingformat) | Defines various word processing document subformats. |

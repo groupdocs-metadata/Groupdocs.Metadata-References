@@ -3,7 +3,7 @@ title: OpenTypeFont
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a single font extracted from a file.
 type: docs
-weight: 1780
+weight: 1790
 url: /net/groupdocs.metadata.formats.font/opentypefont/
 ---
 ## OpenTypeFont class

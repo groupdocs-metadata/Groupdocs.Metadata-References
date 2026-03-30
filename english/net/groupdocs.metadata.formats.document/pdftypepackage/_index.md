@@ -3,7 +3,7 @@ title: PdfTypePackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a metadata package containing PDFspecific file format information.
 type: docs
-weight: 1220
+weight: 1230
 url: /net/groupdocs.metadata.formats.document/pdftypepackage/
 ---
 ## PdfTypePackage class
@@ -21,10 +21,13 @@ public class PdfTypePackage : FileTypePackage
 | [Count](../../groupdocs.metadata.common/metadatapackage/count) { get; } | Gets the number of metadata properties. |
 | [Extension](../../groupdocs.metadata.common/filetypepackage/extension) { get; } | Gets the file extension. |
 | [FileFormat](../../groupdocs.metadata.common/filetypepackage/fileformat) { get; } | Gets the file format. |
+| [IsPdfA](../../groupdocs.metadata.formats.document/pdftypepackage/ispdfa) { get; } | Gets a value indicating whether the document conforms to any PDF/A standard. |
+| [IsPdfX](../../groupdocs.metadata.formats.document/pdftypepackage/ispdfx) { get; } | Gets a value indicating whether the document conforms to any PDF/X standard. |
 | [Item](../../groupdocs.metadata.common/metadatapackage/item) { get; } | Gets the [`MetadataProperty`](../../groupdocs.metadata.common/metadataproperty) with the specified name. |
 | [Keys](../../groupdocs.metadata.common/metadatapackage/keys) { get; } | Gets a collection of the metadata property names. |
 | [MetadataType](../../groupdocs.metadata.common/metadatapackage/metadatatype) { get; } | Gets the metadata type. |
 | [MimeType](../../groupdocs.metadata.common/filetypepackage/mimetype) { get; } | Gets the MIME type. |
+| [PdfFormat](../../groupdocs.metadata.formats.document/pdftypepackage/pdfformat) { get; } | Gets the detected PDF format. |
 | [PropertyDescriptors](../../groupdocs.metadata.common/metadatapackage/propertydescriptors) { get; } | Gets a collection of descriptors that contain information about properties accessible through the GroupDocs.Metadata search engine. |
 | [Version](../../groupdocs.metadata.formats.document/pdftypepackage/version) { get; } | Gets the version of the format. |
 

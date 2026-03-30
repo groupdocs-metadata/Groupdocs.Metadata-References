@@ -3,7 +3,7 @@ title: RawIFD2Package
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents IFD1 tags.
 type: docs
-weight: 3430
+weight: 3440
 url: /net/groupdocs.metadata.formats.raw/rawifd2package/
 ---
 ## RawIFD2Package class

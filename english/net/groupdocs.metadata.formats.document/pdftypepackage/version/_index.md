@@ -3,7 +3,7 @@ title: Version
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Gets the version of the format.
 type: docs
-weight: 10
+weight: 40
 url: /net/groupdocs.metadata.formats.document/pdftypepackage/version/
 ---
 ## PdfTypePackage.Version property

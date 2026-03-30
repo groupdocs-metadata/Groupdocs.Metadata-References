@@ -3,7 +3,7 @@ title: SvgRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a native metadata package in a SVG image file.
 type: docs
-weight: 2460
+weight: 2470
 url: /net/groupdocs.metadata.formats.image.svg/svgrootpackage/
 ---
 ## SvgRootPackage class

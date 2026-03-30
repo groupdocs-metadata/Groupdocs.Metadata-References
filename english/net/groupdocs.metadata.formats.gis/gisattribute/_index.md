@@ -3,7 +3,7 @@ title: GisAttribute
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents metadata associated with layer.
 type: docs
-weight: 1970
+weight: 1980
 url: /net/groupdocs.metadata.formats.gis/gisattribute/
 ---
 ## GisAttribute class

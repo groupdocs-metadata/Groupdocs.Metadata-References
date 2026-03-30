@@ -3,7 +3,7 @@ title: GisRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents gis metadata.
 type: docs
-weight: 2010
+weight: 2020
 url: /net/groupdocs.metadata.formats.gis/gisrootpackage/
 ---
 ## GisRootPackage class

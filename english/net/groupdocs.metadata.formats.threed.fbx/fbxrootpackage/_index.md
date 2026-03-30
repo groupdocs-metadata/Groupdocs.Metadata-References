@@ -3,7 +3,7 @@ title: FbxRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents .fbx file metadata.
 type: docs
-weight: 3610
+weight: 3620
 url: /net/groupdocs.metadata.formats.threed.fbx/fbxrootpackage/
 ---
 ## FbxRootPackage class

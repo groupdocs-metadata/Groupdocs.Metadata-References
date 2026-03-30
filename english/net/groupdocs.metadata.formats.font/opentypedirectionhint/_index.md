@@ -3,7 +3,7 @@ title: OpenTypeDirectionHint
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the OpenType font direction.
 type: docs
-weight: 1760
+weight: 1770
 url: /net/groupdocs.metadata.formats.font/opentypedirectionhint/
 ---
 ## OpenTypeDirectionHint enumeration

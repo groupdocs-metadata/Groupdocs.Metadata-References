@@ -3,7 +3,7 @@ title: GisFormat
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines various gis subformats.
 type: docs
-weight: 1990
+weight: 2000
 url: /net/groupdocs.metadata.formats.gis/gisformat/
 ---
 ## GisFormat enumeration

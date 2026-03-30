@@ -3,7 +3,7 @@ title: DngRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the root package intended to work with metadata in a DNG image.
 type: docs
-weight: 2090
+weight: 2100
 url: /net/groupdocs.metadata.formats.image.dng/dngrootpackage/
 ---
 ## DngRootPackage class

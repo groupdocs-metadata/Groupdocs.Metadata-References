@@ -3,7 +3,7 @@ title: AvifRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a native metadata package in a Avif image file.
 type: docs
-weight: 2020
+weight: 2030
 url: /net/groupdocs.metadata.formats.image.avif/avifrootpackage/
 ---
 ## AvifRootPackage class

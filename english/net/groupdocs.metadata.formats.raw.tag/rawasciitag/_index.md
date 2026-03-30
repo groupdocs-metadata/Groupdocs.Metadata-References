@@ -3,7 +3,7 @@ title: RawAsciiTag
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a Raw ASCII tag.
 type: docs
-weight: 3500
+weight: 3510
 url: /net/groupdocs.metadata.formats.raw.tag/rawasciitag/
 ---
 ## RawAsciiTag class

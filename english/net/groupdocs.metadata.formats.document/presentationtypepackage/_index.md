@@ -3,7 +3,7 @@ title: PresentationTypePackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a metadata package containing presentationspecific file format information.
 type: docs
-weight: 1290
+weight: 1300
 url: /net/groupdocs.metadata.formats.document/presentationtypepackage/
 ---
 ## PresentationTypePackage class

@@ -3,7 +3,7 @@ title: WordProcessingTypePackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a metadata package containing documentspecific file format information.
 type: docs
-weight: 1490
+weight: 1500
 url: /net/groupdocs.metadata.formats.document/wordprocessingtypepackage/
 ---
 ## WordProcessingTypePackage class

@@ -3,7 +3,7 @@ title: GisFeature
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents metadata associated with feature.
 type: docs
-weight: 1980
+weight: 1990
 url: /net/groupdocs.metadata.formats.gis/gisfeature/
 ---
 ## GisFeature class
