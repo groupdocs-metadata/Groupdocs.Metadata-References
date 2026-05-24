@@ -1,37 +1,20 @@
-﻿---
+---
 title: equals method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
-weight: 20
 url: /python-net/groupdocs.metadata.tagging/propertytag/equals/
 is_root: false
+weight: 1050
 ---
 
-## equals(self, other) {#groupdocs.metadata.tagging.PropertyTag}
 
-Indicates whether the current object is equal to another object of the same type.
-
-
-### Returns 
-
-
-True if the current object is equal to the `other` parameter; otherwise, false.
-
+## equals
 
 ```python
-
-def equals(self, other):
+def equals(self):
     ...
 ```
 
-
-| Parameter | Type | Description |
-| :- | :- | :- |
-| other | groupdocs.metadata.tagging.PropertyTag | An object to compare with this object. |
-
-
-
 ### See Also
-* module [`groupdocs.metadata.tagging`](../../)
-* class [`PropertyTag`](/metadata/python-net/groupdocs.metadata.tagging/propertytag)
+* class [`PropertyTag`](/metadata/python-net/groupdocs.metadata.tagging/propertytag/)

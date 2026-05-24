@@ -1,35 +1,39 @@
-﻿---
+---
 title: ConsoleLogger class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
-weight: 10
 url: /python-net/groupdocs.metadata.logging/consolelogger/
 is_root: false
+weight: 10
 ---
 
+
 ## ConsoleLogger class
-
-Writes log messages to the console.
-
-
 
 The ConsoleLogger type exposes the following members:
 
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [`__init__(self)`](/metadata/python-net/groupdocs.metadata.logging/consolelogger/__init__/#) | The default constructor. |
-
+| [__init__](/metadata/python-net/groupdocs.metadata.logging/consolelogger/__init__/) |  |
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`trace(self, message)`](/metadata/python-net/groupdocs.metadata.logging/consolelogger/trace/#system.string) | Writes trace log message; Trace log messages provides generally useful information about application flow. |
-| [`warning(self, message)`](/metadata/python-net/groupdocs.metadata.logging/consolelogger/warning/#system.string) | Writes warning log message; Warning log messages provides information about unexpected and recoverable event in application flow. |
-
-
+| [_error_string_exception](/metadata/python-net/groupdocs.metadata.logging/consolelogger/_error_string_exception/#message-exception) |  |
+| [_init_noargs](/metadata/python-net/groupdocs.metadata.logging/consolelogger/_init_noargs/) |  |
+| [_trace_string](/metadata/python-net/groupdocs.metadata.logging/consolelogger/_trace_string/#message) |  |
+| [_warning_string](/metadata/python-net/groupdocs.metadata.logging/consolelogger/_warning_string/#message) |  |
+| [error](/metadata/python-net/groupdocs.metadata.logging/consolelogger/error/) |  |
+| [error_file](/metadata/python-net/groupdocs.metadata.logging/consolelogger/error_file/) |  |
+| [error_string](/metadata/python-net/groupdocs.metadata.logging/consolelogger/error_string/) |  |
+| [trace](/metadata/python-net/groupdocs.metadata.logging/consolelogger/trace/) |  |
+| [trace_file](/metadata/python-net/groupdocs.metadata.logging/consolelogger/trace_file/) |  |
+| [trace_string](/metadata/python-net/groupdocs.metadata.logging/consolelogger/trace_string/) |  |
+| [warning](/metadata/python-net/groupdocs.metadata.logging/consolelogger/warning/) |  |
+| [warning_file](/metadata/python-net/groupdocs.metadata.logging/consolelogger/warning_file/) |  |
+| [warning_string](/metadata/python-net/groupdocs.metadata.logging/consolelogger/warning_string/) |  |
 
 ### See Also
-* module [`groupdocs.metadata.logging`](..)
-* class [`ILogger`](/metadata/python-net/groupdocs.metadata.logging/ilogger)
+* module [`groupdocs.metadata.logging`](/metadata/python-net/groupdocs.metadata.logging/)

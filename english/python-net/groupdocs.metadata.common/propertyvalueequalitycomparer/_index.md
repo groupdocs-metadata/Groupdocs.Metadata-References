@@ -1,34 +1,33 @@
-﻿---
+---
 title: PropertyValueEqualityComparer class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
-weight: 130
 url: /python-net/groupdocs.metadata.common/propertyvalueequalitycomparer/
 is_root: false
+weight: 200
 ---
 
+
 ## PropertyValueEqualityComparer class
-
-Defines methods to support the comparison of property values for equality.
-
-
 
 The PropertyValueEqualityComparer type exposes the following members:
 
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [`__init__(self)`](/metadata/python-net/groupdocs.metadata.common/propertyvalueequalitycomparer/__init__/#) | Constructs a new instance of PropertyValueEqualityComparer |
-
+| [__init__](/metadata/python-net/groupdocs.metadata.common/propertyvalueequalitycomparer/__init__/) |  |
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`equals(self, x, y)`](/metadata/python-net/groupdocs.metadata.common/propertyvalueequalitycomparer/equals/#groupdocs.metadata.common.propertyvalue-groupdocs.metadata.common.propertyvalue) | Determines whether the specified objects are equal. |
-| [`get_hash_code(self, obj)`](/metadata/python-net/groupdocs.metadata.common/propertyvalueequalitycomparer/get_hash_code/#groupdocs.metadata.common.propertyvalue) | Returns a hash code for the specified object. |
-
-
+| [_equals_property_value_property_value](/metadata/python-net/groupdocs.metadata.common/propertyvalueequalitycomparer/_equals_property_value_property_value/#x-y) |  |
+| [_get_hash_code_property_value](/metadata/python-net/groupdocs.metadata.common/propertyvalueequalitycomparer/_get_hash_code_property_value/#obj) |  |
+| [_init_noargs](/metadata/python-net/groupdocs.metadata.common/propertyvalueequalitycomparer/_init_noargs/) |  |
+| [equals](/metadata/python-net/groupdocs.metadata.common/propertyvalueequalitycomparer/equals/) |  |
+| [equals_property_value](/metadata/python-net/groupdocs.metadata.common/propertyvalueequalitycomparer/equals_property_value/) |  |
+| [get_hash_code](/metadata/python-net/groupdocs.metadata.common/propertyvalueequalitycomparer/get_hash_code/) |  |
+| [get_hash_code_property_value](/metadata/python-net/groupdocs.metadata.common/propertyvalueequalitycomparer/get_hash_code_property_value/) |  |
 
 ### See Also
-* module [`groupdocs.metadata.common`](..)
+* module [`groupdocs.metadata.common`](/metadata/python-net/groupdocs.metadata.common/)

@@ -1,17 +1,16 @@
-﻿---
+---
 title: type property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
-weight: 50
 url: /python-net/groupdocs.metadata.common/propertyvalue/type/
 is_root: false
+weight: 2020
 ---
+
 
 ## type property
 
-
-Gets the [`MetadataPropertyType`](/metadata/python-net/groupdocs.metadata.common/metadatapropertytype).
 ### Definition:
 ```python
 @property
@@ -23,6 +22,4 @@ def type(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.metadata.common`](../../)
-* class [`MetadataPropertyType`](/metadata/python-net/groupdocs.metadata.common/metadatapropertytype)
-* class [`PropertyValue`](/metadata/python-net/groupdocs.metadata.common/propertyvalue)
+* class [`PropertyValue`](/metadata/python-net/groupdocs.metadata.common/propertyvalue/)

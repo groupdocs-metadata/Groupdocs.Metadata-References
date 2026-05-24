@@ -1,33 +1,24 @@
-﻿---
+---
 title: start method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
-weight: 20
 url: /python-net/groupdocs.metadata.logging/logging/start/
 is_root: false
+weight: 1010
 ---
 
-## start(, logger) {#groupdocs.metadata.logging.ILogger}
 
-Start logging.
-
-
+## start {#logger}
 
 ```python
-
-@staticmethod
-def start(logger):
+def start(cls, logger):
     ...
 ```
 
-
 | Parameter | Type | Description |
 | :- | :- | :- |
-| logger | groupdocs.metadata.logging.ILogger | The error message. |
-
-
+| logger | `ILogger` |  |
 
 ### See Also
-* module [`groupdocs.metadata.logging`](../../)
-* class [`Logging`](/metadata/python-net/groupdocs.metadata.logging/logging)
+* class [`Logging`](/metadata/python-net/groupdocs.metadata.logging/logging/)

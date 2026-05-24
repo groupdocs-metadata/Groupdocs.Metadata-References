@@ -1,35 +1,25 @@
-﻿---
+---
 title: get_consumption_quantity method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
-weight: 30
 url: /python-net/groupdocs.metadata/metered/get_consumption_quantity/
 is_root: false
+weight: 1020
 ---
 
-## get_consumption_quantity() {#}
 
-Gets the consumption file size.
+## get_consumption_quantity
 
-
-### Returns 
-
-
-The consumption file size.
-
+Return the total metered quantity consumed so far.
 
 ```python
-
-@staticmethod
 def get_consumption_quantity():
     ...
 ```
 
-
-
-
+**Returns:** float: The cumulative usage (typically in pages or documents)
+recorded against the current metered key.
 
 ### See Also
-* module [`groupdocs.metadata`](../../)
-* class [`Metered`](/metadata/python-net/groupdocs.metadata/metered)
+* class [`Metered`](/metadata/python-net/groupdocs.metadata/metered/)

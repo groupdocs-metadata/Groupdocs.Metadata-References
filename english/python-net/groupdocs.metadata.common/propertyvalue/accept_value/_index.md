@@ -1,33 +1,20 @@
-﻿---
+---
 title: accept_value method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
-weight: 20
 url: /python-net/groupdocs.metadata.common/propertyvalue/accept_value/
 is_root: false
+weight: 1210
 ---
 
-## accept_value(self, value_acceptor) {#groupdocs.metadata.common.ValueAcceptor}
 
-Extracts the property value using a custom [`ValueAcceptor`](/metadata/python-net/groupdocs.metadata.common/valueacceptor).
-
-
+## accept_value
 
 ```python
-
-def accept_value(self, value_acceptor):
+def accept_value(self):
     ...
 ```
 
-
-| Parameter | Type | Description |
-| :- | :- | :- |
-| value_acceptor | groupdocs.metadata.common.ValueAcceptor | An acceptor that extracts the value. |
-
-
-
 ### See Also
-* module [`groupdocs.metadata.common`](../../)
-* class [`PropertyValue`](/metadata/python-net/groupdocs.metadata.common/propertyvalue)
-* class [`ValueAcceptor`](/metadata/python-net/groupdocs.metadata.common/valueacceptor)
+* class [`PropertyValue`](/metadata/python-net/groupdocs.metadata.common/propertyvalue/)

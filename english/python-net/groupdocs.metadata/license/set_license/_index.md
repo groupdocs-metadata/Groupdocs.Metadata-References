@@ -1,55 +1,30 @@
-﻿---
+---
 title: set_license method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
-weight: 20
 url: /python-net/groupdocs.metadata/license/set_license/
 is_root: false
+weight: 1010
 ---
 
-## set_license(self, file_path) {#System.String}
 
-Licenses the component.
+## set_license {#license_source}
 
-
+Apply a license to the current process.
 
 ```python
-
-def set_license(self, file_path):
+def set_license(self, license_source):
     ...
 ```
 
-
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_path | System.String | The absolute path to a license file. |
+| license_source |  | Either a string path to a ``.lic`` file or a readable file-like object that yields the license bytes. File-like inputs are written to a temporary file before being passed to the bridge. |
 
-### Example 
-
-
-This example demonstrates how to setup license.
-
-
-## set_license(self, stream) {#io.RawIOBase}
-
-Licenses the component.
-
-
-
-```python
-
-def set_license(self, stream):
-    ...
-```
-
-
-| Parameter | Type | Description |
-| :- | :- | :- |
-| stream | io.RawIOBase | License stream. |
-
-
+| Raises | Description |
+| :- | :- |
+| `TypeError` | If ``license_source`` is neither a string path nor a readable file-like object. |
 
 ### See Also
-* module [`groupdocs.metadata`](../../)
-* class [`License`](/metadata/python-net/groupdocs.metadata/license)
+* class [`License`](/metadata/python-net/groupdocs.metadata/license/)

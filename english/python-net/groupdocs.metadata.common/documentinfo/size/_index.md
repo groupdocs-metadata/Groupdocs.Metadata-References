@@ -1,17 +1,16 @@
-﻿---
+---
 title: size property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
-weight: 70
 url: /python-net/groupdocs.metadata.common/documentinfo/size/
 is_root: false
+weight: 2050
 ---
+
 
 ## size property
 
-
-Gets the size of the loaded document in bytes.
 ### Definition:
 ```python
 @property
@@ -20,5 +19,4 @@ def size(self):
 ```
 
 ### See Also
-* module [`groupdocs.metadata.common`](../../)
-* class [`DocumentInfo`](/metadata/python-net/groupdocs.metadata.common/documentinfo)
+* class [`DocumentInfo`](/metadata/python-net/groupdocs.metadata.common/documentinfo/)

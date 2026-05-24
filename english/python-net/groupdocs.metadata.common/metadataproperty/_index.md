@@ -1,31 +1,26 @@
-﻿---
+---
 title: MetadataProperty class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
-weight: 80
 url: /python-net/groupdocs.metadata.common/metadataproperty/
 is_root: false
+weight: 120
 ---
 
+
 ## MetadataProperty class
-
-Represents a metadata property.
-
-
 
 The MetadataProperty type exposes the following members:
 
 ### Properties
 | Property | Description |
 | :- | :- |
-| [name](/metadata/python-net/groupdocs.metadata.common/metadataproperty/name) | Gets the property name. |
-| [value](/metadata/python-net/groupdocs.metadata.common/metadataproperty/value) | Gets the property value. |
-| [interpreted_value](/metadata/python-net/groupdocs.metadata.common/metadataproperty/interpreted_value) | Gets the interpreted property value, if available.<br/>The interpreted value is a user-friendly form of the original property value. <br/>For example, it returns a human-readable string instead of numeric flags and ids, <br/>if necessary, translates byte arrays to text, etc. |
-| [descriptor](/metadata/python-net/groupdocs.metadata.common/metadataproperty/descriptor) | Gets the descriptor associated with the metadata property. |
-| [tags](/metadata/python-net/groupdocs.metadata.common/metadataproperty/tags) | Gets a collection of tags associated with the property. |
-
-
+| [descriptor](/metadata/python-net/groupdocs.metadata.common/metadataproperty/descriptor/) |  |
+| [interpreted_value](/metadata/python-net/groupdocs.metadata.common/metadataproperty/interpreted_value/) |  |
+| [name](/metadata/python-net/groupdocs.metadata.common/metadataproperty/name/) |  |
+| [tags](/metadata/python-net/groupdocs.metadata.common/metadataproperty/tags/) |  |
+| [value](/metadata/python-net/groupdocs.metadata.common/metadataproperty/value/) |  |
 
 ### See Also
-* module [`groupdocs.metadata.common`](..)
+* module [`groupdocs.metadata.common`](/metadata/python-net/groupdocs.metadata.common/)

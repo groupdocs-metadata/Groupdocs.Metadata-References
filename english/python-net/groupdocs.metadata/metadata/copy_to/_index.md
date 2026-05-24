@@ -1,66 +1,20 @@
-﻿---
+---
 title: copy_to method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
-weight: 30
 url: /python-net/groupdocs.metadata/metadata/copy_to/
 is_root: false
+weight: 1240
 ---
 
-## copy_to(self, metadata) {#groupdocs.metadata.common.MetadataPackage}
 
-Copy known metadata properties from source package to destination package.
-The operation is recursive so it affects all nested packages as well.
-If an existing property its value is updated. 
-If there is a known property missing in a destination package it is added to the package.
-If there is a known property missing in a source package it is not remove from destination package. If that need, use Sanitize method before.
-
-
+## copy_to
 
 ```python
-
-def copy_to(self, metadata):
+def copy_to(self):
     ...
 ```
-
-
-| Parameter | Type | Description |
-| :- | :- | :- |
-| metadata | groupdocs.metadata.common.MetadataPackage | A destination metadata package. |
-### Remarks
-
-If the package types do not match, an error will be returned.
-
-**Learn more** |
-|
- |
-### Example 
-
-
-This example demonstrates how to copy metadata properties from source package to destination package.
-
-
-## copy_to(self, metadata, tags) {#groupdocs.metadata.common.MetadataPackage-System.Collections.Generic.List`1[[GroupDocs.Metadata.Tagging.PropertyTag]]}
-
-
-
-
-
-```python
-
-def copy_to(self, metadata, tags):
-    ...
-```
-
-
-| Parameter | Type | Description |
-| :- | :- | :- |
-| metadata | groupdocs.metadata.common.MetadataPackage |  |
-| tags | System.Collections.Generic.List`1[[GroupDocs.Metadata.Tagging.PropertyTag]] |  |
-
-
 
 ### See Also
-* module [`groupdocs.metadata`](../../)
-* class [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata)
+* class [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata/)

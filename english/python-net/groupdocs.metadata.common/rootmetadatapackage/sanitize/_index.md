@@ -1,39 +1,20 @@
-﻿---
+---
 title: sanitize method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
-weight: 60
 url: /python-net/groupdocs.metadata.common/rootmetadatapackage/sanitize/
 is_root: false
+weight: 1020
 ---
 
-## sanitize(self) {#}
 
-Removes writable metadata properties from the package.
-The operation is recursive so it affects all nested packages as well.
-
-
-### Returns 
-
-
-The number of affected properties.
-
+## sanitize
 
 ```python
-
 def sanitize(self):
     ...
 ```
 
-
-### Remarks
-
-**Learn more** |
-|
- |
-
-
 ### See Also
-* module [`groupdocs.metadata.common`](../../)
-* class [`RootMetadataPackage`](/metadata/python-net/groupdocs.metadata.common/rootmetadatapackage)
+* class [`RootMetadataPackage`](/metadata/python-net/groupdocs.metadata.common/rootmetadatapackage/)

@@ -1,50 +1,55 @@
-﻿---
+---
 title: RootMetadataPackage class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
-weight: 150
 url: /python-net/groupdocs.metadata.common/rootmetadatapackage/
 is_root: false
+weight: 230
 ---
+
 
 ## RootMetadataPackage class
 
-Represents an entry point to all metadata packages presented in a particular file.
-
-
-
-**Inheritance:** [`RootMetadataPackage`](/metadata/python-net/groupdocs.metadata.common/rootmetadatapackage) → 
-[`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage)
-
-
-
 The RootMetadataPackage type exposes the following members:
-
-### Properties
-| Property | Description |
-| :- | :- |
-| [metadata_type](/metadata/python-net/groupdocs.metadata.common/rootmetadatapackage/metadata_type) | Gets the metadata type. |
-| [keys](/metadata/python-net/groupdocs.metadata.common/rootmetadatapackage/keys) | Gets a collection of the metadata property names. |
-| [property_descriptors](/metadata/python-net/groupdocs.metadata.common/rootmetadatapackage/property_descriptors) | Gets a collection of descriptors that contain information about properties accessible through the GroupDocs.Metadata search engine. |
-| [count](/metadata/python-net/groupdocs.metadata.common/rootmetadatapackage/count) | Gets the number of metadata properties. |
-| [file_type](/metadata/python-net/groupdocs.metadata.common/rootmetadatapackage/file_type) | Gets the file type metadata package. |
-
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`contains(self, property_name)`](/metadata/python-net/groupdocs.metadata.common/rootmetadatapackage/contains/#system.string) | Determines whether the package contains a metadata property with the specified name. |
-| [`find_properties(self, specification)`](/metadata/python-net/groupdocs.metadata.common/rootmetadatapackage/find_properties/#groupdocs.metadata.search.specification) | Finds the metadata properties satisfying a specification. <br/>The search is recursive so it affects all nested packages as well. |
-| [`update_properties(self, specification, value)`](/metadata/python-net/groupdocs.metadata.common/rootmetadatapackage/update_properties/#groupdocs.metadata.search.specification-groupdocs.metadata.common.propertyvalue) | Updates known metadata properties satisfying a specification.<br/>The operation is recursive so it affects all nested packages as well. |
-| [`remove_properties(self, specification)`](/metadata/python-net/groupdocs.metadata.common/rootmetadatapackage/remove_properties/#groupdocs.metadata.search.specification) | Removes metadata properties satisfying a specification. |
-| [`add_properties(self, specification, value)`](/metadata/python-net/groupdocs.metadata.common/rootmetadatapackage/add_properties/#groupdocs.metadata.search.specification-groupdocs.metadata.common.propertyvalue) | Adds known metadata properties satisfying the specification.<br/>The operation is recursive so it affects all nested packages as well. |
-| [`set_properties(self, specification, value)`](/metadata/python-net/groupdocs.metadata.common/rootmetadatapackage/set_properties/#groupdocs.metadata.search.specification-groupdocs.metadata.common.propertyvalue) | Sets known metadata properties satisfying the specification.<br/>The operation is recursive so it affects all nested packages as well.<br/>This method is a combination of [`MetadataPackage.add_properties`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/add_properties) and [`MetadataPackage.update_properties`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/update_properties). <br/>If an existing property satisfies the specification its value is updated. <br/>If there is a known property missing in the package that satisfies the specification it is added to the package. |
-| [`sanitize(self)`](/metadata/python-net/groupdocs.metadata.common/rootmetadatapackage/sanitize/#) | Removes writable metadata properties from the package.<br/>The operation is recursive so it affects all nested packages as well. |
+| [_sanitize_noargs](/metadata/python-net/groupdocs.metadata.common/rootmetadatapackage/_sanitize_noargs/) |  |
+| [sanitize](/metadata/python-net/groupdocs.metadata.common/rootmetadatapackage/sanitize/) |  |
+| [_add_properties_func_2_0c75_property_value](/metadata/python-net/groupdocs.metadata.common/metadatapackage/_add_properties_func_2_0c75_property_value/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [_contains_string](/metadata/python-net/groupdocs.metadata.common/metadatapackage/_contains_string/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [_find_properties_func_2_0c75](/metadata/python-net/groupdocs.metadata.common/metadatapackage/_find_properties_func_2_0c75/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [_get_enumerator_noargs](/metadata/python-net/groupdocs.metadata.common/metadatapackage/_get_enumerator_noargs/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [_remove_properties_func_2_0c75](/metadata/python-net/groupdocs.metadata.common/metadatapackage/_remove_properties_func_2_0c75/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [_set_properties_func_2_0c75_property_value](/metadata/python-net/groupdocs.metadata.common/metadatapackage/_set_properties_func_2_0c75_property_value/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [_update_properties_func_2_0c75_property_value](/metadata/python-net/groupdocs.metadata.common/metadatapackage/_update_properties_func_2_0c75_property_value/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [add_properties](/metadata/python-net/groupdocs.metadata.common/metadatapackage/add_properties/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [add_properties_func](/metadata/python-net/groupdocs.metadata.common/metadatapackage/add_properties_func/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [contains](/metadata/python-net/groupdocs.metadata.common/metadatapackage/contains/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [contains_file](/metadata/python-net/groupdocs.metadata.common/metadatapackage/contains_file/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [contains_string](/metadata/python-net/groupdocs.metadata.common/metadatapackage/contains_string/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [find_properties](/metadata/python-net/groupdocs.metadata.common/metadatapackage/find_properties/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [find_properties_func](/metadata/python-net/groupdocs.metadata.common/metadatapackage/find_properties_func/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [get_enumerator](/metadata/python-net/groupdocs.metadata.common/metadatapackage/get_enumerator/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [remove_properties](/metadata/python-net/groupdocs.metadata.common/metadatapackage/remove_properties/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [remove_properties_func](/metadata/python-net/groupdocs.metadata.common/metadatapackage/remove_properties_func/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [set_properties](/metadata/python-net/groupdocs.metadata.common/metadatapackage/set_properties/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [set_properties_func](/metadata/python-net/groupdocs.metadata.common/metadatapackage/set_properties_func/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [update_properties](/metadata/python-net/groupdocs.metadata.common/metadatapackage/update_properties/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [update_properties_func](/metadata/python-net/groupdocs.metadata.common/metadatapackage/update_properties_func/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
 
-
+### Properties
+| Property | Description |
+| :- | :- |
+| [file_type](/metadata/python-net/groupdocs.metadata.common/rootmetadatapackage/file_type/) |  |
+| [count](/metadata/python-net/groupdocs.metadata.common/metadatapackage/count/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [item](/metadata/python-net/groupdocs.metadata.common/metadatapackage/item/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [keys](/metadata/python-net/groupdocs.metadata.common/metadatapackage/keys/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [know_property_descriptors](/metadata/python-net/groupdocs.metadata.common/metadatapackage/know_property_descriptors/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [metadata_type](/metadata/python-net/groupdocs.metadata.common/metadatapackage/metadata_type/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [property_descriptors](/metadata/python-net/groupdocs.metadata.common/metadatapackage/property_descriptors/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
 
 ### See Also
-* module [`groupdocs.metadata.common`](..)
-* class [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage)
-* class [`RootMetadataPackage`](/metadata/python-net/groupdocs.metadata.common/rootmetadatapackage)
+* module [`groupdocs.metadata.common`](/metadata/python-net/groupdocs.metadata.common/)

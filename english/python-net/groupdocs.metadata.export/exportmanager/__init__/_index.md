@@ -1,32 +1,20 @@
-﻿---
-title: ExportManager constructor
+---
+title: __init__ constructor
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
-weight: 10
 url: /python-net/groupdocs.metadata.export/exportmanager/__init__/
 is_root: false
+weight: 10
 ---
 
-## \_\_init\_\_(self, properties) {#list}
 
-Constructs a new instance of ExportManager
-
-
+## __init__
 
 ```python
-
-def __init__(self, properties):
+def __init__(self):
     ...
 ```
 
-
-| Parameter | Type | Description |
-| :- | :- | :- |
-| properties | list |  |
-
-
-
 ### See Also
-* module [`groupdocs.metadata.export`](../../)
-* class [`ExportManager`](/metadata/python-net/groupdocs.metadata.export/exportmanager)
+* class [`ExportManager`](/metadata/python-net/groupdocs.metadata.export/exportmanager/)

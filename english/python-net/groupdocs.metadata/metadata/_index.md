@@ -1,58 +1,75 @@
-﻿---
+---
 title: Metadata class
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
-weight: 20
 url: /python-net/groupdocs.metadata/metadata/
 is_root: false
+weight: 50
 ---
 
+
 ## Metadata class
-
-Provides the main class to access metadata in all supported formats.
-
-
 
 The Metadata type exposes the following members:
 
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [`__init__(self, file_path)`](/metadata/python-net/groupdocs.metadata/metadata/__init__/#system.string) | Initializes a new instance of the [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata) class. |
-| [`__init__(self, document)`](/metadata/python-net/groupdocs.metadata/metadata/__init__/#io.rawiobase) | Initializes a new instance of the [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata) class. |
-| [`__init__(self, file_path, load_options)`](/metadata/python-net/groupdocs.metadata/metadata/__init__/#system.string-groupdocs.metadata.options.loadoptions) | Initializes a new instance of the [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata) class. |
-| [`__init__(self, document, load_options)`](/metadata/python-net/groupdocs.metadata/metadata/__init__/#io.rawiobase-groupdocs.metadata.options.loadoptions) | Initializes a new instance of the [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata) class. |
-| [`__init__(self, uri)`](/metadata/python-net/groupdocs.metadata/metadata/__init__/#system.uri) | Initializes a new instance of the [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata) class. |
-| [`__init__(self, uri, load_options)`](/metadata/python-net/groupdocs.metadata/metadata/__init__/#system.uri-groupdocs.metadata.options.loadoptions) | Initializes a new instance of the [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata) class. |
-
-
-### Properties
-| Property | Description |
-| :- | :- |
-| [file_format](/metadata/python-net/groupdocs.metadata/metadata/file_format) | Gets the type of the loaded file (if recognized). |
-
+| [__init__](/metadata/python-net/groupdocs.metadata/metadata/__init__/) |  |
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [`save(self)`](/metadata/python-net/groupdocs.metadata/metadata/save/#) | Saves all changes made in the loaded document. |
-| [`save(self, document)`](/metadata/python-net/groupdocs.metadata/metadata/save/#io.rawiobase) | Saves the document content into a stream. |
-| [`save(self, file_path)`](/metadata/python-net/groupdocs.metadata/metadata/save/#system.string) | Saves the document content to the specified file. |
-| [`copy_to(self, metadata)`](/metadata/python-net/groupdocs.metadata/metadata/copy_to/#groupdocs.metadata.common.metadatapackage) | Copy known metadata properties from source package to destination package.<br/>The operation is recursive so it affects all nested packages as well.<br/>If an existing property its value is updated. <br/>If there is a known property missing in a destination package it is added to the package.<br/>If there is a known property missing in a source package it is not remove from destination package. If that need, use Sanitize method before. |
-| [`copy_to(self, metadata, tags)`](/metadata/python-net/groupdocs.metadata/metadata/copy_to/#groupdocs.metadata.common.metadatapackage-system.collections.generic.list`1[[groupdocs.metadata.tagging.propertytag]]) |  |
-| [`get_root_package(self)`](/metadata/python-net/groupdocs.metadata/metadata/get_root_package/#) | Gets the root package providing access to all metadata properties extracted from the file. |
-| [`find_properties(self, specification)`](/metadata/python-net/groupdocs.metadata/metadata/find_properties/#groupdocs.metadata.search.specification) | Finds the metadata properties satisfying a specification. <br/>The search is recursive so it affects all nested packages as well. |
-| [`update_properties(self, specification, value)`](/metadata/python-net/groupdocs.metadata/metadata/update_properties/#groupdocs.metadata.search.specification-groupdocs.metadata.common.propertyvalue) | Updates known metadata properties satisfying a specification.<br/>The operation is recursive so it affects all nested packages as well. |
-| [`remove_properties(self, specification)`](/metadata/python-net/groupdocs.metadata/metadata/remove_properties/#groupdocs.metadata.search.specification) | Removes metadata properties satisfying a specification. |
-| [`add_properties(self, specification, value)`](/metadata/python-net/groupdocs.metadata/metadata/add_properties/#groupdocs.metadata.search.specification-groupdocs.metadata.common.propertyvalue) | Adds known metadata properties satisfying the specification.<br/>The operation is recursive so it affects all nested packages as well. |
-| [`set_properties(self, specification, value)`](/metadata/python-net/groupdocs.metadata/metadata/set_properties/#groupdocs.metadata.search.specification-groupdocs.metadata.common.propertyvalue) | Sets known metadata properties satisfying the specification.<br/>The operation is recursive so it affects all nested packages as well.<br/>This method is a combination of [`Metadata.add_properties`](/metadata/python-net/groupdocs.metadata/metadata/add_properties) and [`Metadata.update_properties`](/metadata/python-net/groupdocs.metadata/metadata/update_properties). <br/>If an existing property satisfies the specification its value is updated. <br/>If there is a known property missing in the package that satisfies the specification it is added to the package. |
-| [`sanitize(self)`](/metadata/python-net/groupdocs.metadata/metadata/sanitize/#) | Removes writable metadata properties from all detected packages or whole packages if possible.<br/>The operation is recursive so it affects all nested packages as well. |
-| [`generate_preview(self, preview_options)`](/metadata/python-net/groupdocs.metadata/metadata/generate_preview/#groupdocs.metadata.options.previewoptions) | Creates preview images for specified pages. |
-| [`get_document_info(self)`](/metadata/python-net/groupdocs.metadata/metadata/get_document_info/#) | Gets common information about the loaded document. |
+| [_add_properties_func_2_0c75_property_value](/metadata/python-net/groupdocs.metadata/metadata/_add_properties_func_2_0c75_property_value/#predicate-value) |  |
+| [_copy_to_metadata_package](/metadata/python-net/groupdocs.metadata/metadata/_copy_to_metadata_package/#metadata) |  |
+| [_copy_to_metadata_package_list_1_0958](/metadata/python-net/groupdocs.metadata/metadata/_copy_to_metadata_package_list_1_0958/#metadata-tags) |  |
+| [_dispose_noargs](/metadata/python-net/groupdocs.metadata/metadata/_dispose_noargs/) |  |
+| [_find_properties_func_2_0c75](/metadata/python-net/groupdocs.metadata/metadata/_find_properties_func_2_0c75/#predicate) |  |
+| [_generate_preview_preview_options](/metadata/python-net/groupdocs.metadata/metadata/_generate_preview_preview_options/#preview_options) |  |
+| [_get_document_info_noargs](/metadata/python-net/groupdocs.metadata/metadata/_get_document_info_noargs/) |  |
+| [_get_root_package_noargs](/metadata/python-net/groupdocs.metadata/metadata/_get_root_package_noargs/) |  |
+| [_init_stream](/metadata/python-net/groupdocs.metadata/metadata/_init_stream/#document) |  |
+| [_init_stream_load_options](/metadata/python-net/groupdocs.metadata/metadata/_init_stream_load_options/#document-load_options) |  |
+| [_init_string](/metadata/python-net/groupdocs.metadata/metadata/_init_string/#file_path) |  |
+| [_init_string_load_options](/metadata/python-net/groupdocs.metadata/metadata/_init_string_load_options/#file_path-load_options) |  |
+| [_init_uri](/metadata/python-net/groupdocs.metadata/metadata/_init_uri/#uri) |  |
+| [_init_uri_load_options](/metadata/python-net/groupdocs.metadata/metadata/_init_uri_load_options/#uri-load_options) |  |
+| [_remove_properties_func_2_0c75](/metadata/python-net/groupdocs.metadata/metadata/_remove_properties_func_2_0c75/#predicate) |  |
+| [_sanitize_noargs](/metadata/python-net/groupdocs.metadata/metadata/_sanitize_noargs/) |  |
+| [_save_noargs](/metadata/python-net/groupdocs.metadata/metadata/_save_noargs/) |  |
+| [_save_stream](/metadata/python-net/groupdocs.metadata/metadata/_save_stream/#document) |  |
+| [_save_string](/metadata/python-net/groupdocs.metadata/metadata/_save_string/#file_path) |  |
+| [_set_properties_func_2_0c75_property_value](/metadata/python-net/groupdocs.metadata/metadata/_set_properties_func_2_0c75_property_value/#predicate-value) |  |
+| [_update_properties_func_2_0c75_property_value](/metadata/python-net/groupdocs.metadata/metadata/_update_properties_func_2_0c75_property_value/#predicate-value) |  |
+| [add_properties](/metadata/python-net/groupdocs.metadata/metadata/add_properties/) |  |
+| [add_properties_func](/metadata/python-net/groupdocs.metadata/metadata/add_properties_func/) |  |
+| [copy_to](/metadata/python-net/groupdocs.metadata/metadata/copy_to/) |  |
+| [copy_to_metadata_package](/metadata/python-net/groupdocs.metadata/metadata/copy_to_metadata_package/) |  |
+| [dispose](/metadata/python-net/groupdocs.metadata/metadata/dispose/) |  |
+| [find_properties](/metadata/python-net/groupdocs.metadata/metadata/find_properties/) |  |
+| [find_properties_func](/metadata/python-net/groupdocs.metadata/metadata/find_properties_func/) |  |
+| [generate_preview](/metadata/python-net/groupdocs.metadata/metadata/generate_preview/) |  |
+| [generate_preview_preview_options](/metadata/python-net/groupdocs.metadata/metadata/generate_preview_preview_options/) |  |
+| [get_document_info](/metadata/python-net/groupdocs.metadata/metadata/get_document_info/) |  |
+| [get_root_package](/metadata/python-net/groupdocs.metadata/metadata/get_root_package/) |  |
+| [remove_properties](/metadata/python-net/groupdocs.metadata/metadata/remove_properties/) |  |
+| [remove_properties_func](/metadata/python-net/groupdocs.metadata/metadata/remove_properties_func/) |  |
+| [sanitize](/metadata/python-net/groupdocs.metadata/metadata/sanitize/) |  |
+| [save](/metadata/python-net/groupdocs.metadata/metadata/save/) |  |
+| [save_file](/metadata/python-net/groupdocs.metadata/metadata/save_file/) |  |
+| [save_stream](/metadata/python-net/groupdocs.metadata/metadata/save_stream/) |  |
+| [save_streams](/metadata/python-net/groupdocs.metadata/metadata/save_streams/) |  |
+| [save_string](/metadata/python-net/groupdocs.metadata/metadata/save_string/) |  |
+| [set_properties](/metadata/python-net/groupdocs.metadata/metadata/set_properties/) |  |
+| [set_properties_func](/metadata/python-net/groupdocs.metadata/metadata/set_properties_func/) |  |
+| [update_properties](/metadata/python-net/groupdocs.metadata/metadata/update_properties/) |  |
+| [update_properties_func](/metadata/python-net/groupdocs.metadata/metadata/update_properties_func/) |  |
 
-
+### Properties
+| Property | Description |
+| :- | :- |
+| [file_format](/metadata/python-net/groupdocs.metadata/metadata/file_format/) |  |
 
 ### See Also
-* module [`groupdocs.metadata`](..)
-* class [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata)
+* module [`groupdocs.metadata`](/metadata/python-net/groupdocs.metadata/)

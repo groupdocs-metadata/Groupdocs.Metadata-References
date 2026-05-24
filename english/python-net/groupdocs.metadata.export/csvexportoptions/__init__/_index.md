@@ -1,29 +1,20 @@
-﻿---
-title: CsvExportOptions constructor
+---
+title: __init__ constructor
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
-weight: 10
 url: /python-net/groupdocs.metadata.export/csvexportoptions/__init__/
 is_root: false
+weight: 10
 ---
 
-## \_\_init\_\_(self) {#}
 
-Initializes a new instance of the [`CsvExportOptions`](/metadata/python-net/groupdocs.metadata.export/csvexportoptions) class.
-
-
+## __init__
 
 ```python
-
 def __init__(self):
     ...
 ```
 
-
-
-
-
 ### See Also
-* module [`groupdocs.metadata.export`](../../)
-* class [`CsvExportOptions`](/metadata/python-net/groupdocs.metadata.export/csvexportoptions)
+* class [`CsvExportOptions`](/metadata/python-net/groupdocs.metadata.export/csvexportoptions/)

@@ -1,38 +1,26 @@
-﻿---
+---
 title: from_extension method
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
-weight: 20
 url: /python-net/groupdocs.metadata.common/filetype/from_extension/
 is_root: false
+weight: 1020
 ---
 
-## from_extension(, file_extension) {#System.String}
 
-Gets FileType for provided fileExtension
-
-
-### Returns 
-
-
-File type
-
+## from_extension {#file_extension}
 
 ```python
-
-@staticmethod
-def from_extension(file_extension):
+def from_extension(cls, file_extension):
     ...
 ```
 
-
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_extension | System.String | File extension |
+| file_extension | `str` |  |
 
-
+**Returns:** FileType
 
 ### See Also
-* module [`groupdocs.metadata.common`](../../)
-* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype)
+* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype/)

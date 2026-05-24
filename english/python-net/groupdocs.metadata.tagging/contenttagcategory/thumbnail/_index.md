@@ -1,17 +1,16 @@
-﻿---
+---
 title: thumbnail property
 second_title: GroupDocs.Metadata for Python via .NET API References
 description: 
 type: docs
-weight: 160
 url: /python-net/groupdocs.metadata.tagging/contenttagcategory/thumbnail/
 is_root: false
+weight: 2140
 ---
+
 
 ## thumbnail property
 
-
-Gets the tag that indicates a thumbnail image attached to a file.
 ### Definition:
 ```python
 @property
@@ -23,6 +22,4 @@ def thumbnail(self, value):
 ```
 
 ### See Also
-* module [`groupdocs.metadata.tagging`](../../)
-* class [`ContentTagCategory`](/metadata/python-net/groupdocs.metadata.tagging/contenttagcategory)
-* class [`PropertyTag`](/metadata/python-net/groupdocs.metadata.tagging/propertytag)
+* class [`ContentTagCategory`](/metadata/python-net/groupdocs.metadata.tagging/contenttagcategory/)
