@@ -3,7 +3,7 @@ title: FileType
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the file type.
 type: docs
-weight: 50
+weight: 60
 url: /net/groupdocs.metadata.common/filetype/
 ---
 ## FileType class
@@ -36,6 +36,7 @@ public class FileType
 | --- | --- |
 | static readonly [ASF](../../groupdocs.metadata.common/filetype/asf) | The Advanced Systems Format (ASF) is a digital multimedia container designed primarily for storing and transmitting media streams. Microsoft Windows Media Video (WMV) is the compressed video format and Microsoft Windows Media Audio (WMA) is the compressed audio format along with additional metadata in the ASF container developed by Microsoft. Learn more about this file format [here](https://wiki.fileformat.com/video/wmv/). |
 | static readonly [AVI](../../groupdocs.metadata.common/filetype/avi) | The AVI file format is an Audio Video multimedia container file format that was introduced by Microsoft. Learn more about this file format [here](https://wiki.fileformat.com/video/avi/). |
+| static readonly [AVIF](../../groupdocs.metadata.common/filetype/avif) | AV1 Image File Format (AVIF) is an open, royalty-free image file format specification for storing images or image sequences compressed with AV1 in the HEIF container format. Learn more about this file format [here](https://docs.fileformat.com/image/avif/). |
 | static readonly [BMP](../../groupdocs.metadata.common/filetype/bmp) | Files having extension .BMP represent Bitmap Image files that are used to store bitmap digital images. These images are independent of graphics adapter and are also called device independent bitmap (DIB) file format. Learn more about this file format [here](https://wiki.fileformat.com/image/bmp/). |
 | static readonly [CBRAR](../../groupdocs.metadata.common/filetype/cbrar) | A Comic Book Archive(CBA) file, also known as Comic Book Archive or Comic Book Reader file, is a popular format used to store and distribute digital comic books. It typically contains collection of individual comic book pages or images bundled together in single file for easy organization and reading. [here](https://wiki.fileformat.com/compression/cba/). |
 | static readonly [CBSEVEN](../../groupdocs.metadata.common/filetype/cbseven) | A CB7 file refers to Comic Book 7-Zip Archive. It is compressed file format commonly used for storing and distributing comic book collections digitally. CB7 files are created using 7-Zip compression software, which is known for its high compression ratio. [here](https://wiki.fileformat.com/compression/cb7/). |

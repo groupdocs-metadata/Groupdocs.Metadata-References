@@ -3,7 +3,7 @@ title: RawSByteTag
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a Raw SByte tag.
 type: docs
-weight: 2390
+weight: 2310
 url: /net/groupdocs.metadata.formats.image/rawsbytetag/
 ---
 ## RawSByteTag class

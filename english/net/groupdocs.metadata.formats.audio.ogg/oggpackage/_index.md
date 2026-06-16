@@ -3,7 +3,7 @@ title: OggPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a native metadata package in a OGG audio file.
 type: docs
-weight: 730
+weight: 780
 url: /net/groupdocs.metadata.formats.audio.ogg/oggpackage/
 ---
 ## OggPackage class

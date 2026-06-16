@@ -3,7 +3,7 @@ title: MsgAttachmentPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a metadata package containing email attachment name and data.
 type: docs
-weight: 1710
+weight: 1760
 url: /net/groupdocs.metadata.formats.email/msgattachmentpackage/
 ---
 ## MsgAttachmentPackage class

@@ -3,7 +3,7 @@ title: CBSEVEN
 second_title: GroupDocs.Metadata for .NET API Reference
 description: A CB7 file refers to Comic Book 7Zip Archive. It is compressed file format commonly used for storing and distributing comic book collections digitally. CB7 files are created using 7Zip compression software which is known for its high compression ratio. herehttps//wiki.fileformat.com/compression/cb7/.
 type: docs
-weight: 50
+weight: 60
 url: /net/groupdocs.metadata.common/filetype/cbseven/
 ---
 ## FileType.CBSEVEN field

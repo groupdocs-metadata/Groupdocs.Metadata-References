@@ -3,7 +3,7 @@ title: OpenTypeUnicodeNameRecord
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the Name record table value for the Unicode platform.
 type: docs
-weight: 1910
+weight: 1960
 url: /net/groupdocs.metadata.formats.font/opentypeunicodenamerecord/
 ---
 ## OpenTypeUnicodeNameRecord class

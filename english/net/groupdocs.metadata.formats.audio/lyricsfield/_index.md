@@ -3,7 +3,7 @@ title: LyricsField
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a LyricsTag./lyricstag field.
 type: docs
-weight: 700
+weight: 750
 url: /net/groupdocs.metadata.formats.audio/lyricsfield/
 ---
 ## LyricsField class

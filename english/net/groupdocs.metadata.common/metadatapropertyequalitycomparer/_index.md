@@ -3,7 +3,7 @@ title: MetadataPropertyEqualityComparer
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines methods to support the comparison of metadata properties for equality.
 type: docs
-weight: 140
+weight: 170
 url: /net/groupdocs.metadata.common/metadatapropertyequalitycomparer/
 ---
 ## MetadataPropertyEqualityComparer class

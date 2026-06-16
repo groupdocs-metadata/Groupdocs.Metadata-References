@@ -3,7 +3,7 @@ title: IReadOnlyListT
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a readonly collection of elements that can be accessed by index.
 type: docs
-weight: 110
+weight: 140
 url: /net/groupdocs.metadata.common/ireadonlylist-1/
 ---
 ## IReadOnlyList&lt;T&gt; interface

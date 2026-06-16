@@ -3,7 +3,7 @@ title: OggUserComment
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents Ogg User Comment metadata class.
 type: docs
-weight: 750
+weight: 800
 url: /net/groupdocs.metadata.formats.audio.ogg/oggusercomment/
 ---
 ## OggUserComment class

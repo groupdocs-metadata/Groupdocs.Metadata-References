@@ -3,7 +3,7 @@ title: CBZIP
 second_title: GroupDocs.Metadata for .NET API Reference
 description: A Comic Book ArchiveCBA file also known as Comic Book Archive or Comic Book Reader file is a popular format used to store and distribute digital comic books. It typically contains collection of individual comic book pages or images bundled together in single file for easy organization and reading. herehttps//wiki.fileformat.com/compression/cba/.
 type: docs
-weight: 70
+weight: 80
 url: /net/groupdocs.metadata.common/filetype/cbzip/
 ---
 ## FileType.CBZIP field

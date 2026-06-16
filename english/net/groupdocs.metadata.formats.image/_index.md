@@ -13,29 +13,18 @@ The namespace provides functionality allowing users to read and update metadata 
 | Class | Description |
 | --- | --- |
 | [BmpHeaderPackage](./bmpheaderpackage) | Represents BMP header info. |
-| [BmpRootPackage](./bmprootpackage) | Represents the root package intended to work with metadata in a BMP image. |
 | [DicomPackage](./dicompackage) | Represents native DICOM metadata. |
-| [DicomRootPackage](./dicomrootpackage) | Represents the root package intended to work with metadata in a DICOM image. |
-| [DjVuRootPackage](./djvurootpackage) | Represents the root package intended to work with metadata in an DjVu image. |
-| [EmfRootPackage](./emfrootpackage) | Represents the root package intended to work with metadata in an EMF image. |
 | [GifImageTypePackage](./gifimagetypepackage) | Represents a metadata package containing GIF-specific file format information. |
-| [GifRootPackage](./gifrootpackage) | Represents the root package intended to work with metadata in a GIF image. |
-| [HeifRootPackage](./heifrootpackage) | Represents the root package intended to work with metadata in a HEIF image. |
 | [ImageResourceBlock](./imageresourceblock) | Represents a Photoshop Image Resource block.  Image resource blocks are the basic building unit of several file formats, including Photoshop's native file format, JPEG, and TIFF. Image resources are used to store non-pixel data associated with images, such as pen tool paths. |
 | [ImageResourcePackage](./imageresourcepackage) | Represents a metadata package containing Photoshop Image Resources. |
-| [ImageRootPackage](./imagerootpackage) | Provides a base abstract class for all image root packages. |
 | [ImageTypePackage](./imagetypepackage) | Represents a metadata package containing image-specific file format information. |
 | [Jpeg2000Package](./jpeg2000package) | Represents native JPEG2000 metadata. |
-| [Jpeg2000RootPackage](./jpeg2000rootpackage) | Represents the root package intended to work with metadata in a JPEG2000 image. |
-| [JpegRootPackage](./jpegrootpackage) | Represents the root package allowing working with metadata in a JPEG image. |
 | [PngCompressedTextChunk](./pngcompressedtextchunk) | Represents compressed textual data extracted from a PNG image. |
 | [PngInternationalTextChunk](./pnginternationaltextchunk) | Represents international textual data extracted from a PNG image. |
 | [PngPackage](./pngpackage) | Represents native PNG metadata. |
-| [PngRootPackage](./pngrootpackage) | Represents the root package intended to work with metadata in a PNG image. |
 | [PngTextChunk](./pngtextchunk) | Represents textual data extracted from a PNG image. |
 | [PsdLayer](./psdlayer) | Represents a layer in a PSD file. |
 | [PsdPackage](./psdpackage) | Represents native Photoshop metadata. |
-| [PsdRootPackage](./psdrootpackage) | Represents the root package allowing working with metadata in a Photoshop Document. |
 | [RawDoubleTag](./rawdoubletag) | Represents a Raw Double tag. |
 | [RawFloatTag](./rawfloattag) | Represents a Raw float tag. |
 | [RawRational](./rawrational) | Represents a rational number. |
@@ -55,7 +44,6 @@ The namespace provides functionality allowing users to read and update metadata 
 | [TiffLongTag](./tifflongtag) | Represents a TIFF Long tag. |
 | [TiffRational](./tiffrational) | Represents a rational number. |
 | [TiffRationalTag](./tiffrationaltag) | Represents a TIFF Rational tag. |
-| [TiffRootPackage](./tiffrootpackage) | Represents the root package allowing working with metadata in a TIFF image. |
 | [TiffSByteTag](./tiffsbytetag) | Represents a TIFF SByte tag. |
 | [TiffShortTag](./tiffshorttag) | Represents a TIFF Short tag. |
 | [TiffSLongTag](./tiffslongtag) | Represents a TIFF SLong tag. |
@@ -64,8 +52,6 @@ The namespace provides functionality allowing users to read and update metadata 
 | [TiffSShortTag](./tiffsshorttag) | Represents a TIFF SShort tag. |
 | [TiffTag](./tifftag) | Represents a TIFF tag. |
 | [TiffUndefinedTag](./tiffundefinedtag) | Represents a TIFF tag with the Undefined type. |
-| [WebPRootPackage](./webprootpackage) | Represents the root package allowing working with metadata in a WEBP image. |
-| [WmfRootPackage](./wmfrootpackage) | Represents the root package intended to work with metadata in a WMF image. |
 ## Enumeration
 
 | Enumeration | Description |

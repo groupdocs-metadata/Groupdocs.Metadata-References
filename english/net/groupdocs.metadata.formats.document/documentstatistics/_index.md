@@ -3,7 +3,7 @@ title: DocumentStatistics
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a set of document statistics.
 type: docs
-weight: 1110
+weight: 1160
 url: /net/groupdocs.metadata.formats.document/documentstatistics/
 ---
 ## DocumentStatistics class

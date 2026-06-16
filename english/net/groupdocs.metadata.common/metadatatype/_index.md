@@ -3,7 +3,7 @@ title: MetadataType
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Specifies the type of a metadata package.
 type: docs
-weight: 160
+weight: 190
 url: /net/groupdocs.metadata.common/metadatatype/
 ---
 ## MetadataType enumeration

@@ -3,7 +3,7 @@ title: TarFile
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents metadata associated with an archived file or directory.
 type: docs
-weight: 450
+weight: 500
 url: /net/groupdocs.metadata.formats.archive/tarfile/
 ---
 ## TarFile class

@@ -3,7 +3,7 @@ title: FileFormat
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the recognized format of a loaded file.
 type: docs
-weight: 40
+weight: 50
 url: /net/groupdocs.metadata.common/fileformat/
 ---
 ## FileFormat enumeration

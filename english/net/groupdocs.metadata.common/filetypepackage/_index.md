@@ -3,7 +3,7 @@ title: FileTypePackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a metadata package containing file format information.
 type: docs
-weight: 60
+weight: 80
 url: /net/groupdocs.metadata.common/filetypepackage/
 ---
 ## FileTypePackage class

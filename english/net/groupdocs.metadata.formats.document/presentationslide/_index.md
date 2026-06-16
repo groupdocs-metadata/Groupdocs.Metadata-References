@@ -3,7 +3,7 @@ title: PresentationSlide
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a slide in a presentation.
 type: docs
-weight: 1290
+weight: 1340
 url: /net/groupdocs.metadata.formats.document/presentationslide/
 ---
 ## PresentationSlide class

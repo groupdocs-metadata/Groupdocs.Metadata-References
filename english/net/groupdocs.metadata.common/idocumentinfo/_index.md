@@ -3,7 +3,7 @@ title: IDocumentInfo
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Provides common information about a loaded document.
 type: docs
-weight: 90
+weight: 120
 url: /net/groupdocs.metadata.common/idocumentinfo/
 ---
 ## IDocumentInfo interface
