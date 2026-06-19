@@ -12,20 +12,25 @@ lead: "Read, edit, and remove metadata in documents, images, audio, and video."
 
 platforms:
   - name: ".NET"
+    version: "26.6.0"
+    versionUrl: "https://www.nuget.org/packages/groupdocs.metadata/26.6.0"
     key: net
     ref: "/net/"
     install: "dotnet add package GroupDocs.Metadata"
   - name: "Java"
     version: "26.1"
+    versionUrl: "https://releases.groupdocs.com/java/repo/com/groupdocs/groupdocs-metadata/26.1/"
     key: java
     ref: "/java/"
     install: "com.groupdocs:groupdocs-metadata"
   - name: "Node.js"
-    version: "24.7"
+    version: "26.2.0"
+    versionUrl: "https://www.npmjs.com/package/@groupdocs/groupdocs.metadata/v/26.2.0"
     key: nodejs
     ref: "/nodejs-java/"
   - name: "Python via .NET"
     version: "26.5.0"
+    versionUrl: "https://pypi.org/project/groupdocs-metadata-net/26.5.0/"
     key: python
     ref: "/python-net/"
     install: "pip install groupdocs-metadata-net"
