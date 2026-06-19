@@ -1,68 +1,59 @@
 ---
-title: GroupDocs.Metadata Product Family
-additionalTitle: GroupDocs API References
+title: "GroupDocs.Metadata"
+linktitle: "GroupDocs.Metadata"
+description: "GroupDocs.Metadata API reference for .NET, Java, Node.js, and Python — Read, edit, and remove metadata in documents, images, audio, and video."
+keywords: "GroupDocs.Metadata, metadata API, API reference, .NET, Java, Python, document processing"
+additionalTitle: "GroupDocs API References"
 type: docs
+layout: family
 weight: 10
-description: "Organize documents with metadata within any cross platform application using GroupDocs metadata APIs to find, use, preserve and re-use data in future"
 url: /
+lead: "Read, edit, and remove metadata in documents, images, audio, and video."
+
+platforms:
+  - name: ".NET"
+    key: net
+    ref: "/net/"
+    install: "dotnet add package GroupDocs.Metadata"
+  - name: "Java"
+    version: "26.1"
+    key: java
+    ref: "/java/"
+    install: "com.groupdocs:groupdocs-metadata"
+  - name: "Node.js"
+    version: "24.7"
+    key: nodejs
+    ref: "/nodejs-java/"
+  - name: "Python via .NET"
+    version: "26.5.0"
+    key: python
+    ref: "/python-net/"
+    install: "pip install groupdocs-metadata-net"
+
+formats: ["Documents", "Images", "Audio", "Video", "PDF"]
+
+capabilities:
+  - "Read, edit & remove metadata"
+  - "EXIF, XMP & IPTC support"
+  - "Built-in & custom properties"
+  - "Search & clean metadata"
+  - "Inspect file structure"
+  - "Documents, images, audio & video"
+
+resources:
+  - name: "Documentation"
+    url: "https://docs.groupdocs.com/metadata/"
+    icon: "api"
+  - name: "Code examples"
+    url: "https://github.com/groupdocs-metadata"
+    icon: "code"
+  - name: "Releases & changelog"
+    url: "https://releases.groupdocs.com/metadata/"
+    icon: "demos"
+  - name: "Support forum"
+    url: "https://forum.groupdocs.com/c/metadata/"
+    icon: "free-support"
+  - name: "Product page"
+    url: "https://products.groupdocs.com/metadata/"
+    icon: "total"
 ---
-
-## GroupDocs.Metadata for .NET
-
-{{% alert color="primary" %}} 
-
-![GroupDocs.Metadata for .NET Product Logo](gdocs_net.png)
-
-Native .NET API to dynamically read, write, edit and remove meta information from Microsoft Office, PDF, Multimedia, images and various other file formats.
-
-{{% /alert %}} 
-
-These are links to some useful resources:
-
-- [GroupDocs.Metadata for .NET API Reference](/metadata/net/)
-- [GroupDocs.Metadata for .NET API Tutorials](/tutorials/metadata/net/)
-
-
-## GroupDocs.Metadata for Java
-
-{{% alert color="primary" %}}
-
-![GroupDocs.Metadata for Java Product Logo](gdocs_java.png)
-
-Java API to dynamically read, write, edit and remove meta information from Microsoft Office, PDF, Multimedia, images and various other file formats.
-
-{{% /alert %}}
-
-These are links to some useful resources:
-
-- [GroupDocs.Metadata for Java API Reference](/metadata/java/)
-
-
-## GroupDocs.Metadata for Node.js via Java
-
-{{% alert color="primary" %}}
-
-![GroupDocs.Metadata for Node.js via Java Product Logo](gdocs_nodejs.png)
-
-Node.js via Java API to dynamically read, write, edit and remove meta information from Microsoft Office, PDF, Multimedia, images and various other file formats.
-
-{{% /alert %}}
-
-These are links to some useful resources:
-
-- [GroupDocs.Metadata for Node.js via Java API Reference](/metadata/nodejs-java/)
-
-
-## GroupDocs.Metadata for Python via Net
-
-{{% alert color="primary" %}}
-
-![GroupDocs.Metadata for Python via Net Product Logo](gdocs_python.png)
-
-Python via Net API to dynamically read, write, edit and remove meta information from Microsoft Office, PDF, Multimedia, images and various other file formats.
-
-{{% /alert %}}
-
-These are links to some useful resources:
-
-- [GroupDocs.Metadata for Python via Net API Reference](/metadata/python-net/)
