@@ -36,6 +36,8 @@ platforms:
     install: "pip install groupdocs-metadata-net"
 
 formats: ["Documents", "Images", "Audio", "Video", "PDF"]
+formatsCount: "70+"
+formatsNote: "…and 60+ more across documents, images, audio, and video."
 
 capabilities:
   - "Read, edit & remove metadata"
