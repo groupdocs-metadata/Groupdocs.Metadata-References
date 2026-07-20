@@ -1,7 +1,7 @@
 ---
 title: License class
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "Manages GroupDocs.Metadata licensing."
 type: docs
 url: /python-net/groupdocs.metadata/license/
 is_root: false
@@ -23,6 +23,11 @@ The License type exposes the following members:
 | Method | Description |
 | :- | :- |
 | [set_license](/metadata/python-net/groupdocs.metadata/license/set_license/#license_source) | Apply a license to the current process. |
+
+### Guides
+Task guides that use `License`:
+
+* [Quick Start Guide](/metadata/python-net/guides/quick-start-guide/)
 
 ### See Also
 * module [`groupdocs.metadata`](/metadata/python-net/groupdocs.metadata/)

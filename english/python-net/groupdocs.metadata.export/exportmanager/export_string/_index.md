@@ -1,11 +1,11 @@
 ---
 title: export_string method
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "ExportManager.export_string method — GroupDocs.Metadata for Python via .NET."
 type: docs
 url: /python-net/groupdocs.metadata.export/exportmanager/export_string/
 is_root: false
-weight: 1100
+weight: 1050
 ---
 
 

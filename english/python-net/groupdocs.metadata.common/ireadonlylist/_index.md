@@ -1,7 +1,7 @@
 ---
 title: IReadOnlyList class
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "IReadOnlyList class — GroupDocs.Metadata for Python via .NET API reference."
 type: docs
 url: /python-net/groupdocs.metadata.common/ireadonlylist/
 is_root: false
@@ -16,12 +16,10 @@ The IReadOnlyList type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [_contains_arg](/metadata/python-net/groupdocs.metadata.common/ireadonlylist/_contains_arg/#item) |  |
-| [_contains_tag_category](/metadata/python-net/groupdocs.metadata.common/ireadonlylist/_contains_tag_category/#item) |  |
-| [_index_of_arg](/metadata/python-net/groupdocs.metadata.common/ireadonlylist/_index_of_arg/#item) |  |
-| [contains](/metadata/python-net/groupdocs.metadata.common/ireadonlylist/contains/) |  |
+| [contains](/metadata/python-net/groupdocs.metadata.common/ireadonlylist/contains/#item) |  |
+| [contains](/metadata/python-net/groupdocs.metadata.common/ireadonlylist/contains/#item) |  |
 | [contains_tag_category](/metadata/python-net/groupdocs.metadata.common/ireadonlylist/contains_tag_category/) |  |
-| [index_of](/metadata/python-net/groupdocs.metadata.common/ireadonlylist/index_of/) |  |
+| [index_of](/metadata/python-net/groupdocs.metadata.common/ireadonlylist/index_of/#item) |  |
 
 ### Properties
 | Property | Description |

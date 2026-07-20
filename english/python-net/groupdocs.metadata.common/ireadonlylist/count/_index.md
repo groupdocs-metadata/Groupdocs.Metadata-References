@@ -1,7 +1,7 @@
 ---
 title: count property
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "IReadOnlyList.count property — GroupDocs.Metadata for Python via .NET."
 type: docs
 url: /python-net/groupdocs.metadata.common/ireadonlylist/count/
 is_root: false

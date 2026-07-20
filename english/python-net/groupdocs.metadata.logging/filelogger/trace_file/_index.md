@@ -1,11 +1,11 @@
 ---
 title: trace_file method
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "FileLogger.trace_file method — GroupDocs.Metadata for Python via .NET."
 type: docs
 url: /python-net/groupdocs.metadata.logging/filelogger/trace_file/
 is_root: false
-weight: 1090
+weight: 1050
 ---
 
 

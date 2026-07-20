@@ -1,7 +1,7 @@
 ---
 title: read_only property
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "The tag that indicates that the property it labels is read‑only and cannot be changed by GroupDocs.Metadata."
 type: docs
 url: /python-net/groupdocs.metadata.tagging/documenttagcategory/read_only/
 is_root: false
@@ -10,6 +10,8 @@ weight: 2060
 
 
 ## read_only property
+
+The tag that indicates that the property it labels is read‑only and cannot be changed by GroupDocs.Metadata.
 
 ### Definition:
 ```python

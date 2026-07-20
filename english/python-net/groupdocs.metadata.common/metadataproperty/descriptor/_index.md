@@ -1,7 +1,7 @@
 ---
 title: descriptor property
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "The descriptor associated with the metadata property."
 type: docs
 url: /python-net/groupdocs.metadata.common/metadataproperty/descriptor/
 is_root: false
@@ -10,6 +10,8 @@ weight: 2010
 
 
 ## descriptor property
+
+The descriptor associated with the metadata property.
 
 ### Definition:
 ```python

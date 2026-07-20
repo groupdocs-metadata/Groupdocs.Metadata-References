@@ -1,26 +1,17 @@
-﻿---
-title: SEVENZIP property
+---
+title: SEVENZIP field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "7z is a compressed archive file format that supports several different data compression, encryption and pre-processing algorithms."
 type: docs
-weight: 810
 url: /python-net/groupdocs.metadata.common/filetype/sevenzip/
 is_root: false
+weight: 3880
 ---
 
-## SEVENZIP property
 
+## SEVENZIP field
 
-7z is a compressed archive file format that supports several different data compression,
-encryption and pre-processing algorithms.
-The 7z format initially appeared as implemented by the 7-Zip archiver.
-The 7-Zip program is publicly available under the terms of the GNU Lesser General Public License.
-[here](https://wiki.fileformat.com/compression/zip/).
-### Definition:
-```python
-f SEVENZIP 
-```
+7z is a compressed archive file format that supports several different data compression, encryption and pre-processing algorithms. The 7z format initially appeared as implemented by the 7-Zip archiver. The 7-Zip program is publicly available under the terms of the GNU Lesser General Public License. here.
 
 ### See Also
-* module [`groupdocs.metadata.common`](../../)
-* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype)
+* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype/)

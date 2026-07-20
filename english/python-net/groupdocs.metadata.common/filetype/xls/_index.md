@@ -1,24 +1,17 @@
-﻿---
-title: XLS property
+---
+title: XLS field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "Files with XLS extension represent Excel Binary File Format."
 type: docs
-weight: 1060
 url: /python-net/groupdocs.metadata.common/filetype/xls/
 is_root: false
+weight: 3130
 ---
 
-## XLS property
 
+## XLS field
 
-Files with XLS extension represent Excel Binary File Format. Such files can be created by Microsoft Excel
-as well as other similar spreadsheet programs such as OpenOffice Calc or Apple Numbers. Learn more about
-this file format [here](https://wiki.fileformat.com/specification/spreadsheet/xls/).
-### Definition:
-```python
-f XLS 
-```
+Files with XLS extension represent Excel Binary File Format. Such files can be created by Microsoft Excel as well as other similar spreadsheet programs such as OpenOffice Calc or Apple Numbers. Learn more about this file format here.
 
 ### See Also
-* module [`groupdocs.metadata.common`](../../)
-* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype)
+* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype/)

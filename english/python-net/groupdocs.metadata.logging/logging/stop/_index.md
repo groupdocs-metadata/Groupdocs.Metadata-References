@@ -1,7 +1,7 @@
 ---
 title: stop method
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "Stop logging."
 type: docs
 url: /python-net/groupdocs.metadata.logging/logging/stop/
 is_root: false
@@ -10,6 +10,8 @@ weight: 1020
 
 
 ## stop
+
+Stop logging.
 
 ```python
 def stop(cls):

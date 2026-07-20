@@ -1,25 +1,17 @@
-﻿---
-title: DOCX property
+---
+title: DOCX field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "DOCX is a well-known format for Microsoft Word documents."
 type: docs
-weight: 210
 url: /python-net/groupdocs.metadata.common/filetype/docx/
 is_root: false
+weight: 3200
 ---
 
-## DOCX property
 
+## DOCX field
 
-DOCX is a well-known format for Microsoft Word documents. Introduced from 2007 with the release
-of Microsoft Office 2007, the structure of this new Document format was changed from plain binary
-to a combination of XML and binary files. Learn more about this file format
-[here](https://wiki.fileformat.com/word-processing/docx/).
-### Definition:
-```python
-f DOCX 
-```
+DOCX is a well-known format for Microsoft Word documents. Introduced from 2007 with the release of Microsoft Office 2007, the structure of this new Document format was changed from plain binary to a combination of XML and binary files. Learn more about this file format here.
 
 ### See Also
-* module [`groupdocs.metadata.common`](../../)
-* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype)
+* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype/)

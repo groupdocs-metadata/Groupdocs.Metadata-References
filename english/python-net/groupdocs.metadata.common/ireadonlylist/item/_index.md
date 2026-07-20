@@ -1,7 +1,7 @@
 ---
 title: item property
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "IReadOnlyList.item property — GroupDocs.Metadata for Python via .NET."
 type: docs
 url: /python-net/groupdocs.metadata.common/ireadonlylist/item/
 is_root: false

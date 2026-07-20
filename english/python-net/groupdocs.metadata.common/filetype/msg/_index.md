@@ -1,24 +1,17 @@
-﻿---
-title: MSG property
+---
+title: MSG field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "MSG is a file format used by Microsoft Outlook and Exchange to store email messages, contact, appointment, or other tasks."
 type: docs
-weight: 590
 url: /python-net/groupdocs.metadata.common/filetype/msg/
 is_root: false
+weight: 3400
 ---
 
-## MSG property
 
+## MSG field
 
-MSG is a file format used by Microsoft Outlook and Exchange to store email messages, contact,
-appointment, or other tasks. Learn more about this file format
-[here](https://wiki.fileformat.com/email/msg/).
-### Definition:
-```python
-f MSG 
-```
+MSG is a file format used by Microsoft Outlook and Exchange to store email messages, contact, appointment, or other tasks. Learn more about this file format here.
 
 ### See Also
-* module [`groupdocs.metadata.common`](../../)
-* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype)
+* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype/)

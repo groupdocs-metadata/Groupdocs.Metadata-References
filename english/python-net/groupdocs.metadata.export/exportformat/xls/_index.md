@@ -1,7 +1,7 @@
 ---
 title: XLS field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "Represents the .XLS Excel format."
 type: docs
 url: /python-net/groupdocs.metadata.export/exportformat/xls/
 is_root: false
@@ -10,6 +10,8 @@ weight: 3010
 
 
 ## XLS field
+
+Represents the .XLS Excel format.
 
 ### Value
 `0`

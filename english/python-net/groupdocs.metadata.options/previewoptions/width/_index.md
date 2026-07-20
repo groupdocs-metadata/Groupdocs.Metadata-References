@@ -1,7 +1,7 @@
 ---
 title: width property
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "The page preview width."
 type: docs
 url: /python-net/groupdocs.metadata.options/previewoptions/width/
 is_root: false
@@ -10,6 +10,8 @@ weight: 2100
 
 
 ## width property
+
+The page preview width.
 
 ### Definition:
 ```python

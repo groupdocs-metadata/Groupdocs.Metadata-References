@@ -1,22 +1,17 @@
-﻿---
-title: UNKNOWN property
+---
+title: UNKNOWN field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "Represents unknown file type."
 type: docs
-weight: 930
 url: /python-net/groupdocs.metadata.common/filetype/unknown/
 is_root: false
+weight: 3010
 ---
 
-## UNKNOWN property
 
+## UNKNOWN field
 
 Represents unknown file type.
-### Definition:
-```python
-f UNKNOWN 
-```
 
 ### See Also
-* module [`groupdocs.metadata.common`](../../)
-* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype)
+* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype/)

@@ -1,23 +1,17 @@
-﻿---
-title: GEOJSON property
+---
+title: GEOJSON field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "GeoJSON is a JSON based format designed to represent the geographical features with their non-spatial attributes."
 type: docs
-weight: 330
 url: /python-net/groupdocs.metadata.common/filetype/geojson/
 is_root: false
+weight: 3970
 ---
 
-## GEOJSON property
 
+## GEOJSON field
 
-GeoJSON is a JSON based format designed to represent the geographical features with their non-spatial attributes. 
-[here](https://docs.fileformat.com/gis/geojson/).
-### Definition:
-```python
-f GEOJSON 
-```
+GeoJSON is a JSON based format designed to represent the geographical features with their non-spatial attributes. here.
 
 ### See Also
-* module [`groupdocs.metadata.common`](../../)
-* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype)
+* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype/)

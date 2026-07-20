@@ -1,23 +1,17 @@
-﻿---
-title: OTC property
+---
+title: OTC field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "OTC (OpenType Collection) is a OpenType font collection format."
 type: docs
-weight: 650
 url: /python-net/groupdocs.metadata.common/filetype/otc/
 is_root: false
+weight: 3320
 ---
 
-## OTC property
 
+## OTC field
 
-OTC (OpenType Collection) is a OpenType font collection format.
-An OTC file can combine the multiple font files into it.
-### Definition:
-```python
-f OTC 
-```
+OTC (OpenType Collection) is a OpenType font collection format. An OTC file can combine the multiple font files into it.
 
 ### See Also
-* module [`groupdocs.metadata.common`](../../)
-* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype)
+* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype/)

@@ -1,23 +1,17 @@
-﻿---
-title: CR2 property
+---
+title: CR2 field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "The .CR2 file format (Canon RAW version 2) is a digital photography RAW format created by Canon."
 type: docs
-weight: 120
 url: /python-net/groupdocs.metadata.common/filetype/cr2/
 is_root: false
+weight: 3860
 ---
 
-## CR2 property
 
+## CR2 field
 
-The .CR2 file format (Canon RAW version 2) is a digital photography RAW format created by Canon. 
-[here](https://wiki.fileformat.com/image/cr2/).
-### Definition:
-```python
-f CR2 
-```
+The .CR2 file format (Canon RAW version 2) is a digital photography RAW format created by Canon. here.
 
 ### See Also
-* module [`groupdocs.metadata.common`](../../)
-* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype)
+* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype/)

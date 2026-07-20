@@ -1,7 +1,7 @@
 ---
 title: link property
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "The tag that denotes a property being a link to an external resource."
 type: docs
 url: /python-net/groupdocs.metadata.tagging/propertytypetagcategory/link/
 is_root: false
@@ -10,6 +10,8 @@ weight: 2070
 
 
 ## link property
+
+The tag that denotes a property being a link to an external resource.
 
 ### Definition:
 ```python

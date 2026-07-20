@@ -1,23 +1,17 @@
-﻿---
-title: SHP property
+---
+title: SHP field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "The shapefile format is a geospatial vector data format for geographic information system (GIS) software."
 type: docs
-weight: 820
 url: /python-net/groupdocs.metadata.common/filetype/shp/
 is_root: false
+weight: 3960
 ---
 
-## SHP property
 
+## SHP field
 
-The shapefile format is a geospatial vector data format for geographic information system (GIS) software.
-[here](https://docs.fileformat.com/gis/shp/).
-### Definition:
-```python
-f SHP 
-```
+The shapefile format is a geospatial vector data format for geographic information system (GIS) software. here.
 
 ### See Also
-* module [`groupdocs.metadata.common`](../../)
-* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype)
+* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype/)

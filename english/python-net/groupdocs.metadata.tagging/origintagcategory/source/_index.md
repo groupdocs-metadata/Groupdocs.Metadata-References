@@ -1,7 +1,7 @@
 ---
 title: source property
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "The tag that labels a reference to a resource from which the file content is derived."
 type: docs
 url: /python-net/groupdocs.metadata.tagging/origintagcategory/source/
 is_root: false
@@ -10,6 +10,8 @@ weight: 2010
 
 
 ## source property
+
+The tag that labels a reference to a resource from which the file content is derived.
 
 ### Definition:
 ```python

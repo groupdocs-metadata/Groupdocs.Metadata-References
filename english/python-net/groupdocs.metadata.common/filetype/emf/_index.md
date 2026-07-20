@@ -1,24 +1,17 @@
-﻿---
-title: EMF property
+---
+title: EMF field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "Enhanced metafile format (EMF) stores graphical images device-independently."
 type: docs
-weight: 270
 url: /python-net/groupdocs.metadata.common/filetype/emf/
 is_root: false
+weight: 3600
 ---
 
-## EMF property
 
+## EMF field
 
-Enhanced metafile format (EMF) stores graphical images device-independently.
-Learn more about this file format
-[here](https://wiki.fileformat.com/image/emf/).
-### Definition:
-```python
-f EMF 
-```
+Enhanced metafile format (EMF) stores graphical images device-independently. Learn more about this file format here.
 
 ### See Also
-* module [`groupdocs.metadata.common`](../../)
-* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype)
+* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype/)

@@ -1,7 +1,7 @@
 ---
 title: duration property
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "The tag that denotes the duration of a media file."
 type: docs
 url: /python-net/groupdocs.metadata.tagging/timetagcategory/duration/
 is_root: false
@@ -10,6 +10,8 @@ weight: 2030
 
 
 ## duration property
+
+The tag that denotes the duration of a media file.
 
 ### Definition:
 ```python

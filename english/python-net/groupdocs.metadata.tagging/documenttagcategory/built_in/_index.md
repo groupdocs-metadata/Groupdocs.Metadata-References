@@ -1,7 +1,7 @@
 ---
 title: built_in property
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "The tag that indicates that the property it labels is built-in."
 type: docs
 url: /python-net/groupdocs.metadata.tagging/documenttagcategory/built_in/
 is_root: false
@@ -10,6 +10,8 @@ weight: 2010
 
 
 ## built_in property
+
+The tag that indicates that the property it labels is built-in.
 
 ### Definition:
 ```python

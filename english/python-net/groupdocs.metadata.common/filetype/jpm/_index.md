@@ -1,25 +1,17 @@
-﻿---
-title: JPM property
+---
+title: JPM field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "JPEG 2000 (JPM) is an image coding system and state-of-the-art image compression standard."
 type: docs
-weight: 470
 url: /python-net/groupdocs.metadata.common/filetype/jpm/
 is_root: false
+weight: 3540
 ---
 
-## JPM property
 
+## JPM field
 
-JPEG 2000 (JPM) is an image coding system and state-of-the-art image compression standard.
-Designed, using wavelet technology JPEG 2000 can code lossless content in any quality at once.
-Learn more about this file format
-[here](https://wiki.fileformat.com/image/jpm/).
-### Definition:
-```python
-f JPM 
-```
+JPEG 2000 (JPM) is an image coding system and state-of-the-art image compression standard. Designed, using wavelet technology JPEG 2000 can code lossless content in any quality at once. Learn more about this file format here.
 
 ### See Also
-* module [`groupdocs.metadata.common`](../../)
-* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype)
+* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype/)

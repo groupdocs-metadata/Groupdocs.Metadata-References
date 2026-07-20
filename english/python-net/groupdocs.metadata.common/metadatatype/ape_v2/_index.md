@@ -1,7 +1,7 @@
 ---
 title: APE_V2 field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "An APEv2 metadata package."
 type: docs
 url: /python-net/groupdocs.metadata.common/metadatatype/ape_v2/
 is_root: false
@@ -10,6 +10,8 @@ weight: 3270
 
 
 ## APE_V2 field
+
+An APEv2 metadata package.
 
 ### Value
 `26`

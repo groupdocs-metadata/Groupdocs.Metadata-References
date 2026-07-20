@@ -1,7 +1,7 @@
 ---
 title: file_format property
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "The tag that indicates a metadata property containing information about the format of a file."
 type: docs
 url: /python-net/groupdocs.metadata.tagging/contenttagcategory/file_format/
 is_root: false
@@ -10,6 +10,8 @@ weight: 2050
 
 
 ## file_format property
+
+The tag that indicates a metadata property containing information about the format of a file.
 
 ### Definition:
 ```python

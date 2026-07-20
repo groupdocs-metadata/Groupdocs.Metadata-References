@@ -1,11 +1,11 @@
 ---
 title: equals_property_value method
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "PropertyValueEqualityComparer.equals_property_value method — GroupDocs.Metadata for Python via .NET."
 type: docs
 url: /python-net/groupdocs.metadata.common/propertyvalueequalitycomparer/equals_property_value/
 is_root: false
-weight: 1050
+weight: 1020
 ---
 
 

@@ -1,24 +1,17 @@
-﻿---
-title: XLSX property
+---
+title: XLSX field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "XLSX is well-known format for Microsoft Excel documents that was introduced by Microsoft with the release of Microsoft Office 2007."
 type: docs
-weight: 1090
 url: /python-net/groupdocs.metadata.common/filetype/xlsx/
 is_root: false
+weight: 3140
 ---
 
-## XLSX property
 
+## XLSX field
 
-XLSX is well-known format for Microsoft Excel documents that was introduced by Microsoft with the release
-of Microsoft Office 2007. Learn more about this file format
-[here](https://wiki.fileformat.com/specification/spreadsheet/xlsx/).
-### Definition:
-```python
-f XLSX 
-```
+XLSX is well-known format for Microsoft Excel documents that was introduced by Microsoft with the release of Microsoft Office 2007. Learn more about this file format here.
 
 ### See Also
-* module [`groupdocs.metadata.common`](../../)
-* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype)
+* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype/)

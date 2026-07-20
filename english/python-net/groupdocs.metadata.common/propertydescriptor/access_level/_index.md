@@ -1,7 +1,7 @@
 ---
 title: access_level property
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "The property access level."
 type: docs
 url: /python-net/groupdocs.metadata.common/propertydescriptor/access_level/
 is_root: false
@@ -10,6 +10,8 @@ weight: 2010
 
 
 ## access_level property
+
+The property access level.
 
 ### Definition:
 ```python

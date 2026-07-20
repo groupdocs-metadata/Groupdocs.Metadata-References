@@ -1,7 +1,7 @@
 ---
 title: FileFormat class
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "FileFormat enum — GroupDocs.Metadata for Python via .NET API reference."
 type: docs
 url: /python-net/groupdocs.metadata.common/fileformat/
 is_root: false
@@ -16,59 +16,59 @@ The FileFormat type exposes the following members:
 ### Fields
 | Field | Description |
 | :- | :- |
-| [UNKNOWN](/metadata/python-net/groupdocs.metadata.common/fileformat/unknown/) |  |
-| [PRESENTATION](/metadata/python-net/groupdocs.metadata.common/fileformat/presentation/) |  |
-| [SPREADSHEET](/metadata/python-net/groupdocs.metadata.common/fileformat/spreadsheet/) |  |
-| [WORD_PROCESSING](/metadata/python-net/groupdocs.metadata.common/fileformat/word_processing/) |  |
-| [DIAGRAM](/metadata/python-net/groupdocs.metadata.common/fileformat/diagram/) |  |
-| [NOTE](/metadata/python-net/groupdocs.metadata.common/fileformat/note/) |  |
-| [PROJECT_MANAGEMENT](/metadata/python-net/groupdocs.metadata.common/fileformat/project_management/) |  |
-| [PDF](/metadata/python-net/groupdocs.metadata.common/fileformat/pdf/) |  |
-| [TIFF](/metadata/python-net/groupdocs.metadata.common/fileformat/tiff/) |  |
-| [JPEG](/metadata/python-net/groupdocs.metadata.common/fileformat/jpeg/) |  |
-| [PSD](/metadata/python-net/groupdocs.metadata.common/fileformat/psd/) |  |
-| [JPEG2000](/metadata/python-net/groupdocs.metadata.common/fileformat/jpeg2000/) |  |
-| [GIF](/metadata/python-net/groupdocs.metadata.common/fileformat/gif/) |  |
-| [PNG](/metadata/python-net/groupdocs.metadata.common/fileformat/png/) |  |
-| [BMP](/metadata/python-net/groupdocs.metadata.common/fileformat/bmp/) |  |
-| [DICOM](/metadata/python-net/groupdocs.metadata.common/fileformat/dicom/) |  |
-| [WEB_P](/metadata/python-net/groupdocs.metadata.common/fileformat/web_p/) |  |
-| [EMF](/metadata/python-net/groupdocs.metadata.common/fileformat/emf/) |  |
-| [WMF](/metadata/python-net/groupdocs.metadata.common/fileformat/wmf/) |  |
-| [DJ_VU](/metadata/python-net/groupdocs.metadata.common/fileformat/dj_vu/) |  |
-| [WAV](/metadata/python-net/groupdocs.metadata.common/fileformat/wav/) |  |
-| [MP3](/metadata/python-net/groupdocs.metadata.common/fileformat/mp3/) |  |
-| [AVI](/metadata/python-net/groupdocs.metadata.common/fileformat/avi/) |  |
-| [FLV](/metadata/python-net/groupdocs.metadata.common/fileformat/flv/) |  |
-| [ASF](/metadata/python-net/groupdocs.metadata.common/fileformat/asf/) |  |
-| [MOV](/metadata/python-net/groupdocs.metadata.common/fileformat/mov/) |  |
-| [MATROSKA](/metadata/python-net/groupdocs.metadata.common/fileformat/matroska/) |  |
-| [ZIP](/metadata/python-net/groupdocs.metadata.common/fileformat/zip/) |  |
-| [SEVEN_ZIP](/metadata/python-net/groupdocs.metadata.common/fileformat/seven_zip/) |  |
-| [VCARD](/metadata/python-net/groupdocs.metadata.common/fileformat/vcard/) |  |
-| [EPUB](/metadata/python-net/groupdocs.metadata.common/fileformat/epub/) |  |
-| [OPEN_TYPE](/metadata/python-net/groupdocs.metadata.common/fileformat/open_type/) |  |
-| [DXF](/metadata/python-net/groupdocs.metadata.common/fileformat/dxf/) |  |
-| [DWG](/metadata/python-net/groupdocs.metadata.common/fileformat/dwg/) |  |
-| [EML](/metadata/python-net/groupdocs.metadata.common/fileformat/eml/) |  |
-| [MSG](/metadata/python-net/groupdocs.metadata.common/fileformat/msg/) |  |
-| [TORRENT](/metadata/python-net/groupdocs.metadata.common/fileformat/torrent/) |  |
-| [HEIF](/metadata/python-net/groupdocs.metadata.common/fileformat/heif/) |  |
-| [DNG](/metadata/python-net/groupdocs.metadata.common/fileformat/dng/) |  |
-| [CR2](/metadata/python-net/groupdocs.metadata.common/fileformat/cr2/) |  |
-| [RAR](/metadata/python-net/groupdocs.metadata.common/fileformat/rar/) |  |
-| [TAR](/metadata/python-net/groupdocs.metadata.common/fileformat/tar/) |  |
-| [THREE_DS](/metadata/python-net/groupdocs.metadata.common/fileformat/three_ds/) |  |
-| [DAE](/metadata/python-net/groupdocs.metadata.common/fileformat/dae/) |  |
-| [FBX](/metadata/python-net/groupdocs.metadata.common/fileformat/fbx/) |  |
-| [STL](/metadata/python-net/groupdocs.metadata.common/fileformat/stl/) |  |
-| [GIS](/metadata/python-net/groupdocs.metadata.common/fileformat/gis/) |  |
-| [FB2](/metadata/python-net/groupdocs.metadata.common/fileformat/fb2/) |  |
-| [MOBI](/metadata/python-net/groupdocs.metadata.common/fileformat/mobi/) |  |
-| [OGG](/metadata/python-net/groupdocs.metadata.common/fileformat/ogg/) |  |
-| [SVG](/metadata/python-net/groupdocs.metadata.common/fileformat/svg/) |  |
-| [GLTF](/metadata/python-net/groupdocs.metadata.common/fileformat/gltf/) |  |
-| [AVIF](/metadata/python-net/groupdocs.metadata.common/fileformat/avif/) |  |
+| [UNKNOWN](/metadata/python-net/groupdocs.metadata.common/fileformat/unknown/) | The file type is not recognized. |
+| [PRESENTATION](/metadata/python-net/groupdocs.metadata.common/fileformat/presentation/) | A presentation file. You must be familiar with PPTX and PPT extension files while working with Microsoft PowerPoint. These are Presentation file formats that store collection of records to accommodate presentation data such as slides, shapes, text, animations, video, audio and embedded objects. Learn more about this file format here. |
+| [SPREADSHEET](/metadata/python-net/groupdocs.metadata.common/fileformat/spreadsheet/) | A spreadsheet file. A spreadsheet file contains data in the form of rows and columns. You can open, view and edit such files using spreadsheet software applications such as Microsoft Excel that is now available for both Windows and MacOS operating system. Similarly, Google sheets is a free online spreadsheet creating and editing tool that works from any web browser. Learn more about this file format here. |
+| [WORD_PROCESSING](/metadata/python-net/groupdocs.metadata.common/fileformat/word_processing/) | A word processing file. A word processing file contains user information in plain text or rich text format. A plain text file format contains unformatted text and no font or page settings etc. can be applied. In contrast, a rich text file format allows formatting options such as setting fonts type, styles (bold, italic, underline, etc.), page margins, headings, bullets and numbers, and several other formatting features. Learn more about this file format here. |
+| [DIAGRAM](/metadata/python-net/groupdocs.metadata.common/fileformat/diagram/) | A diagram file. |
+| [NOTE](/metadata/python-net/groupdocs.metadata.common/fileformat/note/) | An electronic note file. Note-taking programs such as Microsoft OneNote lets you create, open and edit notes files that contain sections and pages for storing notes. A note document can be as simple as a text document as well as more detailed consisting of digital images, audio/video clips, and hand sketch drawings. Learn more about this file format here. |
+| [PROJECT_MANAGEMENT](/metadata/python-net/groupdocs.metadata.common/fileformat/project_management/) | A project management format. Have you ever come across and wondered what is an MPP file or how to open it? MPP and other similar files are Project file formats that are created by Project Management software such as Microsoft Project. A project file is a collection of tasks, resources, and their scheduling to get a measurable output in the form or a product or a service. Learn more about this file format here. |
+| [PDF](/metadata/python-net/groupdocs.metadata.common/fileformat/pdf/) | A PDF file. Portable Document Format (PDF) is a type of document created by Adobe back in 1990s. The purpose of this file format was to introduce a standard for representation of documents and other reference material in a format that is independent of application software, hardware as well as Operating System. Learn more about this file format here. |
+| [TIFF](/metadata/python-net/groupdocs.metadata.common/fileformat/tiff/) | A TIFF image. TIFF or TIF, Tagged Image File Format, represents raster images that are meant for usage on a variety of devices that comply with this file format standard. Learn more about this file format here. |
+| [JPEG](/metadata/python-net/groupdocs.metadata.common/fileformat/jpeg/) | A JPEG image. JPEG is a type of image format that is saved using the method of lossy compression. Learn more about this file format here. |
+| [PSD](/metadata/python-net/groupdocs.metadata.common/fileformat/psd/) | A PSD image. PSD, Photoshop Document, represents Adobe Photoshop's native file format used for graphics designing and development. PSD files may include image layers, adjustment layers, layer masks, annotations, file information, keywords and other Photoshop-specific elements. Learn more about this file format here. |
+| [JPEG2000](/metadata/python-net/groupdocs.metadata.common/fileformat/jpeg2000/) | A Jpeg2000 image. JPEG 2000 (JPX) is an image coding system and state-of-the-art image compression standard. Designed, using wavelet technology JPEG 2000 can code lossless content in any quality at once. Learn more about this file format here. |
+| [GIF](/metadata/python-net/groupdocs.metadata.common/fileformat/gif/) | A GIF image. A GIF or Graphical Interchange Format is a type of highly compressed image. Learn more about this file format here. |
+| [PNG](/metadata/python-net/groupdocs.metadata.common/fileformat/png/) | A PNG image. PNG, Portable Network Graphics, refers to a type of raster image file format that use lossless compression. Learn more about this file format here. |
+| [BMP](/metadata/python-net/groupdocs.metadata.common/fileformat/bmp/) | A BMP image. Files having extension .BMP represent Bitmap Image files that are used to store bitmap digital images. These images are independent of graphics adapter and are also called device independent bitmap (DIB) file format. Learn more about this file format here. |
+| [DICOM](/metadata/python-net/groupdocs.metadata.common/fileformat/dicom/) | A DICOM image. DICOM is the acronym for Digital Imaging and Communications in Medicine and pertains to the field of Medical Informatics. DICOM is the combination of file format definition and a network communications protocol. Learn more about this file format here . |
+| [WEB_P](/metadata/python-net/groupdocs.metadata.common/fileformat/web_p/) | A WEBP image. WebP, introduced by Google, is a modern raster web image file format that is based on lossless and lossy compression. It provides same image quality while considerably reducing the image size. Learn more about this file format here. |
+| [EMF](/metadata/python-net/groupdocs.metadata.common/fileformat/emf/) | An EMF image. Enhanced metafile format (EMF) stores graphical images device-independently. Metafiles of EMF comprises of variable-length records in chronological order that can render the stored image after parsing on any output device. Learn more about this file format here. |
+| [WMF](/metadata/python-net/groupdocs.metadata.common/fileformat/wmf/) | A WMF image. Files with WMF extension represent Microsoft Windows Metafile (WMF) for storing vector as well as bitmap-format images data. To be more accurate, WMF belongs to the vector file format category of Graphics file formats that is device independent. Learn more about this file format here. |
+| [DJ_VU](/metadata/python-net/groupdocs.metadata.common/fileformat/dj_vu/) | A DjVu file. DjVu is a graphics file format intended for scanned documents and books especially those which contain the combination of text, drawings, images and photographs. It was developed by AT&amp;T Labs. Learn more about this file format here. |
+| [WAV](/metadata/python-net/groupdocs.metadata.common/fileformat/wav/) | A WAV audio file. WAV, known for WAVE (Waveform Audio File Format), is a subset of Microsoft's Resource Interchange File Format (RIFF) specification for storing digital audio files. The format doesn't apply any compression to the bitstream and stores the audio recordings with different sampling rates and bitrates. Learn more about this file format here. |
+| [MP3](/metadata/python-net/groupdocs.metadata.common/fileformat/mp3/) | An Mp3 audio file. Files with MP3 extension are digitally encoded file formats for audio files that are formally based on the MPEG-1 Audio Layer III or MPEG-2 Audio Layer III. It was developed by the Moving Picture Experts Group (MPEG) that uses Layer 3 audio compression. Learn more about this file format here. |
+| [AVI](/metadata/python-net/groupdocs.metadata.common/fileformat/avi/) | An AVI video. The AVI file format is an Audio Video multimedia container file format that was introduced by Microsoft. It holds the audio and video data created and compressed using several codecs (Coders/Decoders) such as Xvid and DivX. Learn more about this file format here. |
+| [FLV](/metadata/python-net/groupdocs.metadata.common/fileformat/flv/) | An FLV video. |
+| [ASF](/metadata/python-net/groupdocs.metadata.common/fileformat/asf/) | An ASF video. The Advanced Systems Format (ASF) is a digital multimedia container designed primarily for storing and transmitting media streams. Microsoft Windows Media Video (WMV) is the compressed video format and Microsoft Windows Media Audio (WMA) is the compressed audio format along with additional metadata in the ASF container developed by Microsoft. Learn more about this file format here. |
+| [MOV](/metadata/python-net/groupdocs.metadata.common/fileformat/mov/) | A QuickTime video. Mov or QuickTime File format is multimedia container which is developed by Apple: contains one or more tracks, each track holds a particular type of data i.e. Video, Audio, text etc. Mov format is compatible both in Windows and Macintosh systems. Learn more about this file format here. |
+| [MATROSKA](/metadata/python-net/groupdocs.metadata.common/fileformat/matroska/) | A video encoded with the Matroska multimedia container. |
+| [ZIP](/metadata/python-net/groupdocs.metadata.common/fileformat/zip/) | A ZIP archive. ZIP file extension represents archives that can hold one or more files or directories. The archive can have compression applied to the included files in order to reduce the ZIP file size. ZIP file format was made public back in February 1989 by Phil Katz for achieving archiving of files and folders. Learn more about this file format here. |
+| [SEVEN_ZIP](/metadata/python-net/groupdocs.metadata.common/fileformat/seven_zip/) | 7z is a compressed archive file format that supports several different data compression, encryption and pre-processing algorithms. The 7z format initially appeared as implemented by the 7-Zip archiver. The 7-Zip program is publicly available under the terms of the GNU Lesser General Public License. |
+| [VCARD](/metadata/python-net/groupdocs.metadata.common/fileformat/vcard/) | A VCard file. VCF (Virtual Card Format) or vCard is a digital file format for storing contact information. The format is widely used for data interchange among popular information exchange applications. Learn more about this file format here. |
+| [EPUB](/metadata/python-net/groupdocs.metadata.common/fileformat/epub/) | An EPUB electronic book. Files with .EPUB extension are an e-book file format that provide a standard digital publication format for publishers and consumers. The format has been so common by now that it is supported by many e-readers and software applications. Learn more about this file format here. |
+| [OPEN_TYPE](/metadata/python-net/groupdocs.metadata.common/fileformat/open_type/) | An OpenType font. |
+| [DXF](/metadata/python-net/groupdocs.metadata.common/fileformat/dxf/) | A DXF (Drawing Exchange Format) drawing. DXF, Drawing Interchange Format, or Drawing Exchange Format, is a tagged data representation of AutoCAD drawing file. Each element in the file has a prefix integer number called a group code. Learn more about this file format here. |
+| [DWG](/metadata/python-net/groupdocs.metadata.common/fileformat/dwg/) | A DWG drawing. Files with DWG extension represent proprietary binary files used for containing 2D and 3D design data. Like DXF, which are ASCII files, DWG represent the binary file format for CAD (Computer Aided Design) drawings. Learn more about this file format here. |
+| [EML](/metadata/python-net/groupdocs.metadata.common/fileformat/eml/) | An EML email message. EML file format represents email messages saved using Outlook and other relevant applications. Almost all emailing clients support this file format for its compliance with RFC-822 Internet Message Format Standard. Learn more about this file format here. |
+| [MSG](/metadata/python-net/groupdocs.metadata.common/fileformat/msg/) | An MSG email message. MSG is a file format used by Microsoft Outlook and Exchange to store email messages, contact, appointment, or other tasks. Such messages may contain one or more email fields, with the sender, recipient, subject, date, and message body, or contact information, appointment particulars, and one or more task specifications. Learn more about this file format here. |
+| [TORRENT](/metadata/python-net/groupdocs.metadata.common/fileformat/torrent/) | A torrent file that contains metadata about files and folders to be distributed. |
+| [HEIF](/metadata/python-net/groupdocs.metadata.common/fileformat/heif/) | A HEIF/HEIC image. |
+| [DNG](/metadata/python-net/groupdocs.metadata.common/fileformat/dng/) | A dng RAW image. |
+| [CR2](/metadata/python-net/groupdocs.metadata.common/fileformat/cr2/) | A CR2 image. |
+| [RAR](/metadata/python-net/groupdocs.metadata.common/fileformat/rar/) | RAR is a proprietary archive file format that supports data compression, error correction and file spanning. |
+| [TAR](/metadata/python-net/groupdocs.metadata.common/fileformat/tar/) | In computing, tar is a computer software utility for collecting many files into one archive file, often referred to as a tarball, for distribution or backup purposes. |
+| [THREE_DS](/metadata/python-net/groupdocs.metadata.common/fileformat/three_ds/) | 3DS is one of the file formats used by the Autodesk 3ds Max 3D modeling, animation and rendering software. |
+| [DAE](/metadata/python-net/groupdocs.metadata.common/fileformat/dae/) | A DAE file is a Digital Asset Exchange file format that is used for exchanging data between interactive 3D applications. |
+| [FBX](/metadata/python-net/groupdocs.metadata.common/fileformat/fbx/) | FBX (Filmbox) is a proprietary file format (.fbx) developed by Kaydara and owned by Autodesk since 2006. It is used to provide interoperability between digital content creation applications. FBX is also part of Autodesk Gameware, a series of video game middleware. |
+| [STL](/metadata/python-net/groupdocs.metadata.common/fileformat/stl/) | STL is a file format native to the stereolithography CAD software created by 3D Systems.[3][4][5] Chuck Hull, the inventor of stereolithography and 3D Systems’ founder, reports that the file extension is an abbreviation for stereolithography. |
+| [GIS](/metadata/python-net/groupdocs.metadata.common/fileformat/gis/) | Gis file. |
+| [FB2](/metadata/python-net/groupdocs.metadata.common/fileformat/fb2/) | Files with .fb2 extension are FictionBook 2.0 eBook files that contains the structure of the eBook. It is based on XML format and contains special tags for describing each element of the book. It was developed primarily for fictional writings and literature, but is not limited to these only. The format accommodates all the metadata as well as content in itself and allows flexibility for a number of operations such as automatic processing, indexing, and conversion to other formats. In short, it focuses on describing the structure of the file instead of specifying its appearance. Several applications as well as APIs are available to convert FB2 to several other formats on Windows, MacOS, and Linux. Learn more about this file format here. |
+| [MOBI](/metadata/python-net/groupdocs.metadata.common/fileformat/mobi/) | The MOBI file format is one of the most widely used ebook file formats. The format is an enhancement to the old OEB (Open Ebook Format) format and was used as the proprietary format for Mobipocket Reader. |
+| [OGG](/metadata/python-net/groupdocs.metadata.common/fileformat/ogg/) | OGG is an Ogg Vorbis Compressed Audio File that is saved with the .ogg extension. OGG files are used for storing audio data and can include artist and track information and metadata as well. OGG is a free and open container format that is maintained by Xiph.Org Foundation. |
+| [SVG](/metadata/python-net/groupdocs.metadata.common/fileformat/svg/) | Scalable Vector Graphics (SVG) is an XML-based vector graphics format for defining two-dimensional graphics, having support for interactivity and animation. The SVG specification is an open standard developed by the World Wide Web Consortium since 1999. |
+| [GLTF](/metadata/python-net/groupdocs.metadata.common/fileformat/gltf/) | glTF (Graphics Library Transmission Format or GL Transmission Format and formerly known as WebGL Transmissions Format or WebGL TF) is a standard file format for three-dimensional scenes and models. A glTF file uses one of two possible file extensions: .gltf (JSON/ASCII) or .glb (binary). |
+| [AVIF](/metadata/python-net/groupdocs.metadata.common/fileformat/avif/) | AV1 Image File Format (AVIF) is an open, royalty-free image file format specification for storing images or image sequences compressed with AV1 in the HEIF container format. |
 
 ### See Also
 * module [`groupdocs.metadata.common`](/metadata/python-net/groupdocs.metadata.common/)

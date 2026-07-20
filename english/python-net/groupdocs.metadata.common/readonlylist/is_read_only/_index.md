@@ -1,7 +1,7 @@
 ---
 title: is_read_only property
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "ReadOnlyList.is_read_only property — GroupDocs.Metadata for Python via .NET."
 type: docs
 url: /python-net/groupdocs.metadata.common/readonlylist/is_read_only/
 is_root: false

@@ -1,11 +1,11 @@
 ---
 title: equals_object method
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "PropertyTag.equals_object method — GroupDocs.Metadata for Python via .NET."
 type: docs
 url: /python-net/groupdocs.metadata.tagging/propertytag/equals_object/
 is_root: false
-weight: 1060
+weight: 1020
 ---
 
 

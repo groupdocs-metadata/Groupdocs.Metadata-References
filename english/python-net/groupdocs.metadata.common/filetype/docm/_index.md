@@ -1,23 +1,17 @@
-﻿---
-title: DOCM property
+---
+title: DOCM field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "DOCM files are Microsoft Word 2007 or higher generated documents with the ability to run macros."
 type: docs
-weight: 200
 url: /python-net/groupdocs.metadata.common/filetype/docm/
 is_root: false
+weight: 3270
 ---
 
-## DOCM property
 
+## DOCM field
 
-DOCM files are Microsoft Word 2007 or higher generated documents with the ability to run macros.
-Learn more about this file format [here](https://wiki.fileformat.com/word-processing/docm/).
-### Definition:
-```python
-f DOCM 
-```
+DOCM files are Microsoft Word 2007 or higher generated documents with the ability to run macros. Learn more about this file format here.
 
 ### See Also
-* module [`groupdocs.metadata.common`](../../)
-* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype)
+* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype/)

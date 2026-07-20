@@ -1,7 +1,7 @@
 ---
 title: BMP field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "PreviewFormats.BMP — GroupDocs.Metadata for Python via .NET."
 type: docs
 url: /python-net/groupdocs.metadata.options/previewformats/bmp/
 is_root: false

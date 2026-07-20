@@ -1,23 +1,17 @@
-﻿---
-title: DOTM property
+---
+title: DOTM field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "A file with DOTM extension represents template file created with Microsoft Word 2007 or higher."
 type: docs
-weight: 230
 url: /python-net/groupdocs.metadata.common/filetype/dotm/
 is_root: false
+weight: 3260
 ---
 
-## DOTM property
 
+## DOTM field
 
-A file with DOTM extension represents template file created with Microsoft Word 2007 or higher.
-Learn more about this file format [here](https://wiki.fileformat.com/word-processing/dotm/).
-### Definition:
-```python
-f DOTM 
-```
+A file with DOTM extension represents template file created with Microsoft Word 2007 or higher. Learn more about this file format here.
 
 ### See Also
-* module [`groupdocs.metadata.common`](../../)
-* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype)
+* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype/)
