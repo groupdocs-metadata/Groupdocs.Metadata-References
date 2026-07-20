@@ -1,24 +1,17 @@
-﻿---
-title: PPTM property
+---
+title: PPTM field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "Files with PPTM extension are Macro-enabled Presentation files that are created with Microsoft PowerPoint 2007 or higher versions."
 type: docs
-weight: 760
 url: /python-net/groupdocs.metadata.common/filetype/pptm/
 is_root: false
+weight: 3070
 ---
 
-## PPTM property
 
+## PPTM field
 
-Files with PPTM extension are Macro-enabled Presentation files that are created with
-Microsoft PowerPoint 2007 or higher versions. Learn more about this file format
-[here](https://wiki.fileformat.com/presentation/pptm/).
-### Definition:
-```python
-f PPTM 
-```
+Files with PPTM extension are Macro-enabled Presentation files that are created with Microsoft PowerPoint 2007 or higher versions. Learn more about this file format here.
 
 ### See Also
-* module [`groupdocs.metadata.common`](../../)
-* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype)
+* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype/)

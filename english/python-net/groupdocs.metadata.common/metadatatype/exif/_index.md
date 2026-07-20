@@ -1,7 +1,7 @@
 ---
 title: EXIF field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "An EXIF metadata package,"
 type: docs
 url: /python-net/groupdocs.metadata.common/metadatatype/exif/
 is_root: false
@@ -10,6 +10,8 @@ weight: 3040
 
 
 ## EXIF field
+
+An EXIF metadata package,
 
 ### Value
 `3`

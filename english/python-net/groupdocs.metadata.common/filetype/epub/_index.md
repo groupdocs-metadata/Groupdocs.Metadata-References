@@ -1,24 +1,17 @@
-﻿---
-title: EPUB property
+---
+title: EPUB field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "Files with .EPUB extension are an e-book file format that provide a standard digital publication format for publishers and consumers."
 type: docs
-weight: 290
 url: /python-net/groupdocs.metadata.common/filetype/epub/
 is_root: false
+weight: 3280
 ---
 
-## EPUB property
 
+## EPUB field
 
-Files with .EPUB extension are an e-book file format that provide a standard digital publication format for publishers and consumers.
-Learn more about this file format
-[here](https://wiki.fileformat.com/ebook/epub/).
-### Definition:
-```python
-f EPUB 
-```
+Files with .EPUB extension are an e-book file format that provide a standard digital publication format for publishers and consumers. Learn more about this file format here.
 
 ### See Also
-* module [`groupdocs.metadata.common`](../../)
-* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype)
+* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype/)

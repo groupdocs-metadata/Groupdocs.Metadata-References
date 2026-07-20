@@ -1,7 +1,7 @@
 ---
 title: LONG_ARRAY field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "Represents an array of long values."
 type: docs
 url: /python-net/groupdocs.metadata.common/metadatapropertytype/long_array/
 is_root: false
@@ -10,6 +10,8 @@ weight: 3130
 
 
 ## LONG_ARRAY field
+
+Represents an array of long values.
 
 ### Value
 `12`

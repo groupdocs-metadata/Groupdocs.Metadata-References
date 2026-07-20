@@ -1,24 +1,17 @@
-﻿---
-title: DOTX property
+---
+title: DOTX field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "Files with DOTX extension are template files created by Microsoft Word to have pre-formatted settings for generation of further DOCX files."
 type: docs
-weight: 240
 url: /python-net/groupdocs.metadata.common/filetype/dotx/
 is_root: false
+weight: 3220
 ---
 
-## DOTX property
 
+## DOTX field
 
-Files with DOTX extension are template files created by Microsoft Word to have pre-formatted settings
-for generation of further DOCX files. Learn more about this file format
-[here](https://wiki.fileformat.com/word-processing/dotx/).
-### Definition:
-```python
-f DOTX 
-```
+Files with DOTX extension are template files created by Microsoft Word to have pre-formatted settings for generation of further DOCX files. Learn more about this file format here.
 
 ### See Also
-* module [`groupdocs.metadata.common`](../../)
-* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype)
+* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype/)

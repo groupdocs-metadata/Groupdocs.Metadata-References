@@ -1,7 +1,7 @@
 ---
 title: interpreter property
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "The property value interpreter."
 type: docs
 url: /python-net/groupdocs.metadata.common/propertydescriptor/interpreter/
 is_root: false
@@ -10,6 +10,8 @@ weight: 2020
 
 
 ## interpreter property
+
+The property value interpreter.
 
 ### Definition:
 ```python

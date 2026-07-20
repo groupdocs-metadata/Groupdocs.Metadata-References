@@ -1,23 +1,17 @@
-﻿---
-title: JPG property
+---
+title: JPG field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "A JPEG is a type of image format that is saved using the method of lossy compression."
 type: docs
-weight: 460
 url: /python-net/groupdocs.metadata.common/filetype/jpg/
 is_root: false
+weight: 3470
 ---
 
-## JPG property
 
+## JPG field
 
-A JPEG is a type of image format that is saved using the method of lossy compression.
-Learn more about this file format [here](https://wiki.fileformat.com/image/jpeg/).
-### Definition:
-```python
-f JPG 
-```
+A JPEG is a type of image format that is saved using the method of lossy compression. Learn more about this file format here.
 
 ### See Also
-* module [`groupdocs.metadata.common`](../../)
-* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype)
+* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype/)

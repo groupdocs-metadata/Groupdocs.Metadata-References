@@ -1,7 +1,7 @@
 ---
 title: page_number property
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "The number of the page."
 type: docs
 url: /python-net/groupdocs.metadata.common/pageinfo/page_number/
 is_root: false
@@ -10,6 +10,8 @@ weight: 2020
 
 
 ## page_number property
+
+The number of the page.
 
 ### Definition:
 ```python

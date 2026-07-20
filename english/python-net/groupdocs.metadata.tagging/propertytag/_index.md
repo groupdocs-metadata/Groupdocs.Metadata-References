@@ -1,7 +1,7 @@
 ---
 title: PropertyTag class
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "Represents a tag used to mark metadata properties."
 type: docs
 url: /python-net/groupdocs.metadata.tagging/propertytag/
 is_root: false
@@ -11,25 +11,24 @@ weight: 70
 
 ## PropertyTag class
 
+Represents a tag used to mark metadata properties.
+
 The PropertyTag type exposes the following members:
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [_equals_object](/metadata/python-net/groupdocs.metadata.tagging/propertytag/_equals_object/#obj) |  |
-| [_equals_property_tag](/metadata/python-net/groupdocs.metadata.tagging/propertytag/_equals_property_tag/#other) |  |
-| [_get_hash_code_noargs](/metadata/python-net/groupdocs.metadata.tagging/propertytag/_get_hash_code_noargs/) |  |
-| [_to_string_noargs](/metadata/python-net/groupdocs.metadata.tagging/propertytag/_to_string_noargs/) |  |
-| [equals](/metadata/python-net/groupdocs.metadata.tagging/propertytag/equals/) |  |
+| [equals](/metadata/python-net/groupdocs.metadata.tagging/propertytag/equals/#other) | Indicates whether the current object is equal to another object of the same type. |
+| [equals](/metadata/python-net/groupdocs.metadata.tagging/propertytag/equals/#obj) | Determines whether the specified object is equal to the current object. |
 | [equals_object](/metadata/python-net/groupdocs.metadata.tagging/propertytag/equals_object/) |  |
 | [equals_property_tag](/metadata/python-net/groupdocs.metadata.tagging/propertytag/equals_property_tag/) |  |
-| [get_hash_code](/metadata/python-net/groupdocs.metadata.tagging/propertytag/get_hash_code/) |  |
-| [to_string](/metadata/python-net/groupdocs.metadata.tagging/propertytag/to_string/) |  |
+| [get_hash_code](/metadata/python-net/groupdocs.metadata.tagging/propertytag/get_hash_code/) | Serves as the default hash function. |
+| [to_string](/metadata/python-net/groupdocs.metadata.tagging/propertytag/to_string/) | Returns a string that represents the current object. |
 
 ### Properties
 | Property | Description |
 | :- | :- |
-| [category](/metadata/python-net/groupdocs.metadata.tagging/propertytag/category/) |  |
+| [category](/metadata/python-net/groupdocs.metadata.tagging/propertytag/category/) | The tag category. |
 
 ### See Also
 * module [`groupdocs.metadata.tagging`](/metadata/python-net/groupdocs.metadata.tagging/)

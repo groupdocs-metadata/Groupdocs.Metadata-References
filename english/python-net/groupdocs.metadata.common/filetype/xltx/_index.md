@@ -1,24 +1,17 @@
-﻿---
-title: XLTX property
+---
+title: XLTX field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "Files with XLTX extension represent Microsoft Excel Template files that are based on the Office OpenXML file format specifications."
 type: docs
-weight: 1120
 url: /python-net/groupdocs.metadata.common/filetype/xltx/
 is_root: false
+weight: 3210
 ---
 
-## XLTX property
 
+## XLTX field
 
-Files with XLTX extension represent Microsoft Excel Template files that are based on the Office OpenXML
-file format specifications. Learn more about this file format
-[here](https://wiki.fileformat.com/specification/spreadsheet/xltx/).
-### Definition:
-```python
-f XLTX 
-```
+Files with XLTX extension represent Microsoft Excel Template files that are based on the Office OpenXML file format specifications. Learn more about this file format here.
 
 ### See Also
-* module [`groupdocs.metadata.common`](../../)
-* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype)
+* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype/)

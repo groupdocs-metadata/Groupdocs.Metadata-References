@@ -1,25 +1,17 @@
-﻿---
-title: TTC property
+---
+title: TTC field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "TTC (TrueType Collection) is a TrueType font collection format."
 type: docs
-weight: 910
 url: /python-net/groupdocs.metadata.common/filetype/ttc/
 is_root: false
+weight: 3300
 ---
 
-## TTC property
 
+## TTC field
 
-TTC (TrueType Collection) is a TrueType font collection format.
-A TTC file can combine the multiple font files into it.
-Learn more about this file format
-[here](https://docs.fileformat.com/font/ttc/).
-### Definition:
-```python
-f TTC 
-```
+TTC (TrueType Collection) is a TrueType font collection format. A TTC file can combine the multiple font files into it. Learn more about this file format here.
 
 ### See Also
-* module [`groupdocs.metadata.common`](../../)
-* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype)
+* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype/)

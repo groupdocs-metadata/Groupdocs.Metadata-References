@@ -1,7 +1,7 @@
 ---
 title: __init__ constructor
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "Initializes a logger that writes to a file."
 type: docs
 url: /python-net/groupdocs.metadata.logging/filelogger/__init__/
 is_root: false
@@ -9,12 +9,18 @@ weight: 10
 ---
 
 
-## __init__
+## __init__ {#file_name}
+
+Initializes a logger that writes to a file.
 
 ```python
-def __init__(self):
+def __init__(self, file_name):
     ...
 ```
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| file_name | `str` | Full file name with path. |
 
 ### See Also
 * class [`FileLogger`](/metadata/python-net/groupdocs.metadata.logging/filelogger/)

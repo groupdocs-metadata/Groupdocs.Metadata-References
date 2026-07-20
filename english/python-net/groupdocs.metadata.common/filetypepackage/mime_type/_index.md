@@ -1,7 +1,7 @@
 ---
 title: mime_type property
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "The MIME type value."
 type: docs
 url: /python-net/groupdocs.metadata.common/filetypepackage/mime_type/
 is_root: false
@@ -10,6 +10,8 @@ weight: 2030
 
 
 ## mime_type property
+
+The MIME type value.
 
 ### Definition:
 ```python

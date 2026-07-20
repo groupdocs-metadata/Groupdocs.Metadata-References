@@ -1,11 +1,11 @@
 ---
 title: to_struct method
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "PropertyValue.to_struct method — GroupDocs.Metadata for Python via .NET."
 type: docs
 url: /python-net/groupdocs.metadata.common/propertyvalue/to_struct/
 is_root: false
-weight: 1260
+weight: 1060
 ---
 
 
@@ -15,6 +15,17 @@ weight: 1260
 def to_struct(self):
     ...
 ```
+
+## to_struct {#default}
+
+```python
+def to_struct(self, default):
+    ...
+```
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| default |  |  |
 
 ### See Also
 * class [`PropertyValue`](/metadata/python-net/groupdocs.metadata.common/propertyvalue/)

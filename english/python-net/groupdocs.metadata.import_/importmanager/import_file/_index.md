@@ -1,11 +1,11 @@
 ---
 title: import_file method
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "ImportManager.import_file method — GroupDocs.Metadata for Python via .NET."
 type: docs
 url: /python-net/groupdocs.metadata.import_/importmanager/import_file/
 is_root: false
-weight: 1050
+weight: 1020
 ---
 
 

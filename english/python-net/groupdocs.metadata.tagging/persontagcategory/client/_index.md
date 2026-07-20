@@ -1,7 +1,7 @@
 ---
 title: client property
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "The tag that labels information about the client for whom the file/intellectual content was created."
 type: docs
 url: /python-net/groupdocs.metadata.tagging/persontagcategory/client/
 is_root: false
@@ -10,6 +10,8 @@ weight: 2020
 
 
 ## client property
+
+The tag that labels information about the client for whom the file/intellectual content was created.
 
 ### Definition:
 ```python

@@ -1,23 +1,17 @@
-﻿---
-title: CRW property
+---
+title: CRW field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "The .CRW file format is a digital photography RAW format created by Canon."
 type: docs
-weight: 130
 url: /python-net/groupdocs.metadata.common/filetype/crw/
 is_root: false
+weight: 3870
 ---
 
-## CRW property
 
+## CRW field
 
-The .CRW file format is a digital photography RAW format created by Canon. 
-[here](https://wiki.fileformat.com/image/crw/).
-### Definition:
-```python
-f CRW 
-```
+The .CRW file format is a digital photography RAW format created by Canon. here.
 
 ### See Also
-* module [`groupdocs.metadata.common`](../../)
-* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype)
+* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype/)

@@ -1,7 +1,7 @@
 ---
 title: MOV field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "A QuickTime video."
 type: docs
 url: /python-net/groupdocs.metadata.common/metadatatype/mov/
 is_root: false
@@ -10,6 +10,8 @@ weight: 3310
 
 
 ## MOV field
+
+A QuickTime video.
 
 ### Value
 `30`

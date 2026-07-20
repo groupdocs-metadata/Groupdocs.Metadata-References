@@ -1,7 +1,7 @@
 ---
 title: PreviewFormats class
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "PreviewFormats enum — GroupDocs.Metadata for Python via .NET API reference."
 type: docs
 url: /python-net/groupdocs.metadata.options/previewformats/
 is_root: false

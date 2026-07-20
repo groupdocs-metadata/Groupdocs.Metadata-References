@@ -1,24 +1,17 @@
-﻿---
-title: ONE property
+---
+title: ONE field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "File represented by .ONE extension are created by Microsoft OneNote application."
 type: docs
-weight: 630
 url: /python-net/groupdocs.metadata.common/filetype/one/
 is_root: false
+weight: 3330
 ---
 
-## ONE property
 
+## ONE field
 
-File represented by .ONE extension are created by Microsoft OneNote application.
-Learn more about this file format
-[here](https://wiki.fileformat.com/note-taking/one/).
-### Definition:
-```python
-f ONE 
-```
+File represented by .ONE extension are created by Microsoft OneNote application. Learn more about this file format here.
 
 ### See Also
-* module [`groupdocs.metadata.common`](../../)
-* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype)
+* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype/)

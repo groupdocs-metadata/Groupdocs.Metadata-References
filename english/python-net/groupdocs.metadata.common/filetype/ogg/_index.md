@@ -1,23 +1,17 @@
-﻿---
-title: OGG property
+---
+title: OGG field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "OGG is an Ogg Vorbis Compressed Audio File that is saved with the .ogg extension."
 type: docs
-weight: 620
 url: /python-net/groupdocs.metadata.common/filetype/ogg/
 is_root: false
+weight: 4090
 ---
 
-## OGG property
 
+## OGG field
 
-OGG is an Ogg Vorbis Compressed Audio File that is saved with the .ogg extension. OGG files are used for storing audio data and can include artist and track information and metadata as well. OGG is a free and open container format that is maintained by Xiph.Org Foundation.
-Learn more about this file format [here](https://docs.fileformat.com/audio/ogg/).
-### Definition:
-```python
-f OGG 
-```
+OGG is an Ogg Vorbis Compressed Audio File that is saved with the .ogg extension. OGG files are used for storing audio data and can include artist and track information and metadata as well. OGG is a free and open container format that is maintained by Xiph.Org Foundation. Learn more about this file format here.
 
 ### See Also
-* module [`groupdocs.metadata.common`](../../)
-* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype)
+* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype/)

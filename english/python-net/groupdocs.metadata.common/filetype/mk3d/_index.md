@@ -1,25 +1,17 @@
-﻿---
-title: MK3D property
+---
+title: MK3D field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "MK3D is actually stereoscopic 3D video created using Matroska 3D format."
 type: docs
-weight: 510
 url: /python-net/groupdocs.metadata.common/filetype/mk3d/
 is_root: false
+weight: 3810
 ---
 
-## MK3D property
 
+## MK3D field
 
-MK3D is actually stereoscopic 3D video created using Matroska 3D format.
-The MKV file container uses a StereoMode field’s value to define the type of stereoscopic 3D video stuff.
-Learn more about this file format
-[here](https://docs.fileformat.com/video/mk3d/).
-### Definition:
-```python
-f MK3D 
-```
+MK3D is actually stereoscopic 3D video created using Matroska 3D format. The MKV file container uses a StereoMode field’s value to define the type of stereoscopic 3D video stuff. Learn more about this file format here.
 
 ### See Also
-* module [`groupdocs.metadata.common`](../../)
-* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype)
+* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype/)

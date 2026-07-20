@@ -1,7 +1,7 @@
 ---
 title: READ field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "The property is read-only."
 type: docs
 url: /python-net/groupdocs.metadata.common/propertyaccesslevels/read/
 is_root: false
@@ -10,6 +10,8 @@ weight: 3010
 
 
 ## READ field
+
+The property is read-only.
 
 ### Value
 `0`

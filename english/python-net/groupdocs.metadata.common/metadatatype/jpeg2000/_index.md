@@ -1,7 +1,7 @@
 ---
 title: JPEG2000 field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "A JPEG2000 native metadata package."
 type: docs
 url: /python-net/groupdocs.metadata.common/metadatatype/jpeg2000/
 is_root: false
@@ -10,6 +10,8 @@ weight: 3190
 
 
 ## JPEG2000 field
+
+A JPEG2000 native metadata package.
 
 ### Value
 `18`

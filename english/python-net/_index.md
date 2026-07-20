@@ -1,12 +1,12 @@
 ---
 title: GroupDocs.Metadata for Python via .NET
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "API reference for GroupDocs.Metadata for Python via .NET — namespaces, classes, methods, properties, and runnable examples."
 type: docs
 url: /python-net/
 is_root: true
 weight: 40
-version: 26.5.0
+version: 26.7.0
 ---
 
 
@@ -20,3 +20,6 @@ version: 26.5.0
 | [`groupdocs.metadata.logging`](/metadata/python-net/groupdocs.metadata.logging/) | Logging hooks and listener interfaces. |
 | [`groupdocs.metadata.options`](/metadata/python-net/groupdocs.metadata.options/) | Option classes for configuring conversions and operations. |
 | [`groupdocs.metadata.tagging`](/metadata/python-net/groupdocs.metadata.tagging/) | Types under `groupdocs.metadata.tagging`. |
+
+### Developer Guide
+* [Task guides with runnable examples](/metadata/python-net/guides/)

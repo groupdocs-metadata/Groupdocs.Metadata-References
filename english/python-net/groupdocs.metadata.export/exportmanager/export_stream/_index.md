@@ -1,11 +1,11 @@
 ---
 title: export_stream method
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "ExportManager.export_stream method — GroupDocs.Metadata for Python via .NET."
 type: docs
 url: /python-net/groupdocs.metadata.export/exportmanager/export_stream/
 is_root: false
-weight: 1080
+weight: 1030
 ---
 
 

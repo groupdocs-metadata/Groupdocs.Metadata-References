@@ -1,11 +1,11 @@
 ---
 title: begin_invoke_streams method
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "ReleasePageStream.begin_invoke_streams method — GroupDocs.Metadata for Python via .NET."
 type: docs
 url: /python-net/groupdocs.metadata.options/releasepagestream/begin_invoke_streams/
 is_root: false
-weight: 1080
+weight: 1040
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: digital_signature property
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "The tag that labels a digital signature."
 type: docs
 url: /python-net/groupdocs.metadata.tagging/propertytypetagcategory/digital_signature/
 is_root: false
@@ -10,6 +10,8 @@ weight: 2030
 
 
 ## digital_signature property
+
+The tag that labels a digital signature.
 
 ### Definition:
 ```python

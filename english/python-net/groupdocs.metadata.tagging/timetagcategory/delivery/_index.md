@@ -1,7 +1,7 @@
 ---
 title: delivery property
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "The tag that indicates the date a file was delivered."
 type: docs
 url: /python-net/groupdocs.metadata.tagging/timetagcategory/delivery/
 is_root: false
@@ -10,6 +10,8 @@ weight: 2020
 
 
 ## delivery property
+
+The tag that indicates the date a file was delivered.
 
 ### Definition:
 ```python

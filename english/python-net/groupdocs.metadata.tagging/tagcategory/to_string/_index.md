@@ -1,20 +1,24 @@
 ---
 title: to_string method
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "Returns a string that represents the current object."
 type: docs
 url: /python-net/groupdocs.metadata.tagging/tagcategory/to_string/
 is_root: false
-weight: 1020
+weight: 1010
 ---
 
 
 ## to_string
 
+Returns a string that represents the current object.
+
 ```python
 def to_string(self):
     ...
 ```
+
+**Returns:** str: A string that represents the current object.
 
 ### See Also
 * class [`TagCategory`](/metadata/python-net/groupdocs.metadata.tagging/tagcategory/)

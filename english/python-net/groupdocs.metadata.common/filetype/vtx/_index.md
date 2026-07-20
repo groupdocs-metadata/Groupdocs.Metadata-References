@@ -1,24 +1,17 @@
-﻿---
-title: VTX property
+---
+title: VTX field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "Files with .VTX extension refer to Microsoft Visio drawing template that is saved to disc in XML file format."
 type: docs
-weight: 1010
 url: /python-net/groupdocs.metadata.common/filetype/vtx/
 is_root: false
+weight: 3700
 ---
 
-## VTX property
 
+## VTX field
 
-Files with .VTX extension refer to Microsoft Visio drawing template that is saved to disc in XML file format.
-Learn more about this file format
-[here](https://docs.fileformat.com/visio/vtx/).
-### Definition:
-```python
-f VTX 
-```
+Files with .VTX extension refer to Microsoft Visio drawing template that is saved to disc in XML file format. Learn more about this file format here.
 
 ### See Also
-* module [`groupdocs.metadata.common`](../../)
-* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype)
+* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype/)

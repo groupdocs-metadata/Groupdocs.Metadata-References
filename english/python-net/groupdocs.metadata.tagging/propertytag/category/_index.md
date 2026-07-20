@@ -1,7 +1,7 @@
 ---
 title: category property
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "The tag category."
 type: docs
 url: /python-net/groupdocs.metadata.tagging/propertytag/category/
 is_root: false
@@ -10,6 +10,8 @@ weight: 2010
 
 
 ## category property
+
+The tag category.
 
 ### Definition:
 ```python

@@ -1,11 +1,11 @@
 ---
 title: import_streams method
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "ImportManager.import_streams method — GroupDocs.Metadata for Python via .NET."
 type: docs
 url: /python-net/groupdocs.metadata.import_/importmanager/import_streams/
 is_root: false
-weight: 1070
+weight: 1040
 ---
 
 

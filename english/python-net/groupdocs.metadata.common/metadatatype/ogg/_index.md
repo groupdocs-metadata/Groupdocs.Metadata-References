@@ -1,7 +1,7 @@
 ---
 title: OGG field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "Ogg format"
 type: docs
 url: /python-net/groupdocs.metadata.common/metadatatype/ogg/
 is_root: false
@@ -10,6 +10,8 @@ weight: 3540
 
 
 ## OGG field
+
+Ogg format
 
 ### Value
 `53`

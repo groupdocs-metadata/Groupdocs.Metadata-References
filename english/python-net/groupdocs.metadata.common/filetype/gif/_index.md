@@ -1,23 +1,17 @@
-﻿---
-title: GIF property
+---
+title: GIF field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "A GIF or Graphical Interchange Format is a type of highly compressed image."
 type: docs
-weight: 340
 url: /python-net/groupdocs.metadata.common/filetype/gif/
 is_root: false
+weight: 3460
 ---
 
-## GIF property
 
+## GIF field
 
-A GIF or Graphical Interchange Format is a type of highly compressed image.
-Learn more about this file format [here](https://wiki.fileformat.com/image/gif/).
-### Definition:
-```python
-f GIF 
-```
+A GIF or Graphical Interchange Format is a type of highly compressed image. Learn more about this file format here.
 
 ### See Also
-* module [`groupdocs.metadata.common`](../../)
-* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype)
+* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype/)

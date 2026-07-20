@@ -1,24 +1,17 @@
-﻿---
-title: VSS property
+---
+title: VSS field
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "VSS are stencil files created with Microsoft Visio 2007 and earlier."
 type: docs
-weight: 990
 url: /python-net/groupdocs.metadata.common/filetype/vss/
 is_root: false
+weight: 3680
 ---
 
-## VSS property
 
+## VSS field
 
-VSS are stencil files created with Microsoft Visio 2007 and earlier. Stencil files provide drawing
-objects that can be included in a .VSD Visio drawing. Learn more about this file format
-[here](https://wiki.fileformat.com/visio/vss/).
-### Definition:
-```python
-f VSS 
-```
+VSS are stencil files created with Microsoft Visio 2007 and earlier. Stencil files provide drawing objects that can be included in a .VSD Visio drawing. Learn more about this file format here.
 
 ### See Also
-* module [`groupdocs.metadata.common`](../../)
-* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype)
+* class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype/)

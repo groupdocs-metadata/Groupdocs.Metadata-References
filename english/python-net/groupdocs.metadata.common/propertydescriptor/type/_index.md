@@ -1,7 +1,7 @@
 ---
 title: type property
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "The property type."
 type: docs
 url: /python-net/groupdocs.metadata.common/propertydescriptor/type/
 is_root: false
@@ -10,6 +10,8 @@ weight: 2050
 
 
 ## type property
+
+The property type.
 
 ### Definition:
 ```python

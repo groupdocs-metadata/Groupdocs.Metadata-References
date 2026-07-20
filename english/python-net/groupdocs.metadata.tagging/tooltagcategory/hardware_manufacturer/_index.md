@@ -1,7 +1,7 @@
 ---
 title: hardware_manufacturer property
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: 
+description: "The tag that marks a hardware manufacturer."
 type: docs
 url: /python-net/groupdocs.metadata.tagging/tooltagcategory/hardware_manufacturer/
 is_root: false
@@ -10,6 +10,8 @@ weight: 2030
 
 
 ## hardware_manufacturer property
+
+The tag that marks a hardware manufacturer.
 
 ### Definition:
 ```python
