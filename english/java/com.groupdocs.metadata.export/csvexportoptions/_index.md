@@ -13,11 +13,13 @@ public class CsvExportOptions extends ExportOptions
 ```
 
 Creates an export options of xml file.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [CsvExportOptions()](#CsvExportOptions--) | Initializes a new instance of the [CsvExportOptions](../../com.groupdocs.metadata.export/csvexportoptions) class. |
+| [CsvExportOptions()](#CsvExportOptions--) | Initializes a new instance of the [CsvExportOptions](../../com.groupdocs.metadata.export/csvexportoptions) class.
+ |
 ### CsvExportOptions() {#CsvExportOptions--}
 ```
 public CsvExportOptions()
@@ -25,4 +27,5 @@ public CsvExportOptions()
 
 
 Initializes a new instance of the [CsvExportOptions](../../com.groupdocs.metadata.export/csvexportoptions) class.
+
 

@@ -13,24 +13,33 @@ public final class Cr2AFMicroAdjPackage extends RawDictionaryBasePackage
 ```
 
 Represents Canon MakerNotes tags.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [Cr2AFMicroAdjPackage()](#Cr2AFMicroAdjPackage--) | Initializes a new instance of the  Cr2AFMicroAdjPackage  class. |
+| [Cr2AFMicroAdjPackage()](#Cr2AFMicroAdjPackage--) | Initializes a new instance of the 
+Cr2AFMicroAdjPackage
+ class.
+ |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getAFMicroAdjMode()](#getAFMicroAdjMode--) | Gets the AFMicroAdjMode. |
-| [getAFMicroAdjValue()](#getAFMicroAdjValue--) | Gets the AFMicroAdjValue. |
+| [getAFMicroAdjMode()](#getAFMicroAdjMode--) | Gets the AFMicroAdjMode.
+ |
+| [getAFMicroAdjValue()](#getAFMicroAdjValue--) | Gets the AFMicroAdjValue.
+ |
 ### Cr2AFMicroAdjPackage() {#Cr2AFMicroAdjPackage--}
 ```
 public Cr2AFMicroAdjPackage()
 ```
 
 
-Initializes a new instance of the  Cr2AFMicroAdjPackage  class.
+Initializes a new instance of the 
+Cr2AFMicroAdjPackage
+ class.
+
 
 ### getAFMicroAdjMode() {#getAFMicroAdjMode--}
 ```
@@ -40,8 +49,10 @@ public final int getAFMicroAdjMode()
 
 Gets the AFMicroAdjMode.
 
+
 **Returns:**
 int - The AFMicroAdjMode.
+
 ### getAFMicroAdjValue() {#getAFMicroAdjValue--}
 ```
 public final float getAFMicroAdjValue()
@@ -50,5 +61,7 @@ public final float getAFMicroAdjValue()
 
 Gets the AFMicroAdjValue.
 
+
 **Returns:**
 float - The AFMicroAdjValue.
+

@@ -16,15 +16,21 @@ public enum VCardContentType extends Enum<VCardContentType> implements IEnumValu
 ```
 
 Defines vCard record content types.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Custom](#Custom) | The custom content type. |
-| [Text](#Text) | The text content type. |
-| [Binary](#Binary) | The binary content type. |
-| [DateTime](#DateTime) | The date time content type. |
-| [Agent](#Agent) | The agent content type. |
+| [Custom](#Custom) | The custom content type.
+ |
+| [Text](#Text) | The text content type.
+ |
+| [Binary](#Binary) | The binary content type.
+ |
+| [DateTime](#DateTime) | The date time content type.
+ |
+| [Agent](#Agent) | The agent content type.
+ |
 ## Methods
 
 | Method | Description |
@@ -46,6 +52,7 @@ public static final VCardContentType Custom
 
 The custom content type.
 
+
 ### Text {#Text}
 ```
 public static final VCardContentType Text
@@ -53,6 +60,7 @@ public static final VCardContentType Text
 
 
 The text content type.
+
 
 ### Binary {#Binary}
 ```
@@ -62,6 +70,7 @@ public static final VCardContentType Binary
 
 The binary content type.
 
+
 ### DateTime {#DateTime}
 ```
 public static final VCardContentType DateTime
@@ -70,6 +79,7 @@ public static final VCardContentType DateTime
 
 The date time content type.
 
+
 ### Agent {#Agent}
 ```
 public static final VCardContentType Agent
@@ -77,6 +87,7 @@ public static final VCardContentType Agent
 
 
 The agent content type.
+
 
 ### values() {#values--}
 ```
@@ -136,6 +147,7 @@ public Object[] getAllValues()
 
 Returns the array of all values defined in the class.
 
+
 **Returns:**
 java.lang.Object[]
 ### getEnumValueByRawValue(int rawValue) {#getEnumValueByRawValue-int-}
@@ -145,6 +157,7 @@ public IEnumValue getEnumValueByRawValue(int rawValue)
 
 
 Returns the enumeration value by the raw value associated with it.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -161,6 +174,7 @@ public IEnumValue getEnumValueByName(String name)
 
 Returns the enumeration value by its name.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -176,6 +190,7 @@ public RawIntegerType getRawValueType()
 
 Returns the underlying type of the raw value of this enumeration value.
 
+
 **Returns:**
 [RawIntegerType](../../com.groupdocs.metadata.core/rawintegertype)
 ### getRawValue() {#getRawValue--}
@@ -185,6 +200,7 @@ public int getRawValue()
 
 
 Returns the raw value of this enumeration value.
+
 
 **Returns:**
 int

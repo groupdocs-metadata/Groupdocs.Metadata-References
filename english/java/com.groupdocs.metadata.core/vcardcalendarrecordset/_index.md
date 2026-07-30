@@ -14,22 +14,30 @@ public class VCardCalendarRecordset extends VCardRecordset
 
 Represents a set of Calendar vCard records.
 
+
 **Learn more**
 
- *  [Working with vCard metadata][]
+* [Working with vCard metadata](../https://docs.groupdocs.com/display/metadatajava/Working+with+vCard+metadata)
+
+<br />
 
 
-[Working with vCard metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+vCard+metadata
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getBusyTimeRecords()](#getBusyTimeRecords--) | Gets the URIs for the busy time associated with the object. |
-| [getBusyTimeEntries()](#getBusyTimeEntries--) | Gets the URIs for the busy time associated with the object. |
-| [getCalendarAddressRecords()](#getCalendarAddressRecords--) | Gets the calendar user addresses to which a scheduling request should be sent for the object represented by the vCard. |
-| [getCalendarAddresses()](#getCalendarAddresses--) | Gets the calendar user addresses to which a scheduling request should be sent for the object represented by the vCard. |
-| [getCalendarUriRecords()](#getCalendarUriRecords--) | Gets the URIs for the calendar associated with the object represented by the vCard. |
-| [getUriCalendarEntries()](#getUriCalendarEntries--) | Gets the URIs for the calendar associated with the object represented by the vCard. |
+| [getBusyTimeRecords()](#getBusyTimeRecords--) | Gets the URIs for the busy time associated with the object.
+ |
+| [getBusyTimeEntries()](#getBusyTimeEntries--) | Gets the URIs for the busy time associated with the object.
+ |
+| [getCalendarAddressRecords()](#getCalendarAddressRecords--) | Gets the calendar user addresses to which a scheduling request should be sent for the object represented by the vCard.
+ |
+| [getCalendarAddresses()](#getCalendarAddresses--) | Gets the calendar user addresses to which a scheduling request should be sent for the object represented by the vCard.
+ |
+| [getCalendarUriRecords()](#getCalendarUriRecords--) | Gets the URIs for the calendar associated with the object represented by the vCard.
+ |
+| [getUriCalendarEntries()](#getUriCalendarEntries--) | Gets the URIs for the calendar associated with the object represented by the vCard.
+ |
 ### getBusyTimeRecords() {#getBusyTimeRecords--}
 ```
 public final VCardTextRecord[] getBusyTimeRecords()
@@ -38,8 +46,10 @@ public final VCardTextRecord[] getBusyTimeRecords()
 
 Gets the URIs for the busy time associated with the object.
 
+
 **Returns:**
 com.groupdocs.metadata.core.VCardTextRecord[] - The URIs for the busy time associated with the object.
+
 ### getBusyTimeEntries() {#getBusyTimeEntries--}
 ```
 public final String[] getBusyTimeEntries()
@@ -48,12 +58,19 @@ public final String[] getBusyTimeEntries()
 
 Gets the URIs for the busy time associated with the object.
 
+
 **Returns:**
 java.lang.String[] - The URIs for the busy time associated with the object.
 
---------------------
+<br />
+
+*** ** * ** ***
 
 This property is a simplified version of  BusyTimeRecords .
+
+<br />
+
+
 ### getCalendarAddressRecords() {#getCalendarAddressRecords--}
 ```
 public final VCardTextRecord[] getCalendarAddressRecords()
@@ -62,8 +79,10 @@ public final VCardTextRecord[] getCalendarAddressRecords()
 
 Gets the calendar user addresses to which a scheduling request should be sent for the object represented by the vCard.
 
+
 **Returns:**
 com.groupdocs.metadata.core.VCardTextRecord[] - The calendar user addresses to which a scheduling request should be sent for the object represented by the vCard.
+
 ### getCalendarAddresses() {#getCalendarAddresses--}
 ```
 public final String[] getCalendarAddresses()
@@ -72,12 +91,19 @@ public final String[] getCalendarAddresses()
 
 Gets the calendar user addresses to which a scheduling request should be sent for the object represented by the vCard.
 
+
 **Returns:**
 java.lang.String[] - The calendar user addresses to which a scheduling request should be sent for the object represented by the vCard.
 
---------------------
+<br />
+
+*** ** * ** ***
 
 This property is a simplified version of  CalendarAddressRecords .
+
+<br />
+
+
 ### getCalendarUriRecords() {#getCalendarUriRecords--}
 ```
 public final VCardTextRecord[] getCalendarUriRecords()
@@ -86,8 +112,10 @@ public final VCardTextRecord[] getCalendarUriRecords()
 
 Gets the URIs for the calendar associated with the object represented by the vCard.
 
+
 **Returns:**
 com.groupdocs.metadata.core.VCardTextRecord[] - The URIs for the calendar associated with the object represented by the vCard.
+
 ### getUriCalendarEntries() {#getUriCalendarEntries--}
 ```
 public final String[] getUriCalendarEntries()
@@ -96,9 +124,16 @@ public final String[] getUriCalendarEntries()
 
 Gets the URIs for the calendar associated with the object represented by the vCard.
 
+
 **Returns:**
 java.lang.String[] - The URIs for the calendar associated with the object represented by the vCard.
 
---------------------
+<br />
+
+*** ** * ** ***
 
 This property is a simplified version of  CalendarUriRecords .
+
+<br />
+
+

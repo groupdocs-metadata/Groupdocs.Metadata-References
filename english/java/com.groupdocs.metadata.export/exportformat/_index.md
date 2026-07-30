@@ -16,15 +16,21 @@ public enum ExportFormat extends Enum<ExportFormat> implements IEnumValue
 ```
 
 Defines file formats to which you can export metadata properties.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Xls](#Xls) | Represents the .XLS Excel format. |
-| [Xlsx](#Xlsx) | Represents the .XLSX Excel format. |
-| [Xml](#Xml) | Represents the .XML format. |
-| [Csv](#Csv) | Represents the .CSV format. |
-| [Json](#Json) | Represents the .JSON format. |
+| [Xls](#Xls) | Represents the .XLS Excel format.
+ |
+| [Xlsx](#Xlsx) | Represents the .XLSX Excel format.
+ |
+| [Xml](#Xml) | Represents the .XML format.
+ |
+| [Csv](#Csv) | Represents the .CSV format.
+ |
+| [Json](#Json) | Represents the .JSON format.
+ |
 ## Methods
 
 | Method | Description |
@@ -46,6 +52,7 @@ public static final ExportFormat Xls
 
 Represents the .XLS Excel format.
 
+
 ### Xlsx {#Xlsx}
 ```
 public static final ExportFormat Xlsx
@@ -53,6 +60,7 @@ public static final ExportFormat Xlsx
 
 
 Represents the .XLSX Excel format.
+
 
 ### Xml {#Xml}
 ```
@@ -62,6 +70,7 @@ public static final ExportFormat Xml
 
 Represents the .XML format.
 
+
 ### Csv {#Csv}
 ```
 public static final ExportFormat Csv
@@ -70,6 +79,7 @@ public static final ExportFormat Csv
 
 Represents the .CSV format.
 
+
 ### Json {#Json}
 ```
 public static final ExportFormat Json
@@ -77,6 +87,7 @@ public static final ExportFormat Json
 
 
 Represents the .JSON format.
+
 
 ### values() {#values--}
 ```
@@ -136,6 +147,7 @@ public Object[] getAllValues()
 
 Returns the array of all values defined in the class.
 
+
 **Returns:**
 java.lang.Object[]
 ### getEnumValueByRawValue(int rawValue) {#getEnumValueByRawValue-int-}
@@ -145,6 +157,7 @@ public IEnumValue getEnumValueByRawValue(int rawValue)
 
 
 Returns the enumeration value by the raw value associated with it.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -161,6 +174,7 @@ public IEnumValue getEnumValueByName(String name)
 
 Returns the enumeration value by its name.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -176,6 +190,7 @@ public RawIntegerType getRawValueType()
 
 Returns the underlying type of the raw value of this enumeration value.
 
+
 **Returns:**
 [RawIntegerType](../../com.groupdocs.metadata.core/rawintegertype)
 ### getRawValue() {#getRawValue--}
@@ -185,6 +200,7 @@ public int getRawValue()
 
 
 Returns the raw value of this enumeration value.
+
 
 **Returns:**
 int

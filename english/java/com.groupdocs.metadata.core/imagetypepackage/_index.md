@@ -13,13 +13,17 @@ public class ImageTypePackage extends FileTypePackage
 ```
 
 Represents a metadata package containing image-specific file format information.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getWidth()](#getWidth--) | Gets the image width. |
-| [getHeight()](#getHeight--) | Gets the image height. |
-| [getByteOrder()](#getByteOrder--) | Gets the byte-order of the image. |
+| [getWidth()](#getWidth--) | Gets the image width.
+ |
+| [getHeight()](#getHeight--) | Gets the image height.
+ |
+| [getByteOrder()](#getByteOrder--) | Gets the byte-order of the image.
+ |
 ### getWidth() {#getWidth--}
 ```
 public final int getWidth()
@@ -28,8 +32,10 @@ public final int getWidth()
 
 Gets the image width.
 
+
 **Returns:**
 int - The image width.
+
 ### getHeight() {#getHeight--}
 ```
 public final int getHeight()
@@ -38,15 +44,22 @@ public final int getHeight()
 
 Gets the image height.
 
+
 **Returns:**
 int - The image height.
+
 ### getByteOrder() {#getByteOrder--}
 ```
 public final ByteOrder getByteOrder()
 ```
 
 
-Gets the byte-order of the image. Please see  https://en.wikipedia.org/wiki/Endianness  for more information.
+Gets the byte-order of the image.
+Please see 
+<https://en.wikipedia.org/wiki/Endianness>
+ for more information.
+
 
 **Returns:**
 [ByteOrder](../../com.groupdocs.metadata.core/byteorder) - The byte-order value.
+

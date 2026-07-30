@@ -12,40 +12,58 @@ java.lang.Object, [com.groupdocs.metadata.core.MetadataPackage](../../com.groupd
 public final class ID3V2UserDefinedFrame extends ID3V2TagFrame
 ```
 
-Represents a TXXX frame in an  ID3V2Tag .
+Represents a TXXX frame in an 
+ID3V2Tag
+.
+
 
 **Learn more**
 
- *  [Handling the ID3v2 tag][]
+* [Handling the ID3v2 tag](../https://docs.groupdocs.com/display/metadatajava/Handling+the+ID3v2+tag)
+
+<br />
 
 
-[Handling the ID3v2 tag]: https://docs.groupdocs.com/display/metadatajava/Handling+the+ID3v2+tag
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [ID3V2UserDefinedFrame(String description, String value)](#ID3V2UserDefinedFrame-java.lang.String-java.lang.String-) | Initializes a new instance of the  ID3V2UserDefinedFrame  class. |
-| [ID3V2UserDefinedFrame(ID3V2EncodingType encoding, String description, String value)](#ID3V2UserDefinedFrame-com.groupdocs.metadata.core.ID3V2EncodingType-java.lang.String-java.lang.String-) | Initializes a new instance of the  ID3V2UserDefinedFrame  class. |
+| [ID3V2UserDefinedFrame(String description, String value)](#ID3V2UserDefinedFrame-java.lang.String-java.lang.String-) | Initializes a new instance of the 
+ID3V2UserDefinedFrame
+ class.
+ |
+| [ID3V2UserDefinedFrame(ID3V2EncodingType encoding, String description, String value)](#ID3V2UserDefinedFrame-com.groupdocs.metadata.core.ID3V2EncodingType-java.lang.String-java.lang.String-) | Initializes a new instance of the 
+ID3V2UserDefinedFrame
+ class.
+ |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getEncoding()](#getEncoding--) | Gets the encoding of the frame. |
-| [getDescription()](#getDescription--) | Gets the description. |
-| [getValue()](#getValue--) | Gets the value. |
+| [getEncoding()](#getEncoding--) | Gets the encoding of the frame.
+ |
+| [getDescription()](#getDescription--) | Gets the description.
+ |
+| [getValue()](#getValue--) | Gets the value.
+ |
 ### ID3V2UserDefinedFrame(String description, String value) {#ID3V2UserDefinedFrame-java.lang.String-java.lang.String-}
 ```
 public ID3V2UserDefinedFrame(String description, String value)
 ```
 
 
-Initializes a new instance of the  ID3V2UserDefinedFrame  class.
+Initializes a new instance of the 
+ID3V2UserDefinedFrame
+ class.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| description | java.lang.String | The description. |
-| value | java.lang.String | The value. |
+| description | java.lang.String | The description.
+ |
+| value | java.lang.String | The value.
+ |
 
 ### ID3V2UserDefinedFrame(ID3V2EncodingType encoding, String description, String value) {#ID3V2UserDefinedFrame-com.groupdocs.metadata.core.ID3V2EncodingType-java.lang.String-java.lang.String-}
 ```
@@ -53,14 +71,20 @@ public ID3V2UserDefinedFrame(ID3V2EncodingType encoding, String description, Str
 ```
 
 
-Initializes a new instance of the  ID3V2UserDefinedFrame  class.
+Initializes a new instance of the 
+ID3V2UserDefinedFrame
+ class.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| encoding | [ID3V2EncodingType](../../com.groupdocs.metadata.core/id3v2encodingtype) | The encoding of the frame. |
-| description | java.lang.String | The description. |
-| value | java.lang.String | The text value. |
+| encoding | [ID3V2EncodingType](../../com.groupdocs.metadata.core/id3v2encodingtype) | The encoding of the frame.
+ |
+| description | java.lang.String | The description.
+ |
+| value | java.lang.String | The text value.
+ |
 
 ### getEncoding() {#getEncoding--}
 ```
@@ -70,8 +94,10 @@ public final ID3V2EncodingType getEncoding()
 
 Gets the encoding of the frame.
 
+
 **Returns:**
 [ID3V2EncodingType](../../com.groupdocs.metadata.core/id3v2encodingtype) - The encoding of the frame.
+
 ### getDescription() {#getDescription--}
 ```
 public final String getDescription()
@@ -80,8 +106,10 @@ public final String getDescription()
 
 Gets the description.
 
+
 **Returns:**
 java.lang.String - The description.
+
 ### getValue() {#getValue--}
 ```
 public final String getValue()
@@ -90,5 +118,7 @@ public final String getValue()
 
 Gets the value.
 
+
 **Returns:**
 java.lang.String - The value.
+

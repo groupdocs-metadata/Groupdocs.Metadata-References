@@ -12,7 +12,10 @@ java.lang.Object
 public abstract class ValueAcceptor
 ```
 
-Provides a base abstract class that allows extracting all supported types of values from a  PropertyValue  instance.
+Provides a base abstract class that allows extracting all supported types of values from a 
+PropertyValue
+ instance.
+
 ## Constructors
 
 | Constructor | Description |

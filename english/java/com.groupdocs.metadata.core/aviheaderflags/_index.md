@@ -16,16 +16,24 @@ public final class AviHeaderFlags implements IEnumValue
 ```
 
 Represents AVI Header flags.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [HasIndex](#HasIndex) | Indicates the AVI file has an index. |
-| [MustUseIndex](#MustUseIndex) | Indicates that application should use the index, rather than the physical ordering of the chunks in the file, to determine the order of presentation of the data. |
-| [IsInterleaved](#IsInterleaved) | Indicates the AVI file is interleaved. |
-| [TrustCkType](#TrustCkType) | Use CKType to find key frames. |
-| [WasCaptureFile](#WasCaptureFile) | Indicates the AVI file is a specially allocated file used for capturing real-time video. |
-| [Copyrighted](#Copyrighted) | Indicates the AVI file contains copyrighted data and software. |
+| [HasIndex](#HasIndex) | Indicates the AVI file has an index.
+ |
+| [MustUseIndex](#MustUseIndex) | Indicates that application should use the index, rather than the physical ordering of the chunks in the file,
+to determine the order of presentation of the data.
+ |
+| [IsInterleaved](#IsInterleaved) | Indicates the AVI file is interleaved.
+ |
+| [TrustCkType](#TrustCkType) | Use CKType to find key frames.
+ |
+| [WasCaptureFile](#WasCaptureFile) | Indicates the AVI file is a specially allocated file used for capturing real-time video.
+ |
+| [Copyrighted](#Copyrighted) | Indicates the AVI file contains copyrighted data and software.
+ |
 ## Methods
 
 | Method | Description |
@@ -48,13 +56,16 @@ public static final AviHeaderFlags HasIndex
 
 Indicates the AVI file has an index.
 
+
 ### MustUseIndex {#MustUseIndex}
 ```
 public static final AviHeaderFlags MustUseIndex
 ```
 
 
-Indicates that application should use the index, rather than the physical ordering of the chunks in the file, to determine the order of presentation of the data. For example, this flag could be used to create a list of frames for editing.
+Indicates that application should use the index, rather than the physical ordering of the chunks in the file,
+to determine the order of presentation of the data. For example, this flag could be used to create a list of frames for editing.
+
 
 ### IsInterleaved {#IsInterleaved}
 ```
@@ -64,6 +75,7 @@ public static final AviHeaderFlags IsInterleaved
 
 Indicates the AVI file is interleaved.
 
+
 ### TrustCkType {#TrustCkType}
 ```
 public static final AviHeaderFlags TrustCkType
@@ -72,13 +84,16 @@ public static final AviHeaderFlags TrustCkType
 
 Use CKType to find key frames.
 
+
 ### WasCaptureFile {#WasCaptureFile}
 ```
 public static final AviHeaderFlags WasCaptureFile
 ```
 
 
-Indicates the AVI file is a specially allocated file used for capturing real-time video. Applications should warn the user before writing over a file with this flag set because the user probably defragmented this file.
+Indicates the AVI file is a specially allocated file used for capturing real-time video.
+Applications should warn the user before writing over a file with this flag set because the user probably defragmented this file.
+
 
 ### Copyrighted {#Copyrighted}
 ```
@@ -86,7 +101,9 @@ public static final AviHeaderFlags Copyrighted
 ```
 
 
-Indicates the AVI file contains copyrighted data and software. When this flag is used, software should not permit the data to be duplicated.
+Indicates the AVI file contains copyrighted data and software.
+When this flag is used, software should not permit the data to be duplicated.
+
 
 ### getByRawValue(int rawValue) {#getByRawValue-int-}
 ```
@@ -121,6 +138,7 @@ public Object[] getAllValues()
 
 Returns the array of all values defined in the class.
 
+
 **Returns:**
 java.lang.Object[]
 ### getEnumValueByRawValue(int rawValue) {#getEnumValueByRawValue-int-}
@@ -130,6 +148,7 @@ public IEnumValue getEnumValueByRawValue(int rawValue)
 
 
 Returns the enumeration value by the raw value associated with it.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -146,6 +165,7 @@ public IEnumValue getEnumValueByName(String name)
 
 Returns the enumeration value by its name.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -161,6 +181,7 @@ public RawIntegerType getRawValueType()
 
 Returns the underlying type of the raw value of this enumeration value.
 
+
 **Returns:**
 [RawIntegerType](../../com.groupdocs.metadata.core/rawintegertype)
 ### getRawValue() {#getRawValue--}
@@ -171,6 +192,7 @@ public int getRawValue()
 
 Returns the raw value of this enumeration value.
 
+
 **Returns:**
 int
 ### name() {#name--}
@@ -180,6 +202,7 @@ public String name()
 
 
 Returns the name of this enumeration value.
+
 
 **Returns:**
 java.lang.String

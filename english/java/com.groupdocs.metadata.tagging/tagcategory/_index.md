@@ -13,11 +13,13 @@ public class TagCategory
 ```
 
 Represents a set of tags having some shared characteristics.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [toString()](#toString--) | Returns a string that represents the current object. |
+| [toString()](#toString--) | Returns a string that represents the current object.
+ |
 ### toString() {#toString--}
 ```
 public String toString()
@@ -26,5 +28,7 @@ public String toString()
 
 Returns a string that represents the current object.
 
+
 **Returns:**
 java.lang.String - A string that represents the current object.
+

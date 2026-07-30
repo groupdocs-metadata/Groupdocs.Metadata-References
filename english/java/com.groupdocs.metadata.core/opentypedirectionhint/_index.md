@@ -16,15 +16,25 @@ public enum OpenTypeDirectionHint extends Enum<OpenTypeDirectionHint> implements
 ```
 
 Represents the OpenType font direction.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [FullyMixed](#FullyMixed) | Fully mixed directional glyphs. |
-| [OnlyLeftToRight](#OnlyLeftToRight) | Only strongly left to right. |
-| [LeftToRightAndNeutrals](#LeftToRightAndNeutrals) | Like  OnlyLeftToRight  but also contains neutrals. |
-| [OnlyRightToLeft](#OnlyRightToLeft) | Only strongly right to left. |
-| [RightToLeftAndNeutrals](#RightToLeftAndNeutrals) | Like  OnlyRightToLeft  but also contains neutrals. |
+| [FullyMixed](#FullyMixed) | Fully mixed directional glyphs.
+ |
+| [OnlyLeftToRight](#OnlyLeftToRight) | Only strongly left to right.
+ |
+| [LeftToRightAndNeutrals](#LeftToRightAndNeutrals) | Like 
+OnlyLeftToRight
+ but also contains neutrals.
+ |
+| [OnlyRightToLeft](#OnlyRightToLeft) | Only strongly right to left.
+ |
+| [RightToLeftAndNeutrals](#RightToLeftAndNeutrals) | Like 
+OnlyRightToLeft
+ but also contains neutrals.
+ |
 ## Methods
 
 | Method | Description |
@@ -46,6 +56,7 @@ public static final OpenTypeDirectionHint FullyMixed
 
 Fully mixed directional glyphs.
 
+
 ### OnlyLeftToRight {#OnlyLeftToRight}
 ```
 public static final OpenTypeDirectionHint OnlyLeftToRight
@@ -54,13 +65,17 @@ public static final OpenTypeDirectionHint OnlyLeftToRight
 
 Only strongly left to right.
 
+
 ### LeftToRightAndNeutrals {#LeftToRightAndNeutrals}
 ```
 public static final OpenTypeDirectionHint LeftToRightAndNeutrals
 ```
 
 
-Like  OnlyLeftToRight  but also contains neutrals.
+Like 
+OnlyLeftToRight
+ but also contains neutrals.
+
 
 ### OnlyRightToLeft {#OnlyRightToLeft}
 ```
@@ -70,13 +85,17 @@ public static final OpenTypeDirectionHint OnlyRightToLeft
 
 Only strongly right to left.
 
+
 ### RightToLeftAndNeutrals {#RightToLeftAndNeutrals}
 ```
 public static final OpenTypeDirectionHint RightToLeftAndNeutrals
 ```
 
 
-Like  OnlyRightToLeft  but also contains neutrals.
+Like 
+OnlyRightToLeft
+ but also contains neutrals.
+
 
 ### values() {#values--}
 ```
@@ -136,6 +155,7 @@ public Object[] getAllValues()
 
 Returns the array of all values defined in the class.
 
+
 **Returns:**
 java.lang.Object[]
 ### getEnumValueByRawValue(int rawValue) {#getEnumValueByRawValue-int-}
@@ -145,6 +165,7 @@ public IEnumValue getEnumValueByRawValue(int rawValue)
 
 
 Returns the enumeration value by the raw value associated with it.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -161,6 +182,7 @@ public IEnumValue getEnumValueByName(String name)
 
 Returns the enumeration value by its name.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -176,6 +198,7 @@ public RawIntegerType getRawValueType()
 
 Returns the underlying type of the raw value of this enumeration value.
 
+
 **Returns:**
 [RawIntegerType](../../com.groupdocs.metadata.core/rawintegertype)
 ### getRawValue() {#getRawValue--}
@@ -185,6 +208,7 @@ public int getRawValue()
 
 
 Returns the raw value of this enumeration value.
+
 
 **Returns:**
 int

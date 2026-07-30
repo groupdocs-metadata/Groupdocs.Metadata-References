@@ -13,11 +13,13 @@ public final class ImportFormat
 ```
 
 Defines file formats to which you can import metadata properties.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Json](#Json) | Represents the .JSON format. |
+| [Json](#Json) | Represents the .JSON format.
+ |
 ### Json {#Json}
 ```
 public static final int Json
@@ -25,4 +27,5 @@ public static final int Json
 
 
 Represents the .JSON format.
+
 

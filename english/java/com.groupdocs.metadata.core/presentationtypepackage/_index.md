@@ -13,11 +13,13 @@ public class PresentationTypePackage extends FileTypePackage
 ```
 
 Represents a metadata package containing presentation-specific file format information.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getPresentationFormat()](#getPresentationFormat--) | Gets the exact presentation format. |
+| [getPresentationFormat()](#getPresentationFormat--) | Gets the exact presentation format.
+ |
 ### getPresentationFormat() {#getPresentationFormat--}
 ```
 public final PresentationFormat getPresentationFormat()
@@ -26,5 +28,7 @@ public final PresentationFormat getPresentationFormat()
 
 Gets the exact presentation format.
 
+
 **Returns:**
 [PresentationFormat](../../com.groupdocs.metadata.core/presentationformat) - The exact presentation format.
+

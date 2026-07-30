@@ -14,19 +14,24 @@ public class MatroskaSubtitle extends MatroskaBasePackage
 
 Represents subtitle metadata in a Matroska video.
 
+
 **Learn more**
 
- *  [Working with metadata in Matroska (MKV) files][Working with metadata in Matroska _MKV_ files]
+* [Working with metadata in Matroska (MKV) files](../https://docs.groupdocs.com/display/metadatajava/Working+with+metadata+in+Matroska+%28MKV%29+files)
+
+<br />
 
 
-[Working with metadata in Matroska _MKV_ files]: https://docs.groupdocs.com/display/metadatajava/Working+with+metadata+in+Matroska+%28MKV%29+files
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getTimecode()](#getTimecode--) | Gets the time code. |
-| [getDuration()](#getDuration--) | Gets the duration. |
-| [getText()](#getText--) | Gets the subtitle text. |
+| [getTimecode()](#getTimecode--) | Gets the time code.
+ |
+| [getDuration()](#getDuration--) | Gets the duration.
+ |
+| [getText()](#getText--) | Gets the subtitle text.
+ |
 ### getTimecode() {#getTimecode--}
 ```
 public final double getTimecode()
@@ -35,8 +40,10 @@ public final double getTimecode()
 
 Gets the time code.
 
+
 **Returns:**
 double - The time code.
+
 ### getDuration() {#getDuration--}
 ```
 public final double getDuration()
@@ -45,8 +52,10 @@ public final double getDuration()
 
 Gets the duration.
 
+
 **Returns:**
 double - The duration.
+
 ### getText() {#getText--}
 ```
 public final String getText()
@@ -55,5 +64,7 @@ public final String getText()
 
 Gets the subtitle text.
 
+
 **Returns:**
 java.lang.String - The subtitle text.
+

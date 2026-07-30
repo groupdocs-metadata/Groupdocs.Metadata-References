@@ -13,11 +13,13 @@ public class PngCompressedTextChunk extends PngTextChunk
 ```
 
 Represents compressed textual data extracted from a PNG image.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getCompressionMethod()](#getCompressionMethod--) | Gets the algorithm used to compress the chunk data. |
+| [getCompressionMethod()](#getCompressionMethod--) | Gets the algorithm used to compress the chunk data.
+ |
 ### getCompressionMethod() {#getCompressionMethod--}
 ```
 public final PngCompressionMethod getCompressionMethod()
@@ -26,5 +28,7 @@ public final PngCompressionMethod getCompressionMethod()
 
 Gets the algorithm used to compress the chunk data.
 
+
 **Returns:**
 [PngCompressionMethod](../../com.groupdocs.metadata.core/pngcompressionmethod) - The algorithm used to compress the chunk data.
+

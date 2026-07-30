@@ -14,19 +14,24 @@ public final class WordProcessingRevision extends CustomPackage
 
 Represents a revision (tracked change) in a document.
 
+
 **Learn more**
 
- *  [Working with metadata in WordProcessing documents][]
+* [Working with metadata in WordProcessing documents](../https://docs.groupdocs.com/display/metadatajava/Working+with+metadata+in+Word+Processing+documents)
+
+<br />
 
 
-[Working with metadata in WordProcessing documents]: https://docs.groupdocs.com/display/metadatajava/Working+with+metadata+in+Word+Processing+documents
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getAuthor()](#getAuthor--) | Gets the author of the revision. |
-| [getDateTime()](#getDateTime--) | Gets the date/time of the revision. |
-| [getRevisionType()](#getRevisionType--) | Gets the type of the revision. |
+| [getAuthor()](#getAuthor--) | Gets the author of the revision.
+ |
+| [getDateTime()](#getDateTime--) | Gets the date/time of the revision.
+ |
+| [getRevisionType()](#getRevisionType--) | Gets the type of the revision.
+ |
 ### getAuthor() {#getAuthor--}
 ```
 public final String getAuthor()
@@ -35,8 +40,10 @@ public final String getAuthor()
 
 Gets the author of the revision.
 
+
 **Returns:**
 java.lang.String - The author of the revision.
+
 ### getDateTime() {#getDateTime--}
 ```
 public final Date getDateTime()
@@ -45,8 +52,10 @@ public final Date getDateTime()
 
 Gets the date/time of the revision.
 
+
 **Returns:**
 java.util.Date - The date/time of the revision.
+
 ### getRevisionType() {#getRevisionType--}
 ```
 public final WordProcessingRevisionType getRevisionType()
@@ -55,5 +64,7 @@ public final WordProcessingRevisionType getRevisionType()
 
 Gets the type of the revision.
 
+
 **Returns:**
 [WordProcessingRevisionType](../../com.groupdocs.metadata.core/wordprocessingrevisiontype) - The type of the revision.
+

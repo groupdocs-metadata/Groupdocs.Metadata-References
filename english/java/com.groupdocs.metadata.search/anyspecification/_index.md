@@ -13,6 +13,7 @@ public class AnySpecification extends Specification
 ```
 
 Represents a specification that applies no filters to a property.
+
 ## Constructors
 
 | Constructor | Description |
@@ -22,7 +23,10 @@ Represents a specification that applies no filters to a property.
 
 | Method | Description |
 | --- | --- |
-| [isSatisfiedBy(MetadataProperty candidate)](#isSatisfiedBy-com.groupdocs.metadata.core.MetadataProperty-) | Verifies whether a  MetadataProperty  satisfies the specification. |
+| [isSatisfiedBy(MetadataProperty candidate)](#isSatisfiedBy-com.groupdocs.metadata.core.MetadataProperty-) | Verifies whether a 
+MetadataProperty
+ satisfies the specification.
+ |
 ### AnySpecification() {#AnySpecification--}
 ```
 public AnySpecification()
@@ -35,12 +39,17 @@ public boolean isSatisfiedBy(MetadataProperty candidate)
 ```
 
 
-Verifies whether a  MetadataProperty  satisfies the specification.
+Verifies whether a 
+MetadataProperty
+ satisfies the specification.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| candidate | [MetadataProperty](../../com.groupdocs.metadata.core/metadataproperty) | A metadata property to test. |
+| candidate | [MetadataProperty](../../com.groupdocs.metadata.core/metadataproperty) | A metadata property to test.
+ |
 
 **Returns:**
 boolean - True, if the passed property satisfies the specification; otherwise, false.
+

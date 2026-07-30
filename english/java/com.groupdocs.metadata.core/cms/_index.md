@@ -12,16 +12,26 @@ java.lang.Object, [com.groupdocs.metadata.core.MetadataPackage](../../com.groupd
 public class Cms extends DigitalSignature
 ```
 
-Represents a digital sign created with Cryptographic Message Syntax (CMS) - IETF's standard for cryptographically protected messages. CMS is based on the syntax of PKCS \#7, specified in RFC 5652. Please see  https://tools.ietf.org/html/rfc5652  for more information.
+Represents a digital sign created with Cryptographic Message Syntax (CMS) - IETF's standard for cryptographically protected messages.
+CMS is based on the syntax of PKCS #7, specified in RFC 5652.
+Please see 
+<https://tools.ietf.org/html/rfc5652>
+ for more information.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getDigestAlgorithms()](#getDigestAlgorithms--) | Gets the array of message-digest algorithm identifiers. |
-| [getEncapsulatedContent()](#getEncapsulatedContent--) | Gets the signed content, consisting of a content type identifier and the content itself. |
-| [getCertificates()](#getCertificates--) | Gets the collection of certificates. |
-| [getSigners()](#getSigners--) | Gets the collection of per-signer information packages. |
-| [getSignTime()](#getSignTime--) | Gets the time at which the signer (purportedly) performed the signing process. |
+| [getDigestAlgorithms()](#getDigestAlgorithms--) | Gets the array of message-digest algorithm identifiers.
+ |
+| [getEncapsulatedContent()](#getEncapsulatedContent--) | Gets the signed content, consisting of a content type identifier and the content itself.
+ |
+| [getCertificates()](#getCertificates--) | Gets the collection of certificates.
+ |
+| [getSigners()](#getSigners--) | Gets the collection of per-signer information packages.
+ |
+| [getSignTime()](#getSignTime--) | Gets the time at which the signer (purportedly) performed the signing process.
+ |
 ### getDigestAlgorithms() {#getDigestAlgorithms--}
 ```
 public final Oid[] getDigestAlgorithms()
@@ -30,8 +40,10 @@ public final Oid[] getDigestAlgorithms()
 
 Gets the array of message-digest algorithm identifiers. There may be any number of elements in the collection, including zero.
 
+
 **Returns:**
 com.groupdocs.metadata.core.Oid[] - The array of message-digest algorithm identifiers.
+
 ### getEncapsulatedContent() {#getEncapsulatedContent--}
 ```
 public final CmsEncapsulatedContent getEncapsulatedContent()
@@ -40,8 +52,10 @@ public final CmsEncapsulatedContent getEncapsulatedContent()
 
 Gets the signed content, consisting of a content type identifier and the content itself.
 
+
 **Returns:**
 [CmsEncapsulatedContent](../../com.groupdocs.metadata.core/cmsencapsulatedcontent) - The signed content, consisting of a content type identifier and the content itself.
+
 ### getCertificates() {#getCertificates--}
 ```
 public final CmsCertificate[] getCertificates()
@@ -50,12 +64,19 @@ public final CmsCertificate[] getCertificates()
 
 Gets the collection of certificates.
 
+
 **Returns:**
 com.groupdocs.metadata.core.CmsCertificate[] - The collection of certificates.
 
---------------------
+<br />
+
+*** ** * ** ***
 
 It is intended that the set of certificates be sufficient to contain certification paths from a recognized "root" or "top-level certification authority" to all of the signers in the SignerInfo field.
+
+<br />
+
+
 ### getSigners() {#getSigners--}
 ```
 public final CmsSigner[] getSigners()
@@ -64,12 +85,19 @@ public final CmsSigner[] getSigners()
 
 Gets the collection of per-signer information packages.
 
+
 **Returns:**
 com.groupdocs.metadata.core.CmsSigner[] - The collection of per-signer information packages.
 
---------------------
+<br />
+
+*** ** * ** ***
 
 There may be any number of elements in the collection, including zero.
+
+<br />
+
+
 ### getSignTime() {#getSignTime--}
 ```
 public Date getSignTime()
@@ -78,5 +106,7 @@ public Date getSignTime()
 
 Gets the time at which the signer (purportedly) performed the signing process.
 
+
 **Returns:**
 java.util.Date - The time at which the signer (purportedly) performed the signing process.
+

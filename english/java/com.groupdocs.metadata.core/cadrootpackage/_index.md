@@ -14,15 +14,18 @@ public abstract class CadRootPackage extends RootMetadataPackage
 
 Represents the root package allowing working with metadata in a CAD drawing.
 
+
 **Learn more**
 
- *  [Working with CAD metadata][]
+* [Working with CAD metadata](../https://docs.groupdocs.com/display/metadatajava/Working+with+CAD+metadata)
+
+<br />
 
 This code sample shows how to read metadata of a CAD drawing.
-
+>
+> ````
 > ```
-> ```
-> 
+>
 >  try (Metadata metadata = new Metadata(Constants.InputDxf)) {
 >      CadRootPackage root = metadata.getRootPackageGeneric();
 >      System.out.println(root.getCadPackage().getAcadVersion());
@@ -37,15 +40,15 @@ This code sample shows how to read metadata of a CAD drawing.
 >  }
 >  
 > ```
-> ```
+> ````
 
 
-[Working with CAD metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+CAD+metadata
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getCadPackage()](#getCadPackage--) | Gets the CAD metadata package. |
+| [getCadPackage()](#getCadPackage--) | Gets the CAD metadata package.
+ |
 ### getCadPackage() {#getCadPackage--}
 ```
 public final CadPackage getCadPackage()
@@ -54,5 +57,7 @@ public final CadPackage getCadPackage()
 
 Gets the CAD metadata package.
 
+
 **Returns:**
 [CadPackage](../../com.groupdocs.metadata.core/cadpackage) - The CAD metadata package.
+

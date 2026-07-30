@@ -9,17 +9,23 @@ url: /java/com.groupdocs.metadata.core/iiptc/
 public interface IIptc
 ```
 
-Represents base operations intended to work with IPTC metadata. Please find more information at  [http://en.wikipedia.org/wiki/International\_Press\_Telecommunications\_Council][http_en.wikipedia.org_wiki_International_Press_Telecommunications_Council] .
+Represents base operations intended to work with IPTC metadata.
+Please find more information at 
+<http://en.wikipedia.org/wiki/International_Press_Telecommunications_Council>
+.
+
 
 **Learn more**
 
- *  [Working with IPTC IIM metadata][]
+* [Working with IPTC IIM metadata](../https://docs.groupdocs.com/display/metadatajava/Working+with+IPTC+IIM+metadata)
+
+<br />
 
 This example shows how to read basic IPTC metadata properties.
-
+>
+> ````
 > ```
-> ```
-> 
+>
 >  try (Metadata metadata = new Metadata(Constants.JpegWithIptc)) {
 >      IIptc root = (IIptc) metadata.getRootPackage();
 >      if (root.getIptcPackage() != null) {
@@ -44,17 +50,17 @@ This example shows how to read basic IPTC metadata properties.
 >  }
 >  
 > ```
-> ```
+> ````
 
 
-[http_en.wikipedia.org_wiki_International_Press_Telecommunications_Council]: http://en.wikipedia.org/wiki/International_Press_Telecommunications_Council
-[Working with IPTC IIM metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+IPTC+IIM+metadata
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getIptcPackage()](#getIptcPackage--) | Gets the IPTC metadata package associated with the file. |
-| [setIptcPackage(IptcRecordSet value)](#setIptcPackage-com.groupdocs.metadata.core.IptcRecordSet-) | Sets the IPTC metadata package associated with the file. |
+| [getIptcPackage()](#getIptcPackage--) | Gets the IPTC metadata package associated with the file.
+ |
+| [setIptcPackage(IptcRecordSet value)](#setIptcPackage-com.groupdocs.metadata.core.IptcRecordSet-) | Sets the IPTC metadata package associated with the file.
+ |
 ### getIptcPackage() {#getIptcPackage--}
 ```
 public abstract IptcRecordSet getIptcPackage()
@@ -63,8 +69,10 @@ public abstract IptcRecordSet getIptcPackage()
 
 Gets the IPTC metadata package associated with the file.
 
+
 **Returns:**
 [IptcRecordSet](../../com.groupdocs.metadata.core/iptcrecordset) - The IPTC metadata package associated with the file.
+
 ### setIptcPackage(IptcRecordSet value) {#setIptcPackage-com.groupdocs.metadata.core.IptcRecordSet-}
 ```
 public abstract void setIptcPackage(IptcRecordSet value)
@@ -73,8 +81,10 @@ public abstract void setIptcPackage(IptcRecordSet value)
 
 Sets the IPTC metadata package associated with the file.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [IptcRecordSet](../../com.groupdocs.metadata.core/iptcrecordset) | The IPTC metadata package associated with the file. |
+| value | [IptcRecordSet](../../com.groupdocs.metadata.core/iptcrecordset) | The IPTC metadata package associated with the file.
+ |
 

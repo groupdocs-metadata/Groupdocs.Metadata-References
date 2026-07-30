@@ -12,13 +12,18 @@ java.lang.Object, [com.groupdocs.metadata.core.MetadataPackage](../../com.groupd
 public final class Oid extends CustomPackage
 ```
 
-Represents an object identifier (OID). An identifier mechanism standardized by the International Telecommunications Union (ITU) and ISO/IEC for naming any object, concept, or "thing" with a globally unambiguous persistent name.
+Represents an object identifier (OID).
+An identifier mechanism standardized by the International Telecommunications Union (ITU) and ISO/IEC
+for naming any object, concept, or "thing" with a globally unambiguous persistent name.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getValue()](#getValue--) | Gets the object identifier (OID) value. |
-| [getFriendlyName()](#getFriendlyName--) | Gets the friendly name. |
+| [getValue()](#getValue--) | Gets the object identifier (OID) value.
+ |
+| [getFriendlyName()](#getFriendlyName--) | Gets the friendly name.
+ |
 ### getValue() {#getValue--}
 ```
 public final String getValue()
@@ -27,8 +32,10 @@ public final String getValue()
 
 Gets the object identifier (OID) value.
 
+
 **Returns:**
 java.lang.String - The object identifier (OID) value.
+
 ### getFriendlyName() {#getFriendlyName--}
 ```
 public final String getFriendlyName()
@@ -37,5 +44,7 @@ public final String getFriendlyName()
 
 Gets the friendly name.
 
+
 **Returns:**
 java.lang.String - The friendly name.
+

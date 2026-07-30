@@ -13,22 +13,31 @@ public final class TiffShortTag extends TiffArrayTag<Integer>
 ```
 
 Represents a TIFF Short tag.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [TiffShortTag(TiffTagID tagID, int[] value)](#TiffShortTag-com.groupdocs.metadata.core.TiffTagID-int---) | Initializes a new instance of the  TiffShortTag  class. |
+| [TiffShortTag(TiffTagID tagID, int[] value)](#TiffShortTag-com.groupdocs.metadata.core.TiffTagID-int---) | Initializes a new instance of the 
+TiffShortTag
+ class.
+ |
 ### TiffShortTag(TiffTagID tagID, int[] value) {#TiffShortTag-com.groupdocs.metadata.core.TiffTagID-int---}
 ```
 public TiffShortTag(TiffTagID tagID, int[] value)
 ```
 
 
-Initializes a new instance of the  TiffShortTag  class.
+Initializes a new instance of the 
+TiffShortTag
+ class.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| tagID | [TiffTagID](../../com.groupdocs.metadata.core/tifftagid) | The tag identifier. |
-| value | int[] | The value. |
+| tagID | [TiffTagID](../../com.groupdocs.metadata.core/tifftagid) | The tag identifier.
+ |
+| value | int[] | The value.
+ |
 

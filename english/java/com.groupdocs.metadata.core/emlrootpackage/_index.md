@@ -14,15 +14,18 @@ public class EmlRootPackage extends EmailRootPackage
 
 Represents the root package allowing working with metadata in an EML email message.
 
+
 **Learn more**
 
- *  [Working with saved Emails][]
+* [Working with saved Emails](../https://docs.groupdocs.com/display/metadatajava/Working+with+saved+Emails)
+
+<br />
 
 This code sample shows how to extract metadata from an EML message.
-
+>
+> ````
 > ```
-> ```
-> 
+>
 >  try (Metadata metadata = new Metadata(Constants.InputEml)) {
 >      EmlRootPackage root = metadata.getRootPackageGeneric();
 >      System.out.println(root.getEmailPackage().getSender());
@@ -40,15 +43,15 @@ This code sample shows how to extract metadata from an EML message.
 >  }
 >  
 > ```
-> ```
+> ````
 
 
-[Working with saved Emails]: https://docs.groupdocs.com/display/metadatajava/Working+with+saved+Emails
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getEmlPackage()](#getEmlPackage--) | Gets the EML metadata package. |
+| [getEmlPackage()](#getEmlPackage--) | Gets the EML metadata package.
+ |
 ### getEmlPackage() {#getEmlPackage--}
 ```
 public final EmlPackage getEmlPackage()
@@ -57,5 +60,7 @@ public final EmlPackage getEmlPackage()
 
 Gets the EML metadata package.
 
+
 **Returns:**
 [EmlPackage](../../com.groupdocs.metadata.core/emlpackage) - The EML metadata package.
+

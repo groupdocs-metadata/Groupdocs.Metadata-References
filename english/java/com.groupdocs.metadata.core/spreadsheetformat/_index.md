@@ -16,19 +16,29 @@ public enum SpreadsheetFormat extends Enum<SpreadsheetFormat> implements IEnumVa
 ```
 
 Defines various spreadsheet subformats.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Unknown](#Unknown) | The format is not recognized. |
-| [Xls](#Xls) | Represents the .XLS Excel format. |
-| [Xlsb](#Xlsb) | Represents the .XLSB Excel format. |
-| [Xlsx](#Xlsx) | Represents the .XLSX Excel format. |
-| [Xlsm](#Xlsm) | Represents the .XLSM Excel format. |
-| [Xltx](#Xltx) | Represents the .XLTX Excel format. |
-| [Xltm](#Xltm) | Represents the .XLTM Excel format. |
-| [Ods](#Ods) | Represents the Opendocument Spreadsheet format. |
-| [Xlt](#Xlt) | Represents the .XLT Excel format. |
+| [Unknown](#Unknown) | The format is not recognized.
+ |
+| [Xls](#Xls) | Represents the .XLS Excel format.
+ |
+| [Xlsb](#Xlsb) | Represents the .XLSB Excel format.
+ |
+| [Xlsx](#Xlsx) | Represents the .XLSX Excel format.
+ |
+| [Xlsm](#Xlsm) | Represents the .XLSM Excel format.
+ |
+| [Xltx](#Xltx) | Represents the .XLTX Excel format.
+ |
+| [Xltm](#Xltm) | Represents the .XLTM Excel format.
+ |
+| [Ods](#Ods) | Represents the Opendocument Spreadsheet format.
+ |
+| [Xlt](#Xlt) | Represents the .XLT Excel format.
+ |
 ## Methods
 
 | Method | Description |
@@ -50,16 +60,21 @@ public static final SpreadsheetFormat Unknown
 
 The format is not recognized.
 
+
 ### Xls {#Xls}
 ```
 public static final SpreadsheetFormat Xls
 ```
 
 
-Represents the .XLS Excel format. Files with XLS extension represent Excel Binary File Format. Such files can be created by Microsoft Excel as well as other similar spreadsheet programs such as OpenOffice Calc or Apple Numbers. File saved by Excel is known as Workbook where each workbook can have one or more worksheets. Learn more about this file format  [here][] .
+Represents the .XLS Excel format.
+Files with XLS extension represent Excel Binary File Format.
+Such files can be created by Microsoft Excel as well as other similar spreadsheet programs such as OpenOffice Calc or Apple Numbers.
+File saved by Excel is known as Workbook where each workbook can have one or more worksheets.
+Learn more about this file format 
+[here](../https://wiki.fileformat.com/spreadsheet/xls/)
+.
 
-
-[here]: https://wiki.fileformat.com/spreadsheet/xls/
 
 ### Xlsb {#Xlsb}
 ```
@@ -67,10 +82,13 @@ public static final SpreadsheetFormat Xlsb
 ```
 
 
-Represents the .XLSB Excel format. XLSB file format specifies the Excel Binary File Format, which is a collection of records and structures that specify Excel workbook content. The content can include unstructured or semi-structured tables of numbers, text, or both numbers and text, formulas, external data connections, charts and images. Learn more about this file format  [here][] .
+Represents the .XLSB Excel format.
+XLSB file format specifies the Excel Binary File Format, which is a collection of records and structures that specify Excel workbook content.
+The content can include unstructured or semi-structured tables of numbers, text, or both numbers and text, formulas, external data connections, charts and images.
+Learn more about this file format 
+[here](../https://wiki.fileformat.com/spreadsheet/xlsb/)
+.
 
-
-[here]: https://wiki.fileformat.com/spreadsheet/xlsb/
 
 ### Xlsx {#Xlsx}
 ```
@@ -78,10 +96,14 @@ public static final SpreadsheetFormat Xlsx
 ```
 
 
-Represents the .XLSX Excel format. XLSX is well-known format for Microsoft Excel documents that was introduced by Microsoft with the release of Microsoft Office 2007. Based on structure organized according to the Open Packaging Conventions as outlined in Part 2 of the OOXML standard ECMA-376, the new format is a zip package that contains a number of XML files. Learn more about this file format  [here][] .
+Represents the .XLSX Excel format.
+XLSX is well-known format for Microsoft Excel documents that was introduced by Microsoft with the release of Microsoft Office 2007.
+Based on structure organized according to the Open Packaging Conventions as outlined in Part 2 of the OOXML standard ECMA-376,
+the new format is a zip package that contains a number of XML files.
+Learn more about this file format 
+[here](../https://wiki.fileformat.com/spreadsheet/xlsx/)
+.
 
-
-[here]: https://wiki.fileformat.com/spreadsheet/xlsx/
 
 ### Xlsm {#Xlsm}
 ```
@@ -89,10 +111,14 @@ public static final SpreadsheetFormat Xlsm
 ```
 
 
-Represents the .XLSM Excel format. Files with XLSM extension is a type of Spreasheet files that support Macros. From application point of view, a Macro is set of instructions that are used for automating processes. A macro is used to record the steps that are performed repeatedly and facilitates performing the actions by running the macro again. Learn more about this file format  [here][] .
+Represents the .XLSM Excel format.
+Files with XLSM extension is a type of Spreasheet files that support Macros.
+From application point of view, a Macro is set of instructions that are used for automating processes.
+A macro is used to record the steps that are performed repeatedly and facilitates performing the actions by running the macro again.
+Learn more about this file format 
+[here](../https://wiki.fileformat.com/spreadsheet/xlsm/)
+.
 
-
-[here]: https://wiki.fileformat.com/spreadsheet/xlsm/
 
 ### Xltx {#Xltx}
 ```
@@ -100,10 +126,13 @@ public static final SpreadsheetFormat Xltx
 ```
 
 
-Represents the .XLTX Excel format. Files with XLTX extension represent Microsoft Excel Template files that are based on the Office OpenXML file format specifications. It is used to create a standard template file that can be utilized to generate XLSX files that exhibit the same settings as specified in the XLTX file. Learn more about this file format  [here][] .
+Represents the .XLTX Excel format.
+Files with XLTX extension represent Microsoft Excel Template files that are based on the Office OpenXML file format specifications.
+It is used to create a standard template file that can be utilized to generate XLSX files that exhibit the same settings as specified in the XLTX file.
+Learn more about this file format 
+[here](../https://wiki.fileformat.com/spreadsheet/xltx/)
+.
 
-
-[here]: https://wiki.fileformat.com/spreadsheet/xltx/
 
 ### Xltm {#Xltm}
 ```
@@ -111,10 +140,14 @@ public static final SpreadsheetFormat Xltm
 ```
 
 
-Represents the .XLTM Excel format. The XLTM file extension represents files that are generated by Microsoft Excel as Macro-enabled template files. XLTM files are similar to XLTX in structure other than that the later doesn't support creating template files with macros. Such template files are used to generate and set the layout, formatting, and other settings along with the macros to facilitate creating similar XLSX files then. Learn more about this file format  [here][] .
+Represents the .XLTM Excel format.
+The XLTM file extension represents files that are generated by Microsoft Excel as Macro-enabled template files.
+XLTM files are similar to XLTX in structure other than that the later doesn't support creating template files with macros.
+Such template files are used to generate and set the layout, formatting, and other settings along with the macros to facilitate creating similar XLSX files then.
+Learn more about this file format 
+[here](../https://wiki.fileformat.com/spreadsheet/xltm/)
+.
 
-
-[here]: https://wiki.fileformat.com/spreadsheet/xltm/
 
 ### Ods {#Ods}
 ```
@@ -122,10 +155,14 @@ public static final SpreadsheetFormat Ods
 ```
 
 
-Represents the Opendocument Spreadsheet format. Files with ODS extension stand for OpenDocument Spreadsheet Document format that are editable by user. Data is stored inside ODF file into rows and columns. It is XML-based format and is one of the several subtypes in the Open Document Formats (ODF) family. Learn more about this file format  [here][] .
+Represents the Opendocument Spreadsheet format.
+Files with ODS extension stand for OpenDocument Spreadsheet Document format that are editable by user.
+Data is stored inside ODF file into rows and columns.
+It is XML-based format and is one of the several subtypes in the Open Document Formats (ODF) family.
+Learn more about this file format 
+[here](../https://wiki.fileformat.com/spreadsheet/ods/)
+.
 
-
-[here]: https://wiki.fileformat.com/spreadsheet/ods/
 
 ### Xlt {#Xlt}
 ```
@@ -133,10 +170,14 @@ public static final SpreadsheetFormat Xlt
 ```
 
 
-Represents the .XLT Excel format. Files with .XLT extension are template files created with Microsoft Excel which is a spreadsheet application which comes as part of Microsoft Office suite. Microsoft Office 97-2003 supported creating new XLT files as well as opening these. The latest version of Excel is still capable of opening this old format template files. Learn more about this file format  [here][] .
+Represents the .XLT Excel format.
+Files with .XLT extension are template files created with Microsoft Excel which is a spreadsheet application which comes as part of Microsoft Office suite.
+Microsoft Office 97-2003 supported creating new XLT files as well as opening these.
+The latest version of Excel is still capable of opening this old format template files.
+Learn more about this file format 
+[here](../https://wiki.fileformat.com/spreadsheet/xlt/)
+.
 
-
-[here]: https://wiki.fileformat.com/spreadsheet/xlt/
 
 ### values() {#values--}
 ```
@@ -196,6 +237,7 @@ public Object[] getAllValues()
 
 Returns the array of all values defined in the class.
 
+
 **Returns:**
 java.lang.Object[]
 ### getEnumValueByRawValue(int rawValue) {#getEnumValueByRawValue-int-}
@@ -205,6 +247,7 @@ public IEnumValue getEnumValueByRawValue(int rawValue)
 
 
 Returns the enumeration value by the raw value associated with it.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -221,6 +264,7 @@ public IEnumValue getEnumValueByName(String name)
 
 Returns the enumeration value by its name.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -236,6 +280,7 @@ public RawIntegerType getRawValueType()
 
 Returns the underlying type of the raw value of this enumeration value.
 
+
 **Returns:**
 [RawIntegerType](../../com.groupdocs.metadata.core/rawintegertype)
 ### getRawValue() {#getRawValue--}
@@ -245,6 +290,7 @@ public int getRawValue()
 
 
 Returns the raw value of this enumeration value.
+
 
 **Returns:**
 int

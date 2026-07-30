@@ -15,14 +15,20 @@ java.lang.Object, java.lang.Enum
 public enum OpenTypeIsoEncoding extends Enum<OpenTypeIsoEncoding> implements IEnumValue
 ```
 
-Represents encoding for the  OpenTypePlatform.Iso  platform.
+Represents encoding for the 
+OpenTypePlatform.Iso
+ platform.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Ascii7Bit](#Ascii7Bit) | The 7-bit ASCII encoding. |
-| [Iso10646](#Iso10646) | The ISO 10646 encoding. |
-| [Iso8859](#Iso8859) | The ISO 8859-1 encoding. |
+| [Ascii7Bit](#Ascii7Bit) | The 7-bit ASCII encoding.
+ |
+| [Iso10646](#Iso10646) | The ISO 10646 encoding.
+ |
+| [Iso8859](#Iso8859) | The ISO 8859-1 encoding.
+ |
 ## Methods
 
 | Method | Description |
@@ -44,6 +50,7 @@ public static final OpenTypeIsoEncoding Ascii7Bit
 
 The 7-bit ASCII encoding.
 
+
 ### Iso10646 {#Iso10646}
 ```
 public static final OpenTypeIsoEncoding Iso10646
@@ -52,6 +59,7 @@ public static final OpenTypeIsoEncoding Iso10646
 
 The ISO 10646 encoding.
 
+
 ### Iso8859 {#Iso8859}
 ```
 public static final OpenTypeIsoEncoding Iso8859
@@ -59,6 +67,7 @@ public static final OpenTypeIsoEncoding Iso8859
 
 
 The ISO 8859-1 encoding.
+
 
 ### values() {#values--}
 ```
@@ -118,6 +127,7 @@ public Object[] getAllValues()
 
 Returns the array of all values defined in the class.
 
+
 **Returns:**
 java.lang.Object[]
 ### getEnumValueByRawValue(int rawValue) {#getEnumValueByRawValue-int-}
@@ -127,6 +137,7 @@ public IEnumValue getEnumValueByRawValue(int rawValue)
 
 
 Returns the enumeration value by the raw value associated with it.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -143,6 +154,7 @@ public IEnumValue getEnumValueByName(String name)
 
 Returns the enumeration value by its name.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -158,6 +170,7 @@ public RawIntegerType getRawValueType()
 
 Returns the underlying type of the raw value of this enumeration value.
 
+
 **Returns:**
 [RawIntegerType](../../com.groupdocs.metadata.core/rawintegertype)
 ### getRawValue() {#getRawValue--}
@@ -167,6 +180,7 @@ public int getRawValue()
 
 
 Returns the raw value of this enumeration value.
+
 
 **Returns:**
 int

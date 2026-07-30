@@ -14,17 +14,20 @@ public final class ImageResourcePackage extends CustomPackage
 
 Represents a metadata package containing Photoshop Image Resources.
 
+
 **Learn more**
 
- *  [Working with metadata in PSD images][]
+* [Working with metadata in PSD images](../https://docs.groupdocs.com/display/metadatajava/Working+with+metadata+in+PSD+images)
+
+<br />
 
 
-[Working with metadata in PSD images]: https://docs.groupdocs.com/display/metadatajava/Working+with+metadata+in+PSD+images
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [toList()](#toList--) | Creates a list from the package. |
+| [toList()](#toList--) | Creates a list from the package.
+ |
 ### toList() {#toList--}
 ```
 public final IReadOnlyList<ImageResourceBlock> toList()
@@ -33,5 +36,7 @@ public final IReadOnlyList<ImageResourceBlock> toList()
 
 Creates a list from the package.
 
+
 **Returns:**
 [IReadOnlyList](../../com.groupdocs.metadata.core/ireadonlylist) - A list that contains all Image Resource Blocks from the package.
+

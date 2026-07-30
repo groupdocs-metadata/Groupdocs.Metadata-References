@@ -16,18 +16,27 @@ public final class OpenTypeStyles implements IEnumValue
 ```
 
 Represents the OpenType font style.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Regular](#Regular) | Normal text. |
-| [Bold](#Bold) | Bold text. |
-| [Italic](#Italic) | Italic text. |
-| [Underline](#Underline) | Underlined text. |
-| [Outline](#Outline) | Outline text. |
-| [Shadow](#Shadow) | Shadow text. |
-| [Condensed](#Condensed) | Condensed text. |
-| [Extended](#Extended) | Extended text. |
+| [Regular](#Regular) | Normal text.
+ |
+| [Bold](#Bold) | Bold text.
+ |
+| [Italic](#Italic) | Italic text.
+ |
+| [Underline](#Underline) | Underlined text.
+ |
+| [Outline](#Outline) | Outline text.
+ |
+| [Shadow](#Shadow) | Shadow text.
+ |
+| [Condensed](#Condensed) | Condensed text.
+ |
+| [Extended](#Extended) | Extended text.
+ |
 ## Methods
 
 | Method | Description |
@@ -50,6 +59,7 @@ public static final OpenTypeStyles Regular
 
 Normal text.
 
+
 ### Bold {#Bold}
 ```
 public static final OpenTypeStyles Bold
@@ -57,6 +67,7 @@ public static final OpenTypeStyles Bold
 
 
 Bold text.
+
 
 ### Italic {#Italic}
 ```
@@ -66,6 +77,7 @@ public static final OpenTypeStyles Italic
 
 Italic text.
 
+
 ### Underline {#Underline}
 ```
 public static final OpenTypeStyles Underline
@@ -73,6 +85,7 @@ public static final OpenTypeStyles Underline
 
 
 Underlined text.
+
 
 ### Outline {#Outline}
 ```
@@ -82,6 +95,7 @@ public static final OpenTypeStyles Outline
 
 Outline text.
 
+
 ### Shadow {#Shadow}
 ```
 public static final OpenTypeStyles Shadow
@@ -89,6 +103,7 @@ public static final OpenTypeStyles Shadow
 
 
 Shadow text.
+
 
 ### Condensed {#Condensed}
 ```
@@ -98,6 +113,7 @@ public static final OpenTypeStyles Condensed
 
 Condensed text.
 
+
 ### Extended {#Extended}
 ```
 public static final OpenTypeStyles Extended
@@ -105,6 +121,7 @@ public static final OpenTypeStyles Extended
 
 
 Extended text.
+
 
 ### getByRawValue(int rawValue) {#getByRawValue-int-}
 ```
@@ -139,6 +156,7 @@ public Object[] getAllValues()
 
 Returns the array of all values defined in the class.
 
+
 **Returns:**
 java.lang.Object[]
 ### getEnumValueByRawValue(int rawValue) {#getEnumValueByRawValue-int-}
@@ -148,6 +166,7 @@ public IEnumValue getEnumValueByRawValue(int rawValue)
 
 
 Returns the enumeration value by the raw value associated with it.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -164,6 +183,7 @@ public IEnumValue getEnumValueByName(String name)
 
 Returns the enumeration value by its name.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -179,6 +199,7 @@ public RawIntegerType getRawValueType()
 
 Returns the underlying type of the raw value of this enumeration value.
 
+
 **Returns:**
 [RawIntegerType](../../com.groupdocs.metadata.core/rawintegertype)
 ### getRawValue() {#getRawValue--}
@@ -189,6 +210,7 @@ public int getRawValue()
 
 Returns the raw value of this enumeration value.
 
+
 **Returns:**
 int
 ### name() {#name--}
@@ -198,6 +220,7 @@ public String name()
 
 
 Returns the name of this enumeration value.
+
 
 **Returns:**
 java.lang.String

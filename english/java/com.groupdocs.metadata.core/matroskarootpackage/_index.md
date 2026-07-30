@@ -14,15 +14,18 @@ public class MatroskaRootPackage extends RootMetadataPackage
 
 Represents the root package allowing working with metadata in a Matroska video.
 
+
 **Learn more**
 
- *  [Working with metadata in Matroska (MKV) files][Working with metadata in Matroska _MKV_ files]
+* [Working with metadata in Matroska (MKV) files](../https://docs.groupdocs.com/display/metadatajava/Working+with+metadata+in+Matroska+%28MKV%29+files)
+
+<br />
 
 This example demonstrates how to extract subtitles from an MKV video.
-
+>
+> ````
 > ```
-> ```
-> 
+>
 >  try (Metadata metadata = new Metadata(Constants.MkvWithSubtitles)) {
 >      MatroskaRootPackage root = metadata.getRootPackageGeneric();
 >      for (MatroskaSubtitleTrack subtitleTrack : root.getMatroskaPackage().getSubtitleTracks()) {
@@ -35,15 +38,15 @@ This example demonstrates how to extract subtitles from an MKV video.
 >  }
 >  
 > ```
-> ```
+> ````
 
 
-[Working with metadata in Matroska _MKV_ files]: https://docs.groupdocs.com/display/metadatajava/Working+with+metadata+in+Matroska+%28MKV%29+files
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getMatroskaPackage()](#getMatroskaPackage--) | Gets the Matroska metadata package. |
+| [getMatroskaPackage()](#getMatroskaPackage--) | Gets the Matroska metadata package.
+ |
 ### getMatroskaPackage() {#getMatroskaPackage--}
 ```
 public final MatroskaPackage getMatroskaPackage()
@@ -52,5 +55,7 @@ public final MatroskaPackage getMatroskaPackage()
 
 Gets the Matroska metadata package.
 
+
 **Returns:**
 [MatroskaPackage](../../com.groupdocs.metadata.core/matroskapackage) - The Matroska metadata package.
+

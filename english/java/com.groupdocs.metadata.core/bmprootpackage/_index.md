@@ -14,15 +14,18 @@ public class BmpRootPackage extends ImageRootPackage
 
 Represents the root package intended to work with metadata in a BMP image.
 
+
 **Learn more**
 
- *  [Working with BMP metadata][]
+* [Working with BMP metadata](../https://docs.groupdocs.com/display/metadatajava/Working+with+BMP+metadata)
+
+<br />
 
 This code sample shows how to read the header of a BMP file.
-
+>
+> ````
 > ```
-> ```
-> 
+>
 >  try (Metadata metadata = new Metadata(Constants.InputBmp)) {
 >      BmpRootPackage root = metadata.getRootPackageGeneric();
 >      System.out.println(root.getBmpHeader().getBitsPerPixel());
@@ -33,15 +36,15 @@ This code sample shows how to read the header of a BMP file.
 >  }
 >  
 > ```
-> ```
+> ````
 
 
-[Working with BMP metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+BMP+metadata
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getBmpHeader()](#getBmpHeader--) | Gets the BMP header metadata package. |
+| [getBmpHeader()](#getBmpHeader--) | Gets the BMP header metadata package.
+ |
 ### getBmpHeader() {#getBmpHeader--}
 ```
 public final BmpHeaderPackage getBmpHeader()
@@ -50,5 +53,7 @@ public final BmpHeaderPackage getBmpHeader()
 
 Gets the BMP header metadata package.
 
+
 **Returns:**
 [BmpHeaderPackage](../../com.groupdocs.metadata.core/bmpheaderpackage) - The BMP header metadata package.
+

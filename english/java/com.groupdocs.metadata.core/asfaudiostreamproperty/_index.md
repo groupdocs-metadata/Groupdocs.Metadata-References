@@ -14,20 +14,26 @@ public class AsfAudioStreamProperty extends AsfBaseStreamProperty
 
 Represents Audio stream property metadata in the ASF media container.
 
+
 **Learn more**
 
- *  [Working with Metadata in ASF Files][]
+* [Working with Metadata in ASF Files](../https://docs.groupdocs.com/display/metadatajava/Working+with+Metadata+in+ASF+Files)
+
+<br />
 
 
-[Working with Metadata in ASF Files]: https://docs.groupdocs.com/display/metadatajava/Working+with+Metadata+in+ASF+Files
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getFormatTag()](#getFormatTag--) | Gets the unique ID of the codec used to encode the audio data. |
-| [getChannels()](#getChannels--) | Gets the number of audio channels. |
-| [getSamplesPerSecond()](#getSamplesPerSecond--) | Gets a value in Hertz (cycles per second) that represents the sampling rate of the audio stream. |
-| [getBitsPerSample()](#getBitsPerSample--) | Gets the number of bits per sample of monaural data. |
+| [getFormatTag()](#getFormatTag--) | Gets the unique ID of the codec used to encode the audio data.
+ |
+| [getChannels()](#getChannels--) | Gets the number of audio channels.
+ |
+| [getSamplesPerSecond()](#getSamplesPerSecond--) | Gets a value in Hertz (cycles per second) that represents the sampling rate of the audio stream.
+ |
+| [getBitsPerSample()](#getBitsPerSample--) | Gets the number of bits per sample of monaural data.
+ |
 ### getFormatTag() {#getFormatTag--}
 ```
 public final int getFormatTag()
@@ -36,8 +42,10 @@ public final int getFormatTag()
 
 Gets the unique ID of the codec used to encode the audio data.
 
+
 **Returns:**
 int - The unique ID of the codec used to encode the audio data.
+
 ### getChannels() {#getChannels--}
 ```
 public final int getChannels()
@@ -46,8 +54,10 @@ public final int getChannels()
 
 Gets the number of audio channels.
 
+
 **Returns:**
 int - The number of audio channels.
+
 ### getSamplesPerSecond() {#getSamplesPerSecond--}
 ```
 public final long getSamplesPerSecond()
@@ -56,8 +66,10 @@ public final long getSamplesPerSecond()
 
 Gets a value in Hertz (cycles per second) that represents the sampling rate of the audio stream.
 
+
 **Returns:**
 long - The a value in Hertz (cycles per second) that represents the sampling rate of the audio stream.
+
 ### getBitsPerSample() {#getBitsPerSample--}
 ```
 public final int getBitsPerSample()
@@ -66,5 +78,7 @@ public final int getBitsPerSample()
 
 Gets the number of bits per sample of monaural data.
 
+
 **Returns:**
 int - The number of bits per sample of monaural data.
+

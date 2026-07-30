@@ -15,10 +15,10 @@ public abstract class ImageRootPackage extends RootMetadataPackage
 Provides a base abstract class for all image root packages.
 
 This code sample demonstrates how to extract common image properties such as width and height, MIME type, byte order, etc.
-
+>
+> ````
 > ```
-> ```
-> 
+>
 >  try (Metadata metadata = new Metadata(Constants.InputPng)) {
 >      ImageRootPackage root = metadata.getRootPackageGeneric();
 >      System.out.println(root.getImageType().getFileFormat());
@@ -30,12 +30,15 @@ This code sample demonstrates how to extract common image properties such as wid
 >  }
 >  
 > ```
-> ```
+> ````
+
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getImageType()](#getImageType--) | Gets the file type metadata package. |
+| [getImageType()](#getImageType--) | Gets the file type metadata package.
+ |
 ### getImageType() {#getImageType--}
 ```
 public final ImageTypePackage getImageType()
@@ -44,5 +47,7 @@ public final ImageTypePackage getImageType()
 
 Gets the file type metadata package.
 
+
 **Returns:**
 [ImageTypePackage](../../com.groupdocs.metadata.core/imagetypepackage) - The file type metadata package.
+

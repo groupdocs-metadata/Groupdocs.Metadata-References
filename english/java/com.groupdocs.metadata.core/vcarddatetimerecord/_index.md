@@ -17,18 +17,22 @@ public class VCardDateTimeRecord extends VCardRecord implements IVCardRecord<Dat
 
 Represents vCard date time record metadata class.
 
+
 **Learn more**
 
- *  [Working with vCard metadata][]
+* [Working with vCard metadata](../https://docs.groupdocs.com/display/metadatajava/Working+with+vCard+metadata)
+
+<br />
 
 
-[Working with vCard metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+vCard+metadata
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getContentType()](#getContentType--) | Gets the content type of record. |
-| [getValue()](#getValue--) | Gets the record value. |
+| [getContentType()](#getContentType--) | Gets the content type of record.
+ |
+| [getValue()](#getValue--) | Gets the record value.
+ |
 ### getContentType() {#getContentType--}
 ```
 public VCardContentType getContentType()
@@ -37,8 +41,10 @@ public VCardContentType getContentType()
 
 Gets the content type of record.
 
+
 **Returns:**
 [VCardContentType](../../com.groupdocs.metadata.core/vcardcontenttype) - The content type of record.
+
 ### getValue() {#getValue--}
 ```
 public final Date getValue()
@@ -47,5 +53,7 @@ public final Date getValue()
 
 Gets the record value.
 
+
 **Returns:**
 java.util.Date - The record value.
+

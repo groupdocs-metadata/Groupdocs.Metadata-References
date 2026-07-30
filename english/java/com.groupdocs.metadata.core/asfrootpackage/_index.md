@@ -17,16 +17,19 @@ public class AsfRootPackage extends RootMetadataPackage implements IXmp
 
 Represents the root package allowing working with metadata in an ASF video.
 
+
 **Learn more**
 
- *  [Working with Metadata in ASF Files][]
- *  [Working with XMP metadata][]
+* [Working with Metadata in ASF Files](../https://docs.groupdocs.com/display/metadatajava/Working+with+Metadata+in+ASF+Files)
+* [Working with XMP metadata](../https://docs.groupdocs.com/display/metadatajava/Working+with+XMP+metadata)
+
+<br />
 
 This code sample demonstrates how to read native ASF metadata.
-
+>
+> ````
 > ```
-> ```
-> 
+>
 >  try (Metadata metadata = new Metadata(Constants.InputAsf)) {
 >      AsfRootPackage root = metadata.getRootPackageGeneric();
 >      AsfPackage asfPackage = root.getAsfPackage();
@@ -85,18 +88,19 @@ This code sample demonstrates how to read native ASF metadata.
 >  }
 >  
 > ```
-> ```
+> ````
 
 
-[Working with Metadata in ASF Files]: https://docs.groupdocs.com/display/metadatajava/Working+with+Metadata+in+ASF+Files
-[Working with XMP metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+XMP+metadata
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getAsfPackage()](#getAsfPackage--) | Gets the ASF metadata package. |
-| [getXmpPackage()](#getXmpPackage--) | Gets the XMP metadata package. |
-| [setXmpPackage(XmpPacketWrapper value)](#setXmpPackage-com.groupdocs.metadata.core.XmpPacketWrapper-) | Sets the XMP metadata package. |
+| [getAsfPackage()](#getAsfPackage--) | Gets the ASF metadata package.
+ |
+| [getXmpPackage()](#getXmpPackage--) | Gets the XMP metadata package.
+ |
+| [setXmpPackage(XmpPacketWrapper value)](#setXmpPackage-com.groupdocs.metadata.core.XmpPacketWrapper-) | Sets the XMP metadata package.
+ |
 | [copyTo(MetadataPackage metadata)](#copyTo-com.groupdocs.metadata.core.MetadataPackage-) |  |
 ### getAsfPackage() {#getAsfPackage--}
 ```
@@ -106,8 +110,10 @@ public final AsfPackage getAsfPackage()
 
 Gets the ASF metadata package.
 
+
 **Returns:**
 [AsfPackage](../../com.groupdocs.metadata.core/asfpackage) - The ASF metadata package.
+
 ### getXmpPackage() {#getXmpPackage--}
 ```
 public final XmpPacketWrapper getXmpPackage()
@@ -116,15 +122,18 @@ public final XmpPacketWrapper getXmpPackage()
 
 Gets the XMP metadata package.
 
+
 **Returns:**
 [XmpPacketWrapper](../../com.groupdocs.metadata.core/xmppacketwrapper) - The XMP metadata package.
 
+
 **Learn more**
 
- *  [Working with XMP metadata][]
+* [Working with XMP metadata](../https://docs.groupdocs.com/display/metadatajava/Working+with+XMP+metadata)
+
+<br />
 
 
-[Working with XMP metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+XMP+metadata
 ### setXmpPackage(XmpPacketWrapper value) {#setXmpPackage-com.groupdocs.metadata.core.XmpPacketWrapper-}
 ```
 public final void setXmpPackage(XmpPacketWrapper value)
@@ -133,17 +142,20 @@ public final void setXmpPackage(XmpPacketWrapper value)
 
 Sets the XMP metadata package.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | [XmpPacketWrapper](../../com.groupdocs.metadata.core/xmppacketwrapper) | The XMP metadata package.
 
+
 **Learn more**
 
- *  [Working with XMP metadata][]
+* [Working with XMP metadata](../https://docs.groupdocs.com/display/metadatajava/Working+with+XMP+metadata)
 
+<br />
 
-[Working with XMP metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+XMP+metadata |
+ |
 
 ### copyTo(MetadataPackage metadata) {#copyTo-com.groupdocs.metadata.core.MetadataPackage-}
 ```

@@ -13,11 +13,13 @@ public abstract class ExportOptions
 ```
 
 Abstract class export options.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [ExportOptions()](#ExportOptions--) | Initializes a new instance of the [ExportOptions](../../com.groupdocs.metadata.export/exportoptions) class. |
+| [ExportOptions()](#ExportOptions--) | Initializes a new instance of the [ExportOptions](../../com.groupdocs.metadata.export/exportoptions) class.
+ |
 ### ExportOptions() {#ExportOptions--}
 ```
 public ExportOptions()
@@ -25,4 +27,5 @@ public ExportOptions()
 
 
 Initializes a new instance of the [ExportOptions](../../com.groupdocs.metadata.export/exportoptions) class.
+
 

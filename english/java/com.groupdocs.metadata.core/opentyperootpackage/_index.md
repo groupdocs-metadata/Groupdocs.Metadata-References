@@ -14,15 +14,18 @@ public class OpenTypeRootPackage extends RootMetadataPackage
 
 Represents the root package allowing working with metadata in an OpenType font file.
 
+
 **Learn more**
 
- *  [Working with OpenType fonts][]
+* [Working with OpenType fonts](../https://docs.groupdocs.com/display/metadatajava/Working+with+OpenType+fonts)
+
+<br />
 
 This example shows how to read OpenType font metadata.
-
+>
+> ````
 > ```
-> ```
-> 
+>
 >  try (Metadata metadata = new Metadata(Constants.InputTtf)) {
 >      OpenTypeRootPackage root = metadata.getRootPackageGeneric();
 >      // Read the OpenType font metadata
@@ -71,16 +74,17 @@ This example shows how to read OpenType font metadata.
 >  }
 >  
 > ```
-> ```
+> ````
 
 
-[Working with OpenType fonts]: https://docs.groupdocs.com/display/metadatajava/Working+with+OpenType+fonts
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getOpenTypePackage()](#getOpenTypePackage--) | Gets the OpenType metadata package. |
-| [getDigitalSignaturePackage()](#getDigitalSignaturePackage--) | Gets the digital signature metadata package. |
+| [getOpenTypePackage()](#getOpenTypePackage--) | Gets the OpenType metadata package.
+ |
+| [getDigitalSignaturePackage()](#getDigitalSignaturePackage--) | Gets the digital signature metadata package.
+ |
 ### getOpenTypePackage() {#getOpenTypePackage--}
 ```
 public final OpenTypePackage getOpenTypePackage()
@@ -89,8 +93,10 @@ public final OpenTypePackage getOpenTypePackage()
 
 Gets the OpenType metadata package.
 
+
 **Returns:**
 [OpenTypePackage](../../com.groupdocs.metadata.core/opentypepackage) - The OpenType metadata package.
+
 ### getDigitalSignaturePackage() {#getDigitalSignaturePackage--}
 ```
 public final CmsPackage getDigitalSignaturePackage()
@@ -99,5 +105,7 @@ public final CmsPackage getDigitalSignaturePackage()
 
 Gets the digital signature metadata package.
 
+
 **Returns:**
 [CmsPackage](../../com.groupdocs.metadata.core/cmspackage) - The digital signature metadata package.
+

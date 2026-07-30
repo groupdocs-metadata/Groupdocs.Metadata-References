@@ -16,17 +16,25 @@ public enum ZipCompressionMethod extends Enum<ZipCompressionMethod> implements I
 ```
 
 Defines ZIP compression methods.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [NoCompression](#NoCompression) | The file is stored (no compression). |
-| [Shrunk](#Shrunk) | The file is Shrunk. |
-| [Imploded](#Imploded) | The file is Imploded. |
-| [Reserved](#Reserved) | A reserved compression method. |
-| [Deflated](#Deflated) | The file is Deflated. |
-| [BZip2](#BZip2) | The file is compressed with the BZip2 algorithm. |
-| [Lzma](#Lzma) | The Lempel-Ziv-Markov chain-Algorithm. |
+| [NoCompression](#NoCompression) | The file is stored (no compression).
+ |
+| [Shrunk](#Shrunk) | The file is Shrunk.
+ |
+| [Imploded](#Imploded) | The file is Imploded.
+ |
+| [Reserved](#Reserved) | A reserved compression method.
+ |
+| [Deflated](#Deflated) | The file is Deflated.
+ |
+| [BZip2](#BZip2) | The file is compressed with the BZip2 algorithm.
+ |
+| [Lzma](#Lzma) | The Lempel-Ziv-Markov chain-Algorithm.
+ |
 ## Methods
 
 | Method | Description |
@@ -48,6 +56,7 @@ public static final ZipCompressionMethod NoCompression
 
 The file is stored (no compression).
 
+
 ### Shrunk {#Shrunk}
 ```
 public static final ZipCompressionMethod Shrunk
@@ -55,6 +64,7 @@ public static final ZipCompressionMethod Shrunk
 
 
 The file is Shrunk.
+
 
 ### Imploded {#Imploded}
 ```
@@ -64,6 +74,7 @@ public static final ZipCompressionMethod Imploded
 
 The file is Imploded.
 
+
 ### Reserved {#Reserved}
 ```
 public static final ZipCompressionMethod Reserved
@@ -71,6 +82,7 @@ public static final ZipCompressionMethod Reserved
 
 
 A reserved compression method.
+
 
 ### Deflated {#Deflated}
 ```
@@ -80,6 +92,7 @@ public static final ZipCompressionMethod Deflated
 
 The file is Deflated.
 
+
 ### BZip2 {#BZip2}
 ```
 public static final ZipCompressionMethod BZip2
@@ -88,6 +101,7 @@ public static final ZipCompressionMethod BZip2
 
 The file is compressed with the BZip2 algorithm.
 
+
 ### Lzma {#Lzma}
 ```
 public static final ZipCompressionMethod Lzma
@@ -95,6 +109,7 @@ public static final ZipCompressionMethod Lzma
 
 
 The Lempel-Ziv-Markov chain-Algorithm.
+
 
 ### values() {#values--}
 ```
@@ -154,6 +169,7 @@ public Object[] getAllValues()
 
 Returns the array of all values defined in the class.
 
+
 **Returns:**
 java.lang.Object[]
 ### getEnumValueByRawValue(int rawValue) {#getEnumValueByRawValue-int-}
@@ -163,6 +179,7 @@ public IEnumValue getEnumValueByRawValue(int rawValue)
 
 
 Returns the enumeration value by the raw value associated with it.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -179,6 +196,7 @@ public IEnumValue getEnumValueByName(String name)
 
 Returns the enumeration value by its name.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -194,6 +212,7 @@ public RawIntegerType getRawValueType()
 
 Returns the underlying type of the raw value of this enumeration value.
 
+
 **Returns:**
 [RawIntegerType](../../com.groupdocs.metadata.core/rawintegertype)
 ### getRawValue() {#getRawValue--}
@@ -203,6 +222,7 @@ public int getRawValue()
 
 
 Returns the raw value of this enumeration value.
+
 
 **Returns:**
 int

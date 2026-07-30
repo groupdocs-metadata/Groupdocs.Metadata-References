@@ -13,22 +13,31 @@ public final class TiffDoubleTag extends TiffArrayTag<Double>
 ```
 
 Represents a TIFF Double tag.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [TiffDoubleTag(TiffTagID tagID, double[] value)](#TiffDoubleTag-com.groupdocs.metadata.core.TiffTagID-double---) | Initializes a new instance of the  TiffDoubleTag  class. |
+| [TiffDoubleTag(TiffTagID tagID, double[] value)](#TiffDoubleTag-com.groupdocs.metadata.core.TiffTagID-double---) | Initializes a new instance of the 
+TiffDoubleTag
+ class.
+ |
 ### TiffDoubleTag(TiffTagID tagID, double[] value) {#TiffDoubleTag-com.groupdocs.metadata.core.TiffTagID-double---}
 ```
 public TiffDoubleTag(TiffTagID tagID, double[] value)
 ```
 
 
-Initializes a new instance of the  TiffDoubleTag  class.
+Initializes a new instance of the 
+TiffDoubleTag
+ class.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| tagID | [TiffTagID](../../com.groupdocs.metadata.core/tifftagid) | The tag identifier. |
-| value | double[] | The value. |
+| tagID | [TiffTagID](../../com.groupdocs.metadata.core/tifftagid) | The tag identifier.
+ |
+| value | double[] | The value.
+ |
 

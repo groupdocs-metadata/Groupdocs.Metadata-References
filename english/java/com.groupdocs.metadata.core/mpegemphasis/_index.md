@@ -16,14 +16,19 @@ public enum MpegEmphasis extends Enum<MpegEmphasis> implements IEnumValue
 ```
 
 Defines MPEG emphasis types.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [None](#None) | No emphasis indication. |
-| [Ms5015](#Ms5015) | 50/15 ms. |
-| [Reserved](#Reserved) | Reserved. |
-| [CcitJ17](#CcitJ17) | CCIT J.17. |
+| [None](#None) | No emphasis indication.
+ |
+| [Ms5015](#Ms5015) | 50/15 ms.
+ |
+| [Reserved](#Reserved) | Reserved.
+ |
+| [CcitJ17](#CcitJ17) | CCIT J.17.
+ |
 ## Methods
 
 | Method | Description |
@@ -45,6 +50,7 @@ public static final MpegEmphasis None
 
 No emphasis indication.
 
+
 ### Ms5015 {#Ms5015}
 ```
 public static final MpegEmphasis Ms5015
@@ -52,6 +58,7 @@ public static final MpegEmphasis Ms5015
 
 
 50/15 ms.
+
 
 ### Reserved {#Reserved}
 ```
@@ -61,6 +68,7 @@ public static final MpegEmphasis Reserved
 
 Reserved.
 
+
 ### CcitJ17 {#CcitJ17}
 ```
 public static final MpegEmphasis CcitJ17
@@ -68,6 +76,7 @@ public static final MpegEmphasis CcitJ17
 
 
 CCIT J.17.
+
 
 ### values() {#values--}
 ```
@@ -127,6 +136,7 @@ public Object[] getAllValues()
 
 Returns the array of all values defined in the class.
 
+
 **Returns:**
 java.lang.Object[]
 ### getEnumValueByRawValue(int rawValue) {#getEnumValueByRawValue-int-}
@@ -136,6 +146,7 @@ public IEnumValue getEnumValueByRawValue(int rawValue)
 
 
 Returns the enumeration value by the raw value associated with it.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -152,6 +163,7 @@ public IEnumValue getEnumValueByName(String name)
 
 Returns the enumeration value by its name.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -167,6 +179,7 @@ public RawIntegerType getRawValueType()
 
 Returns the underlying type of the raw value of this enumeration value.
 
+
 **Returns:**
 [RawIntegerType](../../com.groupdocs.metadata.core/rawintegertype)
 ### getRawValue() {#getRawValue--}
@@ -176,6 +189,7 @@ public int getRawValue()
 
 
 Returns the raw value of this enumeration value.
+
 
 **Returns:**
 int

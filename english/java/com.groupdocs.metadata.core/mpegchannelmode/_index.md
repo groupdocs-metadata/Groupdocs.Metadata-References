@@ -16,14 +16,19 @@ public enum MpegChannelMode extends Enum<MpegChannelMode> implements IEnumValue
 ```
 
 Defines MPEG audio channel modes.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Stereo](#Stereo) | Stereo mode. |
-| [JointStereo](#JointStereo) | Joint stereo mode. |
-| [DualChannel](#DualChannel) | Dual channel mode. |
-| [Mono](#Mono) | Mono mode. |
+| [Stereo](#Stereo) | Stereo mode.
+ |
+| [JointStereo](#JointStereo) | Joint stereo mode.
+ |
+| [DualChannel](#DualChannel) | Dual channel mode.
+ |
+| [Mono](#Mono) | Mono mode.
+ |
 ## Methods
 
 | Method | Description |
@@ -45,6 +50,7 @@ public static final MpegChannelMode Stereo
 
 Stereo mode.
 
+
 ### JointStereo {#JointStereo}
 ```
 public static final MpegChannelMode JointStereo
@@ -52,6 +58,7 @@ public static final MpegChannelMode JointStereo
 
 
 Joint stereo mode.
+
 
 ### DualChannel {#DualChannel}
 ```
@@ -61,6 +68,7 @@ public static final MpegChannelMode DualChannel
 
 Dual channel mode.
 
+
 ### Mono {#Mono}
 ```
 public static final MpegChannelMode Mono
@@ -68,6 +76,7 @@ public static final MpegChannelMode Mono
 
 
 Mono mode.
+
 
 ### values() {#values--}
 ```
@@ -127,6 +136,7 @@ public Object[] getAllValues()
 
 Returns the array of all values defined in the class.
 
+
 **Returns:**
 java.lang.Object[]
 ### getEnumValueByRawValue(int rawValue) {#getEnumValueByRawValue-int-}
@@ -136,6 +146,7 @@ public IEnumValue getEnumValueByRawValue(int rawValue)
 
 
 Returns the enumeration value by the raw value associated with it.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -152,6 +163,7 @@ public IEnumValue getEnumValueByName(String name)
 
 Returns the enumeration value by its name.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -167,6 +179,7 @@ public RawIntegerType getRawValueType()
 
 Returns the underlying type of the raw value of this enumeration value.
 
+
 **Returns:**
 [RawIntegerType](../../com.groupdocs.metadata.core/rawintegertype)
 ### getRawValue() {#getRawValue--}
@@ -176,6 +189,7 @@ public int getRawValue()
 
 
 Returns the raw value of this enumeration value.
+
 
 **Returns:**
 int

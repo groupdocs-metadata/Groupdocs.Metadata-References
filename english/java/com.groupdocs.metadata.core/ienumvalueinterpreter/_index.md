@@ -10,11 +10,13 @@ public interface IEnumValueInterpreter
 ```
 
 Represents an interpreter intended to convert various numeric values to descriptive string values.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getOutputValueRange()](#getOutputValueRange--) | Gets the range of all possible output (interpreted) values. |
+| [getOutputValueRange()](#getOutputValueRange--) | Gets the range of all possible output (interpreted) values.
+ |
 ### getOutputValueRange() {#getOutputValueRange--}
 ```
 public abstract IReadOnlyList<String> getOutputValueRange()
@@ -23,5 +25,7 @@ public abstract IReadOnlyList<String> getOutputValueRange()
 
 Gets the range of all possible output (interpreted) values.
 
+
 **Returns:**
 [IReadOnlyList](../../com.groupdocs.metadata.core/ireadonlylist) - The range of all possible output (interpreted) values.
+

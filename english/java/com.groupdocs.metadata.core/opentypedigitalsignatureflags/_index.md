@@ -16,12 +16,15 @@ public enum OpenTypeDigitalSignatureFlags extends Enum<OpenTypeDigitalSignatureF
 ```
 
 Represents OpenType font digital signature flags.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [None](#None) | Undefined flag. |
-| [CannotBeResigned](#CannotBeResigned) | Cannot be resigned. |
+| [None](#None) | Undefined flag.
+ |
+| [CannotBeResigned](#CannotBeResigned) | Cannot be resigned.
+ |
 ## Methods
 
 | Method | Description |
@@ -43,6 +46,7 @@ public static final OpenTypeDigitalSignatureFlags None
 
 Undefined flag.
 
+
 ### CannotBeResigned {#CannotBeResigned}
 ```
 public static final OpenTypeDigitalSignatureFlags CannotBeResigned
@@ -50,6 +54,7 @@ public static final OpenTypeDigitalSignatureFlags CannotBeResigned
 
 
 Cannot be resigned.
+
 
 ### values() {#values--}
 ```
@@ -109,6 +114,7 @@ public Object[] getAllValues()
 
 Returns the array of all values defined in the class.
 
+
 **Returns:**
 java.lang.Object[]
 ### getEnumValueByRawValue(int rawValue) {#getEnumValueByRawValue-int-}
@@ -118,6 +124,7 @@ public IEnumValue getEnumValueByRawValue(int rawValue)
 
 
 Returns the enumeration value by the raw value associated with it.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -134,6 +141,7 @@ public IEnumValue getEnumValueByName(String name)
 
 Returns the enumeration value by its name.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -149,6 +157,7 @@ public RawIntegerType getRawValueType()
 
 Returns the underlying type of the raw value of this enumeration value.
 
+
 **Returns:**
 [RawIntegerType](../../com.groupdocs.metadata.core/rawintegertype)
 ### getRawValue() {#getRawValue--}
@@ -158,6 +167,7 @@ public int getRawValue()
 
 
 Returns the raw value of this enumeration value.
+
 
 **Returns:**
 int

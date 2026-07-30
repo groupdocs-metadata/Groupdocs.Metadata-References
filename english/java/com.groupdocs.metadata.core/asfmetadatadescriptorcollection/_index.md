@@ -14,9 +14,11 @@ public class AsfMetadataDescriptorCollection extends CustomPackage
 
 Represents a collection of metadata descriptors.
 
+
 **Learn more**
 
- *  [Working with Metadata in ASF Files][]
+* [Working with Metadata in ASF Files](../https://docs.groupdocs.com/display/metadatajava/Working+with+Metadata+in+ASF+Files)
+
+<br />
 
 
-[Working with Metadata in ASF Files]: https://docs.groupdocs.com/display/metadatajava/Working+with+Metadata+in+ASF+Files

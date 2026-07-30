@@ -16,11 +16,13 @@ public enum PngCompressionMethod extends Enum<PngCompressionMethod> implements I
 ```
 
 Defines compression methods used in the PNG format.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Deflate](#Deflate) | Represents the deflate/inflate compression with a sliding window. |
+| [Deflate](#Deflate) | Represents the deflate/inflate compression with a sliding window.
+ |
 ## Methods
 
 | Method | Description |
@@ -41,6 +43,7 @@ public static final PngCompressionMethod Deflate
 
 
 Represents the deflate/inflate compression with a sliding window.
+
 
 ### values() {#values--}
 ```
@@ -100,6 +103,7 @@ public Object[] getAllValues()
 
 Returns the array of all values defined in the class.
 
+
 **Returns:**
 java.lang.Object[]
 ### getEnumValueByRawValue(int rawValue) {#getEnumValueByRawValue-int-}
@@ -109,6 +113,7 @@ public IEnumValue getEnumValueByRawValue(int rawValue)
 
 
 Returns the enumeration value by the raw value associated with it.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -125,6 +130,7 @@ public IEnumValue getEnumValueByName(String name)
 
 Returns the enumeration value by its name.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -140,6 +146,7 @@ public RawIntegerType getRawValueType()
 
 Returns the underlying type of the raw value of this enumeration value.
 
+
 **Returns:**
 [RawIntegerType](../../com.groupdocs.metadata.core/rawintegertype)
 ### getRawValue() {#getRawValue--}
@@ -149,6 +156,7 @@ public int getRawValue()
 
 
 Returns the raw value of this enumeration value.
+
 
 **Returns:**
 int

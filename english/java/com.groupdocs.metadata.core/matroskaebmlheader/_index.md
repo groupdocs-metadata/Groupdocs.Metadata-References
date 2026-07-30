@@ -14,21 +14,32 @@ public class MatroskaEbmlHeader extends MatroskaBasePackage
 
 Represents EBML header metadata in a Matroska video.
 
+
 **Learn more**
 
- *  [Working with metadata in Matroska (MKV) files][Working with metadata in Matroska _MKV_ files]
+* [Working with metadata in Matroska (MKV) files](../https://docs.groupdocs.com/display/metadatajava/Working+with+metadata+in+Matroska+%28MKV%29+files)
+
+<br />
 
 
-[Working with metadata in Matroska _MKV_ files]: https://docs.groupdocs.com/display/metadatajava/Working+with+metadata+in+Matroska+%28MKV%29+files
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getVersion()](#getVersion--) | Gets the version of the EBML Writer that has been used to create the file. |
-| [getReadVersion()](#getReadVersion--) | Gets the minimum version an EBML parser needs to be compliant with to be able to read the file. |
-| [getDocType()](#getDocType--) | Gets the contents of the file. |
-| [getDocTypeVersion()](#getDocTypeVersion--) | Gets the version of the  DocType  writer used to create the file. |
-| [getDocTypeReadVersion()](#getDocTypeReadVersion--) | Gets the minimum version number a  DocType  parser must be compliant with to read the file. |
+| [getVersion()](#getVersion--) | Gets the version of the EBML Writer that has been used to create the file.
+ |
+| [getReadVersion()](#getReadVersion--) | Gets the minimum version an EBML parser needs to be compliant with to be able to read the file.
+ |
+| [getDocType()](#getDocType--) | Gets the contents of the file.
+ |
+| [getDocTypeVersion()](#getDocTypeVersion--) | Gets the version of the 
+DocType
+ writer used to create the file.
+ |
+| [getDocTypeReadVersion()](#getDocTypeReadVersion--) | Gets the minimum version number a 
+DocType
+ parser must be compliant with to read the file.
+ |
 ### getVersion() {#getVersion--}
 ```
 public final byte getVersion()
@@ -37,8 +48,10 @@ public final byte getVersion()
 
 Gets the version of the EBML Writer that has been used to create the file.
 
+
 **Returns:**
 byte - The version of the EBML Writer that has been used to create the file.
+
 ### getReadVersion() {#getReadVersion--}
 ```
 public final byte getReadVersion()
@@ -47,8 +60,10 @@ public final byte getReadVersion()
 
 Gets the minimum version an EBML parser needs to be compliant with to be able to read the file.
 
+
 **Returns:**
 byte - The minimum version an EBML parser needs to be compliant with to be able to read the file.
+
 ### getDocType() {#getDocType--}
 ```
 public final String getDocType()
@@ -57,25 +72,35 @@ public final String getDocType()
 
 Gets the contents of the file. In the case of a MATROSKA file, its value is 'matroska'.
 
+
 **Returns:**
 java.lang.String - The contents of the file.
+
 ### getDocTypeVersion() {#getDocTypeVersion--}
 ```
 public final byte getDocTypeVersion()
 ```
 
 
-Gets the version of the  DocType  writer used to create the file.
+Gets the version of the 
+DocType
+ writer used to create the file.
+
 
 **Returns:**
 byte - The version of the  DocType  writer used to create the file.
+
 ### getDocTypeReadVersion() {#getDocTypeReadVersion--}
 ```
 public final byte getDocTypeReadVersion()
 ```
 
 
-Gets the minimum version number a  DocType  parser must be compliant with to read the file.
+Gets the minimum version number a 
+DocType
+ parser must be compliant with to read the file.
+
 
 **Returns:**
 byte - The minimum version number a  DocType  parser must be compliant with to read the file.
+

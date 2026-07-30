@@ -15,14 +15,20 @@ java.lang.Object, java.lang.Enum
 public enum XmpArrayType extends Enum<XmpArrayType> implements IEnumValue
 ```
 
-Represents array type in  XmpArray .
+Represents array type in 
+XmpArray
+.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Unordered](#Unordered) | An unordered array. |
-| [Ordered](#Ordered) | An ordered array. |
-| [Alternative](#Alternative) | An alternative array. |
+| [Unordered](#Unordered) | An unordered array.
+ |
+| [Ordered](#Ordered) | An ordered array.
+ |
+| [Alternative](#Alternative) | An alternative array.
+ |
 ## Methods
 
 | Method | Description |
@@ -44,6 +50,7 @@ public static final XmpArrayType Unordered
 
 An unordered array.
 
+
 ### Ordered {#Ordered}
 ```
 public static final XmpArrayType Ordered
@@ -52,6 +59,7 @@ public static final XmpArrayType Ordered
 
 An ordered array.
 
+
 ### Alternative {#Alternative}
 ```
 public static final XmpArrayType Alternative
@@ -59,6 +67,7 @@ public static final XmpArrayType Alternative
 
 
 An alternative array.
+
 
 ### values() {#values--}
 ```
@@ -118,6 +127,7 @@ public Object[] getAllValues()
 
 Returns the array of all values defined in the class.
 
+
 **Returns:**
 java.lang.Object[]
 ### getEnumValueByRawValue(int rawValue) {#getEnumValueByRawValue-int-}
@@ -127,6 +137,7 @@ public IEnumValue getEnumValueByRawValue(int rawValue)
 
 
 Returns the enumeration value by the raw value associated with it.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -143,6 +154,7 @@ public IEnumValue getEnumValueByName(String name)
 
 Returns the enumeration value by its name.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -158,6 +170,7 @@ public RawIntegerType getRawValueType()
 
 Returns the underlying type of the raw value of this enumeration value.
 
+
 **Returns:**
 [RawIntegerType](../../com.groupdocs.metadata.core/rawintegertype)
 ### getRawValue() {#getRawValue--}
@@ -167,6 +180,7 @@ public int getRawValue()
 
 
 Returns the raw value of this enumeration value.
+
 
 **Returns:**
 int

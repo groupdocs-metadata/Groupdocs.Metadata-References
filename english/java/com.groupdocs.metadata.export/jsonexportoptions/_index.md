@@ -13,11 +13,13 @@ public class JsonExportOptions extends ExportOptions
 ```
 
 Creates an export options of xml file.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [JsonExportOptions()](#JsonExportOptions--) | Initializes a new instance of the [JsonExportOptions](../../com.groupdocs.metadata.export/jsonexportoptions) class. |
+| [JsonExportOptions()](#JsonExportOptions--) | Initializes a new instance of the [JsonExportOptions](../../com.groupdocs.metadata.export/jsonexportoptions) class.
+ |
 ### JsonExportOptions() {#JsonExportOptions--}
 ```
 public JsonExportOptions()
@@ -25,4 +27,5 @@ public JsonExportOptions()
 
 
 Initializes a new instance of the [JsonExportOptions](../../com.groupdocs.metadata.export/jsonexportoptions) class.
+
 

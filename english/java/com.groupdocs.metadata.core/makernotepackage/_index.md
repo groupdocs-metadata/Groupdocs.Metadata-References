@@ -13,3 +13,4 @@ public abstract class MakerNotePackage extends ExifDictionaryBasePackage
 ```
 
 Provides an abstract base class for MakerNote metadata packages.
+

@@ -13,3 +13,4 @@ public class EmfRootPackage extends ImageRootPackage
 ```
 
 Represents the root package intended to work with metadata in an EMF image.
+

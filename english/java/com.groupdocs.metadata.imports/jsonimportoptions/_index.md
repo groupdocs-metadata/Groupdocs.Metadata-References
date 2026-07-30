@@ -13,11 +13,13 @@ public class JsonImportOptions extends ImportOptions
 ```
 
 Creates an import options from json file.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [JsonImportOptions()](#JsonImportOptions--) | Initializes a new instance of the [JsonImportOptions](../../com.groupdocs.metadata.imports/jsonimportoptions) class. |
+| [JsonImportOptions()](#JsonImportOptions--) | Initializes a new instance of the [JsonImportOptions](../../com.groupdocs.metadata.imports/jsonimportoptions) class.
+ |
 ### JsonImportOptions() {#JsonImportOptions--}
 ```
 public JsonImportOptions()
@@ -25,4 +27,5 @@ public JsonImportOptions()
 
 
 Initializes a new instance of the [JsonImportOptions](../../com.groupdocs.metadata.imports/jsonimportoptions) class.
+
 

@@ -14,17 +14,20 @@ public class PdfBookmark extends CustomPackage
 
 Represents a bookmark in a PDF document.
 
+
 **Learn more**
 
- *  [Working with metadata in PDF documents][]
+* [Working with metadata in PDF documents](../https://docs.groupdocs.com/display/metadatajava/Working+with+metadata+in+PDF+documents)
+
+<br />
 
 
-[Working with metadata in PDF documents]: https://docs.groupdocs.com/display/metadatajava/Working+with+metadata+in+PDF+documents
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getTitle()](#getTitle--) | Gets the title of the bookmark. |
+| [getTitle()](#getTitle--) | Gets the title of the bookmark.
+ |
 ### getTitle() {#getTitle--}
 ```
 public final String getTitle()
@@ -33,5 +36,7 @@ public final String getTitle()
 
 Gets the title of the bookmark.
 
+
 **Returns:**
 java.lang.String - The title of the bookmark.
+

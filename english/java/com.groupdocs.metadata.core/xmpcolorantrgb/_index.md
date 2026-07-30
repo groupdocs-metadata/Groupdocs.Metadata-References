@@ -13,29 +13,45 @@ public final class XmpColorantRgb extends XmpColorantBase
 ```
 
 Represents the RGB Colorant.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [XmpColorantRgb()](#XmpColorantRgb--) | Initializes a new instance of the  XmpColorantRgb  class. |
-| [XmpColorantRgb(int red, int green, int blue)](#XmpColorantRgb-int-int-int-) | Initializes a new instance of the  XmpColorantRgb  class. |
+| [XmpColorantRgb()](#XmpColorantRgb--) | Initializes a new instance of the 
+XmpColorantRgb
+ class.
+ |
+| [XmpColorantRgb(int red, int green, int blue)](#XmpColorantRgb-int-int-int-) | Initializes a new instance of the 
+XmpColorantRgb
+ class.
+ |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getRed()](#getRed--) | Gets the red component. |
-| [setRed(Integer value)](#setRed-java.lang.Integer-) | Sets the red component. |
-| [getGreen()](#getGreen--) | Gets the green value. |
-| [setGreen(Integer value)](#setGreen-java.lang.Integer-) | Sets the green value. |
-| [getBlue()](#getBlue--) | Gets the blue component. |
-| [setBlue(Integer value)](#setBlue-java.lang.Integer-) | Sets the blue component. |
+| [getRed()](#getRed--) | Gets the red component.
+ |
+| [setRed(Integer value)](#setRed-java.lang.Integer-) | Sets the red component.
+ |
+| [getGreen()](#getGreen--) | Gets the green value.
+ |
+| [setGreen(Integer value)](#setGreen-java.lang.Integer-) | Sets the green value.
+ |
+| [getBlue()](#getBlue--) | Gets the blue component.
+ |
+| [setBlue(Integer value)](#setBlue-java.lang.Integer-) | Sets the blue component.
+ |
 ### XmpColorantRgb() {#XmpColorantRgb--}
 ```
 public XmpColorantRgb()
 ```
 
 
-Initializes a new instance of the  XmpColorantRgb  class.
+Initializes a new instance of the 
+XmpColorantRgb
+ class.
+
 
 ### XmpColorantRgb(int red, int green, int blue) {#XmpColorantRgb-int-int-int-}
 ```
@@ -43,14 +59,20 @@ public XmpColorantRgb(int red, int green, int blue)
 ```
 
 
-Initializes a new instance of the  XmpColorantRgb  class.
+Initializes a new instance of the 
+XmpColorantRgb
+ class.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| red | int | Red component. |
-| green | int | Green component. |
-| blue | int | Blue component. |
+| red | int | Red component.
+ |
+| green | int | Green component.
+ |
+| blue | int | Blue component.
+ |
 
 ### getRed() {#getRed--}
 ```
@@ -60,8 +82,10 @@ public final Integer getRed()
 
 Gets the red component.
 
+
 **Returns:**
 java.lang.Integer - The red component.
+
 ### setRed(Integer value) {#setRed-java.lang.Integer-}
 ```
 public final void setRed(Integer value)
@@ -70,10 +94,12 @@ public final void setRed(Integer value)
 
 Sets the red component.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | java.lang.Integer | The red component. |
+| value | java.lang.Integer | The red component.
+ |
 
 ### getGreen() {#getGreen--}
 ```
@@ -83,8 +109,10 @@ public final Integer getGreen()
 
 Gets the green value.
 
+
 **Returns:**
 java.lang.Integer - The green component.
+
 ### setGreen(Integer value) {#setGreen-java.lang.Integer-}
 ```
 public final void setGreen(Integer value)
@@ -93,10 +121,12 @@ public final void setGreen(Integer value)
 
 Sets the green value.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | java.lang.Integer | The green component. |
+| value | java.lang.Integer | The green component.
+ |
 
 ### getBlue() {#getBlue--}
 ```
@@ -106,8 +136,10 @@ public final Integer getBlue()
 
 Gets the blue component.
 
+
 **Returns:**
 java.lang.Integer - The blue component.
+
 ### setBlue(Integer value) {#setBlue-java.lang.Integer-}
 ```
 public final void setBlue(Integer value)
@@ -116,8 +148,10 @@ public final void setBlue(Integer value)
 
 Sets the blue component.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | java.lang.Integer | The blue component. |
+| value | java.lang.Integer | The blue component.
+ |
 

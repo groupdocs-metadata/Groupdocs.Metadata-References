@@ -14,26 +14,38 @@ public abstract class VCardRecord extends VCardBasePackage
 
 Represents abstract vCard record metadata class.
 
+
 **Learn more**
 
- *  [Working with vCard metadata][]
+* [Working with vCard metadata](../https://docs.groupdocs.com/display/metadatajava/Working+with+vCard+metadata)
+
+<br />
 
 
-[Working with vCard metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+vCard+metadata
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getGroup()](#getGroup--) | Gets the grouping value. |
-| [getValueParameters()](#getValueParameters--) | Gets the value parameters. |
-| [getPrefParameter()](#getPrefParameter--) | Gets the preferred parameter. |
-| [getAltIdParameter()](#getAltIdParameter--) | Gets the alternative representations parameter value. |
-| [getTypeParameters()](#getTypeParameters--) | Gets the type parameter values. |
-| [getEncodingParameter()](#getEncodingParameter--) | Gets the encoding parameter value. |
-| [getLanguageParameter()](#getLanguageParameter--) | Gets the language parameter value. |
-| [getAnonymParameters()](#getAnonymParameters--) | Gets the anonymous parameters. |
-| [getContentType()](#getContentType--) | Gets the content type of record. |
-| [getTypeName()](#getTypeName--) | Gets the type of the record. |
+| [getGroup()](#getGroup--) | Gets the grouping value.
+ |
+| [getValueParameters()](#getValueParameters--) | Gets the value parameters.
+ |
+| [getPrefParameter()](#getPrefParameter--) | Gets the preferred parameter.
+ |
+| [getAltIdParameter()](#getAltIdParameter--) | Gets the alternative representations parameter value.
+ |
+| [getTypeParameters()](#getTypeParameters--) | Gets the type parameter values.
+ |
+| [getEncodingParameter()](#getEncodingParameter--) | Gets the encoding parameter value.
+ |
+| [getLanguageParameter()](#getLanguageParameter--) | Gets the language parameter value.
+ |
+| [getAnonymParameters()](#getAnonymParameters--) | Gets the anonymous parameters.
+ |
+| [getContentType()](#getContentType--) | Gets the content type of record.
+ |
+| [getTypeName()](#getTypeName--) | Gets the type of the record.
+ |
 ### getGroup() {#getGroup--}
 ```
 public final String getGroup()
@@ -42,8 +54,10 @@ public final String getGroup()
 
 Gets the grouping value.
 
+
 **Returns:**
 java.lang.String - The grouping value.
+
 ### getValueParameters() {#getValueParameters--}
 ```
 public final String[] getValueParameters()
@@ -52,12 +66,19 @@ public final String[] getValueParameters()
 
 Gets the value parameters.
 
+
 **Returns:**
 java.lang.String[] - The value parameters.
 
---------------------
+<br />
+
+*** ** * ** ***
 
 Used to identify the value type (data type) and format of the value.
+
+<br />
+
+
 ### getPrefParameter() {#getPrefParameter--}
 ```
 public final Integer getPrefParameter()
@@ -66,12 +87,19 @@ public final Integer getPrefParameter()
 
 Gets the preferred parameter.
 
+
 **Returns:**
 java.lang.Integer - The preferred parameter.
 
---------------------
+<br />
+
+*** ** * ** ***
 
 Used to indicate that the corresponding instance of a property is preferred by the vCard author.
+
+<br />
+
+
 ### getAltIdParameter() {#getAltIdParameter--}
 ```
 public final String getAltIdParameter()
@@ -80,12 +108,19 @@ public final String getAltIdParameter()
 
 Gets the alternative representations parameter value.
 
+
 **Returns:**
 java.lang.String - The alternative representations parameter value.
 
---------------------
+<br />
+
+*** ** * ** ***
 
 Used to "tag" property instances as being alternative representations of the same logical property.
+
+<br />
+
+
 ### getTypeParameters() {#getTypeParameters--}
 ```
 public final String[] getTypeParameters()
@@ -94,12 +129,19 @@ public final String[] getTypeParameters()
 
 Gets the type parameter values.
 
+
 **Returns:**
 java.lang.String[] - The type parameter values.
 
---------------------
+<br />
+
+*** ** * ** ***
 
 The type parameter has multiple, different uses. In general, it is a way of specifying class characteristics of the associated property.
+
+<br />
+
+
 ### getEncodingParameter() {#getEncodingParameter--}
 ```
 public final String getEncodingParameter()
@@ -108,8 +150,10 @@ public final String getEncodingParameter()
 
 Gets the encoding parameter value.
 
+
 **Returns:**
 java.lang.String - The encoding parameter value.
+
 ### getLanguageParameter() {#getLanguageParameter--}
 ```
 public final String getLanguageParameter()
@@ -118,8 +162,10 @@ public final String getLanguageParameter()
 
 Gets the language parameter value.
 
+
 **Returns:**
 java.lang.String - The language parameter value.
+
 ### getAnonymParameters() {#getAnonymParameters--}
 ```
 public final String[] getAnonymParameters()
@@ -128,8 +174,10 @@ public final String[] getAnonymParameters()
 
 Gets the anonymous parameters.
 
+
 **Returns:**
 java.lang.String[] - The anonymous parameters.
+
 ### getContentType() {#getContentType--}
 ```
 public abstract VCardContentType getContentType()
@@ -138,8 +186,10 @@ public abstract VCardContentType getContentType()
 
 Gets the content type of record.
 
+
 **Returns:**
 [VCardContentType](../../com.groupdocs.metadata.core/vcardcontenttype) - The content type of record.
+
 ### getTypeName() {#getTypeName--}
 ```
 public final String getTypeName()
@@ -148,5 +198,7 @@ public final String getTypeName()
 
 Gets the type of the record.
 
+
 **Returns:**
 java.lang.String - The type of the record.
+
