@@ -14,20 +14,26 @@ public class AsfCodec extends CustomPackage
 
 Represents ASF codec metadata.
 
+
 **Learn more**
 
- *  [Working with Metadata in ASF Files][]
+* [Working with Metadata in ASF Files](../https://docs.groupdocs.com/display/metadatajava/Working+with+Metadata+in+ASF+Files)
+
+<br />
 
 
-[Working with Metadata in ASF Files]: https://docs.groupdocs.com/display/metadatajava/Working+with+Metadata+in+ASF+Files
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getName()](#getName--) | Gets the property name. |
-| [getCodecType()](#getCodecType--) | Gets the type of the codec. |
-| [getDescription()](#getDescription--) | Gets the description. |
-| [getInformation()](#getInformation--) | Gets the information string. |
+| [getName()](#getName--) | Gets the property name.
+ |
+| [getCodecType()](#getCodecType--) | Gets the type of the codec.
+ |
+| [getDescription()](#getDescription--) | Gets the description.
+ |
+| [getInformation()](#getInformation--) | Gets the information string.
+ |
 ### getName() {#getName--}
 ```
 public final String getName()
@@ -36,8 +42,10 @@ public final String getName()
 
 Gets the property name.
 
+
 **Returns:**
 java.lang.String - The property name.
+
 ### getCodecType() {#getCodecType--}
 ```
 public final AsfCodecType getCodecType()
@@ -46,8 +54,10 @@ public final AsfCodecType getCodecType()
 
 Gets the type of the codec.
 
+
 **Returns:**
 [AsfCodecType](../../com.groupdocs.metadata.core/asfcodectype) - The type of the codec.
+
 ### getDescription() {#getDescription--}
 ```
 public final String getDescription()
@@ -56,8 +66,10 @@ public final String getDescription()
 
 Gets the description.
 
+
 **Returns:**
 java.lang.String - The description.
+
 ### getInformation() {#getInformation--}
 ```
 public final String getInformation()
@@ -66,5 +78,7 @@ public final String getInformation()
 
 Gets the information string.
 
+
 **Returns:**
 java.lang.String - The information string.
+

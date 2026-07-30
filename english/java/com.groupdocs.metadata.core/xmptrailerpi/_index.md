@@ -17,33 +17,51 @@ public final class XmpTrailerPI implements IXmpType
 
 Represents XMP trailer processing instruction.
 
---------------------
+<br />
+
+*** ** * ** ***
 
 The end="w" or end="r" portion shall be used by packet scanning processors to determine whether the XMP may be modified in-place.
+
+<br />
+
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [XmpTrailerPI(boolean isWritable)](#XmpTrailerPI-boolean-) | Initializes a new instance of the  XmpTrailerPI  class. |
-| [XmpTrailerPI()](#XmpTrailerPI--) | Initializes a new instance of the  XmpTrailerPI  class. |
+| [XmpTrailerPI(boolean isWritable)](#XmpTrailerPI-boolean-) | Initializes a new instance of the 
+XmpTrailerPI
+ class.
+ |
+| [XmpTrailerPI()](#XmpTrailerPI--) | Initializes a new instance of the 
+XmpTrailerPI
+ class.
+ |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [isWritable()](#isWritable--) | Indicates whether form may be modified in-place. |
-| [getXmpRepresentation()](#getXmpRepresentation--) | Converts XMP value to the xml representation. |
+| [isWritable()](#isWritable--) | Indicates whether form may be modified in-place.
+ |
+| [getXmpRepresentation()](#getXmpRepresentation--) | Converts XMP value to the xml representation.
+ |
 ### XmpTrailerPI(boolean isWritable) {#XmpTrailerPI-boolean-}
 ```
 public XmpTrailerPI(boolean isWritable)
 ```
 
 
-Initializes a new instance of the  XmpTrailerPI  class.
+Initializes a new instance of the 
+XmpTrailerPI
+ class.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| isWritable | boolean | Indicates whether trailer is writable. |
+| isWritable | boolean | Indicates whether trailer is writable.
+ |
 
 ### XmpTrailerPI() {#XmpTrailerPI--}
 ```
@@ -51,7 +69,10 @@ public XmpTrailerPI()
 ```
 
 
-Initializes a new instance of the  XmpTrailerPI  class.
+Initializes a new instance of the 
+XmpTrailerPI
+ class.
+
 
 ### isWritable() {#isWritable--}
 ```
@@ -61,8 +82,10 @@ public final boolean isWritable()
 
 Indicates whether form may be modified in-place.
 
+
 **Returns:**
 boolean -  true  if XMP packet is writable; otherwise,  false .
+
 ### getXmpRepresentation() {#getXmpRepresentation--}
 ```
 public final String getXmpRepresentation()
@@ -71,5 +94,7 @@ public final String getXmpRepresentation()
 
 Converts XMP value to the xml representation.
 
+
 **Returns:**
 java.lang.String - Returns  string  representation of XMP value.
+

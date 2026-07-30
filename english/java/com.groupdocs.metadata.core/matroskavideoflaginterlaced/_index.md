@@ -15,14 +15,19 @@ java.lang.Object, java.lang.Enum
 public enum MatroskaVideoFlagInterlaced extends Enum<MatroskaVideoFlagInterlaced> implements IEnumValue
 ```
 
-Represents a flag to declare if the Matroska video is known to be progressive or interlaced and if applicable to declare details about the interlacement.
+Represents a flag to declare if the Matroska video is known to be progressive or interlaced
+and if applicable to declare details about the interlacement.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Undetermined](#Undetermined) | Undetermined flag. |
-| [Interlaced](#Interlaced) | Interlaced flag. |
-| [Progressive](#Progressive) | Progressive flag. |
+| [Undetermined](#Undetermined) | Undetermined flag.
+ |
+| [Interlaced](#Interlaced) | Interlaced flag.
+ |
+| [Progressive](#Progressive) | Progressive flag.
+ |
 ## Methods
 
 | Method | Description |
@@ -44,6 +49,7 @@ public static final MatroskaVideoFlagInterlaced Undetermined
 
 Undetermined flag.
 
+
 ### Interlaced {#Interlaced}
 ```
 public static final MatroskaVideoFlagInterlaced Interlaced
@@ -52,6 +58,7 @@ public static final MatroskaVideoFlagInterlaced Interlaced
 
 Interlaced flag.
 
+
 ### Progressive {#Progressive}
 ```
 public static final MatroskaVideoFlagInterlaced Progressive
@@ -59,6 +66,7 @@ public static final MatroskaVideoFlagInterlaced Progressive
 
 
 Progressive flag.
+
 
 ### values() {#values--}
 ```
@@ -118,6 +126,7 @@ public Object[] getAllValues()
 
 Returns the array of all values defined in the class.
 
+
 **Returns:**
 java.lang.Object[]
 ### getEnumValueByRawValue(int rawValue) {#getEnumValueByRawValue-int-}
@@ -127,6 +136,7 @@ public IEnumValue getEnumValueByRawValue(int rawValue)
 
 
 Returns the enumeration value by the raw value associated with it.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -143,6 +153,7 @@ public IEnumValue getEnumValueByName(String name)
 
 Returns the enumeration value by its name.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -158,6 +169,7 @@ public RawIntegerType getRawValueType()
 
 Returns the underlying type of the raw value of this enumeration value.
 
+
 **Returns:**
 [RawIntegerType](../../com.groupdocs.metadata.core/rawintegertype)
 ### getRawValue() {#getRawValue--}
@@ -167,6 +179,7 @@ public int getRawValue()
 
 
 Returns the raw value of this enumeration value.
+
 
 **Returns:**
 int

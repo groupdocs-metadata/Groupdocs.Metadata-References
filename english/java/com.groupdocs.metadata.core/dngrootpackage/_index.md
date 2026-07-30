@@ -14,17 +14,20 @@ public class DngRootPackage extends ImageRootPackage
 
 Represents the root package intended to work with metadata in a DNG image.
 
+
 **Learn more**
 
- *  [Working with metadata in DNG images][]
+* [Working with metadata in DNG images](../https://docs.groupdocs.com/display/metadatajava/Working+with+metadata+in+DNG+images)
+
+<br />
 
 
-[Working with metadata in DNG images]: https://docs.groupdocs.com/display/metadatajava/Working+with+metadata+in+DNG+images
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getDngPackage()](#getDngPackage--) | Gets the DNG header metadata package. |
+| [getDngPackage()](#getDngPackage--) | Gets the DNG header metadata package.
+ |
 ### getDngPackage() {#getDngPackage--}
 ```
 public final DngPackage getDngPackage()
@@ -33,5 +36,7 @@ public final DngPackage getDngPackage()
 
 Gets the DNG header metadata package.
 
+
 **Returns:**
 [DngPackage](../../com.groupdocs.metadata.core/dngpackage) - The DNG header metadata package.
+

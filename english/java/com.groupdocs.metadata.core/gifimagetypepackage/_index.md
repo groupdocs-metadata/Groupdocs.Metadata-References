@@ -13,11 +13,13 @@ public class GifImageTypePackage extends ImageTypePackage
 ```
 
 Represents a metadata package containing GIF-specific file format information.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getVersion()](#getVersion--) | Gets the version of the format. |
+| [getVersion()](#getVersion--) | Gets the version of the format.
+ |
 ### getVersion() {#getVersion--}
 ```
 public final String getVersion()
@@ -26,5 +28,7 @@ public final String getVersion()
 
 Gets the version of the format.
 
+
 **Returns:**
 java.lang.String - The version of the format.
+

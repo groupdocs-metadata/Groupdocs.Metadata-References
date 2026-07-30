@@ -15,19 +15,30 @@ java.lang.Object, java.lang.Enum
 public enum OpenTypeWindowsEncoding extends Enum<OpenTypeWindowsEncoding> implements IEnumValue
 ```
 
-Represents encoding for the  OpenTypePlatform.Windows  platform.
+Represents encoding for the 
+OpenTypePlatform.Windows
+ platform.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Symbol](#Symbol) | The Symbol encoding. |
-| [UnicodeBmp](#UnicodeBmp) | The Unicode BMP encoding. |
-| [ShiftJis](#ShiftJis) | The ShiftJIS encoding. |
-| [Prc](#Prc) | The PRC encoding. |
-| [Big5](#Big5) | The Big5 encoding. |
-| [Wansung](#Wansung) | The Wansung encoding. |
-| [Johab](#Johab) | The Johab encoding. |
-| [UnicodeFull](#UnicodeFull) | The Unicode full repertoire encoding. |
+| [Symbol](#Symbol) | The Symbol encoding.
+ |
+| [UnicodeBmp](#UnicodeBmp) | The Unicode BMP encoding.
+ |
+| [ShiftJis](#ShiftJis) | The ShiftJIS encoding.
+ |
+| [Prc](#Prc) | The PRC encoding.
+ |
+| [Big5](#Big5) | The Big5 encoding.
+ |
+| [Wansung](#Wansung) | The Wansung encoding.
+ |
+| [Johab](#Johab) | The Johab encoding.
+ |
+| [UnicodeFull](#UnicodeFull) | The Unicode full repertoire encoding.
+ |
 ## Methods
 
 | Method | Description |
@@ -49,6 +60,7 @@ public static final OpenTypeWindowsEncoding Symbol
 
 The Symbol encoding.
 
+
 ### UnicodeBmp {#UnicodeBmp}
 ```
 public static final OpenTypeWindowsEncoding UnicodeBmp
@@ -56,6 +68,7 @@ public static final OpenTypeWindowsEncoding UnicodeBmp
 
 
 The Unicode BMP encoding.
+
 
 ### ShiftJis {#ShiftJis}
 ```
@@ -65,6 +78,7 @@ public static final OpenTypeWindowsEncoding ShiftJis
 
 The ShiftJIS encoding.
 
+
 ### Prc {#Prc}
 ```
 public static final OpenTypeWindowsEncoding Prc
@@ -72,6 +86,7 @@ public static final OpenTypeWindowsEncoding Prc
 
 
 The PRC encoding.
+
 
 ### Big5 {#Big5}
 ```
@@ -81,6 +96,7 @@ public static final OpenTypeWindowsEncoding Big5
 
 The Big5 encoding.
 
+
 ### Wansung {#Wansung}
 ```
 public static final OpenTypeWindowsEncoding Wansung
@@ -88,6 +104,7 @@ public static final OpenTypeWindowsEncoding Wansung
 
 
 The Wansung encoding.
+
 
 ### Johab {#Johab}
 ```
@@ -97,6 +114,7 @@ public static final OpenTypeWindowsEncoding Johab
 
 The Johab encoding.
 
+
 ### UnicodeFull {#UnicodeFull}
 ```
 public static final OpenTypeWindowsEncoding UnicodeFull
@@ -104,6 +122,7 @@ public static final OpenTypeWindowsEncoding UnicodeFull
 
 
 The Unicode full repertoire encoding.
+
 
 ### values() {#values--}
 ```
@@ -163,6 +182,7 @@ public Object[] getAllValues()
 
 Returns the array of all values defined in the class.
 
+
 **Returns:**
 java.lang.Object[]
 ### getEnumValueByRawValue(int rawValue) {#getEnumValueByRawValue-int-}
@@ -172,6 +192,7 @@ public IEnumValue getEnumValueByRawValue(int rawValue)
 
 
 Returns the enumeration value by the raw value associated with it.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -188,6 +209,7 @@ public IEnumValue getEnumValueByName(String name)
 
 Returns the enumeration value by its name.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -203,6 +225,7 @@ public RawIntegerType getRawValueType()
 
 Returns the underlying type of the raw value of this enumeration value.
 
+
 **Returns:**
 [RawIntegerType](../../com.groupdocs.metadata.core/rawintegertype)
 ### getRawValue() {#getRawValue--}
@@ -212,6 +235,7 @@ public int getRawValue()
 
 
 Returns the raw value of this enumeration value.
+
 
 **Returns:**
 int

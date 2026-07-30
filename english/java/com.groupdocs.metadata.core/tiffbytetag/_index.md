@@ -13,22 +13,31 @@ public final class TiffByteTag extends TiffArrayTag<Byte>
 ```
 
 Represents a Byte tag.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [TiffByteTag(TiffTagID tagID, byte[] value)](#TiffByteTag-com.groupdocs.metadata.core.TiffTagID-byte---) | Initializes a new instance of the  TiffByteTag  class. |
+| [TiffByteTag(TiffTagID tagID, byte[] value)](#TiffByteTag-com.groupdocs.metadata.core.TiffTagID-byte---) | Initializes a new instance of the 
+TiffByteTag
+ class.
+ |
 ### TiffByteTag(TiffTagID tagID, byte[] value) {#TiffByteTag-com.groupdocs.metadata.core.TiffTagID-byte---}
 ```
 public TiffByteTag(TiffTagID tagID, byte[] value)
 ```
 
 
-Initializes a new instance of the  TiffByteTag  class.
+Initializes a new instance of the 
+TiffByteTag
+ class.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| tagID | [TiffTagID](../../com.groupdocs.metadata.core/tifftagid) | The tag identifier. |
-| value | byte[] | The value. |
+| tagID | [TiffTagID](../../com.groupdocs.metadata.core/tifftagid) | The tag identifier.
+ |
+| value | byte[] | The value.
+ |
 

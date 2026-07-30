@@ -14,15 +14,18 @@ public class ProjectManagementRootPackage extends DocumentRootPackage<ProjectMan
 
 Represents the root package intended to work with metadata in a project management format.
 
+
 **Learn more**
 
- *  [Working with metadata in ProjectManagement formats][]
+* [Working with metadata in ProjectManagement formats](../https://docs.groupdocs.com/display/metadatajava/Working+with+metadata+in+ProjectManagement+formats)
+
+<br />
 
 This code sample demonstrates how to extract built-in properties of a ProjectManagement document.
-
+>
+> ````
 > ```
-> ```
-> 
+>
 >  try (Metadata metadata = new Metadata(Constants.InputMpp)) {
 >      ProjectManagementRootPackage root = metadata.getRootPackageGeneric();
 >      System.out.println(root.getDocumentProperties().getAuthor());
@@ -36,7 +39,6 @@ This code sample demonstrates how to extract built-in properties of a ProjectMan
 >  }
 >  
 > ```
-> ```
+> ````
 
 
-[Working with metadata in ProjectManagement formats]: https://docs.groupdocs.com/display/metadatajava/Working+with+metadata+in+ProjectManagement+formats

@@ -14,38 +14,36 @@ public class TarRootPackage extends RootMetadataPackage
 
 Represents the root package allowing working with metadata in a ZIP archive.
 
---------------------
+<br />
+
+*** ** * ** ***
 
 > ```
-> The following code snippet shows how to get metadata from a ZIP archive.
 >  
->  Encoding encoding = Encoding.GetEncoding(866);
->  using (Metadata metadata = new Metadata(Constants.InputTar))
->  {
->      var root = metadata.GetRootPackage<TarRootPackage>();
->      Console.WriteLine(root.TarPackage.TotalEntries);
->      foreach (var file in root.TarPackage.Files)
->      {
->          Console.WriteLine(file.Name);
->          Console.WriteLine(file.CompressedSize);
->          Console.WriteLine(file.ModificationDateTime);
->          Console.WriteLine(file.UncompressedSize);
->          // Use a specific encoding for the file names
->          Console.WriteLine(encoding.GetString(file.RawName));
->      }
->  }
+>  The following code snippet shows how to get metadata from a ZIP archive.
+>  
+>  
 > ```
 
---------------------
+<br />
+
+<br />
+
+*** ** * ** ***
 
  **Learn more** 
 
- *  
+* 
+
+<br />
+
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getTarPackage()](#getTarPackage--) | Gets the ZIP metadata package. |
+| [getTarPackage()](#getTarPackage--) | Gets the ZIP metadata package.
+ |
 ### getTarPackage() {#getTarPackage--}
 ```
 public final TarPackage getTarPackage()
@@ -53,14 +51,19 @@ public final TarPackage getTarPackage()
 
 
 Gets the ZIP metadata package.
-
 Value: The ZIP metadata package.
 
---------------------
+<br />
+
+*** ** * ** ***
 
  **Learn more** 
 
- *  
+* 
+
+<br />
+
+
 
 **Returns:**
 [TarPackage](../../com.groupdocs.metadata.core/tarpackage)

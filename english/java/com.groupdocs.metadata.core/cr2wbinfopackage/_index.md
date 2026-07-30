@@ -13,32 +13,49 @@ public final class Cr2WBInfoPackage extends RawDictionaryBasePackage
 ```
 
 Represents Canon MakerNotes tags.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [Cr2WBInfoPackage()](#Cr2WBInfoPackage--) | Initializes a new instance of the  Cr2WBInfoPackage  class. |
+| [Cr2WBInfoPackage()](#Cr2WBInfoPackage--) | Initializes a new instance of the 
+Cr2WBInfoPackage
+ class.
+ |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getWB_GRBGLevelsAuto()](#getWB-GRBGLevelsAuto--) | Gets the WB\_GRBGLevelsAuto. |
-| [getWB_GRBGLevelsDaylight()](#getWB-GRBGLevelsDaylight--) | Gets the WB\_GRBGLevelsDaylight. |
-| [getWB_GRBGLevelsCloudy()](#getWB-GRBGLevelsCloudy--) | Gets the WB\_GRBGLevelsCloudy. |
-| [getWB_GRBGLevelsTungsten()](#getWB-GRBGLevelsTungsten--) | Gets the WB\_GRBGLevelsTungsten. |
-| [getWB_GRBGLevelsFluorescent()](#getWB-GRBGLevelsFluorescent--) | Gets the WB\_GRBGLevelsFluorescent. |
-| [getWB_GRBGLevelsFluorHigh()](#getWB-GRBGLevelsFluorHigh--) | Gets the WB\_GRBGLevelsFluorHigh. |
-| [getWB_GRBGLevelsFlash()](#getWB-GRBGLevelsFlash--) | Gets the WB\_GRBGLevelsFlash. |
-| [getWB_GRBGLevelsUnderwater()](#getWB-GRBGLevelsUnderwater--) | Gets the WB\_GRBGLevelsUnderwater. |
-| [getWB_GRBGLevelsCustom1()](#getWB-GRBGLevelsCustom1--) | Gets the WB\_GRBGLevelsCustom1. |
-| [getWB_GRBGLevelsCustom2()](#getWB-GRBGLevelsCustom2--) | Gets the WB\_GRBGLevelsCustom2. |
+| [getWB_GRBGLevelsAuto()](#getWB-GRBGLevelsAuto--) | Gets the WB_GRBGLevelsAuto.
+ |
+| [getWB_GRBGLevelsDaylight()](#getWB-GRBGLevelsDaylight--) | Gets the WB_GRBGLevelsDaylight.
+ |
+| [getWB_GRBGLevelsCloudy()](#getWB-GRBGLevelsCloudy--) | Gets the WB_GRBGLevelsCloudy.
+ |
+| [getWB_GRBGLevelsTungsten()](#getWB-GRBGLevelsTungsten--) | Gets the WB_GRBGLevelsTungsten.
+ |
+| [getWB_GRBGLevelsFluorescent()](#getWB-GRBGLevelsFluorescent--) | Gets the WB_GRBGLevelsFluorescent.
+ |
+| [getWB_GRBGLevelsFluorHigh()](#getWB-GRBGLevelsFluorHigh--) | Gets the WB_GRBGLevelsFluorHigh.
+ |
+| [getWB_GRBGLevelsFlash()](#getWB-GRBGLevelsFlash--) | Gets the WB_GRBGLevelsFlash.
+ |
+| [getWB_GRBGLevelsUnderwater()](#getWB-GRBGLevelsUnderwater--) | Gets the WB_GRBGLevelsUnderwater.
+ |
+| [getWB_GRBGLevelsCustom1()](#getWB-GRBGLevelsCustom1--) | Gets the WB_GRBGLevelsCustom1.
+ |
+| [getWB_GRBGLevelsCustom2()](#getWB-GRBGLevelsCustom2--) | Gets the WB_GRBGLevelsCustom2.
+ |
 ### Cr2WBInfoPackage() {#Cr2WBInfoPackage--}
 ```
 public Cr2WBInfoPackage()
 ```
 
 
-Initializes a new instance of the  Cr2WBInfoPackage  class.
+Initializes a new instance of the 
+Cr2WBInfoPackage
+ class.
+
 
 ### getWB_GRBGLevelsAuto() {#getWB-GRBGLevelsAuto--}
 ```
@@ -46,97 +63,117 @@ public final int[] getWB_GRBGLevelsAuto()
 ```
 
 
-Gets the WB\_GRBGLevelsAuto.
+Gets the WB_GRBGLevelsAuto.
+
 
 **Returns:**
-int[] - The WB\_GRBGLevelsAuto.
+int[] - The WB_GRBGLevelsAuto.
+
 ### getWB_GRBGLevelsDaylight() {#getWB-GRBGLevelsDaylight--}
 ```
 public final int[] getWB_GRBGLevelsDaylight()
 ```
 
 
-Gets the WB\_GRBGLevelsDaylight.
+Gets the WB_GRBGLevelsDaylight.
+
 
 **Returns:**
-int[] - The WB\_GRBGLevelsDaylight.
+int[] - The WB_GRBGLevelsDaylight.
+
 ### getWB_GRBGLevelsCloudy() {#getWB-GRBGLevelsCloudy--}
 ```
 public final int[] getWB_GRBGLevelsCloudy()
 ```
 
 
-Gets the WB\_GRBGLevelsCloudy.
+Gets the WB_GRBGLevelsCloudy.
+
 
 **Returns:**
-int[] - The WB\_GRBGLevelsCloudy.
+int[] - The WB_GRBGLevelsCloudy.
+
 ### getWB_GRBGLevelsTungsten() {#getWB-GRBGLevelsTungsten--}
 ```
 public final int[] getWB_GRBGLevelsTungsten()
 ```
 
 
-Gets the WB\_GRBGLevelsTungsten.
+Gets the WB_GRBGLevelsTungsten.
+
 
 **Returns:**
-int[] - The WB\_GRBGLevelsTungsten.
+int[] - The WB_GRBGLevelsTungsten.
+
 ### getWB_GRBGLevelsFluorescent() {#getWB-GRBGLevelsFluorescent--}
 ```
 public final int[] getWB_GRBGLevelsFluorescent()
 ```
 
 
-Gets the WB\_GRBGLevelsFluorescent.
+Gets the WB_GRBGLevelsFluorescent.
+
 
 **Returns:**
-int[] - The WB\_GRBGLevelsFluorescent.
+int[] - The WB_GRBGLevelsFluorescent.
+
 ### getWB_GRBGLevelsFluorHigh() {#getWB-GRBGLevelsFluorHigh--}
 ```
 public final int[] getWB_GRBGLevelsFluorHigh()
 ```
 
 
-Gets the WB\_GRBGLevelsFluorHigh.
+Gets the WB_GRBGLevelsFluorHigh.
+
 
 **Returns:**
-int[] - The WB\_GRBGLevelsFluorHigh.
+int[] - The WB_GRBGLevelsFluorHigh.
+
 ### getWB_GRBGLevelsFlash() {#getWB-GRBGLevelsFlash--}
 ```
 public final int[] getWB_GRBGLevelsFlash()
 ```
 
 
-Gets the WB\_GRBGLevelsFlash.
+Gets the WB_GRBGLevelsFlash.
+
 
 **Returns:**
-int[] - The WB\_GRBGLevelsFlash.
+int[] - The WB_GRBGLevelsFlash.
+
 ### getWB_GRBGLevelsUnderwater() {#getWB-GRBGLevelsUnderwater--}
 ```
 public final int[] getWB_GRBGLevelsUnderwater()
 ```
 
 
-Gets the WB\_GRBGLevelsUnderwater.
+Gets the WB_GRBGLevelsUnderwater.
+
 
 **Returns:**
-int[] - The WB\_GRBGLevelsUnderwater.
+int[] - The WB_GRBGLevelsUnderwater.
+
 ### getWB_GRBGLevelsCustom1() {#getWB-GRBGLevelsCustom1--}
 ```
 public final int[] getWB_GRBGLevelsCustom1()
 ```
 
 
-Gets the WB\_GRBGLevelsCustom1.
+Gets the WB_GRBGLevelsCustom1.
+
 
 **Returns:**
-int[] - The WB\_GRBGLevelsCustom1.
+int[] - The WB_GRBGLevelsCustom1.
+
 ### getWB_GRBGLevelsCustom2() {#getWB-GRBGLevelsCustom2--}
 ```
 public final int[] getWB_GRBGLevelsCustom2()
 ```
 
 
-Gets the WB\_GRBGLevelsCustom2.
+Gets the WB_GRBGLevelsCustom2.
+
 
 **Returns:**
-int[] - The WB\_GRBGLevelsCustom2.
+int[] - The WB_GRBGLevelsCustom2.
+

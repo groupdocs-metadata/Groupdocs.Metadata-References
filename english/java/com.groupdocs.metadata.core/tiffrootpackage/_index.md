@@ -17,18 +17,21 @@ public class TiffRootPackage extends ImageRootPackage implements IXmp, IExif, II
 
 Represents the root package allowing working with metadata in a TIFF image.
 
+
 **Learn more**
 
- *  [Working with metadata in TIFF images][]
- *  [Working with EXIF metadata][]
- *  [Working with XMP metadata][]
- *  [Working with IPTC IIM metadata][]
+* [Working with metadata in TIFF images](../https://docs.groupdocs.com/display/metadatajava/Working+with+metadata+in+TIFF+images)
+* [Working with EXIF metadata](../https://docs.groupdocs.com/display/metadatajava/Working+with+EXIF+metadata)
+* [Working with XMP metadata](../https://docs.groupdocs.com/display/metadatajava/Working+with+XMP+metadata)
+* [Working with IPTC IIM metadata](../https://docs.groupdocs.com/display/metadatajava/Working+with+IPTC+IIM+metadata)
+
+<br />
 
 This example shows how to extract basic IPTC metadata properties from a TIFF image.
-
+>
+> ````
 > ```
-> ```
-> 
+>
 >  try (Metadata metadata = new Metadata(Constants.TiffWithIptc)) {
 >      TiffRootPackage root = metadata.getRootPackageGeneric();
 >      if (root.getIptcPackage() != null) {
@@ -53,23 +56,25 @@ This example shows how to extract basic IPTC metadata properties from a TIFF ima
 >  }
 >  
 > ```
-> ```
+> ````
 
 
-[Working with metadata in TIFF images]: https://docs.groupdocs.com/display/metadatajava/Working+with+metadata+in+TIFF+images
-[Working with EXIF metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+EXIF+metadata
-[Working with XMP metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+XMP+metadata
-[Working with IPTC IIM metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+IPTC+IIM+metadata
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getXmpPackage()](#getXmpPackage--) | Gets the XMP metadata package. |
-| [setXmpPackage(XmpPacketWrapper value)](#setXmpPackage-com.groupdocs.metadata.core.XmpPacketWrapper-) | Sets the XMP metadata package. |
-| [getExifPackage()](#getExifPackage--) | Gets the EXIF metadata package. |
-| [setExifPackage(ExifPackage value)](#setExifPackage-com.groupdocs.metadata.core.ExifPackage-) | Sets the EXIF metadata package. |
-| [getIptcPackage()](#getIptcPackage--) | Gets the IPTC metadata package. |
-| [setIptcPackage(IptcRecordSet value)](#setIptcPackage-com.groupdocs.metadata.core.IptcRecordSet-) | Sets the IPTC metadata package. |
+| [getXmpPackage()](#getXmpPackage--) | Gets the XMP metadata package.
+ |
+| [setXmpPackage(XmpPacketWrapper value)](#setXmpPackage-com.groupdocs.metadata.core.XmpPacketWrapper-) | Sets the XMP metadata package.
+ |
+| [getExifPackage()](#getExifPackage--) | Gets the EXIF metadata package.
+ |
+| [setExifPackage(ExifPackage value)](#setExifPackage-com.groupdocs.metadata.core.ExifPackage-) | Sets the EXIF metadata package.
+ |
+| [getIptcPackage()](#getIptcPackage--) | Gets the IPTC metadata package.
+ |
+| [setIptcPackage(IptcRecordSet value)](#setIptcPackage-com.groupdocs.metadata.core.IptcRecordSet-) | Sets the IPTC metadata package.
+ |
 ### getXmpPackage() {#getXmpPackage--}
 ```
 public final XmpPacketWrapper getXmpPackage()
@@ -78,15 +83,18 @@ public final XmpPacketWrapper getXmpPackage()
 
 Gets the XMP metadata package.
 
+
 **Returns:**
 [XmpPacketWrapper](../../com.groupdocs.metadata.core/xmppacketwrapper) - The XMP metadata package.
 
+
 **Learn more**
 
- *  [Working with XMP metadata][]
+* [Working with XMP metadata](../https://docs.groupdocs.com/display/metadatajava/Working+with+XMP+metadata)
+
+<br />
 
 
-[Working with XMP metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+XMP+metadata
 ### setXmpPackage(XmpPacketWrapper value) {#setXmpPackage-com.groupdocs.metadata.core.XmpPacketWrapper-}
 ```
 public final void setXmpPackage(XmpPacketWrapper value)
@@ -95,17 +103,20 @@ public final void setXmpPackage(XmpPacketWrapper value)
 
 Sets the XMP metadata package.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | [XmpPacketWrapper](../../com.groupdocs.metadata.core/xmppacketwrapper) | The XMP metadata package.
 
+
 **Learn more**
 
- *  [Working with XMP metadata][]
+* [Working with XMP metadata](../https://docs.groupdocs.com/display/metadatajava/Working+with+XMP+metadata)
 
+<br />
 
-[Working with XMP metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+XMP+metadata |
+ |
 
 ### getExifPackage() {#getExifPackage--}
 ```
@@ -115,15 +126,18 @@ public final ExifPackage getExifPackage()
 
 Gets the EXIF metadata package.
 
+
 **Returns:**
 [ExifPackage](../../com.groupdocs.metadata.core/exifpackage) - The EXIF metadata package.
 
+
 **Learn more**
 
- *  [Working with EXIF metadata][]
+* [Working with EXIF metadata](../https://docs.groupdocs.com/display/metadatajava/Working+with+EXIF+metadata)
+
+<br />
 
 
-[Working with EXIF metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+EXIF+metadata
 ### setExifPackage(ExifPackage value) {#setExifPackage-com.groupdocs.metadata.core.ExifPackage-}
 ```
 public final void setExifPackage(ExifPackage value)
@@ -132,17 +146,20 @@ public final void setExifPackage(ExifPackage value)
 
 Sets the EXIF metadata package.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | [ExifPackage](../../com.groupdocs.metadata.core/exifpackage) | The EXIF metadata package.
 
+
 **Learn more**
 
- *  [Working with EXIF metadata][]
+* [Working with EXIF metadata](../https://docs.groupdocs.com/display/metadatajava/Working+with+EXIF+metadata)
 
+<br />
 
-[Working with EXIF metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+EXIF+metadata |
+ |
 
 ### getIptcPackage() {#getIptcPackage--}
 ```
@@ -152,15 +169,18 @@ public final IptcRecordSet getIptcPackage()
 
 Gets the IPTC metadata package.
 
+
 **Returns:**
 [IptcRecordSet](../../com.groupdocs.metadata.core/iptcrecordset) - The IPTC metadata package.
 
+
 **Learn more**
 
- *  [Working with IPTC IIM metadata][]
+* [Working with IPTC IIM metadata](../https://docs.groupdocs.com/display/metadatajava/Working+with+IPTC+IIM+metadata)
+
+<br />
 
 
-[Working with IPTC IIM metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+IPTC+IIM+metadata
 ### setIptcPackage(IptcRecordSet value) {#setIptcPackage-com.groupdocs.metadata.core.IptcRecordSet-}
 ```
 public final void setIptcPackage(IptcRecordSet value)
@@ -169,15 +189,18 @@ public final void setIptcPackage(IptcRecordSet value)
 
 Sets the IPTC metadata package.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | [IptcRecordSet](../../com.groupdocs.metadata.core/iptcrecordset) | The IPTC metadata package.
 
+
 **Learn more**
 
- *  [Working with IPTC IIM metadata][]
+* [Working with IPTC IIM metadata](../https://docs.groupdocs.com/display/metadatajava/Working+with+IPTC+IIM+metadata)
 
+<br />
 
-[Working with IPTC IIM metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+IPTC+IIM+metadata |
+ |
 

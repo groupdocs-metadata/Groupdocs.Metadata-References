@@ -16,28 +16,47 @@ public enum MetadataPropertyType extends Enum<MetadataPropertyType> implements I
 ```
 
 Defines metadata property types.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Empty](#Empty) | Represents an empty (null) property. |
-| [String](#String) | Represents a string property. |
-| [Boolean](#Boolean) | Represents a boolean property. |
-| [DateTime](#DateTime) | Represents a date property. |
-| [TimeSpan](#TimeSpan) | Represents a time property. |
-| [Integer](#Integer) | Represents an integer property. |
-| [Long](#Long) | Represents a long integer property. |
-| [Double](#Double) | Represents a property with a double or float value. |
-| [StringArray](#StringArray) | Represents a string array property. |
-| [ByteArray](#ByteArray) | Represents a byte array property. |
-| [DoubleArray](#DoubleArray) | Represents an array of double values. |
-| [IntegerArray](#IntegerArray) | Represents an array of integer values. |
-| [LongArray](#LongArray) | Represents an array of long values. |
-| [Metadata](#Metadata) | Represents a nested metadata block. |
-| [MetadataArray](#MetadataArray) | Represents an array of nested metadata blocks. |
-| [Guid](#Guid) | Represents a global unique identifier value. |
-| [PropertyValueArray](#PropertyValueArray) | Represents a metadata property value array. |
-| [Object](#Object) | Represents a generic object property. |
+| [Empty](#Empty) | Represents an empty (null) property.
+ |
+| [String](#String) | Represents a string property.
+ |
+| [Boolean](#Boolean) | Represents a boolean property.
+ |
+| [DateTime](#DateTime) | Represents a date property.
+ |
+| [TimeSpan](#TimeSpan) | Represents a time property.
+ |
+| [Integer](#Integer) | Represents an integer property.
+ |
+| [Long](#Long) | Represents a long integer property.
+ |
+| [Double](#Double) | Represents a property with a double or float value.
+ |
+| [StringArray](#StringArray) | Represents a string array property.
+ |
+| [ByteArray](#ByteArray) | Represents a byte array property.
+ |
+| [DoubleArray](#DoubleArray) | Represents an array of double values.
+ |
+| [IntegerArray](#IntegerArray) | Represents an array of integer values.
+ |
+| [LongArray](#LongArray) | Represents an array of long values.
+ |
+| [Metadata](#Metadata) | Represents a nested metadata block.
+ |
+| [MetadataArray](#MetadataArray) | Represents an array of nested metadata blocks.
+ |
+| [Guid](#Guid) | Represents a global unique identifier value.
+ |
+| [PropertyValueArray](#PropertyValueArray) | Represents a metadata property value array.
+ |
+| [Object](#Object) | Represents a generic object property.
+ |
 ## Methods
 
 | Method | Description |
@@ -59,6 +78,7 @@ public static final MetadataPropertyType Empty
 
 Represents an empty (null) property.
 
+
 ### String {#String}
 ```
 public static final MetadataPropertyType String
@@ -66,6 +86,7 @@ public static final MetadataPropertyType String
 
 
 Represents a string property.
+
 
 ### Boolean {#Boolean}
 ```
@@ -75,6 +96,7 @@ public static final MetadataPropertyType Boolean
 
 Represents a boolean property.
 
+
 ### DateTime {#DateTime}
 ```
 public static final MetadataPropertyType DateTime
@@ -82,6 +104,7 @@ public static final MetadataPropertyType DateTime
 
 
 Represents a date property.
+
 
 ### TimeSpan {#TimeSpan}
 ```
@@ -91,6 +114,7 @@ public static final MetadataPropertyType TimeSpan
 
 Represents a time property.
 
+
 ### Integer {#Integer}
 ```
 public static final MetadataPropertyType Integer
@@ -98,6 +122,7 @@ public static final MetadataPropertyType Integer
 
 
 Represents an integer property.
+
 
 ### Long {#Long}
 ```
@@ -107,6 +132,7 @@ public static final MetadataPropertyType Long
 
 Represents a long integer property.
 
+
 ### Double {#Double}
 ```
 public static final MetadataPropertyType Double
@@ -114,6 +140,7 @@ public static final MetadataPropertyType Double
 
 
 Represents a property with a double or float value.
+
 
 ### StringArray {#StringArray}
 ```
@@ -123,6 +150,7 @@ public static final MetadataPropertyType StringArray
 
 Represents a string array property.
 
+
 ### ByteArray {#ByteArray}
 ```
 public static final MetadataPropertyType ByteArray
@@ -130,6 +158,7 @@ public static final MetadataPropertyType ByteArray
 
 
 Represents a byte array property.
+
 
 ### DoubleArray {#DoubleArray}
 ```
@@ -139,6 +168,7 @@ public static final MetadataPropertyType DoubleArray
 
 Represents an array of double values.
 
+
 ### IntegerArray {#IntegerArray}
 ```
 public static final MetadataPropertyType IntegerArray
@@ -146,6 +176,7 @@ public static final MetadataPropertyType IntegerArray
 
 
 Represents an array of integer values.
+
 
 ### LongArray {#LongArray}
 ```
@@ -155,6 +186,7 @@ public static final MetadataPropertyType LongArray
 
 Represents an array of long values.
 
+
 ### Metadata {#Metadata}
 ```
 public static final MetadataPropertyType Metadata
@@ -162,6 +194,7 @@ public static final MetadataPropertyType Metadata
 
 
 Represents a nested metadata block.
+
 
 ### MetadataArray {#MetadataArray}
 ```
@@ -171,6 +204,7 @@ public static final MetadataPropertyType MetadataArray
 
 Represents an array of nested metadata blocks.
 
+
 ### Guid {#Guid}
 ```
 public static final MetadataPropertyType Guid
@@ -178,6 +212,7 @@ public static final MetadataPropertyType Guid
 
 
 Represents a global unique identifier value.
+
 
 ### PropertyValueArray {#PropertyValueArray}
 ```
@@ -187,6 +222,7 @@ public static final MetadataPropertyType PropertyValueArray
 
 Represents a metadata property value array.
 
+
 ### Object {#Object}
 ```
 public static final MetadataPropertyType Object
@@ -194,6 +230,7 @@ public static final MetadataPropertyType Object
 
 
 Represents a generic object property.
+
 
 ### values() {#values--}
 ```
@@ -253,6 +290,7 @@ public Object[] getAllValues()
 
 Returns the array of all values defined in the class.
 
+
 **Returns:**
 java.lang.Object[]
 ### getEnumValueByRawValue(int rawValue) {#getEnumValueByRawValue-int-}
@@ -262,6 +300,7 @@ public IEnumValue getEnumValueByRawValue(int rawValue)
 
 
 Returns the enumeration value by the raw value associated with it.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -278,6 +317,7 @@ public IEnumValue getEnumValueByName(String name)
 
 Returns the enumeration value by its name.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -293,6 +333,7 @@ public RawIntegerType getRawValueType()
 
 Returns the underlying type of the raw value of this enumeration value.
 
+
 **Returns:**
 [RawIntegerType](../../com.groupdocs.metadata.core/rawintegertype)
 ### getRawValue() {#getRawValue--}
@@ -302,6 +343,7 @@ public int getRawValue()
 
 
 Returns the raw value of this enumeration value.
+
 
 **Returns:**
 int

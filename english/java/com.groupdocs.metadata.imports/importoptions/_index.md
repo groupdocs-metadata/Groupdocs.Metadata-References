@@ -13,11 +13,13 @@ public abstract class ImportOptions
 ```
 
 Abstract class import options.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [ImportOptions()](#ImportOptions--) | Initializes a new instance of the [ImportOptions](../../com.groupdocs.metadata.imports/importoptions) class. |
+| [ImportOptions()](#ImportOptions--) | Initializes a new instance of the [ImportOptions](../../com.groupdocs.metadata.imports/importoptions) class.
+ |
 ### ImportOptions() {#ImportOptions--}
 ```
 public ImportOptions()
@@ -25,4 +27,5 @@ public ImportOptions()
 
 
 Initializes a new instance of the [ImportOptions](../../com.groupdocs.metadata.imports/importoptions) class.
+
 

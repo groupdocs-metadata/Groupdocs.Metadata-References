@@ -13,16 +13,23 @@ public final class DocumentProtectedException extends GroupDocsMetadataException
 ```
 
 The exception that is thrown when document is protected by password.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [DocumentProtectedException()](#DocumentProtectedException--) | Initializes a new instance of the  DocumentProtectedException  class. |
+| [DocumentProtectedException()](#DocumentProtectedException--) | Initializes a new instance of the 
+DocumentProtectedException
+ class.
+ |
 ### DocumentProtectedException() {#DocumentProtectedException--}
 ```
 public DocumentProtectedException()
 ```
 
 
-Initializes a new instance of the  DocumentProtectedException  class.
+Initializes a new instance of the 
+DocumentProtectedException
+ class.
+
 

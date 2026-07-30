@@ -14,16 +14,24 @@ public final class License
 
 Represents GroupDocs.Metadata license. License class should be applied once per AppDomain.
 
---------------------
+<br />
+
+*** ** * ** ***
 
 > ```
-> This example demonstrates how to setup a license.
+>  This example demonstrates how to setup a license.
 >      
 >  // initialize License class
 >  License license = new License();
 >  // set path to .lic file
 >  license.SetLicense(@"C:\\GroupDocs.Metadata.lic");
+>  
+>  
 > ```
+
+<br />
+
+
 ## Constructors
 
 | Constructor | Description |
@@ -33,8 +41,10 @@ Represents GroupDocs.Metadata license. License class should be applied once per 
 
 | Method | Description |
 | --- | --- |
-| [setLicense(String licensePath)](#setLicense-java.lang.String-) | Licenses the component. |
-| [setLicense(InputStream licenseStream)](#setLicense-java.io.InputStream-) | Licenses the component. |
+| [setLicense(String licensePath)](#setLicense-java.lang.String-) | Licenses the component.
+ |
+| [setLicense(InputStream licenseStream)](#setLicense-java.io.InputStream-) | Licenses the component.
+ |
 ### License() {#License--}
 ```
 public License()
@@ -49,21 +59,30 @@ public final void setLicense(String licensePath)
 
 Licenses the component.
 
---------------------
+<br />
+
+*** ** * ** ***
 
 > ```
-> This example demonstrates how to setup license.
+>  This example demonstrates how to setup license.
 >      
 >  // initialize License class
 >  License license = new License();
 >  // set path to .lic file
->  license.SetLicense(@"C:\\GroupDocs.Metadata.lic");
+>  license.SetLicense(@"C:\\GroupDocs.Metadata.lic");    
+>  
+>  
 > ```
+
+<br />
+
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| licensePath | java.lang.String | The absolute path to a license file. |
+| licensePath | java.lang.String | The absolute path to a license file.
+ |
 
 ### setLicense(InputStream licenseStream) {#setLicense-java.io.InputStream-}
 ```
@@ -73,8 +92,10 @@ public final void setLicense(InputStream licenseStream)
 
 Licenses the component.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| licenseStream | java.io.InputStream | License stream. |
+| licenseStream | java.io.InputStream | License stream.
+ |
 

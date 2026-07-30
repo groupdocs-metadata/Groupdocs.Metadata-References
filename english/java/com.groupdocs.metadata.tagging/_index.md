@@ -10,6 +10,7 @@ url: /java/com.groupdocs.metadata.tagging/
 The **com.groupdocs.metadata.tagging** namespace contains various sets of tags with which most important metadata properties are marked.The tags allow users to find and update metadata properties in different packages regardless of the metadata standard and file format.
 
 
+
 ## Classes
 
 | Class | Description |
@@ -17,7 +18,7 @@ The **com.groupdocs.metadata.tagging** namespace contains various sets of tags w
 | [ContentTagCategory](../com.groupdocs.metadata.tagging/contenttagcategory) | Provides tags that are attached to metadata properties describing the content of a file. |
 | [CorporateTagCategory](../com.groupdocs.metadata.tagging/corporatetagcategory) | Provides tags intended to mark metadata properties related to a company that participated in file creation. |
 | [DocumentTagCategory](../com.groupdocs.metadata.tagging/documenttagcategory) | Provides tags that are applied to document-specific properties only. |
-| [LegalTagCategory](../com.groupdocs.metadata.tagging/legaltagcategory) | Provides tags that are attached to metadata properties holding information about the owners of the file content and the rules under which the content can be used. |
+| [LegalTagCategory](../com.groupdocs.metadata.tagging/legaltagcategory) | Provides tags that are attached to metadata properties holding information about the owners of the file contentand the rules under which the content can be used. |
 | [OriginTagCategory](../com.groupdocs.metadata.tagging/origintagcategory) | Provides tags that help a user to determine the origin of a file (e.g. |
 | [PersonTagCategory](../com.groupdocs.metadata.tagging/persontagcategory) | Provides tags that mark metadata properties holding information about the people contributed to file or intellectual content creation. |
 | [PropertyTag](../com.groupdocs.metadata.tagging/propertytag) | Represents a tag used to mark metadata properties. |

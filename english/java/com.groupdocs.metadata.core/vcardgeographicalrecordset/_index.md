@@ -12,22 +12,30 @@ java.lang.Object, [com.groupdocs.metadata.core.MetadataPackage](../../com.groupd
 public class VCardGeographicalRecordset extends VCardRecordset
 ```
 
-Represents a set of Geographical vCard records. These properties are concerned with information associated with geographical positions or regions associated with the object the vCard represents.
+Represents a set of Geographical vCard records.
+These properties are concerned with information associated with
+geographical positions or regions associated with the object the vCard represents.
+
 
 **Learn more**
 
- *  [Working with vCard metadata][]
+* [Working with vCard metadata](../https://docs.groupdocs.com/display/metadatajava/Working+with+vCard+metadata)
+
+<br />
 
 
-[Working with vCard metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+vCard+metadata
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getTimeZoneRecords()](#getTimeZoneRecords--) | Gets the time zones of the object. |
-| [getTimeZones()](#getTimeZones--) | Gets the time zones of the object. |
-| [getGeographicPositionRecords()](#getGeographicPositionRecords--) | Gets the information related to the global positioning of the object. |
-| [getGeographicPositions()](#getGeographicPositions--) | Gets the information related to the global positioning of the object. |
+| [getTimeZoneRecords()](#getTimeZoneRecords--) | Gets the time zones of the object.
+ |
+| [getTimeZones()](#getTimeZones--) | Gets the time zones of the object.
+ |
+| [getGeographicPositionRecords()](#getGeographicPositionRecords--) | Gets the information related to the global positioning of the object.
+ |
+| [getGeographicPositions()](#getGeographicPositions--) | Gets the information related to the global positioning of the object.
+ |
 ### getTimeZoneRecords() {#getTimeZoneRecords--}
 ```
 public final VCardTextRecord[] getTimeZoneRecords()
@@ -36,8 +44,10 @@ public final VCardTextRecord[] getTimeZoneRecords()
 
 Gets the time zones of the object.
 
+
 **Returns:**
 com.groupdocs.metadata.core.VCardTextRecord[] - The time zones of the object.
+
 ### getTimeZones() {#getTimeZones--}
 ```
 public final String[] getTimeZones()
@@ -46,12 +56,19 @@ public final String[] getTimeZones()
 
 Gets the time zones of the object.
 
+
 **Returns:**
 java.lang.String[] - The time zones of the object.
 
---------------------
+<br />
+
+*** ** * ** ***
 
 This property is a simplified version of  TimeZoneRecords .
+
+<br />
+
+
 ### getGeographicPositionRecords() {#getGeographicPositionRecords--}
 ```
 public final VCardTextRecord[] getGeographicPositionRecords()
@@ -60,8 +77,10 @@ public final VCardTextRecord[] getGeographicPositionRecords()
 
 Gets the information related to the global positioning of the object.
 
+
 **Returns:**
 com.groupdocs.metadata.core.VCardTextRecord[] - The information related to the global positioning of the object.
+
 ### getGeographicPositions() {#getGeographicPositions--}
 ```
 public final String[] getGeographicPositions()
@@ -70,9 +89,16 @@ public final String[] getGeographicPositions()
 
 Gets the information related to the global positioning of the object.
 
+
 **Returns:**
 java.lang.String[] - The information related to the global positioning of the object.
 
---------------------
+<br />
+
+*** ** * ** ***
 
 This property is a simplified version of  GeographicPositionRecords .
+
+<br />
+
+

@@ -13,22 +13,31 @@ public final class TiffFloatTag extends TiffArrayTag<Float>
 ```
 
 Represents a TIFF float tag.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [TiffFloatTag(TiffTagID tagID, float[] value)](#TiffFloatTag-com.groupdocs.metadata.core.TiffTagID-float---) | Initializes a new instance of the  TiffFloatTag  class. |
+| [TiffFloatTag(TiffTagID tagID, float[] value)](#TiffFloatTag-com.groupdocs.metadata.core.TiffTagID-float---) | Initializes a new instance of the 
+TiffFloatTag
+ class.
+ |
 ### TiffFloatTag(TiffTagID tagID, float[] value) {#TiffFloatTag-com.groupdocs.metadata.core.TiffTagID-float---}
 ```
 public TiffFloatTag(TiffTagID tagID, float[] value)
 ```
 
 
-Initializes a new instance of the  TiffFloatTag  class.
+Initializes a new instance of the 
+TiffFloatTag
+ class.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| tagID | [TiffTagID](../../com.groupdocs.metadata.core/tifftagid) | The tag identifier. |
-| value | float[] | The value. |
+| tagID | [TiffTagID](../../com.groupdocs.metadata.core/tifftagid) | The tag identifier.
+ |
+| value | float[] | The value.
+ |
 

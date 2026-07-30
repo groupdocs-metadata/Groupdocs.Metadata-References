@@ -17,15 +17,18 @@ public class EpubRootPackage extends RootMetadataPackage implements IDublinCore
 
 Represents the root package allowing working with metadata in an EPUB e-book.
 
+
 **Learn more**
 
- *  [Working with metadata in EPUB E-Books][]
+* [Working with metadata in EPUB E-Books](../https://docs.groupdocs.com/display/metadatajava/Working+with+metadata+in+EPUB+E-Books)
+
+<br />
 
 This code sample shows how to read EPUB format-specific metadata properties.
-
+>
+> ````
 > ```
-> ```
-> 
+>
 >  try (Metadata metadata = new Metadata(Constants.InputEpub)) {
 >      EpubRootPackage root = metadata.getRootPackageGeneric();
 >      System.out.println(root.getEpubPackage().getVersion());
@@ -34,16 +37,17 @@ This code sample shows how to read EPUB format-specific metadata properties.
 >  }
 >  
 > ```
-> ```
+> ````
 
 
-[Working with metadata in EPUB E-Books]: https://docs.groupdocs.com/display/metadatajava/Working+with+metadata+in+EPUB+E-Books
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getEpubPackage()](#getEpubPackage--) | Gets the EPUB metadata package. |
-| [getDublinCorePackage()](#getDublinCorePackage--) | Gets the Dublin Core metadata package extracted from the e-book. |
+| [getEpubPackage()](#getEpubPackage--) | Gets the EPUB metadata package.
+ |
+| [getDublinCorePackage()](#getDublinCorePackage--) | Gets the Dublin Core metadata package extracted from the e-book.
+ |
 ### getEpubPackage() {#getEpubPackage--}
 ```
 public final EpubPackage getEpubPackage()
@@ -52,8 +56,10 @@ public final EpubPackage getEpubPackage()
 
 Gets the EPUB metadata package.
 
+
 **Returns:**
 [EpubPackage](../../com.groupdocs.metadata.core/epubpackage) - The EPUB metadata package.
+
 ### getDublinCorePackage() {#getDublinCorePackage--}
 ```
 public final DublinCorePackage getDublinCorePackage()
@@ -62,5 +68,7 @@ public final DublinCorePackage getDublinCorePackage()
 
 Gets the Dublin Core metadata package extracted from the e-book.
 
+
 **Returns:**
 [DublinCorePackage](../../com.groupdocs.metadata.core/dublincorepackage) - The Dublin Core metadata package extracted from the e-book.
+

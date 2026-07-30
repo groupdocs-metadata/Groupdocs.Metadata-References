@@ -14,9 +14,11 @@ public abstract class VCardBasePackage extends CustomPackage
 
 Represents the base VCard metadata class.
 
+
 **Learn more**
 
- *  [Working with vCard metadata][]
+* [Working with vCard metadata](../https://docs.groupdocs.com/display/metadatajava/Working+with+vCard+metadata)
+
+<br />
 
 
-[Working with vCard metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+vCard+metadata

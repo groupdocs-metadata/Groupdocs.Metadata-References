@@ -13,11 +13,13 @@ public class Cr2RootPackage extends RootMetadataPackage
 ```
 
 Represents an entry point to all metadata packages presented in a particular file CR2.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getCr2Package()](#getCr2Package--) | Gets the CR2 header metadata package. |
+| [getCr2Package()](#getCr2Package--) | Gets the CR2 header metadata package.
+ |
 ### getCr2Package() {#getCr2Package--}
 ```
 public final Cr2Package getCr2Package()
@@ -26,5 +28,7 @@ public final Cr2Package getCr2Package()
 
 Gets the CR2 header metadata package.
 
+
 **Returns:**
 [Cr2Package](../../com.groupdocs.metadata.core/cr2package) - The CR2 header metadata package.
+

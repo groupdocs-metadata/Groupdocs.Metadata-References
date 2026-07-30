@@ -13,11 +13,13 @@ public class PngPackage extends CustomPackage
 ```
 
 Represents native PNG metadata.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getTextChunks()](#getTextChunks--) | Gets the collection of text chunks extracted from the image. |
+| [getTextChunks()](#getTextChunks--) | Gets the collection of text chunks extracted from the image.
+ |
 ### getTextChunks() {#getTextChunks--}
 ```
 public final PngTextChunk[] getTextChunks()
@@ -26,5 +28,7 @@ public final PngTextChunk[] getTextChunks()
 
 Gets the collection of text chunks extracted from the image.
 
+
 **Returns:**
 com.groupdocs.metadata.core.PngTextChunk[] - The collection of text chunks extracted from the image.
+

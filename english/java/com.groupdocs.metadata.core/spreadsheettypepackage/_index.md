@@ -13,11 +13,13 @@ public class SpreadsheetTypePackage extends FileTypePackage
 ```
 
 Represents a metadata package containing spreadsheet-specific file format information.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getSpreadsheetFormat()](#getSpreadsheetFormat--) | Gets the exact spreadsheet format. |
+| [getSpreadsheetFormat()](#getSpreadsheetFormat--) | Gets the exact spreadsheet format.
+ |
 ### getSpreadsheetFormat() {#getSpreadsheetFormat--}
 ```
 public final SpreadsheetFormat getSpreadsheetFormat()
@@ -26,5 +28,7 @@ public final SpreadsheetFormat getSpreadsheetFormat()
 
 Gets the exact spreadsheet format.
 
+
 **Returns:**
 [SpreadsheetFormat](../../com.groupdocs.metadata.core/spreadsheetformat) - The exact spreadsheet format.
+

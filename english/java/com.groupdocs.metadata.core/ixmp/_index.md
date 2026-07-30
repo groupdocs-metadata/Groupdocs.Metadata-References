@@ -11,15 +11,18 @@ public interface IXmp
 
 Defines base operations intended to work with XMP metadata.
 
+
 **Learn more**
 
- *  [Working with XMP metadata][]
+* [Working with XMP metadata](../https://docs.groupdocs.com/display/metadatajava/Working+with+XMP+metadata)
+
+<br />
 
 This example demonstrates how to extract XMP metadata from a file.
-
+>
+> ````
 > ```
-> ```
-> 
+>
 >  try (Metadata metadata = new Metadata(Constants.PngWithXmp)) {
 >      IXmp root = (IXmp) metadata.getRootPackage();
 >      if (root.getXmpPackage() != null) {
@@ -51,16 +54,17 @@ This example demonstrates how to extract XMP metadata from a file.
 >  }
 >  
 > ```
-> ```
+> ````
 
 
-[Working with XMP metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+XMP+metadata
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getXmpPackage()](#getXmpPackage--) | Gets the XMP metadata package. |
-| [setXmpPackage(XmpPacketWrapper value)](#setXmpPackage-com.groupdocs.metadata.core.XmpPacketWrapper-) | Sets the XMP metadata package. |
+| [getXmpPackage()](#getXmpPackage--) | Gets the XMP metadata package.
+ |
+| [setXmpPackage(XmpPacketWrapper value)](#setXmpPackage-com.groupdocs.metadata.core.XmpPacketWrapper-) | Sets the XMP metadata package.
+ |
 ### getXmpPackage() {#getXmpPackage--}
 ```
 public abstract XmpPacketWrapper getXmpPackage()
@@ -69,8 +73,10 @@ public abstract XmpPacketWrapper getXmpPackage()
 
 Gets the XMP metadata package.
 
+
 **Returns:**
 [XmpPacketWrapper](../../com.groupdocs.metadata.core/xmppacketwrapper) - The XMP metadata package.
+
 ### setXmpPackage(XmpPacketWrapper value) {#setXmpPackage-com.groupdocs.metadata.core.XmpPacketWrapper-}
 ```
 public abstract void setXmpPackage(XmpPacketWrapper value)
@@ -79,8 +85,10 @@ public abstract void setXmpPackage(XmpPacketWrapper value)
 
 Sets the XMP metadata package.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [XmpPacketWrapper](../../com.groupdocs.metadata.core/xmppacketwrapper) | The XMP metadata package. |
+| value | [XmpPacketWrapper](../../com.groupdocs.metadata.core/xmppacketwrapper) | The XMP metadata package.
+ |
 

@@ -14,15 +14,18 @@ public class VCardRootPackage extends RootMetadataPackage
 
 Represents the root package allowing working with metadata in a VCard file.
 
+
 **Learn more**
 
- *  [Working with vCard metadata][]
+* [Working with vCard metadata](../https://docs.groupdocs.com/display/metadatajava/Working+with+vCard+metadata)
+
+<br />
 
 This code sample demonstrates how to read metadata properties of a vCard file.
-
+>
+> ````
 > ```
-> ```
-> 
+>
 >  public static void run() {
 >      try (Metadata metadata = new Metadata(Constants.InputVcf)) {
 >          VCardRootPackage root = metadata.getRootPackageGeneric();
@@ -45,15 +48,15 @@ This code sample demonstrates how to read metadata properties of a vCard file.
 >  }
 >  
 > ```
-> ```
+> ````
 
 
-[Working with vCard metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+vCard+metadata
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getVCardPackage()](#getVCardPackage--) | Gets the VCard metadata package. |
+| [getVCardPackage()](#getVCardPackage--) | Gets the VCard metadata package.
+ |
 ### getVCardPackage() {#getVCardPackage--}
 ```
 public final VCardPackage getVCardPackage()
@@ -62,5 +65,7 @@ public final VCardPackage getVCardPackage()
 
 Gets the VCard metadata package.
 
+
 **Returns:**
 [VCardPackage](../../com.groupdocs.metadata.core/vcardpackage) - The VCard metadata package.
+

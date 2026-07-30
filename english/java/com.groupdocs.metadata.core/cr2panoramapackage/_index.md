@@ -13,24 +13,33 @@ public final class Cr2PanoramaPackage extends RawDictionaryBasePackage
 ```
 
 Represents Canon MakerNotes tags.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [Cr2PanoramaPackage()](#Cr2PanoramaPackage--) | Initializes a new instance of the  Cr2PanoramaPackage  class. |
+| [Cr2PanoramaPackage()](#Cr2PanoramaPackage--) | Initializes a new instance of the 
+Cr2PanoramaPackage
+ class.
+ |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getPanoramaFrameNumber()](#getPanoramaFrameNumber--) | Gets the PanoramaFrameNumber. |
-| [getPanoramaDirection()](#getPanoramaDirection--) | Gets the PanoramaDirection. |
+| [getPanoramaFrameNumber()](#getPanoramaFrameNumber--) | Gets the PanoramaFrameNumber.
+ |
+| [getPanoramaDirection()](#getPanoramaDirection--) | Gets the PanoramaDirection.
+ |
 ### Cr2PanoramaPackage() {#Cr2PanoramaPackage--}
 ```
 public Cr2PanoramaPackage()
 ```
 
 
-Initializes a new instance of the  Cr2PanoramaPackage  class.
+Initializes a new instance of the 
+Cr2PanoramaPackage
+ class.
+
 
 ### getPanoramaFrameNumber() {#getPanoramaFrameNumber--}
 ```
@@ -40,8 +49,10 @@ public final int getPanoramaFrameNumber()
 
 Gets the PanoramaFrameNumber.
 
+
 **Returns:**
 int - The PanoramaFrameNumber.
+
 ### getPanoramaDirection() {#getPanoramaDirection--}
 ```
 public final int getPanoramaDirection()
@@ -50,5 +61,7 @@ public final int getPanoramaDirection()
 
 Gets the PanoramaDirection.
 
+
 **Returns:**
 int - The PanoramaDirection.
+

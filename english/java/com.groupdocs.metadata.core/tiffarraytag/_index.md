@@ -14,12 +14,16 @@ public abstract class TiffArrayTag<T> extends TiffTag
 
 Represents an array-based TIFF tag.
 
- T : The type of array values.
+
+T
+: The type of array values.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getTagValue()](#getTagValue--) | Gets the tag value. |
+| [getTagValue()](#getTagValue--) | Gets the tag value.
+ |
 ### getTagValue() {#getTagValue--}
 ```
 public final T[] getTagValue()
@@ -28,5 +32,7 @@ public final T[] getTagValue()
 
 Gets the tag value.
 
+
 **Returns:**
 T[] - The tag value.
+

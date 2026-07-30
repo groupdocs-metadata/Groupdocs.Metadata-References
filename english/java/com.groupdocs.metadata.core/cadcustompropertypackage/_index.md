@@ -13,3 +13,4 @@ public class CadCustomPropertyPackage extends CustomPackage
 ```
 
 Represents a collection of custom CAD metadata properties.
+

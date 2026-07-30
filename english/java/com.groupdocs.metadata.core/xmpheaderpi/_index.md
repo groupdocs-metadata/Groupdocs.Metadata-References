@@ -16,24 +16,33 @@ public final class XmpHeaderPI implements IXmpType
 ```
 
 Represents XMP header processing instruction.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [XmpHeaderPI()](#XmpHeaderPI--) | Initializes a new instance of the  XmpHeaderPI  class. |
+| [XmpHeaderPI()](#XmpHeaderPI--) | Initializes a new instance of the 
+XmpHeaderPI
+ class.
+ |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getGuid()](#getGuid--) | Represents Header GUID. |
-| [getXmpRepresentation()](#getXmpRepresentation--) | Converts XMP value to the xml representation. |
+| [getGuid()](#getGuid--) | Represents Header GUID.
+ |
+| [getXmpRepresentation()](#getXmpRepresentation--) | Converts XMP value to the xml representation.
+ |
 ### XmpHeaderPI() {#XmpHeaderPI--}
 ```
 public XmpHeaderPI()
 ```
 
 
-Initializes a new instance of the  XmpHeaderPI  class.
+Initializes a new instance of the 
+XmpHeaderPI
+ class.
+
 
 ### getGuid() {#getGuid--}
 ```
@@ -43,12 +52,19 @@ public final String getGuid()
 
 Represents Header GUID.
 
+
 **Returns:**
 java.lang.String - The unique identifier.
 
---------------------
+<br />
+
+*** ** * ** ***
 
 The text of the header PI contains a GUID, making it unlikely to appear by accident in the data stream.
+
+<br />
+
+
 ### getXmpRepresentation() {#getXmpRepresentation--}
 ```
 public final String getXmpRepresentation()
@@ -57,5 +73,7 @@ public final String getXmpRepresentation()
 
 Converts XMP value to the xml representation.
 
+
 **Returns:**
 java.lang.String - Returns  string  representation of XMP value.
+

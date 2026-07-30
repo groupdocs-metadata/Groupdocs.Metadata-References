@@ -14,17 +14,20 @@ public final class OpenTypePackage extends CustomPackage
 
 Represents an OpenType font metadata package.
 
+
 **Learn more**
 
- *  [Working with OpenType fonts][]
+* [Working with OpenType fonts](../https://docs.groupdocs.com/display/metadatajava/Working+with+OpenType+fonts)
+
+<br />
 
 
-[Working with OpenType fonts]: https://docs.groupdocs.com/display/metadatajava/Working+with+OpenType+fonts
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getFonts()](#getFonts--) | Gets an array of the fonts extracted from the file. |
+| [getFonts()](#getFonts--) | Gets an array of the fonts extracted from the file.
+ |
 ### getFonts() {#getFonts--}
 ```
 public final OpenTypeFont[] getFonts()
@@ -33,5 +36,7 @@ public final OpenTypeFont[] getFonts()
 
 Gets an array of the fonts extracted from the file.
 
+
 **Returns:**
 com.groupdocs.metadata.core.OpenTypeFont[] - An array of the fonts extracted from the file.
+

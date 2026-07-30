@@ -13,22 +13,31 @@ public final class TiffSShortTag extends TiffArrayTag<Short>
 ```
 
 Represents a TIFF SShort tag.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [TiffSShortTag(TiffTagID tagID, short[] value)](#TiffSShortTag-com.groupdocs.metadata.core.TiffTagID-short---) | Initializes a new instance of the  TiffSShortTag  class. |
+| [TiffSShortTag(TiffTagID tagID, short[] value)](#TiffSShortTag-com.groupdocs.metadata.core.TiffTagID-short---) | Initializes a new instance of the 
+TiffSShortTag
+ class.
+ |
 ### TiffSShortTag(TiffTagID tagID, short[] value) {#TiffSShortTag-com.groupdocs.metadata.core.TiffTagID-short---}
 ```
 public TiffSShortTag(TiffTagID tagID, short[] value)
 ```
 
 
-Initializes a new instance of the  TiffSShortTag  class.
+Initializes a new instance of the 
+TiffSShortTag
+ class.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| tagID | [TiffTagID](../../com.groupdocs.metadata.core/tifftagid) | The tag identifier. |
-| value | short[] | The value. |
+| tagID | [TiffTagID](../../com.groupdocs.metadata.core/tifftagid) | The tag identifier.
+ |
+| value | short[] | The value.
+ |
 

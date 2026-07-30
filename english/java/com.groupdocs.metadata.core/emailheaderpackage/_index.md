@@ -14,17 +14,20 @@ public class EmailHeaderPackage extends CustomPackage
 
 Represents a metadata package containing email message headers.
 
+
 **Learn more**
 
- *  [Working with saved Emails][]
+* [Working with saved Emails](../https://docs.groupdocs.com/display/metadatajava/Working+with+saved+Emails)
+
+<br />
 
 
-[Working with saved Emails]: https://docs.groupdocs.com/display/metadatajava/Working+with+saved+Emails
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [get(String header)](#get-java.lang.String-) | Gets the value of the specified header. |
+| [get(String header)](#get-java.lang.String-) | Gets the value of the specified header.
+ |
 ### get(String header) {#get-java.lang.String-}
 ```
 public final String get(String header)
@@ -33,10 +36,13 @@ public final String get(String header)
 
 Gets the value of the specified header.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| header | java.lang.String | An email header. |
+| header | java.lang.String | An email header.
+ |
 
 **Returns:**
 java.lang.String - The value if the package contains the specified header; otherwise, null.
+

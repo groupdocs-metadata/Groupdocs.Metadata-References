@@ -16,17 +16,25 @@ public final class AsfDescriptorType implements IEnumValue
 ```
 
 Defines ASF descriptor types.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Unicode](#Unicode) | The unicode string type. |
-| [ByteArray](#ByteArray) | The byte array type. |
-| [Bool](#Bool) | The 32-bit bool type. |
-| [DWord](#DWord) | The 32-bit unsigned integer type. |
-| [QWord](#QWord) | The 64-bit unsigned integer type. |
-| [Word](#Word) | The 16-bit unsigned integer type. |
-| [Guid](#Guid) | The 128-bit (16 byte) GUID type. |
+| [Unicode](#Unicode) | The unicode string type.
+ |
+| [ByteArray](#ByteArray) | The byte array type.
+ |
+| [Bool](#Bool) | The 32-bit bool type.
+ |
+| [DWord](#DWord) | The 32-bit unsigned integer type.
+ |
+| [QWord](#QWord) | The 64-bit unsigned integer type.
+ |
+| [Word](#Word) | The 16-bit unsigned integer type.
+ |
+| [Guid](#Guid) | The 128-bit (16 byte) GUID type.
+ |
 ## Methods
 
 | Method | Description |
@@ -49,6 +57,7 @@ public static final AsfDescriptorType Unicode
 
 The unicode string type.
 
+
 ### ByteArray {#ByteArray}
 ```
 public static final AsfDescriptorType ByteArray
@@ -56,6 +65,7 @@ public static final AsfDescriptorType ByteArray
 
 
 The byte array type.
+
 
 ### Bool {#Bool}
 ```
@@ -65,6 +75,7 @@ public static final AsfDescriptorType Bool
 
 The 32-bit bool type.
 
+
 ### DWord {#DWord}
 ```
 public static final AsfDescriptorType DWord
@@ -72,6 +83,7 @@ public static final AsfDescriptorType DWord
 
 
 The 32-bit unsigned integer type.
+
 
 ### QWord {#QWord}
 ```
@@ -81,6 +93,7 @@ public static final AsfDescriptorType QWord
 
 The 64-bit unsigned integer type.
 
+
 ### Word {#Word}
 ```
 public static final AsfDescriptorType Word
@@ -89,6 +102,7 @@ public static final AsfDescriptorType Word
 
 The 16-bit unsigned integer type.
 
+
 ### Guid {#Guid}
 ```
 public static final AsfDescriptorType Guid
@@ -96,6 +110,7 @@ public static final AsfDescriptorType Guid
 
 
 The 128-bit (16 byte) GUID type.
+
 
 ### getByRawValue(int rawValue) {#getByRawValue-int-}
 ```
@@ -130,6 +145,7 @@ public Object[] getAllValues()
 
 Returns the array of all values defined in the class.
 
+
 **Returns:**
 java.lang.Object[]
 ### getEnumValueByRawValue(int rawValue) {#getEnumValueByRawValue-int-}
@@ -139,6 +155,7 @@ public IEnumValue getEnumValueByRawValue(int rawValue)
 
 
 Returns the enumeration value by the raw value associated with it.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -155,6 +172,7 @@ public IEnumValue getEnumValueByName(String name)
 
 Returns the enumeration value by its name.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -170,6 +188,7 @@ public RawIntegerType getRawValueType()
 
 Returns the underlying type of the raw value of this enumeration value.
 
+
 **Returns:**
 [RawIntegerType](../../com.groupdocs.metadata.core/rawintegertype)
 ### getRawValue() {#getRawValue--}
@@ -180,6 +199,7 @@ public int getRawValue()
 
 Returns the raw value of this enumeration value.
 
+
 **Returns:**
 int
 ### name() {#name--}
@@ -189,6 +209,7 @@ public String name()
 
 
 Returns the name of this enumeration value.
+
 
 **Returns:**
 java.lang.String

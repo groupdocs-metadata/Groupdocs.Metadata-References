@@ -10,6 +10,7 @@ url: /java/com.groupdocs.metadata.core/
 The **com.groupdocs.metadata.core** namespace provides main classes allowing working with metadata in all supported formats.
 
 
+
 ## Classes
 
 | Class | Description |
@@ -116,20 +117,20 @@ The **com.groupdocs.metadata.core** namespace provides main classes allowing wor
 | [ID3Tag](../com.groupdocs.metadata.core/id3tag) | Represents a base abstract class for the ID3(v1) and ID3(v2) audio tags. |
 | [ID3V1Genre](../com.groupdocs.metadata.core/id3v1genre) | Specifies genres used in an Id3v1 tag. |
 | [ID3V1Tag](../com.groupdocs.metadata.core/id3v1tag) | Represents an ID3v1 tag. |
-| [ID3V2AttachedPictureFrame](../com.groupdocs.metadata.core/id3v2attachedpictureframe) | Represents an APIC frame in an  ID3V2Tag . |
+| [ID3V2AttachedPictureFrame](../com.groupdocs.metadata.core/id3v2attachedpictureframe) | Represents an APIC frame in an ID3V2Tag. |
 | [ID3V2AttachedPictureType](../com.groupdocs.metadata.core/id3v2attachedpicturetype) | Represents the type of an attached picture. |
-| [ID3V2CommentFrame](../com.groupdocs.metadata.core/id3v2commentframe) | Represents a COMM frame in an  ID3V2Tag . |
-| [ID3V2MlltFrame](../com.groupdocs.metadata.core/id3v2mlltframe) | Represents an MLLT frame in an  ID3V2Tag . |
-| [ID3V2PlayCounterFrame](../com.groupdocs.metadata.core/id3v2playcounterframe) | Represents a PCNT frame in an  ID3V2Tag . |
-| [ID3V2PrivateFrame](../com.groupdocs.metadata.core/id3v2privateframe) | Represents a PRIV frame in an  ID3V2Tag . |
+| [ID3V2CommentFrame](../com.groupdocs.metadata.core/id3v2commentframe) | Represents a COMM frame in an ID3V2Tag. |
+| [ID3V2MlltFrame](../com.groupdocs.metadata.core/id3v2mlltframe) | Represents an MLLT frame in an ID3V2Tag. |
+| [ID3V2PlayCounterFrame](../com.groupdocs.metadata.core/id3v2playcounterframe) | Represents a PCNT frame in an ID3V2Tag. |
+| [ID3V2PrivateFrame](../com.groupdocs.metadata.core/id3v2privateframe) | Represents a PRIV frame in an ID3V2Tag. |
 | [ID3V2Tag](../com.groupdocs.metadata.core/id3v2tag) | Represents an ID3v2 tag. |
-| [ID3V2TagFrame](../com.groupdocs.metadata.core/id3v2tagframe) | Represents a generic frame in an  ID3V2Tag . |
+| [ID3V2TagFrame](../com.groupdocs.metadata.core/id3v2tagframe) | Represents a generic frame in an ID3V2Tag. |
 | [ID3V2TagFrameFlags](../com.groupdocs.metadata.core/id3v2tagframeflags) | Represents flags used in a ID3v2 tag frame. |
-| [ID3V2TextFrame](../com.groupdocs.metadata.core/id3v2textframe) | Represents a text frame in an  ID3V2Tag . |
-| [ID3V2UrlLinkFrame](../com.groupdocs.metadata.core/id3v2urllinkframe) | Represents a URL link frame in an  ID3V2Tag . |
-| [ID3V2UserDefinedFrame](../com.groupdocs.metadata.core/id3v2userdefinedframe) | Represents a TXXX frame in an  ID3V2Tag . |
-| [ID3V2UserDefinedUrlLinkFrame](../com.groupdocs.metadata.core/id3v2userdefinedurllinkframe) | Represents a WXXX frame in an  ID3V2Tag . |
-| [ImageResourceBlock](../com.groupdocs.metadata.core/imageresourceblock) |  |
+| [ID3V2TextFrame](../com.groupdocs.metadata.core/id3v2textframe) | Represents a text frame in an ID3V2Tag. |
+| [ID3V2UrlLinkFrame](../com.groupdocs.metadata.core/id3v2urllinkframe) | Represents a URL link frame in an ID3V2Tag. |
+| [ID3V2UserDefinedFrame](../com.groupdocs.metadata.core/id3v2userdefinedframe) | Represents a TXXX frame in an ID3V2Tag. |
+| [ID3V2UserDefinedUrlLinkFrame](../com.groupdocs.metadata.core/id3v2userdefinedurllinkframe) | Represents a WXXX frame in an ID3V2Tag. |
+| [ImageResourceBlock](../com.groupdocs.metadata.core/imageresourceblock) | <br /> |
 | [ImageResourceID](../com.groupdocs.metadata.core/imageresourceid) | Image resources standard ID numbers. |
 | [ImageResourcePackage](../com.groupdocs.metadata.core/imageresourcepackage) | Represents a metadata package containing Photoshop Image Resources. |
 | [ImageRootPackage](../com.groupdocs.metadata.core/imagerootpackage) | Provides a base abstract class for all image root packages. |
@@ -146,7 +147,7 @@ The **com.groupdocs.metadata.core** namespace provides main classes allowing wor
 | [Jpeg2000Package](../com.groupdocs.metadata.core/jpeg2000package) | Represents native JPEG2000 metadata. |
 | [Jpeg2000RootPackage](../com.groupdocs.metadata.core/jpeg2000rootpackage) | Represents the root package intended to work with metadata in a JPEG2000 image. |
 | [JpegRootPackage](../com.groupdocs.metadata.core/jpegrootpackage) | Represents the root package allowing working with metadata in a JPEG image. |
-| [LyricsField](../com.groupdocs.metadata.core/lyricsfield) | Represents a  LyricsTag  field. |
+| [LyricsField](../com.groupdocs.metadata.core/lyricsfield) | Represents a LyricsTag field. |
 | [LyricsTag](../com.groupdocs.metadata.core/lyricstag) | Represents Lyrics3 v2.00 metadata. |
 | [MP3RootPackage](../com.groupdocs.metadata.core/mp3rootpackage) | Represents the root package allowing working with metadata in an MP3 audio. |
 | [MakerNotePackage](../com.groupdocs.metadata.core/makernotepackage) | Provides an abstract base class for MakerNote metadata packages. |
@@ -180,12 +181,12 @@ The **com.groupdocs.metadata.core** namespace provides main classes allowing wor
 | [OpenTypeFlags](../com.groupdocs.metadata.core/opentypeflags) | Represents OpenType font header flags. |
 | [OpenTypeFont](../com.groupdocs.metadata.core/opentypefont) | Represents a single font extracted from a file. |
 | [OpenTypeLicensingRights](../com.groupdocs.metadata.core/opentypelicensingrights) | Indicates font embedding licensing rights for the font. |
-| [OpenTypeMacintoshNameRecord](../com.groupdocs.metadata.core/opentypemacintoshnamerecord) | Represents the Name record table value for the  OpenTypePlatform.Macintosh  platform. |
+| [OpenTypeMacintoshNameRecord](../com.groupdocs.metadata.core/opentypemacintoshnamerecord) | Represents the Name record table value for the OpenTypePlatform.Macintosh platform. |
 | [OpenTypePackage](../com.groupdocs.metadata.core/opentypepackage) | Represents an OpenType font metadata package. |
 | [OpenTypeRootPackage](../com.groupdocs.metadata.core/opentyperootpackage) | Represents the root package allowing working with metadata in an OpenType font file. |
 | [OpenTypeStyles](../com.groupdocs.metadata.core/opentypestyles) | Represents the OpenType font style. |
-| [OpenTypeUnicodeNameRecord](../com.groupdocs.metadata.core/opentypeunicodenamerecord) | Represents the Name record table value for the  OpenTypePlatform.Unicode  platform. |
-| [OpenTypeWindowsNameRecord](../com.groupdocs.metadata.core/opentypewindowsnamerecord) | Represents the Name record table value for  OpenTypePlatform.Windows  platform. |
+| [OpenTypeUnicodeNameRecord](../com.groupdocs.metadata.core/opentypeunicodenamerecord) | Represents the Name record table value for the OpenTypePlatform.Unicode platform. |
+| [OpenTypeWindowsNameRecord](../com.groupdocs.metadata.core/opentypewindowsnamerecord) | Represents the Name record table value for OpenTypePlatform.Windows platform. |
 | [PageInfo](../com.groupdocs.metadata.core/pageinfo) | Provides common information about a document page (slide, worksheet, etc). |
 | [PanasonicMakerNotePackage](../com.groupdocs.metadata.core/panasonicmakernotepackage) | Represents PANASONIC MakerNote metadata. |
 | [PdfAnnotation](../com.groupdocs.metadata.core/pdfannotation) | Represents an annotation in a PDF document. |
@@ -287,7 +288,7 @@ The **com.groupdocs.metadata.core** namespace provides main classes allowing wor
 | [VCardRootPackage](../com.groupdocs.metadata.core/vcardrootpackage) | Represents the root package allowing working with metadata in a VCard file. |
 | [VCardSecurityRecordset](../com.groupdocs.metadata.core/vcardsecurityrecordset) | Represents a set of Security vCard records. |
 | [VCardTextRecord](../com.groupdocs.metadata.core/vcardtextrecord) | Represents vCard text record metadata class. |
-| [ValueAcceptor](../com.groupdocs.metadata.core/valueacceptor) | Provides a base abstract class that allows extracting all supported types of values from a  PropertyValue  instance. |
+| [ValueAcceptor](../com.groupdocs.metadata.core/valueacceptor) | Provides a base abstract class that allows extracting all supported types of values from a PropertyValue instance. |
 | [ValueInterpreter](../com.groupdocs.metadata.core/valueinterpreter) | Defines operations required to interpret metadata property values. |
 | [WavPackage](../com.groupdocs.metadata.core/wavpackage) | Represents a native metadata package in a WAV audio file. |
 | [WavRootPackage](../com.groupdocs.metadata.core/wavrootpackage) | Represents the root package allowing working with metadata in a WAV audio. |
@@ -302,7 +303,7 @@ The **com.groupdocs.metadata.core** namespace provides main classes allowing wor
 | [WordProcessingTypePackage](../com.groupdocs.metadata.core/wordprocessingtypepackage) | Represents a metadata package containing document-specific file format information. |
 | [XmpArray](../com.groupdocs.metadata.core/xmparray) | Represents base abstraction for XMP array. |
 | [XmpAudioChannelType](../com.groupdocs.metadata.core/xmpaudiochanneltype) | Represents audio channel type. |
-| [XmpAudioSampleType](../com.groupdocs.metadata.core/xmpaudiosampletype) | Represents Audio sample type in  XmpDynamicMediaPackage . |
+| [XmpAudioSampleType](../com.groupdocs.metadata.core/xmpaudiosampletype) | Represents Audio sample type in XmpDynamicMediaPackage. |
 | [XmpBasicJobTicketPackage](../com.groupdocs.metadata.core/xmpbasicjobticketpackage) | Represents Basic Job-Ticket namespace. |
 | [XmpBasicPackage](../com.groupdocs.metadata.core/xmpbasicpackage) | Represents the XMP basic namespace. |
 | [XmpBoolean](../com.groupdocs.metadata.core/xmpboolean) | Represents XMP Boolean basic type. |
@@ -328,11 +329,11 @@ The **com.groupdocs.metadata.core** namespace provides main classes allowing wor
 | [XmpIptcExtensionPackage](../com.groupdocs.metadata.core/xmpiptcextensionpackage) | Represents the IPTC Extension XMP package. |
 | [XmpIptcIimPackage](../com.groupdocs.metadata.core/xmpiptciimpackage) | Represents the IPTC-IIM XMP package. |
 | [XmpJob](../com.groupdocs.metadata.core/xmpjob) | Represents Job. |
-| [XmpLangAlt](../com.groupdocs.metadata.core/xmplangalt) |  |
+| [XmpLangAlt](../com.groupdocs.metadata.core/xmplangalt) | <br /> |
 | [XmpMediaManagementPackage](../com.groupdocs.metadata.core/xmpmediamanagementpackage) | Represents the XMP Media Management namespace. |
 | [XmpMeta](../com.groupdocs.metadata.core/xmpmeta) | Represents xmpmeta. |
 | [XmpMetadataContainer](../com.groupdocs.metadata.core/xmpmetadatacontainer) | Represents a container for XMP metadata properties. |
-| [XmpNamespaces](../com.groupdocs.metadata.core/xmpnamespaces) | Contains namespaces used in  XmpPackage  and  XmpComplexType . |
+| [XmpNamespaces](../com.groupdocs.metadata.core/xmpnamespaces) | Contains namespaces used in XmpPackage and XmpComplexType. |
 | [XmpPackage](../com.groupdocs.metadata.core/xmppackage) | Represents base abstraction for XMP package. |
 | [XmpPacketWrapper](../com.groupdocs.metadata.core/xmppacketwrapper) | Contains serialized XMP package including header and trailer. |
 | [XmpPagedTextPackage](../com.groupdocs.metadata.core/xmppagedtextpackage) | Represents the XMP Paged-Text package. |
@@ -342,18 +343,18 @@ The **com.groupdocs.metadata.core** namespace provides main classes allowing wor
 | [XmpReal](../com.groupdocs.metadata.core/xmpreal) | Represents XMP Real. |
 | [XmpRenditionClass](../com.groupdocs.metadata.core/xmprenditionclass) | Represents XMP RenditionClass. |
 | [XmpResourceEvent](../com.groupdocs.metadata.core/xmpresourceevent) | Represents a high-level event that occurred in the processing of a resource. |
-| [XmpResourceRef](../com.groupdocs.metadata.core/xmpresourceref) |  |
+| [XmpResourceRef](../com.groupdocs.metadata.core/xmpresourceref) | <br /> |
 | [XmpRightsManagementPackage](../com.groupdocs.metadata.core/xmprightsmanagementpackage) | Represents XMP Rights Management namespace. |
 | [XmpSchemes](../com.groupdocs.metadata.core/xmpschemes) | Provides access to known XMP schemes. |
 | [XmpText](../com.groupdocs.metadata.core/xmptext) | Represents XMP Text basic type. |
 | [XmpThumbnail](../com.groupdocs.metadata.core/xmpthumbnail) | Represents a thumbnail image for a file. |
 | [XmpTime](../com.groupdocs.metadata.core/xmptime) | Representation of a time value in seconds. |
-| [XmpTimeFormat](../com.groupdocs.metadata.core/xmptimeformat) | Represents time format in  XmpTimecode . |
+| [XmpTimeFormat](../com.groupdocs.metadata.core/xmptimeformat) | Represents time format in XmpTimecode. |
 | [XmpTimecode](../com.groupdocs.metadata.core/xmptimecode) | Represents a timecode value in a video. |
 | [XmpTrailerPI](../com.groupdocs.metadata.core/xmptrailerpi) | Represents XMP trailer processing instruction. |
 | [XmpValueBase](../com.groupdocs.metadata.core/xmpvaluebase) | Represents base XMP value. |
 | [XmpVersion](../com.groupdocs.metadata.core/xmpversion) | Represents a version of a document. |
-| [XmpWhiteBalance](../com.groupdocs.metadata.core/xmpwhitebalance) | Represents the White Balance setting in  XmpCameraRawPackage . |
+| [XmpWhiteBalance](../com.groupdocs.metadata.core/xmpwhitebalance) | Represents the White Balance setting in XmpCameraRawPackage. |
 | [ZipFile](../com.groupdocs.metadata.core/zipfile) | Represents metadata associated with an archived file or directory. |
 | [ZipPackage](../com.groupdocs.metadata.core/zippackage) | Represents ZIP archive metadata. |
 | [ZipRootPackage](../com.groupdocs.metadata.core/ziprootpackage) | Represents the root package allowing working with metadata in a ZIP archive. |
@@ -390,7 +391,7 @@ The **com.groupdocs.metadata.core** namespace provides main classes allowing wor
 | [MatroskaTrackType](../com.groupdocs.metadata.core/matroskatracktype) | Represents Matroska track types coded in 8 bits. |
 | [MatroskaVideoDisplayUnit](../com.groupdocs.metadata.core/matroskavideodisplayunit) | Defines how Matroska DisplayWidth and DisplayHeight are interpreted. |
 | [MatroskaVideoFieldOrder](../com.groupdocs.metadata.core/matroskavideofieldorder) | Represents the field ordering of the Matroska video. |
-| [MatroskaVideoFlagInterlaced](../com.groupdocs.metadata.core/matroskavideoflaginterlaced) | Represents a flag to declare if the Matroska video is known to be progressive or interlaced and if applicable to declare details about the interlacement. |
+| [MatroskaVideoFlagInterlaced](../com.groupdocs.metadata.core/matroskavideoflaginterlaced) | Represents a flag to declare if the Matroska video is known to be progressive or interlacedand if applicable to declare details about the interlacement. |
 | [MatroskaVideoStereoMode](../com.groupdocs.metadata.core/matroskavideostereomode) | Represents Matroska Stereo-3D video modes. |
 | [MetadataPropertyType](../com.groupdocs.metadata.core/metadatapropertytype) | Defines metadata property types. |
 | [MetadataType](../com.groupdocs.metadata.core/metadatatype) | Specifies the type of a metadata package. |
@@ -399,17 +400,17 @@ The **com.groupdocs.metadata.core** namespace provides main classes allowing wor
 | [MpegEmphasis](../com.groupdocs.metadata.core/mpegemphasis) | Defines MPEG emphasis types. |
 | [OpenTypeDigitalSignatureFlags](../com.groupdocs.metadata.core/opentypedigitalsignatureflags) | Represents OpenType font digital signature flags. |
 | [OpenTypeDirectionHint](../com.groupdocs.metadata.core/opentypedirectionhint) | Represents the OpenType font direction. |
-| [OpenTypeIsoEncoding](../com.groupdocs.metadata.core/opentypeisoencoding) | Represents encoding for the  OpenTypePlatform.Iso  platform. |
-| [OpenTypeMacintoshEncoding](../com.groupdocs.metadata.core/opentypemacintoshencoding) | Represents encoding for the  OpenTypePlatform.Macintosh  platform. |
-| [OpenTypeMacintoshLanguage](../com.groupdocs.metadata.core/opentypemacintoshlanguage) | Represents language enum for the  OpenTypePlatform.Macintosh  platform. |
+| [OpenTypeIsoEncoding](../com.groupdocs.metadata.core/opentypeisoencoding) | Represents encoding for the OpenTypePlatform.Iso platform. |
+| [OpenTypeMacintoshEncoding](../com.groupdocs.metadata.core/opentypemacintoshencoding) | Represents encoding for the OpenTypePlatform.Macintosh platform. |
+| [OpenTypeMacintoshLanguage](../com.groupdocs.metadata.core/opentypemacintoshlanguage) | Represents language enum for the OpenTypePlatform.Macintosh platform. |
 | [OpenTypeName](../com.groupdocs.metadata.core/opentypename) | Defines pre-defined IDs, they apply to all platforms unless indicated otherwise. |
 | [OpenTypePlatform](../com.groupdocs.metadata.core/opentypeplatform) | Represents OpenType platform for Name table. |
-| [OpenTypeUnicodeEncoding](../com.groupdocs.metadata.core/opentypeunicodeencoding) | Represents encoding for  OpenTypePlatform.Unicode  platform. |
+| [OpenTypeUnicodeEncoding](../com.groupdocs.metadata.core/opentypeunicodeencoding) | Represents encoding for OpenTypePlatform.Unicode platform. |
 | [OpenTypeVersion](../com.groupdocs.metadata.core/opentypeversion) | Represents the OpenType version. |
 | [OpenTypeWeight](../com.groupdocs.metadata.core/opentypeweight) | Represents the OpenType font weight. |
 | [OpenTypeWidth](../com.groupdocs.metadata.core/opentypewidth) | Represents the OpenType font width. |
-| [OpenTypeWindowsEncoding](../com.groupdocs.metadata.core/opentypewindowsencoding) | Represents encoding for the  OpenTypePlatform.Windows  platform. |
-| [OpenTypeWindowsLanguage](../com.groupdocs.metadata.core/opentypewindowslanguage) | Represents language for  OpenTypePlatform.Windows  platform. |
+| [OpenTypeWindowsEncoding](../com.groupdocs.metadata.core/opentypewindowsencoding) | Represents encoding for the OpenTypePlatform.Windows platform. |
+| [OpenTypeWindowsLanguage](../com.groupdocs.metadata.core/opentypewindowslanguage) | Represents language for OpenTypePlatform.Windows platform. |
 | [PngCompressionMethod](../com.groupdocs.metadata.core/pngcompressionmethod) | Defines compression methods used in the PNG format. |
 | [PresentationFormat](../com.groupdocs.metadata.core/presentationformat) | Defines various presentation subformats. |
 | [PsdColorMode](../com.groupdocs.metadata.core/psdcolormode) | Represents the psd file format color mode. |
@@ -420,9 +421,9 @@ The **com.groupdocs.metadata.core** namespace provides main classes allowing wor
 | [VCardContentType](../com.groupdocs.metadata.core/vcardcontenttype) | Defines vCard record content types. |
 | [WordProcessingFormat](../com.groupdocs.metadata.core/wordprocessingformat) | Defines various word processing document subformats. |
 | [WordProcessingRevisionType](../com.groupdocs.metadata.core/wordprocessingrevisiontype) | Specifies the type of the change being tracked by a revision. |
-| [XmpArrayType](../com.groupdocs.metadata.core/xmparraytype) | Represents array type in  XmpArray . |
-| [XmpColorType](../com.groupdocs.metadata.core/xmpcolortype) | Type of color in  XmpColorantBase . |
-| [XmpColorantColorMode](../com.groupdocs.metadata.core/xmpcolorantcolormode) | Represents color mode in  XmpColorantBase . |
-| [XmpCropUnit](../com.groupdocs.metadata.core/xmpcropunit) | Represent a unit for CropWidth and CropHeight in  XmpCameraRawPackage . |
-| [XmpPhotoshopColorMode](../com.groupdocs.metadata.core/xmpphotoshopcolormode) | Represents a color mode in  XmpPhotoshopPackage . |
+| [XmpArrayType](../com.groupdocs.metadata.core/xmparraytype) | Represents array type in XmpArray. |
+| [XmpColorType](../com.groupdocs.metadata.core/xmpcolortype) | Type of color in XmpColorantBase. |
+| [XmpColorantColorMode](../com.groupdocs.metadata.core/xmpcolorantcolormode) | Represents color mode in XmpColorantBase. |
+| [XmpCropUnit](../com.groupdocs.metadata.core/xmpcropunit) | Represent a unit for CropWidth and CropHeight in XmpCameraRawPackage. |
+| [XmpPhotoshopColorMode](../com.groupdocs.metadata.core/xmpphotoshopcolormode) | Represents a color mode in XmpPhotoshopPackage. |
 | [ZipCompressionMethod](../com.groupdocs.metadata.core/zipcompressionmethod) | Defines ZIP compression methods. |

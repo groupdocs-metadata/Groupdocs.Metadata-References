@@ -10,6 +10,7 @@ url: /java/com.groupdocs.metadata.licensing/
 The **com.groupdocs.metadata.licensing** namespace provides classes for licensing the Metadata library.
 
 
+
 ## Classes
 
 | Class | Description |

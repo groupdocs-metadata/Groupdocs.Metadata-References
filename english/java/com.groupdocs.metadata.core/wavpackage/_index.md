@@ -15,10 +15,10 @@ public final class WavPackage extends CustomPackage
 Represents a native metadata package in a WAV audio file.
 
 This code sample shows how to extract technical audio information from a WAV file.
-
+>
+> ````
 > ```
-> ```
-> 
+>
 >  try (Metadata metadata = new Metadata(Constants.InputWav)) {
 >      WavRootPackage root = metadata.getRootPackageGeneric();
 >      if (root.getWavPackage() != null) {
@@ -32,29 +32,43 @@ This code sample shows how to extract technical audio information from a WAV fil
 >  }
 >  
 > ```
-> ```
+> ````
+
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [WavPackage()](#WavPackage--) | Initializes a new instance of the  WavPackage  class. |
+| [WavPackage()](#WavPackage--) | Initializes a new instance of the 
+WavPackage
+ class.
+ |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getAudioFormat()](#getAudioFormat--) | Gets the audio format. |
-| [getNumberOfChannels()](#getNumberOfChannels--) | Gets the number of channels. |
-| [getSampleRate()](#getSampleRate--) | Gets the sample rate. |
-| [getByteRate()](#getByteRate--) | Gets the byte rate. |
-| [getBlockAlign()](#getBlockAlign--) | Gets the block align. |
-| [getBitsPerSample()](#getBitsPerSample--) | Gets the bits per sample value. |
+| [getAudioFormat()](#getAudioFormat--) | Gets the audio format.
+ |
+| [getNumberOfChannels()](#getNumberOfChannels--) | Gets the number of channels.
+ |
+| [getSampleRate()](#getSampleRate--) | Gets the sample rate.
+ |
+| [getByteRate()](#getByteRate--) | Gets the byte rate.
+ |
+| [getBlockAlign()](#getBlockAlign--) | Gets the block align.
+ |
+| [getBitsPerSample()](#getBitsPerSample--) | Gets the bits per sample value.
+ |
 ### WavPackage() {#WavPackage--}
 ```
 public WavPackage()
 ```
 
 
-Initializes a new instance of the  WavPackage  class.
+Initializes a new instance of the 
+WavPackage
+ class.
+
 
 ### getAudioFormat() {#getAudioFormat--}
 ```
@@ -62,10 +76,13 @@ public final int getAudioFormat()
 ```
 
 
-Gets the audio format. PCM = 1 (i.e. Linear quantization). Values other than 1 indicate some form of compression.
+Gets the audio format.
+PCM = 1 (i.e. Linear quantization). Values other than 1 indicate some form of compression.
+
 
 **Returns:**
 int - The audio format.
+
 ### getNumberOfChannels() {#getNumberOfChannels--}
 ```
 public final int getNumberOfChannels()
@@ -74,8 +91,10 @@ public final int getNumberOfChannels()
 
 Gets the number of channels.
 
+
 **Returns:**
 int - The number of channels.
+
 ### getSampleRate() {#getSampleRate--}
 ```
 public final int getSampleRate()
@@ -84,8 +103,10 @@ public final int getSampleRate()
 
 Gets the sample rate.
 
+
 **Returns:**
 int - The sample rate.
+
 ### getByteRate() {#getByteRate--}
 ```
 public final int getByteRate()
@@ -94,8 +115,10 @@ public final int getByteRate()
 
 Gets the byte rate.
 
+
 **Returns:**
 int - The byte rate.
+
 ### getBlockAlign() {#getBlockAlign--}
 ```
 public final int getBlockAlign()
@@ -104,8 +127,10 @@ public final int getBlockAlign()
 
 Gets the block align.
 
+
 **Returns:**
 int - The block align.
+
 ### getBitsPerSample() {#getBitsPerSample--}
 ```
 public final int getBitsPerSample()
@@ -114,5 +139,7 @@ public final int getBitsPerSample()
 
 Gets the bits per sample value.
 
+
 **Returns:**
 int - The bits per sample value.
+

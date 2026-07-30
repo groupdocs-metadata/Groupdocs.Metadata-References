@@ -16,18 +16,27 @@ public enum MatroskaTrackType extends Enum<MatroskaTrackType> implements IEnumVa
 ```
 
 Represents Matroska track types coded in 8 bits.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Undefined](#Undefined) | The undefined track type. |
-| [Video](#Video) | Track is a video track. |
-| [Audio](#Audio) | Track is an audio track. |
-| [Complex](#Complex) | Track is a complex track, i.e. |
-| [Logo](#Logo) | Track is a logo track. |
-| [Subtitle](#Subtitle) | Track is a subtitle track. |
-| [Button](#Button) | Track is a button track. |
-| [Control](#Control) | Track is a control track. |
+| [Undefined](#Undefined) | The undefined track type.
+ |
+| [Video](#Video) | Track is a video track.
+ |
+| [Audio](#Audio) | Track is an audio track.
+ |
+| [Complex](#Complex) | Track is a complex track, i.e.
+ |
+| [Logo](#Logo) | Track is a logo track.
+ |
+| [Subtitle](#Subtitle) | Track is a subtitle track.
+ |
+| [Button](#Button) | Track is a button track.
+ |
+| [Control](#Control) | Track is a control track.
+ |
 ## Methods
 
 | Method | Description |
@@ -49,6 +58,7 @@ public static final MatroskaTrackType Undefined
 
 The undefined track type.
 
+
 ### Video {#Video}
 ```
 public static final MatroskaTrackType Video
@@ -56,6 +66,7 @@ public static final MatroskaTrackType Video
 
 
 Track is a video track.
+
 
 ### Audio {#Audio}
 ```
@@ -65,6 +76,7 @@ public static final MatroskaTrackType Audio
 
 Track is an audio track.
 
+
 ### Complex {#Complex}
 ```
 public static final MatroskaTrackType Complex
@@ -72,6 +84,7 @@ public static final MatroskaTrackType Complex
 
 
 Track is a complex track, i.e. a combined video and audio track.
+
 
 ### Logo {#Logo}
 ```
@@ -81,6 +94,7 @@ public static final MatroskaTrackType Logo
 
 Track is a logo track.
 
+
 ### Subtitle {#Subtitle}
 ```
 public static final MatroskaTrackType Subtitle
@@ -88,6 +102,7 @@ public static final MatroskaTrackType Subtitle
 
 
 Track is a subtitle track.
+
 
 ### Button {#Button}
 ```
@@ -97,6 +112,7 @@ public static final MatroskaTrackType Button
 
 Track is a button track.
 
+
 ### Control {#Control}
 ```
 public static final MatroskaTrackType Control
@@ -104,6 +120,7 @@ public static final MatroskaTrackType Control
 
 
 Track is a control track.
+
 
 ### values() {#values--}
 ```
@@ -163,6 +180,7 @@ public Object[] getAllValues()
 
 Returns the array of all values defined in the class.
 
+
 **Returns:**
 java.lang.Object[]
 ### getEnumValueByRawValue(int rawValue) {#getEnumValueByRawValue-int-}
@@ -172,6 +190,7 @@ public IEnumValue getEnumValueByRawValue(int rawValue)
 
 
 Returns the enumeration value by the raw value associated with it.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -188,6 +207,7 @@ public IEnumValue getEnumValueByName(String name)
 
 Returns the enumeration value by its name.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -203,6 +223,7 @@ public RawIntegerType getRawValueType()
 
 Returns the underlying type of the raw value of this enumeration value.
 
+
 **Returns:**
 [RawIntegerType](../../com.groupdocs.metadata.core/rawintegertype)
 ### getRawValue() {#getRawValue--}
@@ -212,6 +233,7 @@ public int getRawValue()
 
 
 Returns the raw value of this enumeration value.
+
 
 **Returns:**
 int

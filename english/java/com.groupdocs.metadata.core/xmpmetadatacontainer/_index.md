@@ -16,11 +16,13 @@ public abstract class XmpMetadataContainer extends CustomPackage implements IXmp
 ```
 
 Represents a container for XMP metadata properties.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getXmpRepresentation()](#getXmpRepresentation--) | Converts the XMP value to the XML representation. |
+| [getXmpRepresentation()](#getXmpRepresentation--) | Converts the XMP value to the XML representation.
+ |
 ### getXmpRepresentation() {#getXmpRepresentation--}
 ```
 public abstract String getXmpRepresentation()
@@ -29,5 +31,7 @@ public abstract String getXmpRepresentation()
 
 Converts the XMP value to the XML representation.
 
+
 **Returns:**
 java.lang.String - A  string  representation of the XMP value.
+

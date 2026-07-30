@@ -14,18 +14,22 @@ public class WordProcessingField extends CustomPackage
 
 Represents a field in a word processing document.
 
+
 **Learn more**
 
- *  [Working with metadata in WordProcessing documents][]
+* [Working with metadata in WordProcessing documents](../https://docs.groupdocs.com/display/metadatajava/Working+with+metadata+in+Word+Processing+documents)
+
+<br />
 
 
-[Working with metadata in WordProcessing documents]: https://docs.groupdocs.com/display/metadatajava/Working+with+metadata+in+Word+Processing+documents
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getCode()](#getCode--) | Gets the field code. |
-| [getResult()](#getResult--) | Gets the field result. |
+| [getCode()](#getCode--) | Gets the field code.
+ |
+| [getResult()](#getResult--) | Gets the field result.
+ |
 ### getCode() {#getCode--}
 ```
 public final String getCode()
@@ -34,8 +38,10 @@ public final String getCode()
 
 Gets the field code.
 
+
 **Returns:**
 java.lang.String - The field code.
+
 ### getResult() {#getResult--}
 ```
 public final String getResult()
@@ -44,5 +50,7 @@ public final String getResult()
 
 Gets the field result.
 
+
 **Returns:**
 java.lang.String - The field result.
+

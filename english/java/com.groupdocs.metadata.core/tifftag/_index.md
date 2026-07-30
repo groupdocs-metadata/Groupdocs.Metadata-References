@@ -13,12 +13,15 @@ public abstract class TiffTag extends MetadataProperty
 ```
 
 Represents a TIFF tag.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getTagType()](#getTagType--) | Gets the type of the tag. |
-| [getTagID()](#getTagID--) | Gets the tag id. |
+| [getTagType()](#getTagType--) | Gets the type of the tag.
+ |
+| [getTagID()](#getTagID--) | Gets the tag id.
+ |
 ### getTagType() {#getTagType--}
 ```
 public final TiffTagType getTagType()
@@ -27,8 +30,10 @@ public final TiffTagType getTagType()
 
 Gets the type of the tag.
 
+
 **Returns:**
 [TiffTagType](../../com.groupdocs.metadata.core/tifftagtype) - The tag type.
+
 ### getTagID() {#getTagID--}
 ```
 public final TiffTagID getTagID()
@@ -37,5 +42,7 @@ public final TiffTagID getTagID()
 
 Gets the tag id.
 
+
 **Returns:**
 [TiffTagID](../../com.groupdocs.metadata.core/tifftagid) - The tag id.
+

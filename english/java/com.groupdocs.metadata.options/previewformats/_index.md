@@ -13,13 +13,17 @@ public enum PreviewFormats extends Enum<PreviewFormats>
 ```
 
 Represents supported preview formats.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [PNG](#PNG) | Portable Network Graphics Format. |
-| [JPEG](#JPEG) | Joint Photographic Experts Group Format. |
-| [BMP](#BMP) | Bitmap Picture Format. |
+| [PNG](#PNG) | Portable Network Graphics Format.
+ |
+| [JPEG](#JPEG) | Joint Photographic Experts Group Format.
+ |
+| [BMP](#BMP) | Bitmap Picture Format.
+ |
 ## Methods
 
 | Method | Description |
@@ -34,6 +38,7 @@ public static final PreviewFormats PNG
 
 Portable Network Graphics Format.
 
+
 ### JPEG {#JPEG}
 ```
 public static final PreviewFormats JPEG
@@ -42,6 +47,7 @@ public static final PreviewFormats JPEG
 
 Joint Photographic Experts Group Format.
 
+
 ### BMP {#BMP}
 ```
 public static final PreviewFormats BMP
@@ -49,6 +55,7 @@ public static final PreviewFormats BMP
 
 
 Bitmap Picture Format.
+
 
 ### values() {#values--}
 ```

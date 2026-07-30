@@ -12,38 +12,66 @@ java.lang.Object, [com.groupdocs.metadata.core.MetadataPackage](../../com.groupd
 public class VCardExplanatoryRecordset extends VCardRecordset
 ```
 
-Represents a set of Explanatory vCard records. These properties are concerned with additional explanations, such as that related to informational notes or revisions specific to the vCard.
+Represents a set of Explanatory vCard records.
+These properties are concerned with additional explanations,
+such as that related to informational notes or revisions specific to the vCard.
+
 
 **Learn more**
 
- *  [Working with vCard metadata][]
+* [Working with vCard metadata](../https://docs.groupdocs.com/display/metadatajava/Working+with+vCard+metadata)
+
+<br />
 
 
-[Working with vCard metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+vCard+metadata
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getCategoryRecords()](#getCategoryRecords--) | Gets the application category information about the vCard, also known as "tags". |
-| [getCategories()](#getCategories--) | Gets the application category information about the vCard, also known as "tags". |
-| [getNoteRecords()](#getNoteRecords--) | Gets the supplemental information or comments that are associated with the vCard. |
-| [getNotes()](#getNotes--) | Gets the supplemental information or comments that are associated with the vCard. |
-| [getProductIdentifierRecord()](#getProductIdentifierRecord--) | Gets the identifier of the product that created the vCard object. |
-| [getProductIdentifier()](#getProductIdentifier--) | Gets the identifier of the product that created the vCard object. |
-| [getRevision()](#getRevision--) | Gets the revision information about the current vCard. |
-| [getSortString()](#getSortString--) | Gets the family name or given name text to be used for national-language-specific sorting of the  VCardIdentificationRecordset.FormattedNames  and  VCardIdentificationRecordset.Name  types. |
-| [getSoundRecords()](#getSoundRecords--) | Gets the digital sound content information that annotates some aspects of the vCard. |
-| [getSoundBinaryRecords()](#getSoundBinaryRecords--) | Gets the digital sound content information that annotates some aspects of the vCard. |
-| [getBinarySounds()](#getBinarySounds--) | Gets the digital sound content information that annotates some aspects of the vCard. |
-| [getSoundUriRecords()](#getSoundUriRecords--) | Gets the digital sound content information that annotates some aspects of the vCard. |
-| [getUriSounds()](#getUriSounds--) | Gets the digital sound content information that annotates some aspects of the vCard. |
-| [getUidRecord()](#getUidRecord--) | Gets the value that represents a globally unique identifier corresponding to the individual or resource associated with the vCard. |
-| [getUid()](#getUid--) | Gets the value that represents a globally unique identifier corresponding to the individual or resource associated with the vCard. |
-| [getPidIdentifierRecords()](#getPidIdentifierRecords--) | Gets the global meaning of the local PID source identifier. |
-| [getPidIdentifiers()](#getPidIdentifiers--) | Gets the global meaning of the local PID source identifier. |
-| [getUrlRecords()](#getUrlRecords--) | Gets an array of URLs pointing to websites that represent the person in some way. |
-| [getUrls()](#getUrls--) | Gets an array of URLs pointing to websites that represent the person in some way. |
-| [getVersion()](#getVersion--) | Gets the version of the vCard specification. |
+| [getCategoryRecords()](#getCategoryRecords--) | Gets the application category information about the vCard, also known as "tags".
+ |
+| [getCategories()](#getCategories--) | Gets the application category information about the vCard, also known as "tags".
+ |
+| [getNoteRecords()](#getNoteRecords--) | Gets the supplemental information or comments that are associated with the vCard.
+ |
+| [getNotes()](#getNotes--) | Gets the supplemental information or comments that are associated with the vCard.
+ |
+| [getProductIdentifierRecord()](#getProductIdentifierRecord--) | Gets the identifier of the product that created the vCard object.
+ |
+| [getProductIdentifier()](#getProductIdentifier--) | Gets the identifier of the product that created the vCard object.
+ |
+| [getRevision()](#getRevision--) | Gets the revision information about the current vCard.
+ |
+| [getSortString()](#getSortString--) | Gets the family name or given name text to be used for national-language-specific sorting of the 
+VCardIdentificationRecordset.FormattedNames
+ and 
+VCardIdentificationRecordset.Name
+ types.
+ |
+| [getSoundRecords()](#getSoundRecords--) | Gets the digital sound content information that annotates some aspects of the vCard.
+ |
+| [getSoundBinaryRecords()](#getSoundBinaryRecords--) | Gets the digital sound content information that annotates some aspects of the vCard.
+ |
+| [getBinarySounds()](#getBinarySounds--) | Gets the digital sound content information that annotates some aspects of the vCard.
+ |
+| [getSoundUriRecords()](#getSoundUriRecords--) | Gets the digital sound content information that annotates some aspects of the vCard.
+ |
+| [getUriSounds()](#getUriSounds--) | Gets the digital sound content information that annotates some aspects of the vCard.
+ |
+| [getUidRecord()](#getUidRecord--) | Gets the value that represents a globally unique identifier corresponding to the individual or resource associated with the vCard.
+ |
+| [getUid()](#getUid--) | Gets the value that represents a globally unique identifier corresponding to the individual or resource associated with the vCard.
+ |
+| [getPidIdentifierRecords()](#getPidIdentifierRecords--) | Gets the global meaning of the local PID source identifier.
+ |
+| [getPidIdentifiers()](#getPidIdentifiers--) | Gets the global meaning of the local PID source identifier.
+ |
+| [getUrlRecords()](#getUrlRecords--) | Gets an array of URLs pointing to websites that represent the person in some way.
+ |
+| [getUrls()](#getUrls--) | Gets an array of URLs pointing to websites that represent the person in some way.
+ |
+| [getVersion()](#getVersion--) | Gets the version of the vCard specification.
+ |
 ### getCategoryRecords() {#getCategoryRecords--}
 ```
 public final VCardTextRecord[] getCategoryRecords()
@@ -52,8 +80,10 @@ public final VCardTextRecord[] getCategoryRecords()
 
 Gets the application category information about the vCard, also known as "tags".
 
+
 **Returns:**
 com.groupdocs.metadata.core.VCardTextRecord[] - The application category information about the vCard, also known as "tags".
+
 ### getCategories() {#getCategories--}
 ```
 public final String[] getCategories()
@@ -62,12 +92,19 @@ public final String[] getCategories()
 
 Gets the application category information about the vCard, also known as "tags".
 
+
 **Returns:**
 java.lang.String[] - The application category information about the vCard, also known as "tags".
 
---------------------
+<br />
+
+*** ** * ** ***
 
 This property is a simplified version of  CategoryRecords .
+
+<br />
+
+
 ### getNoteRecords() {#getNoteRecords--}
 ```
 public final VCardTextRecord[] getNoteRecords()
@@ -76,8 +113,10 @@ public final VCardTextRecord[] getNoteRecords()
 
 Gets the supplemental information or comments that are associated with the vCard.
 
+
 **Returns:**
 com.groupdocs.metadata.core.VCardTextRecord[] - The supplemental information or comments that are associated with the vCard.
+
 ### getNotes() {#getNotes--}
 ```
 public final String[] getNotes()
@@ -86,12 +125,19 @@ public final String[] getNotes()
 
 Gets the supplemental information or comments that are associated with the vCard.
 
+
 **Returns:**
 java.lang.String[] - The supplemental information or comments that are associated with the vCard.
 
---------------------
+<br />
+
+*** ** * ** ***
 
 This property is a simplified version of  NoteRecords .
+
+<br />
+
+
 ### getProductIdentifierRecord() {#getProductIdentifierRecord--}
 ```
 public final VCardTextRecord getProductIdentifierRecord()
@@ -100,8 +146,10 @@ public final VCardTextRecord getProductIdentifierRecord()
 
 Gets the identifier of the product that created the vCard object.
 
+
 **Returns:**
 [VCardTextRecord](../../com.groupdocs.metadata.core/vcardtextrecord) - The identifier of the product that created the vCard object
+
 ### getProductIdentifier() {#getProductIdentifier--}
 ```
 public final String getProductIdentifier()
@@ -110,12 +158,19 @@ public final String getProductIdentifier()
 
 Gets the identifier of the product that created the vCard object.
 
+
 **Returns:**
 java.lang.String - The identifier of the product that created the vCard object
 
---------------------
+<br />
+
+*** ** * ** ***
 
 This property is a simplified version of  ProductIdentifierRecord .
+
+<br />
+
+
 ### getRevision() {#getRevision--}
 ```
 public final Date getRevision()
@@ -124,18 +179,26 @@ public final Date getRevision()
 
 Gets the revision information about the current vCard.
 
+
 **Returns:**
 java.util.Date - The revision information about the current vCard.
+
 ### getSortString() {#getSortString--}
 ```
 public final String getSortString()
 ```
 
 
-Gets the family name or given name text to be used for national-language-specific sorting of the  VCardIdentificationRecordset.FormattedNames  and  VCardIdentificationRecordset.Name  types.
+Gets the family name or given name text to be used for national-language-specific sorting of the 
+VCardIdentificationRecordset.FormattedNames
+ and 
+VCardIdentificationRecordset.Name
+ types.
+
 
 **Returns:**
 java.lang.String - The family name or given name text to be used for national-language-specific sorting of the  VCardIdentificationRecordset.FormattedNames  and  VCardIdentificationRecordset.Name  types.
+
 ### getSoundRecords() {#getSoundRecords--}
 ```
 public final VCardRecord[] getSoundRecords()
@@ -144,8 +207,10 @@ public final VCardRecord[] getSoundRecords()
 
 Gets the digital sound content information that annotates some aspects of the vCard.
 
+
 **Returns:**
 com.groupdocs.metadata.core.VCardRecord[] - The digital sound content information that annotates some aspects of the vCard.
+
 ### getSoundBinaryRecords() {#getSoundBinaryRecords--}
 ```
 public final VCardBinaryRecord[] getSoundBinaryRecords()
@@ -154,12 +219,19 @@ public final VCardBinaryRecord[] getSoundBinaryRecords()
 
 Gets the digital sound content information that annotates some aspects of the vCard.
 
+
 **Returns:**
 com.groupdocs.metadata.core.VCardBinaryRecord[] - The digital sound content information that annotates some aspects of the vCard.
 
---------------------
+<br />
+
+*** ** * ** ***
 
 This property is a simplified version of  SoundRecords .
+
+<br />
+
+
 ### getBinarySounds() {#getBinarySounds--}
 ```
 public final byte[][] getBinarySounds()
@@ -168,12 +240,19 @@ public final byte[][] getBinarySounds()
 
 Gets the digital sound content information that annotates some aspects of the vCard.
 
+
 **Returns:**
 byte[][] - The digital sound content information that annotates some aspects of the vCard.
 
---------------------
+<br />
+
+*** ** * ** ***
 
 This property is a simplified version of  SoundBinaryRecords .
+
+<br />
+
+
 ### getSoundUriRecords() {#getSoundUriRecords--}
 ```
 public final VCardTextRecord[] getSoundUriRecords()
@@ -182,12 +261,19 @@ public final VCardTextRecord[] getSoundUriRecords()
 
 Gets the digital sound content information that annotates some aspects of the vCard.
 
+
 **Returns:**
 com.groupdocs.metadata.core.VCardTextRecord[] - The digital sound content information that annotates some aspects of the vCard.
 
---------------------
+<br />
+
+*** ** * ** ***
 
 This property is a simplified version of  SoundRecords .
+
+<br />
+
+
 ### getUriSounds() {#getUriSounds--}
 ```
 public final String[] getUriSounds()
@@ -196,12 +282,19 @@ public final String[] getUriSounds()
 
 Gets the digital sound content information that annotates some aspects of the vCard.
 
+
 **Returns:**
 java.lang.String[] - The digital sound content information that annotates some aspects of the vCard.
 
---------------------
+<br />
+
+*** ** * ** ***
 
 This property is a simplified version of  SoundUriRecords .
+
+<br />
+
+
 ### getUidRecord() {#getUidRecord--}
 ```
 public final VCardTextRecord getUidRecord()
@@ -210,8 +303,10 @@ public final VCardTextRecord getUidRecord()
 
 Gets the value that represents a globally unique identifier corresponding to the individual or resource associated with the vCard.
 
+
 **Returns:**
 [VCardTextRecord](../../com.groupdocs.metadata.core/vcardtextrecord) - The value that represents a globally unique identifier corresponding.
+
 ### getUid() {#getUid--}
 ```
 public final String getUid()
@@ -220,12 +315,19 @@ public final String getUid()
 
 Gets the value that represents a globally unique identifier corresponding to the individual or resource associated with the vCard.
 
+
 **Returns:**
 java.lang.String - The value that represents a globally unique identifier corresponding.
 
---------------------
+<br />
+
+*** ** * ** ***
 
 This property is a simplified version of  UidRecord .
+
+<br />
+
+
 ### getPidIdentifierRecords() {#getPidIdentifierRecords--}
 ```
 public final VCardTextRecord[] getPidIdentifierRecords()
@@ -234,8 +336,10 @@ public final VCardTextRecord[] getPidIdentifierRecords()
 
 Gets the global meaning of the local PID source identifier.
 
+
 **Returns:**
 com.groupdocs.metadata.core.VCardTextRecord[] - The global meaning of the local PID source identifier.
+
 ### getPidIdentifiers() {#getPidIdentifiers--}
 ```
 public final String[] getPidIdentifiers()
@@ -244,12 +348,19 @@ public final String[] getPidIdentifiers()
 
 Gets the global meaning of the local PID source identifier.
 
+
 **Returns:**
 java.lang.String[] - The global meaning of the local PID source identifier.
 
---------------------
+<br />
+
+*** ** * ** ***
 
 This property is a simplified version of  PidIdentifierRecords .
+
+<br />
+
+
 ### getUrlRecords() {#getUrlRecords--}
 ```
 public final VCardTextRecord[] getUrlRecords()
@@ -258,8 +369,10 @@ public final VCardTextRecord[] getUrlRecords()
 
 Gets an array of URLs pointing to websites that represent the person in some way.
 
+
 **Returns:**
 com.groupdocs.metadata.core.VCardTextRecord[] - An array of URLs pointing to websites that represent the person in some way.
+
 ### getUrls() {#getUrls--}
 ```
 public final String[] getUrls()
@@ -268,12 +381,19 @@ public final String[] getUrls()
 
 Gets an array of URLs pointing to websites that represent the person in some way.
 
+
 **Returns:**
 java.lang.String[] - An array of URLs pointing to websites that represent the person in some way.
 
---------------------
+<br />
+
+*** ** * ** ***
 
 This property is a simplified version of  UrlRecords .
+
+<br />
+
+
 ### getVersion() {#getVersion--}
 ```
 public final String getVersion()
@@ -282,5 +402,7 @@ public final String getVersion()
 
 Gets the version of the vCard specification.
 
+
 **Returns:**
 java.lang.String - The version of the vCard specification.
+

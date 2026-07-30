@@ -14,9 +14,11 @@ public class MatroskaSimpleTag extends MatroskaBasePackage
 
 Represents general information about the target in a Matroska video.
 
+
 **Learn more**
 
- *  [Working with metadata in Matroska (MKV) files][Working with metadata in Matroska _MKV_ files]
+* [Working with metadata in Matroska (MKV) files](../https://docs.groupdocs.com/display/metadatajava/Working+with+metadata+in+Matroska+%28MKV%29+files)
+
+<br />
 
 
-[Working with metadata in Matroska _MKV_ files]: https://docs.groupdocs.com/display/metadatajava/Working+with+metadata+in+Matroska+%28MKV%29+files

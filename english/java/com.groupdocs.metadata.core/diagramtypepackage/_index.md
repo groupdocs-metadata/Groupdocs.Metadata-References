@@ -13,11 +13,13 @@ public class DiagramTypePackage extends FileTypePackage
 ```
 
 Represents a metadata package containing diagram-specific file format information.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getDiagramFormat()](#getDiagramFormat--) | Gets the exact diagram format. |
+| [getDiagramFormat()](#getDiagramFormat--) | Gets the exact diagram format.
+ |
 ### getDiagramFormat() {#getDiagramFormat--}
 ```
 public final DiagramFormat getDiagramFormat()
@@ -26,5 +28,7 @@ public final DiagramFormat getDiagramFormat()
 
 Gets the exact diagram format.
 
+
 **Returns:**
 [DiagramFormat](../../com.groupdocs.metadata.core/diagramformat) - The exact diagram format.
+

@@ -14,18 +14,22 @@ public class PdfFormField extends CustomPackage
 
 Represents a form field in a PDF document.
 
+
 **Learn more**
 
- *  [Working with metadata in PDF documents][]
+* [Working with metadata in PDF documents](../https://docs.groupdocs.com/display/metadatajava/Working+with+metadata+in+PDF+documents)
+
+<br />
 
 
-[Working with metadata in PDF documents]: https://docs.groupdocs.com/display/metadatajava/Working+with+metadata+in+PDF+documents
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getName()](#getName--) | Gets the name of the field. |
-| [getValue()](#getValue--) | Gets the field value. |
+| [getName()](#getName--) | Gets the name of the field.
+ |
+| [getValue()](#getValue--) | Gets the field value.
+ |
 ### getName() {#getName--}
 ```
 public final String getName()
@@ -34,8 +38,10 @@ public final String getName()
 
 Gets the name of the field.
 
+
 **Returns:**
 java.lang.String - The name of the field.
+
 ### getValue() {#getValue--}
 ```
 public final String getValue()
@@ -44,5 +50,7 @@ public final String getValue()
 
 Gets the field value.
 
+
 **Returns:**
 java.lang.String - The field value.
+

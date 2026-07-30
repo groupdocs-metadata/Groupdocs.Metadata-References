@@ -13,11 +13,13 @@ public class WordProcessingTypePackage extends FileTypePackage
 ```
 
 Represents a metadata package containing document-specific file format information.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getWordProcessingFormat()](#getWordProcessingFormat--) | Gets the exact word processing format. |
+| [getWordProcessingFormat()](#getWordProcessingFormat--) | Gets the exact word processing format.
+ |
 ### getWordProcessingFormat() {#getWordProcessingFormat--}
 ```
 public final WordProcessingFormat getWordProcessingFormat()
@@ -26,5 +28,7 @@ public final WordProcessingFormat getWordProcessingFormat()
 
 Gets the exact word processing format.
 
+
 **Returns:**
 [WordProcessingFormat](../../com.groupdocs.metadata.core/wordprocessingformat) - The exact word processing format.
+

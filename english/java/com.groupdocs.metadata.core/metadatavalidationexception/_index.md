@@ -13,11 +13,13 @@ public final class MetadataValidationException extends GroupDocsMetadataExceptio
 ```
 
 The exception that is thrown when validation errors encountered during metadata saving.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getErrors()](#getErrors--) | Gets an array of the validation errors that were encountered during the last metadata saving. |
+| [getErrors()](#getErrors--) | Gets an array of the validation errors that were encountered during the last metadata saving.
+ |
 ### getErrors() {#getErrors--}
 ```
 public final String[] getErrors()
@@ -26,5 +28,7 @@ public final String[] getErrors()
 
 Gets an array of the validation errors that were encountered during the last metadata saving.
 
+
 **Returns:**
 java.lang.String[] - An array of the validation errors that were encountered during the last metadata saving.
+

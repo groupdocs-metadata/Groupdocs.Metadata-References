@@ -14,15 +14,18 @@ public class DicomRootPackage extends ImageRootPackage
 
 Represents the root package intended to work with metadata in a DICOM image.
 
+
 **Learn more**
 
- *  [Working with DICOM metadata][]
+* [Working with DICOM metadata](../https://docs.groupdocs.com/display/metadatajava/Working+with+DICOM+metadata)
+
+<br />
 
 This example demonstrates how to read DICOM format-specific metadata properties.
-
+>
+> ````
 > ```
-> ```
-> 
+>
 >  try (Metadata metadata = new Metadata(Constants.InputDicom)) {
 >      DicomRootPackage root = metadata.getRootPackageGeneric();
 >      if (root.getDicomPackage() != null) {
@@ -36,15 +39,15 @@ This example demonstrates how to read DICOM format-specific metadata properties.
 >  }
 >  
 > ```
-> ```
+> ````
 
 
-[Working with DICOM metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+DICOM+metadata
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getDicomPackage()](#getDicomPackage--) | Gets the DICOM native metadata package. |
+| [getDicomPackage()](#getDicomPackage--) | Gets the DICOM native metadata package.
+ |
 ### getDicomPackage() {#getDicomPackage--}
 ```
 public final DicomPackage getDicomPackage()
@@ -53,5 +56,7 @@ public final DicomPackage getDicomPackage()
 
 Gets the DICOM native metadata package.
 
+
 **Returns:**
 [DicomPackage](../../com.groupdocs.metadata.core/dicompackage) - The DICOM native metadata package.
+

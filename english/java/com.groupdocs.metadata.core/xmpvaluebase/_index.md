@@ -16,12 +16,15 @@ public abstract class XmpValueBase extends PropertyValue implements IXmpType
 ```
 
 Represents base XMP value.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [toString()](#toString--) | Returns a string that represents the property value. |
-| [getXmpRepresentation()](#getXmpRepresentation--) | Returns string contained value in XMP format. |
+| [toString()](#toString--) | Returns a string that represents the property value.
+ |
+| [getXmpRepresentation()](#getXmpRepresentation--) | Returns string contained value in XMP format.
+ |
 ### toString() {#toString--}
 ```
 public String toString()
@@ -30,8 +33,10 @@ public String toString()
 
 Returns a string that represents the property value.
 
+
 **Returns:**
 java.lang.String - A string that represents the property value.
+
 ### getXmpRepresentation() {#getXmpRepresentation--}
 ```
 public abstract String getXmpRepresentation()
@@ -40,5 +45,7 @@ public abstract String getXmpRepresentation()
 
 Returns string contained value in XMP format.
 
+
 **Returns:**
 java.lang.String -  string  contained XMP representation.
+
