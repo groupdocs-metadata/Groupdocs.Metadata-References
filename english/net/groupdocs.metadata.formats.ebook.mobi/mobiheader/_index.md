@@ -3,7 +3,7 @@ title: MobiHeader
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents metadata in a Mobi ebook.
 type: docs
-weight: 1650
+weight: 1760
 url: /net/groupdocs.metadata.formats.ebook.mobi/mobiheader/
 ---
 ## MobiHeader class

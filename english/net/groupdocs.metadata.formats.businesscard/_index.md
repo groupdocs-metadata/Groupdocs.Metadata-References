@@ -3,7 +3,7 @@ title: GroupDocs.Metadata.Formats.BusinessCard
 second_title: GroupDocs.Metadata for .NET API Reference
 description: The namespace contains classes intended to work with electronic business card formats.
 type: docs
-weight: 80
+weight: 160
 url: /net/groupdocs.metadata.formats.businesscard/
 ---
 The namespace contains classes intended to work with electronic business card formats.

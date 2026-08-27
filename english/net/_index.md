@@ -16,11 +16,21 @@ version:
 | [GroupDocs.Metadata.Common](./groupdocs.metadata.common) | The namespace contains base classes, utility classes and interfaces used across all formats and metadata standards. |
 | [GroupDocs.Metadata.Exceptions](./groupdocs.metadata.exceptions) | The namespace contains some specific exceptions that are thrown by the library during file reading and updating. |
 | [GroupDocs.Metadata.Export](./groupdocs.metadata.export) | The namespace contains classes that allow users to export metadata properties to different representations. |
-| [GroupDocs.Metadata.Formats.Archive](./groupdocs.metadata.formats.archive) | The namespace contains classes for working with archive formats. |
+| [GroupDocs.Metadata.Formats.Archive.Aar](./groupdocs.metadata.formats.archive.aar) |  |
+| [GroupDocs.Metadata.Formats.Archive.Bz2](./groupdocs.metadata.formats.archive.bz2) |  |
+| [GroupDocs.Metadata.Formats.Archive.Gzip](./groupdocs.metadata.formats.archive.gzip) |  |
+| [GroupDocs.Metadata.Formats.Archive.Rar](./groupdocs.metadata.formats.archive.rar) |  |
+| [GroupDocs.Metadata.Formats.Archive.SevenZip](./groupdocs.metadata.formats.archive.sevenzip) |  |
+| [GroupDocs.Metadata.Formats.Archive.Tar](./groupdocs.metadata.formats.archive.tar) |  |
+| [GroupDocs.Metadata.Formats.Archive.Xz](./groupdocs.metadata.formats.archive.xz) |  |
+| [GroupDocs.Metadata.Formats.Archive.Zip](./groupdocs.metadata.formats.archive.zip) |  |
+| [GroupDocs.Metadata.Formats.Archive.Zstd](./groupdocs.metadata.formats.archive.zstd) |  |
 | [GroupDocs.Metadata.Formats.Audio](./groupdocs.metadata.formats.audio) | The namespace provides classes intended to work with different audio formats. |
 | [GroupDocs.Metadata.Formats.Audio.Ogg](./groupdocs.metadata.formats.audio.ogg) |  |
 | [GroupDocs.Metadata.Formats.BusinessCard](./groupdocs.metadata.formats.businesscard) | The namespace contains classes intended to work with electronic business card formats. |
 | [GroupDocs.Metadata.Formats.Cad](./groupdocs.metadata.formats.cad) | The namespace contains classes for working with CAD (computer-aided design) formats. |
+| [GroupDocs.Metadata.Formats.Cad.Dwg](./groupdocs.metadata.formats.cad.dwg) |  |
+| [GroupDocs.Metadata.Formats.Cad.Dxf](./groupdocs.metadata.formats.cad.dxf) |  |
 | [GroupDocs.Metadata.Formats.Document](./groupdocs.metadata.formats.document) | The namespace provides functionality intended to work with a variety of document formats such as spreadsheets, presentations, text processing formats, etc. |
 | [GroupDocs.Metadata.Formats.Ebook](./groupdocs.metadata.formats.ebook) | The namespace provides functionality for working with electronic book formats. |
 | [GroupDocs.Metadata.Formats.Ebook.Fb2](./groupdocs.metadata.formats.ebook.fb2) |  |

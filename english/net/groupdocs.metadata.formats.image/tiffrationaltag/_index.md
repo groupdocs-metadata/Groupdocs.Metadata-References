@@ -3,7 +3,7 @@ title: TiffRationalTag
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a TIFF Rational tag.
 type: docs
-weight: 2460
+weight: 2570
 url: /net/groupdocs.metadata.formats.image/tiffrationaltag/
 ---
 ## TiffRationalTag class

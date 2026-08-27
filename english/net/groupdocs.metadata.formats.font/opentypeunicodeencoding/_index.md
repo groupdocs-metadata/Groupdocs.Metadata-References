@@ -3,7 +3,7 @@ title: OpenTypeUnicodeEncoding
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents encoding for Unicode platform.
 type: docs
-weight: 1950
+weight: 2060
 url: /net/groupdocs.metadata.formats.font/opentypeunicodeencoding/
 ---
 ## OpenTypeUnicodeEncoding enumeration

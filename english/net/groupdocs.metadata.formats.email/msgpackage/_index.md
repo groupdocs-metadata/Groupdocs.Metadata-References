@@ -3,7 +3,7 @@ title: MsgPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents MSG message metadata.
 type: docs
-weight: 1770
+weight: 1880
 url: /net/groupdocs.metadata.formats.email/msgpackage/
 ---
 ## MsgPackage class

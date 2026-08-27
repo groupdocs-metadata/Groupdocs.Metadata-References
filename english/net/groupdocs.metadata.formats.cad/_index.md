@@ -3,7 +3,7 @@ title: GroupDocs.Metadata.Formats.Cad
 second_title: GroupDocs.Metadata for .NET API Reference
 description: The namespace contains classes for working with CAD computeraided design formats.
 type: docs
-weight: 90
+weight: 170
 url: /net/groupdocs.metadata.formats.cad/
 ---
 The namespace contains classes for working with CAD (computer-aided design) formats.
@@ -15,8 +15,6 @@ The namespace contains classes for working with CAD (computer-aided design) form
 | [CadCustomPropertyPackage](./cadcustompropertypackage) | Represents a collection of custom CAD metadata properties. |
 | [CadPackage](./cadpackage) | Represents CAD (Computer-aided design) metadata. |
 | [CadRootPackage](./cadrootpackage) | Represents the root package allowing working with metadata in a CAD drawing. |
-| [DwgRootPackage](./dwgrootpackage) | Represents the root package allowing working with metadata in a DWG drawing. |
-| [DxfRootPackage](./dxfrootpackage) | Represents the root package allowing working with metadata in a DXF drawing. |
 ## Enumeration
 
 | Enumeration | Description |

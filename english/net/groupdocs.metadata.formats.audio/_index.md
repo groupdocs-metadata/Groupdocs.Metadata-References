@@ -3,7 +3,7 @@ title: GroupDocs.Metadata.Formats.Audio
 second_title: GroupDocs.Metadata for .NET API Reference
 description: The namespace provides classes intended to work with different audio formats.
 type: docs
-weight: 60
+weight: 140
 url: /net/groupdocs.metadata.formats.audio/
 ---
 The namespace provides classes intended to work with different audio formats.

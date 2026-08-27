@@ -3,7 +3,7 @@ title: TiffDoubleTag
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a TIFF Double tag.
 type: docs
-weight: 2420
+weight: 2530
 url: /net/groupdocs.metadata.formats.image/tiffdoubletag/
 ---
 ## TiffDoubleTag class

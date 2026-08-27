@@ -3,7 +3,7 @@ title: PdfFormat
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents supported PDF format standards and versions.
 type: docs
-weight: 1240
+weight: 1350
 url: /net/groupdocs.metadata.formats.document/pdfformat/
 ---
 ## PdfFormat enumeration

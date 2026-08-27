@@ -3,7 +3,7 @@ title: GroupDocs.Metadata.Formats.Email.Msg
 second_title: GroupDocs.Metadata for .NET API Reference
 description: 
 type: docs
-weight: 150
+weight: 250
 url: /net/groupdocs.metadata.formats.email.msg/
 ---
 

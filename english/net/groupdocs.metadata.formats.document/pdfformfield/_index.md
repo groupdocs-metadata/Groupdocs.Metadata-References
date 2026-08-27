@@ -3,7 +3,7 @@ title: PdfFormField
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a form field in a PDF document.
 type: docs
-weight: 1230
+weight: 1340
 url: /net/groupdocs.metadata.formats.document/pdfformfield/
 ---
 ## PdfFormField class

@@ -3,7 +3,7 @@ title: DocumentPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents native metadata in an office document.
 type: docs
-weight: 1140
+weight: 1250
 url: /net/groupdocs.metadata.formats.document/documentpackage/
 ---
 ## DocumentPackage class
