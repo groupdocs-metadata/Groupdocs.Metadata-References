@@ -3,7 +3,7 @@ title: GroupDocs.Metadata.Formats.Image
 second_title: GroupDocs.Metadata for .NET API Reference
 description: The namespace provides functionality allowing users to read and update metadata stored in different image formats.
 type: docs
-weight: 290
+weight: 140
 url: /net/groupdocs.metadata.formats.image/
 ---
 The namespace provides functionality allowing users to read and update metadata stored in different image formats.
@@ -14,6 +14,7 @@ The namespace provides functionality allowing users to read and update metadata 
 | --- | --- |
 | [BmpHeaderPackage](./bmpheaderpackage) | Represents BMP header info. |
 | [DicomPackage](./dicompackage) | Represents native DICOM metadata. |
+| [DngPackage](./dngpackage) | Represents native DNG metadata. |
 | [GifImageTypePackage](./gifimagetypepackage) | Represents a metadata package containing GIF-specific file format information. |
 | [ImageResourceBlock](./imageresourceblock) | Represents a Photoshop Image Resource block.  Image resource blocks are the basic building unit of several file formats, including Photoshop's native file format, JPEG, and TIFF. Image resources are used to store non-pixel data associated with images, such as pen tool paths. |
 | [ImageResourcePackage](./imageresourcepackage) | Represents a metadata package containing Photoshop Image Resources. |
@@ -25,17 +26,10 @@ The namespace provides functionality allowing users to read and update metadata 
 | [PngTextChunk](./pngtextchunk) | Represents textual data extracted from a PNG image. |
 | [PsdLayer](./psdlayer) | Represents a layer in a PSD file. |
 | [PsdPackage](./psdpackage) | Represents native Photoshop metadata. |
-| [RawDoubleTag](./rawdoubletag) | Represents a Raw Double tag. |
-| [RawFloatTag](./rawfloattag) | Represents a Raw float tag. |
 | [RawRational](./rawrational) | Represents a rational number. |
-| [RawRationalTag](./rawrationaltag) | Represents a Raw Rational tag. |
-| [RawSByteTag](./rawsbytetag) | Represents a Raw SByte tag. |
-| [RawSLongTag](./rawslongtag) | Represents a Raw SLong tag. |
 | [RawSRational](./rawsrational) | Represents signed rational number. |
-| [RawSRationalTag](./rawsrationaltag) | Represents a Raw SRational tag. |
-| [RawSShortTag](./rawsshorttag) | Represents a Raw SShort tag. |
 | [RawTypePackage](./rawtypepackage) | Represents a metadata package containing image-specific file format information. |
-| [RawUndefinedTag](./rawundefinedtag) | Represents a Raw tag with the Undefined type. |
+| [SvgPackage](./svgpackage) | Represents a native metadata package in a SVG image file. |
 | [TiffArrayTag&lt;T&gt;](./tiffarraytag-1) | Represents an array-based TIFF tag. |
 | [TiffAsciiTag](./tiffasciitag) | Represents a TIFF ASCII tag. |
 | [TiffByteTag](./tiffbytetag) | Represents a Byte tag. |

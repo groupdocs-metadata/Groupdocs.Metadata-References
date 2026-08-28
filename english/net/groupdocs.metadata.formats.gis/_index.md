@@ -1,12 +1,12 @@
 ---
 title: GroupDocs.Metadata.Formats.Gis
 second_title: GroupDocs.Metadata for .NET API Reference
-description: 
+description: The namespace contains classes allowing users to work with GIS formats.
 type: docs
-weight: 280
+weight: 130
 url: /net/groupdocs.metadata.formats.gis/
 ---
-
+The namespace contains classes allowing users to work with GIS formats.
 
 ## Classes
 

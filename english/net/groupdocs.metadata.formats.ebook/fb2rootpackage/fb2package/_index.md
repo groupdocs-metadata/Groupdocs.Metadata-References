@@ -39,7 +39,7 @@ using (Metadata metadata = new Metadata(Constants.InputFb2))
 
 ### See Also
 
-* class [Fb2Package](../../../groupdocs.metadata.formats.fb2/fb2package)
+* class [Fb2Package](../../fb2package)
 * class [Fb2RootPackage](../../fb2rootpackage)
 * namespace [GroupDocs.Metadata.Formats.Ebook](../../../groupdocs.metadata.formats.ebook)
 * assembly [GroupDocs.Metadata](../../../)

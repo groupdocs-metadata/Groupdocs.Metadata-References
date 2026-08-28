@@ -20,7 +20,7 @@ public RawTag this[uint tagId] { get; }
 
 ### Return Value
 
-The [`RawTag`](../../../groupdocs.metadata.formats.raw.tag/rawtag) with the specified tag id.
+The [`RawTag`](../../rawtag) with the specified tag id.
 
 ### Examples
 
@@ -43,7 +43,7 @@ using (Metadata metadata = new Metadata(Constants.RawWithExif))
 
 ### See Also
 
-* class [RawTag](../../../groupdocs.metadata.formats.raw.tag/rawtag)
+* class [RawTag](../../rawtag)
 * class [RawDictionaryBasePackage](../../rawdictionarybasepackage)
 * namespace [GroupDocs.Metadata.Formats.Raw](../../../groupdocs.metadata.formats.raw)
 * assembly [GroupDocs.Metadata](../../../)

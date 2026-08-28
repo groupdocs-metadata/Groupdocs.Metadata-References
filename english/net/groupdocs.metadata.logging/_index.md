@@ -1,12 +1,12 @@
 ---
 title: GroupDocs.Metadata.Logging
 second_title: GroupDocs.Metadata for .NET API Reference
-description: 
+description: The namespace contains all classes representing the logging methods.
 type: docs
-weight: 450
+weight: 230
 url: /net/groupdocs.metadata.logging/
 ---
-
+The namespace contains all classes representing the logging methods.
 
 ## Classes
 

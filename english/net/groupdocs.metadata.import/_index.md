@@ -1,12 +1,12 @@
 ---
 title: GroupDocs.Metadata.Import
 second_title: GroupDocs.Metadata for .NET API Reference
-description: 
+description: The namespace contains all classes representing the import methods.
 type: docs
-weight: 440
+weight: 220
 url: /net/groupdocs.metadata.import/
 ---
-
+The namespace contains all classes representing the import methods.
 
 ## Classes
 
