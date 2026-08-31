@@ -71,6 +71,11 @@ public enum FileFormat
 | Svg | `50` | Scalable Vector Graphics (SVG) is an XML-based vector graphics format for defining two-dimensional graphics, having support for interactivity and animation. The SVG specification is an open standard developed by the World Wide Web Consortium since 1999. |
 | Gltf | `51` | glTF (Graphics Library Transmission Format or GL Transmission Format and formerly known as WebGL Transmissions Format or WebGL TF) is a standard file format for three-dimensional scenes and models. A glTF file uses one of two possible file extensions: .gltf (JSON/ASCII) or .glb (binary). |
 | Avif | `52` | AV1 Image File Format (AVIF) is an open, royalty-free image file format specification for storing images or image sequences compressed with AV1 in the HEIF container format. |
+| Aar | `53` | An AAR (Android Archive) file is a compressed library package used specifically in Android application development. It serves as a binary distribution format that allows developers to bundle and share reusable modules across multiple Android apps. |
+| Gzip | `54` | GZIP is a popular file format and software application used for file compression and decompression. It was developed as a free and open-source compression algorithm by Jean-Loup Gailly and Mark Adler in the early 1990s. |
+| Bz2 | `55` | Files with the .BZ2 extension are compressed using the BZIP2 algorithm. This free and open-source tool, developed by Julian Seward, achieves impressive compression ratios, making it ideal for shrinking large files or datasets. |
+| Xz | `56` | XZ is a high-compression archive format primarily used for compressing single files, offering superior compression efficiency and open-source compatibility. |
+| Zstd | `57` | Zstandard (commonly referred to as ZSTD) is a cutting-edge compression algorithm that provides excellent performance and adaptability. Its .zst file extension is synonymous with high-speed compression and remarkable compression ratios, making it an essential tool for modern data storage and transmission. |
 
 ### See Also
 

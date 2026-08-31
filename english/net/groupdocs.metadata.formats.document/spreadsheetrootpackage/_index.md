@@ -3,7 +3,7 @@ title: SpreadsheetRootPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents the root package allowing working with metadata in a spreadsheet.
 type: docs
-weight: 1440
+weight: 1550
 url: /net/groupdocs.metadata.formats.document/spreadsheetrootpackage/
 ---
 ## SpreadsheetRootPackage class

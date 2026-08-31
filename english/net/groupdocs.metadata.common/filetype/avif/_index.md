@@ -3,7 +3,7 @@ title: AVIF
 second_title: GroupDocs.Metadata for .NET API Reference
 description: AV1 Image File Format AVIF is an open royaltyfree image file format specification for storing images or image sequences compressed with AV1 in the HEIF container format. Learn more about this file format herehttps//docs.fileformat.com/image/avif/.
 type: docs
-weight: 30
+weight: 40
 url: /net/groupdocs.metadata.common/filetype/avif/
 ---
 ## FileType.AVIF field

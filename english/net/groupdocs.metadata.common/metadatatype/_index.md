@@ -75,6 +75,11 @@ public enum MetadataType
 | Svg | `54` | Svg format |
 | Gltf | `55` | glTF (Graphics Library Transmission Format or GL Transmission Format and formerly known as WebGL Transmissions Format or WebGL TF) |
 | Avif | `56` | Avif format |
+| Aar | `57` | An Apple Archive (.aar) is a proprietary, high-performance compressed archive format created by Apple. |
+| Gzip | `58` | GZIP is a popular file format and software application used for file compression and decompression. |
+| Bz2 | `59` | Files with the .BZ2 extension are compressed using the BZIP2 algorithm. |
+| Xz | `60` | XZ is a high-compression archive format primarily used for compressing single files, offering superior compression efficiency and open-source compatibility. |
+| Zstd | `61` | Zstandard (commonly referred to as ZSTD) is a cutting-edge compression algorithm that provides excellent performance and adaptability. |
 
 ### See Also
 

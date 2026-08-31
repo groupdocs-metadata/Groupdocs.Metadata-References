@@ -30,6 +30,9 @@ The namespace provides classes intended to work with different audio formats.
 | [LyricsField](./lyricsfield) | Represents a [`LyricsTag`](../groupdocs.metadata.formats.audio/lyricstag) field. |
 | [LyricsTag](./lyricstag) | Represents Lyrics3 v2.00 metadata. Please find more information at http://id3.org/Lyrics3v2. |
 | [MP3RootPackage](./mp3rootpackage) | Represents the root package allowing working with metadata in an MP3 audio. |
+| [OggPackage](./oggpackage) | Represents a native metadata package in a OGG audio file. |
+| [OggRootPackage](./oggrootpackage) | Represents a native metadata package in a OGG audio file. |
+| [OggUserComment](./oggusercomment) | Represents Ogg User Comment metadata class. |
 | [WavPackage](./wavpackage) | Represents a native metadata package in a WAV audio file. |
 | [WavRootPackage](./wavrootpackage) | Represents the root package allowing working with metadata in a WAV audio. |
 ## Enumeration

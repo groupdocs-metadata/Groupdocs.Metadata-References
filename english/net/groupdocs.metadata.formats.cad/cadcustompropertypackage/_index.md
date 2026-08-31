@@ -3,7 +3,7 @@ title: CadCustomPropertyPackage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a collection of custom CAD metadata properties.
 type: docs
-weight: 1050
+weight: 1160
 url: /net/groupdocs.metadata.formats.cad/cadcustompropertypackage/
 ---
 ## CadCustomPropertyPackage class

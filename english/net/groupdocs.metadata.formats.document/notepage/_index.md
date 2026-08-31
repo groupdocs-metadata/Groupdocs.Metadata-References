@@ -3,7 +3,7 @@ title: NotePage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents a page in a OneNote section.
 type: docs
-weight: 1180
+weight: 1290
 url: /net/groupdocs.metadata.formats.document/notepage/
 ---
 ## NotePage class
