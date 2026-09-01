@@ -24,7 +24,7 @@ The value of the property. If the property does not exist, returns NULL; otherwi
 
 ### See Also
 
-* enum [MsgKnownProperties](../../../groupdocs.metadata.formats.email.msg/msgknownproperties)
+* enum [MsgKnownProperties](../../msgknownproperties)
 * class [MsgRootPackage](../../msgrootpackage)
 * namespace [GroupDocs.Metadata.Formats.Email](../../../groupdocs.metadata.formats.email)
 * assembly [GroupDocs.Metadata](../../../)

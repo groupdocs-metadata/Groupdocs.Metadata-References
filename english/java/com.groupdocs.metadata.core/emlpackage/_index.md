@@ -14,9 +14,11 @@ public class EmlPackage extends EmailPackage
 
 Represents EML message metadata.
 
+
 **Learn more**
 
- *  [Working with saved Emails][]
+* [Working with saved Emails](../https://docs.groupdocs.com/display/metadatajava/Working+with+saved+Emails)
+
+<br />
 
 
-[Working with saved Emails]: https://docs.groupdocs.com/display/metadatajava/Working+with+saved+Emails

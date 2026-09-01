@@ -13,12 +13,15 @@ public final class RawIFD1Package extends RawDictionaryBasePackage
 ```
 
 Represents IFD1 tags.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getThumbnailOffset()](#getThumbnailOffset--) | Gets the ThumbnailOffset. |
-| [getThumbnailLenght()](#getThumbnailLenght--) | Gets the ThumbnailLenght. |
+| [getThumbnailOffset()](#getThumbnailOffset--) | Gets the ThumbnailOffset.
+ |
+| [getThumbnailLenght()](#getThumbnailLenght--) | Gets the ThumbnailLenght.
+ |
 ### getThumbnailOffset() {#getThumbnailOffset--}
 ```
 public final long getThumbnailOffset()
@@ -27,8 +30,10 @@ public final long getThumbnailOffset()
 
 Gets the ThumbnailOffset.
 
+
 **Returns:**
 long - The ThumbnailOffset.
+
 ### getThumbnailLenght() {#getThumbnailLenght--}
 ```
 public final long getThumbnailLenght()
@@ -37,5 +42,7 @@ public final long getThumbnailLenght()
 
 Gets the ThumbnailLenght.
 
+
 **Returns:**
 long - The ThumbnailLenght.
+

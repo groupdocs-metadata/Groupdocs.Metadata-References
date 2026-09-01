@@ -14,9 +14,11 @@ public final class AsfContentDescriptor extends AsfBaseDescriptor
 
 Represents an ASF content descriptor object.
 
+
 **Learn more**
 
- *  [Working with Metadata in ASF Files][]
+* [Working with Metadata in ASF Files](../https://docs.groupdocs.com/display/metadatajava/Working+with+Metadata+in+ASF+Files)
+
+<br />
 
 
-[Working with Metadata in ASF Files]: https://docs.groupdocs.com/display/metadatajava/Working+with+Metadata+in+ASF+Files

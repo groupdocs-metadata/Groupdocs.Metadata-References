@@ -16,14 +16,19 @@ public enum PsdCompressionMethod extends Enum<PsdCompressionMethod> implements I
 ```
 
 Defines the compression method used for image data.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Raw](#Raw) | No compression. |
-| [Rle](#Rle) | RLE compressed. |
-| [ZipWithoutPrediction](#ZipWithoutPrediction) | ZIP without prediction. |
-| [ZipWithPrediction](#ZipWithPrediction) | ZIP with prediction. |
+| [Raw](#Raw) | No compression.
+ |
+| [Rle](#Rle) | RLE compressed.
+ |
+| [ZipWithoutPrediction](#ZipWithoutPrediction) | ZIP without prediction.
+ |
+| [ZipWithPrediction](#ZipWithPrediction) | ZIP with prediction.
+ |
 ## Methods
 
 | Method | Description |
@@ -43,7 +48,9 @@ public static final PsdCompressionMethod Raw
 ```
 
 
-No compression. The image data stored as raw bytes in RGBA planar order. That means that first all R data is written, then all G is written, then all B and finally all A data is written.
+No compression. The image data stored as raw bytes in RGBA planar order.
+That means that first all R data is written, then all G is written, then all B and finally all A data is written.
+
 
 ### Rle {#Rle}
 ```
@@ -51,7 +58,10 @@ public static final PsdCompressionMethod Rle
 ```
 
 
-RLE compressed. The image data starts with the byte counts for all the scan lines (rows \* channels), with each count stored as a two-byte value. The RLE compressed data follows, with each scan line compressed separately. The RLE compression is the same compression algorithm used by the Macintosh ROM routine PackBits and the TIFF standard.
+RLE compressed. The image data starts with the byte counts for all the scan lines (rows \* channels), with each
+count stored as a two-byte value. The RLE compressed data follows, with each scan line compressed separately.
+The RLE compression is the same compression algorithm used by the Macintosh ROM routine PackBits and the TIFF standard.
+
 
 ### ZipWithoutPrediction {#ZipWithoutPrediction}
 ```
@@ -61,6 +71,7 @@ public static final PsdCompressionMethod ZipWithoutPrediction
 
 ZIP without prediction.
 
+
 ### ZipWithPrediction {#ZipWithPrediction}
 ```
 public static final PsdCompressionMethod ZipWithPrediction
@@ -68,6 +79,7 @@ public static final PsdCompressionMethod ZipWithPrediction
 
 
 ZIP with prediction.
+
 
 ### values() {#values--}
 ```
@@ -127,6 +139,7 @@ public Object[] getAllValues()
 
 Returns the array of all values defined in the class.
 
+
 **Returns:**
 java.lang.Object[]
 ### getEnumValueByRawValue(int rawValue) {#getEnumValueByRawValue-int-}
@@ -136,6 +149,7 @@ public IEnumValue getEnumValueByRawValue(int rawValue)
 
 
 Returns the enumeration value by the raw value associated with it.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -152,6 +166,7 @@ public IEnumValue getEnumValueByName(String name)
 
 Returns the enumeration value by its name.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -167,6 +182,7 @@ public RawIntegerType getRawValueType()
 
 Returns the underlying type of the raw value of this enumeration value.
 
+
 **Returns:**
 [RawIntegerType](../../com.groupdocs.metadata.core/rawintegertype)
 ### getRawValue() {#getRawValue--}
@@ -176,6 +192,7 @@ public int getRawValue()
 
 
 Returns the raw value of this enumeration value.
+
 
 **Returns:**
 int

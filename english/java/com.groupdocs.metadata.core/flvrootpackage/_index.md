@@ -17,16 +17,19 @@ public class FlvRootPackage extends RootMetadataPackage implements IXmp
 
 Represents the root package allowing working with metadata in an FLV video.
 
+
 **Learn more**
 
- *  [Working with metadata in FLV files][]
- *  [Working with XMP metadata][]
+* [Working with metadata in FLV files](../https://docs.groupdocs.com/display/metadatajava/Working+with+metadata+in+FLV+files)
+* [Working with XMP metadata](../https://docs.groupdocs.com/display/metadatajava/Working+with+XMP+metadata)
+
+<br />
 
 This example shows how to read FLV header properties.
-
+>
+> ````
 > ```
-> ```
-> 
+>
 >  try (Metadata metadata = new Metadata(Constants.InputFlv)) {
 >      FlvRootPackage root = metadata.getRootPackageGeneric();
 >      System.out.println(root.getHeader().getVersion());
@@ -36,18 +39,19 @@ This example shows how to read FLV header properties.
 >  }
 >  
 > ```
-> ```
+> ````
 
 
-[Working with metadata in FLV files]: https://docs.groupdocs.com/display/metadatajava/Working+with+metadata+in+FLV+files
-[Working with XMP metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+XMP+metadata
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getXmpPackage()](#getXmpPackage--) | Gets the XMP metadata package. |
-| [setXmpPackage(XmpPacketWrapper value)](#setXmpPackage-com.groupdocs.metadata.core.XmpPacketWrapper-) | Sets the XMP metadata package. |
-| [getHeader()](#getHeader--) | Gets the FLV header package. |
+| [getXmpPackage()](#getXmpPackage--) | Gets the XMP metadata package.
+ |
+| [setXmpPackage(XmpPacketWrapper value)](#setXmpPackage-com.groupdocs.metadata.core.XmpPacketWrapper-) | Sets the XMP metadata package.
+ |
+| [getHeader()](#getHeader--) | Gets the FLV header package.
+ |
 ### getXmpPackage() {#getXmpPackage--}
 ```
 public final XmpPacketWrapper getXmpPackage()
@@ -56,15 +60,18 @@ public final XmpPacketWrapper getXmpPackage()
 
 Gets the XMP metadata package.
 
+
 **Returns:**
 [XmpPacketWrapper](../../com.groupdocs.metadata.core/xmppacketwrapper) - The XMP metadata package.
 
+
 **Learn more**
 
- *  [Working with XMP metadata][]
+* [Working with XMP metadata](../https://docs.groupdocs.com/display/metadatajava/Working+with+XMP+metadata)
+
+<br />
 
 
-[Working with XMP metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+XMP+metadata
 ### setXmpPackage(XmpPacketWrapper value) {#setXmpPackage-com.groupdocs.metadata.core.XmpPacketWrapper-}
 ```
 public final void setXmpPackage(XmpPacketWrapper value)
@@ -73,17 +80,20 @@ public final void setXmpPackage(XmpPacketWrapper value)
 
 Sets the XMP metadata package.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | [XmpPacketWrapper](../../com.groupdocs.metadata.core/xmppacketwrapper) | The XMP metadata package.
 
+
 **Learn more**
 
- *  [Working with XMP metadata][]
+* [Working with XMP metadata](../https://docs.groupdocs.com/display/metadatajava/Working+with+XMP+metadata)
 
+<br />
 
-[Working with XMP metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+XMP+metadata |
+ |
 
 ### getHeader() {#getHeader--}
 ```
@@ -93,5 +103,7 @@ public final FlvHeader getHeader()
 
 Gets the FLV header package.
 
+
 **Returns:**
 [FlvHeader](../../com.groupdocs.metadata.core/flvheader) - The FLV header package.
+

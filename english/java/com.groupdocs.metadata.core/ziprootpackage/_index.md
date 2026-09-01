@@ -14,15 +14,18 @@ public class ZipRootPackage extends RootMetadataPackage
 
 Represents the root package allowing working with metadata in a ZIP archive.
 
+
 **Learn more**
 
- *  [Working with ZIP archives][]
+* [Working with ZIP archives](../https://docs.groupdocs.com/display/metadatajava/Working+with+ZIP+archives)
+
+<br />
 
 The following code snippet shows how to get metadata from a ZIP archive.
-
+>
+> ````
 > ```
-> ```
-> 
+>
 >  Charset charset = Charset.forName("cp866");
 >  try (Metadata metadata = new Metadata(Constants.InputZip)) {
 >      ZipRootPackage root = metadata.getRootPackageGeneric();
@@ -41,15 +44,15 @@ The following code snippet shows how to get metadata from a ZIP archive.
 >  }
 >  
 > ```
-> ```
+> ````
 
 
-[Working with ZIP archives]: https://docs.groupdocs.com/display/metadatajava/Working+with+ZIP+archives
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getZipPackage()](#getZipPackage--) | Gets the ZIP metadata package. |
+| [getZipPackage()](#getZipPackage--) | Gets the ZIP metadata package.
+ |
 ### getZipPackage() {#getZipPackage--}
 ```
 public final ZipPackage getZipPackage()
@@ -58,5 +61,7 @@ public final ZipPackage getZipPackage()
 
 Gets the ZIP metadata package.
 
+
 **Returns:**
 [ZipPackage](../../com.groupdocs.metadata.core/zippackage) - The ZIP metadata package.
+

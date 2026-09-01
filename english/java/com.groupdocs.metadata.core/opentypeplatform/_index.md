@@ -16,15 +16,21 @@ public enum OpenTypePlatform extends Enum<OpenTypePlatform> implements IEnumValu
 ```
 
 Represents OpenType platform for Name table.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Unicode](#Unicode) | The Unicode platform. |
-| [Macintosh](#Macintosh) | The Macintosh platform. |
-| [Iso](#Iso) | The ISO [deprecated] platform. |
-| [Windows](#Windows) | The Windows platform. |
-| [Custom](#Custom) | The Custom platform. |
+| [Unicode](#Unicode) | The Unicode platform.
+ |
+| [Macintosh](#Macintosh) | The Macintosh platform.
+ |
+| [Iso](#Iso) | The ISO [deprecated] platform.
+ |
+| [Windows](#Windows) | The Windows platform.
+ |
+| [Custom](#Custom) | The Custom platform.
+ |
 ## Methods
 
 | Method | Description |
@@ -46,6 +52,7 @@ public static final OpenTypePlatform Unicode
 
 The Unicode platform.
 
+
 ### Macintosh {#Macintosh}
 ```
 public static final OpenTypePlatform Macintosh
@@ -53,6 +60,7 @@ public static final OpenTypePlatform Macintosh
 
 
 The Macintosh platform.
+
 
 ### Iso {#Iso}
 ```
@@ -62,6 +70,7 @@ public static final OpenTypePlatform Iso
 
 The ISO [deprecated] platform.
 
+
 ### Windows {#Windows}
 ```
 public static final OpenTypePlatform Windows
@@ -70,6 +79,7 @@ public static final OpenTypePlatform Windows
 
 The Windows platform.
 
+
 ### Custom {#Custom}
 ```
 public static final OpenTypePlatform Custom
@@ -77,6 +87,7 @@ public static final OpenTypePlatform Custom
 
 
 The Custom platform.
+
 
 ### values() {#values--}
 ```
@@ -136,6 +147,7 @@ public Object[] getAllValues()
 
 Returns the array of all values defined in the class.
 
+
 **Returns:**
 java.lang.Object[]
 ### getEnumValueByRawValue(int rawValue) {#getEnumValueByRawValue-int-}
@@ -145,6 +157,7 @@ public IEnumValue getEnumValueByRawValue(int rawValue)
 
 
 Returns the enumeration value by the raw value associated with it.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -161,6 +174,7 @@ public IEnumValue getEnumValueByName(String name)
 
 Returns the enumeration value by its name.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -176,6 +190,7 @@ public RawIntegerType getRawValueType()
 
 Returns the underlying type of the raw value of this enumeration value.
 
+
 **Returns:**
 [RawIntegerType](../../com.groupdocs.metadata.core/rawintegertype)
 ### getRawValue() {#getRawValue--}
@@ -185,6 +200,7 @@ public int getRawValue()
 
 
 Returns the raw value of this enumeration value.
+
 
 **Returns:**
 int

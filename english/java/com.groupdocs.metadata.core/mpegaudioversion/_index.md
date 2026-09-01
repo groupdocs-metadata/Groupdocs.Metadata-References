@@ -16,13 +16,17 @@ public enum MpegAudioVersion extends Enum<MpegAudioVersion> implements IEnumValu
 ```
 
 Represents a particular MPEG standard.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Mpeg25](#Mpeg25) | The MPEG 2.5 standard. |
-| [Mpeg2](#Mpeg2) | The MPEG 2 standard. |
-| [Mpeg1](#Mpeg1) | The MPEG 1 standard. |
+| [Mpeg25](#Mpeg25) | The MPEG 2.5 standard.
+ |
+| [Mpeg2](#Mpeg2) | The MPEG 2 standard.
+ |
+| [Mpeg1](#Mpeg1) | The MPEG 1 standard.
+ |
 ## Methods
 
 | Method | Description |
@@ -44,6 +48,7 @@ public static final MpegAudioVersion Mpeg25
 
 The MPEG 2.5 standard.
 
+
 ### Mpeg2 {#Mpeg2}
 ```
 public static final MpegAudioVersion Mpeg2
@@ -52,6 +57,7 @@ public static final MpegAudioVersion Mpeg2
 
 The MPEG 2 standard.
 
+
 ### Mpeg1 {#Mpeg1}
 ```
 public static final MpegAudioVersion Mpeg1
@@ -59,6 +65,7 @@ public static final MpegAudioVersion Mpeg1
 
 
 The MPEG 1 standard.
+
 
 ### values() {#values--}
 ```
@@ -118,6 +125,7 @@ public Object[] getAllValues()
 
 Returns the array of all values defined in the class.
 
+
 **Returns:**
 java.lang.Object[]
 ### getEnumValueByRawValue(int rawValue) {#getEnumValueByRawValue-int-}
@@ -127,6 +135,7 @@ public IEnumValue getEnumValueByRawValue(int rawValue)
 
 
 Returns the enumeration value by the raw value associated with it.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -143,6 +152,7 @@ public IEnumValue getEnumValueByName(String name)
 
 Returns the enumeration value by its name.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -158,6 +168,7 @@ public RawIntegerType getRawValueType()
 
 Returns the underlying type of the raw value of this enumeration value.
 
+
 **Returns:**
 [RawIntegerType](../../com.groupdocs.metadata.core/rawintegertype)
 ### getRawValue() {#getRawValue--}
@@ -167,6 +178,7 @@ public int getRawValue()
 
 
 Returns the raw value of this enumeration value.
+
 
 **Returns:**
 int

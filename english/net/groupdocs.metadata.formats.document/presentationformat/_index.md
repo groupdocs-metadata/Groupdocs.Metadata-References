@@ -3,7 +3,7 @@ title: PresentationFormat
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Defines various presentation subformats.
 type: docs
-weight: 1300
+weight: 1410
 url: /net/groupdocs.metadata.formats.document/presentationformat/
 ---
 ## PresentationFormat enumeration

@@ -14,20 +14,26 @@ public class MsgPackage extends EmailPackage
 
 Represents MSG message metadata.
 
+
 **Learn more**
 
- *  [Working with saved Emails][]
+* [Working with saved Emails](../https://docs.groupdocs.com/display/metadatajava/Working+with+saved+Emails)
+
+<br />
 
 
-[Working with saved Emails]: https://docs.groupdocs.com/display/metadatajava/Working+with+saved+Emails
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getBody()](#getBody--) | Gets the email message text. |
-| [getCategories()](#getCategories--) | Gets the array of categories or keywords. |
-| [getAttachments()](#getAttachments--) | Gets an array of the attached files. |
-| [getDeliveryTime()](#getDeliveryTime--) | Gets the date and time the message was delivered. |
+| [getBody()](#getBody--) | Gets the email message text.
+ |
+| [getCategories()](#getCategories--) | Gets the array of categories or keywords.
+ |
+| [getAttachments()](#getAttachments--) | Gets an array of the attached files.
+ |
+| [getDeliveryTime()](#getDeliveryTime--) | Gets the date and time the message was delivered.
+ |
 ### getBody() {#getBody--}
 ```
 public final String getBody()
@@ -36,8 +42,10 @@ public final String getBody()
 
 Gets the email message text.
 
+
 **Returns:**
 java.lang.String - The email message text.
+
 ### getCategories() {#getCategories--}
 ```
 public final String[] getCategories()
@@ -46,8 +54,10 @@ public final String[] getCategories()
 
 Gets the array of categories or keywords.
 
+
 **Returns:**
 java.lang.String[] - The array of categories or keywords.
+
 ### getAttachments() {#getAttachments--}
 ```
 public final MsgAttachmentPackage[] getAttachments()
@@ -56,8 +66,10 @@ public final MsgAttachmentPackage[] getAttachments()
 
 Gets an array of the attached files.
 
+
 **Returns:**
 com.groupdocs.metadata.core.MsgAttachmentPackage[] - An array of the attached files.
+
 ### getDeliveryTime() {#getDeliveryTime--}
 ```
 public final Date getDeliveryTime()
@@ -66,5 +78,7 @@ public final Date getDeliveryTime()
 
 Gets the date and time the message was delivered.
 
+
 **Returns:**
 java.util.Date - The delivery time.
+

@@ -3,7 +3,7 @@ title: AVI
 second_title: GroupDocs.Metadata for .NET API Reference
 description: The AVI file format is an Audio Video multimedia container file format that was introduced by Microsoft. Learn more about this file format herehttps//wiki.fileformat.com/video/avi/.
 type: docs
-weight: 20
+weight: 30
 url: /net/groupdocs.metadata.common/filetype/avi/
 ---
 ## FileType.AVI field

@@ -13,3 +13,4 @@ public class DjVuRootPackage extends ImageRootPackage
 ```
 
 Represents the root package intended to work with metadata in an DjVu image.
+

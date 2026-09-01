@@ -13,11 +13,13 @@ public class XmlExportOptions extends ExportOptions
 ```
 
 Creates an export options of xml file.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [XmlExportOptions()](#XmlExportOptions--) | Initializes a new instance of the [XmlExportOptions](../../com.groupdocs.metadata.export/xmlexportoptions) class. |
+| [XmlExportOptions()](#XmlExportOptions--) | Initializes a new instance of the [XmlExportOptions](../../com.groupdocs.metadata.export/xmlexportoptions) class.
+ |
 ### XmlExportOptions() {#XmlExportOptions--}
 ```
 public XmlExportOptions()
@@ -25,4 +27,5 @@ public XmlExportOptions()
 
 
 Initializes a new instance of the [XmlExportOptions](../../com.groupdocs.metadata.export/xmlexportoptions) class.
+
 

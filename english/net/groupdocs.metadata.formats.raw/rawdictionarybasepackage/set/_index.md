@@ -48,7 +48,7 @@ using (Metadata metadata = new Metadata(Constants.RawWithExif))
 
 ### See Also
 
-* class [RawTag](../../../groupdocs.metadata.formats.raw.tag/rawtag)
+* class [RawTag](../../rawtag)
 * class [RawDictionaryBasePackage](../../rawdictionarybasepackage)
 * namespace [GroupDocs.Metadata.Formats.Raw](../../../groupdocs.metadata.formats.raw)
 * assembly [GroupDocs.Metadata](../../../)

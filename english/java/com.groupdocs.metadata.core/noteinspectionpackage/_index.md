@@ -14,17 +14,20 @@ public final class NoteInspectionPackage extends CustomPackage
 
 Represents a metadata package exposing the internal structure of a note section.
 
+
 **Learn more**
 
- *  [Working with metadata in Note formats][]
+* [Working with metadata in Note formats](../https://docs.groupdocs.com/display/metadatajava/Working+with+metadata+in+Note+formats)
+
+<br />
 
 
-[Working with metadata in Note formats]: https://docs.groupdocs.com/display/metadatajava/Working+with+metadata+in+Note+formats
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getPages()](#getPages--) | Gets an array of section pages. |
+| [getPages()](#getPages--) | Gets an array of section pages.
+ |
 ### getPages() {#getPages--}
 ```
 public final NotePage[] getPages()
@@ -33,5 +36,7 @@ public final NotePage[] getPages()
 
 Gets an array of section pages.
 
+
 **Returns:**
 com.groupdocs.metadata.core.NotePage[] - An array of section pages.
+

@@ -16,12 +16,15 @@ public final class IptcRecordType implements IEnumValue
 ```
 
 Defines IPTC record types.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [EnvelopeRecord](#EnvelopeRecord) | Represents an Envelope Record. |
-| [ApplicationRecord](#ApplicationRecord) | Represents an Application Record. |
+| [EnvelopeRecord](#EnvelopeRecord) | Represents an Envelope Record.
+ |
+| [ApplicationRecord](#ApplicationRecord) | Represents an Application Record.
+ |
 ## Methods
 
 | Method | Description |
@@ -44,6 +47,7 @@ public static final IptcRecordType EnvelopeRecord
 
 Represents an Envelope Record.
 
+
 ### ApplicationRecord {#ApplicationRecord}
 ```
 public static final IptcRecordType ApplicationRecord
@@ -51,6 +55,7 @@ public static final IptcRecordType ApplicationRecord
 
 
 Represents an Application Record.
+
 
 ### getByRawValue(int rawValue) {#getByRawValue-int-}
 ```
@@ -85,6 +90,7 @@ public Object[] getAllValues()
 
 Returns the array of all values defined in the class.
 
+
 **Returns:**
 java.lang.Object[]
 ### getEnumValueByRawValue(int rawValue) {#getEnumValueByRawValue-int-}
@@ -94,6 +100,7 @@ public IEnumValue getEnumValueByRawValue(int rawValue)
 
 
 Returns the enumeration value by the raw value associated with it.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -110,6 +117,7 @@ public IEnumValue getEnumValueByName(String name)
 
 Returns the enumeration value by its name.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -125,6 +133,7 @@ public RawIntegerType getRawValueType()
 
 Returns the underlying type of the raw value of this enumeration value.
 
+
 **Returns:**
 [RawIntegerType](../../com.groupdocs.metadata.core/rawintegertype)
 ### getRawValue() {#getRawValue--}
@@ -135,6 +144,7 @@ public int getRawValue()
 
 Returns the raw value of this enumeration value.
 
+
 **Returns:**
 int
 ### name() {#name--}
@@ -144,6 +154,7 @@ public String name()
 
 
 Returns the name of this enumeration value.
+
 
 **Returns:**
 java.lang.String

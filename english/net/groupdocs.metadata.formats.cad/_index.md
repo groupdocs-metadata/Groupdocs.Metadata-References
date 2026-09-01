@@ -3,7 +3,7 @@ title: GroupDocs.Metadata.Formats.Cad
 second_title: GroupDocs.Metadata for .NET API Reference
 description: The namespace contains classes for working with CAD computeraided design formats.
 type: docs
-weight: 90
+weight: 80
 url: /net/groupdocs.metadata.formats.cad/
 ---
 The namespace contains classes for working with CAD (computer-aided design) formats.

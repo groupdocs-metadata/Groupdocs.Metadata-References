@@ -12,6 +12,13 @@ The namespace contains classes for working with archive formats.
 
 | Class | Description |
 | --- | --- |
+| [AarFile](./aarfile) | Represents metadata associated with an archived file or directory. |
+| [AarPackage](./aarpackage) | Represents AAR archive metadata. |
+| [AarRootPackage](./aarrootpackage) | Represents the root package allowing working with metadata in a AAR archive. |
+| [Bz2Package](./bz2package) | Represents BZ2 archive metadata. |
+| [Bz2RootPackage](./bz2rootpackage) | Represents the root package allowing working with metadata in a BZ2 archive. |
+| [GzipPackage](./gzippackage) | Represents GZIP archive metadata. |
+| [GzipRootPackage](./gziprootpackage) | Represents the root package allowing working with metadata in a GZIP archive. |
 | [RarFile](./rarfile) | Represents metadata associated with an archived file or directory. |
 | [RarPackage](./rarpackage) | Represents ZIP archive metadata. |
 | [RarRootPackage](./rarrootpackage) | Represents the root package allowing working with metadata in a ZIP archive. |
@@ -21,9 +28,13 @@ The namespace contains classes for working with archive formats.
 | [TarFile](./tarfile) | Represents metadata associated with an archived file or directory. |
 | [TarPackage](./tarpackage) | Represents ZIP archive metadata. |
 | [TarRootPackage](./tarrootpackage) | Represents the root package allowing working with metadata in a ZIP archive. |
+| [XzPackage](./xzpackage) | Represents XZ archive metadata. |
+| [XzRootPackage](./xzrootpackage) | Represents the root package allowing working with metadata in a XZ archive. |
 | [ZipFile](./zipfile) | Represents metadata associated with an archived file or directory. |
 | [ZipPackage](./zippackage) | Represents ZIP archive metadata. |
 | [ZipRootPackage](./ziprootpackage) | Represents the root package allowing working with metadata in a ZIP archive. |
+| [ZstdPackage](./zstdpackage) | Represents ZSTD archive metadata. |
+| [ZstdRootPackage](./zstdrootpackage) | Represents the root package allowing working with metadata in a ZSTD archive. |
 ## Enumeration
 
 | Enumeration | Description |

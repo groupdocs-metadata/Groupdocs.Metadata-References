@@ -14,15 +14,18 @@ public class DiagramRootPackage extends DocumentRootPackage<DiagramPackage>
 
 Represents the root package intended to work with metadata in a diagram.
 
+
 **Learn more**
 
- *  [Working with metadata in Diagrams][]
+* [Working with metadata in Diagrams](../https://docs.groupdocs.com/display/metadatajava/Working+with+metadata+in+Diagrams)
+
+<br />
 
 This code sample demonstrates how to extract built-in metadata properties from a diagram.
-
+>
+> ````
 > ```
-> ```
-> 
+>
 >  try (Metadata metadata = new Metadata(Constants.InputVsdx)) {
 >      DiagramRootPackage root = metadata.getRootPackageGeneric();
 >      System.out.println(root.getDocumentProperties().getCreator());
@@ -35,16 +38,17 @@ This code sample demonstrates how to extract built-in metadata properties from a
 >  }
 >  
 > ```
-> ```
+> ````
 
 
-[Working with metadata in Diagrams]: https://docs.groupdocs.com/display/metadatajava/Working+with+metadata+in+Diagrams
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getDiagramType()](#getDiagramType--) | Gets the file type metadata package. |
-| [getDocumentStatistics()](#getDocumentStatistics--) | Gets the document statistics package. |
+| [getDiagramType()](#getDiagramType--) | Gets the file type metadata package.
+ |
+| [getDocumentStatistics()](#getDocumentStatistics--) | Gets the document statistics package.
+ |
 ### getDiagramType() {#getDiagramType--}
 ```
 public final DiagramTypePackage getDiagramType()
@@ -53,8 +57,10 @@ public final DiagramTypePackage getDiagramType()
 
 Gets the file type metadata package.
 
+
 **Returns:**
 [DiagramTypePackage](../../com.groupdocs.metadata.core/diagramtypepackage) - The file type metadata package.
+
 ### getDocumentStatistics() {#getDocumentStatistics--}
 ```
 public final DocumentStatistics getDocumentStatistics()
@@ -63,5 +69,7 @@ public final DocumentStatistics getDocumentStatistics()
 
 Gets the document statistics package.
 
+
 **Returns:**
 [DocumentStatistics](../../com.groupdocs.metadata.core/documentstatistics) - The document statistics package.
+

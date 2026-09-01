@@ -51,7 +51,7 @@ using (Metadata metadata = new Metadata(Constants.JpegWithExif))
 ### See Also
 
 * interface [IReadOnlyList&lt;T&gt;](../../../groupdocs.metadata.common/ireadonlylist-1)
-* class [RawTag](../../../groupdocs.metadata.formats.raw.tag/rawtag)
+* class [RawTag](../../rawtag)
 * class [RawDictionaryBasePackage](../../rawdictionarybasepackage)
 * namespace [GroupDocs.Metadata.Formats.Raw](../../../groupdocs.metadata.formats.raw)
 * assembly [GroupDocs.Metadata](../../../)

@@ -12,19 +12,24 @@ java.lang.Object, [com.groupdocs.metadata.core.MetadataPackage](../../com.groupd
 public class OpenTypeUnicodeNameRecord extends OpenTypeBaseNameRecord
 ```
 
-Represents the Name record table value for the  OpenTypePlatform.Unicode  platform.
+Represents the Name record table value for the 
+OpenTypePlatform.Unicode
+ platform.
+
 
 **Learn more**
 
- *  [Working with OpenType fonts][]
+* [Working with OpenType fonts](../https://docs.groupdocs.com/display/metadatajava/Working+with+OpenType+fonts)
+
+<br />
 
 
-[Working with OpenType fonts]: https://docs.groupdocs.com/display/metadatajava/Working+with+OpenType+fonts
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getEncoding()](#getEncoding--) | Gets the encoding identifier. |
+| [getEncoding()](#getEncoding--) | Gets the encoding identifier.
+ |
 ### getEncoding() {#getEncoding--}
 ```
 public final OpenTypeUnicodeEncoding getEncoding()
@@ -33,5 +38,7 @@ public final OpenTypeUnicodeEncoding getEncoding()
 
 Gets the encoding identifier.
 
+
 **Returns:**
 [OpenTypeUnicodeEncoding](../../com.groupdocs.metadata.core/opentypeunicodeencoding) - The encoding identifier.
+

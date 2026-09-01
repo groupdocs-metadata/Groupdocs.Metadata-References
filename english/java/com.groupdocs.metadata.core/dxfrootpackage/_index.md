@@ -14,9 +14,11 @@ public class DxfRootPackage extends CadRootPackage
 
 Represents the root package allowing working with metadata in a DXF drawing.
 
+
 **Learn more**
 
- *  [Working with CAD metadata][]
+* [Working with CAD metadata](../https://docs.groupdocs.com/display/metadatajava/Working+with+CAD+metadata)
+
+<br />
 
 
-[Working with CAD metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+CAD+metadata

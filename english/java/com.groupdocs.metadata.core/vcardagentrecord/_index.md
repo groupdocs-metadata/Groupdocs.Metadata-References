@@ -17,18 +17,22 @@ public class VCardAgentRecord extends VCardRecord implements IVCardRecord<VCardC
 
 Represents vCard Agent record metadata class.
 
+
 **Learn more**
 
- *  [Working with vCard metadata][]
+* [Working with vCard metadata](../https://docs.groupdocs.com/display/metadatajava/Working+with+vCard+metadata)
+
+<br />
 
 
-[Working with vCard metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+vCard+metadata
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getContentType()](#getContentType--) | Gets the content type of record. |
-| [getValue()](#getValue--) | Gets the record value. |
+| [getContentType()](#getContentType--) | Gets the content type of record.
+ |
+| [getValue()](#getValue--) | Gets the record value.
+ |
 ### getContentType() {#getContentType--}
 ```
 public VCardContentType getContentType()
@@ -37,8 +41,10 @@ public VCardContentType getContentType()
 
 Gets the content type of record.
 
+
 **Returns:**
 [VCardContentType](../../com.groupdocs.metadata.core/vcardcontenttype) - The content type of record.
+
 ### getValue() {#getValue--}
 ```
 public final VCardCard getValue()
@@ -47,5 +53,7 @@ public final VCardCard getValue()
 
 Gets the record value.
 
+
 **Returns:**
 [VCardCard](../../com.groupdocs.metadata.core/vcardcard) - The record value.
+

@@ -15,13 +15,18 @@ java.lang.Object, java.lang.Enum
 public enum XmpColorType extends Enum<XmpColorType> implements IEnumValue
 ```
 
-Type of color in  XmpColorantBase .
+Type of color in 
+XmpColorantBase
+.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Process](#Process) | The Process color type. |
-| [Spot](#Spot) | The Spot color type. |
+| [Process](#Process) | The Process color type.
+ |
+| [Spot](#Spot) | The Spot color type.
+ |
 ## Methods
 
 | Method | Description |
@@ -43,6 +48,7 @@ public static final XmpColorType Process
 
 The Process color type.
 
+
 ### Spot {#Spot}
 ```
 public static final XmpColorType Spot
@@ -50,6 +56,7 @@ public static final XmpColorType Spot
 
 
 The Spot color type.
+
 
 ### values() {#values--}
 ```
@@ -109,6 +116,7 @@ public Object[] getAllValues()
 
 Returns the array of all values defined in the class.
 
+
 **Returns:**
 java.lang.Object[]
 ### getEnumValueByRawValue(int rawValue) {#getEnumValueByRawValue-int-}
@@ -118,6 +126,7 @@ public IEnumValue getEnumValueByRawValue(int rawValue)
 
 
 Returns the enumeration value by the raw value associated with it.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -134,6 +143,7 @@ public IEnumValue getEnumValueByName(String name)
 
 Returns the enumeration value by its name.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -149,6 +159,7 @@ public RawIntegerType getRawValueType()
 
 Returns the underlying type of the raw value of this enumeration value.
 
+
 **Returns:**
 [RawIntegerType](../../com.groupdocs.metadata.core/rawintegertype)
 ### getRawValue() {#getRawValue--}
@@ -158,6 +169,7 @@ public int getRawValue()
 
 
 Returns the raw value of this enumeration value.
+
 
 **Returns:**
 int

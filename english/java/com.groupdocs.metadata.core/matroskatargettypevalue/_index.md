@@ -16,18 +16,27 @@ public enum MatroskaTargetTypeValue extends Enum<MatroskaTargetTypeValue> implem
 ```
 
 Represents a number to indicate the logical level of the Matroska tag target.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Undefined](#Undefined) | Undefined level. |
-| [Collection](#Collection) | COLLECTION level. |
-| [Edition](#Edition) | EDITION / ISSUE / VOLUME / OPUS / SEASON / SEQUEL level. |
-| [Album](#Album) | ALBUM / OPERA / CONCERT / MOVIE / EPISODE / CONCERT level. |
-| [Part](#Part) | PART / SESSION level. |
-| [Track](#Track) | TRACK / SONG / CHAPTER level. |
-| [Subtrack](#Subtrack) | SUBTRACK / PART / MOVEMENT / SCENE level. |
-| [Shot](#Shot) | SHOT level. |
+| [Undefined](#Undefined) | Undefined level.
+ |
+| [Collection](#Collection) | COLLECTION level.
+ |
+| [Edition](#Edition) | EDITION / ISSUE / VOLUME / OPUS / SEASON / SEQUEL level.
+ |
+| [Album](#Album) | ALBUM / OPERA / CONCERT / MOVIE / EPISODE / CONCERT level.
+ |
+| [Part](#Part) | PART / SESSION level.
+ |
+| [Track](#Track) | TRACK / SONG / CHAPTER level.
+ |
+| [Subtrack](#Subtrack) | SUBTRACK / PART / MOVEMENT / SCENE level.
+ |
+| [Shot](#Shot) | SHOT level.
+ |
 ## Methods
 
 | Method | Description |
@@ -49,6 +58,7 @@ public static final MatroskaTargetTypeValue Undefined
 
 Undefined level.
 
+
 ### Collection {#Collection}
 ```
 public static final MatroskaTargetTypeValue Collection
@@ -56,6 +66,7 @@ public static final MatroskaTargetTypeValue Collection
 
 
 COLLECTION level.
+
 
 ### Edition {#Edition}
 ```
@@ -65,6 +76,7 @@ public static final MatroskaTargetTypeValue Edition
 
 EDITION / ISSUE / VOLUME / OPUS / SEASON / SEQUEL level.
 
+
 ### Album {#Album}
 ```
 public static final MatroskaTargetTypeValue Album
@@ -72,6 +84,7 @@ public static final MatroskaTargetTypeValue Album
 
 
 ALBUM / OPERA / CONCERT / MOVIE / EPISODE / CONCERT level.
+
 
 ### Part {#Part}
 ```
@@ -81,6 +94,7 @@ public static final MatroskaTargetTypeValue Part
 
 PART / SESSION level.
 
+
 ### Track {#Track}
 ```
 public static final MatroskaTargetTypeValue Track
@@ -88,6 +102,7 @@ public static final MatroskaTargetTypeValue Track
 
 
 TRACK / SONG / CHAPTER level.
+
 
 ### Subtrack {#Subtrack}
 ```
@@ -97,6 +112,7 @@ public static final MatroskaTargetTypeValue Subtrack
 
 SUBTRACK / PART / MOVEMENT / SCENE level.
 
+
 ### Shot {#Shot}
 ```
 public static final MatroskaTargetTypeValue Shot
@@ -104,6 +120,7 @@ public static final MatroskaTargetTypeValue Shot
 
 
 SHOT level.
+
 
 ### values() {#values--}
 ```
@@ -163,6 +180,7 @@ public Object[] getAllValues()
 
 Returns the array of all values defined in the class.
 
+
 **Returns:**
 java.lang.Object[]
 ### getEnumValueByRawValue(int rawValue) {#getEnumValueByRawValue-int-}
@@ -172,6 +190,7 @@ public IEnumValue getEnumValueByRawValue(int rawValue)
 
 
 Returns the enumeration value by the raw value associated with it.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -188,6 +207,7 @@ public IEnumValue getEnumValueByName(String name)
 
 Returns the enumeration value by its name.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -203,6 +223,7 @@ public RawIntegerType getRawValueType()
 
 Returns the underlying type of the raw value of this enumeration value.
 
+
 **Returns:**
 [RawIntegerType](../../com.groupdocs.metadata.core/rawintegertype)
 ### getRawValue() {#getRawValue--}
@@ -212,6 +233,7 @@ public int getRawValue()
 
 
 Returns the raw value of this enumeration value.
+
 
 **Returns:**
 int

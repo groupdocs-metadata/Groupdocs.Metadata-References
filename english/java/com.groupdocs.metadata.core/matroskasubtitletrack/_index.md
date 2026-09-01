@@ -14,17 +14,20 @@ public class MatroskaSubtitleTrack extends MatroskaTrack
 
 Represents subtitle metadata in a Matroska video.
 
+
 **Learn more**
 
- *  [Working with metadata in Matroska (MKV) files][Working with metadata in Matroska _MKV_ files]
+* [Working with metadata in Matroska (MKV) files](../https://docs.groupdocs.com/display/metadatajava/Working+with+metadata+in+Matroska+%28MKV%29+files)
+
+<br />
 
 
-[Working with metadata in Matroska _MKV_ files]: https://docs.groupdocs.com/display/metadatajava/Working+with+metadata+in+Matroska+%28MKV%29+files
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getSubtitles()](#getSubtitles--) | Gets the subtitles. |
+| [getSubtitles()](#getSubtitles--) | Gets the subtitles.
+ |
 ### getSubtitles() {#getSubtitles--}
 ```
 public final MatroskaSubtitle[] getSubtitles()
@@ -33,5 +36,7 @@ public final MatroskaSubtitle[] getSubtitles()
 
 Gets the subtitles.
 
+
 **Returns:**
 com.groupdocs.metadata.core.MatroskaSubtitle[] - The subtitles.
+

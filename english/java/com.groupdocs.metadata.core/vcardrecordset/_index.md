@@ -14,9 +14,11 @@ public class VCardRecordset extends VCardBasePackage
 
 Provides a base vCard record union class.
 
+
 **Learn more**
 
- *  [Working with vCard metadata][]
+* [Working with vCard metadata](../https://docs.groupdocs.com/display/metadatajava/Working+with+vCard+metadata)
+
+<br />
 
 
-[Working with vCard metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+vCard+metadata

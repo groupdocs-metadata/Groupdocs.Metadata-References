@@ -14,12 +14,16 @@ public abstract class DocumentRootPackage<TPackage> extends RootMetadataPackage
 
 Represents a root package for document formats such as PDF, WordProcessing, Spreadsheet, Presentation, etc.
 
- TPackage : The type of the native metadata package.
+
+TPackage
+: The type of the native metadata package.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getDocumentProperties()](#getDocumentProperties--) | Gets the native metadata properties presented in the document. |
+| [getDocumentProperties()](#getDocumentProperties--) | Gets the native metadata properties presented in the document.
+ |
 ### getDocumentProperties() {#getDocumentProperties--}
 ```
 public TPackage getDocumentProperties()
@@ -28,5 +32,7 @@ public TPackage getDocumentProperties()
 
 Gets the native metadata properties presented in the document.
 
+
 **Returns:**
 TPackage - The document properties.
+

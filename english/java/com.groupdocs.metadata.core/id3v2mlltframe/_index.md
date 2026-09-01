@@ -12,11 +12,15 @@ java.lang.Object, [com.groupdocs.metadata.core.MetadataPackage](../../com.groupd
 public final class ID3V2MlltFrame extends ID3V2TagFrame
 ```
 
-Represents an MLLT frame in an  ID3V2Tag .
+Represents an MLLT frame in an 
+ID3V2Tag
+.
+
 
 **Learn more**
 
- *  [Handling the ID3v2 tag][]
+* [Handling the ID3v2 tag](../https://docs.groupdocs.com/display/metadatajava/Handling+the+ID3v2+tag)
+
+<br />
 
 
-[Handling the ID3v2 tag]: https://docs.groupdocs.com/display/metadatajava/Handling+the+ID3v2+tag

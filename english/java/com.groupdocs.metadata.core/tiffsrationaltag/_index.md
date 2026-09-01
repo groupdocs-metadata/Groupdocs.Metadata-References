@@ -13,22 +13,31 @@ public final class TiffSRationalTag extends TiffArrayTag<TiffSRational>
 ```
 
 Represents a TIFF SRational tag.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [TiffSRationalTag(TiffTagID tagID, TiffSRational[] value)](#TiffSRationalTag-com.groupdocs.metadata.core.TiffTagID-com.groupdocs.metadata.core.TiffSRational---) | Initializes a new instance of the  TiffSRationalTag  class. |
+| [TiffSRationalTag(TiffTagID tagID, TiffSRational[] value)](#TiffSRationalTag-com.groupdocs.metadata.core.TiffTagID-com.groupdocs.metadata.core.TiffSRational---) | Initializes a new instance of the 
+TiffSRationalTag
+ class.
+ |
 ### TiffSRationalTag(TiffTagID tagID, TiffSRational[] value) {#TiffSRationalTag-com.groupdocs.metadata.core.TiffTagID-com.groupdocs.metadata.core.TiffSRational---}
 ```
 public TiffSRationalTag(TiffTagID tagID, TiffSRational[] value)
 ```
 
 
-Initializes a new instance of the  TiffSRationalTag  class.
+Initializes a new instance of the 
+TiffSRationalTag
+ class.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| tagID | [TiffTagID](../../com.groupdocs.metadata.core/tifftagid) | The tag identifier. |
-| value | [TiffSRational\[\]](../../com.groupdocs.metadata.core/tiffsrational) | The value. |
+| tagID | [TiffTagID](../../com.groupdocs.metadata.core/tifftagid) | The tag identifier.
+ |
+| value | [TiffSRational\[\]](../../com.groupdocs.metadata.core/tiffsrational) | The value.
+ |
 

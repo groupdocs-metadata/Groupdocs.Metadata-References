@@ -15,21 +15,34 @@ java.lang.Object, java.lang.Enum
 public enum OpenTypeWidth extends Enum<OpenTypeWidth> implements IEnumValue
 ```
 
-Represents the OpenType font width. Indicates a relative change from the normal aspect ratio (width to height ratio) as specified by a font designer for the glyphs in a font.
+Represents the OpenType font width.
+Indicates a relative change from the normal aspect ratio (width to height ratio)
+as specified by a font designer for the glyphs in a font.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Undefined](#Undefined) | The undefined wifth. |
-| [UltraCondensed](#UltraCondensed) | The Ultra-condensed wifth. |
-| [ExtraCondensed](#ExtraCondensed) | The Extra-condensed wifth. |
-| [Condensed](#Condensed) | The Condensed wifth. |
-| [SemiCondensed](#SemiCondensed) | The Semi-condensed wifth. |
-| [Medium](#Medium) | The Medium (normal) wifth. |
-| [SemiExpanded](#SemiExpanded) | The Semi-expanded wifth. |
-| [Expanded](#Expanded) | The Expanded wifth. |
-| [ExtraExpanded](#ExtraExpanded) | The Extra-expanded wifth. |
-| [UltraExpanded](#UltraExpanded) | The Ultra-expanded wifth. |
+| [Undefined](#Undefined) | The undefined wifth.
+ |
+| [UltraCondensed](#UltraCondensed) | The Ultra-condensed wifth.
+ |
+| [ExtraCondensed](#ExtraCondensed) | The Extra-condensed wifth.
+ |
+| [Condensed](#Condensed) | The Condensed wifth.
+ |
+| [SemiCondensed](#SemiCondensed) | The Semi-condensed wifth.
+ |
+| [Medium](#Medium) | The Medium (normal) wifth.
+ |
+| [SemiExpanded](#SemiExpanded) | The Semi-expanded wifth.
+ |
+| [Expanded](#Expanded) | The Expanded wifth.
+ |
+| [ExtraExpanded](#ExtraExpanded) | The Extra-expanded wifth.
+ |
+| [UltraExpanded](#UltraExpanded) | The Ultra-expanded wifth.
+ |
 ## Methods
 
 | Method | Description |
@@ -51,6 +64,7 @@ public static final OpenTypeWidth Undefined
 
 The undefined wifth.
 
+
 ### UltraCondensed {#UltraCondensed}
 ```
 public static final OpenTypeWidth UltraCondensed
@@ -58,6 +72,7 @@ public static final OpenTypeWidth UltraCondensed
 
 
 The Ultra-condensed wifth.
+
 
 ### ExtraCondensed {#ExtraCondensed}
 ```
@@ -67,6 +82,7 @@ public static final OpenTypeWidth ExtraCondensed
 
 The Extra-condensed wifth.
 
+
 ### Condensed {#Condensed}
 ```
 public static final OpenTypeWidth Condensed
@@ -74,6 +90,7 @@ public static final OpenTypeWidth Condensed
 
 
 The Condensed wifth.
+
 
 ### SemiCondensed {#SemiCondensed}
 ```
@@ -83,6 +100,7 @@ public static final OpenTypeWidth SemiCondensed
 
 The Semi-condensed wifth.
 
+
 ### Medium {#Medium}
 ```
 public static final OpenTypeWidth Medium
@@ -90,6 +108,7 @@ public static final OpenTypeWidth Medium
 
 
 The Medium (normal) wifth.
+
 
 ### SemiExpanded {#SemiExpanded}
 ```
@@ -99,6 +118,7 @@ public static final OpenTypeWidth SemiExpanded
 
 The Semi-expanded wifth.
 
+
 ### Expanded {#Expanded}
 ```
 public static final OpenTypeWidth Expanded
@@ -106,6 +126,7 @@ public static final OpenTypeWidth Expanded
 
 
 The Expanded wifth.
+
 
 ### ExtraExpanded {#ExtraExpanded}
 ```
@@ -115,6 +136,7 @@ public static final OpenTypeWidth ExtraExpanded
 
 The Extra-expanded wifth.
 
+
 ### UltraExpanded {#UltraExpanded}
 ```
 public static final OpenTypeWidth UltraExpanded
@@ -122,6 +144,7 @@ public static final OpenTypeWidth UltraExpanded
 
 
 The Ultra-expanded wifth.
+
 
 ### values() {#values--}
 ```
@@ -181,6 +204,7 @@ public Object[] getAllValues()
 
 Returns the array of all values defined in the class.
 
+
 **Returns:**
 java.lang.Object[]
 ### getEnumValueByRawValue(int rawValue) {#getEnumValueByRawValue-int-}
@@ -190,6 +214,7 @@ public IEnumValue getEnumValueByRawValue(int rawValue)
 
 
 Returns the enumeration value by the raw value associated with it.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -206,6 +231,7 @@ public IEnumValue getEnumValueByName(String name)
 
 Returns the enumeration value by its name.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -221,6 +247,7 @@ public RawIntegerType getRawValueType()
 
 Returns the underlying type of the raw value of this enumeration value.
 
+
 **Returns:**
 [RawIntegerType](../../com.groupdocs.metadata.core/rawintegertype)
 ### getRawValue() {#getRawValue--}
@@ -230,6 +257,7 @@ public int getRawValue()
 
 
 Returns the raw value of this enumeration value.
+
 
 **Returns:**
 int

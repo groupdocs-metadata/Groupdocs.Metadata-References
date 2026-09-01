@@ -13,3 +13,4 @@ public abstract class CustomPackage extends MetadataPackage
 ```
 
 Provides a container for metadata properties.
+

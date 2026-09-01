@@ -14,18 +14,22 @@ public abstract class EmailRootPackage extends RootMetadataPackage
 
 Represents the root package allowing working with metadata in an email message.
 
+
 **Learn more**
 
- *  [Working with saved Emails][]
+* [Working with saved Emails](../https://docs.groupdocs.com/display/metadatajava/Working+with+saved+Emails)
+
+<br />
 
 
-[Working with saved Emails]: https://docs.groupdocs.com/display/metadatajava/Working+with+saved+Emails
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getEmailPackage()](#getEmailPackage--) | Gets the email metadata package. |
-| [clearAttachments()](#clearAttachments--) | Removes all the attachments form the email message. |
+| [getEmailPackage()](#getEmailPackage--) | Gets the email metadata package.
+ |
+| [clearAttachments()](#clearAttachments--) | Removes all the attachments form the email message.
+ |
 ### getEmailPackage() {#getEmailPackage--}
 ```
 public final EmailPackage getEmailPackage()
@@ -34,8 +38,10 @@ public final EmailPackage getEmailPackage()
 
 Gets the email metadata package.
 
+
 **Returns:**
 [EmailPackage](../../com.groupdocs.metadata.core/emailpackage) - The email metadata package.
+
 ### clearAttachments() {#clearAttachments--}
 ```
 public final void clearAttachments()
@@ -43,4 +49,5 @@ public final void clearAttachments()
 
 
 Removes all the attachments form the email message.
+
 

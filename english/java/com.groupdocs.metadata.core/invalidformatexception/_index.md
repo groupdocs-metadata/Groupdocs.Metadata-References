@@ -13,20 +13,33 @@ public final class InvalidFormatException extends GroupDocsMetadataException
 ```
 
 The exception that is thrown when a file has an invalid format.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [InvalidFormatException()](#InvalidFormatException--) | Initializes a new instance of the  InvalidFormatException  class. |
-| [InvalidFormatException(String message)](#InvalidFormatException-java.lang.String-) | Initializes a new instance of the  InvalidFormatException  class. |
-| [InvalidFormatException(String message, RuntimeException innerException)](#InvalidFormatException-java.lang.String-java.lang.RuntimeException-) | Initializes a new instance of the  InvalidFormatException  class. |
+| [InvalidFormatException()](#InvalidFormatException--) | Initializes a new instance of the 
+InvalidFormatException
+ class.
+ |
+| [InvalidFormatException(String message)](#InvalidFormatException-java.lang.String-) | Initializes a new instance of the 
+InvalidFormatException
+ class.
+ |
+| [InvalidFormatException(String message, RuntimeException innerException)](#InvalidFormatException-java.lang.String-java.lang.RuntimeException-) | Initializes a new instance of the 
+InvalidFormatException
+ class.
+ |
 ### InvalidFormatException() {#InvalidFormatException--}
 ```
 public InvalidFormatException()
 ```
 
 
-Initializes a new instance of the  InvalidFormatException  class.
+Initializes a new instance of the 
+InvalidFormatException
+ class.
+
 
 ### InvalidFormatException(String message) {#InvalidFormatException-java.lang.String-}
 ```
@@ -34,12 +47,16 @@ public InvalidFormatException(String message)
 ```
 
 
-Initializes a new instance of the  InvalidFormatException  class.
+Initializes a new instance of the 
+InvalidFormatException
+ class.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| message | java.lang.String | The message that describes the error. |
+| message | java.lang.String | The message that describes the error.
+ |
 
 ### InvalidFormatException(String message, RuntimeException innerException) {#InvalidFormatException-java.lang.String-java.lang.RuntimeException-}
 ```
@@ -47,11 +64,16 @@ public InvalidFormatException(String message, RuntimeException innerException)
 ```
 
 
-Initializes a new instance of the  InvalidFormatException  class.
+Initializes a new instance of the 
+InvalidFormatException
+ class.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| message | java.lang.String | The error message that explains the reason for the exception. |
-| innerException | java.lang.RuntimeException | The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified. |
+| message | java.lang.String | The error message that explains the reason for the exception.
+ |
+| innerException | java.lang.RuntimeException | The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified.
+ |
 

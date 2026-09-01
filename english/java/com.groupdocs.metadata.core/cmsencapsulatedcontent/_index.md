@@ -13,12 +13,15 @@ public class CmsEncapsulatedContent extends CustomPackage
 ```
 
 Represents a signed content container, consisting of a content type identifier and the content itself.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getContentType()](#getContentType--) | Gets the object identifier uniquely specifies the content type. |
-| [getContentRawData()](#getContentRawData--) | Gets the raw data of content info. |
+| [getContentType()](#getContentType--) | Gets the object identifier uniquely specifies the content type.
+ |
+| [getContentRawData()](#getContentRawData--) | Gets the raw data of content info.
+ |
 ### getContentType() {#getContentType--}
 ```
 public final Oid getContentType()
@@ -27,8 +30,10 @@ public final Oid getContentType()
 
 Gets the object identifier uniquely specifies the content type.
 
+
 **Returns:**
 [Oid](../../com.groupdocs.metadata.core/oid) - The object identifier uniquely specifies the content type.
+
 ### getContentRawData() {#getContentRawData--}
 ```
 public final byte[] getContentRawData()
@@ -37,5 +42,7 @@ public final byte[] getContentRawData()
 
 Gets the raw data of content info.
 
+
 **Returns:**
 byte[] - The raw data of content info.
+

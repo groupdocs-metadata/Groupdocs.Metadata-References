@@ -14,17 +14,25 @@ public final class TarFile extends CustomPackage
 
 Represents metadata associated with an archived file or directory.
 
---------------------
+<br />
+
+*** ** * ** ***
 
  **Learn more** 
 
- *  
+* 
+
+<br />
+
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getSize()](#getSize--) | Gets the size in bytes. |
-| [getName()](#getName--) | Gets the entry name. |
+| [getSize()](#getSize--) | Gets the size in bytes.
+ |
+| [getName()](#getName--) | Gets the entry name.
+ |
 ### getSize() {#getSize--}
 ```
 public final long getSize()
@@ -32,8 +40,8 @@ public final long getSize()
 
 
 Gets the size in bytes.
-
 Value: The size in bytes.
+
 
 **Returns:**
 long
@@ -44,8 +52,8 @@ public final String getName()
 
 
 Gets the entry name.
-
 Value: The entry name. It can be a file or directory name.
+
 
 **Returns:**
 java.lang.String

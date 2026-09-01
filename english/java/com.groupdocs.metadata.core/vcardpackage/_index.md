@@ -14,17 +14,20 @@ public final class VCardPackage extends VCardBasePackage
 
 Represents VCF (Virtual Contact File) electronic business card format metadata.
 
+
 **Learn more**
 
- *  [Working with vCard metadata][]
+* [Working with vCard metadata](../https://docs.groupdocs.com/display/metadatajava/Working+with+vCard+metadata)
+
+<br />
 
 
-[Working with vCard metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+vCard+metadata
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getCards()](#getCards--) | Gets an array of the cards extracted from the file. |
+| [getCards()](#getCards--) | Gets an array of the cards extracted from the file.
+ |
 ### getCards() {#getCards--}
 ```
 public final VCardCard[] getCards()
@@ -33,5 +36,7 @@ public final VCardCard[] getCards()
 
 Gets an array of the cards extracted from the file.
 
+
 **Returns:**
 com.groupdocs.metadata.core.VCardCard[] - An array of the cards extracted from the file.
+

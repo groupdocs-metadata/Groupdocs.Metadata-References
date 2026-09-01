@@ -14,17 +14,20 @@ public final class Cr2Package extends RawPackage
 
 Represents native CR2 metadata.
 
+
 **Learn more**
 
- *  [Working with DNG metadata][]
+* [Working with DNG metadata](../https://docs.groupdocs.com/display/metadatajava/Working+with+CR2+metadata)
+
+<br />
 
 
-[Working with DNG metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+CR2+metadata
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getRawTiffTagPackage()](#getRawTiffTagPackage--) | Gets the Tag Support Levels. |
+| [getRawTiffTagPackage()](#getRawTiffTagPackage--) | Gets the Tag Support Levels.
+ |
 ### getRawTiffTagPackage() {#getRawTiffTagPackage--}
 ```
 public final RawTiffTagPackage getRawTiffTagPackage()
@@ -33,5 +36,7 @@ public final RawTiffTagPackage getRawTiffTagPackage()
 
 Gets the Tag Support Levels.
 
+
 **Returns:**
 [RawTiffTagPackage](../../com.groupdocs.metadata.core/rawtifftagpackage) - The Tag Support Levels.
+

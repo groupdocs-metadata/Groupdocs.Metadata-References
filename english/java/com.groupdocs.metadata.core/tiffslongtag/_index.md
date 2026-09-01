@@ -13,22 +13,31 @@ public final class TiffSLongTag extends TiffArrayTag<Integer>
 ```
 
 Represents a TIFF SLong tag.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [TiffSLongTag(TiffTagID tagID, int[] value)](#TiffSLongTag-com.groupdocs.metadata.core.TiffTagID-int---) | Initializes a new instance of the  TiffSLongTag  class. |
+| [TiffSLongTag(TiffTagID tagID, int[] value)](#TiffSLongTag-com.groupdocs.metadata.core.TiffTagID-int---) | Initializes a new instance of the 
+TiffSLongTag
+ class.
+ |
 ### TiffSLongTag(TiffTagID tagID, int[] value) {#TiffSLongTag-com.groupdocs.metadata.core.TiffTagID-int---}
 ```
 public TiffSLongTag(TiffTagID tagID, int[] value)
 ```
 
 
-Initializes a new instance of the  TiffSLongTag  class.
+Initializes a new instance of the 
+TiffSLongTag
+ class.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| tagID | [TiffTagID](../../com.groupdocs.metadata.core/tifftagid) | The tag identifier. |
-| value | int[] | The value. |
+| tagID | [TiffTagID](../../com.groupdocs.metadata.core/tifftagid) | The tag identifier.
+ |
+| value | int[] | The value.
+ |
 

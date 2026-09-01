@@ -11,15 +11,18 @@ public interface IExif
 
 Defines base operations intended to work with EXIF metadata.
 
+
 **Learn more**
 
- *  [Working with EXIF metadata][]
+* [Working with EXIF metadata](../https://docs.groupdocs.com/display/metadatajava/Working+with+EXIF+metadata)
+
+<br />
 
 This code sample demonstrates how to extract basic EXIF metadata properties.
-
+>
+> ````
 > ```
-> ```
-> 
+>
 >  try (Metadata metadata = new Metadata(Constants.TiffWithExif)) {
 >      IExif root = (IExif) metadata.getRootPackage();
 >      if (root.getExifPackage() != null) {
@@ -44,16 +47,17 @@ This code sample demonstrates how to extract basic EXIF metadata properties.
 >  }
 >  
 > ```
-> ```
+> ````
 
 
-[Working with EXIF metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+EXIF+metadata
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getExifPackage()](#getExifPackage--) | Gets the EXIF metadata package associated with the file. |
-| [setExifPackage(ExifPackage value)](#setExifPackage-com.groupdocs.metadata.core.ExifPackage-) | Sets the EXIF metadata package associated with the file. |
+| [getExifPackage()](#getExifPackage--) | Gets the EXIF metadata package associated with the file.
+ |
+| [setExifPackage(ExifPackage value)](#setExifPackage-com.groupdocs.metadata.core.ExifPackage-) | Sets the EXIF metadata package associated with the file.
+ |
 ### getExifPackage() {#getExifPackage--}
 ```
 public abstract ExifPackage getExifPackage()
@@ -62,8 +66,10 @@ public abstract ExifPackage getExifPackage()
 
 Gets the EXIF metadata package associated with the file.
 
+
 **Returns:**
 [ExifPackage](../../com.groupdocs.metadata.core/exifpackage) - The EXIF metadata package associated with the file.
+
 ### setExifPackage(ExifPackage value) {#setExifPackage-com.groupdocs.metadata.core.ExifPackage-}
 ```
 public abstract void setExifPackage(ExifPackage value)
@@ -72,8 +78,10 @@ public abstract void setExifPackage(ExifPackage value)
 
 Sets the EXIF metadata package associated with the file.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [ExifPackage](../../com.groupdocs.metadata.core/exifpackage) | The EXIF metadata package associated with the file. |
+| value | [ExifPackage](../../com.groupdocs.metadata.core/exifpackage) | The EXIF metadata package associated with the file.
+ |
 

@@ -13,25 +13,35 @@ public final class Cr2MultiExpPackage extends RawDictionaryBasePackage
 ```
 
 Represents Canon MakerNotes tags.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [Cr2MultiExpPackage()](#Cr2MultiExpPackage--) | Initializes a new instance of the  Cr2MultiExpPackage  class. |
+| [Cr2MultiExpPackage()](#Cr2MultiExpPackage--) | Initializes a new instance of the 
+Cr2MultiExpPackage
+ class.
+ |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getMultiExposure()](#getMultiExposure--) | Gets the MultiExposure. |
-| [getMultiExposureControl()](#getMultiExposureControl--) | Gets the MultiExposureControl. |
-| [getMultiExposureShots()](#getMultiExposureShots--) | Gets the MultiExposureShots. |
+| [getMultiExposure()](#getMultiExposure--) | Gets the MultiExposure.
+ |
+| [getMultiExposureControl()](#getMultiExposureControl--) | Gets the MultiExposureControl.
+ |
+| [getMultiExposureShots()](#getMultiExposureShots--) | Gets the MultiExposureShots.
+ |
 ### Cr2MultiExpPackage() {#Cr2MultiExpPackage--}
 ```
 public Cr2MultiExpPackage()
 ```
 
 
-Initializes a new instance of the  Cr2MultiExpPackage  class.
+Initializes a new instance of the 
+Cr2MultiExpPackage
+ class.
+
 
 ### getMultiExposure() {#getMultiExposure--}
 ```
@@ -41,8 +51,10 @@ public final int getMultiExposure()
 
 Gets the MultiExposure.
 
+
 **Returns:**
 int - The MultiExposure.
+
 ### getMultiExposureControl() {#getMultiExposureControl--}
 ```
 public final int getMultiExposureControl()
@@ -51,8 +63,10 @@ public final int getMultiExposureControl()
 
 Gets the MultiExposureControl.
 
+
 **Returns:**
 int - The MultiExposureControl.
+
 ### getMultiExposureShots() {#getMultiExposureShots--}
 ```
 public final int getMultiExposureShots()
@@ -61,5 +75,7 @@ public final int getMultiExposureShots()
 
 Gets the MultiExposureShots.
 
+
 **Returns:**
 int - The MultiExposureShots.
+

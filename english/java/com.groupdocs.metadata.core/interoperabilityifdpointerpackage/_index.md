@@ -13,12 +13,15 @@ public final class InteroperabilityIFDPointerPackage extends CustomPackage
 ```
 
 Represents Interoperability IFD.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getTagInteropIndex()](#getTagInteropIndex--) | Gets the TagInteropIndex. |
-| [getTagInteropVersion()](#getTagInteropVersion--) | Gets the TagInteropVersion. |
+| [getTagInteropIndex()](#getTagInteropIndex--) | Gets the TagInteropIndex.
+ |
+| [getTagInteropVersion()](#getTagInteropVersion--) | Gets the TagInteropVersion.
+ |
 ### getTagInteropIndex() {#getTagInteropIndex--}
 ```
 public final String getTagInteropIndex()
@@ -27,8 +30,10 @@ public final String getTagInteropIndex()
 
 Gets the TagInteropIndex.
 
+
 **Returns:**
 java.lang.String - The TagInteropIndex.
+
 ### getTagInteropVersion() {#getTagInteropVersion--}
 ```
 public final byte[] getTagInteropVersion()
@@ -37,5 +42,7 @@ public final byte[] getTagInteropVersion()
 
 Gets the TagInteropVersion.
 
+
 **Returns:**
 byte[] - The TagInteropVersion.
+

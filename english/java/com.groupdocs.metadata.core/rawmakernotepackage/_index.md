@@ -13,3 +13,4 @@ public abstract class RawMakerNotePackage extends RawDictionaryBasePackage
 ```
 
 Represents Raw MakerNotes tags.
+

@@ -13,26 +13,37 @@ public final class Cr2FocalLengthPackage extends RawDictionaryBasePackage
 ```
 
 Represents Canon MakerNotes tags.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [Cr2FocalLengthPackage()](#Cr2FocalLengthPackage--) | Initializes a new instance of the  Cr2FocalLengthPackage  class. |
+| [Cr2FocalLengthPackage()](#Cr2FocalLengthPackage--) | Initializes a new instance of the 
+Cr2FocalLengthPackage
+ class.
+ |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getFocalType()](#getFocalType--) | Gets the FocalType. |
-| [getFocalLength()](#getFocalLength--) | Gets the FocalLength. |
-| [getFocalPlaneXSize()](#getFocalPlaneXSize--) | Gets the FocalPlaneXSize. |
-| [getFocalPlaneYSize()](#getFocalPlaneYSize--) | Gets the FocalPlaneYSize. |
+| [getFocalType()](#getFocalType--) | Gets the FocalType.
+ |
+| [getFocalLength()](#getFocalLength--) | Gets the FocalLength.
+ |
+| [getFocalPlaneXSize()](#getFocalPlaneXSize--) | Gets the FocalPlaneXSize.
+ |
+| [getFocalPlaneYSize()](#getFocalPlaneYSize--) | Gets the FocalPlaneYSize.
+ |
 ### Cr2FocalLengthPackage() {#Cr2FocalLengthPackage--}
 ```
 public Cr2FocalLengthPackage()
 ```
 
 
-Initializes a new instance of the  Cr2FocalLengthPackage  class.
+Initializes a new instance of the 
+Cr2FocalLengthPackage
+ class.
+
 
 ### getFocalType() {#getFocalType--}
 ```
@@ -42,8 +53,10 @@ public final int getFocalType()
 
 Gets the FocalType.
 
+
 **Returns:**
 int - The FocalType.
+
 ### getFocalLength() {#getFocalLength--}
 ```
 public final int getFocalLength()
@@ -52,8 +65,10 @@ public final int getFocalLength()
 
 Gets the FocalLength.
 
+
 **Returns:**
 int - The FocalLength.
+
 ### getFocalPlaneXSize() {#getFocalPlaneXSize--}
 ```
 public final int getFocalPlaneXSize()
@@ -62,8 +77,10 @@ public final int getFocalPlaneXSize()
 
 Gets the FocalPlaneXSize.
 
+
 **Returns:**
 int - The FocalPlaneXSize.
+
 ### getFocalPlaneYSize() {#getFocalPlaneYSize--}
 ```
 public final int getFocalPlaneYSize()
@@ -72,5 +89,7 @@ public final int getFocalPlaneYSize()
 
 Gets the FocalPlaneYSize.
 
+
 **Returns:**
 int - The FocalPlaneYSize.
+

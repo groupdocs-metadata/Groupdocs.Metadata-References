@@ -13,11 +13,13 @@ public class XmpComplexTypeValue extends XmpValueBase
 ```
 
 Represents an XMP value containing a complex type instance.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getXmpRepresentation()](#getXmpRepresentation--) | Returns string contained value in XMP format. |
+| [getXmpRepresentation()](#getXmpRepresentation--) | Returns string contained value in XMP format.
+ |
 ### getXmpRepresentation() {#getXmpRepresentation--}
 ```
 public String getXmpRepresentation()
@@ -26,5 +28,7 @@ public String getXmpRepresentation()
 
 Returns string contained value in XMP format.
 
+
 **Returns:**
 java.lang.String -  string  contained XMP representation.
+

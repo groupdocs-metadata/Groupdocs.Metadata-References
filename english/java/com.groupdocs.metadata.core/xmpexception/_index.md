@@ -13,20 +13,33 @@ public final class XmpException extends GroupDocsMetadataException
 ```
 
 The exception that is thrown when XMP has invalid structure.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [XmpException()](#XmpException--) | Initializes a new instance of the  XmpException  class. |
-| [XmpException(String message)](#XmpException-java.lang.String-) | Initializes a new instance of the  XmpException  class. |
-| [XmpException(String message, RuntimeException innerException)](#XmpException-java.lang.String-java.lang.RuntimeException-) | Initializes a new instance of the  XmpException  class. |
+| [XmpException()](#XmpException--) | Initializes a new instance of the 
+XmpException
+ class.
+ |
+| [XmpException(String message)](#XmpException-java.lang.String-) | Initializes a new instance of the 
+XmpException
+ class.
+ |
+| [XmpException(String message, RuntimeException innerException)](#XmpException-java.lang.String-java.lang.RuntimeException-) | Initializes a new instance of the 
+XmpException
+ class.
+ |
 ### XmpException() {#XmpException--}
 ```
 public XmpException()
 ```
 
 
-Initializes a new instance of the  XmpException  class.
+Initializes a new instance of the 
+XmpException
+ class.
+
 
 ### XmpException(String message) {#XmpException-java.lang.String-}
 ```
@@ -34,12 +47,16 @@ public XmpException(String message)
 ```
 
 
-Initializes a new instance of the  XmpException  class.
+Initializes a new instance of the 
+XmpException
+ class.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| message | java.lang.String | The message. |
+| message | java.lang.String | The message.
+ |
 
 ### XmpException(String message, RuntimeException innerException) {#XmpException-java.lang.String-java.lang.RuntimeException-}
 ```
@@ -47,11 +64,16 @@ public XmpException(String message, RuntimeException innerException)
 ```
 
 
-Initializes a new instance of the  XmpException  class.
+Initializes a new instance of the 
+XmpException
+ class.
+
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| message | java.lang.String | The message. |
-| innerException | java.lang.RuntimeException | The inner exception. |
+| message | java.lang.String | The message.
+ |
+| innerException | java.lang.RuntimeException | The inner exception.
+ |
 

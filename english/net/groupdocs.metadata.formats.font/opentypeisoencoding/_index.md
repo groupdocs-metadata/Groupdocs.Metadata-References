@@ -3,7 +3,7 @@ title: OpenTypeIsoEncoding
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents encoding for the Iso platform.
 type: docs
-weight: 1850
+weight: 1960
 url: /net/groupdocs.metadata.formats.font/opentypeisoencoding/
 ---
 ## OpenTypeIsoEncoding enumeration

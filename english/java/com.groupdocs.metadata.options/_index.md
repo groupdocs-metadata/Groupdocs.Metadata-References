@@ -10,6 +10,7 @@ url: /java/com.groupdocs.metadata.options/
 The **com.groupdocs.metadata.options** namespace contains all classes representing settings that allow users to control file and metadata processing.
 
 
+
 ## Classes
 
 | Class | Description |
@@ -22,7 +23,7 @@ The **com.groupdocs.metadata.options** namespace contains all classes representi
 | Interface | Description |
 | --- | --- |
 | [ICreatePageStream](../com.groupdocs.metadata.options/icreatepagestream) | Defines a method that returns a stream to write page preview data. |
-| [IReleasePageStream](../com.groupdocs.metadata.options/ireleasepagestream) | Defines a method which releases the stream created by the passed  ICreatePageStream  implementation. |
+| [IReleasePageStream](../com.groupdocs.metadata.options/ireleasepagestream) | Defines a method which releases the stream created by the passed ICreatePageStream implementation. |
 
 ## Enumerations
 

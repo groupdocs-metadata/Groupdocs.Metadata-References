@@ -16,17 +16,25 @@ public final class PsdLayerFlags implements IEnumValue
 ```
 
 The Photoshop layer flags.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [None](#None) | No flags are set. |
-| [TransparencyProtected](#TransparencyProtected) | The transparency protected flag. |
-| [Visible](#Visible) | The visibility flag. |
-| [Obsolete](#Obsolete) | The obsolete flag. |
-| [HasUsefulInformation](#HasUsefulInformation) | Defines if bit 4 has useful information. |
-| [PixelDataIrrelevantToAppearanceInDocument](#PixelDataIrrelevantToAppearanceInDocument) | The pixel data is irrelevant to appearance in a document. |
-| [Undocumented](#Undocumented) | An undocumented flag. |
+| [None](#None) | No flags are set.
+ |
+| [TransparencyProtected](#TransparencyProtected) | The transparency protected flag.
+ |
+| [Visible](#Visible) | The visibility flag.
+ |
+| [Obsolete](#Obsolete) | The obsolete flag.
+ |
+| [HasUsefulInformation](#HasUsefulInformation) | Defines if bit 4 has useful information.
+ |
+| [PixelDataIrrelevantToAppearanceInDocument](#PixelDataIrrelevantToAppearanceInDocument) | The pixel data is irrelevant to appearance in a document.
+ |
+| [Undocumented](#Undocumented) | An undocumented flag.
+ |
 ## Methods
 
 | Method | Description |
@@ -49,6 +57,7 @@ public static final PsdLayerFlags None
 
 No flags are set.
 
+
 ### TransparencyProtected {#TransparencyProtected}
 ```
 public static final PsdLayerFlags TransparencyProtected
@@ -56,6 +65,7 @@ public static final PsdLayerFlags TransparencyProtected
 
 
 The transparency protected flag.
+
 
 ### Visible {#Visible}
 ```
@@ -65,6 +75,7 @@ public static final PsdLayerFlags Visible
 
 The visibility flag.
 
+
 ### Obsolete {#Obsolete}
 ```
 public static final PsdLayerFlags Obsolete
@@ -72,6 +83,7 @@ public static final PsdLayerFlags Obsolete
 
 
 The obsolete flag.
+
 
 ### HasUsefulInformation {#HasUsefulInformation}
 ```
@@ -81,6 +93,7 @@ public static final PsdLayerFlags HasUsefulInformation
 
 Defines if bit 4 has useful information. 1 for Photoshop 5.0 and later,
 
+
 ### PixelDataIrrelevantToAppearanceInDocument {#PixelDataIrrelevantToAppearanceInDocument}
 ```
 public static final PsdLayerFlags PixelDataIrrelevantToAppearanceInDocument
@@ -89,6 +102,7 @@ public static final PsdLayerFlags PixelDataIrrelevantToAppearanceInDocument
 
 The pixel data is irrelevant to appearance in a document.
 
+
 ### Undocumented {#Undocumented}
 ```
 public static final PsdLayerFlags Undocumented
@@ -96,6 +110,7 @@ public static final PsdLayerFlags Undocumented
 
 
 An undocumented flag.
+
 
 ### getByRawValue(int rawValue) {#getByRawValue-int-}
 ```
@@ -130,6 +145,7 @@ public Object[] getAllValues()
 
 Returns the array of all values defined in the class.
 
+
 **Returns:**
 java.lang.Object[]
 ### getEnumValueByRawValue(int rawValue) {#getEnumValueByRawValue-int-}
@@ -139,6 +155,7 @@ public IEnumValue getEnumValueByRawValue(int rawValue)
 
 
 Returns the enumeration value by the raw value associated with it.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -155,6 +172,7 @@ public IEnumValue getEnumValueByName(String name)
 
 Returns the enumeration value by its name.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -170,6 +188,7 @@ public RawIntegerType getRawValueType()
 
 Returns the underlying type of the raw value of this enumeration value.
 
+
 **Returns:**
 [RawIntegerType](../../com.groupdocs.metadata.core/rawintegertype)
 ### getRawValue() {#getRawValue--}
@@ -180,6 +199,7 @@ public int getRawValue()
 
 Returns the raw value of this enumeration value.
 
+
 **Returns:**
 int
 ### name() {#name--}
@@ -189,6 +209,7 @@ public String name()
 
 
 Returns the name of this enumeration value.
+
 
 **Returns:**
 java.lang.String

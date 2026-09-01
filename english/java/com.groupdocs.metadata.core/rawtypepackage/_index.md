@@ -13,18 +13,25 @@ public class RawTypePackage extends FileTypePackage
 ```
 
 Represents a metadata package containing image-specific file format information.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getByteOrder()](#getByteOrder--) | Gets the byte-order of the image. |
+| [getByteOrder()](#getByteOrder--) | Gets the byte-order of the image.
+ |
 ### getByteOrder() {#getByteOrder--}
 ```
 public final ByteOrder getByteOrder()
 ```
 
 
-Gets the byte-order of the image. Please see  https://en.wikipedia.org/wiki/Endianness  for more information.
+Gets the byte-order of the image.
+Please see 
+<https://en.wikipedia.org/wiki/Endianness>
+ for more information.
+
 
 **Returns:**
 [ByteOrder](../../com.groupdocs.metadata.core/byteorder) - The byte-order value.
+

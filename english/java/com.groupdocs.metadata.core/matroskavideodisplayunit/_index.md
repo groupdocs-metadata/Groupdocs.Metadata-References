@@ -16,15 +16,21 @@ public enum MatroskaVideoDisplayUnit extends Enum<MatroskaVideoDisplayUnit> impl
 ```
 
 Defines how Matroska DisplayWidth and DisplayHeight are interpreted.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Pixels](#Pixels) | Pixels unit. |
-| [Centimeters](#Centimeters) | Centimeters unit. |
-| [Inches](#Inches) | Inches unit. |
-| [AspectRatio](#AspectRatio) | Display aspect ratio unit. |
-| [Unknown](#Unknown) | Unknown unit. |
+| [Pixels](#Pixels) | Pixels unit.
+ |
+| [Centimeters](#Centimeters) | Centimeters unit.
+ |
+| [Inches](#Inches) | Inches unit.
+ |
+| [AspectRatio](#AspectRatio) | Display aspect ratio unit.
+ |
+| [Unknown](#Unknown) | Unknown unit.
+ |
 ## Methods
 
 | Method | Description |
@@ -46,6 +52,7 @@ public static final MatroskaVideoDisplayUnit Pixels
 
 Pixels unit.
 
+
 ### Centimeters {#Centimeters}
 ```
 public static final MatroskaVideoDisplayUnit Centimeters
@@ -53,6 +60,7 @@ public static final MatroskaVideoDisplayUnit Centimeters
 
 
 Centimeters unit.
+
 
 ### Inches {#Inches}
 ```
@@ -62,6 +70,7 @@ public static final MatroskaVideoDisplayUnit Inches
 
 Inches unit.
 
+
 ### AspectRatio {#AspectRatio}
 ```
 public static final MatroskaVideoDisplayUnit AspectRatio
@@ -70,6 +79,7 @@ public static final MatroskaVideoDisplayUnit AspectRatio
 
 Display aspect ratio unit.
 
+
 ### Unknown {#Unknown}
 ```
 public static final MatroskaVideoDisplayUnit Unknown
@@ -77,6 +87,7 @@ public static final MatroskaVideoDisplayUnit Unknown
 
 
 Unknown unit.
+
 
 ### values() {#values--}
 ```
@@ -136,6 +147,7 @@ public Object[] getAllValues()
 
 Returns the array of all values defined in the class.
 
+
 **Returns:**
 java.lang.Object[]
 ### getEnumValueByRawValue(int rawValue) {#getEnumValueByRawValue-int-}
@@ -145,6 +157,7 @@ public IEnumValue getEnumValueByRawValue(int rawValue)
 
 
 Returns the enumeration value by the raw value associated with it.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -161,6 +174,7 @@ public IEnumValue getEnumValueByName(String name)
 
 Returns the enumeration value by its name.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -176,6 +190,7 @@ public RawIntegerType getRawValueType()
 
 Returns the underlying type of the raw value of this enumeration value.
 
+
 **Returns:**
 [RawIntegerType](../../com.groupdocs.metadata.core/rawintegertype)
 ### getRawValue() {#getRawValue--}
@@ -185,6 +200,7 @@ public int getRawValue()
 
 
 Returns the raw value of this enumeration value.
+
 
 **Returns:**
 int

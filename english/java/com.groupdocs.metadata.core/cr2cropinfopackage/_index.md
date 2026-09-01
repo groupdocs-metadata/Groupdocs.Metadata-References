@@ -13,26 +13,37 @@ public final class Cr2CropInfoPackage extends RawDictionaryBasePackage
 ```
 
 Represents Canon MakerNotes tags.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [Cr2CropInfoPackage()](#Cr2CropInfoPackage--) | Initializes a new instance of the  Cr2CropInfoPackage  class. |
+| [Cr2CropInfoPackage()](#Cr2CropInfoPackage--) | Initializes a new instance of the 
+Cr2CropInfoPackage
+ class.
+ |
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getCropLeftMargin()](#getCropLeftMargin--) | Gets the CropLeftMargin. |
-| [getCropRightMargin()](#getCropRightMargin--) | Gets the CropRightMargin. |
-| [getCropTopMargin()](#getCropTopMargin--) | Gets the CropTopMargin. |
-| [getCropBottomMargin()](#getCropBottomMargin--) | Gets the CropBottomMargin. |
+| [getCropLeftMargin()](#getCropLeftMargin--) | Gets the CropLeftMargin.
+ |
+| [getCropRightMargin()](#getCropRightMargin--) | Gets the CropRightMargin.
+ |
+| [getCropTopMargin()](#getCropTopMargin--) | Gets the CropTopMargin.
+ |
+| [getCropBottomMargin()](#getCropBottomMargin--) | Gets the CropBottomMargin.
+ |
 ### Cr2CropInfoPackage() {#Cr2CropInfoPackage--}
 ```
 public Cr2CropInfoPackage()
 ```
 
 
-Initializes a new instance of the  Cr2CropInfoPackage  class.
+Initializes a new instance of the 
+Cr2CropInfoPackage
+ class.
+
 
 ### getCropLeftMargin() {#getCropLeftMargin--}
 ```
@@ -42,8 +53,10 @@ public final int getCropLeftMargin()
 
 Gets the CropLeftMargin.
 
+
 **Returns:**
 int - The CropLeftMargin.
+
 ### getCropRightMargin() {#getCropRightMargin--}
 ```
 public final int getCropRightMargin()
@@ -52,8 +65,10 @@ public final int getCropRightMargin()
 
 Gets the CropRightMargin.
 
+
 **Returns:**
 int - The CropRightMargin.
+
 ### getCropTopMargin() {#getCropTopMargin--}
 ```
 public final int getCropTopMargin()
@@ -62,8 +77,10 @@ public final int getCropTopMargin()
 
 Gets the CropTopMargin.
 
+
 **Returns:**
 int - The CropTopMargin.
+
 ### getCropBottomMargin() {#getCropBottomMargin--}
 ```
 public final int getCropBottomMargin()
@@ -72,5 +89,7 @@ public final int getCropBottomMargin()
 
 Gets the CropBottomMargin.
 
+
 **Returns:**
 int - The CropBottomMargin.
+

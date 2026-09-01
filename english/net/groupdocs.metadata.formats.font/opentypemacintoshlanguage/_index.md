@@ -3,7 +3,7 @@ title: OpenTypeMacintoshLanguage
 second_title: GroupDocs.Metadata for .NET API Reference
 description: Represents language enum for the Macintosh platform.
 type: docs
-weight: 1880
+weight: 1990
 url: /net/groupdocs.metadata.formats.font/opentypemacintoshlanguage/
 ---
 ## OpenTypeMacintoshLanguage enumeration

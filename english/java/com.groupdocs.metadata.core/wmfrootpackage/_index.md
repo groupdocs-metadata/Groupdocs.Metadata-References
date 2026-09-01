@@ -13,3 +13,4 @@ public class WmfRootPackage extends ImageRootPackage
 ```
 
 Represents the root package intended to work with metadata in a WMF image.
+

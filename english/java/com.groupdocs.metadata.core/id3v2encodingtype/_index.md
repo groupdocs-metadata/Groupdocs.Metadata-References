@@ -16,14 +16,19 @@ public enum ID3V2EncodingType extends Enum<ID3V2EncodingType> implements IEnumVa
 ```
 
 Defines different types of text encoding used in ID3v2.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [Iso88591](#Iso88591) | The ISO-8859-1 encoding. |
-| [Utf16](#Utf16) | The UTF-16 encoding with BOM. |
-| [Utf16Be](#Utf16Be) | The UTF-16 encoding without BOM. |
-| [Utf8](#Utf8) | The UTF-8 encoding. |
+| [Iso88591](#Iso88591) | The ISO-8859-1 encoding.
+ |
+| [Utf16](#Utf16) | The UTF-16 encoding with BOM.
+ |
+| [Utf16Be](#Utf16Be) | The UTF-16 encoding without BOM.
+ |
+| [Utf8](#Utf8) | The UTF-8 encoding.
+ |
 ## Methods
 
 | Method | Description |
@@ -45,6 +50,7 @@ public static final ID3V2EncodingType Iso88591
 
 The ISO-8859-1 encoding.
 
+
 ### Utf16 {#Utf16}
 ```
 public static final ID3V2EncodingType Utf16
@@ -52,6 +58,7 @@ public static final ID3V2EncodingType Utf16
 
 
 The UTF-16 encoding with BOM.
+
 
 ### Utf16Be {#Utf16Be}
 ```
@@ -61,6 +68,7 @@ public static final ID3V2EncodingType Utf16Be
 
 The UTF-16 encoding without BOM.
 
+
 ### Utf8 {#Utf8}
 ```
 public static final ID3V2EncodingType Utf8
@@ -68,6 +76,7 @@ public static final ID3V2EncodingType Utf8
 
 
 The UTF-8 encoding.
+
 
 ### values() {#values--}
 ```
@@ -127,6 +136,7 @@ public Object[] getAllValues()
 
 Returns the array of all values defined in the class.
 
+
 **Returns:**
 java.lang.Object[]
 ### getEnumValueByRawValue(int rawValue) {#getEnumValueByRawValue-int-}
@@ -136,6 +146,7 @@ public IEnumValue getEnumValueByRawValue(int rawValue)
 
 
 Returns the enumeration value by the raw value associated with it.
+
 
 **Parameters:**
 | Parameter | Type | Description |
@@ -152,6 +163,7 @@ public IEnumValue getEnumValueByName(String name)
 
 Returns the enumeration value by its name.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -167,6 +179,7 @@ public RawIntegerType getRawValueType()
 
 Returns the underlying type of the raw value of this enumeration value.
 
+
 **Returns:**
 [RawIntegerType](../../com.groupdocs.metadata.core/rawintegertype)
 ### getRawValue() {#getRawValue--}
@@ -176,6 +189,7 @@ public int getRawValue()
 
 
 Returns the raw value of this enumeration value.
+
 
 **Returns:**
 int

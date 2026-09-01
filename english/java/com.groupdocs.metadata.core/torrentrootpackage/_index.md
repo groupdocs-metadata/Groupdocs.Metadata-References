@@ -14,15 +14,18 @@ public class TorrentRootPackage extends RootMetadataPackage
 
 Represents the root package intended to work with metadata of a TORRENT file.
 
+
 **Learn more**
 
- *  [Working with TORRENT files][]
+* [Working with TORRENT files](../https://docs.groupdocs.com/display/metadatajava/Working+with+TORRENT+files)
+
+<br />
 
 This code sample shows how to read metadata of a TORRENT file.
-
+>
+> ````
 > ```
-> ```
-> 
+>
 >  try (Metadata metadata = new Metadata(Constants.InputTorrent)) {
 >      TorrentRootPackage root = metadata.getRootPackageGeneric();
 >      System.out.println(root.getTorrentPackage().getAnnounce());
@@ -37,15 +40,15 @@ This code sample shows how to read metadata of a TORRENT file.
 >  }
 >  
 > ```
-> ```
+> ````
 
 
-[Working with TORRENT files]: https://docs.groupdocs.com/display/metadatajava/Working+with+TORRENT+files
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getTorrentPackage()](#getTorrentPackage--) | Gets the TORRENT file metadata package. |
+| [getTorrentPackage()](#getTorrentPackage--) | Gets the TORRENT file metadata package.
+ |
 ### getTorrentPackage() {#getTorrentPackage--}
 ```
 public final TorrentPackage getTorrentPackage()
@@ -54,5 +57,7 @@ public final TorrentPackage getTorrentPackage()
 
 Gets the TORRENT file metadata package.
 
+
 **Returns:**
 [TorrentPackage](../../com.groupdocs.metadata.core/torrentpackage) - The TORRENT file metadata package.
+

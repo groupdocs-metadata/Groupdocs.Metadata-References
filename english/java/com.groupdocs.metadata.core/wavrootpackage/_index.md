@@ -18,10 +18,10 @@ public class WavRootPackage extends RootMetadataPackage implements IXmp
 Represents the root package allowing working with metadata in a WAV audio.
 
 This code sample shows how to extract technical audio information from a WAV file.
-
+>
+> ````
 > ```
-> ```
-> 
+>
 >  try (Metadata metadata = new Metadata(Constants.InputWav)) {
 >      WavRootPackage root = metadata.getRootPackageGeneric();
 >      if (root.getWavPackage() != null) {
@@ -35,15 +35,21 @@ This code sample shows how to extract technical audio information from a WAV fil
 >  }
 >  
 > ```
-> ```
+> ````
+
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getXmpPackage()](#getXmpPackage--) | Gets the XMP metadata package. |
-| [setXmpPackage(XmpPacketWrapper value)](#setXmpPackage-com.groupdocs.metadata.core.XmpPacketWrapper-) | Sets the XMP metadata package. |
-| [getWavPackage()](#getWavPackage--) | Gets the WAV native metadata package. |
-| [getRiffInfoPackage()](#getRiffInfoPackage--) | Gets the package containing RIFF Info tags. |
+| [getXmpPackage()](#getXmpPackage--) | Gets the XMP metadata package.
+ |
+| [setXmpPackage(XmpPacketWrapper value)](#setXmpPackage-com.groupdocs.metadata.core.XmpPacketWrapper-) | Sets the XMP metadata package.
+ |
+| [getWavPackage()](#getWavPackage--) | Gets the WAV native metadata package.
+ |
+| [getRiffInfoPackage()](#getRiffInfoPackage--) | Gets the package containing RIFF Info tags.
+ |
 ### getXmpPackage() {#getXmpPackage--}
 ```
 public final XmpPacketWrapper getXmpPackage()
@@ -52,15 +58,18 @@ public final XmpPacketWrapper getXmpPackage()
 
 Gets the XMP metadata package.
 
+
 **Returns:**
 [XmpPacketWrapper](../../com.groupdocs.metadata.core/xmppacketwrapper) - The XMP metadata package.
 
+
 **Learn more**
 
- *  [Working with XMP metadata][]
+* [Working with XMP metadata](../https://docs.groupdocs.com/display/metadatajava/Working+with+XMP+metadata)
+
+<br />
 
 
-[Working with XMP metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+XMP+metadata
 ### setXmpPackage(XmpPacketWrapper value) {#setXmpPackage-com.groupdocs.metadata.core.XmpPacketWrapper-}
 ```
 public final void setXmpPackage(XmpPacketWrapper value)
@@ -69,17 +78,20 @@ public final void setXmpPackage(XmpPacketWrapper value)
 
 Sets the XMP metadata package.
 
+
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | [XmpPacketWrapper](../../com.groupdocs.metadata.core/xmppacketwrapper) | The XMP metadata package.
 
+
 **Learn more**
 
- *  [Working with XMP metadata][]
+* [Working with XMP metadata](../https://docs.groupdocs.com/display/metadatajava/Working+with+XMP+metadata)
 
+<br />
 
-[Working with XMP metadata]: https://docs.groupdocs.com/display/metadatajava/Working+with+XMP+metadata |
+ |
 
 ### getWavPackage() {#getWavPackage--}
 ```
@@ -89,8 +101,10 @@ public final WavPackage getWavPackage()
 
 Gets the WAV native metadata package.
 
+
 **Returns:**
 [WavPackage](../../com.groupdocs.metadata.core/wavpackage) - The WAV native metadata package.
+
 ### getRiffInfoPackage() {#getRiffInfoPackage--}
 ```
 public final RiffInfoPackage getRiffInfoPackage()
@@ -99,5 +113,7 @@ public final RiffInfoPackage getRiffInfoPackage()
 
 Gets the package containing RIFF Info tags.
 
+
 **Returns:**
 [RiffInfoPackage](../../com.groupdocs.metadata.core/riffinfopackage) - The package containing RIFF Info tags.
+
