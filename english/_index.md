@@ -12,7 +12,7 @@ lead: "Read, edit, and remove metadata across 110+ documents, images, audio, and
 
 platforms:
   - name: ".NET"
-    version: "26.6.0"
+    version: "26.8.0"
     versionUrl: "https://www.nuget.org/packages/groupdocs.metadata/26.6.0"
     key: net
     ref: "/net/"
@@ -36,7 +36,7 @@ platforms:
     install: "pip install groupdocs-metadata-net"
 
 formats: ["Documents", "Images", "Audio", "Video", "PDF"]
-formatsCount: "110+"
+formatsCount: "115+"
 formatsNote: "…with 110+ across documents, images, audio, and video."
 
 capabilities:
@@ -45,7 +45,7 @@ capabilities:
   - "Built-in & custom properties"
   - "Search & clean metadata"
   - "Inspect file structure"
-  - "110+ supported formats"
+  - "115+ supported formats"
 popular:
   - name: "Metadata"
     kind: "Class"
