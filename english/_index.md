@@ -1,14 +1,14 @@
----
+﻿---
 title: "GroupDocs.Metadata"
 linktitle: "GroupDocs.Metadata"
-description: "GroupDocs.Metadata API reference for .NET, Java, Node.js, and Python — Read, edit, and remove metadata across 110+ documents, images, audio, and video formats."
+description: "GroupDocs.Metadata API reference for .NET, Java, Node.js, and Python — Read, edit, and remove metadata across 115+ documents, images, audio, and video formats."
 keywords: "GroupDocs.Metadata, metadata API, API reference, .NET, Java, Python, document processing"
 additionalTitle: "GroupDocs API References"
 type: docs
 layout: family
 weight: 10
 url: /
-lead: "Read, edit, and remove metadata across 110+ documents, images, audio, and video formats."
+lead: "Read, edit, and remove metadata across 115+ documents, images, audio, and video formats."
 
 platforms:
   - name: ".NET"
@@ -37,7 +37,7 @@ platforms:
 
 formats: ["Documents", "Images", "Audio", "Video", "PDF"]
 formatsCount: "115+"
-formatsNote: "…with 110+ across documents, images, audio, and video."
+formatsNote: "…with 115+ across documents, images, audio, and video."
 
 capabilities:
   - "Read, edit & remove metadata"
