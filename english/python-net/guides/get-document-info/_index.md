@@ -6,7 +6,7 @@ description: "GroupDocs.Metadata for Python via .NET lets you read basic file in
 type: docs
 url: /python-net/guides/get-document-info/
 is_root: false
-weight: 40
+weight: 50
 ---
 
 

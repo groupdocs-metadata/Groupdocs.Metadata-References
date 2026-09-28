@@ -18,6 +18,7 @@ Task-oriented guides with runnable Python examples.
 | :- | :- |
 | [Installation](/metadata/python-net/guides/installation/) | |
 | [Quick Start Guide](/metadata/python-net/guides/quick-start-guide/) | |
+| [Command Line Interface](/metadata/python-net/guides/command-line-interface/) | |
 | [Features Overview](/metadata/python-net/guides/features-overview/) | |
 | [Get document info](/metadata/python-net/guides/get-document-info/) | |
 | [Find metadata properties](/metadata/python-net/guides/find-metadata-properties/) | |

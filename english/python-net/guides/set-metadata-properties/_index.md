@@ -6,7 +6,7 @@ description: "The set_properties method updates or adds metadata. Use it to add 
 type: docs
 url: /python-net/guides/set-metadata-properties/
 is_root: false
-weight: 60
+weight: 70
 ---
 
 

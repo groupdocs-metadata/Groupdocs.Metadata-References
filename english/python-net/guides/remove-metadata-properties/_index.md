@@ -6,7 +6,7 @@ description: "The easiest way to remove metadata properties from a file is to us
 type: docs
 url: /python-net/guides/remove-metadata-properties/
 is_root: false
-weight: 70
+weight: 80
 ---
 
 

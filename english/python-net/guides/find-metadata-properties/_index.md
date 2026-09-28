@@ -6,7 +6,7 @@ description: "With GroupDocs.Metadata for Python via .NET you can search metadat
 type: docs
 url: /python-net/guides/find-metadata-properties/
 is_root: false
-weight: 50
+weight: 60
 ---
 
 

@@ -6,7 +6,7 @@ description: "Sometimes you just need to remove all metadata properties without 
 type: docs
 url: /python-net/guides/clean-metadata/
 is_root: false
-weight: 80
+weight: 90
 ---
 
 
