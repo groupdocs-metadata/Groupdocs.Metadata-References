@@ -66,7 +66,7 @@ Is document encrypted: False
 
 ### Advanced usage topics
 
-To learn more about library features and get familiar how to manage metadata and more, please refer to the [advanced usage section]().
+To learn more about library features and get familiar how to manage metadata and more, please refer to the [advanced usage section](https://docs.groupdocs.com/metadata/python-net/advanced-usage/).
 
 ### GitHub examples
 

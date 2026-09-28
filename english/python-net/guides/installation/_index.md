@@ -12,7 +12,7 @@ weight: 10
 
 GroupDocs.Metadata for Python via .NET is distributed as a self-contained wheel that bundles the embedded .NET runtime. Nothing else is needed on Windows and macOS; Linux needs ICU and fontconfig, which most distributions already have. A single `py3-none-{platform}` wheel works across Python **3.5 – 3.14** on Windows, Linux, and macOS (Intel and Apple Silicon).
 
-Before you install, review the [System Requirements](). The wheels need Linux with glibc 2.27 or newer, or macOS 12 or newer, and pip 20.3 or newer to install. On Linux, install ICU and fontconfig (`libicu`, `libfontconfig1`); `libgdiplus` is not needed.
+Before you install, review the [System Requirements](https://docs.groupdocs.com/metadata/python-net/system-requirements/). The wheels need Linux with glibc 2.27 or newer, or macOS 12 or newer, and pip 20.3 or newer to install. On Linux, install ICU and fontconfig (`libicu`, `libfontconfig1`); `libgdiplus` is not needed.
 
 ## Install Package from PyPI
 
@@ -42,7 +42,7 @@ To upgrade an existing installation to the newest release, add the `--upgrade` f
 python3 -m pip install --upgrade groupdocs-metadata-net
 ```
 
-Using a [virtual environment](https://docs.python.org/3/library/venv.html) is recommended so the package and its dependencies stay isolated from your system Python. See the [Quick Start Guide]() for the `venv` setup steps.
+Using a [virtual environment](https://docs.python.org/3/library/venv.html) is recommended so the package and its dependencies stay isolated from your system Python. See the [Quick Start Guide](/metadata/python-net/guides/quick-start-guide/) for the `venv` setup steps.
 
 ## Add the Package to `requirements.txt`
 
@@ -122,7 +122,7 @@ groupdocs-metadata --version
 
 ## Next Steps
 
-- Follow the [Quick Start Guide]() to read and remove metadata in a few minutes.
-- Inspect, clean and export metadata from the terminal with the [Command Line Interface]().
-- Clone the [examples repository](https://github.com/groupdocs-metadata/GroupDocs.Metadata-for-Python-via-.NET) and read [How to Run Examples]().
-- If you work with AI agents or LLMs, see [Agents and LLM Integration]() for MCP and `AGENTS.md` details.
+- Follow the [Quick Start Guide](/metadata/python-net/guides/quick-start-guide/) to read and remove metadata in a few minutes.
+- Inspect, clean and export metadata from the terminal with the [Command Line Interface](/metadata/python-net/guides/command-line-interface/).
+- Clone the [examples repository](https://github.com/groupdocs-metadata/GroupDocs.Metadata-for-Python-via-.NET) and read [How to Run Examples](https://docs.groupdocs.com/metadata/python-net/how-to-run-examples/).
+- If you work with AI agents or LLMs, see [Agents and LLM Integration](https://docs.groupdocs.com/metadata/python-net/agents-and-llm-integration/) for MCP and `AGENTS.md` details.

@@ -14,7 +14,7 @@ Installing the `groupdocs-metadata-net` package also puts a `groupdocs-metadata`
 
 ## Prerequisites
 
-The CLI ships inside the package, so no extra installation is needed. Make sure `groupdocs-metadata-net` 26.9 or later is installed (see [Installation]()), then check the console script:
+The CLI ships inside the package, so no extra installation is needed. Make sure `groupdocs-metadata-net` 26.9 or later is installed (see [Installation](/metadata/python-net/guides/installation/)), then check the console script:
 
 ```bash
 groupdocs-metadata --version
@@ -143,7 +143,7 @@ Every command that opens a file also takes `--password` for protected documents:
 groupdocs-metadata --license GroupDocs.Metadata.lic show protected.docx --password "secret"
 ```
 
-The CLI also honours the `GROUPDOCS_LIC_PATH` environment variable — when it is set, the license is applied automatically and `--license` can be omitted. See [Evaluation Limitations and Licensing]().
+The CLI also honours the `GROUPDOCS_LIC_PATH` environment variable — when it is set, the license is applied automatically and `--license` can be omitted. See [Evaluation Limitations and Licensing](https://docs.groupdocs.com/metadata/python-net/evaluation-limitations-and-licensing/).
 
 Files are read through a stream, so a read-only input works for every command that does not overwrite it.
 
@@ -157,10 +157,10 @@ Files are read through a stream, so a read-only input works for every command th
 
 ## When to use the Python API instead
 
-The CLI covers inspecting, cleaning and exporting single files. Setting or adding property values, working with a format's own packages (EXIF, XMP, IPTC objects), in-memory streams and export options need the Python API — see the [Developer Guide]().
+The CLI covers inspecting, cleaning and exporting single files. Setting or adding property values, working with a format's own packages (EXIF, XMP, IPTC objects), in-memory streams and export options need the Python API — see the [Developer Guide](https://docs.groupdocs.com/metadata/python-net/developer-guide/).
 
 ## Next Steps
 
-- [Quick Start Guide](): read and remove metadata with the Python API.
-- [Supported File Formats](): the formats the engine reads and writes.
-- [Troubleshooting](): common errors and their fixes.
+- [Quick Start Guide](/metadata/python-net/guides/quick-start-guide/): read and remove metadata with the Python API.
+- [Supported File Formats](https://docs.groupdocs.com/metadata/python-net/supported-document-formats/): the formats the engine reads and writes.
+- [Troubleshooting](https://docs.groupdocs.com/metadata/python-net/getting-started/troubleshooting/): common errors and their fixes.

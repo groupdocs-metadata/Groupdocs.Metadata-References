@@ -16,7 +16,7 @@ This guide gives a quick overview of how to set up and start using GroupDocs.Met
 
 To proceed, make sure you have:
 
-1. A configured environment as described in the [System Requirements]() topic.
+1. A configured environment as described in the [System Requirements](https://docs.groupdocs.com/metadata/python-net/system-requirements/) topic.
 2. Optionally, a [Temporary License](https://purchase.groupdocs.com/temporary-license/) to test all product features (saving files requires a license).
 
 ## Set Up Your Development Environment
@@ -214,7 +214,7 @@ Encrypted: False
 ## Next Steps
 
 After completing the basics, explore additional resources:
-- [Supported File Formats](): review the full list of supported file types.
-- [Developer Guide](): runnable examples for every API surface.
-- [Licensing](): details on licensing and evaluation.
-- [Technical Support](): contact support if you run into issues.
+- [Supported File Formats](https://docs.groupdocs.com/metadata/python-net/supported-document-formats/): review the full list of supported file types.
+- [Developer Guide](https://docs.groupdocs.com/metadata/python-net/developer-guide/): runnable examples for every API surface.
+- [Licensing](https://docs.groupdocs.com/metadata/python-net/evaluation-limitations-and-licensing/): details on licensing and evaluation.
+- [Technical Support](https://docs.groupdocs.com/metadata/python-net/technical-support/): contact support if you run into issues.
