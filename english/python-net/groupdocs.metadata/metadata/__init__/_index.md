@@ -1,7 +1,7 @@
 ---
 title: __init__ constructor
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: "Initializes a new Metadata instance."
+description: "Initializes a new instance of the Metadata class."
 type: docs
 url: /python-net/groupdocs.metadata/metadata/__init__/
 is_root: false
@@ -11,13 +11,14 @@ weight: 10
 
 ## __init__ {#file_path}
 
-Initializes a new [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata/) instance.
+Initializes a new instance of the [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata/) class.
 
-Learn more:
-- [Load from a local disk](https://docs.groupdocs.com/display/metadatanet/Load+from+a+local+disk)
-- [Load from a stream](https://docs.groupdocs.com/display/metadatanet/Load+from+a+stream)
-- [Load a file of a specific format](https://docs.groupdocs.com/display/metadatanet/Load+a+file+of+a+specific+format)
-- [Load a password-protected document](https://docs.groupdocs.com/display/metadatanet/Load+a+password-protected+document)
+Learn more
+
+- Load from a local disk (<https://docs.groupdocs.com/display/metadatanet/Load+from+a+local+disk>)
+- Load from a stream (<https://docs.groupdocs.com/display/metadatanet/Load+from+a+stream>)
+- Load a file of a specific format (<https://docs.groupdocs.com/display/metadatanet/Load+a+file+of+a+specific+format>)
+- Load a password-protected document (<https://docs.groupdocs.com/display/metadatanet/Load+a+password-protected+document>)
 
 ```python
 def __init__(self, file_path):
@@ -26,14 +27,14 @@ def __init__(self, file_path):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| file_path | `str` | A string that contains the full name of the file from which to create a `Metadata` instance. |
+| file_path | `str` |  |
 
 ### Example
 
 ```python
 from groupdocs.metadata import Metadata
 
-with Metadata("example.jpg") as metadata:
+with Metadata("example.docx") as metadata:
     # Extract, edit or remove metadata here
     pass
 ```
@@ -42,6 +43,7 @@ with Metadata("example.jpg") as metadata:
 
 Initializes a new instance of the [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata/) class.
 
+Learn more:
 - [Load from a local disk](https://docs.groupdocs.com/display/metadatanet/Load+from+a+local+disk)
 - [Load from a stream](https://docs.groupdocs.com/display/metadatanet/Load+from+a+stream)
 - [Load a file of a specific format](https://docs.groupdocs.com/display/metadatanet/Load+a+file+of+a+specific+format)
@@ -61,23 +63,22 @@ def __init__(self, document):
 ```python
 from groupdocs.metadata import Metadata
 
-def load_from_stream():
-    with open("input.docx", "rb") as stream:
-        with Metadata(stream) as metadata:
-            # Extract, edit or remove metadata here
-            pass
+with open("example.docx", "rb") as stream:
+    with Metadata(stream) as metadata:
+        # Extract, edit or remove metadata here
+        pass
 ```
 
 ## __init__ {#file_path-load_options}
 
 Initializes a new instance of the [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata/) class.
 
-Learn more
+Learn more:
 
-- [Load from a local disk](https://docs.groupdocs.com/display/metadatanet/Load+from+a+local+disk)
-- [Load from a stream](https://docs.groupdocs.com/display/metadatanet/Load+from+a+stream)
-- [Load a file of a specific format](https://docs.groupdocs.com/display/metadatanet/Load+a+file+of+a+specific+format)
-- [Load a password-protected document](https://docs.groupdocs.com/display/metadatanet/Load+a+password-protected+document)
+- Load from a local disk
+- Load from a stream
+- Load a file of a specific format
+- Load a password-protected document
 
 ```python
 def __init__(self, file_path, load_options):
@@ -104,11 +105,10 @@ with Metadata("protected.docx", load_options) as metadata:
 
 Initializes a new instance of the [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata/) class.
 
-Learn more:
-- Load from a local disk: https://docs.groupdocs.com/display/metadatanet/Load+from+a+local+disk
-- Load from a stream: https://docs.groupdocs.com/display/metadatanet/Load+from+a+stream
-- Load a file of a specific format: https://docs.groupdocs.com/display/metadatanet/Load+a+file+of+a+specific+format
-- Load a password-protected document: https://docs.groupdocs.com/display/metadatanet/Load+a+password-protected+document
+- [Load from a local disk](https://docs.groupdocs.com/display/metadatanet/Load+from+a+local+disk)
+- [Load from a stream](https://docs.groupdocs.com/display/metadatanet/Load+from+a+stream)
+- [Load a file of a specific format](https://docs.groupdocs.com/display/metadatanet/Load+a+file+of+a+specific+format)
+- [Load a password-protected document](https://docs.groupdocs.com/display/metadatanet/Load+a+password-protected+document)
 
 ```python
 def __init__(self, document, load_options):
@@ -117,19 +117,28 @@ def __init__(self, document, load_options):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| document | `io.RawIOBase` | A stream that contains the document to load. |
+| document | `io.RawIOBase` | A stream (`io.RawIOBase`) that contains the document to load. |
 | load_options | `LoadOptions` | Additional options to use when loading a document. |
+
+### Example
+
+```python
+from groupdocs.metadata import Metadata
+
+with Metadata("sample.docx") as metadata:
+    # work with metadata here
+    pass
+```
 
 ## __init__ {#uri}
 
 Initializes a new instance of the [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata/) class.
 
-Learn more
-
-- Load from a local disk: https://docs.groupdocs.com/display/metadatanet/Load+from+a+local+disk
-- Load from a stream: https://docs.groupdocs.com/display/metadatanet/Load+from+a+stream
-- Load a file of a specific format: https://docs.groupdocs.com/display/metadatanet/Load+a+file+of+a+specific+format
-- Load a password-protected document: https://docs.groupdocs.com/display/metadatanet/Load+a+password-protected+document
+Learn more:
+- https://docs.groupdocs.com/display/metadatanet/Load+from+a+local+disk
+- https://docs.groupdocs.com/display/metadatanet/Load+from+a+stream
+- https://docs.groupdocs.com/display/metadatanet/Load+a+file+of+a+specific+format
+- https://docs.groupdocs.com/display/metadatanet/Load+a+password-protected+document
 
 ```python
 def __init__(self, uri):
@@ -145,20 +154,22 @@ def __init__(self, uri):
 ```python
 from groupdocs.metadata import Metadata
 
+uri = "path/to/document.pdf"
 with Metadata(uri) as metadata:
     # Extract, edit or remove metadata here
+    pass
 ```
 
 ## __init__ {#uri-load_options}
 
 Initializes a new instance of the [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata/) class.
 
-Learn more
+Learn more:
 
-- [Load from a local disk](https://docs.groupdocs.com/display/metadatanet/Load+from+a+local+disk)
-- [Load from a stream](https://docs.groupdocs.com/display/metadatanet/Load+from+a+stream)
-- [Load a file of a specific format](https://docs.groupdocs.com/display/metadatanet/Load+a+file+of+a+specific+format)
-- [Load a password-protected document](https://docs.groupdocs.com/display/metadatanet/Load+a+password-protected+document)
+- Load from a local disk: https://docs.groupdocs.com/display/metadatanet/Load+from+a+local+disk
+- Load from a stream: https://docs.groupdocs.com/display/metadatanet/Load+from+a+stream
+- Load a file of a specific format: https://docs.groupdocs.com/display/metadatanet/Load+a+file+of+a+specific+format
+- Load a password-protected document: https://docs.groupdocs.com/display/metadatanet/Load+a+password-protected+document
 
 ```python
 def __init__(self, uri, load_options):
@@ -175,11 +186,9 @@ def __init__(self, uri, load_options):
 ```python
 from groupdocs.metadata import Metadata
 
-with Metadata("example.jpg") as metadata:
-    root = metadata.get_root_package()
-    # manipulate metadata packages, e.g., remove EXIF
-    # root.exif_package = None
-    metadata.save("output.jpg")
+with Metadata("document.pdf") as metadata:
+    for prop in metadata.find_properties(lambda p: p.name is not None):
+        print(prop.name, prop.interpreted_value)
 ```
 
 ### See Also

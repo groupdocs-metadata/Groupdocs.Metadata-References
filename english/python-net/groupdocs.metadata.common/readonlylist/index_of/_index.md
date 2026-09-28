@@ -5,7 +5,7 @@ description: "ReadOnlyList.index_of method — GroupDocs.Metadata for Python via
 type: docs
 url: /python-net/groupdocs.metadata.common/readonlylist/index_of/
 is_root: false
-weight: 1040
+weight: 1060
 ---
 
 

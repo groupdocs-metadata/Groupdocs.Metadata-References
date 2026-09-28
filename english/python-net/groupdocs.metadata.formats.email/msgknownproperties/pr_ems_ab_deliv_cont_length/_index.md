@@ -1,0 +1,18 @@
+---
+title: PR_EMS_AB_DELIV_CONT_LENGTH field
+second_title: GroupDocs.Metadata for Python via .NET API References
+description: "MsgKnownProperties.PR_EMS_AB_DELIV_CONT_LENGTH — GroupDocs.Metadata for Python via .NET."
+type: docs
+url: /python-net/groupdocs.metadata.formats.email/msgknownproperties/pr_ems_ab_deliv_cont_length/
+is_root: false
+weight: 12640
+---
+
+
+## PR_EMS_AB_DELIV_CONT_LENGTH field
+
+### Value
+`2154430467`
+
+### See Also
+* class [`MsgKnownProperties`](/metadata/python-net/groupdocs.metadata.formats.email/msgknownproperties/)

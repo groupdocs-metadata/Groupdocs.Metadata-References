@@ -13,7 +13,8 @@ weight: 50
 
 Represents a method which releases the stream created by the [`CreatePageStream`](/metadata/python-net/groupdocs.metadata.options/createpagestream/) delegate.
 
-Learn more:
+Learn more
+
 - https://docs.groupdocs.com/display/metadatanet/Generate+document+preview
 
 The ReleasePageStream type exposes the following members:

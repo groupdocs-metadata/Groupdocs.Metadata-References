@@ -5,7 +5,7 @@ description: "IReadOnlyList class — GroupDocs.Metadata for Python via .NET API
 type: docs
 url: /python-net/groupdocs.metadata.common/ireadonlylist/
 is_root: false
-weight: 100
+weight: 130
 ---
 
 
@@ -19,13 +19,14 @@ The IReadOnlyList type exposes the following members:
 | [contains](/metadata/python-net/groupdocs.metadata.common/ireadonlylist/contains/#item) |  |
 | [contains](/metadata/python-net/groupdocs.metadata.common/ireadonlylist/contains/#item) |  |
 | [contains_tag_category](/metadata/python-net/groupdocs.metadata.common/ireadonlylist/contains_tag_category/) |  |
+| [get](/metadata/python-net/groupdocs.metadata.common/ireadonlylist/get/) |  |
+| [get_int32](/metadata/python-net/groupdocs.metadata.common/ireadonlylist/get_int32/) |  |
 | [index_of](/metadata/python-net/groupdocs.metadata.common/ireadonlylist/index_of/#item) |  |
 
 ### Properties
 | Property | Description |
 | :- | :- |
 | [count](/metadata/python-net/groupdocs.metadata.common/ireadonlylist/count/) |  |
-| [item](/metadata/python-net/groupdocs.metadata.common/ireadonlylist/item/) |  |
 
 ### See Also
 * module [`groupdocs.metadata.common`](/metadata/python-net/groupdocs.metadata.common/)

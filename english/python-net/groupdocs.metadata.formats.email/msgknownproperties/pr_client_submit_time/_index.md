@@ -1,0 +1,18 @@
+---
+title: PR_CLIENT_SUBMIT_TIME field
+second_title: GroupDocs.Metadata for Python via .NET API References
+description: "MsgKnownProperties.PR_CLIENT_SUBMIT_TIME — GroupDocs.Metadata for Python via .NET."
+type: docs
+url: /python-net/groupdocs.metadata.formats.email/msgknownproperties/pr_client_submit_time/
+is_root: false
+weight: 3560
+---
+
+
+## PR_CLIENT_SUBMIT_TIME field
+
+### Value
+`3735616`
+
+### See Also
+* class [`MsgKnownProperties`](/metadata/python-net/groupdocs.metadata.formats.email/msgknownproperties/)

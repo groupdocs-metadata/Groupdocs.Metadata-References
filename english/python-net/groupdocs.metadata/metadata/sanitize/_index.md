@@ -13,6 +13,8 @@ weight: 1140
 
 Removes writable metadata properties from all detected packages, recursively affecting nested packages when possible.
 
+The operation is recursive, so it affects all nested packages as well.
+
 Learn more:
 - Clean metadata (https://docs.groupdocs.com/display/metadatanet/Clean+metadata)
 
@@ -29,8 +31,8 @@ def sanitize(self):
 from groupdocs.metadata import Metadata
 
 with Metadata("input.pdf") as metadata:
-    removed = metadata.sanitize()
-    print(f"Properties removed: {removed}")
+    affected = metadata.sanitize()
+    print(f"Properties removed: {affected}")
     metadata.save("output.pdf")
 ```
 

@@ -5,7 +5,7 @@ description: "Provides common information about a loaded document."
 type: docs
 url: /python-net/groupdocs.metadata.common/idocumentinfo/
 is_root: false
-weight: 80
+weight: 110
 ---
 
 
@@ -33,15 +33,15 @@ The IDocumentInfo type exposes the following members:
 ```python
 from groupdocs.metadata import Metadata, Constants, FileFormat
 
-metadata = Metadata(Constants.InputXlsx)
-if metadata.file_format != FileFormat.UNKNOWN:
-    info = metadata.get_document_info()
-    print(f"File format: {info.file_type.file_format}")
-    print(f"File extension: {info.file_type.extension}")
-    print(f"MIME Type: {info.file_type.mime_type}")
-    print(f"Number of pages: {info.page_count}")
-    print(f"Document size: {info.size} bytes")
-    print(f"Is document encrypted: {info.is_encrypted}")
+with Metadata(Constants.InputXlsx) as metadata:
+    if metadata.file_format != FileFormat.Unknown:
+        info = metadata.get_document_info()
+        print(f"File format: {info.file_type.file_format}")
+        print(f"File extension: {info.file_type.extension}")
+        print(f"MIME Type: {info.file_type.mime_type}")
+        print(f"Number of pages: {info.page_count}")
+        print(f"Document size: {info.size} bytes")
+        print(f"Is document encrypted: {info.is_encrypted}")
 ```
 
 ### See Also

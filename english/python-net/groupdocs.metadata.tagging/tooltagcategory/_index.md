@@ -1,7 +1,7 @@
 ---
 title: ToolTagCategory class
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: "Provides tags intended to mark metadata properties related to the tools (software and hardware) used to create a file."
+description: "Provides tags intended to mark metadata properties related to the tools (software and hardware) that were used to create a file."
 type: docs
 url: /python-net/groupdocs.metadata.tagging/tooltagcategory/
 is_root: false
@@ -11,7 +11,7 @@ weight: 120
 
 ## ToolTagCategory class
 
-Provides tags intended to mark metadata properties related to the tools (software and hardware) used to create a file.
+Provides tags intended to mark metadata properties related to the tools (software and hardware) that were used to create a file.
 
 The ToolTagCategory type exposes the following members:
 

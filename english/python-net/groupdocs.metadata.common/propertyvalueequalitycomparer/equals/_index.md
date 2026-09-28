@@ -20,8 +20,8 @@ def equals(self, x, y):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| x | `PropertyValue` | The first object to compare. |
-| y | `PropertyValue` | The second object to compare. |
+| x | `PropertyValue` | The first object of type `PropertyValue` to compare. |
+| y | `PropertyValue` | The second object of type `PropertyValue` to compare. |
 
 **Returns:** bool: True if the specified objects are equal; otherwise, False.
 

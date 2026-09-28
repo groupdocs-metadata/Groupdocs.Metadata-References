@@ -5,7 +5,7 @@ description: "Option classes for configuring conversions and operations."
 type: docs
 url: /python-net/groupdocs.metadata.options/
 is_root: false
-weight: 60
+weight: 240
 ---
 
 

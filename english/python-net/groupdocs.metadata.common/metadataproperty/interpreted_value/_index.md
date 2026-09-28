@@ -13,7 +13,7 @@ weight: 2020
 
 The interpreted property value, if available.
 
-The interpreted value is a user‑friendly form of the original property value. For example, it returns a human‑readable string instead of numeric flags and IDs, and translates byte arrays to text when necessary.
+The interpreted value is a user‑friendly form of the original property value. For example, it returns a human‑readable string instead of numeric flags and IDs, translates byte arrays to text, etc.
 
 ### Definition:
 ```python

@@ -1,17 +1,17 @@
 ---
 title: ValueInterpreter class
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: "Defines operations required to interpret metadata property values."
+description: "The class defines operations required to interpret metadata property values."
 type: docs
 url: /python-net/groupdocs.metadata.common/valueinterpreter/
 is_root: false
-weight: 250
+weight: 300
 ---
 
 
 ## ValueInterpreter class
 
-Defines operations required to interpret metadata property values.
+The class defines operations required to interpret metadata property values.
 
 The ValueInterpreter type exposes the following members:
 

@@ -1,0 +1,18 @@
+---
+title: PR_DESIGN_IN_PROGRESS field
+second_title: GroupDocs.Metadata for Python via .NET API References
+description: "MsgKnownProperties.PR_DESIGN_IN_PROGRESS — GroupDocs.Metadata for Python via .NET."
+type: docs
+url: /python-net/groupdocs.metadata.formats.email/msgknownproperties/pr_design_in_progress/
+is_root: false
+weight: 8310
+---
+
+
+## PR_DESIGN_IN_PROGRESS field
+
+### Value
+`1071906827`
+
+### See Also
+* class [`MsgKnownProperties`](/metadata/python-net/groupdocs.metadata.formats.email/msgknownproperties/)

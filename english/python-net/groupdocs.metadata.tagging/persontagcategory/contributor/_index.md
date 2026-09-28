@@ -13,7 +13,7 @@ weight: 2030
 
 The tag that labels a property containing the name of a person who somehow contributed to file creation.
 
-Please note that the tag is not applied towards metadata properties marked with more specific tags from this category. For example, a property labeled with the Creator tag.
+Please note that the tag is not applied towards metadata properties marked with more specific tags from this category. For example, if a property is labeled with the Creator tag.
 
 ### Definition:
 ```python

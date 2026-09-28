@@ -29,15 +29,15 @@ from datetime import datetime
 from groupdocs.metadata.common import PropertyValue
 
 # Integer value
-int_prop = PropertyValue(123)
+int_prop = PropertyValue(42)
 
-# DateTime value (also supported)
+# The same constructor can also accept other types, e.g., a datetime
 date_prop = PropertyValue(datetime.now())
 ```
 
 ## __init__ {#value}
 
-Initializes a PropertyValue with a long value.
+Initializes a new PropertyValue with a long integer value.
 
 ```python
 def __init__(self, value):
@@ -63,7 +63,7 @@ def __init__(self, value):
 
 ## __init__ {#value}
 
-Initializes a PropertyValue with a double value.
+Initializes a PropertyValue with a double (float) value.
 
 ```python
 def __init__(self, value):
@@ -72,11 +72,11 @@ def __init__(self, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| value | `float` | A double value. |
+| value | `float` | A float value. |
 
 ## __init__ {#value}
 
-Initializes a PropertyValue with a string value.
+Initializes a new PropertyValue with a string value.
 
 ```python
 def __init__(self, value):
@@ -85,20 +85,7 @@ def __init__(self, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| value | `str` | A str value. |
-
-## __init__ {#value}
-
-Initializes a new PropertyValue with the given value.
-
-```python
-def __init__(self, value):
-    ...
-```
-
-| Parameter | Type | Description |
-| :- | :- | :- |
-| value | `Any` | An object value. |
+| value | `str` | A string value. |
 
 ### Example
 
@@ -111,7 +98,7 @@ property_value = PropertyValue(datetime.now())
 
 ## __init__ {#value}
 
-Initializes a new PropertyValue with a datetime value.
+Initializes a new PropertyValue with the given value.
 
 ```python
 def __init__(self, value):
@@ -120,7 +107,30 @@ def __init__(self, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| value | `datetime` | A `datetime` value to store. |
+| value | `Any` | The value to store. |
+
+### Example
+
+```python
+    from datetime import datetime
+    from groupdocs.metadata.common import PropertyValue
+
+    # Create a PropertyValue containing the current date and time
+    prop_val = PropertyValue(datetime.now())
+    ```
+
+## __init__ {#value}
+
+Initializes a PropertyValue with a datetime value.
+
+```python
+def __init__(self, value):
+    ...
+```
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| value | `datetime` | A datetime value. |
 
 ### Example
 
@@ -128,12 +138,12 @@ def __init__(self, value):
 from datetime import datetime
 from groupdocs.metadata.common import PropertyValue
 
-pv = PropertyValue(datetime.now())
+prop_val = PropertyValue(datetime.now())
 ```
 
 ## __init__ {#value}
 
-Initializes a new PropertyValue instance with a datetime.timedelta value.
+Initializes a new PropertyValue instance with a `timedelta` value.
 
 ```python
 def __init__(self, value):
@@ -142,11 +152,11 @@ def __init__(self, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| value | `timedelta` | A datetime.timedelta value. |
+| value | `timedelta` | A `timedelta` value. |
 
 ## __init__ {#values}
 
-Initializes a PropertyValue with a list of strings.
+Initializes a new PropertyValue with a list of strings.
 
 ```python
 def __init__(self, values):
@@ -155,7 +165,7 @@ def __init__(self, values):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| values | `list[str]` | A string array. |
+| values | `list[str]` | A list of strings. |
 
 ## __init__ {#values}
 
@@ -172,7 +182,7 @@ def __init__(self, values):
 
 ## __init__ {#values}
 
-Initializes a PropertyValue with an array of double values.
+Initializes a new PropertyValue with an array of double values.
 
 ```python
 def __init__(self, values):
@@ -185,7 +195,7 @@ def __init__(self, values):
 
 ## __init__ {#values}
 
-Initializes a PropertyValue with an array of integer values.
+Initializes a new PropertyValue with an array of integer values.
 
 ```python
 def __init__(self, values):
@@ -198,7 +208,7 @@ def __init__(self, values):
 
 ## __init__ {#values}
 
-Initializes a PropertyValue with an array of long values.
+Initializes a new PropertyValue with an array of long values.
 
 ```python
 def __init__(self, values):
@@ -211,7 +221,7 @@ def __init__(self, values):
 
 ## __init__ {#values}
 
-Initializes a PropertyValue with an array of unsigned 16‑bit integer values.
+Initializes a new PropertyValue instance with an array of unsigned 16‑bit integer values.
 
 ```python
 def __init__(self, values):
@@ -220,7 +230,7 @@ def __init__(self, values):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| values | `list[System.UInt16]` | An array of ushort values. |
+| values | `list[System.UInt16]` | An array of unsigned 16‑bit integer values. |
 
 ### See Also
 * class [`PropertyValue`](/metadata/python-net/groupdocs.metadata.common/propertyvalue/)

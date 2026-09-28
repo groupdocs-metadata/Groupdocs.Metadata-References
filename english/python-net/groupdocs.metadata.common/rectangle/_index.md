@@ -1,19 +1,24 @@
 ---
 title: Rectangle class
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: "Represents a set of four integers that define the location and size of a rectangle."
+description: "The rectangle is defined by four integers representing its location and size."
 type: docs
 url: /python-net/groupdocs.metadata.common/rectangle/
 is_root: false
-weight: 220
+weight: 260
 ---
 
 
 ## Rectangle class
 
-Represents a set of four integers that define the location and size of a rectangle.
+The rectangle is defined by four integers representing its location and size.
 
 The Rectangle type exposes the following members:
+
+### Constructors
+| Constructor | Description |
+| :- | :- |
+| [__init__](/metadata/python-net/groupdocs.metadata.common/rectangle/__init__/) |  |
 
 ### Methods
 | Method | Description |
@@ -30,7 +35,7 @@ The Rectangle type exposes the following members:
 | [right](/metadata/python-net/groupdocs.metadata.common/rectangle/right/) | The x-coordinate that is the sum of X and Width property values of the rectangle. |
 | [top](/metadata/python-net/groupdocs.metadata.common/rectangle/top/) | The y-coordinate that is the sum of the Y and Height property values of the rectangle. |
 | [width](/metadata/python-net/groupdocs.metadata.common/rectangle/width/) | The width of the rectangle. |
-| [x](/metadata/python-net/groupdocs.metadata.common/rectangle/x/) | The x value of the rectangle. |
+| [x](/metadata/python-net/groupdocs.metadata.common/rectangle/x/) | The x value. |
 | [y](/metadata/python-net/groupdocs.metadata.common/rectangle/y/) | The y. |
 
 ### Fields

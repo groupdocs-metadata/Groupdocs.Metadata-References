@@ -5,7 +5,7 @@ description: "Returns an enumerator that iterates through the collection."
 type: docs
 url: /python-net/groupdocs.metadata.common/metadatapackage/get_enumerator/
 is_root: false
-weight: 1080
+weight: 1090
 ---
 
 

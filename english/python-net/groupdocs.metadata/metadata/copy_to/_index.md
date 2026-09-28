@@ -1,7 +1,7 @@
 ---
 title: copy_to method
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: "Copy known metadata properties from source package to destination package."
+description: "Copies known metadata properties from the source package to the destination package recursively, updating existing properties and adding missing ones."
 type: docs
 url: /python-net/groupdocs.metadata/metadata/copy_to/
 is_root: false
@@ -11,9 +11,9 @@ weight: 1030
 
 ## copy_to {#metadata}
 
-Copy known metadata properties from source package to destination package.
+Copies known metadata properties from the source package to the destination package recursively, updating existing properties and adding missing ones.
 
-If the package types do not match, an error will be returned.
+If the package types do not match, an error is returned.
 
 ```python
 def copy_to(self, metadata):
@@ -29,10 +29,9 @@ def copy_to(self, metadata):
 ```python
 from groupdocs.metadata import Metadata
 
-def copy_metadata():
-    with Metadata("source.pdf") as source_metadata, Metadata("dest.pdf") as destination_metadata:
-        source_metadata.copy_to(destination_metadata)
-        source_metadata.save()
+with Metadata("source.pdf") as source_metadata, Metadata("dest.pdf") as destination_metadata:
+    source_metadata.copy_to(destination_metadata)
+    source_metadata.save()
 ```
 
 ## copy_to {#metadata-tags}
@@ -48,21 +47,22 @@ def copy_to(self, metadata, tags):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| metadata | `MetadataPackage` | A destination metadata package. |
-| tags | `List[PropertyTag]` | A list of the tags. |
+| metadata | `MetadataPackage` | Destination metadata package (`Metadata`). |
+| tags | `List[PropertyTag]` | List of property tags to copy (`list[PropertyTag]`). |
 
-**Returns:** The number of affected properties.
+**Returns:** int: The number of affected properties.
 
 ### Example
 
 ```python
 from groupdocs.metadata import Metadata, Tags
 
-def copy_properties():
-    with Metadata("source.pdf") as source_metadata, Metadata("dest.pdf") as destination_metadata:
-        tags = [Tags.Content.Album]
-        affected = source_metadata.copy_to(destination_metadata, tags)
-        print(f"Affected properties: {affected}")
+with Metadata("source.pdf") as source_metadata, Metadata("dest.pdf") as destination_metadata:
+    tags = [Tags.Content.Album]  # list of PropertyTag objects
+    affected = source_metadata.copy_to(destination_metadata, tags)
+    print(f"Number of properties copied: {affected}")
+
+    source_metadata.save()
 ```
 
 ### See Also

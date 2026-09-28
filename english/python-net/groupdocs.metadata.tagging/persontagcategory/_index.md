@@ -13,9 +13,7 @@ weight: 60
 
 Provides tags that mark metadata properties holding information about the people who contributed to file or intellectual content creation.
 
-These tags can help you find the document creator, editor, or even the client for whom the work was performed.
-
-Despite the name of the category, some metadata properties marked with the tags can contain a company name rather than a person's name.
+These tags can help you find the document creator, editor, or even the client for whom the work was performed. Despite the category name, some metadata properties marked with the tags can contain a company name rather than a person's name.
 
 The PersonTagCategory type exposes the following members:
 
@@ -33,7 +31,7 @@ The PersonTagCategory type exposes the following members:
 | [creator](/metadata/python-net/groupdocs.metadata.tagging/persontagcategory/creator/) | The tag that denotes the original author of a file/document. |
 | [editor](/metadata/python-net/groupdocs.metadata.tagging/persontagcategory/editor/) | The tag that labels a person who edited a file. |
 | [manager](/metadata/python-net/groupdocs.metadata.tagging/persontagcategory/manager/) | The tag that labels information about a person who managed the making process of a file. |
-| [model](/metadata/python-net/groupdocs.metadata.tagging/persontagcategory/model/) | The tag that denotes information about a person the content of the file is about. |
+| [model](/metadata/python-net/groupdocs.metadata.tagging/persontagcategory/model/) | The tag that denotes information about a person the content of the file is about, such as the person shown in a photo. |
 | [publisher](/metadata/python-net/groupdocs.metadata.tagging/persontagcategory/publisher/) | The tag marking a person responsible for making the file available. |
 | [recipient](/metadata/python-net/groupdocs.metadata.tagging/persontagcategory/recipient/) | The tag that denotes the original recipients of a mail. |
 

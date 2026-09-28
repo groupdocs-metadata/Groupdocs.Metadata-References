@@ -5,7 +5,7 @@ description: "Represents a descriptor of a property that can be accessed through
 type: docs
 url: /python-net/groupdocs.metadata.common/propertydescriptor/
 is_root: false
-weight: 180
+weight: 220
 ---
 
 

@@ -11,14 +11,14 @@ weight: 1030
 
 ## to_string
 
-Returns a string that represents the current FileType.
+Returns a string that represents the current [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype/).
 
 ```python
 def to_string(self):
     ...
 ```
 
-**Returns:** str: A string that represents the current FileType.
+**Returns:** str: that represents the current `FileType`.
 
 ### See Also
 * class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype/)

@@ -1,7 +1,7 @@
 ---
 title: warning method
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: "Writes a warning log message, providing information about unexpected and recoverable events in the application flow."
+description: "Writes a warning log message."
 type: docs
 url: /python-net/groupdocs.metadata.logging/consolelogger/warning/
 is_root: false
@@ -11,7 +11,9 @@ weight: 1070
 
 ## warning {#message}
 
-Writes a warning log message, providing information about unexpected and recoverable events in the application flow.
+Writes a warning log message.
+
+Warning log messages provide information about unexpected and recoverable events in the application flow.
 
 ```python
 def warning(self, message):

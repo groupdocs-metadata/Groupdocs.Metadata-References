@@ -5,7 +5,7 @@ description: "ReadOnlyList.get_enumerator method — GroupDocs.Metadata for Pyth
 type: docs
 url: /python-net/groupdocs.metadata.common/readonlylist/get_enumerator/
 is_root: false
-weight: 1030
+weight: 1040
 ---
 
 

@@ -14,9 +14,9 @@ weight: 1150
 Saves all changes made in the loaded document.
 
 Learn more:
-- Save a modified file to the original source: https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+the+original+source
-- Save a modified file to a specified location: https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+a+specified+location
-- Save a modified file to a stream: https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+a+stream
+- https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+the+original+source
+- https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+a+specified+location
+- https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+a+stream
 
 ```python
 def save(self):
@@ -28,20 +28,25 @@ def save(self):
 ```python
 from groupdocs.metadata import Metadata
 
-def save_changes():
-    with Metadata("input.ppt") as metadata:
-        # edit or remove metadata here
-        metadata.save()
+
+def save_modified():
+    with Metadata("input.jpg") as metadata:
+        # Edit or remove metadata here
+        metadata.save("output.jpg")
+
+
+if __name__ == "__main__":
+    save_modified()
 ```
 
 ## save {#document}
 
 Saves the document content into a stream.
 
-Learn more:
-- https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+the+original+source
-- https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+a+specified+location
-- https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+a+stream
+Learn more
+- [Save a modified file to the original source](https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+the+original+source)
+- [Save a modified file to a specified location](https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+a+specified+location)
+- [Save a modified file to a stream](https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+a+stream)
 
 ```python
 def save(self, document):
@@ -59,25 +64,25 @@ import io
 from groupdocs.metadata import Metadata
 
 def save_to_stream():
-    # Prepare an in‑memory stream
     stream = io.BytesIO()
     with Metadata("input.png") as metadata:
         # Edit or remove metadata here
         metadata.save(stream)
-    # The stream now contains the modified file data
-    stream.seek(0)
+
+    # stream now contains the modified file data
     with open("output.png", "wb") as f:
-        f.write(stream.read())
+        f.write(stream.getvalue())
 ```
 
 ## save {#file_path}
 
 Saves the document content to the specified file.
 
-Learn more:
-- Save a modified file to the original source: https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+the+original+source
-- Save a modified file to a specified location: https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+a+specified+location
-- Save a modified file to a stream: https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+a+stream
+Learn more
+
+- [Save a modified file to the original source](https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+the+original+source)
+- [Save a modified file to a specified location](https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+a+specified+location)
+- [Save a modified file to a stream](https://docs.groupdocs.com/display/metadatanet/Save+a+modified+file+to+a+stream)
 
 ```python
 def save(self, file_path):

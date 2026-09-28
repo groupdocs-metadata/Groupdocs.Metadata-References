@@ -20,8 +20,8 @@ def equals(self, x, y):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| x | `MetadataProperty` | The first object to compare. |
-| y | `MetadataProperty` | The second object to compare. |
+| x | `MetadataProperty` | The first object of type `MetadataProperty` to compare. |
+| y | `MetadataProperty` | The second object of type `MetadataProperty` to compare. |
 
 **Returns:** bool: True if the specified objects are equal; otherwise, False.
 

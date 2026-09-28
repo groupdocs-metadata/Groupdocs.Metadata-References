@@ -20,7 +20,7 @@ def get_hash_code(self, obj):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| obj | `MetadataProperty` | The `MetadataProperty` for which a hash code is to be returned. |
+| obj | `MetadataProperty` | The metadata property for which a hash code is to be returned. |
 
 **Returns:** int: A hash code for the specified object.
 

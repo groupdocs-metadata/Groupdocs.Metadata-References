@@ -5,7 +5,7 @@ description: "MetadataPackage.remove_properties_func method — GroupDocs.Metada
 type: docs
 url: /python-net/groupdocs.metadata.common/metadatapackage/remove_properties_func/
 is_root: false
-weight: 1100
+weight: 1130
 ---
 
 

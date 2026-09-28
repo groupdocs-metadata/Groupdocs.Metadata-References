@@ -13,7 +13,7 @@ weight: 2030
 
 The rectangle is empty.
 
-Returns True if the rectangle is empty; otherwise, False.
+Returns True if the rectangle has no area; otherwise False.
 
 ### Definition:
 ```python

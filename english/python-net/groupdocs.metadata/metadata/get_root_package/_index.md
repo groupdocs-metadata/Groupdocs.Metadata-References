@@ -13,15 +13,15 @@ weight: 1110
 
 Gets the root package providing access to all metadata properties extracted from the file.
 
-Learn more:
-- https://docs.groupdocs.com/display/metadatanet/Traverse+a+whole+metadata+tree
+Learn more
+- [Traverse a whole metadata tree](https://docs.groupdocs.com/display/metadatanet/Traverse+a+whole+metadata+tree)
 
 ```python
 def get_root_package(self):
     ...
 ```
 
-**Returns:** GroupDocs.Metadata.MetadataPackage: The root package providing access to all metadata properties extracted from the file.
+**Returns:** The root package providing access to all metadata properties extracted from the file.
 
 ### Example
 
@@ -34,9 +34,6 @@ def remove_exif_metadata():
         # Assigning None drops the entire EXIF package
         root.exif_package = None
         metadata.save("output.jpg")
-
-if __name__ == "__main__":
-    remove_exif_metadata()
 ```
 
 ### See Also

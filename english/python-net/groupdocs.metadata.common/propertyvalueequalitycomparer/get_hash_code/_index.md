@@ -20,13 +20,13 @@ def get_hash_code(self, obj):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| obj | `PropertyValue` | The `PropertyValue` for which a hash code is to be returned. |
+| obj | `PropertyValue` | The PropertyValue for which a hash code is to be returned. |
 
-**Returns:** A hash code for the specified object.
+**Returns:** int: A hash code for the specified object.
 
 | Raises | Description |
 | :- | :- |
-| `ValueError` | The type of `obj` is a reference type and `obj` is `None`. |
+| `ValueError` | The type of `obj` is a reference type and `obj` is None. |
 
 ### See Also
 * class [`PropertyValueEqualityComparer`](/metadata/python-net/groupdocs.metadata.common/propertyvalueequalitycomparer/)

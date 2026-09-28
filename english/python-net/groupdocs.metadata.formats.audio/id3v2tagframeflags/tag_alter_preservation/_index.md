@@ -1,0 +1,24 @@
+---
+title: tag_alter_preservation property
+second_title: GroupDocs.Metadata for Python via .NET API References
+description: "The flag that tells the software what to do with this frame if it is unknown and the tag is altered in any way, applying to all kinds of alterations including adding more padding and reordering the…"
+type: docs
+url: /python-net/groupdocs.metadata.formats.audio/id3v2tagframeflags/tag_alter_preservation/
+is_root: false
+weight: 2070
+---
+
+
+## tag_alter_preservation property
+
+The flag that tells the software what to do with this frame if it is unknown and the tag is altered in any way, applying to all kinds of alterations including adding more padding and reordering the frames.
+
+### Definition:
+```python
+@property
+def tag_alter_preservation(self):
+    ...
+```
+
+### See Also
+* class [`ID3V2TagFrameFlags`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2tagframeflags/)

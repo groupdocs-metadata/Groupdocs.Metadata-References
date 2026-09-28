@@ -56,9 +56,11 @@ def export(self, document, format, export_options):
 from groupdocs.metadata import Metadata
 from groupdocs.metadata.export import ExportManager, ExportFormat
 
-with Metadata("input.pdf") as metadata:
-    properties = list(metadata.find_properties(lambda p: True))
-    ExportManager(properties).export("export.xlsx", ExportFormat.XLSX)
+def exporting_metadata_properties():
+    with Metadata("input.pdf") as metadata:
+        properties = list(metadata.find_properties(lambda p: True))
+        ExportManager(properties).export("export.xlsx", ExportFormat.XLSX)
+        print(f"Exported {len(properties)} properties to export.xlsx")
 ```
 
 ## export {#file_path-format}
@@ -97,8 +99,10 @@ def export(self, document, format):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| document | `io.RawIOBase` | The full name of the output file. |
-| format | `ExportFormat` | The format of the output file. |
+| document | `io.RawIOBase` |  |
+| format | `ExportFormat` |  |
+
+**Returns:** - None
 
 ### Example
 

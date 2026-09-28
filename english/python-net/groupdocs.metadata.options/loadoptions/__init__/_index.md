@@ -22,13 +22,9 @@ def __init__(self):
 
 ```python
 from groupdocs.metadata.options import LoadOptions
-from groupdocs.metadata.common import FileFormat
 
-# Default constructor
-options = LoadOptions()
-
-# Specify a file format to skip automatic detection
-options_with_format = LoadOptions(FileFormat.SPREADSHEET)
+load_options = LoadOptions()
+load_options.password = "123"
 ```
 
 ## __init__ {#file_format}
@@ -50,7 +46,6 @@ def __init__(self, file_format):
 from groupdocs.metadata.options import LoadOptions
 from groupdocs.metadata.common import FileFormat
 
-# Load a spreadsheet file with explicit format specification
 load_options = LoadOptions(FileFormat.SPREADSHEET)
 ```
 

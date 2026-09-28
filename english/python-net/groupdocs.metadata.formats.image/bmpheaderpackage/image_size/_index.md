@@ -1,0 +1,24 @@
+---
+title: image_size property
+second_title: GroupDocs.Metadata for Python via .NET API References
+description: "The bitmap raw data size in bytes."
+type: docs
+url: /python-net/groupdocs.metadata.formats.image/bmpheaderpackage/image_size/
+is_root: false
+weight: 2040
+---
+
+
+## image_size property
+
+The bitmap raw data size in bytes.
+
+### Definition:
+```python
+@property
+def image_size(self):
+    ...
+```
+
+### See Also
+* class [`BmpHeaderPackage`](/metadata/python-net/groupdocs.metadata.formats.image/bmpheaderpackage/)

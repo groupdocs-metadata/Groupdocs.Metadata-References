@@ -5,7 +5,7 @@ description: "Represents the file type."
 type: docs
 url: /python-net/groupdocs.metadata.common/filetype/
 is_root: false
-weight: 50
+weight: 60
 ---
 
 
@@ -25,7 +25,7 @@ The FileType type exposes the following members:
 | :- | :- |
 | [from_extension](/metadata/python-net/groupdocs.metadata.common/filetype/from_extension/#file_extension) | Gets the FileType for the provided file extension. |
 | [get_supported_file_types](/metadata/python-net/groupdocs.metadata.common/filetype/get_supported_file_types/) | Retrieves supported file types. |
-| [to_string](/metadata/python-net/groupdocs.metadata.common/filetype/to_string/) | Returns a string that represents the current FileType. |
+| [to_string](/metadata/python-net/groupdocs.metadata.common/filetype/to_string/) | Returns a string that represents the current [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype/). |
 
 ### Properties
 | Property | Description |
@@ -147,6 +147,12 @@ The FileType type exposes the following members:
 | [MOBI](/metadata/python-net/groupdocs.metadata.common/filetype/mobi/) | The MOBI file format is one of the most widely used ebook file formats. The format is an enhancement to the old OEB (Open Ebook Format) format and was used as the proprietary format for Mobipocket Reader. Like EPUB, it is supported by almost all modern e-readers specifically by mobile devices with low bandwidth. The format can be converted to several other formats such as PDF, EPUB, and several other formats using publicly available software applications such as the Kindle app. There are several companies that offer free MOBI books such as Project Gutenberg, Feedbooks, and Open Library. Learn more about this file format here. |
 | [OGG](/metadata/python-net/groupdocs.metadata.common/filetype/ogg/) | OGG is an Ogg Vorbis Compressed Audio File that is saved with the .ogg extension. OGG files are used for storing audio data and can include artist and track information and metadata as well. OGG is a free and open container format that is maintained by Xiph.Org Foundation. Learn more about this file format here. |
 | [SVG](/metadata/python-net/groupdocs.metadata.common/filetype/svg/) | An SVG file is a Scalar Vector Graphics file that uses XML based text format for describing the appearance of an image. The word Scalable refers to the fact that the SVG can be scaled to different sizes without losing any quality. Text-based description of such files makes them independent of resolution. It is one of the most used formats for building a website and print graphics in order to achieve scalability. The format can only be used for two-dimensional graphics though. SVG files can be viewed/opened in almost all modern browsers including Chrome, Internet Explorer, Firefox, and Safari. Learn more about this file format here. |
+| [AVIF](/metadata/python-net/groupdocs.metadata.common/filetype/avif/) | AV1 Image File Format (AVIF) is an open, royalty-free image file format specification for storing images or image sequences compressed with AV1 in the HEIF container format. Learn more about this file format here. |
+| [AAR](/metadata/python-net/groupdocs.metadata.common/filetype/aar/) | An Apple Archive (.aar) is a proprietary, high-performance compressed archive format created by Apple. |
+| [GZIP](/metadata/python-net/groupdocs.metadata.common/filetype/gzip/) | A GZIP file is a compressed archive that is created with the standard gzip (GNU zip) compression algorithm. The compressed archive may contain multiple files including compressed files, directories and file stubs. Most of the Unix systems include the open source gzip (GNU Zip) compressor utility for compression/decompression of files. GZIP files can be opened with applications such as WinZip. Learn more about this file format here. |
+| [XZ](/metadata/python-net/groupdocs.metadata.common/filetype/xz/) | XZ is a compressed file format that utilizes the LZMA2 compression algorithm. It was designed as a replacement for the popular gzip and bzip2 formats, and offers a number of advantages over these older standards. Learn more about this file format here. |
+| [BZ2](/metadata/python-net/groupdocs.metadata.common/filetype/bz2/) | BZ2 are compressed files generated using the BZIP2 open source compression method, mostly on UNIX or Linux system. It is used for compression of a single file and is not meant for archiving of multiple files. This is in contrast to the TAR file format on the same platforms that archives multiple files into a single file but without compression. Files compressed as BZ2 can be decompressed with applications like WinZip. BZIP2 uses Run-Length Encoding (RLE) or Burrows-Wheeler compression algorithm to achieve high levels of compression. Learn more about this file format here. |
+| [ZSTD](/metadata/python-net/groupdocs.metadata.common/filetype/zstd/) | Zstandard (commonly referred to as ZSTD) is a cutting-edge compression algorithm that provides excellent performance and adaptability. Its .zst file extension is synonymous with high-speed compression and remarkable compression ratios, making it an essential tool for modern data storage and transmission. |
 
 ### See Also
 * module [`groupdocs.metadata.common`](/metadata/python-net/groupdocs.metadata.common/)

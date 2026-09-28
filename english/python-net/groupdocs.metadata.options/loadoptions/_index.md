@@ -15,10 +15,10 @@ Allows a developer to specify additional options (such as a password) when loadi
 
 Learn more
 
-- [Load from a local disk](https://docs.groupdocs.com/display/metadatanet/Load+from+a+local+disk)
-- [Load from a stream](https://docs.groupdocs.com/display/metadatanet/Load+from+a+stream)
-- [Load a file of a specific format](https://docs.groupdocs.com/display/metadatanet/Load+a+file+of+a+specific+format)
-- [Load a password-protected document](https://docs.groupdocs.com/display/metadatanet/Load+a+password-protected+document)
+- Load from a local disk: https://docs.groupdocs.com/display/metadatanet/Load+from+a+local+disk
+- Load from a stream: https://docs.groupdocs.com/display/metadatanet/Load+from+a+stream
+- Load a file of a specific format: https://docs.groupdocs.com/display/metadatanet/Load+a+file+of+a+specific+format
+- Load a password-protected document: https://docs.groupdocs.com/display/metadatanet/Load+a+password-protected+document
 
 The LoadOptions type exposes the following members:
 
@@ -31,35 +31,35 @@ The LoadOptions type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [file_format](/metadata/python-net/groupdocs.metadata.options/loadoptions/file_format/) | The exact type of the file that is to be loaded. |
-| [password](/metadata/python-net/groupdocs.metadata.options/loadoptions/password/) | The password for opening an encrypted document. |
+| [file_format](/metadata/python-net/groupdocs.metadata.options/loadoptions/file_format/) | The exact type of the file that is to be loaded. The default value is `FileFormat.unknown`, which means that the type should be detected automatically. |
+| [password](/metadata/python-net/groupdocs.metadata.options/loadoptions/password/) | The password used to open an encrypted document. |
 
 ### Example
-
-```python
-from groupdocs.metadata import Metadata
-from groupdocs.metadata.options import LoadOptions
-
-def load_password_protected_document():
-    # Specify the password
-    load_options = LoadOptions()
-    load_options.password = "123"
-
-    with Metadata("protected.docx", load_options) as metadata:
-        print(f"Opened protected {metadata.file_format} document")
-```
 
 ```python
 from groupdocs.metadata import Metadata
 from groupdocs.metadata.common import FileFormat
 from groupdocs.metadata.options import LoadOptions
 
-def loading_file_of_specific_format():
+def load_password_protected_document():
+    # Specify the password for a protected file
+    load_options = LoadOptions()
+    load_options.password = "123"
+
+    with Metadata("protected.docx", load_options) as metadata:
+        print(f"Opened protected {metadata.file_format} document")
+
+def load_file_of_specific_format():
+    # Explicitly set the file format to avoid detection overhead
     load_options = LoadOptions(FileFormat.SPREADSHEET)
 
     with Metadata("input.xlsx", load_options) as metadata:
         root = metadata.get_root_package()
         print(f"Author: {root.document_properties.author}")
+
+if __name__ == "__main__":
+    load_password_protected_document()
+    load_file_of_specific_format()
 ```
 
 ### See Also

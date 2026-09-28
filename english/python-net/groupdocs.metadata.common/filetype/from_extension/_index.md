@@ -22,7 +22,7 @@ def from_extension(cls, file_extension):
 | :- | :- | :- |
 | file_extension | `str` | File extension. |
 
-**Returns:** File type.
+**Returns:** FileType: File type.
 
 ### See Also
 * class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype/)

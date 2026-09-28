@@ -5,7 +5,7 @@ description: "Types under groupdocs.metadata.import."
 type: docs
 url: /python-net/groupdocs.metadata.import_/
 is_root: false
-weight: 40
+weight: 220
 ---
 
 

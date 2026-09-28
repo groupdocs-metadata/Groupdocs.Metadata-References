@@ -15,7 +15,7 @@ Sets known metadata properties satisfying the specified predicate.
 
 Please note that GroupDocs.Metadata implicitly checks the type of each filtered property. It's impossible to set a property with a value having inappropriate type.
 
-- Set metadata properties https://docs.groupdocs.com/display/metadatanet/Set+metadata+properties
+- Set metadata properties (https://docs.groupdocs.com/display/metadatanet/Set+metadata+properties)
 
 ```python
 def set_properties(self, predicate, value):

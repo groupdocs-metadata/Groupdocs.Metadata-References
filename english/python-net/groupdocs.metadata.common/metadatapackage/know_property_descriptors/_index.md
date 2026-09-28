@@ -5,7 +5,7 @@ description: "The collection of descriptors that contain information about prope
 type: docs
 url: /python-net/groupdocs.metadata.common/metadatapackage/know_property_descriptors/
 is_root: false
-weight: 2040
+weight: 2030
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: password property
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: "The password for opening an encrypted document."
+description: "The password used to open an encrypted document."
 type: docs
 url: /python-net/groupdocs.metadata.options/loadoptions/password/
 is_root: false
@@ -11,9 +11,9 @@ weight: 2020
 
 ## password property
 
-The password for opening an encrypted document.
+The password used to open an encrypted document.
 
-Can be None or empty string. The default value is None. If the document is not encrypted, set this to None or the empty string.
+Can be None or an empty string; the default is None. If the document is not encrypted, set this to None or an empty string.
 
 ### Definition:
 ```python

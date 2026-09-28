@@ -5,7 +5,7 @@ description: "MetadataPackage.update_properties_func method — GroupDocs.Metada
 type: docs
 url: /python-net/groupdocs.metadata.common/metadatapackage/update_properties_func/
 is_root: false
-weight: 1150
+weight: 1180
 ---
 
 

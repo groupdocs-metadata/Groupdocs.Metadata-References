@@ -5,7 +5,7 @@ description: "Removes writable metadata properties from the package, recursively
 type: docs
 url: /python-net/groupdocs.metadata.common/metadatapackage/sanitize/
 is_root: false
-weight: 1110
+weight: 1140
 ---
 
 
@@ -28,9 +28,11 @@ def sanitize(self):
 ```python
 from groupdocs.metadata import Metadata
 
-with Metadata("input.jpg") as metadata:
-    removed = metadata.sanitize()
-    print(f"Removed {removed} properties")
+def sanitize_file(input_path, output_path):
+    with Metadata(input_path) as metadata:
+        affected = metadata.sanitize()
+        metadata.save(output_path)
+        return affected
 ```
 
 ### See Also

@@ -1,17 +1,17 @@
 ---
 title: metadata_type property
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: "The metadata type of the metadata package."
+description: "The metadata type of the package."
 type: docs
 url: /python-net/groupdocs.metadata.common/metadatapackage/metadata_type/
 is_root: false
-weight: 2050
+weight: 2040
 ---
 
 
 ## metadata_type property
 
-The metadata type of the metadata package.
+The metadata type of the package.
 
 ### Definition:
 ```python

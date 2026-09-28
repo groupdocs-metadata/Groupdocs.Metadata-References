@@ -5,7 +5,7 @@ description: "Provides common information about a document page (slide, workshee
 type: docs
 url: /python-net/groupdocs.metadata.common/pageinfo/
 is_root: false
-weight: 160
+weight: 190
 ---
 
 
@@ -13,9 +13,8 @@ weight: 160
 
 Provides common information about a document page (slide, worksheet, etc).
 
-Learn more:
-
-- Get document info: https://docs.groupdocs.com/display/metadatanet/Get+document+info
+Learn more
+- https://docs.groupdocs.com/display/metadatanet/Get+document+info
 
 The PageInfo type exposes the following members:
 

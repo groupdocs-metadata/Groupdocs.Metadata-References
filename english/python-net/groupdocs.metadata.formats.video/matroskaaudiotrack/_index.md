@@ -1,0 +1,68 @@
+---
+title: MatroskaAudioTrack class
+second_title: GroupDocs.Metadata for Python via .NET API References
+description: "Represents audio metadata in a Matroska video."
+type: docs
+url: /python-net/groupdocs.metadata.formats.video/matroskaaudiotrack/
+is_root: false
+weight: 210
+---
+
+
+## MatroskaAudioTrack class
+
+Represents audio metadata in a Matroska video.
+
+Learn more
+
+- https://docs.groupdocs.com/display/metadatanet/Working+with+metadata+in+Matroska+%28MKV%29+files
+
+The MatroskaAudioTrack type exposes the following members:
+
+### Methods
+| Method | Description |
+| :- | :- |
+| [add_properties](/metadata/python-net/groupdocs.metadata.common/metadatapackage/add_properties/) | Adds known metadata properties satisfying the specified predicate. The operation is recursive so it affects all nested packages as well. (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [add_properties_func](/metadata/python-net/groupdocs.metadata.common/metadatapackage/add_properties_func/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [contains](/metadata/python-net/groupdocs.metadata.common/metadatapackage/contains/) | Returns True if the package contains a metadata property with the specified name; otherwise, False. (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [contains_file](/metadata/python-net/groupdocs.metadata.common/metadatapackage/contains_file/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [contains_string](/metadata/python-net/groupdocs.metadata.common/metadatapackage/contains_string/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [find_properties](/metadata/python-net/groupdocs.metadata.common/metadatapackage/find_properties/) | Finds metadata properties that satisfy the specified predicate, searching recursively through all nested packages. (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [find_properties_func](/metadata/python-net/groupdocs.metadata.common/metadatapackage/find_properties_func/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [get](/metadata/python-net/groupdocs.metadata.common/metadatapackage/get/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [get_enumerator](/metadata/python-net/groupdocs.metadata.common/metadatapackage/get_enumerator/) | Returns an enumerator that iterates through the collection. (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [get_file](/metadata/python-net/groupdocs.metadata.common/metadatapackage/get_file/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [get_string](/metadata/python-net/groupdocs.metadata.common/metadatapackage/get_string/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [remove_properties](/metadata/python-net/groupdocs.metadata.common/metadatapackage/remove_properties/) | Removes metadata properties satisfying the specified predicate. (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [remove_properties_func](/metadata/python-net/groupdocs.metadata.common/metadatapackage/remove_properties_func/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [sanitize](/metadata/python-net/groupdocs.metadata.common/metadatapackage/sanitize/) | Removes writable metadata properties from the package, recursively affecting all nested packages. (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [set_properties](/metadata/python-net/groupdocs.metadata.common/metadatapackage/set_properties/) | Sets known metadata properties satisfying the specified predicate. (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [set_properties_func](/metadata/python-net/groupdocs.metadata.common/metadatapackage/set_properties_func/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [update_properties](/metadata/python-net/groupdocs.metadata.common/metadatapackage/update_properties/) | Updates known metadata properties that satisfy the specified predicate, recursively affecting all nested packages. (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [update_properties_func](/metadata/python-net/groupdocs.metadata.common/metadatapackage/update_properties_func/) |  (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+
+### Properties
+| Property | Description |
+| :- | :- |
+| [bit_depth](/metadata/python-net/groupdocs.metadata.formats.video/matroskaaudiotrack/bit_depth/) | The bits per sample, mostly used for PCM. |
+| [channels](/metadata/python-net/groupdocs.metadata.formats.video/matroskaaudiotrack/channels/) | The number of channels in the track. |
+| [output_sampling_frequency](/metadata/python-net/groupdocs.metadata.formats.video/matroskaaudiotrack/output_sampling_frequency/) | The real output sampling frequency in Hz (used for SBR techniques). |
+| [sampling_frequency](/metadata/python-net/groupdocs.metadata.formats.video/matroskaaudiotrack/sampling_frequency/) | The sampling frequency in Hz. |
+| [codec_id](/metadata/python-net/groupdocs.metadata.formats.video/matroskatrack/codec_id/) | The ID corresponding to the codec. (inherited from [`MatroskaTrack`](/metadata/python-net/groupdocs.metadata.formats.video/matroskatrack/)) |
+| [codec_name](/metadata/python-net/groupdocs.metadata.formats.video/matroskatrack/codec_name/) | The codec name as a human‑readable string specifying the codec. (inherited from [`MatroskaTrack`](/metadata/python-net/groupdocs.metadata.formats.video/matroskatrack/)) |
+| [count](/metadata/python-net/groupdocs.metadata.common/metadatapackage/count/) | The number of metadata properties. (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [default_duration](/metadata/python-net/groupdocs.metadata.formats.video/matroskatrack/default_duration/) | The number of nanoseconds (not scaled via [`MatroskaSegment.timecode_scale`](/metadata/python-net/groupdocs.metadata.formats.video/matroskasegment/timecode_scale/)) per frame. (inherited from [`MatroskaTrack`](/metadata/python-net/groupdocs.metadata.formats.video/matroskatrack/)) |
+| [flag_enabled](/metadata/python-net/groupdocs.metadata.formats.video/matroskatrack/flag_enabled/) | The enabled flag. True if the track is usable. (inherited from [`MatroskaTrack`](/metadata/python-net/groupdocs.metadata.formats.video/matroskatrack/)) |
+| [keys](/metadata/python-net/groupdocs.metadata.common/metadatapackage/keys/) | The collection of metadata property names. (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [know_property_descriptors](/metadata/python-net/groupdocs.metadata.common/metadatapackage/know_property_descriptors/) | The collection of descriptors that contain information about properties accessible through the GroupDocs.Metadata search engine. (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [language](/metadata/python-net/groupdocs.metadata.formats.video/matroskatrack/language/) | The language of the track in the Matroska languages form, which must be ignored if [`MatroskaTrack.LanguageIetf`](/metadata/python-net/groupdocs.metadata.formats.video/matroskatrack/language_ietf/) is used in the same TrackEntry. (inherited from [`MatroskaTrack`](/metadata/python-net/groupdocs.metadata.formats.video/matroskatrack/)) |
+| [language_ietf](/metadata/python-net/groupdocs.metadata.formats.video/matroskatrack/language_ietf/) | The language of the track according to BCP 47 and using the IANA Language Subtag Registry. (inherited from [`MatroskaTrack`](/metadata/python-net/groupdocs.metadata.formats.video/matroskatrack/)) |
+| [metadata_type](/metadata/python-net/groupdocs.metadata.common/metadatapackage/metadata_type/) | The metadata type of the package. (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [name](/metadata/python-net/groupdocs.metadata.formats.video/matroskatrack/name/) | The human-readable track name. (inherited from [`MatroskaTrack`](/metadata/python-net/groupdocs.metadata.formats.video/matroskatrack/)) |
+| [property_descriptors](/metadata/python-net/groupdocs.metadata.common/metadatapackage/property_descriptors/) | The collection of descriptors that contain information about properties accessible through the GroupDocs.Metadata search engine. (inherited from [`MetadataPackage`](/metadata/python-net/groupdocs.metadata.common/metadatapackage/)) |
+| [track_number](/metadata/python-net/groupdocs.metadata.formats.video/matroskatrack/track_number/) | The track number as used in the Block Header. (inherited from [`MatroskaTrack`](/metadata/python-net/groupdocs.metadata.formats.video/matroskatrack/)) |
+| [track_type](/metadata/python-net/groupdocs.metadata.formats.video/matroskatrack/track_type/) | The type of the track. (inherited from [`MatroskaTrack`](/metadata/python-net/groupdocs.metadata.formats.video/matroskatrack/)) |
+| [track_uid](/metadata/python-net/groupdocs.metadata.formats.video/matroskatrack/track_uid/) | The unique ID to identify the Track. (inherited from [`MatroskaTrack`](/metadata/python-net/groupdocs.metadata.formats.video/matroskatrack/)) |
+
+### See Also
+* module [`groupdocs.metadata.formats.video`](/metadata/python-net/groupdocs.metadata.formats.video/)

@@ -5,7 +5,7 @@ description: "Func class — GroupDocs.Metadata for Python via .NET API referenc
 type: docs
 url: /python-net/groupdocs.metadata.common/func/
 is_root: false
-weight: 70
+weight: 100
 ---
 
 

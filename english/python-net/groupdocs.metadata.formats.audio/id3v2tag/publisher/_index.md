@@ -1,0 +1,29 @@
+---
+title: publisher property
+second_title: GroupDocs.Metadata for Python via .NET API References
+description: "The name of the label or publisher."
+type: docs
+url: /python-net/groupdocs.metadata.formats.audio/id3v2tag/publisher/
+is_root: false
+weight: 2160
+---
+
+
+## publisher property
+
+The name of the label or publisher.
+
+This value is represented by the TPUB frame.
+
+### Definition:
+```python
+@property
+def publisher(self):
+    ...
+@publisher.setter
+def publisher(self, value):
+    ...
+```
+
+### See Also
+* class [`ID3V2Tag`](/metadata/python-net/groupdocs.metadata.formats.audio/id3v2tag/)

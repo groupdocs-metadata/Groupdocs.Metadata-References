@@ -5,7 +5,7 @@ description: "Represents an interpreter intended to convert various numeric valu
 type: docs
 url: /python-net/groupdocs.metadata.common/ienumvalueinterpreter/
 is_root: false
-weight: 90
+weight: 120
 ---
 
 

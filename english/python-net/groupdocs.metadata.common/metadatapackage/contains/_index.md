@@ -1,7 +1,7 @@
 ---
 title: contains method
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: "Determines whether the package contains a metadata property with the specified name."
+description: "Returns True if the package contains a metadata property with the specified name; otherwise, False."
 type: docs
 url: /python-net/groupdocs.metadata.common/metadatapackage/contains/
 is_root: false
@@ -11,7 +11,7 @@ weight: 1030
 
 ## contains {#property_name}
 
-Determines whether the package contains a metadata property with the specified name.
+Returns True if the package contains a metadata property with the specified name; otherwise, False.
 
 ```python
 def contains(self, property_name):

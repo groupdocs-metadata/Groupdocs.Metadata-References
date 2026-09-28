@@ -11,7 +11,9 @@ weight: 2040
 
 ## max_disk_space_for_cache property
 
-The maximum available disk space for cache in bytes. The default value is 1073741824.
+The maximum available disk space for cache in bytes.
+
+The default value is 1073741824.
 
 ### Definition:
 ```python

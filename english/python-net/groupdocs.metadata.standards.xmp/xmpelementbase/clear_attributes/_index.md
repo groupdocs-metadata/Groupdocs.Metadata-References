@@ -1,0 +1,22 @@
+---
+title: clear_attributes method
+second_title: GroupDocs.Metadata for Python via .NET API References
+description: "Removes all attributes."
+type: docs
+url: /python-net/groupdocs.metadata.standards.xmp/xmpelementbase/clear_attributes/
+is_root: false
+weight: 1010
+---
+
+
+## clear_attributes
+
+Removes all attributes.
+
+```python
+def clear_attributes(self):
+    ...
+```
+
+### See Also
+* class [`XmpElementBase`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpelementbase/)

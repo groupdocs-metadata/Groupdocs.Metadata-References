@@ -1,0 +1,18 @@
+---
+title: PR_EMS_AB_HELP_DATA32 field
+second_title: GroupDocs.Metadata for Python via .NET API References
+description: "MsgKnownProperties.PR_EMS_AB_HELP_DATA32 — GroupDocs.Metadata for Python via .NET."
+type: docs
+url: /python-net/groupdocs.metadata.formats.email/msgknownproperties/pr_ems_ab_help_data32/
+is_root: false
+weight: 11720
+---
+
+
+## PR_EMS_AB_HELP_DATA32 field
+
+### Value
+`2148532482`
+
+### See Also
+* class [`MsgKnownProperties`](/metadata/python-net/groupdocs.metadata.formats.email/msgknownproperties/)

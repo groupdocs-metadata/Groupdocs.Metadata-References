@@ -13,7 +13,8 @@ weight: 1120
 
 Removes metadata properties satisfying the specified predicate.
 
-Learn more:
+Learn more
+
 - More examples demonstrating usages of this method: https://docs.groupdocs.com/display/metadatanet/Removing+metadata
 
 ```python

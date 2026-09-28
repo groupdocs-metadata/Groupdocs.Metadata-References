@@ -5,7 +5,7 @@ description: "FileFormat enum — GroupDocs.Metadata for Python via .NET API ref
 type: docs
 url: /python-net/groupdocs.metadata.common/fileformat/
 is_root: false
-weight: 40
+weight: 50
 ---
 
 
@@ -69,6 +69,11 @@ The FileFormat type exposes the following members:
 | [SVG](/metadata/python-net/groupdocs.metadata.common/fileformat/svg/) | Scalable Vector Graphics (SVG) is an XML-based vector graphics format for defining two-dimensional graphics, having support for interactivity and animation. The SVG specification is an open standard developed by the World Wide Web Consortium since 1999. |
 | [GLTF](/metadata/python-net/groupdocs.metadata.common/fileformat/gltf/) | glTF (Graphics Library Transmission Format or GL Transmission Format and formerly known as WebGL Transmissions Format or WebGL TF) is a standard file format for three-dimensional scenes and models. A glTF file uses one of two possible file extensions: .gltf (JSON/ASCII) or .glb (binary). |
 | [AVIF](/metadata/python-net/groupdocs.metadata.common/fileformat/avif/) | AV1 Image File Format (AVIF) is an open, royalty-free image file format specification for storing images or image sequences compressed with AV1 in the HEIF container format. |
+| [AAR](/metadata/python-net/groupdocs.metadata.common/fileformat/aar/) | An AAR (Android Archive) file is a compressed library package used specifically in Android application development. It serves as a binary distribution format that allows developers to bundle and share reusable modules across multiple Android apps. |
+| [GZIP](/metadata/python-net/groupdocs.metadata.common/fileformat/gzip/) | GZIP is a popular file format and software application used for file compression and decompression. It was developed as a free and open-source compression algorithm by Jean-Loup Gailly and Mark Adler in the early 1990s. |
+| [BZ2](/metadata/python-net/groupdocs.metadata.common/fileformat/bz2/) | Files with the .BZ2 extension are compressed using the BZIP2 algorithm. This free and open-source tool, developed by Julian Seward, achieves impressive compression ratios, making it ideal for shrinking large files or datasets. |
+| [XZ](/metadata/python-net/groupdocs.metadata.common/fileformat/xz/) | XZ is a high-compression archive format primarily used for compressing single files, offering superior compression efficiency and open-source compatibility. |
+| [ZSTD](/metadata/python-net/groupdocs.metadata.common/fileformat/zstd/) | Zstandard (commonly referred to as ZSTD) is a cutting-edge compression algorithm that provides excellent performance and adaptability. Its .zst file extension is synonymous with high-speed compression and remarkable compression ratios, making it an essential tool for modern data storage and transmission. |
 
 ### See Also
 * module [`groupdocs.metadata.common`](/metadata/python-net/groupdocs.metadata.common/)

@@ -11,9 +11,7 @@ weight: 2010
 
 ## file_format property
 
-The exact type of the file that is to be loaded.
-
-Default is `FileFormat.unknown`, which triggers automatic format detection.
+The exact type of the file that is to be loaded. The default value is `FileFormat.unknown`, which means that the type should be detected automatically.
 
 ### Definition:
 ```python

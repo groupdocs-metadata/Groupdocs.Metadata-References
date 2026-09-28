@@ -5,7 +5,7 @@ description: "MetadataPropertyType enum — GroupDocs.Metadata for Python via .N
 type: docs
 url: /python-net/groupdocs.metadata.common/metadatapropertytype/
 is_root: false
-weight: 140
+weight: 170
 ---
 
 

@@ -28,10 +28,11 @@ def sanitize(self):
 ```python
 from groupdocs.metadata import Metadata
 
-def remove_writable_metadata():
-    with Metadata("input.jpg") as metadata:
-        removed = metadata.sanitize()
-        print(f"Removed {removed} properties")
+def sanitize_file(input_path, output_path):
+    with Metadata(input_path) as metadata:
+        affected = metadata.sanitize()
+        metadata.save(output_path)
+        return affected
 ```
 
 ### See Also

@@ -18,7 +18,7 @@ The ExcelExportOptions type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.export/excelexportoptions/__init__/) | Initializes a new instance of the [`ExcelExportOptions`](/metadata/python-net/groupdocs.metadata.export/excelexportoptions/) class. |
+| [__init__](/metadata/python-net/groupdocs.metadata.export/excelexportoptions/__init__/) | Initializes a new instance of the ExcelExportOptions class. |
 | [__init__](/metadata/python-net/groupdocs.metadata.export/excelexportoptions/__init__/#group_cells) | Initializes a new instance of ExcelExportOptions. |
 
 ### Properties

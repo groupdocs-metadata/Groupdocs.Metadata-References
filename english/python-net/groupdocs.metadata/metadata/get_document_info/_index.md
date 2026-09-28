@@ -14,7 +14,7 @@ weight: 1100
 Gets common information about the loaded document.
 
 Learn more:
-- https://docs.groupdocs.com/display/metadatanet/Get+document+info
+- Get document info (https://docs.groupdocs.com/display/metadatanet/Get+document+info)
 
 ```python
 def get_document_info(self):

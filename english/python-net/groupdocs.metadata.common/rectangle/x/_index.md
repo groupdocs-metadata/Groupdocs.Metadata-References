@@ -1,7 +1,7 @@
 ---
 title: x property
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: "The x value of the rectangle."
+description: "The x value."
 type: docs
 url: /python-net/groupdocs.metadata.common/rectangle/x/
 is_root: false
@@ -11,7 +11,7 @@ weight: 2080
 
 ## x property
 
-The x value of the rectangle.
+The x value.
 
 ### Definition:
 ```python

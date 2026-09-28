@@ -5,7 +5,7 @@ description: "Provides methods to compare metadata properties for equality."
 type: docs
 url: /python-net/groupdocs.metadata.common/metadatapropertyequalitycomparer/
 is_root: false
-weight: 130
+weight: 160
 ---
 
 

@@ -13,7 +13,7 @@ weight: 1060
 
 Finds metadata properties that satisfy the specified predicate, searching recursively through all nested packages.
 
-Learn more
+Learn more:
 - More examples demonstrating usages of this method: https://docs.groupdocs.com/display/metadatanet/Extracting+metadata
 
 ```python
@@ -30,17 +30,16 @@ def find_properties(self, predicate):
 ### Example
 
 ```python
-from groupdocs.metadata import Metadata
-from groupdocs.metadata.tagging import Tags
-
-def find_metadata_properties():
-    with Metadata("input.pptx") as metadata:
-        properties = metadata.find_properties(
-            lambda p: Tags.person.editor in list(p.tags)
-            or Tags.time.modified in list(p.tags)
+result = {}
+with Metadata(document_path) as metadata:
+    for prop in metadata.find_properties(lambda p: p.name is not None):
+        key = prop.name
+        value = (
+            str(prop.interpreted_value)
+            if prop.interpreted_value is not None
+            else (str(prop.value) if prop.value is not None else "")
         )
-        for prop in properties:
-            print(f"Property name: {prop.name}, Property value: {prop.value}")
+        result[key] = value
 ```
 
 ### See Also

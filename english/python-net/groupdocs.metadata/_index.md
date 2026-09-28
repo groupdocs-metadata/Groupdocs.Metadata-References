@@ -15,7 +15,7 @@ Main GroupDocs.Metadata namespace with top-level API classes.
 | Class | Description |
 | :- | :- |
 | [`License`](/metadata/python-net/groupdocs.metadata/license/) | Manages GroupDocs.Metadata licensing. |
-| [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata/) | Provides the main class to access metadata in all supported formats. |
+| [`Metadata`](/metadata/python-net/groupdocs.metadata/metadata/) | The main class to access metadata in all supported formats. |
 | [`Metered`](/metadata/python-net/groupdocs.metadata/metered/) | Manages metered (pay-per-use) licensing. |
 
 ### Exceptions

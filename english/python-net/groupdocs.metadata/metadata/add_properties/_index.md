@@ -13,8 +13,7 @@ weight: 1010
 
 Adds known metadata properties satisfying the specified predicate, recursively affecting all nested packages.
 
-Learn more
-
+Learn more:
 - More examples demonstrating usages of this method: Adding metadata (https://docs.groupdocs.com/display/metadatanet/Adding+metadata)
 
 ```python
@@ -24,8 +23,8 @@ def add_properties(self, predicate, value):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| predicate | `Func[MetadataProperty, bool]` | A function to test each metadata property for a condition. |
-| value | `PropertyValue` | A value for the picked properties. |
+| predicate | `Func[MetadataProperty, bool]` | A callable that tests each metadata property for a condition. |
+| value | `PropertyValue` | A `PropertyValue` containing the value to assign to the selected properties. |
 
 **Returns:** int: The number of affected properties.
 
@@ -37,14 +36,13 @@ from groupdocs.metadata import Metadata
 from groupdocs.metadata.common import PropertyValue
 from groupdocs.metadata.tagging import Tags
 
-def add_missing_printed_date():
-    with Metadata("input.docx") as metadata:
-        property_value = PropertyValue(datetime.now())
-        affected = metadata.add_properties(
-            lambda p: Tags.time.printed in list(p.tags), property_value
-        )
-        print(f"Affected properties: {affected}")
-        metadata.save("output.docx")
+with Metadata("input.docx") as metadata:
+    value = PropertyValue(datetime.now())
+    affected = metadata.add_properties(
+        lambda p: Tags.time.printed in list(p.tags), value
+    )
+    print(f"Affected properties: {affected}")
+    metadata.save("output.docx")
 ```
 
 ### See Also

@@ -1,7 +1,7 @@
 ---
 title: __init__ constructor
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: "Initializes a new ExportManager with the given metadata properties."
+description: "Initializes a new ExportManager instance."
 type: docs
 url: /python-net/groupdocs.metadata.export/exportmanager/__init__/
 is_root: false
@@ -11,7 +11,7 @@ weight: 10
 
 ## __init__ {#properties}
 
-Initializes a new ExportManager with the given metadata properties.
+Initializes a new ExportManager instance.
 
 ```python
 def __init__(self, properties):
@@ -20,7 +20,7 @@ def __init__(self, properties):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| properties | `Iterable[MetadataProperty]` | Iterable[MetadataProperty] – A collection of metadata properties to be exported. |
+| properties | `Iterable[MetadataProperty]` | A collection of metadata properties to be exported. |
 
 ### Example
 

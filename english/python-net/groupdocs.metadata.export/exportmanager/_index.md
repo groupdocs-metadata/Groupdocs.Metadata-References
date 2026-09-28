@@ -1,7 +1,7 @@
 ---
 title: ExportManager class
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: "Provides a set of methods that export metadata properties to various formats."
+description: "Provides a set of methods allowing the user to export metadata properties to various formats."
 type: docs
 url: /python-net/groupdocs.metadata.export/exportmanager/
 is_root: false
@@ -11,14 +11,14 @@ weight: 40
 
 ## ExportManager class
 
-Provides a set of methods that export metadata properties to various formats.
+Provides a set of methods allowing the user to export metadata properties to various formats.
 
 The ExportManager type exposes the following members:
 
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.export/exportmanager/__init__/#properties) | Initializes a new ExportManager with the given metadata properties. |
+| [__init__](/metadata/python-net/groupdocs.metadata.export/exportmanager/__init__/#properties) | Initializes a new ExportManager instance. |
 
 ### Methods
 | Method | Description |
@@ -38,6 +38,7 @@ The ExportManager type exposes the following members:
 from groupdocs.metadata import Metadata
 from groupdocs.metadata.export import ExportManager, ExportFormat
 
+
 def exporting_metadata_properties():
     with Metadata("input.pdf") as metadata:
         # Collect the whole metadata tree as a list of properties
@@ -46,6 +47,10 @@ def exporting_metadata_properties():
         # Export them to an Excel workbook
         ExportManager(properties).export("export.xlsx", ExportFormat.XLSX)
         print(f"Exported {len(properties)} properties to export.xlsx")
+
+
+if __name__ == "__main__":
+    exporting_metadata_properties()
 ```
 
 ### See Also

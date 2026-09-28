@@ -11,7 +11,7 @@ weight: 10
 
 ## __init__ {#create_page_stream}
 
-Initializes a new instance of the [`PreviewOptions`](/metadata/python-net/groupdocs.metadata.options/previewoptions/) class causing the output stream to be closed.
+Initializes a new instance of the PreviewOptions class causing the output stream to be closed.
 
 ```python
 def __init__(self, create_page_stream):
@@ -24,7 +24,7 @@ def __init__(self, create_page_stream):
 
 ## __init__ {#create_page_stream-release_page_stream}
 
-Initializes a new instance of PreviewOptions class causing the output stream to be returned to the client for further use.
+Initializes a new instance of [`PreviewOptions`](/metadata/python-net/groupdocs.metadata.options/previewoptions/) causing the output stream to be returned to the client for further use.
 
 ```python
 def __init__(self, create_page_stream, release_page_stream):

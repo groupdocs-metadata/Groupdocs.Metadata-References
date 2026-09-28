@@ -29,7 +29,7 @@ The FileLogger type exposes the following members:
 | [trace](/metadata/python-net/groupdocs.metadata.logging/filelogger/trace/#message) | Writes a trace log message providing generally useful information about application flow. |
 | [trace_file](/metadata/python-net/groupdocs.metadata.logging/filelogger/trace_file/) |  |
 | [trace_string](/metadata/python-net/groupdocs.metadata.logging/filelogger/trace_string/) |  |
-| [warning](/metadata/python-net/groupdocs.metadata.logging/filelogger/warning/#message) | Writes a warning log message, providing information about unexpected and recoverable events in the application flow. |
+| [warning](/metadata/python-net/groupdocs.metadata.logging/filelogger/warning/#message) | Writes a warning log message providing information about unexpected and recoverable events in the application flow. |
 | [warning_file](/metadata/python-net/groupdocs.metadata.logging/filelogger/warning_file/) |  |
 | [warning_string](/metadata/python-net/groupdocs.metadata.logging/filelogger/warning_string/) |  |
 

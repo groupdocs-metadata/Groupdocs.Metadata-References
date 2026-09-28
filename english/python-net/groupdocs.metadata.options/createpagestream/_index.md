@@ -13,9 +13,9 @@ weight: 10
 
 Represents a method that returns a stream to write page preview data.
 
-Learn more
+Learn more:
 
-- Generate document preview (https://docs.groupdocs.com/display/metadatanet/Generate+document+preview)
+- [Generate document preview](https://docs.groupdocs.com/display/metadatanet/Generate+document+preview)
 
 The CreatePageStream type exposes the following members:
 

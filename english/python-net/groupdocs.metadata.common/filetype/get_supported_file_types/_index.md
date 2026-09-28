@@ -18,7 +18,7 @@ def get_supported_file_types(cls):
     ...
 ```
 
-**Returns:** list[FileType]: A collection of supported file types.
+**Returns:** Iterable[FileType]: A collection of supported file types.
 
 ### See Also
 * class [`FileType`](/metadata/python-net/groupdocs.metadata.common/filetype/)

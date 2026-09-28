@@ -5,7 +5,7 @@ description: "PropertyAccessLevels enum — GroupDocs.Metadata for Python via .N
 type: docs
 url: /python-net/groupdocs.metadata.common/propertyaccesslevels/
 is_root: false
-weight: 170
+weight: 210
 ---
 
 

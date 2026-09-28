@@ -1,7 +1,7 @@
 ---
 title: OriginTagCategory class
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: "Provides tags that help a user determine the origin of a file (e.g., template or another source)."
+description: "Provides tags that help a user determine the origin of a file (e.g., a template or another source)."
 type: docs
 url: /python-net/groupdocs.metadata.tagging/origintagcategory/
 is_root: false
@@ -11,7 +11,7 @@ weight: 50
 
 ## OriginTagCategory class
 
-Provides tags that help a user determine the origin of a file (e.g., template or another source).
+Provides tags that help a user determine the origin of a file (e.g., a template or another source).
 
 The OriginTagCategory type exposes the following members:
 

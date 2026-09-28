@@ -18,7 +18,7 @@ The ConsoleLogger type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.logging/consolelogger/__init__/) | Initializes a new logger instance. |
+| [__init__](/metadata/python-net/groupdocs.metadata.logging/consolelogger/__init__/) | Initializes a new instance of ConsoleLogger with default settings. |
 
 ### Methods
 | Method | Description |
@@ -26,10 +26,10 @@ The ConsoleLogger type exposes the following members:
 | [error](/metadata/python-net/groupdocs.metadata.logging/consolelogger/error/#message-exception) | Writes an error log message. Error log messages provide information about unrecoverable events in the application flow. |
 | [error_file](/metadata/python-net/groupdocs.metadata.logging/consolelogger/error_file/) |  |
 | [error_string](/metadata/python-net/groupdocs.metadata.logging/consolelogger/error_string/) |  |
-| [trace](/metadata/python-net/groupdocs.metadata.logging/consolelogger/trace/#message) | Writes a trace log message. |
+| [trace](/metadata/python-net/groupdocs.metadata.logging/consolelogger/trace/#message) | Writes a trace log message, providing generally useful information about application flow. |
 | [trace_file](/metadata/python-net/groupdocs.metadata.logging/consolelogger/trace_file/) |  |
 | [trace_string](/metadata/python-net/groupdocs.metadata.logging/consolelogger/trace_string/) |  |
-| [warning](/metadata/python-net/groupdocs.metadata.logging/consolelogger/warning/#message) | Writes a warning log message, providing information about unexpected and recoverable events in the application flow. |
+| [warning](/metadata/python-net/groupdocs.metadata.logging/consolelogger/warning/#message) | Writes a warning log message. |
 | [warning_file](/metadata/python-net/groupdocs.metadata.logging/consolelogger/warning_file/) |  |
 | [warning_string](/metadata/python-net/groupdocs.metadata.logging/consolelogger/warning_string/) |  |
 

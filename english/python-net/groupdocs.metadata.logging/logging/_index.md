@@ -1,7 +1,7 @@
 ---
 title: Logging class
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: "Provides functionality for working with a logger."
+description: "Provides functionality for logging."
 type: docs
 url: /python-net/groupdocs.metadata.logging/logging/
 is_root: false
@@ -11,7 +11,7 @@ weight: 40
 
 ## Logging class
 
-Provides functionality for working with a logger.
+Provides functionality for logging.
 
 The Logging type exposes the following members:
 

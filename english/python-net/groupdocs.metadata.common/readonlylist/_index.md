@@ -5,7 +5,7 @@ description: "ReadOnlyList class — GroupDocs.Metadata for Python via .NET API 
 type: docs
 url: /python-net/groupdocs.metadata.common/readonlylist/
 is_root: false
-weight: 210
+weight: 250
 ---
 
 
@@ -19,7 +19,9 @@ The ReadOnlyList type exposes the following members:
 | [contains](/metadata/python-net/groupdocs.metadata.common/readonlylist/contains/#item) |  |
 | [contains](/metadata/python-net/groupdocs.metadata.common/readonlylist/contains/#item) |  |
 | [contains_tag_category](/metadata/python-net/groupdocs.metadata.common/readonlylist/contains_tag_category/) |  |
+| [get](/metadata/python-net/groupdocs.metadata.common/readonlylist/get/) |  |
 | [get_enumerator](/metadata/python-net/groupdocs.metadata.common/readonlylist/get_enumerator/) |  |
+| [get_int32](/metadata/python-net/groupdocs.metadata.common/readonlylist/get_int32/) |  |
 | [index_of](/metadata/python-net/groupdocs.metadata.common/readonlylist/index_of/#item) |  |
 
 ### Properties
@@ -27,7 +29,6 @@ The ReadOnlyList type exposes the following members:
 | :- | :- |
 | [count](/metadata/python-net/groupdocs.metadata.common/readonlylist/count/) |  |
 | [is_read_only](/metadata/python-net/groupdocs.metadata.common/readonlylist/is_read_only/) |  |
-| [item](/metadata/python-net/groupdocs.metadata.common/readonlylist/item/) |  |
 
 ### See Also
 * module [`groupdocs.metadata.common`](/metadata/python-net/groupdocs.metadata.common/)

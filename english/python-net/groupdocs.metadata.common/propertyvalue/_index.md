@@ -1,17 +1,17 @@
 ---
 title: PropertyValue class
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: "The property value."
+description: "The PropertyValue represents a property value."
 type: docs
 url: /python-net/groupdocs.metadata.common/propertyvalue/
 is_root: false
-weight: 190
+weight: 230
 ---
 
 
 ## PropertyValue class
 
-The property value.
+The PropertyValue represents a property value.
 
 The PropertyValue type exposes the following members:
 
@@ -19,19 +19,19 @@ The PropertyValue type exposes the following members:
 | Constructor | Description |
 | :- | :- |
 | [__init__](/metadata/python-net/groupdocs.metadata.common/propertyvalue/__init__/#value) | Initializes a PropertyValue with an integer value. |
-| [__init__](/metadata/python-net/groupdocs.metadata.common/propertyvalue/__init__/#value) | Initializes a PropertyValue with a long value. |
+| [__init__](/metadata/python-net/groupdocs.metadata.common/propertyvalue/__init__/#value) | Initializes a new PropertyValue with a long integer value. |
 | [__init__](/metadata/python-net/groupdocs.metadata.common/propertyvalue/__init__/#value) | Initializes a new PropertyValue with a boolean value. |
-| [__init__](/metadata/python-net/groupdocs.metadata.common/propertyvalue/__init__/#value) | Initializes a PropertyValue with a double value. |
-| [__init__](/metadata/python-net/groupdocs.metadata.common/propertyvalue/__init__/#value) | Initializes a PropertyValue with a string value. |
+| [__init__](/metadata/python-net/groupdocs.metadata.common/propertyvalue/__init__/#value) | Initializes a PropertyValue with a double (float) value. |
+| [__init__](/metadata/python-net/groupdocs.metadata.common/propertyvalue/__init__/#value) | Initializes a new PropertyValue with a string value. |
 | [__init__](/metadata/python-net/groupdocs.metadata.common/propertyvalue/__init__/#value) | Initializes a new PropertyValue with the given value. |
-| [__init__](/metadata/python-net/groupdocs.metadata.common/propertyvalue/__init__/#value) | Initializes a new PropertyValue with a datetime value. |
-| [__init__](/metadata/python-net/groupdocs.metadata.common/propertyvalue/__init__/#value) | Initializes a new PropertyValue instance with a datetime.timedelta value. |
-| [__init__](/metadata/python-net/groupdocs.metadata.common/propertyvalue/__init__/#values) | Initializes a PropertyValue with a list of strings. |
+| [__init__](/metadata/python-net/groupdocs.metadata.common/propertyvalue/__init__/#value) | Initializes a PropertyValue with a datetime value. |
+| [__init__](/metadata/python-net/groupdocs.metadata.common/propertyvalue/__init__/#value) | Initializes a new PropertyValue instance with a `timedelta` value. |
+| [__init__](/metadata/python-net/groupdocs.metadata.common/propertyvalue/__init__/#values) | Initializes a new PropertyValue with a list of strings. |
 | [__init__](/metadata/python-net/groupdocs.metadata.common/propertyvalue/__init__/#values) | Initializes a PropertyValue with a byte array. |
-| [__init__](/metadata/python-net/groupdocs.metadata.common/propertyvalue/__init__/#values) | Initializes a PropertyValue with an array of double values. |
-| [__init__](/metadata/python-net/groupdocs.metadata.common/propertyvalue/__init__/#values) | Initializes a PropertyValue with an array of integer values. |
-| [__init__](/metadata/python-net/groupdocs.metadata.common/propertyvalue/__init__/#values) | Initializes a PropertyValue with an array of long values. |
-| [__init__](/metadata/python-net/groupdocs.metadata.common/propertyvalue/__init__/#values) | Initializes a PropertyValue with an array of unsigned 16‑bit integer values. |
+| [__init__](/metadata/python-net/groupdocs.metadata.common/propertyvalue/__init__/#values) | Initializes a new PropertyValue with an array of double values. |
+| [__init__](/metadata/python-net/groupdocs.metadata.common/propertyvalue/__init__/#values) | Initializes a new PropertyValue with an array of integer values. |
+| [__init__](/metadata/python-net/groupdocs.metadata.common/propertyvalue/__init__/#values) | Initializes a new PropertyValue with an array of long values. |
+| [__init__](/metadata/python-net/groupdocs.metadata.common/propertyvalue/__init__/#values) | Initializes a new PropertyValue instance with an array of unsigned 16‑bit integer values. |
 
 ### Methods
 | Method | Description |
@@ -48,7 +48,7 @@ The PropertyValue type exposes the following members:
 | Property | Description |
 | :- | :- |
 | [raw_value](/metadata/python-net/groupdocs.metadata.common/propertyvalue/raw_value/) | The raw value. |
-| [type](/metadata/python-net/groupdocs.metadata.common/propertyvalue/type/) | The type of the property, represented by `MetadataPropertyType`. |
+| [type](/metadata/python-net/groupdocs.metadata.common/propertyvalue/type/) | The type of the property. |
 
 ### Example
 
@@ -56,9 +56,8 @@ The PropertyValue type exposes the following members:
 from datetime import datetime
 from groupdocs.metadata.common import PropertyValue
 
-# Create a PropertyValue from a datetime object
+# Create a PropertyValue containing the current date and time
 value = PropertyValue(datetime.now())
-print(value)
 ```
 
 ### Guides

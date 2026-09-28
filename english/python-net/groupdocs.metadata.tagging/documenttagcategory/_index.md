@@ -1,7 +1,7 @@
 ---
 title: DocumentTagCategory class
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: "Provides tags that are applied to document-specific properties only."
+description: "Provides tags applied to document-specific properties, useful for determining the part of an office document from which a property was extracted."
 type: docs
 url: /python-net/groupdocs.metadata.tagging/documenttagcategory/
 is_root: false
@@ -11,7 +11,7 @@ weight: 30
 
 ## DocumentTagCategory class
 
-Provides tags that are applied to document-specific properties only. The tags can be useful to determine from which part of an office document a property was extracted.
+Provides tags applied to document-specific properties, useful for determining the part of an office document from which a property was extracted.
 
 The DocumentTagCategory type exposes the following members:
 

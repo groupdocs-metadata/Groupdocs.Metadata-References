@@ -5,7 +5,7 @@ description: "MetadataPackage.set_properties_func method — GroupDocs.Metadata 
 type: docs
 url: /python-net/groupdocs.metadata.common/metadatapackage/set_properties_func/
 is_root: false
-weight: 1130
+weight: 1160
 ---
 
 

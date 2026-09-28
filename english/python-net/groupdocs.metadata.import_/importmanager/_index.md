@@ -18,7 +18,7 @@ The ImportManager type exposes the following members:
 ### Constructors
 | Constructor | Description |
 | :- | :- |
-| [__init__](/metadata/python-net/groupdocs.metadata.import_/importmanager/__init__/#root_metadata_package) | Initializes a new instance of the [`ImportManager`](/metadata/python-net/groupdocs.metadata.import_/importmanager/) class. |
+| [__init__](/metadata/python-net/groupdocs.metadata.import_/importmanager/__init__/#root_metadata_package) | Initializes a new [`ImportManager`](/metadata/python-net/groupdocs.metadata.import_/importmanager/) instance. |
 
 ### Methods
 | Method | Description |

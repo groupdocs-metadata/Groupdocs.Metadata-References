@@ -1,0 +1,24 @@
+---
+title: get_xmp_representation method
+second_title: GroupDocs.Metadata for Python via .NET API References
+description: "Converts the XMP value to the XML representation."
+type: docs
+url: /python-net/groupdocs.metadata.standards.xmp/xmpcolorantbase/get_xmp_representation/
+is_root: false
+weight: 1010
+---
+
+
+## get_xmp_representation
+
+Converts the XMP value to the XML representation.
+
+```python
+def get_xmp_representation(self):
+    ...
+```
+
+**Returns:** str: A string representation of the XMP value.
+
+### See Also
+* class [`XmpColorantBase`](/metadata/python-net/groupdocs.metadata.standards.xmp/xmpcolorantbase/)

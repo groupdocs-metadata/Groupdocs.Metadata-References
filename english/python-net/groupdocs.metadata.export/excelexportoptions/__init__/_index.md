@@ -11,7 +11,7 @@ weight: 10
 
 ## __init__
 
-Initializes a new instance of the [`ExcelExportOptions`](/metadata/python-net/groupdocs.metadata.export/excelexportoptions/) class.
+Initializes a new instance of the ExcelExportOptions class.
 
 ```python
 def __init__(self):

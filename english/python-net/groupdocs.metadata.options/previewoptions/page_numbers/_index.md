@@ -1,7 +1,7 @@
 ---
 title: page_numbers property
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: "The page numbers to generate previews as a list of int."
+description: "The array of page numbers to generate previews."
 type: docs
 url: /python-net/groupdocs.metadata.options/previewoptions/page_numbers/
 is_root: false
@@ -11,7 +11,7 @@ weight: 2060
 
 ## page_numbers property
 
-The page numbers to generate previews as a list of int.
+The array of page numbers to generate previews.
 
 ### Definition:
 ```python

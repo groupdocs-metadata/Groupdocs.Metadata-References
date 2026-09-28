@@ -5,7 +5,7 @@ description: "MetadataType enum — GroupDocs.Metadata for Python via .NET API r
 type: docs
 url: /python-net/groupdocs.metadata.common/metadatatype/
 is_root: false
-weight: 150
+weight: 180
 ---
 
 
@@ -73,6 +73,11 @@ The MetadataType type exposes the following members:
 | [SVG](/metadata/python-net/groupdocs.metadata.common/metadatatype/svg/) | Svg format |
 | [GLTF](/metadata/python-net/groupdocs.metadata.common/metadatatype/gltf/) | glTF (Graphics Library Transmission Format or GL Transmission Format and formerly known as WebGL Transmissions Format or WebGL TF) |
 | [AVIF](/metadata/python-net/groupdocs.metadata.common/metadatatype/avif/) | Avif format |
+| [AAR](/metadata/python-net/groupdocs.metadata.common/metadatatype/aar/) | An Apple Archive (.aar) is a proprietary, high-performance compressed archive format created by Apple. |
+| [GZIP](/metadata/python-net/groupdocs.metadata.common/metadatatype/gzip/) | GZIP is a popular file format and software application used for file compression and decompression. |
+| [BZ2](/metadata/python-net/groupdocs.metadata.common/metadatatype/bz2/) | Files with the .BZ2 extension are compressed using the BZIP2 algorithm. |
+| [XZ](/metadata/python-net/groupdocs.metadata.common/metadatatype/xz/) | XZ is a high-compression archive format primarily used for compressing single files, offering superior compression efficiency and open-source compatibility. |
+| [ZSTD](/metadata/python-net/groupdocs.metadata.common/metadatatype/zstd/) | Zstandard (commonly referred to as ZSTD) is a cutting-edge compression algorithm that provides excellent performance and adaptability. |
 
 ### See Also
 * module [`groupdocs.metadata.common`](/metadata/python-net/groupdocs.metadata.common/)

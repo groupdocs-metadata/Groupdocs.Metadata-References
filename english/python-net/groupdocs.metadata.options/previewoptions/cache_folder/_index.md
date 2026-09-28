@@ -1,7 +1,7 @@
 ---
 title: cache_folder property
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: "The cache folder."
+description: "The cache folder path."
 type: docs
 url: /python-net/groupdocs.metadata.options/previewoptions/cache_folder/
 is_root: false
@@ -11,9 +11,9 @@ weight: 2010
 
 ## cache_folder property
 
-The cache folder.
+The cache folder path.
 
-By default the cache folder is set to the user's local temp directory.
+By default it is set to the user's local temporary directory.
 
 ### Definition:
 ```python

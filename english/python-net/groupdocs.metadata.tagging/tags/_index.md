@@ -1,7 +1,7 @@
 ---
 title: Tags class
 second_title: GroupDocs.Metadata for Python via .NET API References
-description: "The class provides various sets of tags that mark the most important metadata properties."
+description: "Provides various sets of tags that mark the most important metadata properties, enabling discovery and update across different packages, standards, and file formats."
 type: docs
 url: /python-net/groupdocs.metadata.tagging/tags/
 is_root: false
@@ -11,9 +11,7 @@ weight: 100
 
 ## Tags class
 
-The class provides various sets of tags that mark the most important metadata properties.
-
-These tags enable finding and updating metadata properties across different packages regardless of the metadata standard or file format.
+Provides various sets of tags that mark the most important metadata properties, enabling discovery and update across different packages, standards, and file formats.
 
 The Tags type exposes the following members:
 
@@ -30,7 +28,7 @@ with Metadata("input.pptx") as metadata:
                   Tags.time.modified in list(p.tags)
     )
     for prop in props:
-        print(f"Property name: {prop.name}, Property value: {prop.value}")
+        print(f"{prop.name}: {prop.value}")
 ```
 
 ### Guides
