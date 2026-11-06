@@ -5,7 +5,8 @@ description: Represents base operations intended to work with IPTC metadata.
 type: docs
 weight: 358
 url: /java/com.groupdocs.metadata.core/iiptc/
----```
+---
+```
 public interface IIptc
 ```
 

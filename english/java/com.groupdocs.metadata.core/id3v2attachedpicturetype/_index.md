@@ -6,6 +6,7 @@ type: docs
 weight: 113
 url: /java/com.groupdocs.metadata.core/id3v2attachedpicturetype/
 ---
+
 **Inheritance:**
 java.lang.Object
 

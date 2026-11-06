@@ -6,6 +6,7 @@ type: docs
 weight: 395
 url: /java/com.groupdocs.metadata.core/opentypewindowslanguage/
 ---
+
 **Inheritance:**
 java.lang.Object, java.lang.Enum
 

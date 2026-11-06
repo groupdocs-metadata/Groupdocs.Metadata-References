@@ -7,6 +7,7 @@ weight: 10
 url: /java/com.groupdocs.metadata/
 ---
 
+
 The **com.groupdocs.metadata** namespace is the entry point to all features of the library.
 
 

@@ -6,6 +6,7 @@ type: docs
 weight: 175
 url: /java/com.groupdocs.metadata.core/opentypelicensingrights/
 ---
+
 **Inheritance:**
 java.lang.Object
 

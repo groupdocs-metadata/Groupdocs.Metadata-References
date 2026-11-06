@@ -6,6 +6,7 @@ type: docs
 weight: 20
 url: /java/com.groupdocs.metadata.tagging/timetagcategory/
 ---
+
 **Inheritance:**
 java.lang.Object, [com.groupdocs.metadata.tagging.TagCategory](../../com.groupdocs.metadata.tagging/tagcategory)
 ```
@@ -36,6 +37,8 @@ The tags deal with time points when a file or intellectual content was created, 
 | [getDuration()](#getDuration--) | Gets the tag that denotes the duration of a media file.
  |
 | [getZoneCity()](#getZoneCity--) | Gets the tag that denotes the time zone.
+ |
+| [getDelivery()](#getDelivery--) | Gets the tag that indicates the date a file was delivered.
  |
 ### getIntellectualContentCreated() {#getIntellectualContentCreated--}
 ```
@@ -145,3 +148,15 @@ Gets the tag that denotes the time zone.
 **Returns:**
 [PropertyTag](../../com.groupdocs.metadata.tagging/propertytag) - The tag that denotes the time zone.
 
+### getDelivery() {#getDelivery--}
+```
+public final PropertyTag getDelivery()
+```
+
+
+Gets the tag that indicates the date a file was delivered.
+Value: Gets the tag that indicates the date a file was delivered.
+
+
+**Returns:**
+[PropertyTag](../../com.groupdocs.metadata.tagging/propertytag)

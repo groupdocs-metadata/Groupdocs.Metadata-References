@@ -6,6 +6,7 @@ type: docs
 weight: 347
 url: /java/com.groupdocs.metadata.core/xmpvaluebase/
 ---
+
 **Inheritance:**
 java.lang.Object, [com.groupdocs.metadata.core.PropertyValue](../../com.groupdocs.metadata.core/propertyvalue)
 

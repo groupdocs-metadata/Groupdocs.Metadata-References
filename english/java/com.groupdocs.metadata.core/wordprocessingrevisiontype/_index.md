@@ -6,6 +6,7 @@ type: docs
 weight: 405
 url: /java/com.groupdocs.metadata.core/wordprocessingrevisiontype/
 ---
+
 **Inheritance:**
 java.lang.Object, java.lang.Enum
 

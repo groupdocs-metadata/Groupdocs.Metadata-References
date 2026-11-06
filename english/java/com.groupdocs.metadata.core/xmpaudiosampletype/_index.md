@@ -6,6 +6,7 @@ type: docs
 weight: 298
 url: /java/com.groupdocs.metadata.core/xmpaudiosampletype/
 ---
+
 **Inheritance:**
 java.lang.Object, com.groupdocs.metadata.core.XmpClosedChoice
 ```

@@ -6,6 +6,7 @@ type: docs
 weight: 126
 url: /java/com.groupdocs.metadata.core/imageresourceid/
 ---
+
 **Inheritance:**
 java.lang.Object
 

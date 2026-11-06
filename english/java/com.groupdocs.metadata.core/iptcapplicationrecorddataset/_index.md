@@ -6,6 +6,7 @@ type: docs
 weight: 370
 url: /java/com.groupdocs.metadata.core/iptcapplicationrecorddataset/
 ---
+
 **Inheritance:**
 java.lang.Object, java.lang.Enum
 

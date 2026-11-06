@@ -5,7 +5,8 @@ description: Provides common information about a loaded document.
 type: docs
 weight: 353
 url: /java/com.groupdocs.metadata.core/idocumentinfo/
----```
+---
+```
 public interface IDocumentInfo
 ```
 

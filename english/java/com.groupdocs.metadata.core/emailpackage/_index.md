@@ -6,6 +6,7 @@ type: docs
 weight: 89
 url: /java/com.groupdocs.metadata.core/emailpackage/
 ---
+
 **Inheritance:**
 java.lang.Object, [com.groupdocs.metadata.core.MetadataPackage](../../com.groupdocs.metadata.core/metadatapackage), [com.groupdocs.metadata.core.CustomPackage](../../com.groupdocs.metadata.core/custompackage)
 ```
@@ -44,9 +45,11 @@ Represents email message metadata.
  |
 | [setBlindCarbonCopyRecipients(String[] value)](#setBlindCarbonCopyRecipients-java.lang.String---) | Sets the array of BCC (blind carbon copy) recipients of the email message.
  |
-| [getSender()](#getSender--) | Gets the email address of the sender.
+| [getSenderEmailAddress()](#getSenderEmailAddress--) | Gets the email address of the sender.
  |
 | [getHeaders()](#getHeaders--) | Gets a metadata package containing the email headers.
+ |
+| [setHeaders(EmailHeaderPackage value)](#setHeaders-com.groupdocs.metadata.core.EmailHeaderPackage-) | Sets a metadata package containing the email headers.
  |
 ### getAttachedFileNames() {#getAttachedFileNames--}
 ```
@@ -168,9 +171,9 @@ Sets the array of BCC (blind carbon copy) recipients of the email message.
 | value | java.lang.String[] | The array of BCC (blind carbon copy) recipients of the email message.
  |
 
-### getSender() {#getSender--}
+### getSenderEmailAddress() {#getSenderEmailAddress--}
 ```
-public final String getSender()
+public final String getSenderEmailAddress()
 ```
 
 
@@ -191,4 +194,19 @@ Gets a metadata package containing the email headers.
 
 **Returns:**
 [EmailHeaderPackage](../../com.groupdocs.metadata.core/emailheaderpackage) - A metadata package containing the email headers.
+
+### setHeaders(EmailHeaderPackage value) {#setHeaders-com.groupdocs.metadata.core.EmailHeaderPackage-}
+```
+public final void setHeaders(EmailHeaderPackage value)
+```
+
+
+Sets a metadata package containing the email headers.
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | [EmailHeaderPackage](../../com.groupdocs.metadata.core/emailheaderpackage) | A metadata package containing the email headers.
+ |
 

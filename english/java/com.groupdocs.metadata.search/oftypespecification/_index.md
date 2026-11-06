@@ -6,6 +6,7 @@ type: docs
 weight: 15
 url: /java/com.groupdocs.metadata.search/oftypespecification/
 ---
+
 **Inheritance:**
 java.lang.Object, [com.groupdocs.metadata.search.Specification](../../com.groupdocs.metadata.search/specification)
 ```

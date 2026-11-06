@@ -6,6 +6,7 @@ type: docs
 weight: 365
 url: /java/com.groupdocs.metadata.core/cadacadversion/
 ---
+
 **Inheritance:**
 java.lang.Object, java.lang.Enum
 

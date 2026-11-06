@@ -6,6 +6,7 @@ type: docs
 weight: 346
 url: /java/com.groupdocs.metadata.core/xmptrailerpi/
 ---
+
 **Inheritance:**
 java.lang.Object
 

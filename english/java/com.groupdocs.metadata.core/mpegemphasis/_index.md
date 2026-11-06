@@ -6,6 +6,7 @@ type: docs
 weight: 382
 url: /java/com.groupdocs.metadata.core/mpegemphasis/
 ---
+
 **Inheritance:**
 java.lang.Object, java.lang.Enum
 

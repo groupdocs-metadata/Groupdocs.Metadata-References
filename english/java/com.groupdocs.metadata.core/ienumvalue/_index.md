@@ -5,7 +5,8 @@ description: Defines a value of an enumeration.
 type: docs
 weight: 355
 url: /java/com.groupdocs.metadata.core/ienumvalue/
----```
+---
+```
 public interface IEnumValue
 ```
 

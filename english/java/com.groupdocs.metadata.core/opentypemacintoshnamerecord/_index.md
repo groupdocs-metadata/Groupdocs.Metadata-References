@@ -6,6 +6,7 @@ type: docs
 weight: 176
 url: /java/com.groupdocs.metadata.core/opentypemacintoshnamerecord/
 ---
+
 **Inheritance:**
 java.lang.Object, [com.groupdocs.metadata.core.MetadataPackage](../../com.groupdocs.metadata.core/metadatapackage), [com.groupdocs.metadata.core.CustomPackage](../../com.groupdocs.metadata.core/custompackage), [com.groupdocs.metadata.core.OpenTypeBaseNameRecord](../../com.groupdocs.metadata.core/opentypebasenamerecord)
 ```

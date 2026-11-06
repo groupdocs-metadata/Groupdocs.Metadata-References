@@ -6,6 +6,7 @@ type: docs
 weight: 307
 url: /java/com.groupdocs.metadata.core/xmpcolorantrgb/
 ---
+
 **Inheritance:**
 java.lang.Object, [com.groupdocs.metadata.core.MetadataPackage](../../com.groupdocs.metadata.core/metadatapackage), [com.groupdocs.metadata.core.CustomPackage](../../com.groupdocs.metadata.core/custompackage), [com.groupdocs.metadata.core.XmpMetadataContainer](../../com.groupdocs.metadata.core/xmpmetadatacontainer), [com.groupdocs.metadata.core.XmpComplexType](../../com.groupdocs.metadata.core/xmpcomplextype), [com.groupdocs.metadata.core.XmpColorantBase](../../com.groupdocs.metadata.core/xmpcolorantbase)
 ```

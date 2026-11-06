@@ -6,6 +6,7 @@ type: docs
 weight: 14
 url: /java/com.groupdocs.metadata.export/jsonexportoptions/
 ---
+
 **Inheritance:**
 java.lang.Object, [com.groupdocs.metadata.export.ExportOptions](../../com.groupdocs.metadata.export/exportoptions)
 ```

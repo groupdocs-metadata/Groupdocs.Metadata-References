@@ -6,6 +6,7 @@ type: docs
 weight: 324
 url: /java/com.groupdocs.metadata.core/xmplangalt/
 ---
+
 **Inheritance:**
 java.lang.Object, [com.groupdocs.metadata.core.PropertyValue](../../com.groupdocs.metadata.core/propertyvalue), [com.groupdocs.metadata.core.XmpValueBase](../../com.groupdocs.metadata.core/xmpvaluebase), [com.groupdocs.metadata.core.XmpArray](../../com.groupdocs.metadata.core/xmparray)
 ```

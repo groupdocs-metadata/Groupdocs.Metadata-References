@@ -6,6 +6,7 @@ type: docs
 weight: 76
 url: /java/com.groupdocs.metadata.core/disposablewrapper/
 ---
+
 **Inheritance:**
 java.lang.Object
 

@@ -6,6 +6,7 @@ type: docs
 weight: 253
 url: /java/com.groupdocs.metadata.core/tiffsrational/
 ---
+
 **Inheritance:**
 java.lang.Object
 

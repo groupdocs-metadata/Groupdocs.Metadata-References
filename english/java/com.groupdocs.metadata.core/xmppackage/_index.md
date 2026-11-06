@@ -6,6 +6,7 @@ type: docs
 weight: 329
 url: /java/com.groupdocs.metadata.core/xmppackage/
 ---
+
 **Inheritance:**
 java.lang.Object, [com.groupdocs.metadata.core.MetadataPackage](../../com.groupdocs.metadata.core/metadatapackage), [com.groupdocs.metadata.core.CustomPackage](../../com.groupdocs.metadata.core/custompackage), [com.groupdocs.metadata.core.XmpMetadataContainer](../../com.groupdocs.metadata.core/xmpmetadatacontainer)
 ```

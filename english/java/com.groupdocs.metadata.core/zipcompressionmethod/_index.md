@@ -6,6 +6,7 @@ type: docs
 weight: 411
 url: /java/com.groupdocs.metadata.core/zipcompressionmethod/
 ---
+
 **Inheritance:**
 java.lang.Object, java.lang.Enum
 

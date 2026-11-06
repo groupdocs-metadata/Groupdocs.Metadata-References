@@ -5,7 +5,8 @@ description: Represents an interpreter intended to convert various numeric value
 type: docs
 weight: 356
 url: /java/com.groupdocs.metadata.core/ienumvalueinterpreter/
----```
+---
+```
 public interface IEnumValueInterpreter
 ```
 

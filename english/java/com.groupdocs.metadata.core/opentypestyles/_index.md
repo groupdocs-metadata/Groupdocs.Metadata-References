@@ -6,6 +6,7 @@ type: docs
 weight: 179
 url: /java/com.groupdocs.metadata.core/opentypestyles/
 ---
+
 **Inheritance:**
 java.lang.Object
 

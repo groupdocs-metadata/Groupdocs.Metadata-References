@@ -6,6 +6,7 @@ type: docs
 weight: 100
 url: /java/com.groupdocs.metadata.core/filetype/
 ---
+
 **Inheritance:**
 java.lang.Object
 ```
@@ -240,6 +241,22 @@ encryption and pre-processing algorithms.
 | [SVG](#SVG) | SVG (Scalable Vector Graphics) is an XML-based vector image format.
  |
 | [AVIF](#AVIF) | AVIF (AV1 Image File Format) is an image format based on the AV1 video codec.
+ |
+| [AAR](#AAR) | An Apple Archive (.aar) is a proprietary, high-performance compressed archive format created by Apple.
+ |
+| [GZIP](#GZIP) | A GZIP file is a compressed archive that is created with the standard gzip (GNU zip) compression algorithm.
+ |
+| [XZ](#XZ) | XZ is a compressed file format that utilizes the LZMA2 compression algorithm.
+ |
+| [BZ2](#BZ2) | BZ2 are compressed files generated using the BZIP2 open source compression method, mostly on UNIX or Linux system.
+ |
+| [ZSTD](#ZSTD) | Zstandard (commonly referred to as ZSTD) is a compression algorithm that provides excellent performance and adaptability.
+ |
+| [OGG](#OGG) | OGG is an Ogg Vorbis Compressed Audio File that is saved with the .ogg extension.
+ |
+| [FB2](#FB2) | FictionBook (FB2) is an open XML-based e-book format.
+ |
+| [MOBI](#MOBI) | The MOBI file format is one of the most widely used ebook file formats.
  |
 ## Methods
 
@@ -1285,6 +1302,91 @@ public static final FileType AVIF
 
 
 AVIF (AV1 Image File Format) is an image format based on the AV1 video codec.
+
+
+### AAR {#AAR}
+```
+public static final FileType AAR
+```
+
+
+An Apple Archive (.aar) is a proprietary, high-performance compressed archive format created by Apple.
+
+
+### GZIP {#GZIP}
+```
+public static final FileType GZIP
+```
+
+
+A GZIP file is a compressed archive that is created with the standard gzip (GNU zip) compression algorithm.
+Learn more about this file format 
+[here](../https://docs.fileformat.com/compression/gzip/)
+.
+
+
+### XZ {#XZ}
+```
+public static final FileType XZ
+```
+
+
+XZ is a compressed file format that utilizes the LZMA2 compression algorithm. It was designed as a replacement for the popular gzip and bzip2 formats.
+Learn more about this file format 
+[here](../https://docs.fileformat.com/compression/xz/)
+.
+
+
+### BZ2 {#BZ2}
+```
+public static final FileType BZ2
+```
+
+
+BZ2 are compressed files generated using the BZIP2 open source compression method, mostly on UNIX or Linux system. It is used for compression of a single file and is not meant for archiving of multiple files.
+Learn more about this file format 
+[here](../https://docs.fileformat.com/compression/bz2/)
+.
+
+
+### ZSTD {#ZSTD}
+```
+public static final FileType ZSTD
+```
+
+
+Zstandard (commonly referred to as ZSTD) is a compression algorithm that provides excellent performance and adaptability.
+
+
+### OGG {#OGG}
+```
+public static final FileType OGG
+```
+
+
+OGG is an Ogg Vorbis Compressed Audio File that is saved with the .ogg extension. OGG files are used for storing audio data and can include artist and track information and metadata as well.
+Learn more about this file format 
+[here](../https://docs.fileformat.com/audio/ogg/)
+.
+
+
+### FB2 {#FB2}
+```
+public static final FileType FB2
+```
+
+
+FictionBook (FB2) is an open XML-based e-book format. FB2 files contain the structure of the book and its metadata such as authors, title, genres and publishing information.
+
+
+### MOBI {#MOBI}
+```
+public static final FileType MOBI
+```
+
+
+The MOBI file format is one of the most widely used ebook file formats. The format is an enhancement to the old OEB (Open Ebook Format) format and was used as the proprietary format for Mobipocket Reader. Like EPUB, it is supported by almost all modern e-readers specifically by mobile devices with low bandwidth.
+Learn more about this file format [here](../https://docs.fileformat.com/ebook/mobi/).
 
 
 ### getDescription() {#getDescription--}

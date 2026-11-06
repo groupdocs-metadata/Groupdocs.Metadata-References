@@ -6,6 +6,7 @@ type: docs
 weight: 318
 url: /java/com.groupdocs.metadata.core/xmpheaderpi/
 ---
+
 **Inheritance:**
 java.lang.Object
 

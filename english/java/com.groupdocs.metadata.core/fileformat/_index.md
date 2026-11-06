@@ -6,6 +6,7 @@ type: docs
 weight: 368
 url: /java/com.groupdocs.metadata.core/fileformat/
 ---
+
 **Inheritance:**
 java.lang.Object, java.lang.Enum
 
@@ -111,6 +112,22 @@ encryption and pre-processing algorithms.
 | [Rar](#Rar) | RAR is a proprietary archive file format that supports data compression, error correction and file spanning.
  |
 | [Tar](#Tar) | In computing, tar is a computer software utility for collecting many files into one archive file, often referred to as a tarball, for distribution or backup purposes.
+ |
+| [Aar](#Aar) | An Apple Archive (.aar) is a proprietary, high-performance compressed archive format created by Apple.
+ |
+| [Gzip](#Gzip) | GZIP is a popular file format and software application used for file compression and decompression.
+ |
+| [Bz2](#Bz2) | Files with the .BZ2 extension are compressed using the BZIP2 algorithm.
+ |
+| [Xz](#Xz) | XZ is a high-compression archive format primarily used for compressing single files, offering superior compression efficiency and open-source compatibility.
+ |
+| [Zstd](#Zstd) | Zstandard (commonly referred to as ZSTD) is a compression algorithm that provides excellent performance and adaptability.
+ |
+| [Ogg](#Ogg) | OGG is an Ogg Vorbis Compressed Audio File that is saved with the .ogg extension.
+ |
+| [Fb2](#Fb2) | FictionBook (FB2) is an XML-based e-book format.
+ |
+| [Mobi](#Mobi) | The MOBI file format is one of the most widely used ebook file formats.
  |
 ## Methods
 
@@ -688,6 +705,78 @@ public static final FileFormat Tar
 
 
 In computing, tar is a computer software utility for collecting many files into one archive file, often referred to as a tarball, for distribution or backup purposes.
+
+
+### Aar {#Aar}
+```
+public static final FileFormat Aar
+```
+
+
+An Apple Archive (.aar) is a proprietary, high-performance compressed archive format created by Apple.
+
+
+### Gzip {#Gzip}
+```
+public static final FileFormat Gzip
+```
+
+
+GZIP is a popular file format and software application used for file compression and decompression.
+
+
+### Bz2 {#Bz2}
+```
+public static final FileFormat Bz2
+```
+
+
+Files with the .BZ2 extension are compressed using the BZIP2 algorithm.
+
+
+### Xz {#Xz}
+```
+public static final FileFormat Xz
+```
+
+
+XZ is a high-compression archive format primarily used for compressing single files, offering superior compression efficiency and open-source compatibility.
+
+
+### Zstd {#Zstd}
+```
+public static final FileFormat Zstd
+```
+
+
+Zstandard (commonly referred to as ZSTD) is a compression algorithm that provides excellent performance and adaptability.
+
+
+### Ogg {#Ogg}
+```
+public static final FileFormat Ogg
+```
+
+
+OGG is an Ogg Vorbis Compressed Audio File that is saved with the .ogg extension. OGG files are used for storing audio data and can include artist and track information and metadata as well.
+
+
+### Fb2 {#Fb2}
+```
+public static final FileFormat Fb2
+```
+
+
+FictionBook (FB2) is an XML-based e-book format.
+
+
+### Mobi {#Mobi}
+```
+public static final FileFormat Mobi
+```
+
+
+The MOBI file format is one of the most widely used ebook file formats. The format is an enhancement to the old OEB (Open Ebook Format) format and was used as the proprietary format for Mobipocket Reader.
 
 
 ### values() {#values--}

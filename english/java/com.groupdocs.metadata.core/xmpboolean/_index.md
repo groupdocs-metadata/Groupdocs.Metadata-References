@@ -6,6 +6,7 @@ type: docs
 weight: 301
 url: /java/com.groupdocs.metadata.core/xmpboolean/
 ---
+
 **Inheritance:**
 java.lang.Object, [com.groupdocs.metadata.core.PropertyValue](../../com.groupdocs.metadata.core/propertyvalue), [com.groupdocs.metadata.core.XmpValueBase](../../com.groupdocs.metadata.core/xmpvaluebase)
 ```

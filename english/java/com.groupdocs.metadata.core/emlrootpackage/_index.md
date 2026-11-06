@@ -6,6 +6,7 @@ type: docs
 weight: 93
 url: /java/com.groupdocs.metadata.core/emlrootpackage/
 ---
+
 **Inheritance:**
 java.lang.Object, [com.groupdocs.metadata.core.MetadataPackage](../../com.groupdocs.metadata.core/metadatapackage), [com.groupdocs.metadata.core.RootMetadataPackage](../../com.groupdocs.metadata.core/rootmetadatapackage), [com.groupdocs.metadata.core.EmailRootPackage](../../com.groupdocs.metadata.core/emailrootpackage)
 ```
@@ -28,7 +29,7 @@ This code sample shows how to extract metadata from an EML message.
 >
 >  try (Metadata metadata = new Metadata(Constants.InputEml)) {
 >      EmlRootPackage root = metadata.getRootPackageGeneric();
->      System.out.println(root.getEmailPackage().getSender());
+>      System.out.println(root.getEmailPackage().getSenderEmailAddress());
 >      System.out.println(root.getEmailPackage().getSubject());
 >      for (String recipient : root.getEmailPackage().getRecipients()) {
 >          System.out.println(recipient);

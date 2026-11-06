@@ -7,6 +7,7 @@ weight: 15
 url: /java/com.groupdocs.metadata.options/
 ---
 
+
 The **com.groupdocs.metadata.options** namespace contains all classes representing settings that allow users to control file and metadata processing.
 
 

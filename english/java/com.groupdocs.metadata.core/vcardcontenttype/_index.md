@@ -6,6 +6,7 @@ type: docs
 weight: 403
 url: /java/com.groupdocs.metadata.core/vcardcontenttype/
 ---
+
 **Inheritance:**
 java.lang.Object, java.lang.Enum
 

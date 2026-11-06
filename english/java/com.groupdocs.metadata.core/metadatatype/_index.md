@@ -6,6 +6,7 @@ type: docs
 weight: 379
 url: /java/com.groupdocs.metadata.core/metadatatype/
 ---
+
 **Inheritance:**
 java.lang.Object, java.lang.Enum
 
@@ -126,6 +127,22 @@ Specifies the type of a metadata package.
 | [Svg](#Svg) | An SVG image metadata package.
  |
 | [Gis](#Gis) | Gis format
+ |
+| [Aar](#Aar) | An Apple Archive (.aar) metadata package.
+ |
+| [Gzip](#Gzip) | GZIP is a popular file format and software application used for file compression and decompression.
+ |
+| [Bz2](#Bz2) | Files with the .BZ2 extension are compressed using the BZIP2 algorithm.
+ |
+| [Xz](#Xz) | XZ is a high-compression archive format primarily used for compressing single files, offering superior compression efficiency and open-source compatibility.
+ |
+| [Zstd](#Zstd) | Zstandard (commonly referred to as ZSTD) is a compression algorithm that provides excellent performance and adaptability.
+ |
+| [Ogg](#Ogg) | An OGG audio metadata package.
+ |
+| [Fb2](#Fb2) | An FB2 e-book metadata package.
+ |
+| [Mobi](#Mobi) | The MOBI file format is one of the most widely used ebook file formats.
  |
 ## Methods
 
@@ -618,6 +635,78 @@ public static final MetadataType Gis
 
 
 Gis format
+
+
+### Aar {#Aar}
+```
+public static final MetadataType Aar
+```
+
+
+An Apple Archive (.aar) metadata package.
+
+
+### Gzip {#Gzip}
+```
+public static final MetadataType Gzip
+```
+
+
+GZIP is a popular file format and software application used for file compression and decompression.
+
+
+### Bz2 {#Bz2}
+```
+public static final MetadataType Bz2
+```
+
+
+Files with the .BZ2 extension are compressed using the BZIP2 algorithm.
+
+
+### Xz {#Xz}
+```
+public static final MetadataType Xz
+```
+
+
+XZ is a high-compression archive format primarily used for compressing single files, offering superior compression efficiency and open-source compatibility.
+
+
+### Zstd {#Zstd}
+```
+public static final MetadataType Zstd
+```
+
+
+Zstandard (commonly referred to as ZSTD) is a compression algorithm that provides excellent performance and adaptability.
+
+
+### Ogg {#Ogg}
+```
+public static final MetadataType Ogg
+```
+
+
+An OGG audio metadata package.
+
+
+### Fb2 {#Fb2}
+```
+public static final MetadataType Fb2
+```
+
+
+An FB2 e-book metadata package.
+
+
+### Mobi {#Mobi}
+```
+public static final MetadataType Mobi
+```
+
+
+The MOBI file format is one of the most widely used ebook file formats. The format is an enhancement to the old OEB (Open Ebook Format) format and was used as the proprietary format for Mobipocket Reader.
 
 
 ### values() {#values--}

@@ -6,6 +6,7 @@ type: docs
 weight: 18
 url: /java/com.groupdocs.metadata.core/asffilepropertyflags/
 ---
+
 **Inheritance:**
 java.lang.Object
 

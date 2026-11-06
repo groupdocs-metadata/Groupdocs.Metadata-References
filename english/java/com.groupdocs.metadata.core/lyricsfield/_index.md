@@ -6,6 +6,7 @@ type: docs
 weight: 142
 url: /java/com.groupdocs.metadata.core/lyricsfield/
 ---
+
 **Inheritance:**
 java.lang.Object, [com.groupdocs.metadata.core.MetadataProperty](../../com.groupdocs.metadata.core/metadataproperty)
 ```

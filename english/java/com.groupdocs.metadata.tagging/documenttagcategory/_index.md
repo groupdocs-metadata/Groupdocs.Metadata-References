@@ -6,6 +6,7 @@ type: docs
 weight: 12
 url: /java/com.groupdocs.metadata.tagging/documenttagcategory/
 ---
+
 **Inheritance:**
 java.lang.Object, [com.groupdocs.metadata.tagging.TagCategory](../../com.groupdocs.metadata.tagging/tagcategory)
 ```

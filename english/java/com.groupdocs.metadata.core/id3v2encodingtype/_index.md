@@ -6,6 +6,7 @@ type: docs
 weight: 369
 url: /java/com.groupdocs.metadata.core/id3v2encodingtype/
 ---
+
 **Inheritance:**
 java.lang.Object, java.lang.Enum
 

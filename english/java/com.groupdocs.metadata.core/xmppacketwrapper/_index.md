@@ -6,6 +6,7 @@ type: docs
 weight: 330
 url: /java/com.groupdocs.metadata.core/xmppacketwrapper/
 ---
+
 **Inheritance:**
 java.lang.Object, [com.groupdocs.metadata.core.MetadataPackage](../../com.groupdocs.metadata.core/metadatapackage)
 

@@ -6,6 +6,7 @@ type: docs
 weight: 292
 url: /java/com.groupdocs.metadata.core/wordprocessingpackage/
 ---
+
 **Inheritance:**
 java.lang.Object, [com.groupdocs.metadata.core.MetadataPackage](../../com.groupdocs.metadata.core/metadatapackage), [com.groupdocs.metadata.core.CustomPackage](../../com.groupdocs.metadata.core/custompackage), [com.groupdocs.metadata.core.DocumentPackage](../../com.groupdocs.metadata.core/documentpackage)
 ```
@@ -126,6 +127,18 @@ This code sample shows how to update built-in metadata properties in a WordProce
 | [getLinksUpToDate()](#getLinksUpToDate--) | Gets a value indicating whether the hyperlinks in the document are up-to-date.
  |
 | [setLinksUpToDate(Boolean value)](#setLinksUpToDate-java.lang.Boolean-) | Sets a value indicating whether the hyperlinks in the document are up-to-date.
+ |
+| [getHyperlinksChanged()](#getHyperlinksChanged--) | Gets a value indicating whether one or more hyperlinks in the document were changed.
+ |
+| [setHyperlinksChanged(Boolean value)](#setHyperlinksChanged-java.lang.Boolean-) | Sets a value indicating whether one or more hyperlinks in the document were changed.
+ |
+| [getScaleCrop()](#getScaleCrop--) | Gets a value indicating the display mode of the document thumbnail (scaled or cropped).
+ |
+| [setScaleCrop(Boolean value)](#setScaleCrop-java.lang.Boolean-) | Sets a value indicating the display mode of the document thumbnail (scaled or cropped).
+ |
+| [getSharedDoc()](#getSharedDoc--) | Gets a value indicating whether the document is shared between multiple producers.
+ |
+| [setSharedDoc(Boolean value)](#setSharedDoc-java.lang.Boolean-) | Sets a value indicating whether the document is shared between multiple producers.
  |
 | [getTitlesOfParts()](#getTitlesOfParts--) | Gets the titles of document parts.
  |
@@ -698,6 +711,87 @@ Sets a value indicating whether the hyperlinks in the document are up-to-date.
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | java.lang.Boolean | A value indicating whether the hyperlinks in the document are up-to-date.
+ |
+
+### getHyperlinksChanged() {#getHyperlinksChanged--}
+```
+public final Boolean getHyperlinksChanged()
+```
+
+
+Gets a value indicating whether one or more hyperlinks in the document were changed.
+
+
+**Returns:**
+java.lang.Boolean - The value, or  null  if the property is not set.
+
+### setHyperlinksChanged(Boolean value) {#setHyperlinksChanged-java.lang.Boolean-}
+```
+public final void setHyperlinksChanged(Boolean value)
+```
+
+
+Sets a value indicating whether one or more hyperlinks in the document were changed.
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.Boolean | The value.
+ |
+
+### getScaleCrop() {#getScaleCrop--}
+```
+public final Boolean getScaleCrop()
+```
+
+
+Gets a value indicating the display mode of the document thumbnail (scaled or cropped).
+
+
+**Returns:**
+java.lang.Boolean - The value, or  null  if the property is not set.
+
+### setScaleCrop(Boolean value) {#setScaleCrop-java.lang.Boolean-}
+```
+public final void setScaleCrop(Boolean value)
+```
+
+
+Sets a value indicating the display mode of the document thumbnail (scaled or cropped).
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.Boolean | The value.
+ |
+
+### getSharedDoc() {#getSharedDoc--}
+```
+public final Boolean getSharedDoc()
+```
+
+
+Gets a value indicating whether the document is shared between multiple producers.
+
+
+**Returns:**
+java.lang.Boolean - The value, or  null  if the property is not set.
+
+### setSharedDoc(Boolean value) {#setSharedDoc-java.lang.Boolean-}
+```
+public final void setSharedDoc(Boolean value)
+```
+
+
+Sets a value indicating whether the document is shared between multiple producers.
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | java.lang.Boolean | The value.
  |
 
 ### getTitlesOfParts() {#getTitlesOfParts--}

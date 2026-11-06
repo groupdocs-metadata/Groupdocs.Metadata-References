@@ -6,6 +6,7 @@ type: docs
 weight: 17
 url: /java/com.groupdocs.metadata.core/asfextendedstreampropertyflags/
 ---
+
 **Inheritance:**
 java.lang.Object
 

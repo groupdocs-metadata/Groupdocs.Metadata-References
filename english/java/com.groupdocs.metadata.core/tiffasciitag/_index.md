@@ -6,6 +6,7 @@ type: docs
 weight: 243
 url: /java/com.groupdocs.metadata.core/tiffasciitag/
 ---
+
 **Inheritance:**
 java.lang.Object, [com.groupdocs.metadata.core.MetadataProperty](../../com.groupdocs.metadata.core/metadataproperty), [com.groupdocs.metadata.core.TiffTag](../../com.groupdocs.metadata.core/tifftag)
 ```

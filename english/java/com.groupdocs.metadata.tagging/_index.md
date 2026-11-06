@@ -7,6 +7,7 @@ weight: 17
 url: /java/com.groupdocs.metadata.tagging/
 ---
 
+
 The **com.groupdocs.metadata.tagging** namespace contains various sets of tags with which most important metadata properties are marked.The tags allow users to find and update metadata properties in different packages regardless of the metadata standard and file format.
 
 

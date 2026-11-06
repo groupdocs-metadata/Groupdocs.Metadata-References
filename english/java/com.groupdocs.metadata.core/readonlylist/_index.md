@@ -6,6 +6,7 @@ type: docs
 weight: 223
 url: /java/com.groupdocs.metadata.core/readonlylist/
 ---
+
 **Inheritance:**
 java.lang.Object
 

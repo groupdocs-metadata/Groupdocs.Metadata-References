@@ -6,6 +6,7 @@ type: docs
 weight: 182
 url: /java/com.groupdocs.metadata.core/pageinfo/
 ---
+
 **Inheritance:**
 java.lang.Object
 ```

@@ -7,6 +7,7 @@ weight: 11
 url: /java/com.groupdocs.metadata.core/
 ---
 
+
 The **com.groupdocs.metadata.core** namespace provides main classes allowing working with metadata in all supported formats.
 
 

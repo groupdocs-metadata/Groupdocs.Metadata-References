@@ -6,6 +6,7 @@ type: docs
 weight: 166
 url: /java/com.groupdocs.metadata.core/msgrootpackage/
 ---
+
 **Inheritance:**
 java.lang.Object, [com.groupdocs.metadata.core.MetadataPackage](../../com.groupdocs.metadata.core/metadatapackage), [com.groupdocs.metadata.core.RootMetadataPackage](../../com.groupdocs.metadata.core/rootmetadatapackage), [com.groupdocs.metadata.core.EmailRootPackage](../../com.groupdocs.metadata.core/emailrootpackage)
 ```
@@ -28,7 +29,7 @@ This code sample shows how to extract metadata from an MSG message.
 >
 >  try (Metadata metadata = new Metadata(Constants.InputMsg)) {
 >      MsgRootPackage root = metadata.getRootPackageGeneric();
->      System.out.println(root.getMsgPackage().getSender());
+>      System.out.println(root.getMsgPackage().getSenderEmailAddress());
 >      System.out.println(root.getMsgPackage().getSubject());
 >      for (String recipient : root.getMsgPackage().getRecipients()) {
 >          System.out.println(recipient);

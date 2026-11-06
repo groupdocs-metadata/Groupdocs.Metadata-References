@@ -6,6 +6,7 @@ type: docs
 weight: 138
 url: /java/com.groupdocs.metadata.core/iptcrecordtype/
 ---
+
 **Inheritance:**
 java.lang.Object
 

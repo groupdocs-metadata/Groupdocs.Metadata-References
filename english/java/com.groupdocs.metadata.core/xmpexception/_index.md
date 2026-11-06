@@ -6,6 +6,7 @@ type: docs
 weight: 315
 url: /java/com.groupdocs.metadata.core/xmpexception/
 ---
+
 **Inheritance:**
 java.lang.Object, java.lang.Throwable, java.lang.Exception, java.lang.RuntimeException, com.aspose.ms.System.Exception, [com.groupdocs.metadata.core.GroupDocsMetadataException](../../com.groupdocs.metadata.core/groupdocsmetadataexception)
 ```

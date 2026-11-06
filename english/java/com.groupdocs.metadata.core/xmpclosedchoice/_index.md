@@ -6,6 +6,7 @@ type: docs
 weight: 303
 url: /java/com.groupdocs.metadata.core/xmpclosedchoice/
 ---
+
 **Inheritance:**
 java.lang.Object
 

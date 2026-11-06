@@ -6,6 +6,7 @@ type: docs
 weight: 245
 url: /java/com.groupdocs.metadata.core/tiffdoubletag/
 ---
+
 **Inheritance:**
 java.lang.Object, [com.groupdocs.metadata.core.MetadataProperty](../../com.groupdocs.metadata.core/metadataproperty), [com.groupdocs.metadata.core.TiffTag](../../com.groupdocs.metadata.core/tifftag), com.groupdocs.metadata.core.TiffArrayTag
 ```

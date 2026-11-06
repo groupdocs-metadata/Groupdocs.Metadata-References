@@ -6,6 +6,7 @@ type: docs
 weight: 383
 url: /java/com.groupdocs.metadata.core/opentypedigitalsignatureflags/
 ---
+
 **Inheritance:**
 java.lang.Object, java.lang.Enum
 

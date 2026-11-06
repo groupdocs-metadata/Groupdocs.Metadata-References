@@ -6,6 +6,7 @@ type: docs
 weight: 38
 url: /java/com.groupdocs.metadata.core/cmspackage/
 ---
+
 **Inheritance:**
 java.lang.Object, [com.groupdocs.metadata.core.MetadataPackage](../../com.groupdocs.metadata.core/metadatapackage), [com.groupdocs.metadata.core.CustomPackage](../../com.groupdocs.metadata.core/custompackage)
 ```

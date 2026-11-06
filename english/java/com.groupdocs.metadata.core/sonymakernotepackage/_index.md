@@ -6,6 +6,7 @@ type: docs
 weight: 230
 url: /java/com.groupdocs.metadata.core/sonymakernotepackage/
 ---
+
 **Inheritance:**
 java.lang.Object, [com.groupdocs.metadata.core.MetadataPackage](../../com.groupdocs.metadata.core/metadatapackage), [com.groupdocs.metadata.core.CustomPackage](../../com.groupdocs.metadata.core/custompackage), [com.groupdocs.metadata.core.ExifDictionaryBasePackage](../../com.groupdocs.metadata.core/exifdictionarybasepackage), [com.groupdocs.metadata.core.MakerNotePackage](../../com.groupdocs.metadata.core/makernotepackage)
 ```

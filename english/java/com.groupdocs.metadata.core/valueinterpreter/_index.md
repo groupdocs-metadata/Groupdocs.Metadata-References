@@ -6,6 +6,7 @@ type: docs
 weight: 284
 url: /java/com.groupdocs.metadata.core/valueinterpreter/
 ---
+
 **Inheritance:**
 java.lang.Object
 ```

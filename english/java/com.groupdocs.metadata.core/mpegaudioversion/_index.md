@@ -6,6 +6,7 @@ type: docs
 weight: 380
 url: /java/com.groupdocs.metadata.core/mpegaudioversion/
 ---
+
 **Inheritance:**
 java.lang.Object, java.lang.Enum
 
