@@ -5,7 +5,8 @@ description: Base interface for XMP type.
 type: docs
 weight: 361
 url: /java/com.groupdocs.metadata.core/ixmptype/
----```
+---
+```
 public interface IXmpType
 ```
 

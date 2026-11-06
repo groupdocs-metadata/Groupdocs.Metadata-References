@@ -6,6 +6,7 @@ type: docs
 weight: 344
 url: /java/com.groupdocs.metadata.core/xmptimeformat/
 ---
+
 **Inheritance:**
 java.lang.Object, com.groupdocs.metadata.core.XmpClosedChoice
 ```

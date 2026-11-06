@@ -6,6 +6,7 @@ type: docs
 weight: 16
 url: /java/com.groupdocs.metadata.core/asfdescriptortype/
 ---
+
 **Inheritance:**
 java.lang.Object
 

@@ -5,7 +5,8 @@ description: Defines base operations allowing working with Dublin Core metadata.
 type: docs
 weight: 354
 url: /java/com.groupdocs.metadata.core/idublincore/
----```
+---
+```
 public interface IDublinCore
 ```
 

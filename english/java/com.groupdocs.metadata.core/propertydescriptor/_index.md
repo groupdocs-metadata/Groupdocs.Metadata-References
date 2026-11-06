@@ -6,6 +6,7 @@ type: docs
 weight: 206
 url: /java/com.groupdocs.metadata.core/propertydescriptor/
 ---
+
 **Inheritance:**
 java.lang.Object
 ```

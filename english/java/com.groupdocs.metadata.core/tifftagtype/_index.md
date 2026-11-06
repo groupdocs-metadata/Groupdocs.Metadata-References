@@ -6,6 +6,7 @@ type: docs
 weight: 402
 url: /java/com.groupdocs.metadata.core/tifftagtype/
 ---
+
 **Inheritance:**
 java.lang.Object, java.lang.Enum
 
@@ -47,7 +48,6 @@ Represents the IFD data type.
  |
 | [SubIfd](#SubIfd) | A 4-byte long offset value
  |
-| [value](#value) |  |
 ## Methods
 
 | Method | Description |
@@ -55,7 +55,6 @@ Represents the IFD data type.
 | [values()](#values--) |  |
 | [valueOf(String name)](#valueOf-java.lang.String-) |  |
 | [get_Value()](#get-Value--) |  |
-| [set_Value(String value1)](#set-Value-java.lang.String-) |  |
 | [getByRawValue(int rawValue)](#getByRawValue-int-) |  |
 | [getFirst()](#getFirst--) |  |
 | [getAllValues()](#getAllValues--) |  |
@@ -181,12 +180,6 @@ public static final TiffTagType SubIfd
 A 4-byte long offset value
 
 
-### value {#value}
-```
-public String value
-```
-
-
 ### values() {#values--}
 ```
 public static TiffTagType[] values()
@@ -222,19 +215,6 @@ public final String get_Value()
 
 **Returns:**
 java.lang.String
-### set_Value(String value1) {#set-Value-java.lang.String-}
-```
-public final void set_Value(String value1)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value1 | java.lang.String |  |
-
 ### getByRawValue(int rawValue) {#getByRawValue-int-}
 ```
 public static TiffTagType getByRawValue(int rawValue)

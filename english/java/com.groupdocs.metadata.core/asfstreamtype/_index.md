@@ -6,6 +6,7 @@ type: docs
 weight: 363
 url: /java/com.groupdocs.metadata.core/asfstreamtype/
 ---
+
 **Inheritance:**
 java.lang.Object, java.lang.Enum
 

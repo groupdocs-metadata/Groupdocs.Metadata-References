@@ -6,6 +6,7 @@ type: docs
 weight: 10
 url: /java/com.groupdocs.metadata/metadata/
 ---
+
 **Inheritance:**
 java.lang.Object
 
@@ -34,6 +35,14 @@ Metadata
  class.
  |
 | [Metadata(InputStream document, LoadOptions loadOptions)](#Metadata-java.io.InputStream-com.groupdocs.metadata.options.LoadOptions-) | Initializes a new instance of the 
+Metadata
+ class.
+ |
+| [Metadata(URI uri)](#Metadata-java.net.URI-) | Initializes a new instance of the 
+Metadata
+ class.
+ |
+| [Metadata(URI uri, LoadOptions loadOptions)](#Metadata-java.net.URI-com.groupdocs.metadata.options.LoadOptions-) | Initializes a new instance of the 
 Metadata
  class.
  |
@@ -233,6 +242,56 @@ Metadata
 
 <br />
 
+ |
+
+### Metadata(URI uri) {#Metadata-java.net.URI-}
+```
+public Metadata(URI uri)
+```
+
+
+Initializes a new instance of the 
+Metadata
+ class.
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| uri | java.net.URI | The URI of a web resource (file) to load.
+
+This example demonstrates how to load a file directly from a web resource.
+>
+> ````
+> ```
+>
+>  URI uri = new URI("https://example.com/files/source.docx");
+>  try (Metadata metadata = new Metadata(uri)) {
+>      // Extract, edit or remove metadata here
+>  }
+>  
+> ```
+> ````
+
+ |
+
+### Metadata(URI uri, LoadOptions loadOptions) {#Metadata-java.net.URI-com.groupdocs.metadata.options.LoadOptions-}
+```
+public Metadata(URI uri, LoadOptions loadOptions)
+```
+
+
+Initializes a new instance of the 
+Metadata
+ class.
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| uri | java.net.URI | The URI of a web resource (file) to load.
+ |
+| loadOptions | [LoadOptions](../../com.groupdocs.metadata.options/loadoptions) | Additional options to use when loading a document.
  |
 
 ### getFileFormat() {#getFileFormat--}

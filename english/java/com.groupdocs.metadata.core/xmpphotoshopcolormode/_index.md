@@ -6,6 +6,7 @@ type: docs
 weight: 410
 url: /java/com.groupdocs.metadata.core/xmpphotoshopcolormode/
 ---
+
 **Inheritance:**
 java.lang.Object, java.lang.Enum
 

@@ -6,6 +6,7 @@ type: docs
 weight: 209
 url: /java/com.groupdocs.metadata.core/psdlayerflags/
 ---
+
 **Inheritance:**
 java.lang.Object
 

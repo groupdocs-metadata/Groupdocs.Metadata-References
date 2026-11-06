@@ -6,6 +6,7 @@ type: docs
 weight: 233
 url: /java/com.groupdocs.metadata.core/spreadsheetcontenttypeproperty/
 ---
+
 **Inheritance:**
 java.lang.Object, [com.groupdocs.metadata.core.MetadataProperty](../../com.groupdocs.metadata.core/metadataproperty)
 ```

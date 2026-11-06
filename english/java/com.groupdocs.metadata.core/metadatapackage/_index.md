@@ -6,6 +6,7 @@ type: docs
 weight: 158
 url: /java/com.groupdocs.metadata.core/metadatapackage/
 ---
+
 **Inheritance:**
 java.lang.Object
 

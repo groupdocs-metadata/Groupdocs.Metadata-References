@@ -6,6 +6,7 @@ type: docs
 weight: 58
 url: /java/com.groupdocs.metadata.core/cr2package/
 ---
+
 **Inheritance:**
 java.lang.Object, [com.groupdocs.metadata.core.MetadataPackage](../../com.groupdocs.metadata.core/metadatapackage), [com.groupdocs.metadata.core.CustomPackage](../../com.groupdocs.metadata.core/custompackage), [com.groupdocs.metadata.core.RawPackage](../../com.groupdocs.metadata.core/rawpackage)
 ```

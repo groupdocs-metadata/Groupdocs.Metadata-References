@@ -6,6 +6,7 @@ type: docs
 weight: 248
 url: /java/com.groupdocs.metadata.core/tiffrational/
 ---
+
 **Inheritance:**
 java.lang.Object
 

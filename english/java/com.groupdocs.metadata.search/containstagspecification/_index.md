@@ -6,6 +6,7 @@ type: docs
 weight: 12
 url: /java/com.groupdocs.metadata.search/containstagspecification/
 ---
+
 **Inheritance:**
 java.lang.Object, [com.groupdocs.metadata.search.Specification](../../com.groupdocs.metadata.search/specification)
 ```

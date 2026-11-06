@@ -6,6 +6,7 @@ type: docs
 weight: 25
 url: /java/com.groupdocs.metadata.core/aviheaderflags/
 ---
+
 **Inheritance:**
 java.lang.Object
 

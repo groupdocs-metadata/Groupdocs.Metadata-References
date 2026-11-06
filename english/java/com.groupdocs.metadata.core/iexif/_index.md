@@ -5,7 +5,8 @@ description: Defines base operations intended to work with EXIF metadata.
 type: docs
 weight: 357
 url: /java/com.groupdocs.metadata.core/iexif/
----```
+---
+```
 public interface IExif
 ```
 

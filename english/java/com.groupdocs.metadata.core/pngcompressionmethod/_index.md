@@ -6,6 +6,7 @@ type: docs
 weight: 396
 url: /java/com.groupdocs.metadata.core/pngcompressionmethod/
 ---
+
 **Inheritance:**
 java.lang.Object, java.lang.Enum
 

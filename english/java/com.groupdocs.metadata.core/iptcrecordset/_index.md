@@ -6,6 +6,7 @@ type: docs
 weight: 137
 url: /java/com.groupdocs.metadata.core/iptcrecordset/
 ---
+
 **Inheritance:**
 java.lang.Object, [com.groupdocs.metadata.core.MetadataPackage](../../com.groupdocs.metadata.core/metadatapackage), [com.groupdocs.metadata.core.CustomPackage](../../com.groupdocs.metadata.core/custompackage)
 ```

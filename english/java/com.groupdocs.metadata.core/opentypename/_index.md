@@ -6,6 +6,7 @@ type: docs
 weight: 388
 url: /java/com.groupdocs.metadata.core/opentypename/
 ---
+
 **Inheritance:**
 java.lang.Object, java.lang.Enum
 

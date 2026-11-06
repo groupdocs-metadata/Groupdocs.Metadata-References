@@ -6,6 +6,7 @@ type: docs
 weight: 258
 url: /java/com.groupdocs.metadata.core/tifftagid/
 ---
+
 **Inheritance:**
 java.lang.Object
 

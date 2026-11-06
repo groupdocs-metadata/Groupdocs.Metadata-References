@@ -5,7 +5,8 @@ description: Defines a method which releases the stream created by the passed IC
 type: docs
 weight: 13
 url: /java/com.groupdocs.metadata.options/ireleasepagestream/
----```
+---
+```
 public interface IReleasePageStream
 ```
 

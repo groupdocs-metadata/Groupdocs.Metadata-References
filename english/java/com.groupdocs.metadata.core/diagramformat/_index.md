@@ -6,6 +6,7 @@ type: docs
 weight: 366
 url: /java/com.groupdocs.metadata.core/diagramformat/
 ---
+
 **Inheritance:**
 java.lang.Object, java.lang.Enum
 

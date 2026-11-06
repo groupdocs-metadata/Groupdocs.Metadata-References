@@ -6,6 +6,7 @@ type: docs
 weight: 400
 url: /java/com.groupdocs.metadata.core/rawintegertype/
 ---
+
 **Inheritance:**
 java.lang.Object, java.lang.Enum
 ```

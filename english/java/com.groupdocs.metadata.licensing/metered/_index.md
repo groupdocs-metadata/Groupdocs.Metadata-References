@@ -6,6 +6,7 @@ type: docs
 weight: 11
 url: /java/com.groupdocs.metadata.licensing/metered/
 ---
+
 **Inheritance:**
 java.lang.Object
 ```

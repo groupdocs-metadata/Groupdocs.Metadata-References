@@ -5,7 +5,8 @@ description: Defines base operations intended to work with XMP metadata.
 type: docs
 weight: 360
 url: /java/com.groupdocs.metadata.core/ixmp/
----```
+---
+```
 public interface IXmp
 ```
 

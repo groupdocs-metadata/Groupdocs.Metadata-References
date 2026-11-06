@@ -6,6 +6,7 @@ type: docs
 weight: 297
 url: /java/com.groupdocs.metadata.core/xmpaudiochanneltype/
 ---
+
 **Inheritance:**
 java.lang.Object, com.groupdocs.metadata.core.XmpClosedChoice
 ```

@@ -6,6 +6,7 @@ type: docs
 weight: 381
 url: /java/com.groupdocs.metadata.core/mpegchannelmode/
 ---
+
 **Inheritance:**
 java.lang.Object, java.lang.Enum
 

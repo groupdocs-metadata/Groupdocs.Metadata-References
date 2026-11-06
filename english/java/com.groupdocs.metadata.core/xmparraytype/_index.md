@@ -6,6 +6,7 @@ type: docs
 weight: 406
 url: /java/com.groupdocs.metadata.core/xmparraytype/
 ---
+
 **Inheritance:**
 java.lang.Object, java.lang.Enum
 

@@ -6,6 +6,7 @@ type: docs
 weight: 367
 url: /java/com.groupdocs.metadata.core/exifgpsaltituderef/
 ---
+
 **Inheritance:**
 java.lang.Object, java.lang.Enum
 

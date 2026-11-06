@@ -6,6 +6,7 @@ type: docs
 weight: 340
 url: /java/com.groupdocs.metadata.core/xmpschemes/
 ---
+
 **Inheritance:**
 java.lang.Object
 ```

@@ -6,6 +6,7 @@ type: docs
 weight: 399
 url: /java/com.groupdocs.metadata.core/psdcompressionmethod/
 ---
+
 **Inheritance:**
 java.lang.Object, java.lang.Enum
 

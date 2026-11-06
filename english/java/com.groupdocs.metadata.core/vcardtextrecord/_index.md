@@ -6,6 +6,7 @@ type: docs
 weight: 282
 url: /java/com.groupdocs.metadata.core/vcardtextrecord/
 ---
+
 **Inheritance:**
 java.lang.Object, [com.groupdocs.metadata.core.MetadataPackage](../../com.groupdocs.metadata.core/metadatapackage), [com.groupdocs.metadata.core.CustomPackage](../../com.groupdocs.metadata.core/custompackage), [com.groupdocs.metadata.core.VCardBasePackage](../../com.groupdocs.metadata.core/vcardbasepackage), [com.groupdocs.metadata.core.VCardRecord](../../com.groupdocs.metadata.core/vcardrecord)
 

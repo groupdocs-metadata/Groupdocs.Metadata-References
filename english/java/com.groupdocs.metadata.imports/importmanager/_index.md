@@ -6,6 +6,7 @@ type: docs
 weight: 11
 url: /java/com.groupdocs.metadata.imports/importmanager/
 ---
+
 **Inheritance:**
 java.lang.Object
 ```

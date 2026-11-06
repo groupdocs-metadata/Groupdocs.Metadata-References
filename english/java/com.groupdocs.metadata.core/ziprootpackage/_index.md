@@ -6,6 +6,7 @@ type: docs
 weight: 352
 url: /java/com.groupdocs.metadata.core/ziprootpackage/
 ---
+
 **Inheritance:**
 java.lang.Object, [com.groupdocs.metadata.core.MetadataPackage](../../com.groupdocs.metadata.core/metadatapackage), [com.groupdocs.metadata.core.RootMetadataPackage](../../com.groupdocs.metadata.core/rootmetadatapackage)
 ```

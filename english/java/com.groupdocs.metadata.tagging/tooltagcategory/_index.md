@@ -6,6 +6,7 @@ type: docs
 weight: 21
 url: /java/com.groupdocs.metadata.tagging/tooltagcategory/
 ---
+
 **Inheritance:**
 java.lang.Object, [com.groupdocs.metadata.tagging.TagCategory](../../com.groupdocs.metadata.tagging/tagcategory)
 ```
@@ -31,6 +32,8 @@ Provides tags intended to mark metadata properties related to the tools (softwar
 | [getHardwareManufacturer()](#getHardwareManufacturer--) | Gets the tag that marks a hardware manufacturer.
  |
 | [getModelId()](#getModelId--) | Gets the tag that marks a model id.
+ |
+| [getCompression()](#getCompression--) | Gets the tag that marks a compression.
  |
 ### getSoftware() {#getSoftware--}
 ```
@@ -116,3 +119,15 @@ Gets the tag that marks a model id.
 **Returns:**
 [PropertyTag](../../com.groupdocs.metadata.tagging/propertytag) - The tag that marks a model id.
 
+### getCompression() {#getCompression--}
+```
+public final PropertyTag getCompression()
+```
+
+
+Gets the tag that marks a compression.
+Value: Gets the tag that marks a compression.
+
+
+**Returns:**
+[PropertyTag](../../com.groupdocs.metadata.tagging/propertytag)

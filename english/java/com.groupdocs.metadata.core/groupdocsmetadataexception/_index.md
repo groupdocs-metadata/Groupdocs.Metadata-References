@@ -6,6 +6,7 @@ type: docs
 weight: 107
 url: /java/com.groupdocs.metadata.core/groupdocsmetadataexception/
 ---
+
 **Inheritance:**
 java.lang.Object, java.lang.Throwable, java.lang.Exception, java.lang.RuntimeException, com.aspose.ms.System.Exception
 ```

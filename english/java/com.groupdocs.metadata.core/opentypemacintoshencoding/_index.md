@@ -6,6 +6,7 @@ type: docs
 weight: 386
 url: /java/com.groupdocs.metadata.core/opentypemacintoshencoding/
 ---
+
 **Inheritance:**
 java.lang.Object, java.lang.Enum
 

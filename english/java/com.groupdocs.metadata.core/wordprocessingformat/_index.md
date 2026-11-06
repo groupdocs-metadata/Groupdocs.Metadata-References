@@ -6,6 +6,7 @@ type: docs
 weight: 404
 url: /java/com.groupdocs.metadata.core/wordprocessingformat/
 ---
+
 **Inheritance:**
 java.lang.Object, java.lang.Enum
 

@@ -6,6 +6,7 @@ type: docs
 weight: 283
 url: /java/com.groupdocs.metadata.core/valueacceptor/
 ---
+
 **Inheritance:**
 java.lang.Object
 ```

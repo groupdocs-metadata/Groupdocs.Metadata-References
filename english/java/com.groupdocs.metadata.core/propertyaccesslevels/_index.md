@@ -6,6 +6,7 @@ type: docs
 weight: 205
 url: /java/com.groupdocs.metadata.core/propertyaccesslevels/
 ---
+
 **Inheritance:**
 java.lang.Object
 

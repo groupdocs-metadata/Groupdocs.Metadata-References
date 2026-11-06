@@ -6,6 +6,7 @@ type: docs
 weight: 10
 url: /java/com.groupdocs.metadata.imports/importformat/
 ---
+
 **Inheritance:**
 java.lang.Object
 ```

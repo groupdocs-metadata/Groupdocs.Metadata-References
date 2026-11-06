@@ -6,6 +6,7 @@ type: docs
 weight: 378
 url: /java/com.groupdocs.metadata.core/metadatapropertytype/
 ---
+
 **Inheritance:**
 java.lang.Object, java.lang.Enum
 

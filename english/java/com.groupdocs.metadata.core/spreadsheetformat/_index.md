@@ -6,6 +6,7 @@ type: docs
 weight: 401
 url: /java/com.groupdocs.metadata.core/spreadsheetformat/
 ---
+
 **Inheritance:**
 java.lang.Object, java.lang.Enum
 

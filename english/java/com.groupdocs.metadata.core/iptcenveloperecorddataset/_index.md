@@ -6,6 +6,7 @@ type: docs
 weight: 135
 url: /java/com.groupdocs.metadata.core/iptcenveloperecorddataset/
 ---
+
 **Inheritance:**
 java.lang.Object
 

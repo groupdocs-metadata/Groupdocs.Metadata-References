@@ -6,6 +6,7 @@ type: docs
 weight: 408
 url: /java/com.groupdocs.metadata.core/xmpcolorantcolormode/
 ---
+
 **Inheritance:**
 java.lang.Object, java.lang.Enum
 

@@ -6,6 +6,7 @@ type: docs
 weight: 120
 url: /java/com.groupdocs.metadata.core/id3v2tagframeflags/
 ---
+
 **Inheritance:**
 java.lang.Object
 

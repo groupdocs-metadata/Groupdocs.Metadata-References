@@ -6,6 +6,7 @@ type: docs
 weight: 131
 url: /java/com.groupdocs.metadata.core/invalidformatexception/
 ---
+
 **Inheritance:**
 java.lang.Object, java.lang.Throwable, java.lang.Exception, java.lang.RuntimeException, com.aspose.ms.System.Exception, [com.groupdocs.metadata.core.GroupDocsMetadataException](../../com.groupdocs.metadata.core/groupdocsmetadataexception)
 ```

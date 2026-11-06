@@ -6,6 +6,7 @@ type: docs
 weight: 224
 url: /java/com.groupdocs.metadata.core/rectangle/
 ---
+
 **Inheritance:**
 java.lang.Object, com.aspose.ms.System.ValueType, com.aspose.ms.lang.Struct
 ```
@@ -50,6 +51,7 @@ System.String
 | [CloneTo(Rectangle that)](#CloneTo-com.groupdocs.metadata.core.Rectangle-) |  |
 | [Clone()](#Clone--) |  |
 | [clone()](#clone--) |  |
+| [hashCode()](#hashCode--) |  |
 | [equals(Object obj)](#equals-java.lang.Object-) |  |
 | [equals(Rectangle obj1, Rectangle obj2)](#equals-com.groupdocs.metadata.core.Rectangle-com.groupdocs.metadata.core.Rectangle-) |  |
 ### Rectangle() {#Rectangle--}
@@ -225,6 +227,16 @@ public Object clone()
 
 **Returns:**
 java.lang.Object
+### hashCode() {#hashCode--}
+```
+public int hashCode()
+```
+
+
+
+
+**Returns:**
+int
 ### equals(Object obj) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object obj)

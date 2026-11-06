@@ -7,6 +7,7 @@ weight: 16
 url: /java/com.groupdocs.metadata.search/
 ---
 
+
 The **com.groupdocs.metadata.search** namespace contains base classes, utility classes and interfaces used across all formats and metadata standards.
 
 

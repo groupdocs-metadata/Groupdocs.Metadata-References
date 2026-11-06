@@ -6,6 +6,7 @@ type: docs
 weight: 385
 url: /java/com.groupdocs.metadata.core/opentypeisoencoding/
 ---
+
 **Inheritance:**
 java.lang.Object, java.lang.Enum
 

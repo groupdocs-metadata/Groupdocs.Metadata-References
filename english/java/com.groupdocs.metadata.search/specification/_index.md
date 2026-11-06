@@ -6,6 +6,7 @@ type: docs
 weight: 17
 url: /java/com.groupdocs.metadata.search/specification/
 ---
+
 **Inheritance:**
 java.lang.Object
 ```

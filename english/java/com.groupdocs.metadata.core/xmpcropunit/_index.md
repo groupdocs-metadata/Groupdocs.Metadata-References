@@ -6,6 +6,7 @@ type: docs
 weight: 409
 url: /java/com.groupdocs.metadata.core/xmpcropunit/
 ---
+
 **Inheritance:**
 java.lang.Object, java.lang.Enum
 

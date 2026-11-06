@@ -6,6 +6,7 @@ type: docs
 weight: 349
 url: /java/com.groupdocs.metadata.core/xmpwhitebalance/
 ---
+
 **Inheritance:**
 java.lang.Object, com.groupdocs.metadata.core.XmpClosedChoice
 ```
