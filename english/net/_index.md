@@ -6,7 +6,6 @@ url: /net/
 description: GroupDocs.Metadata for .NET API References contain examples, code snippets, and API documentation. It provides namespaces, classes, interfaces, and other API details.
 is_root: true
 version: "26.11"
-staged_at: "2026-11-13T08:55:08Z"
 ---
 
 ## Namespaces
